@@ -1,27 +1,34 @@
 # Facebook.Fetch
 
-用這個專案抓取指定的 Facebook 頁面連結，並把結果存到 `data/` 目錄。
+用這個專案抓取指定的 Facebook 頁面連結，並把新貼文存到 `data/` 目錄。
 
-## 執行方式
-
-```bash
-python3 fetch_facebook_posts.py 'https://www.facebook.com/dextermchang'
-```
-
-如果你想多抓幾篇：
+## 手動執行
 
 ```bash
-python3 fetch_facebook_posts.py 'https://www.facebook.com/dextermchang' --count 5
+python3 fetch_facebook_posts.py 'https://www.facebook.com/dextermchang' --count 20
 ```
 
-## 輸出內容
+## 增量抓取規則
 
-每次執行都會產生：
+腳本現在是增量模式：
 
-- `*.html`：Facebook 原始 HTML 回應
-- `*.json`：整理後的頁面資訊與貼文資料
-- `*_posts/`：每篇貼文各自一個 Markdown 檔
-- `*_posts/index.md`：貼文索引頁
+- 只檢查最新一批貼文（預設 20 篇）
+- 只新增新的 `post_id`
+- 已存在的貼文 Markdown 不會重寫
+- `index.md` 會更新成目前文章清單
+- `latest_fetch_summary.json` 會記錄這次有沒有抓到新貼文
+
+## 輸出結構
+
+目前會輸出到：
+
+- `data/大會計師 張明輝/`
+
+這個資料夾內包含：
+
+- `YYYY-MM-DD_貼文標題.md`：單篇貼文
+- `index.md`：文章索引
+- `latest_fetch_summary.json`：最近一次抓取摘要
 
 ## 單篇 Markdown 格式
 
@@ -39,16 +46,23 @@ python3 fetch_facebook_posts.py 'https://www.facebook.com/dextermchang' --count 
 
 後面直接接貼文正文，閱讀起來會比把所有貼文塞在同一個 Markdown 檔裡更像單篇文章。
 
-## 抓取策略
+## GitHub Actions
 
-腳本會依序嘗試：
+已新增每日排程 workflow：
 
-- 從公開頁面 HTML 擷取 `LSD`、`jazoest`、`userID`
-- 呼叫公開的 `ProfileCometTimelineFeedRefetchQuery`
-- 從 GraphQL 回應遞迴抽出 `post_id`、`permalink_url`、`creation_time`、`message`
-- 如果公開 GraphQL 失敗，再退回 HTML 解析
+- `.github/workflows/daily_fetch.yml`
+
+它會：
+
+- 每天自動執行抓取
+- 只在有新貼文時建立 git commit
+- 自動 push 到 `main`
+
+如果當天沒有新貼文，workflow 會結束，不會產生新 commit。
+
+注意：如果兩次排程之間新增的貼文數量超過 `--count`，較舊的那幾篇可能會漏掉；目前 workflow 預設檢查最新 20 篇。
 
 ## 說明
 
 Facebook 的公開頁面結構很常調整，所以這份腳本仍屬於 best-effort 抓取器。
-目前對 `https://www.facebook.com/dextermchang` 已可透過公開 GraphQL 抓到實際貼文內容，並輸出成一篇貼文一個 Markdown 檔。
+目前對 `https://www.facebook.com/dextermchang` 已可透過公開 GraphQL 抓到實際貼文內容，並以增量方式保存。

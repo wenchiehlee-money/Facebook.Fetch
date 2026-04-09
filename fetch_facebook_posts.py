@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch public Facebook page posts and save one Markdown file per post."""
+"""Fetch public Facebook page posts and save only new posts as Markdown files."""
 
 from __future__ import annotations
 
@@ -152,19 +152,9 @@ def compact_post_record(node: dict[str, Any]) -> dict[str, Any]:
     elif isinstance(message, str):
         record["message"] = message
 
-    story = node.get("story")
-    if isinstance(story, dict):
-        text_value = story.get("message") or story.get("text")
-        if isinstance(text_value, str):
-            record["story_text"] = text_value
-
     feedback = node.get("feedback")
-    if isinstance(feedback, dict):
-        if feedback.get("id"):
-            record.setdefault("feedback", {})["id"] = feedback.get("id")
-        if feedback.get("url"):
-            record.setdefault("feedback", {})["url"] = feedback.get("url")
-
+    if isinstance(feedback, dict) and feedback.get("id"):
+        record["feedback"] = {"id": feedback.get("id")}
     return record
 
 
@@ -347,21 +337,14 @@ def merge_post_urls(records: list[dict[str, Any]], html_urls: list[str]) -> list
     return sorted(urls)
 
 
-def slugify_text(value: str, limit: int = 80) -> str:
-    cleaned = re.sub(r"\s+", "-", value.strip())
-    cleaned = re.sub(r"[^A-Za-z0-9\u4e00-\u9fff_-]", "", cleaned)
-    cleaned = cleaned.strip("-_")
+def slugify_text(value: str, limit: int = 80, separator: str = "-") -> str:
+    cleaned = re.sub(r"\s+", separator, value.strip())
+    allowed = rf"[^A-Za-z0-9\u4e00-\u9fff_{re.escape(separator)}-]"
+    cleaned = re.sub(allowed, "", cleaned)
+    cleaned = cleaned.strip(f"{separator}-_")
     if not cleaned:
         return "post"
-    return cleaned[:limit].rstrip("-_")
-
-
-def slug_from_url(url: str) -> str:
-    parsed = parse.urlsplit(url)
-    path = parsed.path.strip("/")
-    if path:
-        return slugify_text(path.replace("/", "-"), limit=60)
-    return parsed.netloc.replace(".", "-")
+    return cleaned[:limit].rstrip(f"{separator}-_")
 
 
 def write_text(path: Path, content: str) -> None:
@@ -372,6 +355,26 @@ def write_text(path: Path, content: str) -> None:
 def write_json(path: Path, payload: dict[str, Any]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def format_timestamp(value: Any) -> str:
+    if isinstance(value, (int, float)):
+        return datetime.fromtimestamp(value, tz=timezone.utc).isoformat()
+    return str(value or "")
+
+
+def yaml_escape(value: Any) -> str:
+    text = str(value if value is not None else "")
+    text = text.replace("\\", "\\\\").replace('"', '\\"')
+    return f'"{text}"'
+
+
+def first_nonempty_line(text: str) -> str:
+    for line in text.splitlines():
+        stripped = line.strip()
+        if stripped:
+            return stripped
+    return "Facebook Post"
 
 
 def build_output_payload(url: str, result: FetchResult, count: int) -> dict[str, Any]:
@@ -386,7 +389,7 @@ def build_output_payload(url: str, result: FetchResult, count: int) -> dict[str,
         "Facebook 公開頁面的 HTML 結構很常變動。",
         "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
         "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-        "原始 HTML 與 JSON 會保留，方便後續調整解析規則。",
+        "只有新貼文才會新增 Markdown 檔，既有文章不會重寫。",
     ]
     if graphql_records:
         notes.insert(1, f"本次已成功用公開 GraphQL 擷取到 {len(graphql_records)} 篇貼文。")
@@ -412,30 +415,6 @@ def build_output_payload(url: str, result: FetchResult, count: int) -> dict[str,
     }
 
 
-def markdown_escape(text: str) -> str:
-    return text.replace("\\", "\\\\").replace("`", "\\`")
-
-
-def yaml_escape(value: Any) -> str:
-    text = str(value if value is not None else "")
-    text = text.replace("\\", "\\\\").replace('"', '\\"')
-    return f'"{text}"'
-
-
-def format_timestamp(value: Any) -> str:
-    if isinstance(value, (int, float)):
-        return datetime.fromtimestamp(value, tz=timezone.utc).isoformat()
-    return str(value or "")
-
-
-def first_nonempty_line(text: str) -> str:
-    for line in text.splitlines():
-        stripped = line.strip()
-        if stripped:
-            return stripped
-    return "Facebook Post"
-
-
 def build_post_markdown(record: dict[str, Any], payload: dict[str, Any]) -> str:
     page = payload.get("page", {})
     message = record.get("message") or record.get("story_text") or ""
@@ -457,63 +436,88 @@ def build_post_markdown(record: dict[str, Any], payload: dict[str, Any]) -> str:
         f"page_canonical_url: {yaml_escape(page.get('canonical_url') or '')}",
         "---",
         "",
+        f"# {title}",
+        "",
+        f"原文連結: {record.get('post_url') or ''}",
+        "",
     ]
-    lines = metadata_lines
-    lines.append(f"# {title}")
-    lines.append("")
-    lines.append(f"原文連結: {record.get('post_url') or ''}")
-    lines.append("")
-    if message:
-        lines.append(message.rstrip())
-        lines.append("")
-    else:
-        lines.append("這篇貼文沒有抓到正文。")
-        lines.append("")
-    return "\n".join(lines)
+    body = message.rstrip() if message else "這篇貼文沒有抓到正文。"
+    return "\n".join(metadata_lines) + body + "\n"
 
 
-def build_index_markdown(payload: dict[str, Any], posts_dir: Path, post_files: list[Path]) -> str:
+def build_index_markdown(payload: dict[str, Any], markdown_files: list[Path]) -> str:
     page = payload.get("page", {})
     lines = ["# Facebook 貼文索引", ""]
     lines.append(f"- 頁面: {page.get('title') or ''}")
     lines.append(f"- 抓取時間: {payload.get('fetched_at_utc') or ''}")
-    lines.append(f"- 貼文數量: {payload.get('post_record_count') or 0}")
+    lines.append(f"- 已收錄貼文數量: {len(markdown_files)}")
     lines.append("")
     lines.append("## 文章列表")
     lines.append("")
-    for path, record in zip(post_files, payload.get("post_records", []), strict=False):
-        title = first_nonempty_line(record.get("message") or record.get("story_text") or "Facebook Post")
+    for path in markdown_files:
+        title = path.stem.split("_", 1)[1] if "_" in path.stem else path.stem
         lines.append(f"- [{title}]({path.name})")
     lines.append("")
     return "\n".join(lines)
 
 
-def write_post_markdown_files(posts_dir: Path, payload: dict[str, Any]) -> list[str]:
+def collect_existing_post_ids(posts_dir: Path) -> set[str]:
+    existing: set[str] = set()
+    if not posts_dir.exists():
+        return existing
+    for path in posts_dir.glob("*.md"):
+        if path.name == "index.md":
+            continue
+        try:
+            text = path.read_text(encoding="utf-8")
+        except OSError:
+            continue
+        match = re.search(r"^post_id:\s*\"([^\"]+)\"", text, re.MULTILINE)
+        if match:
+            existing.add(match.group(1))
+    return existing
+
+
+def build_post_filename(record: dict[str, Any], index: int) -> str:
+    title = first_nonempty_line(record.get("message") or record.get("story_text") or "Facebook Post")
+    title_slug = slugify_text(title, limit=80)
+    created_date = format_timestamp(record.get("creation_time"))[:10]
+    if not created_date or created_date == "":
+        created_date = f"post-{index:03d}"
+    return f"{created_date}_{title_slug}.md"
+
+
+def write_post_markdown_files(posts_dir: Path, payload: dict[str, Any]) -> tuple[list[str], list[str]]:
     posts_dir.mkdir(parents=True, exist_ok=True)
-    saved_paths: list[str] = []
-    post_files: list[Path] = []
+    existing_post_ids = collect_existing_post_ids(posts_dir)
+    new_paths: list[str] = []
+    new_ids: list[str] = []
 
     for index, record in enumerate(payload.get("post_records", []), start=1):
-        title = first_nonempty_line(record.get("message") or record.get("story_text") or "Facebook Post")
-        title_slug = slugify_text(title, limit=50)
-        post_id = slugify_text(str(record.get("post_id") or f"post-{index}"), limit=30)
-        filename = f"{index:03d}_{post_id}_{title_slug}.md"
+        post_id = str(record.get("post_id") or "")
+        if post_id and post_id in existing_post_ids:
+            continue
+        filename = build_post_filename(record, index)
         path = posts_dir / filename
+        if path.exists():
+            suffix = str(record.get("post_id") or index)
+            path = posts_dir / f"{path.stem}_{suffix}.md"
         write_text(path, build_post_markdown(record, payload))
-        post_files.append(path)
-        saved_paths.append(str(path))
+        new_paths.append(str(path))
+        if post_id:
+            new_ids.append(post_id)
+            existing_post_ids.add(post_id)
 
-    index_path = posts_dir / "index.md"
-    write_text(index_path, build_index_markdown(payload, posts_dir, post_files))
-    saved_paths.insert(0, str(index_path))
-    return saved_paths
+    markdown_files = sorted(path for path in posts_dir.glob("*.md") if path.name != "index.md")
+    write_text(posts_dir / "index.md", build_index_markdown(payload, markdown_files))
+    return new_paths, new_ids
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="抓取 Facebook 頁面並把結果存到 ./data")
+    parser = argparse.ArgumentParser(description="抓取 Facebook 頁面並把新貼文存到 ./data")
     parser.add_argument("url", help="Facebook 頁面網址，例如 https://www.facebook.com/dextermchang")
     parser.add_argument("--data-dir", default="data", help="輸出目錄，預設為 ./data")
-    parser.add_argument("--count", type=int, default=5, help="嘗試抓取的貼文數量，預設 5")
+    parser.add_argument("--count", type=int, default=20, help="每次檢查的最新貼文數量，預設 20")
     parser.add_argument(
         "--cookie",
         default=None,
@@ -535,24 +539,30 @@ def main() -> int:
         print(f"Network error: {exc.reason}", file=sys.stderr)
         return 1
 
-    stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
-    slug = slug_from_url(args.url)
-    html_path = data_dir / f"{slug}_{stamp}.html"
-    json_path = data_dir / f"{slug}_{stamp}.json"
-    posts_dir = data_dir / f"{slug}_{stamp}_posts"
-
-    write_text(html_path, result.html_text)
     payload = build_output_payload(args.url, result, args.count)
-    payload["html_snapshot_path"] = str(html_path)
-    payload["posts_directory"] = str(posts_dir)
-    payload["markdown_files"] = write_post_markdown_files(posts_dir, payload)
-    write_json(json_path, payload)
+    page_title = payload.get("page", {}).get("title") or parse.urlsplit(args.url).path.strip("/") or "Facebook Page"
+    posts_dir = data_dir / slugify_text(page_title, limit=120, separator=" ")
+    new_markdown_files, new_post_ids = write_post_markdown_files(posts_dir, payload)
 
-    print(f"已儲存 HTML: {html_path}")
-    print(f"已儲存 JSON: {json_path}")
-    print(f"已儲存貼文 Markdown 目錄: {posts_dir}")
-    print(f"找到貼文網址數量: {payload['post_url_count']}")
-    print(f"找到貼文樣式紀錄數量: {payload['post_record_count']}")
+    summary = {
+        "requested_url": payload["requested_url"],
+        "final_url": payload["final_url"],
+        "fetched_at_utc": payload["fetched_at_utc"],
+        "page": payload["page"],
+        "checked_post_count": payload["post_record_count"],
+        "new_post_count": len(new_post_ids),
+        "new_post_ids": new_post_ids,
+        "new_markdown_files": new_markdown_files,
+        "posts_directory": str(posts_dir),
+        "notes": payload["notes"],
+    }
+    write_json(posts_dir / "latest_fetch_summary.json", summary)
+
+    print(f"貼文目錄: {posts_dir}")
+    print(f"本次檢查貼文數量: {payload['post_record_count']}")
+    print(f"本次新增貼文數量: {len(new_post_ids)}")
+    for path in new_markdown_files:
+        print(f"新增 Markdown: {path}")
     return 0
 
 

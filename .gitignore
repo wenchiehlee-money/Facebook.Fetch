@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+fb_timeline_debug.json
+
+data/dextermchang_*.html
+data/dextermchang_*.json
+data/dextermchang_*.md
+
+data/.gitkeep
