@@ -554,13 +554,17 @@ def update_readme(posts_dir: Path, payload: dict[str, Any]) -> None:
     replacement = f"{start_marker}\n{generated}\n{end_marker}"
 
     pattern = re.compile(rf"{re.escape(start_marker)}.*?{re.escape(end_marker)}", re.DOTALL)
-    if pattern.search(text):
-        text = pattern.sub(replacement, text)
+    text = pattern.sub("", text).strip()
+
+    parts = text.split("\n\n", 2)
+    if len(parts) >= 2:
+        text = parts[0] + "\n\n" + parts[1] + "\n\n" + replacement
+        if len(parts) == 3:
+            text += "\n\n" + parts[2]
     else:
-        text = text.rstrip() + "\n\n" + replacement + "\n"
+        text = replacement + "\n\n" + text
 
-    readme_path.write_text(text, encoding="utf-8")
-
+    readme_path.write_text(text.rstrip() + "\n", encoding="utf-8")
 
 def collect_existing_post_ids(posts_dir: Path) -> set[str]:
     existing: set[str] = set()
