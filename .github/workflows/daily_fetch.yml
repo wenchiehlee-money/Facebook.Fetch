@@ -24,14 +24,25 @@ jobs:
         run: |
           python3 fetch_facebook_posts.py 'https://www.facebook.com/dextermchang' --count 20
 
+      - name: Detect new posts
+        id: detect
+        run: |
+          python3 - <<'PY2'
+import json
+from pathlib import Path
+summary_path = Path('data/大會計師 張明輝/latest_fetch_summary.json')
+summary = json.loads(summary_path.read_text(encoding='utf-8'))
+with open(Path.cwd() / '.github_output_tmp', 'w', encoding='utf-8') as fh:
+    fh.write(f"new_post_count={summary.get('new_post_count', 0)}\n")
+PY2
+          cat .github_output_tmp >> "$GITHUB_OUTPUT"
+          rm .github_output_tmp
+
       - name: Commit new posts
+        if: steps.detect.outputs.new_post_count != '0'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add 'data/大會計師 張明輝' .github/workflows/daily_fetch.yml fetch_facebook_posts.py README.md
-          if git diff --cached --quiet; then
-            echo 'No new posts.'
-            exit 0
-          fi
+          git add 'data/大會計師 張明輝' .github/workflows/daily_fetch.yml fetch_facebook_posts.py README.md .gitignore
           git commit -m 'Daily fetch: add new Facebook posts'
           git push origin HEAD:main

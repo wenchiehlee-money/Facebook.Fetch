@@ -9,7 +9,7 @@ import json
 import re
 import sys
 from dataclasses import dataclass
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from html.parser import HTMLParser
 from pathlib import Path
 from typing import Any
@@ -461,6 +461,107 @@ def build_index_markdown(payload: dict[str, Any], markdown_files: list[Path]) ->
     return "\n".join(lines)
 
 
+def parse_markdown_metadata(path: Path) -> dict[str, str]:
+    try:
+        text = path.read_text(encoding="utf-8")
+    except OSError:
+        return {}
+    if not text.startswith("---\n"):
+        return {}
+
+    metadata: dict[str, str] = {}
+    lines = text.splitlines()
+    for line in lines[1:]:
+        if line == "---":
+            break
+        if ":" not in line:
+            continue
+        key, value = line.split(":", 1)
+        metadata[key.strip()] = value.strip().strip('"')
+    return metadata
+
+
+def extract_created_date(metadata: dict[str, str], path: Path) -> str:
+    creation = metadata.get("creation_time_utc", "")
+    if creation:
+        return creation[:10]
+    if "_" in path.stem:
+        return path.stem.split("_", 1)[0]
+    return ""
+
+
+def build_readme_post_line(posts_dir: Path, path: Path) -> str:
+    metadata = parse_markdown_metadata(path)
+    title = metadata.get("title") or (path.stem.split("_", 1)[1] if "_" in path.stem else path.stem)
+    created_date = extract_created_date(metadata, path)
+    relative_path = path.relative_to(posts_dir.parent).as_posix()
+    if created_date:
+        return f"- `{created_date}` [{title}]({relative_path})"
+    return f"- [{title}]({relative_path})"
+
+
+def build_readme_generated_section(posts_dir: Path, payload: dict[str, Any]) -> str:
+    markdown_files = sorted(path for path in posts_dir.glob("*.md") if path.name != "index.md")
+    today = datetime.now(timezone.utc).date()
+    cst = timezone(timedelta(hours=8), name="CST")
+    updated_display = datetime.now(cst).strftime("%Y-%m-%d %H:%M CST")
+    recent_lines: list[str] = []
+    all_lines: list[str] = []
+
+    for path in reversed(markdown_files):
+        line = build_readme_post_line(posts_dir, path)
+        all_lines.append(line)
+
+        metadata = parse_markdown_metadata(path)
+        created_date = extract_created_date(metadata, path)
+        if created_date:
+            try:
+                post_date = datetime.strptime(created_date, "%Y-%m-%d").date()
+            except ValueError:
+                continue
+            if 0 <= (today - post_date).days <= 6:
+                recent_lines.append(line)
+
+    page_title = payload.get("page", {}).get("title") or posts_dir.name
+    lines = [
+        "## 自動更新清單",
+        "",
+        f"- 資料夾: `{posts_dir.as_posix()}`",
+        f"- 頁面名稱: `{page_title}`",
+        f"- Updated: {updated_display}",
+        f"- 已收錄貼文數量: `{len(markdown_files)}`",
+        "",
+        "### 全部貼文",
+        "",
+    ]
+    lines.extend(all_lines or ["- 目前沒有貼文"]) 
+    lines.extend(["", "### 最近 7 天貼文", ""])
+    lines.extend(recent_lines or ["- 最近 7 天沒有新貼文"]) 
+    lines.append("")
+    return "\n".join(lines)
+
+
+def update_readme(posts_dir: Path, payload: dict[str, Any]) -> None:
+    readme_path = Path("README.md")
+    try:
+        text = readme_path.read_text(encoding="utf-8")
+    except OSError:
+        return
+
+    start_marker = "<!-- AUTO-GENERATED:POSTS START -->"
+    end_marker = "<!-- AUTO-GENERATED:POSTS END -->"
+    generated = build_readme_generated_section(posts_dir, payload)
+    replacement = f"{start_marker}\n{generated}\n{end_marker}"
+
+    pattern = re.compile(rf"{re.escape(start_marker)}.*?{re.escape(end_marker)}", re.DOTALL)
+    if pattern.search(text):
+        text = pattern.sub(replacement, text)
+    else:
+        text = text.rstrip() + "\n\n" + replacement + "\n"
+
+    readme_path.write_text(text, encoding="utf-8")
+
+
 def collect_existing_post_ids(posts_dir: Path) -> set[str]:
     existing: set[str] = set()
     if not posts_dir.exists():
@@ -557,6 +658,7 @@ def main() -> int:
         "notes": payload["notes"],
     }
     write_json(posts_dir / "latest_fetch_summary.json", summary)
+    update_readme(posts_dir, payload)
 
     print(f"貼文目錄: {posts_dir}")
     print(f"本次檢查貼文數量: {payload['post_record_count']}")
