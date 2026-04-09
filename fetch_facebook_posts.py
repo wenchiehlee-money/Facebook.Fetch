@@ -494,7 +494,7 @@ def build_readme_post_line(posts_dir: Path, path: Path) -> str:
     metadata = parse_markdown_metadata(path)
     title = metadata.get("title") or (path.stem.split("_", 1)[1] if "_" in path.stem else path.stem)
     created_date = extract_created_date(metadata, path)
-    relative_path = path.as_posix()
+    relative_path = parse.quote(path.as_posix(), safe="/")
     if created_date:
         return f"- `{created_date}` [{title}]({relative_path})"
     return f"- [{title}]({relative_path})"
