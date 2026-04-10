@@ -295,12 +295,20 @@ def build_graphql_post_record(node: dict[str, Any]) -> dict[str, Any] | None:
     if isinstance(feedback, dict) and feedback.get("id"):
         record["feedback"] = {"id": feedback.get("id")}
     if attachments:
-        media = (((attachments[0] or {}).get("styles") or {}).get("attachment") or {}).get("media")
-        attachment_url = (((attachments[0] or {}).get("styles") or {}).get("attachment") or {}).get("url")
+        attachment = ((attachments[0] or {}).get("styles") or {}).get("attachment") or {}
+        media = attachment.get("media")
+        attachment_url = attachment.get("url")
         if attachment_url:
             record["attachment_url"] = normalize_post_url(attachment_url)
         if isinstance(media, dict) and media.get("__typename"):
             record["attachment_type"] = media.get("__typename")
+            thumbnail = media.get("thumbnailImage") or {}
+            if isinstance(thumbnail, dict) and thumbnail.get("uri"):
+                record["image_url"] = thumbnail.get("uri")
+            elif media.get("image") and isinstance(media.get("image"), dict) and media["image"].get("uri"):
+                record["image_url"] = media["image"].get("uri")
+            elif media.get("previewImage") and isinstance(media.get("previewImage"), dict) and media["previewImage"].get("uri"):
+                record["image_url"] = media["previewImage"].get("uri")
     return record
 
 
@@ -432,6 +440,7 @@ def build_post_markdown(record: dict[str, Any], payload: dict[str, Any]) -> str:
         f"source: {yaml_escape(record.get('source') or '')}",
         f"attachment_type: {yaml_escape(record.get('attachment_type') or '')}",
         f"attachment_url: {yaml_escape(record.get('attachment_url') or '')}",
+        f"image_url: {yaml_escape(record.get('image_url') or '')}",
         f"feedback_id: {yaml_escape(((record.get('feedback') or {}).get('id')))}",
         f"page_canonical_url: {yaml_escape(page.get('canonical_url') or '')}",
         "---",
