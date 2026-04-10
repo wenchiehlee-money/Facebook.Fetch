@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/MarketingDataScienceTMR"
 final_url: "https://www.facebook.com/MarketingDataScienceTMR"
 post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0265JZwU3eKs2xK4sTVD3XJDmVqurRu1mxy9fuRaxQ1vxMWBhT9HLtcbASUbAR35Gql"
 creation_time_utc: "2025-11-21T12:00:12+00:00"
-fetched_at_utc: "2026-04-10T07:46:30.348046+00:00"
+fetched_at_utc: "2026-04-10T12:07:01.712102+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/587242039_1147225030854474_2558770478346510137_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_ohc=ZXBaeiRhOmwQ7kNvwEh-sOB&_nc_oc=Adow2AoBIILQi2lt-Oz8gbFajxXLIA82umwAiH4wXGJCOorHZk5MKeJuG5nUGV0Szjw&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=gEwFVklhFYAhWl0jPHJbGQ&_nc_ss=7a389&oh=00_Af04ZcSLY6RITUt72W65WOy5juJYcv7W2HzQ-MfQPtlCLg&oe=69DE904A"
+image_url: "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/587242039_1147225030854474_2558770478346510137_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_ohc=ZXBaeiRhOmwQ7kNvwEh-sOB&_nc_oc=Adow2AoBIILQi2lt-Oz8gbFajxXLIA82umwAiH4wXGJCOorHZk5MKeJuG5nUGV0Szjw&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=4ebJsCiVbadUhp-JAcHvhA&_nc_ss=7a389&oh=00_Af3RxVXDVMHN2R9V-Fw5XX6Kh2Kl3UVrn6hxzZaogDaaJQ&oe=69DEC88A"
 feedback_id: "ZmVlZGJhY2s6MTE0NzIyNzc5NDE4NzUzMQ=="
 page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 ---
@@ -19,7 +19,7 @@ page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 
 原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0265JZwU3eKs2xK4sTVD3XJDmVqurRu1mxy9fuRaxQ1vxMWBhT9HLtcbASUbAR35Gql
 
-![【探尋顧客內心最真實的意圖- #關鍵字搜尋 🔎 分析（Keyword Search Analytics）​】](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/587242039_1147225030854474_2558770478346510137_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_ohc=ZXBaeiRhOmwQ7kNvwEh-sOB&_nc_oc=Adow2AoBIILQi2lt-Oz8gbFajxXLIA82umwAiH4wXGJCOorHZk5MKeJuG5nUGV0Szjw&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=gEwFVklhFYAhWl0jPHJbGQ&_nc_ss=7a389&oh=00_Af04ZcSLY6RITUt72W65WOy5juJYcv7W2HzQ-MfQPtlCLg&oe=69DE904A)
+![【探尋顧客內心最真實的意圖- #關鍵字搜尋 🔎 分析（Keyword Search Analytics）​】](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/587242039_1147225030854474_2558770478346510137_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_ohc=ZXBaeiRhOmwQ7kNvwEh-sOB&_nc_oc=Adow2AoBIILQi2lt-Oz8gbFajxXLIA82umwAiH4wXGJCOorHZk5MKeJuG5nUGV0Szjw&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=4ebJsCiVbadUhp-JAcHvhA&_nc_ss=7a389&oh=00_Af3RxVXDVMHN2R9V-Fw5XX6Kh2Kl3UVrn6hxzZaogDaaJQ&oe=69DEC88A)
 【探尋顧客內心最真實的意圖- #關鍵字搜尋 🔎 分析（Keyword Search Analytics）​】
 以市場區隔與機器學習篩選有價值的顧客？找出成功關鍵因素?
 

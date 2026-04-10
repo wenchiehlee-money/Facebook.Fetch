@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/MarketingDataScienceTMR"
 final_url: "https://www.facebook.com/MarketingDataScienceTMR"
 post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid02xaD7NpHNGXB8DEwVSjPxGMt1JFSe2URiTiCGcrvQuuf7nidEoTeJ6R4WybBve32Fl"
 creation_time_utc: "2025-11-04T12:00:00+00:00"
-fetched_at_utc: "2026-04-10T07:46:30.348046+00:00"
+fetched_at_utc: "2026-04-10T12:07:01.712102+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/573273632_1130007045909606_4959312456908513629_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=GdzBsjEfqTYQ7kNvwGwHAF_&_nc_oc=AdolQPouNZsW_7gVNEZ82QdArq5aV6S1QmSmo3uI3groSciwq5gUgY62EoS9lxwnyQ4&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=a4k_7m0-O4xEr20-eD4wpQ&_nc_ss=7a389&oh=00_Af28IF5wctBx4fbHlw51kbNLNg0AoVTNujtg4AM9qG0ANQ&oe=69DE98DF"
+image_url: "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/573273632_1130007045909606_4959312456908513629_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=GdzBsjEfqTYQ7kNvwGwHAF_&_nc_oc=AdolQPouNZsW_7gVNEZ82QdArq5aV6S1QmSmo3uI3groSciwq5gUgY62EoS9lxwnyQ4&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=_kLM68h0E8ln5MtogkkYzw&_nc_ss=7a389&oh=00_Af0fLaToa_TEG7eQoeuzx56fDQ7lhGrlXJCePy85pj-Clw&oe=69DED11F"
 feedback_id: "ZmVlZGJhY2s6MTEzMDAwODc3NTkwOTQzMw=="
 page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 ---
@@ -19,7 +19,7 @@ page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 
 原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid02xaD7NpHNGXB8DEwVSjPxGMt1JFSe2URiTiCGcrvQuuf7nidEoTeJ6R4WybBve32Fl
 
-![【從自動化到行動化：代理型 AI （Agentic AI）時代的工作流程重構】](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/573273632_1130007045909606_4959312456908513629_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=GdzBsjEfqTYQ7kNvwGwHAF_&_nc_oc=AdolQPouNZsW_7gVNEZ82QdArq5aV6S1QmSmo3uI3groSciwq5gUgY62EoS9lxwnyQ4&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=a4k_7m0-O4xEr20-eD4wpQ&_nc_ss=7a389&oh=00_Af28IF5wctBx4fbHlw51kbNLNg0AoVTNujtg4AM9qG0ANQ&oe=69DE98DF)
+![【從自動化到行動化：代理型 AI （Agentic AI）時代的工作流程重構】](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/573273632_1130007045909606_4959312456908513629_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=GdzBsjEfqTYQ7kNvwGwHAF_&_nc_oc=AdolQPouNZsW_7gVNEZ82QdArq5aV6S1QmSmo3uI3groSciwq5gUgY62EoS9lxwnyQ4&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=_kLM68h0E8ln5MtogkkYzw&_nc_ss=7a389&oh=00_Af0fLaToa_TEG7eQoeuzx56fDQ7lhGrlXJCePy85pj-Clw&oe=69DED11F)
 【從自動化到行動化：代理型 AI （Agentic AI）時代的工作流程重構】
 在 #麥肯錫公司（McKinsey & Company）的報告〈代理型人工智慧的一年：來自實踐者的六大教訓〉（One Year of Agentic AI: Six Lessons from the People Doing the Work）中，有一張名為「複雜工作流程應為每項任務選擇最合適的工具」（Complex workflows should incorporate the best tool for each task）的圖，生動描繪了人工智慧技術在企業運作中的分工層級。
 

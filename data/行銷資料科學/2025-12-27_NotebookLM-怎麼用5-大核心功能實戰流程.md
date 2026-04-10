@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/MarketingDataScienceTMR"
 final_url: "https://www.facebook.com/MarketingDataScienceTMR"
 post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid02PLYPVXTRcqjkCYY7qcrdH3pW3uEV3S7fJgHPZnt6YxiMBWye5Z96PaQdyeDZEK1Gl"
 creation_time_utc: "2025-12-27T12:00:05+00:00"
-fetched_at_utc: "2026-04-10T07:46:30.348046+00:00"
+fetched_at_utc: "2026-04-10T12:07:01.712102+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent.ftpe8-3.fna.fbcdn.net/v/t39.30808-6/603870784_1170697491840561_5968472553149961031_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=az1GyS3LNHkQ7kNvwGABudK&_nc_oc=AdrahHjLWYHs6yj-Q92qCzEOCiOR5Z60_oEddhONVMZL7eHduX015FqX3A5y28imMl0&_nc_zt=23&_nc_ht=scontent.ftpe8-3.fna&_nc_gid=VVTUatAtJRxecyMUDfoF2w&_nc_ss=7a389&oh=00_Af1TooDJfvOtc0kqyRZba_uDlYCjqpPqRwsvDZUfZPBUsQ&oe=69DE7817"
+image_url: "https://scontent.ftpe8-3.fna.fbcdn.net/v/t39.30808-6/603870784_1170697491840561_5968472553149961031_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=az1GyS3LNHkQ7kNvwGABudK&_nc_oc=AdrahHjLWYHs6yj-Q92qCzEOCiOR5Z60_oEddhONVMZL7eHduX015FqX3A5y28imMl0&_nc_zt=23&_nc_ht=scontent.ftpe8-3.fna&_nc_gid=tthc1vpJyauCjWT_JrcKYQ&_nc_ss=7a389&oh=00_Af27kz8PBJYya7e4WEKc9xhrrdvxbBZpgl4vhVGt7W28KA&oe=69DEB057"
 feedback_id: "ZmVlZGJhY2s6MTE3Mjg4OTM0NDk1NDcwOQ=="
 page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 ---
@@ -19,7 +19,7 @@ page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 
 原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid02PLYPVXTRcqjkCYY7qcrdH3pW3uEV3S7fJgHPZnt6YxiMBWye5Z96PaQdyeDZEK1Gl
 
-![【#NotebookLM 怎麼用？5 大核心功能＋實戰流程】](https://scontent.ftpe8-3.fna.fbcdn.net/v/t39.30808-6/603870784_1170697491840561_5968472553149961031_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=az1GyS3LNHkQ7kNvwGABudK&_nc_oc=AdrahHjLWYHs6yj-Q92qCzEOCiOR5Z60_oEddhONVMZL7eHduX015FqX3A5y28imMl0&_nc_zt=23&_nc_ht=scontent.ftpe8-3.fna&_nc_gid=VVTUatAtJRxecyMUDfoF2w&_nc_ss=7a389&oh=00_Af1TooDJfvOtc0kqyRZba_uDlYCjqpPqRwsvDZUfZPBUsQ&oe=69DE7817)
+![【#NotebookLM 怎麼用？5 大核心功能＋實戰流程】](https://scontent.ftpe8-3.fna.fbcdn.net/v/t39.30808-6/603870784_1170697491840561_5968472553149961031_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=az1GyS3LNHkQ7kNvwGABudK&_nc_oc=AdrahHjLWYHs6yj-Q92qCzEOCiOR5Z60_oEddhONVMZL7eHduX015FqX3A5y28imMl0&_nc_zt=23&_nc_ht=scontent.ftpe8-3.fna&_nc_gid=tthc1vpJyauCjWT_JrcKYQ&_nc_ss=7a389&oh=00_Af27kz8PBJYya7e4WEKc9xhrrdvxbBZpgl4vhVGt7W28KA&oe=69DEB057)
 【#NotebookLM 怎麼用？5 大核心功能＋實戰流程】
 
 在資訊爆炸的時代 💥，我們每個人都面臨著「資料過載」的困境，您是否時常遇到以下狀況：

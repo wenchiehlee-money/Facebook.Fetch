@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/MarketingDataScienceTMR"
 final_url: "https://www.facebook.com/MarketingDataScienceTMR"
 post_url: "https://www.facebook.com/MarketingDataScienceTMR/videos/880459424965338/"
 creation_time_utc: "2026-03-19T12:00:29+00:00"
-fetched_at_utc: "2026-04-10T07:46:30.348046+00:00"
+fetched_at_utc: "2026-04-10T12:07:01.712102+00:00"
 source: "public_graphql"
 attachment_type: "Video"
 attachment_url: "https://www.facebook.com/MarketingDataScienceTMR/videos/880459424965338/"
-image_url: "https://scontent.ftpe8-1.fna.fbcdn.net/v/t15.5256-10/652200098_2310182049392509_2330381379389497775_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=032300&_nc_ohc=bNLqDyUG-c8Q7kNvwFGxCIf&_nc_oc=Adqa7ZuYpxFDUdIaO6k5Z-WPA9POIb7xXsmU2CZ6kWbUELGKwpC1ZukrpRLSINz_yFA&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=6NeIhO_z3kdfNBBvgffYCw&_nc_ss=7a389&oh=00_Af2tVPCvycOHO7YrTaafObt_cHezydLNLuvKLBsC3msdQA&oe=69DE6791"
+image_url: "https://scontent.ftpe8-1.fna.fbcdn.net/v/t15.5256-10/652200098_2310182049392509_2330381379389497775_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=032300&_nc_ohc=bNLqDyUG-c8Q7kNvwFGxCIf&_nc_oc=Adqa7ZuYpxFDUdIaO6k5Z-WPA9POIb7xXsmU2CZ6kWbUELGKwpC1ZukrpRLSINz_yFA&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=hJc7PNUK3PUNEMStW1zmiw&_nc_ss=7a389&oh=00_Af3IBGbC37tip1tGZTZZOcMepIaSS_s68DE88Zj_-bwj1w&oe=69DE9FD1"
 feedback_id: "ZmVlZGJhY2s6ODgwNDU5NDI0OTY1MzM4"
 page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 ---
@@ -19,7 +19,7 @@ page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 
 原文連結: https://www.facebook.com/MarketingDataScienceTMR/videos/880459424965338/
 
-![你是不是也常聽到大家在聊 AI Agent、AI 代理人、自動化工作流，](https://scontent.ftpe8-1.fna.fbcdn.net/v/t15.5256-10/652200098_2310182049392509_2330381379389497775_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=032300&_nc_ohc=bNLqDyUG-c8Q7kNvwFGxCIf&_nc_oc=Adqa7ZuYpxFDUdIaO6k5Z-WPA9POIb7xXsmU2CZ6kWbUELGKwpC1ZukrpRLSINz_yFA&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=6NeIhO_z3kdfNBBvgffYCw&_nc_ss=7a389&oh=00_Af2tVPCvycOHO7YrTaafObt_cHezydLNLuvKLBsC3msdQA&oe=69DE6791)
+![你是不是也常聽到大家在聊 AI Agent、AI 代理人、自動化工作流，](https://scontent.ftpe8-1.fna.fbcdn.net/v/t15.5256-10/652200098_2310182049392509_2330381379389497775_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=032300&_nc_ohc=bNLqDyUG-c8Q7kNvwFGxCIf&_nc_oc=Adqa7ZuYpxFDUdIaO6k5Z-WPA9POIb7xXsmU2CZ6kWbUELGKwpC1ZukrpRLSINz_yFA&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=hJc7PNUK3PUNEMStW1zmiw&_nc_ss=7a389&oh=00_Af3IBGbC37tip1tGZTZZOcMepIaSS_s68DE88Zj_-bwj1w&oe=69DE9FD1)
 你是不是也常聽到大家在聊 AI Agent、AI 代理人、自動化工作流，
  卻還是不太確定：
 

@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/MarketingDataScienceTMR"
 final_url: "https://www.facebook.com/MarketingDataScienceTMR"
 post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/924367876989643:924367876989643"
 creation_time_utc: "2026-03-23T10:28:56+00:00"
-fetched_at_utc: "2026-04-10T07:46:30.348046+00:00"
+fetched_at_utc: "2026-04-10T12:07:01.712102+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/655160508_1239176601659316_6379130968209956035_n.png?stp=dst-png_p180x540&_nc_cat=108&ccb=1-7&_nc_sid=2a1932&_nc_ohc=E_eTpWz-uxoQ7kNvwFnNeKC&_nc_oc=AdoiUMcx4kLhhjYuvQ63hBcXotSQdaLqF4fdA_uVt3D9gQr65fSquBSk2XCwfxPpj14&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=bfDqLjzwVVEQXUaa0YIUEw&_nc_ss=7a389&oh=00_Af3C2wChuDnyD7WwpiP3Uy1o_dbKxMDbVQ0iozsJC0-rnA&oe=69DE69B0"
+image_url: "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/655160508_1239176601659316_6379130968209956035_n.png?stp=dst-png_p180x540&_nc_cat=108&ccb=1-7&_nc_sid=2a1932&_nc_ohc=E_eTpWz-uxoQ7kNvwFnNeKC&_nc_oc=AdoiUMcx4kLhhjYuvQ63hBcXotSQdaLqF4fdA_uVt3D9gQr65fSquBSk2XCwfxPpj14&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=q33R8Ori0mRsnJEQVEpPqg&_nc_ss=7a389&oh=00_Af2xpVbTIfkbEu6zbmSD50dbpEvPQT-Pf12BirXwWu17UA&oe=69DEA1F0"
 feedback_id: "ZmVlZGJhY2s6MTIzOTE3NjU5NDk5MjY1MA=="
 page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 ---
@@ -19,7 +19,7 @@ page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 
 原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/924367876989643:924367876989643
 
-![【👋 數據分析的下一波浪潮：Vibe Coding 學習圈正式啟動！】](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/655160508_1239176601659316_6379130968209956035_n.png?stp=dst-png_p180x540&_nc_cat=108&ccb=1-7&_nc_sid=2a1932&_nc_ohc=E_eTpWz-uxoQ7kNvwFnNeKC&_nc_oc=AdoiUMcx4kLhhjYuvQ63hBcXotSQdaLqF4fdA_uVt3D9gQr65fSquBSk2XCwfxPpj14&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=bfDqLjzwVVEQXUaa0YIUEw&_nc_ss=7a389&oh=00_Af3C2wChuDnyD7WwpiP3Uy1o_dbKxMDbVQ0iozsJC0-rnA&oe=69DE69B0)
+![【👋 數據分析的下一波浪潮：Vibe Coding 學習圈正式啟動！】](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/655160508_1239176601659316_6379130968209956035_n.png?stp=dst-png_p180x540&_nc_cat=108&ccb=1-7&_nc_sid=2a1932&_nc_ohc=E_eTpWz-uxoQ7kNvwFnNeKC&_nc_oc=AdoiUMcx4kLhhjYuvQ63hBcXotSQdaLqF4fdA_uVt3D9gQr65fSquBSk2XCwfxPpj14&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=q33R8Ori0mRsnJEQVEpPqg&_nc_ss=7a389&oh=00_Af2xpVbTIfkbEu6zbmSD50dbpEvPQT-Pf12BirXwWu17UA&oe=69DEA1F0)
 【👋 數據分析的下一波浪潮：Vibe Coding 學習圈正式啟動！】
 
 大家好，我是 TMR 台灣行銷研究的 CEO - 鍾皓軒。 

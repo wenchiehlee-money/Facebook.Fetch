@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/MarketingDataScienceTMR"
 final_url: "https://www.facebook.com/MarketingDataScienceTMR"
 post_url: "https://www.facebook.com/MarketingDataScienceTMR/videos/914395954906153/"
 creation_time_utc: "2026-03-26T12:00:19+00:00"
-fetched_at_utc: "2026-04-10T07:46:30.348046+00:00"
+fetched_at_utc: "2026-04-10T12:07:01.712102+00:00"
 source: "public_graphql"
 attachment_type: "Video"
 attachment_url: "https://www.facebook.com/MarketingDataScienceTMR/videos/914395954906153/"
-image_url: "https://scontent.ftpe8-3.fna.fbcdn.net/v/t15.5256-10/657169598_2199684477526045_2389253553337750028_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=032300&_nc_ohc=83gJ1zmPO0wQ7kNvwFcC167&_nc_oc=Adpxl6aNNjJ6L9uG3FwX3EV7TtzhbmcdYeJg2RUBdiRaSPXbFpVgLz3kBhyoQaRshUE&_nc_zt=23&_nc_ht=scontent.ftpe8-3.fna&_nc_gid=auHIEA-8As06_dtBhfBFHA&_nc_ss=7a389&oh=00_Af04NbkTOld7fBCW8TdJP-WXIW1c880Jc20gVB846kLCIw&oe=69DE81EE"
+image_url: "https://scontent.ftpe8-3.fna.fbcdn.net/v/t15.5256-10/657169598_2199684477526045_2389253553337750028_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=032300&_nc_ohc=83gJ1zmPO0wQ7kNvwFcC167&_nc_oc=Adpxl6aNNjJ6L9uG3FwX3EV7TtzhbmcdYeJg2RUBdiRaSPXbFpVgLz3kBhyoQaRshUE&_nc_zt=23&_nc_ht=scontent.ftpe8-3.fna&_nc_gid=yQW4C6j1VA_FZb7nsHzXJw&_nc_ss=7a389&oh=00_Af0QH0Tif01iEx81Aqju8jPSzMkk5fi3j2rIa-NnRZ8v9w&oe=69DEBA2E"
 feedback_id: "ZmVlZGJhY2s6OTE0Mzk1OTU0OTA2MTUz"
 page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 ---
@@ -19,7 +19,7 @@ page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 
 原文連結: https://www.facebook.com/MarketingDataScienceTMR/videos/914395954906153/
 
-![Elon·Musk 有一個理念是：「能上原型（prototype），就不要給我PPT」，但而vibe coding工作流，就是行銷人的「即時原型」！](https://scontent.ftpe8-3.fna.fbcdn.net/v/t15.5256-10/657169598_2199684477526045_2389253553337750028_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=032300&_nc_ohc=83gJ1zmPO0wQ7kNvwFcC167&_nc_oc=Adpxl6aNNjJ6L9uG3FwX3EV7TtzhbmcdYeJg2RUBdiRaSPXbFpVgLz3kBhyoQaRshUE&_nc_zt=23&_nc_ht=scontent.ftpe8-3.fna&_nc_gid=auHIEA-8As06_dtBhfBFHA&_nc_ss=7a389&oh=00_Af04NbkTOld7fBCW8TdJP-WXIW1c880Jc20gVB846kLCIw&oe=69DE81EE)
+![Elon·Musk 有一個理念是：「能上原型（prototype），就不要給我PPT」，但而vibe coding工作流，就是行銷人的「即時原型」！](https://scontent.ftpe8-3.fna.fbcdn.net/v/t15.5256-10/657169598_2199684477526045_2389253553337750028_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=032300&_nc_ohc=83gJ1zmPO0wQ7kNvwFcC167&_nc_oc=Adpxl6aNNjJ6L9uG3FwX3EV7TtzhbmcdYeJg2RUBdiRaSPXbFpVgLz3kBhyoQaRshUE&_nc_zt=23&_nc_ht=scontent.ftpe8-3.fna&_nc_gid=yQW4C6j1VA_FZb7nsHzXJw&_nc_ss=7a389&oh=00_Af0QH0Tif01iEx81Aqju8jPSzMkk5fi3j2rIa-NnRZ8v9w&oe=69DEBA2E)
 Elon·Musk 有一個理念是：「能上原型（prototype），就不要給我PPT」，但而vibe coding工作流，就是行銷人的「即時原型」！
 但你是不是也常聽到大家在聊 n8n、Make、AI 工作流、自動化...，
 卻還是不太確定：

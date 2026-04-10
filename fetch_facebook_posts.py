@@ -29,6 +29,9 @@ POST_URL_PATTERNS = (
     re.compile(r"https://www\\.facebook\\.com/reel/\\d+", re.IGNORECASE),
     re.compile(r"https://www\\.facebook\\.com/story\\.php\\?story_fbid=[^\"' <]+", re.IGNORECASE),
 )
+CHINESE_CHAR_RE = re.compile(r"[\u4e00-\u9fff]")
+MIN_CHINESE_CHARS = 80
+
 
 
 @dataclass
@@ -441,24 +444,60 @@ def first_nonempty_line(text: str) -> str:
     return "Facebook Post"
 
 
+def count_chinese_chars(text: str) -> int:
+    return len(CHINESE_CHAR_RE.findall(text or ""))
+
+
+def record_message_text(record: dict[str, Any]) -> str:
+    return str(record.get("message") or record.get("story_text") or "")
+
+
+def should_keep_post_record(record: dict[str, Any]) -> bool:
+    return count_chinese_chars(record_message_text(record)) >= MIN_CHINESE_CHARS
+
+
+def extract_generated_markdown_body(text: str) -> str:
+    if text.startswith("---\n"):
+        parts = text.split("\n---\n", 1)
+        if len(parts) == 2:
+            text = parts[1]
+
+    body_lines: list[str] = []
+    for line in text.splitlines():
+        stripped = line.strip()
+        if stripped.startswith("# "):
+            continue
+        if stripped.startswith("原文連結: "):
+            continue
+        if stripped.startswith("![") and "](" in stripped and stripped.endswith(")"):
+            continue
+        body_lines.append(line)
+    return "\n".join(body_lines).strip()
+
+
 def build_output_payload(url: str, result: FetchResult, count: int, months_back: int = 0) -> dict[str, Any]:
     meta = parse_meta_tags(result.html_text)
     html_post_urls = extract_post_urls(result.html_text)
     graphql_records = extract_graphql_post_records(result.html_text, count, months_back=months_back)
     html_records = extract_post_records_from_html(result.html_text)
     post_records = graphql_records if graphql_records else html_records
+    prefiltered_count = len(post_records)
+    post_records = [record for record in post_records if should_keep_post_record(record)]
     post_urls = merge_post_urls(post_records, html_post_urls)
 
     notes = [
         "Facebook 公開頁面的 HTML 結構很常變動。",
         "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
         "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-        "只有新貼文才會新增 Markdown 檔，既有文章不會重寫。",
+        "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
     ]
     if graphql_records:
         notes.insert(1, f"本次已成功用公開 GraphQL 擷取到 {len(graphql_records)} 篇貼文。")
     else:
         notes.insert(1, "本次公開 GraphQL 沒有回貼文，已退回 HTML 解析。")
+    filtered_count = prefiltered_count - len(post_records)
+    if filtered_count > 0:
+        notes.append(f"已依中文至少 {MIN_CHINESE_CHARS} 字規則排除 {filtered_count} 篇貼文。")
 
     return {
         "requested_url": url,
@@ -664,8 +703,31 @@ def build_post_filename(record: dict[str, Any], index: int) -> str:
     return f"{created_date}_{title_slug}.md"
 
 
-def write_post_markdown_files(posts_dir: Path, payload: dict[str, Any]) -> tuple[list[str], list[str]]:
+def prune_short_posts(posts_dir: Path) -> list[str]:
+    removed_paths: list[str] = []
+    if not posts_dir.exists():
+        return removed_paths
+
+    for path in sorted(posts_dir.glob("*.md")):
+        if path.name == "index.md":
+            continue
+        try:
+            text = path.read_text(encoding="utf-8")
+        except OSError:
+            continue
+
+        body = extract_generated_markdown_body(text)
+        if count_chinese_chars(body) >= MIN_CHINESE_CHARS:
+            continue
+
+        path.unlink()
+        removed_paths.append(str(path))
+    return removed_paths
+
+
+def write_post_markdown_files(posts_dir: Path, payload: dict[str, Any]) -> tuple[list[str], list[str], list[str]]:
     posts_dir.mkdir(parents=True, exist_ok=True)
+    removed_paths = prune_short_posts(posts_dir)
     existing_posts = collect_existing_posts(posts_dir)
     new_paths: list[str] = []
     new_ids: list[str] = []
@@ -689,7 +751,7 @@ def write_post_markdown_files(posts_dir: Path, payload: dict[str, Any]) -> tuple
 
     markdown_files = sorted(path for path in posts_dir.glob("*.md") if path.name != "index.md")
     write_text(posts_dir / "index.md", build_index_markdown(payload, markdown_files))
-    return new_paths, new_ids
+    return new_paths, new_ids, removed_paths
 
 
 def parse_args() -> argparse.Namespace:
@@ -722,7 +784,7 @@ def main() -> int:
     payload = build_output_payload(args.url, result, args.count, months_back=args.months_back)
     page_title = payload.get("page", {}).get("title") or parse.urlsplit(args.url).path.strip("/") or "Facebook Page"
     posts_dir = data_dir / slugify_text(page_title, limit=120, separator=" ")
-    new_markdown_files, new_post_ids = write_post_markdown_files(posts_dir, payload)
+    new_markdown_files, new_post_ids, removed_markdown_files = write_post_markdown_files(posts_dir, payload)
 
     summary = {
         "requested_url": payload["requested_url"],
@@ -733,6 +795,7 @@ def main() -> int:
         "new_post_count": len(new_post_ids),
         "new_post_ids": new_post_ids,
         "new_markdown_files": new_markdown_files,
+        "removed_markdown_files": removed_markdown_files,
         "posts_directory": str(posts_dir),
         "notes": payload["notes"],
     }
@@ -742,8 +805,11 @@ def main() -> int:
     print(f"貼文目錄: {posts_dir}")
     print(f"本次檢查貼文數量: {payload['post_record_count']}")
     print(f"本次新增貼文數量: {len(new_post_ids)}")
+    print(f"本次移除短貼文數量: {len(removed_markdown_files)}")
     for path in new_markdown_files:
         print(f"新增 Markdown: {path}")
+    for path in removed_markdown_files:
+        print(f"移除 Markdown: {path}")
     return 0
 
 
