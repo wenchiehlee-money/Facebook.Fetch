@@ -206,7 +206,7 @@ def extract_public_graphql_context(html_text: str) -> dict[str, str] | None:
     }
 
 
-def fetch_public_timeline_parts(html_text: str, count: int) -> list[dict[str, Any]]:
+def fetch_public_timeline_parts(html_text: str, count: int, cursor: str | None = None) -> list[dict[str, Any]]:
     context = extract_public_graphql_context(html_text)
     if not context:
         return []
@@ -215,7 +215,7 @@ def fetch_public_timeline_parts(html_text: str, count: int) -> list[dict[str, An
         "afterTime": None,
         "beforeTime": None,
         "count": count,
-        "cursor": None,
+        "cursor": cursor,
         "feedLocation": "TIMELINE",
         "feedbackSource": 0,
         "focusCommentID": None,
@@ -269,6 +269,26 @@ def fetch_public_timeline_parts(html_text: str, count: int) -> list[dict[str, An
         except json.JSONDecodeError:
             continue
     return parts
+
+
+def extract_timeline_end_cursor(parts: list[dict[str, Any]]) -> str | None:
+    def walk(node: Any) -> str | None:
+        if isinstance(node, dict):
+            page_info = node.get("page_info")
+            if isinstance(page_info, dict) and page_info.get("has_next_page") and page_info.get("end_cursor"):
+                return str(page_info.get("end_cursor"))
+            for value in node.values():
+                found = walk(value)
+                if found:
+                    return found
+        elif isinstance(node, list):
+            for item in node:
+                found = walk(item)
+                if found:
+                    return found
+        return None
+
+    return walk(parts)
 
 
 def build_graphql_post_record(node: dict[str, Any]) -> dict[str, Any] | None:
@@ -334,14 +354,41 @@ def walk_graphql_parts(node: Any, found: list[dict[str, Any]]) -> None:
             walk_graphql_parts(item, found)
 
 
-def extract_graphql_post_records(html_text: str, count: int) -> list[dict[str, Any]]:
-    parts = fetch_public_timeline_parts(html_text, count)
-    if not parts:
-        return []
+def extract_graphql_post_records(html_text: str, count: int, months_back: int = 0, max_pages: int = 24) -> list[dict[str, Any]]:
+    cutoff_ts: int | None = None
+    if months_back > 0:
+        cutoff_ts = int((datetime.now(timezone.utc) - timedelta(days=30 * months_back)).timestamp())
+
     records: list[dict[str, Any]] = []
-    for part in parts:
-        walk_graphql_parts(part, records)
-    return deduplicate_records(records)
+    cursor: str | None = None
+    for _ in range(max_pages):
+        parts = fetch_public_timeline_parts(html_text, count, cursor=cursor)
+        if not parts:
+            break
+        page_records: list[dict[str, Any]] = []
+        for part in parts:
+            walk_graphql_parts(part, page_records)
+        if not page_records:
+            break
+        records.extend(page_records)
+
+        if cutoff_ts is not None:
+            timestamps = [int(r["creation_time"]) for r in page_records if isinstance(r.get("creation_time"), (int, float))]
+            if timestamps and min(timestamps) <= cutoff_ts:
+                break
+
+        next_cursor = extract_timeline_end_cursor(parts)
+        if not next_cursor or next_cursor == cursor:
+            break
+        cursor = next_cursor
+
+    deduped = deduplicate_records(records)
+    if cutoff_ts is not None:
+        deduped = [
+            record for record in deduped
+            if not isinstance(record.get("creation_time"), (int, float)) or int(record.get("creation_time")) >= cutoff_ts
+        ]
+    return deduped
 
 
 def merge_post_urls(records: list[dict[str, Any]], html_urls: list[str]) -> list[str]:
@@ -394,10 +441,10 @@ def first_nonempty_line(text: str) -> str:
     return "Facebook Post"
 
 
-def build_output_payload(url: str, result: FetchResult, count: int) -> dict[str, Any]:
+def build_output_payload(url: str, result: FetchResult, count: int, months_back: int = 0) -> dict[str, Any]:
     meta = parse_meta_tags(result.html_text)
     html_post_urls = extract_post_urls(result.html_text)
-    graphql_records = extract_graphql_post_records(result.html_text, count)
+    graphql_records = extract_graphql_post_records(result.html_text, count, months_back=months_back)
     html_records = extract_post_records_from_html(result.html_text)
     post_records = graphql_records if graphql_records else html_records
     post_urls = merge_post_urls(post_records, html_post_urls)
@@ -591,8 +638,8 @@ def update_readme(posts_dir: Path, payload: dict[str, Any]) -> None:
     readme_path.write_text(text.rstrip() + "\n", encoding="utf-8")
 
 
-def collect_existing_post_ids(posts_dir: Path) -> set[str]:
-    existing: set[str] = set()
+def collect_existing_posts(posts_dir: Path) -> dict[str, Path]:
+    existing: dict[str, Path] = {}
     if not posts_dir.exists():
         return existing
     for path in posts_dir.glob("*.md"):
@@ -604,7 +651,7 @@ def collect_existing_post_ids(posts_dir: Path) -> set[str]:
             continue
         match = re.search(r"^post_id:\s*\"([^\"]+)\"", text, re.MULTILINE)
         if match:
-            existing.add(match.group(1))
+            existing[match.group(1)] = path
     return existing
 
 
@@ -619,13 +666,15 @@ def build_post_filename(record: dict[str, Any], index: int) -> str:
 
 def write_post_markdown_files(posts_dir: Path, payload: dict[str, Any]) -> tuple[list[str], list[str]]:
     posts_dir.mkdir(parents=True, exist_ok=True)
-    existing_post_ids = collect_existing_post_ids(posts_dir)
+    existing_posts = collect_existing_posts(posts_dir)
     new_paths: list[str] = []
     new_ids: list[str] = []
 
     for index, record in enumerate(payload.get("post_records", []), start=1):
         post_id = str(record.get("post_id") or "")
-        if post_id and post_id in existing_post_ids:
+        existing_path = existing_posts.get(post_id) if post_id else None
+        if existing_path is not None:
+            write_text(existing_path, build_post_markdown(record, payload))
             continue
         filename = build_post_filename(record, index)
         path = posts_dir / filename
@@ -636,7 +685,7 @@ def write_post_markdown_files(posts_dir: Path, payload: dict[str, Any]) -> tuple
         new_paths.append(str(path))
         if post_id:
             new_ids.append(post_id)
-            existing_post_ids.add(post_id)
+            existing_posts[post_id] = path
 
     markdown_files = sorted(path for path in posts_dir.glob("*.md") if path.name != "index.md")
     write_text(posts_dir / "index.md", build_index_markdown(payload, markdown_files))
@@ -647,7 +696,8 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="抓取 Facebook 頁面並把新貼文存到 ./data")
     parser.add_argument("url", help="Facebook 頁面網址，例如 https://www.facebook.com/dextermchang")
     parser.add_argument("--data-dir", default="data", help="輸出目錄，預設為 ./data")
-    parser.add_argument("--count", type=int, default=20, help="每次檢查的最新貼文數量，預設 20")
+    parser.add_argument("--count", type=int, default=20, help="每次翻頁抓取的貼文數量，預設 20")
+    parser.add_argument("--months-back", type=int, default=0, help="往回抓幾個月內的貼文；0 表示只抓目前可取得的第一頁")
     parser.add_argument(
         "--cookie",
         default=None,
@@ -669,7 +719,7 @@ def main() -> int:
         print(f"Network error: {exc.reason}", file=sys.stderr)
         return 1
 
-    payload = build_output_payload(args.url, result, args.count)
+    payload = build_output_payload(args.url, result, args.count, months_back=args.months_back)
     page_title = payload.get("page", {}).get("title") or parse.urlsplit(args.url).path.strip("/") or "Facebook Page"
     posts_dir = data_dir / slugify_text(page_title, limit=120, separator=" ")
     new_markdown_files, new_post_ids = write_post_markdown_files(posts_dir, payload)
