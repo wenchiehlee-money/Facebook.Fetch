@@ -285,11 +285,16 @@ def build_graphql_post_record(node: dict[str, Any]) -> dict[str, Any] | None:
     feedback = node.get("feedback") or {}
     attachments = node.get("attachments") or []
 
+    normalized_permalink = normalize_post_url(permalink)
+    message_text = message or ""
+    if not message_text.strip() and ("/reel/" in normalized_permalink or "/videos/" in normalized_permalink):
+        return None
+
     record: dict[str, Any] = {
         "post_id": str(post_id),
-        "post_url": normalize_post_url(permalink),
+        "post_url": normalized_permalink,
         "creation_time": timestamp,
-        "message": message or "",
+        "message": message_text,
         "source": "public_graphql",
     }
     if isinstance(feedback, dict) and feedback.get("id"):
