@@ -468,9 +468,19 @@ def build_index_markdown(payload: dict[str, Any], markdown_files: list[Path]) ->
     lines.append("")
     lines.append("## 文章列表")
     lines.append("")
+
+    items: list[tuple[str, str, str]] = []
     for path in markdown_files:
-        title = path.stem.split("_", 1)[1] if "_" in path.stem else path.stem
-        lines.append(f"- [{title}]({path.name})")
+        metadata = parse_markdown_metadata(path)
+        title = metadata.get("title") or (path.stem.split("_", 1)[1] if "_" in path.stem else path.stem)
+        created_date = extract_created_date(metadata, path)
+        items.append((created_date, title, path.name))
+
+    for created_date, title, filename in sorted(items, key=lambda item: (item[0], item[1]), reverse=True):
+        if created_date:
+            lines.append(f"- `{created_date}` [{title}]({filename})")
+        else:
+            lines.append(f"- [{title}]({filename})")
     lines.append("")
     return "\n".join(lines)
 
@@ -516,41 +526,20 @@ def build_readme_post_line(posts_dir: Path, path: Path) -> str:
 
 def build_readme_generated_section(posts_dir: Path, payload: dict[str, Any]) -> str:
     markdown_files = sorted(path for path in posts_dir.glob("*.md") if path.name != "index.md")
-    today = datetime.now(timezone.utc).date()
-    cst = timezone(timedelta(hours=8), name="CST")
-    updated_display = datetime.now(cst).strftime("%Y-%m-%d %H:%M CST")
-    recent_lines: list[str] = []
     all_lines: list[str] = []
 
     for path in reversed(markdown_files):
-        line = build_readme_post_line(posts_dir, path)
-        all_lines.append(line)
-
-        metadata = parse_markdown_metadata(path)
-        created_date = extract_created_date(metadata, path)
-        if created_date:
-            try:
-                post_date = datetime.strptime(created_date, "%Y-%m-%d").date()
-            except ValueError:
-                continue
-            if 0 <= (today - post_date).days <= 6:
-                recent_lines.append(line)
+        all_lines.append(build_readme_post_line(posts_dir, path))
 
     page_title = payload.get("page", {}).get("title") or posts_dir.name
+    index_path = parse.quote((posts_dir / "index.md").as_posix(), safe="/")
     lines = [
         "## 自動更新清單",
         "",
-        f"- 資料夾: `{posts_dir.as_posix()}`",
-        f"- 頁面名稱: `{page_title}`",
-        f"- Updated: {updated_display}",
-        f"- 已收錄貼文數量: `{len(markdown_files)}`",
-        "",
-        "### 全部貼文",
+        f"### [{page_title}]({index_path}) (已收錄: {len(markdown_files)})",
         "",
     ]
-    lines.extend(all_lines or ["- 目前沒有貼文"]) 
-    lines.extend(["", "### 最近 7 天貼文", ""])
-    lines.extend(recent_lines or ["- 最近 7 天沒有新貼文"]) 
+    lines.extend(all_lines or ["- 目前沒有貼文"])
     lines.append("")
     return "\n".join(lines)
 
