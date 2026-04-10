@@ -524,23 +524,34 @@ def build_readme_post_line(posts_dir: Path, path: Path) -> str:
     return f"- [{title}]({relative_path})"
 
 
-def build_readme_generated_section(posts_dir: Path, payload: dict[str, Any]) -> str:
+def build_readme_group_summary(posts_dir: Path) -> str:
     markdown_files = sorted(path for path in posts_dir.glob("*.md") if path.name != "index.md")
-    all_lines: list[str] = []
-
-    for path in reversed(markdown_files):
-        all_lines.append(build_readme_post_line(posts_dir, path))
-
-    page_title = payload.get("page", {}).get("title") or posts_dir.name
+    summary_path = posts_dir / "latest_fetch_summary.json"
+    page_title = posts_dir.name
+    if summary_path.exists():
+        try:
+            summary = json.loads(summary_path.read_text(encoding="utf-8"))
+            page_title = summary.get("page", {}).get("title") or page_title
+        except (OSError, json.JSONDecodeError):
+            pass
     index_path = parse.quote((posts_dir / "index.md").as_posix(), safe="/")
-    lines = [
-        "## 自動更新清單",
-        "",
-        f"### [{page_title}]({index_path}) (已收錄: {len(markdown_files)})",
-        "",
-    ]
-    lines.extend(all_lines or ["- 目前沒有貼文"])
-    lines.append("")
+    return f"### [{page_title}]({index_path}) (已收錄: {len(markdown_files)})"
+
+
+def build_readme_generated_section(data_dir: Path) -> str:
+    group_dirs = sorted(
+        path for path in data_dir.iterdir()
+        if path.is_dir() and (path / "index.md").exists()
+    )
+    lines = ["## 自動更新清單", ""]
+    if not group_dirs:
+        lines.append("- 目前沒有 group")
+        lines.append("")
+        return "\n".join(lines)
+
+    for posts_dir in group_dirs:
+        lines.append(build_readme_group_summary(posts_dir))
+        lines.append("")
     return "\n".join(lines)
 
 
@@ -553,7 +564,7 @@ def update_readme(posts_dir: Path, payload: dict[str, Any]) -> None:
 
     start_marker = "<!-- AUTO-GENERATED:POSTS START -->"
     end_marker = "<!-- AUTO-GENERATED:POSTS END -->"
-    generated = build_readme_generated_section(posts_dir, payload)
+    generated = build_readme_generated_section(posts_dir.parent)
     replacement = f"{start_marker}\n{generated}\n{end_marker}"
 
     pattern = re.compile(rf"{re.escape(start_marker)}.*?{re.escape(end_marker)}", re.DOTALL)
@@ -568,6 +579,7 @@ def update_readme(posts_dir: Path, payload: dict[str, Any]) -> None:
         text = replacement + "\n\n" + text
 
     readme_path.write_text(text.rstrip() + "\n", encoding="utf-8")
+
 
 def collect_existing_post_ids(posts_dir: Path) -> set[str]:
     existing: set[str] = set()

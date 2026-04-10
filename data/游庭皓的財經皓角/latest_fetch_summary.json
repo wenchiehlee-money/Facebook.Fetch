@@ -1,0 +1,31 @@
+{
+  "requested_url": "https://www.facebook.com/yutinghaosfinance",
+  "final_url": "https://www.facebook.com/yutinghaosfinance",
+  "fetched_at_utc": "2026-04-10T04:46:58.344618+00:00",
+  "page": {
+    "title": "游庭皓的財經皓角",
+    "description": "游庭皓的財經皓角。 334,067 個讚 · 81,687 人正在談論這個。分享數據",
+    "canonical_url": "https://www.facebook.com/yutinghaosfinance",
+    "image": "https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-1/322128965_1214062385868658_8215444431924818366_n.jpg?stp=dst-jpg_tt6&cstp=mx1366x2048&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=3ab345&_nc_ohc=l8pdNnhwdT4Q7kNvwHz7FUS&_nc_oc=AdqWUyyKOi-AuHDe5Rn6ne215WzHQjPegCdTAgOFb1d9ABq_UHWk8dYCWCuHzLJ4fpE&_nc_zt=24&_nc_ht=scontent.ftpe8-2.fna&_nc_gid=xMQSCmrmBMat61k1ID_GTA&_nc_ss=7a389&oh=00_Af2B55VUgfBZQJ2UO4pyr377Xc0tSJGeLpoXTtq-ViWqpQ&oe=69DE6199"
+  },
+  "checked_post_count": 3,
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1002090095715677",
+    "1982334352395026",
+    "1001615902429763"
+  ],
+  "new_markdown_files": [
+    "data/游庭皓的財經皓角/2026-04-10_美國石油出口創下歷史新高過去一個月亞洲國家瘋狂向美國搶購原油帶動美國4月出口預計衝上每日520萬桶的歷史新高較3月大增近三成.md",
+    "data/游庭皓的財經皓角/2026-04-10_開盤前30分鐘0830---0900-讓我們一起解讀財經時事.md",
+    "data/游庭皓的財經皓角/2026-04-09_AIPAC美國以色列公共事務委員會長期以來在美國政治中影響力深厚成功維持跨黨派對以色列的支持.md"
+  ],
+  "posts_directory": "data/游庭皓的財經皓角",
+  "notes": [
+    "Facebook 公開頁面的 HTML 結構很常變動。",
+    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
+    "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
+    "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
+    "只有新貼文才會新增 Markdown 檔，既有文章不會重寫。"
+  ]
+}
