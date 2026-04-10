@@ -312,6 +312,10 @@ def build_graphql_post_record(node: dict[str, Any]) -> dict[str, Any] | None:
                 record["image_url"] = thumbnail.get("uri")
             elif media.get("image") and isinstance(media.get("image"), dict) and media["image"].get("uri"):
                 record["image_url"] = media["image"].get("uri")
+            elif media.get("photo_image") and isinstance(media.get("photo_image"), dict) and media["photo_image"].get("uri"):
+                record["image_url"] = media["photo_image"].get("uri")
+            elif media.get("viewer_image") and isinstance(media.get("viewer_image"), dict) and media["viewer_image"].get("uri"):
+                record["image_url"] = media["viewer_image"].get("uri")
             elif media.get("previewImage") and isinstance(media.get("previewImage"), dict) and media["previewImage"].get("uri"):
                 record["image_url"] = media["previewImage"].get("uri")
     return record
@@ -432,6 +436,7 @@ def build_post_markdown(record: dict[str, Any], payload: dict[str, Any]) -> str:
     page = payload.get("page", {})
     message = record.get("message") or record.get("story_text") or ""
     title = first_nonempty_line(message)
+    image_url = record.get("image_url") or ""
     metadata_lines = [
         "---",
         f"post_id: {yaml_escape(record.get('post_id'))}",
@@ -445,7 +450,7 @@ def build_post_markdown(record: dict[str, Any], payload: dict[str, Any]) -> str:
         f"source: {yaml_escape(record.get('source') or '')}",
         f"attachment_type: {yaml_escape(record.get('attachment_type') or '')}",
         f"attachment_url: {yaml_escape(record.get('attachment_url') or '')}",
-        f"image_url: {yaml_escape(record.get('image_url') or '')}",
+        f"image_url: {yaml_escape(image_url)}",
         f"feedback_id: {yaml_escape(((record.get('feedback') or {}).get('id')))}",
         f"page_canonical_url: {yaml_escape(page.get('canonical_url') or '')}",
         "---",
@@ -455,6 +460,11 @@ def build_post_markdown(record: dict[str, Any], payload: dict[str, Any]) -> str:
         f"原文連結: {record.get('post_url') or ''}",
         "",
     ]
+    if image_url:
+        metadata_lines.extend([
+            f"![{title or 'post image'}]({image_url})",
+            "",
+        ])
     body = message.rstrip() if message else "這篇貼文沒有抓到正文。"
     return "\n".join(metadata_lines) + body + "\n"
 

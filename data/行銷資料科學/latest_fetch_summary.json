@@ -1,25 +1,17 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-04-10T03:08:42.104182+00:00",
+  "fetched_at_utc": "2026-04-10T05:03:07.681319+00:00",
   "page": {
     "title": "行銷資料科學",
-    "description": "行銷資料科學。 20,152 個讚 · 59 人正在談論這個。台灣第一個行銷資料科學（MDS）知識部落格\n本粉絲專頁在探討資料科學之基礎概念、趨勢、新工具和實作，讓粉絲們瞭解資料科學的行銷運用,並開啟厚植數據分析能力之契機",
+    "description": "行銷資料科學。 20,154 個讚 · 59 人正在談論這個。台灣第一個行銷資料科學（MDS）知識部落格\n本粉絲專頁在探討資料科學之基礎概念、趨勢、新工具和實作，讓粉絲們瞭解資料科學的行銷運用,並開啟厚植數據分析能力之契機",
     "canonical_url": "https://www.facebook.com/MarketingDataScienceTMR",
-    "image": "https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-1/326219191_1611757242576447_2600066751077188652_n.png?stp=dst-png&cstp=mx592x592&ctp=s592x592&_nc_cat=102&ccb=1-7&_nc_sid=3ab345&_nc_ohc=binH6PcnXNYQ7kNvwGd69C4&_nc_oc=AdqmJwSqymvzry8pqo6eUPPjitbD3hmp3ArcJJSOm-ijvdEnGjrmp7m2KMxn4GkpjvA&_nc_zt=24&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=Xuxc7uOscaSsa9ue3vLK0w&_nc_ss=7a389&oh=00_Af16xLAgOyhqzh2t7yNr0Mp7CfVrHeDMjn8eihz_1rsWdg&oe=69DE55FC"
+    "image": "https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-1/326219191_1611757242576447_2600066751077188652_n.png?stp=dst-png&cstp=mx592x592&ctp=s592x592&_nc_cat=102&ccb=1-7&_nc_sid=3ab345&_nc_ohc=binH6PcnXNYQ7kNvwGd69C4&_nc_oc=AdqmJwSqymvzry8pqo6eUPPjitbD3hmp3ArcJJSOm-ijvdEnGjrmp7m2KMxn4GkpjvA&_nc_zt=24&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=yHVup2v0h34vsA0Q5_3_ug&_nc_ss=7a389&oh=00_Af3SXZRGCf3KV5-6YWAx_yZ2pjcsnZ0rPhDMd1mhzeM64Q&oe=69DE55FC"
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
-  "new_post_ids": [
-    "759604797233440",
-    "1252520093658300",
-    "1251796890397287"
-  ],
-  "new_markdown_files": [
-    "data/行銷資料科學/2026-04-09_本次分享會將聚焦在.md",
-    "data/行銷資料科學/2026-04-09_下一代軟體其實是服務-AI-正在改寫商業本質.md",
-    "data/行銷資料科學/2026-04-08_學歷-的重要性正在相對下降頂尖學府的價值卻變得更高.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "posts_directory": "data/行銷資料科學",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
