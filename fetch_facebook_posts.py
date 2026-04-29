@@ -16,7 +16,7 @@ from typing import Any
 from urllib import error, parse, request
 
 
-DEFAULT_UA = "Mozilla/5.0"
+DEFAULT_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 PUBLIC_TIMELINE_DOC_ID = "26358137867213918"
 PUBLIC_TIMELINE_QUERY_NAME = "ProfileCometTimelineFeedRefetchQuery"
 JSON_SCRIPT_RE = re.compile(

@@ -1,0 +1,38 @@
+{
+  "requested_url": "https://www.facebook.com/GreenHornFans",
+  "final_url": "https://www.facebook.com/GreenHornFans",
+  "fetched_at_utc": "2026-04-29T04:28:33.813660+00:00",
+  "page": {
+    "title": "綠角財經筆記",
+    "description": "綠角財經筆記。 351,091 個讚 · 16,723 人正在談論這個。綠角財經筆記是一個專注於指數化投資概念、指數型基金、ETF、資產配置與美國券商的專頁與部落格",
+    "canonical_url": "https://www.facebook.com/GreenHornFans",
+    "image": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/307376701_528924472374291_3977316822350127665_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1820&ctp=s720x720&_nc_cat=106&ccb=1-7&_nc_sid=3ab345&_nc_ohc=3sffB-02cO0Q7kNvwEAY05z&_nc_oc=AdrH-AtR0iV4w0yZiwpFlfPeKll6rdIUsFrhZeHocNYy0o7us3IH2xKe-hfhMhohJbg&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&_nc_gid=BItmtRo_HalwHEpl-zM9vw&_nc_ss=7820f&oh=00_Af0JEkRqUxSAdJgaIOhwiLyb0fHMYdQZfCBHOruBX7V63Q&oe=69F758D8"
+  },
+  "checked_post_count": 6,
+  "new_post_count": 6,
+  "new_post_ids": [
+    "1389718596294870",
+    "1389189226347807",
+    "1388930666373663",
+    "1388388683094528",
+    "1388108489789214",
+    "1387253579874705"
+  ],
+  "new_markdown_files": [
+    "data\\綠角財經筆記\\2026-04-28_Jonathan-Clements是我很喜歡的財經作家我看過他寫的五本投資著作.md",
+    "data\\綠角財經筆記\\2026-04-28_努力一段時間之後不少人不禁會問.md",
+    "data\\綠角財經筆記\\2026-04-27_債券是一個看似很簡單的資產類別買了拿配息發行者沒出事的話最後拿回本金.md",
+    "data\\綠角財經筆記\\2026-04-27_早上在發表財富階梯推薦序後.md",
+    "data\\綠角財經筆記\\2026-04-27_我在去年看過覺得非常好看並寫下七篇讀後感的The-Wealth-Ladder中譯版已經完成即將發行.md",
+    "data\\綠角財經筆記\\2026-04-25_位在不同財富階梯的人不僅需要在意的花費金額值得採用的收入增進方法不同他們持有的資產類型也很不一樣.md"
+  ],
+  "removed_markdown_files": [],
+  "posts_directory": "data\\綠角財經筆記",
+  "notes": [
+    "Facebook 公開頁面的 HTML 結構很常變動。",
+    "本次已成功用公開 GraphQL 擷取到 6 篇貼文。",
+    "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
+    "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+  ]
+}

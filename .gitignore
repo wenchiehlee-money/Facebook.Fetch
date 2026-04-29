@@ -1,9 +1,9 @@
 __pycache__/
 *.pyc
 fb_timeline_debug.json
+.github_output_tmp
+.DS_Store
 
-data/dextermchang_*.html
-data/dextermchang_*.json
-data/dextermchang_*.md
-
-data/.gitkeep
+# Ignore temporary fetch artifacts
+*.html
+*.log

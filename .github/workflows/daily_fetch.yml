@@ -20,29 +20,46 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Run daily fetch
+      - name: Reset new post counts
         run: |
-          python3 fetch_facebook_posts.py 'https://www.facebook.com/dextermchang' --count 20
+          # Reset new_post_count to 0 in all summary files to avoid false positives from previous commits
+          python3 -c "import json, glob; [json.dump({**json.load(open(f, encoding='utf-8')), 'new_post_count': 0}, open(f, 'w', encoding='utf-8'), ensure_ascii=False, indent=2) for f in glob.glob('data/*/latest_fetch_summary.json')]"
+
+      - name: Run daily fetch
+        env:
+          FB_COOKIE: ${{ secrets.FB_COOKIE }}
+        run: |
+          # Use an array of URLs to fetch multiple pages
+          urls=(
+            "https://www.facebook.com/dextermchang"
+            "https://www.facebook.com/yutinghaosfinance"
+            "https://www.facebook.com/MarketingDataScienceTMR"
+            "https://www.facebook.com/FinGuider"
+            "https://www.facebook.com/GreenHornFans"
+          )
+          for url in "${urls[@]}"; do
+            echo "::group::Fetching $url"
+            # We pass the cookie secret; if not set, it will be empty string which the script handles.
+            # Use '|| true' or handle error to ensure one failure doesn't stop the whole process.
+            python3 fetch_facebook_posts.py "$url" --count 20 --cookie "$FB_COOKIE" || echo "Warning: Failed to fetch $url"
+            echo "::endgroup::"
+          done
 
       - name: Detect new posts
         id: detect
         run: |
-          python3 - <<'PY2'
-import json
-from pathlib import Path
-summary_path = Path('data/大會計師 張明輝/latest_fetch_summary.json')
-summary = json.loads(summary_path.read_text(encoding='utf-8'))
-with open(Path.cwd() / '.github_output_tmp', 'w', encoding='utf-8') as fh:
-    fh.write(f"new_post_count={summary.get('new_post_count', 0)}\n")
-PY2
-          cat .github_output_tmp >> "$GITHUB_OUTPUT"
-          rm .github_output_tmp
+          # Sum up new_post_count from all summary files
+          total_new=$(python3 -c "import json, glob; print(sum(json.load(open(f, encoding='utf-8')).get('new_post_count', 0) for f in glob.glob('data/*/latest_fetch_summary.json')))")
+          echo "Total new posts: $total_new"
+          echo "new_post_count=$total_new" >> "$GITHUB_OUTPUT"
 
-      - name: Commit new posts
+      - name: Commit and push
         if: steps.detect.outputs.new_post_count != '0'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add 'data/大會計師 張明輝' .github/workflows/daily_fetch.yml fetch_facebook_posts.py README.md .gitignore
-          git commit -m 'Daily fetch: add new Facebook posts'
+          git add .
+          git commit -m "Daily fetch: added $count new posts" -m "Automated fetch from Facebook pages."
           git push origin HEAD:main
+        env:
+          count: ${{ steps.detect.outputs.new_post_count }}
