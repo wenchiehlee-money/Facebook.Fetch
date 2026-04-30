@@ -357,27 +357,32 @@ def walk_graphql_parts(node: Any, found: list[dict[str, Any]]) -> None:
             walk_graphql_parts(item, found)
 
 
-def extract_graphql_post_records(html_text: str, count: int, months_back: int = 0, max_pages: int = 24) -> list[dict[str, Any]]:
+def extract_graphql_post_records(html_text: str, count: int, months_back: int = 0, max_pages: int = 100) -> list[dict[str, Any]]:
     cutoff_ts: int | None = None
     if months_back > 0:
         cutoff_ts = int((datetime.now(timezone.utc) - timedelta(days=30 * months_back)).timestamp())
 
     records: list[dict[str, Any]] = []
     cursor: str | None = None
-    for _ in range(max_pages):
+    for page_idx in range(max_pages):
         parts = fetch_public_timeline_parts(html_text, count, cursor=cursor)
         if not parts:
             break
         page_records: list[dict[str, Any]] = []
         for part in parts:
             walk_graphql_parts(part, page_records)
-        if not page_records:
-            break
+        
+        # Collect whatever we found
         records.extend(page_records)
 
-        if cutoff_ts is not None:
+        # Log progress for deep fetches
+        if page_idx % 5 == 0 and page_idx > 0:
+            print(f"  已翻頁 {page_idx}, 目前共找到 {len(records)} 篇原始資料...")
+
+        if cutoff_ts is not None and page_records:
             timestamps = [int(r["creation_time"]) for r in page_records if isinstance(r.get("creation_time"), (int, float))]
             if timestamps and min(timestamps) <= cutoff_ts:
+                # We reached or passed the cutoff
                 break
 
         next_cursor = extract_timeline_end_cursor(parts)
