@@ -1,35 +1,43 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-04-10T12:07:01.712102+00:00",
+  "fetched_at_utc": "2026-05-04T08:48:32.760373+00:00",
   "page": {
     "title": "行銷資料科學",
-    "description": "行銷資料科學。 20,163 個讚 · 59 人正在談論這個。台灣第一個行銷資料科學（MDS）知識部落格\n本粉絲專頁在探討資料科學之基礎概念、趨勢、新工具和實作，讓粉絲們瞭解資料科學的行銷運用,並開啟厚植數據分析能力之契機",
+    "description": "行銷資料科學。 20,165 個讚 · 53 人正在談論這個。台灣第一個行銷資料科學（MDS）知識部落格\n本粉絲專頁在探討資料科學之基礎概念、趨勢、新工具和實作，讓粉絲們瞭解資料科學的行銷運用,並開啟厚植數據分析能力之契機",
     "canonical_url": "https://www.facebook.com/MarketingDataScienceTMR",
-    "image": "https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-1/326219191_1611757242576447_2600066751077188652_n.png?stp=dst-png&cstp=mx592x592&ctp=s592x592&_nc_cat=102&ccb=1-7&_nc_sid=3ab345&_nc_ohc=binH6PcnXNYQ7kNvwGd69C4&_nc_oc=AdqmJwSqymvzry8pqo6eUPPjitbD3hmp3ArcJJSOm-ijvdEnGjrmp7m2KMxn4GkpjvA&_nc_zt=24&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=Wfs-90MwfbLT4Io9nDoqZg&_nc_ss=7a389&oh=00_Af2A2vWzVZbHfAIDw9v7YK2neo7z_7YzNIPbsmPW9YftEw&oe=69DEC67C"
+    "image": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/326219191_1611757242576447_2600066751077188652_n.png?stp=dst-png&cstp=mx592x592&ctp=s592x592&_nc_cat=102&ccb=1-7&_nc_sid=3ab345&_nc_ohc=DJB8cfHdB0oQ7kNvwFFf_23&_nc_oc=AdrTB_tFYyY2Dx6GdsCRnuupi5RVzyVvb58F-nILuBXx--SAK6ExsA4hUUaxNHICJG4&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&_nc_gid=KMN0ViJGwjR6m-IW852M2A&_nc_ss=7820f&oh=00_Af4D0mDCCCQvODEYdPLGF8gGe7WcS_HJpJSw4VgMum3vBQ&oe=69FE323C"
   },
-  "checked_post_count": 60,
-  "new_post_count": 1,
+  "checked_post_count": 8,
+  "new_post_count": 8,
   "new_post_ids": [
-    "1253248743585435"
+    "1271799511730358",
+    "1271744148402561",
+    "1271183608458615",
+    "1270435048533471",
+    "1280274687490577",
+    "1269650175278625",
+    "1267861398790836",
+    "1266435712266738"
   ],
   "new_markdown_files": [
-    "data/行銷資料科學/2026-04-10_你的-聲音-正在幫自己成交還是在默默流失客戶.md"
+    "data\\行銷資料科學\\2026-05-04_精華當-Vibe-Coding-遇上-AI-工作流n8nMakeGoogle-Opal-誰更能聽懂行銷人的直覺.md",
+    "data\\行銷資料科學\\2026-05-04_各位夥伴大家好我們-Vibe-Coding-學習圈又上架新課程囉.md",
+    "data\\行銷資料科學\\2026-05-03_客製化的糖衣陷阱當-AI-定價遇上個性化排名.md",
+    "data\\行銷資料科學\\2026-05-02_AI-產品設計的思考流程圖.md",
+    "data\\行銷資料科學\\2026-05-02_以前拍一支品牌-MV-要動員百人團隊燒掉數百萬預算現在我們是否能靠Vibe感覺就實現從視覺架站到電影級廣告的暴力產出-ChatGPT最新的AI工具可產出的產品組.md",
+    "data\\行銷資料科學\\2026-05-01_從工具到代理人當-AI-越來越像人我們真的更願意接受它嗎.md",
+    "data\\行銷資料科學\\2026-04-29_我們的新-MV-終於出來了這支-MV-對我來說有著非常特別的意義因為我即將走進人生下一個重要階段---結婚所以我想把這份作品送給我的未婚妻-Charlene作為.md",
+    "data\\行銷資料科學\\2026-04-27_數據很重要.md"
   ],
-  "removed_markdown_files": [
-    "data/行銷資料科學/2026-03-18_Facebook-Post.md",
-    "data/行銷資料科學/2026-03-24_Facebook-Post.md",
-    "data/行銷資料科學/2026-03-26_主題當-Vibe-Coding-遇上-AI-工作流.md",
-    "data/行銷資料科學/2026-03-31_Facebook-Post.md",
-    "data/行銷資料科學/2026-04-07_Facebook-Post.md"
-  ],
-  "posts_directory": "data/行銷資料科學",
+  "removed_markdown_files": [],
+  "posts_directory": "data\\行銷資料科學",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 65 篇貼文。",
+    "本次已成功用公開 GraphQL 擷取到 9 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 5 篇貼文。"
+    "已依中文至少 80 字規則排除 1 篇貼文。"
   ]
 }

@@ -4,22 +4,22 @@ title: "美國財政部長貝森特與聯準會主席鮑爾，緊急召集華爾
 page_title: "游庭皓的財經皓角"
 requested_url: "https://www.facebook.com/yutinghaosfinance"
 final_url: "https://www.facebook.com/yutinghaosfinance"
-post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid0YDNUFUSu3tUt6apXJnmytvjTHTvXL8LbfB8PcpZsodrpqrkaDEALubMAPfjwuxP1l"
+post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid0Xs4TfBuRQrku6Skm6CVYHTGkvYLkEtKPXj79SjxJLbCFVboBiHT6GzTCaAPimHJCl"
 creation_time_utc: "2026-04-11T09:53:18+00:00"
-fetched_at_utc: "2026-04-30T11:40:08.626987+00:00"
+fetched_at_utc: "2026-05-04T08:45:01.017589+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/670937023_1003082328949787_6657245074300404226_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=WubsduiRTQIQ7kNvwFobQIe&_nc_oc=Adp0pfZ7eVdgjCQem2SnF7rcWOsiw347wCsdERXqdNARMR3ZZJcergKgreRRQPSBm7w&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=X_njR8Sfh3MkocsfaFtGgw&_nc_ss=78100&oh=00_Af3t8mDO4S8-xEkFJ8uHNDva-9vY6mh0U1kgCgISELYUlA&oe=69F903CA"
+image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/670937023_1003082328949787_6657245074300404226_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=JyQetqPwRBgQ7kNvwGqbn7u&_nc_oc=AdpGBka-hcVhb79yL0gV_9uyUD_i0vOoaL_NnL1oYpeK25DwwjvZyXSpWGbAvtP0wnw&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=XPmMx_LGnUKykocw0ULLgw&_nc_ss=78100&oh=00_Af6toClja7jjS7EQYYAwjKzacNGfwq1D6NO2IwPmY4ONvQ&oe=69FE49CA"
 feedback_id: "ZmVlZGJhY2s6MTAwMzA4MjYyMjI4MzA5MQ=="
 page_canonical_url: "https://www.facebook.com/yutinghaosfinance"
 ---
 
 # 美國財政部長貝森特與聯準會主席鮑爾，緊急召集華爾街大型銀行高層開會，核心原因是對 Anthropic 最新AI模型 Mythos 的高度警戒。
 
-原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid0YDNUFUSu3tUt6apXJnmytvjTHTvXL8LbfB8PcpZsodrpqrkaDEALubMAPfjwuxP1l
+原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid0Xs4TfBuRQrku6Skm6CVYHTGkvYLkEtKPXj79SjxJLbCFVboBiHT6GzTCaAPimHJCl
 
-![美國財政部長貝森特與聯準會主席鮑爾，緊急召集華爾街大型銀行高層開會，核心原因是對 Anthropic 最新AI模型 Mythos 的高度警戒。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/670937023_1003082328949787_6657245074300404226_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=WubsduiRTQIQ7kNvwFobQIe&_nc_oc=Adp0pfZ7eVdgjCQem2SnF7rcWOsiw347wCsdERXqdNARMR3ZZJcergKgreRRQPSBm7w&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=X_njR8Sfh3MkocsfaFtGgw&_nc_ss=78100&oh=00_Af3t8mDO4S8-xEkFJ8uHNDva-9vY6mh0U1kgCgISELYUlA&oe=69F903CA)
+![美國財政部長貝森特與聯準會主席鮑爾，緊急召集華爾街大型銀行高層開會，核心原因是對 Anthropic 最新AI模型 Mythos 的高度警戒。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/670937023_1003082328949787_6657245074300404226_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=JyQetqPwRBgQ7kNvwGqbn7u&_nc_oc=AdpGBka-hcVhb79yL0gV_9uyUD_i0vOoaL_NnL1oYpeK25DwwjvZyXSpWGbAvtP0wnw&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=XPmMx_LGnUKykocw0ULLgw&_nc_ss=78100&oh=00_Af6toClja7jjS7EQYYAwjKzacNGfwq1D6NO2IwPmY4ONvQ&oe=69FE49CA)
 美國財政部長貝森特與聯準會主席鮑爾，緊急召集華爾街大型銀行高層開會，核心原因是對 Anthropic 最新AI模型 Mythos 的高度警戒。
 
 監管機構擔心，這類更強大的AI不只可以發現系統漏洞，甚至可能被駭客利用來發動新型態攻擊，因此要求銀行提前做好防禦準備。

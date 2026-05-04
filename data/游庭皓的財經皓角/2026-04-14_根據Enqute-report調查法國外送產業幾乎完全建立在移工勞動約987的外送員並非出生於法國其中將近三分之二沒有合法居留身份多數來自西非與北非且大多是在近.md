@@ -4,22 +4,22 @@ title: "根據Enquête report調查，法國外送產業幾乎完全建立在移
 page_title: "游庭皓的財經皓角"
 requested_url: "https://www.facebook.com/yutinghaosfinance"
 final_url: "https://www.facebook.com/yutinghaosfinance"
-post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid0UUhSmP43AehynDKsBPvY6uB2troWyS3242FMUH4qKuzwKs771Q1v9oFw6TQTm3sEl"
+post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid0UcLxjk5mMGBmdJcQFMDvSxSDGZbdN3G1qLETAEQ2MDTDg9VatZz4VSvVR8w4ZQghl"
 creation_time_utc: "2026-04-14T08:03:04+00:00"
-fetched_at_utc: "2026-04-30T11:40:08.626987+00:00"
+fetched_at_utc: "2026-05-04T08:45:01.017589+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/671310458_1005378885386798_3185124624572099527_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=-zmjixdv3jkQ7kNvwFksFI-&_nc_oc=Adrg3biuQxyz-g2a_1L1YlJnSGPhEmN-btvveNlkqjDyWcMsSYBITD2lK9JZyhcCtfk&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=PEZjZwLCzA_nD5ZCHE-TWQ&_nc_ss=78100&oh=00_Af2VAQBzPpHSQMscJJoTFl_TFlGG5gWfGKxKuJX5vhEUow&oe=69F92964"
+image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/671310458_1005378885386798_3185124624572099527_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=CJgxYvaPm1IQ7kNvwEDDszm&_nc_oc=Adqje5_Zdzm_By1ijikDX7rvnBFdxVsrxtI4z5TP6wpxjznKAnEzz_rvzAK7PJHEi3U&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=kCJLnl3imU7BKZOvoIzOrA&_nc_ss=78100&oh=00_Af49GXhJ4qDMFDgxfRCXnRPU7gqwO6BXQ-5VSbPl6RdZqw&oe=69FE3724"
 feedback_id: "ZmVlZGJhY2s6MTAwNTM3ODkxODcyMDEyOA=="
 page_canonical_url: "https://www.facebook.com/yutinghaosfinance"
 ---
 
 # 根據Enquête report調查，法國外送產業幾乎完全建立在移工勞動，約98.7%的外送員並非出生於法國，其中將近三分之二沒有合法居留身份，多數來自西非與北非，且大多是在近十年內才進入法國。
 
-原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid0UUhSmP43AehynDKsBPvY6uB2troWyS3242FMUH4qKuzwKs771Q1v9oFw6TQTm3sEl
+原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid0UcLxjk5mMGBmdJcQFMDvSxSDGZbdN3G1qLETAEQ2MDTDg9VatZz4VSvVR8w4ZQghl
 
-![根據Enquête report調查，法國外送產業幾乎完全建立在移工勞動，約98.7%的外送員並非出生於法國，其中將近三分之二沒有合法居留身份，多數來自西非與北非，且大多是在近十年內才進入法國。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/671310458_1005378885386798_3185124624572099527_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=-zmjixdv3jkQ7kNvwFksFI-&_nc_oc=Adrg3biuQxyz-g2a_1L1YlJnSGPhEmN-btvveNlkqjDyWcMsSYBITD2lK9JZyhcCtfk&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=PEZjZwLCzA_nD5ZCHE-TWQ&_nc_ss=78100&oh=00_Af2VAQBzPpHSQMscJJoTFl_TFlGG5gWfGKxKuJX5vhEUow&oe=69F92964)
+![根據Enquête report調查，法國外送產業幾乎完全建立在移工勞動，約98.7%的外送員並非出生於法國，其中將近三分之二沒有合法居留身份，多數來自西非與北非，且大多是在近十年內才進入法國。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/671310458_1005378885386798_3185124624572099527_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=CJgxYvaPm1IQ7kNvwEDDszm&_nc_oc=Adqje5_Zdzm_By1ijikDX7rvnBFdxVsrxtI4z5TP6wpxjznKAnEzz_rvzAK7PJHEi3U&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=kCJLnl3imU7BKZOvoIzOrA&_nc_ss=78100&oh=00_Af49GXhJ4qDMFDgxfRCXnRPU7gqwO6BXQ-5VSbPl6RdZqw&oe=69FE3724)
 根據Enquête report調查，法國外送產業幾乎完全建立在移工勞動，約98.7%的外送員並非出生於法國，其中將近三分之二沒有合法居留身份，多數來自西非與北非，且大多是在近十年內才進入法國。
 
 這意味著，整個平台經濟的運作，其實高度依賴一群處於制度邊緣、缺乏法律保障的勞動力，甚至出現帳號租用等灰色操作，以規避工作資格限制。

@@ -4,22 +4,22 @@ title: "📌埃森哲（ACN）週一宣布向全體員工推廣微軟（MSFT）#
 page_title: "FinGuider 美股資訊網"
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid02bfmcnur5LXSfUoBFRK5zqd2P8M4aB4QY8yHmukLV3vJMytnVyM6F5vj8FqTgK617l"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0YFmwr7FSg5dxQbh6NNoRW7RhBN5LkpyMEVaNJD57DjoADQyVvGWuFoXN9ewNj8PYl"
 creation_time_utc: "2026-04-28T03:24:01+00:00"
-fetched_at_utc: "2026-04-29T04:24:58.535697+00:00"
+fetched_at_utc: "2026-05-04T05:52:18.461638+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/682471082_1432286382274838_9155421363932894736_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=p3Jjd2DZDUgQ7kNvwF_LhQn&_nc_oc=AdrSObNmeJ163tUPYcmea2Pxx4MQnw8YDOy86Fekc_uJXQS6UFqG5_sISynjE07BTgg&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=4TvTpkfSiikpO_YP3B3xiQ&_nc_ss=78100&oh=00_Af0_uW3r18NjpIUFIiSEdoNV7vggivHP2QSiQBwiLcdpxA&oe=69F76F99"
+image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/682471082_1432286382274838_9155421363932894736_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=TbMi1xkRk2sQ7kNvwHltX22&_nc_oc=AdqssoWKmwnmxC8mTcGvlOpUhsg3-RgYW5nM88HV8RQxRqR5QHYVch30Y8EGn674jgQ&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=YjBQyY_6mp-JZ3QCWM1Neg&_nc_ss=78100&oh=00_Af6MVpnnozWhga61EbV2eWTXVny-E1q5fsAIpHqUBQeKuQ&oe=69FE0719"
 feedback_id: "ZmVlZGJhY2s6MTQzMjI4NjYyMjI3NDgxNA=="
 page_canonical_url: "https://www.facebook.com/FinGuider"
 ---
 
 # 📌埃森哲（ACN）週一宣布向全體員工推廣微軟（MSFT）#Copilot 365，這是 Copilot 迄今為止最大的一筆企業訂單（約 74.3 萬員工），反映微軟努力將海量用戶轉為付費用戶的成果。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid02bfmcnur5LXSfUoBFRK5zqd2P8M4aB4QY8yHmukLV3vJMytnVyM6F5vj8FqTgK617l
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0YFmwr7FSg5dxQbh6NNoRW7RhBN5LkpyMEVaNJD57DjoADQyVvGWuFoXN9ewNj8PYl
 
-![📌埃森哲（ACN）週一宣布向全體員工推廣微軟（MSFT）#Copilot 365，這是 Copilot 迄今為止最大的一筆企業訂單（約 74.3 萬員工），反映微軟努力將海量用戶轉為付費用戶的成果。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/682471082_1432286382274838_9155421363932894736_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=p3Jjd2DZDUgQ7kNvwF_LhQn&_nc_oc=AdrSObNmeJ163tUPYcmea2Pxx4MQnw8YDOy86Fekc_uJXQS6UFqG5_sISynjE07BTgg&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=4TvTpkfSiikpO_YP3B3xiQ&_nc_ss=78100&oh=00_Af0_uW3r18NjpIUFIiSEdoNV7vggivHP2QSiQBwiLcdpxA&oe=69F76F99)
+![📌埃森哲（ACN）週一宣布向全體員工推廣微軟（MSFT）#Copilot 365，這是 Copilot 迄今為止最大的一筆企業訂單（約 74.3 萬員工），反映微軟努力將海量用戶轉為付費用戶的成果。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/682471082_1432286382274838_9155421363932894736_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=TbMi1xkRk2sQ7kNvwHltX22&_nc_oc=AdqssoWKmwnmxC8mTcGvlOpUhsg3-RgYW5nM88HV8RQxRqR5QHYVch30Y8EGn674jgQ&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=YjBQyY_6mp-JZ3QCWM1Neg&_nc_ss=78100&oh=00_Af6MVpnnozWhga61EbV2eWTXVny-E1q5fsAIpHqUBQeKuQ&oe=69FE0719)
 📌埃森哲（ACN）週一宣布向全體員工推廣微軟（MSFT）#Copilot 365，這是 Copilot 迄今為止最大的一筆企業訂單（約 74.3 萬員工），反映微軟努力將海量用戶轉為付費用戶的成果。
 
 微軟自 2023 年推出 Copilot 以來，在超過 4.5 億的 Office 365 企業用戶中，只有略高於 3% 付費使用每月 30 美元的服務。

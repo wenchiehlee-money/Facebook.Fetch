@@ -4,22 +4,22 @@ title: "本週 Citrini Research 發布的實地報告爆紅，關鍵在於它直
 page_title: "游庭皓的財經皓角"
 requested_url: "https://www.facebook.com/yutinghaosfinance"
 final_url: "https://www.facebook.com/yutinghaosfinance"
-post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid028BCDLEEwtsdCfoWyCR5v2xNqw4bay495NnbFYdz7pvjU8QK5qtpMVYJT34J6oBeil"
+post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid04TQ27vLrDyYuXtVX6DQt5fHqshARy6bjcUm3kXQkS5zJGRQtqPGVU99CQkQZR6nrl"
 creation_time_utc: "2026-04-07T01:56:36+00:00"
-fetched_at_utc: "2026-04-30T11:40:08.626987+00:00"
+fetched_at_utc: "2026-05-04T08:45:01.017589+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/663270854_999788519279168_5824267962566507087_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=13d280&_nc_ohc=iHoshy3EcMoQ7kNvwG5lckZ&_nc_oc=Adozi5hH0adSG94N9hj3SoDXC5ZIUB2MqZfDUPrGlX4sdRNS8kU0f5yvglyp5J0kPMc&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=2WsWTV4ZVXsBEq1eo6eOfw&_nc_ss=78100&oh=00_Af2l3Ru_csonrpT63Fo_WvgF3wU2d3HkDO4XhNelZJuLsw&oe=69F904D1"
+image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/663270854_999788519279168_5824267962566507087_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=13d280&_nc_ohc=Iyd1rGwwglIQ7kNvwFRHcGD&_nc_oc=AdqDUBz5nU2QUJv8Fqdwc94jy8xxRymS3ob_ILDFhnD3dp_U-gDX-iQUiPgFIDBaigg&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=wfcgczam6QaMV_7M5Is8gw&_nc_ss=78100&oh=00_Af5m4c-NFHFGRs0LUgDmnIunqLZ5p1FHBa_rIs8Tq6qehQ&oe=69FE4AD1"
 feedback_id: "ZmVlZGJhY2s6OTk5Nzg4OTAyNjEyNDYz"
 page_canonical_url: "https://www.facebook.com/yutinghaosfinance"
 ---
 
 # 本週 Citrini Research 發布的實地報告爆紅，關鍵在於它直接挑戰市場既有敘事，分析師親赴荷姆茲現場後發現，航運並沒有如市場想像那樣因戰爭而中斷，反而可能逐步增加。
 
-原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid028BCDLEEwtsdCfoWyCR5v2xNqw4bay495NnbFYdz7pvjU8QK5qtpMVYJT34J6oBeil
+原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid04TQ27vLrDyYuXtVX6DQt5fHqshARy6bjcUm3kXQkS5zJGRQtqPGVU99CQkQZR6nrl
 
-![本週 Citrini Research 發布的實地報告爆紅，關鍵在於它直接挑戰市場既有敘事，分析師親赴荷姆茲現場後發現，航運並沒有如市場想像那樣因戰爭而中斷，反而可能逐步增加。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/663270854_999788519279168_5824267962566507087_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=13d280&_nc_ohc=iHoshy3EcMoQ7kNvwG5lckZ&_nc_oc=Adozi5hH0adSG94N9hj3SoDXC5ZIUB2MqZfDUPrGlX4sdRNS8kU0f5yvglyp5J0kPMc&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=2WsWTV4ZVXsBEq1eo6eOfw&_nc_ss=78100&oh=00_Af2l3Ru_csonrpT63Fo_WvgF3wU2d3HkDO4XhNelZJuLsw&oe=69F904D1)
+![本週 Citrini Research 發布的實地報告爆紅，關鍵在於它直接挑戰市場既有敘事，分析師親赴荷姆茲現場後發現，航運並沒有如市場想像那樣因戰爭而中斷，反而可能逐步增加。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/663270854_999788519279168_5824267962566507087_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=13d280&_nc_ohc=Iyd1rGwwglIQ7kNvwFRHcGD&_nc_oc=AdqDUBz5nU2QUJv8Fqdwc94jy8xxRymS3ob_ILDFhnD3dp_U-gDX-iQUiPgFIDBaigg&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=wfcgczam6QaMV_7M5Is8gw&_nc_ss=78100&oh=00_Af5m4c-NFHFGRs0LUgDmnIunqLZ5p1FHBa_rIs8Tq6qehQ&oe=69FE4AD1)
 本週 Citrini Research 發布的實地報告爆紅，關鍵在於它直接挑戰市場既有敘事，分析師親赴荷姆茲現場後發現，航運並沒有如市場想像那樣因戰爭而中斷，反而可能逐步增加。
 
 原因在於，伊朗並非全面封鎖海峽，而是建立類似檢查站＋收費的控制機制，船隻要通過，必須先透過中間人接觸，提交完整背景資料（包括股權結構、貨物、船員與目的地），再透過付款或外交方式取得通行許可碼，最後由革命衛隊引導通過特定水道。

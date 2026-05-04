@@ -777,14 +777,20 @@ def main() -> int:
     args = parse_args()
     data_dir = Path(args.data_dir)
 
+    cookie = args.cookie
     try:
-        result = fetch_html(args.url, args.cookie)
-    except error.HTTPError as exc:
-        print(f"HTTP error: {exc.code} {exc.reason}", file=sys.stderr)
-        return 1
-    except error.URLError as exc:
-        print(f"Network error: {exc.reason}", file=sys.stderr)
-        return 1
+        result = fetch_html(args.url, cookie)
+    except (error.HTTPError, error.URLError) as exc:
+        if cookie:
+            print(f"Fetch with cookie failed ({exc}), falling back to public fetch...", file=sys.stderr)
+            try:
+                result = fetch_html(args.url, None)
+            except Exception as exc2:
+                print(f"Public fetch also failed: {exc2}", file=sys.stderr)
+                return 1
+        else:
+            print(f"Fetch failed: {exc}", file=sys.stderr)
+            return 1
 
     payload = build_output_payload(args.url, result, args.count, months_back=args.months_back)
     page_title = payload.get("page", {}).get("title") or parse.urlsplit(args.url).path.strip("/") or "Facebook Page"

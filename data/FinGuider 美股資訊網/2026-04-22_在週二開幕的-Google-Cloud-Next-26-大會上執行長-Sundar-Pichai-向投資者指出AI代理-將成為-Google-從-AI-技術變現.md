@@ -4,22 +4,22 @@ title: "📌在週二開幕的 Google Cloud Next 26 大會上，執行長 Sundar
 page_title: "FinGuider 美股資訊網"
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid02pYDkpupYuapg9JfAydVVV83PiVSAVUBs39pkU9cwJozaeTZUFAvJX7zXLA5UwC2cl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0keGZKTeiREMcUmWsMqj2MKffFeCviozv9bexApNnr3zGfzCNq49S7wu4U2SN8TStl"
 creation_time_utc: "2026-04-22T13:52:30+00:00"
-fetched_at_utc: "2026-04-29T04:24:58.535697+00:00"
+fetched_at_utc: "2026-05-04T05:52:18.461638+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/678565159_1427410772762399_5780835522813855741_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=J-TUBWuSIU4Q7kNvwHS50QR&_nc_oc=AdrRjmkcTUBD6DpcRrjvCCmEAEiUoLGw3FInGBMKIg3Afc7s8T6bSzN8oo5YzN-IXKI&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=rvb_xV7Fw_byI8NhhS9lRg&_nc_ss=78100&oh=00_Af3ZY9MJ0LjpZKSMJM7eQvKquGRUD_cNk583olo-kXfu8g&oe=69F74F21"
+image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/678565159_1427410772762399_5780835522813855741_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=W3fnZAKG5C4Q7kNvwEuRh0j&_nc_oc=AdqFj7VlM8j72t2_Gid4dZqhvdcVyQ34dLlhGurwYt4PKrpoGMEKmmnx90HTEZimOqM&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=AcK9bMWtYQlhpRCqUA-xNQ&_nc_ss=78100&oh=00_Af4FM0CRIb0Dblm_cDng-z4aCo_DyR1ffRxVtpDr-dt42Q&oe=69FE1EE1"
 feedback_id: "ZmVlZGJhY2s6MTQyNzQxMDkyNjA5NTcxNw=="
 page_canonical_url: "https://www.facebook.com/FinGuider"
 ---
 
 # 📌在週二開幕的 Google Cloud Next 26 大會上，執行長 Sundar Pichai 向投資者指出，#AI代理 將成為 Google 從 AI 技術變現的關鍵，策略重心全面轉向 #企業級AI。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid02pYDkpupYuapg9JfAydVVV83PiVSAVUBs39pkU9cwJozaeTZUFAvJX7zXLA5UwC2cl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0keGZKTeiREMcUmWsMqj2MKffFeCviozv9bexApNnr3zGfzCNq49S7wu4U2SN8TStl
 
-![📌在週二開幕的 Google Cloud Next 26 大會上，執行長 Sundar Pichai 向投資者指出，#AI代理 將成為 Google 從 AI 技術變現的關鍵，策略重心全面轉向 #企業級AI。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/678565159_1427410772762399_5780835522813855741_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=J-TUBWuSIU4Q7kNvwHS50QR&_nc_oc=AdrRjmkcTUBD6DpcRrjvCCmEAEiUoLGw3FInGBMKIg3Afc7s8T6bSzN8oo5YzN-IXKI&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=rvb_xV7Fw_byI8NhhS9lRg&_nc_ss=78100&oh=00_Af3ZY9MJ0LjpZKSMJM7eQvKquGRUD_cNk583olo-kXfu8g&oe=69F74F21)
+![📌在週二開幕的 Google Cloud Next 26 大會上，執行長 Sundar Pichai 向投資者指出，#AI代理 將成為 Google 從 AI 技術變現的關鍵，策略重心全面轉向 #企業級AI。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/678565159_1427410772762399_5780835522813855741_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=W3fnZAKG5C4Q7kNvwEuRh0j&_nc_oc=AdqFj7VlM8j72t2_Gid4dZqhvdcVyQ34dLlhGurwYt4PKrpoGMEKmmnx90HTEZimOqM&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=AcK9bMWtYQlhpRCqUA-xNQ&_nc_ss=78100&oh=00_Af4FM0CRIb0Dblm_cDng-z4aCo_DyR1ffRxVtpDr-dt42Q&oe=69FE1EE1)
 📌在週二開幕的 Google Cloud Next 26 大會上，執行長 Sundar Pichai 向投資者指出，#AI代理 將成為 Google 從 AI 技術變現的關鍵，策略重心全面轉向 #企業級AI。
 
 本次為期三天的大會聚焦於代理式 AI，推動 AI 從對話式升級為可自主規劃、跨系統執行複雜任務。Pichai 指出，隨著模型變的日益複雜，Google 的策略確實發生了轉變。

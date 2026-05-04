@@ -4,22 +4,22 @@ title: "Canva正全面押注生成式AI，推出 Canva AI 2.0 ，試圖從設計
 page_title: "游庭皓的財經皓角"
 requested_url: "https://www.facebook.com/yutinghaosfinance"
 final_url: "https://www.facebook.com/yutinghaosfinance"
-post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid02dGpNNpXA9cgMCZV3YTkCwVeXt1uaN8mBw2ecSnQRhrt2MwyPqWkpwzY5Et8zA4oxl"
+post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid02dQTtMBYtLFSokNpWMLmEvcRXbo47X4wX2CK6yMePaZrgTNwFMiSVuWL4N82DF5PTl"
 creation_time_utc: "2026-04-21T05:14:54+00:00"
-fetched_at_utc: "2026-04-30T11:40:08.626987+00:00"
+fetched_at_utc: "2026-05-04T08:45:01.017589+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/672678956_1010910944833592_576766254731000627_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=GazVotQVDxgQ7kNvwFzMC3E&_nc_oc=AdpwcIXGLJAjb1DE0OYtWHAb_jpZ4ZGCjzLac_BLzFqAGx-i__zBpaCfTnyhGjHE0UU&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=6zTwbL1hXf-i9LtAsKPlxw&_nc_ss=78100&oh=00_Af1UcnRew8cDPaWhQuXE_r7KbzzVpKKC4ENjSLhlzj82fA&oe=69F92D03"
+image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/672678956_1010910944833592_576766254731000627_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=l-KS2g_QKjIQ7kNvwEPsbsj&_nc_oc=Ado_j7Biz3hV0ikk9nlMa8zKNrN6BbBnhGwTrT7EneP69j_UpaJJDVlSBdNp0Ynz-cQ&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=DMOn6bEjoVfvkfZSb6hHyg&_nc_ss=78100&oh=00_Af5tgLl_gfyhKbmM-t2bREE-tKhH0LHwtqlBtyINNmrrdA&oe=69FE3AC3"
 feedback_id: "ZmVlZGJhY2s6MTAxMDkxMTI2NDgzMzU2MA=="
 page_canonical_url: "https://www.facebook.com/yutinghaosfinance"
 ---
 
 # Canva正全面押注生成式AI，推出 Canva AI 2.0 ，試圖從設計工具轉型為AI原生設計平台。新的核心變化是，使用者不用從模板開始，直接用自然語言描述需求便可，AI自動生成簡報、圖片甚至完整行銷內容，並可持續調整優化。
 
-原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid02dGpNNpXA9cgMCZV3YTkCwVeXt1uaN8mBw2ecSnQRhrt2MwyPqWkpwzY5Et8zA4oxl
+原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid02dQTtMBYtLFSokNpWMLmEvcRXbo47X4wX2CK6yMePaZrgTNwFMiSVuWL4N82DF5PTl
 
-![Canva正全面押注生成式AI，推出 Canva AI 2.0 ，試圖從設計工具轉型為AI原生設計平台。新的核心變化是，使用者不用從模板開始，直接用自然語言描述需求便可，AI自動生成簡報、圖片甚至完整行銷內容，並可持續調整優化。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/672678956_1010910944833592_576766254731000627_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=GazVotQVDxgQ7kNvwFzMC3E&_nc_oc=AdpwcIXGLJAjb1DE0OYtWHAb_jpZ4ZGCjzLac_BLzFqAGx-i__zBpaCfTnyhGjHE0UU&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=6zTwbL1hXf-i9LtAsKPlxw&_nc_ss=78100&oh=00_Af1UcnRew8cDPaWhQuXE_r7KbzzVpKKC4ENjSLhlzj82fA&oe=69F92D03)
+![Canva正全面押注生成式AI，推出 Canva AI 2.0 ，試圖從設計工具轉型為AI原生設計平台。新的核心變化是，使用者不用從模板開始，直接用自然語言描述需求便可，AI自動生成簡報、圖片甚至完整行銷內容，並可持續調整優化。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/672678956_1010910944833592_576766254731000627_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=l-KS2g_QKjIQ7kNvwEPsbsj&_nc_oc=Ado_j7Biz3hV0ikk9nlMa8zKNrN6BbBnhGwTrT7EneP69j_UpaJJDVlSBdNp0Ynz-cQ&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=DMOn6bEjoVfvkfZSb6hHyg&_nc_ss=78100&oh=00_Af5tgLl_gfyhKbmM-t2bREE-tKhH0LHwtqlBtyINNmrrdA&oe=69FE3AC3)
 Canva正全面押注生成式AI，推出 Canva AI 2.0 ，試圖從設計工具轉型為AI原生設計平台。新的核心變化是，使用者不用從模板開始，直接用自然語言描述需求便可，AI自動生成簡報、圖片甚至完整行銷內容，並可持續調整優化。
 
 這代表Canva要從工具，升級為設計作業系統，主動主導AI浪潮，這場轉型也攸關其高達420億美元估值，是否站得住腳，尤其在市場開始質疑軟體公司，能否在AI時代維持競爭力的背景下。

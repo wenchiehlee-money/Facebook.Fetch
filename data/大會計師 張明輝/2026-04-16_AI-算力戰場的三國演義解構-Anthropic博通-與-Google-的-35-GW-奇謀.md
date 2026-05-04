@@ -4,12 +4,12 @@ title: "AI 算力戰場的「三國演義」：解構 #Anthropic、#博通 與 #
 page_title: "大會計師 張明輝"
 requested_url: "https://www.facebook.com/dextermchang"
 final_url: "https://www.facebook.com/dextermchang"
-post_url: "https://www.facebook.com/dextermchang/posts/pfbid0tSqFcfo4hoqSPuvp7YwA3qbNgCTer7dcqEPegJm2i7DeYY86zkVuDETwKRvSUU3Nl"
+post_url: "https://www.facebook.com/dextermchang/posts/pfbid02wwxxD4BQv8MybyuveHksNtgTDWz6LoNaPUzfE8aASiNLjjb269iCuSfN68vV7pbzl"
 creation_time_utc: "2026-04-16T00:00:57+00:00"
-fetched_at_utc: "2026-04-29T04:11:16.304180+00:00"
+fetched_at_utc: "2026-05-04T08:48:23.721661+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/dextermchang/posts/pfbid0tSqFcfo4hoqSPuvp7YwA3qbNgCTer7dcqEPegJm2i7DeYY86zkVuDETwKRvSUU3Nl"
+attachment_url: "https://www.facebook.com/dextermchang/posts/pfbid02wwxxD4BQv8MybyuveHksNtgTDWz6LoNaPUzfE8aASiNLjjb269iCuSfN68vV7pbzl"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTIyMTIxOTUwNTgzMjA3MjA4"
 page_canonical_url: "https://www.facebook.com/dextermchang"
@@ -17,7 +17,7 @@ page_canonical_url: "https://www.facebook.com/dextermchang"
 
 # AI 算力戰場的「三國演義」：解構 #Anthropic、#博通 與 #Google 的 3.5 GW 奇謀
 
-原文連結: https://www.facebook.com/dextermchang/posts/pfbid0tSqFcfo4hoqSPuvp7YwA3qbNgCTer7dcqEPegJm2i7DeYY86zkVuDETwKRvSUU3Nl
+原文連結: https://www.facebook.com/dextermchang/posts/pfbid02wwxxD4BQv8MybyuveHksNtgTDWz6LoNaPUzfE8aASiNLjjb269iCuSfN68vV7pbzl
 AI 算力戰場的「三國演義」：解構 #Anthropic、#博通 與 #Google 的 3.5 GW 奇謀
 
 最近 AI 圈傳出一則令市場費解的新聞：AI 新銳 Anthropic 與半導體巨頭博通（Broadcom）簽下了一份劃時代的合約，目標是取得高達 3.5 GW 的算力支援。

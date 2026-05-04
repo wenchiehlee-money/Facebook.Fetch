@@ -4,22 +4,22 @@ title: "全球民主指數近年大倒退，極權國家越來越多。兩位學
 page_title: "游庭皓的財經皓角"
 requested_url: "https://www.facebook.com/yutinghaosfinance"
 final_url: "https://www.facebook.com/yutinghaosfinance"
-post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid02wPdwA8DimAKqi6Zty6xmsRTb5Apxjr1cKoyn6BtPwbFpVsyeoBikFqW2AEMmL7cvl"
+post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid0sfqjwpKd6KmgDZp8dd2ppW1U1ZuFAcTTxAHJa7QFpuVWv1PQwiQkgXt3sAyUFCkVl"
 creation_time_utc: "2026-04-11T12:21:41+00:00"
-fetched_at_utc: "2026-04-30T11:40:08.626987+00:00"
+fetched_at_utc: "2026-05-04T08:45:01.017589+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/668856024_1003165342274819_4668112976669212650_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=3axxPk6HzMIQ7kNvwGpS19_&_nc_oc=AdocPni0MK4Q2Yhdz0JL4zVSnMaI6yCq2JPBp99LwKZjn6uP8r4hFKvsDPaVNEeNFmk&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=ELtfI1gd-B-rVK9M3VQLYQ&_nc_ss=78100&oh=00_Af1KaoZ3t_Q5siGzGGA71EFof8hhhu9yMhAAwQAT6ly7pQ&oe=69F902A9"
+image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/668856024_1003165342274819_4668112976669212650_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=EHDG7WZq8iMQ7kNvwEURwq4&_nc_oc=AdrodbRl_cYdbZ57wrFQAu42A9p8pCZmcYZHMeXOznLb9qNkTYHpPMLl_zxYuyjm-R8&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=zTB-FbSIYCTVpj-RcorU8w&_nc_ss=78100&oh=00_Af7CpXnqp6eh1phkGvGlSLTjapU35rxL9r6HM_Omu_26zA&oe=69FE48A9"
 feedback_id: "ZmVlZGJhY2s6MTAwMzE2OTMxMjI3NDQyMg=="
 page_canonical_url: "https://www.facebook.com/yutinghaosfinance"
 ---
 
 # 全球民主指數近年大倒退，極權國家越來越多。兩位學者Ivan Krastev與Stephen Holmes，延續對民主為何退潮這個問題的研究，把焦點拉到移民如何改變政治結構這件事上。
 
-原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid02wPdwA8DimAKqi6Zty6xmsRTb5Apxjr1cKoyn6BtPwbFpVsyeoBikFqW2AEMmL7cvl
+原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid0sfqjwpKd6KmgDZp8dd2ppW1U1ZuFAcTTxAHJa7QFpuVWv1PQwiQkgXt3sAyUFCkVl
 
-![全球民主指數近年大倒退，極權國家越來越多。兩位學者Ivan Krastev與Stephen Holmes，延續對民主為何退潮這個問題的研究，把焦點拉到移民如何改變政治結構這件事上。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/668856024_1003165342274819_4668112976669212650_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=3axxPk6HzMIQ7kNvwGpS19_&_nc_oc=AdocPni0MK4Q2Yhdz0JL4zVSnMaI6yCq2JPBp99LwKZjn6uP8r4hFKvsDPaVNEeNFmk&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=ELtfI1gd-B-rVK9M3VQLYQ&_nc_ss=78100&oh=00_Af1KaoZ3t_Q5siGzGGA71EFof8hhhu9yMhAAwQAT6ly7pQ&oe=69F902A9)
+![全球民主指數近年大倒退，極權國家越來越多。兩位學者Ivan Krastev與Stephen Holmes，延續對民主為何退潮這個問題的研究，把焦點拉到移民如何改變政治結構這件事上。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/668856024_1003165342274819_4668112976669212650_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=EHDG7WZq8iMQ7kNvwEURwq4&_nc_oc=AdrodbRl_cYdbZ57wrFQAu42A9p8pCZmcYZHMeXOznLb9qNkTYHpPMLl_zxYuyjm-R8&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=zTB-FbSIYCTVpj-RcorU8w&_nc_ss=78100&oh=00_Af7CpXnqp6eh1phkGvGlSLTjapU35rxL9r6HM_Omu_26zA&oe=69FE48A9)
 全球民主指數近年大倒退，極權國家越來越多。兩位學者Ivan Krastev與Stephen Holmes，延續對民主為何退潮這個問題的研究，把焦點拉到移民如何改變政治結構這件事上。
 
 他們的研究發現，當一個國家變得越不自由，最不滿、最重視民主的人，往往最先離開，結果反而讓威權統治更穩。

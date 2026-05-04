@@ -5,67 +5,25 @@
 <!-- AUTO-GENERATED:POSTS START -->
 ## 自動更新清單
 
-### [FinGuider 美股資訊網](data/FinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2/index.md) (已收錄: 69)
+### [FinGuider 美股資訊網](data/FinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2/index.md) (已收錄: 84)
 
-### [大會計師 張明輝](data/%E5%A4%A7%E6%9C%83%E8%A8%88%E5%B8%AB%20%E5%BC%B5%E6%98%8E%E8%BC%9D/index.md) (已收錄: 67)
+### [Fomo研究院](data/Fomo%E7%A0%94%E7%A9%B6%E9%99%A2/index.md) (已收錄: 293)
 
-### [游庭皓的財經皓角](data/%E6%B8%B8%E5%BA%AD%E7%9A%93%E7%9A%84%E8%B2%A1%E7%B6%93%E7%9A%93%E8%A7%92/index.md) (已收錄: 288)
+### [大會計師 張明輝](data/%E5%A4%A7%E6%9C%83%E8%A8%88%E5%B8%AB%20%E5%BC%B5%E6%98%8E%E8%BC%9D/index.md) (已收錄: 82)
+
+### [李其展的外匯交易致勝兵法](data/%E6%9D%8E%E5%85%B6%E5%B1%95%E7%9A%84%E5%A4%96%E5%8C%AF%E4%BA%A4%E6%98%93%E8%87%B4%E5%8B%9D%E5%85%B5%E6%B3%95/index.md) (已收錄: 299)
+
+### [游庭皓的財經皓角](data/%E6%B8%B8%E5%BA%AD%E7%9A%93%E7%9A%84%E8%B2%A1%E7%B6%93%E7%9A%93%E8%A7%92/index.md) (已收錄: 337)
 
 ### [綠角財經筆記](data/%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98/index.md) (已收錄: 6)
 
-### [行銷資料科學](data/%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8/index.md) (已收錄: 60)
+### [美股探路客](data/%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2/index.md) (已收錄: 83)
+
+### [股魚](data/%E8%82%A1%E9%AD%9A/index.md) (已收錄: 20)
+
+### [行銷資料科學](data/%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8/index.md) (已收錄: 68)
 
 <!-- AUTO-GENERATED:POSTS END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -131,16 +89,8 @@ python3 fetch_facebook_posts.py 'https://www.facebook.com/dextermchang' --count 
 
 它會：
 
-- 每天自動執行抓取
-- 自動更新 `README.md` 的貼文清單區塊
-- 只有在 `new_post_count > 0` 時才建立 git commit
-- 自動 push 到 `main`
-
-如果當天沒有新貼文，workflow 會結束，不會產生新 commit。
-
-注意：如果兩次排程之間新增的貼文數量超過 `--count`，較舊的那幾篇可能會漏掉；目前 workflow 預設檢查最新 20 篇。
-
-## 說明
-
-Facebook 的公開頁面結構很常調整，所以這份腳本仍屬於 best-effort 抓取器。
-目前對 `https://www.facebook.com/dextermchang` 已可透過公開 GraphQL 抓到實際貼文內容，並以增量方式保存。
+1. 檢出程式碼
+2. 設定 Python 3.11
+3. 重設所有 `latest_fetch_summary.json` 的 `new_post_count` 為 0
+4. 依序抓取指定清單
+5. 如果有任何一個抓取結果 `new_post_count > 0`，則提交並推送到 `main`
