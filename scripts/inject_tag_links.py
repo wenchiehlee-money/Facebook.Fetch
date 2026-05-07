@@ -221,7 +221,10 @@ def update_index(repo_root: Path) -> int:
                 prefix, link_part, md_filename, rest = m.groups()
                 md_file = page_dir / md_filename
                 badge = get_badge_status(md_file) if md_file.exists() else ""
-                badge_str = f"{badge} " if badge else ""
+                # Only show 🔄 / ✅ in index.md — 📌 is a per-file action button,
+                # showing it on every line makes the index unreadably noisy.
+                visible_badge = badge if badge in ("🔄", "✅") else ""
+                badge_str = f"{visible_badge} " if visible_badge else ""
                 new_line = f"{prefix}{badge_str}{link_part}{rest}\n"
                 if new_line != line:
                     changed = True
