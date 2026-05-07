@@ -35,3 +35,7 @@ page_canonical_url: "https://www.facebook.com/people/%E8%90%AC%E9%88%9E%E6%B3%95
 最後回到這次合作最核心的意義：SanDisk 需要的不是技術背書，而是生態通行證；SK Hynix 提供的也不只是產能，而是它跟 Nvidia、雲端大客戶、以及先進封裝供應鏈之間的既有關係。兩邊一起喊 OCP 標準化，本質上就是在搶下一個位置：讓未來資料中心的記憶體金字塔從兩層變三層、甚至變多層，而那個新樓層由誰定義。三星選擇自己做、自己定，這很三星；美光現在全力押 HBM4，短期不想分心也合理。但不管誰最後勝出，方向其實很一致：AI 進入推理、代理與長上下文時代後，資料量會逼整個記憶體架構全面重寫。HBF 只是其中一塊拼圖，它如果成功，世界會多一個「高毛利、深度整合、產能被鎖定」的新戰場；它如果暫時不成，市場也不會回到過去，因為記憶體牆已經被證明不是理論題，而是每一筆 capex、每一台伺服器、每一張 GPU 都在真實付出的成本。
 
 HBM 讓 GPU 會思考，但推理時代真正決定成本的，是資料放在哪裡、怎麼搬、誰能穩定供應，而 HBF 正是在這個問題上，嘗試把「儲存」變成「基礎設施的一部分」。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-03-01_%E7%BE%8E%E4%BC%8A%E6%88%B0%E7%88%AD%E6%89%93%E9%9F%BF%E6%81%90%E6%87%BC%E8%88%87%E8%B2%AA%E5%A9%AA%E8%88%87%E7%94%A2%E6%A5%AD%E7%84%A1%E9%97%9C%E5%89%9B%E5%A5%BD%E9%9D%9C%E4%B8%8B%E5%BF%83%E4%BE%86%E5%9B%9E%E7%AD%94%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%B0%8DSanDisk-%E8%B7%9F-SK-Hynix-%E8%81%AF%E6%89%8B%E6%8E%A8-HBF-%E7%9A%84%E7%96%91%E5%95%8F%E5%BE%9E%E9%80%99%E6%B3%A2%E8%A8%98%E6%86%B6%E9%AB%94%E7%BC%BA%E8%B2%A8%E9%96%8B%E5%A7%8B%E5%8E%BB%E5%B9%B49%E6%9C%88%E5%B0%B1%E4%B8%8D%E6%96%B7%E6%9C%89%E4%BA%BA%E6%83%B3%E8%A6%81%E4%BA%86.md&period=)

@@ -58,3 +58,7 @@ Hurlston 預期，隨著 CPO 與 OCS 這兩項關鍵成長引擎開始發力，L
 🟢營收：9.6～10.1 億美元（YoY +105%）v.s. 9.17 億
 🟢EPS：2.85～3.05 美元（YoY +235%）v.s. 2.69 美元
 🟢營益率：35%～36%（YoY +20.5ppt）v.s. 32.1%
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%202026%20Q3%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-05-05_%E5%85%89%E9%80%9A%E8%A8%8A%E5%A4%A7%E5%BB%A0-LumentumLITEFY2026Q3-%E7%87%9F%E6%94%B6%E7%95%A5%E4%BD%8E%E6%96%BC%E9%A0%90%E6%9C%9F%E4%BD%86%E7%8D%B2%E5%88%A9%E8%83%BD%E5%8A%9B%E9%A1%AF%E8%91%97%E6%94%B9%E5%96%84%E5%90%8C%E6%99%82-Q4-%E6%8C%87%E5%BC%95%E5%85%A8%E9%9D%A2%E8%B6%85%E8%B6%8A%E5%B8%82%E5%A0%B4%E9%A0%90%E6%9C%9F%E7%9B%A4%E5%BE%8C%E5%8A%87%E7%83%88%E9%9C%87%E7%9B%AA.md&period=2026%20Q3)

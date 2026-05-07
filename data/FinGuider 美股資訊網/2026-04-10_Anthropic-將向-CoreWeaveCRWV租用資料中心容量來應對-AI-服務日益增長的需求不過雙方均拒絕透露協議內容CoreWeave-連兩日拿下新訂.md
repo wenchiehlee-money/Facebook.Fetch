@@ -33,3 +33,7 @@ CoreWeave 透露，這項多年期協議有助於 Anthropic 建構與部署 Clau
 ● SpaceX 合併 xAI 後虧損 50 億
 ● SpaceX 開始在德州封裝廠安裝設備
 ● Snap 與高通達成多年協議
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-10_Anthropic-%E5%B0%87%E5%90%91-CoreWeaveCRWV%E7%A7%9F%E7%94%A8%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E5%AE%B9%E9%87%8F%E4%BE%86%E6%87%89%E5%B0%8D-AI-%E6%9C%8D%E5%8B%99%E6%97%A5%E7%9B%8A%E5%A2%9E%E9%95%B7%E7%9A%84%E9%9C%80%E6%B1%82%E4%B8%8D%E9%81%8E%E9%9B%99%E6%96%B9%E5%9D%87%E6%8B%92%E7%B5%95%E9%80%8F%E9%9C%B2%E5%8D%94%E8%AD%B0%E5%85%A7%E5%AE%B9CoreWeave-%E9%80%A3%E5%85%A9%E6%97%A5%E6%8B%BF%E4%B8%8B%E6%96%B0%E8%A8%82.md&period=)

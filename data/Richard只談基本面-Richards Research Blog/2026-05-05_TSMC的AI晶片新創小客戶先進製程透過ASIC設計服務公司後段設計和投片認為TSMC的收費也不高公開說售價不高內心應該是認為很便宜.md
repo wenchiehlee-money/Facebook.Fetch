@@ -30,3 +30,7 @@ TSMC的AI晶片新創小客戶(先進製程，透過ASIC設計服務公司後段
 ......
 
 https://www.youtube.com/watch?v=qvrdCpLPbuQ
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=TSM%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=TSM&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-05-05_TSMC%E7%9A%84AI%E6%99%B6%E7%89%87%E6%96%B0%E5%89%B5%E5%B0%8F%E5%AE%A2%E6%88%B6%E5%85%88%E9%80%B2%E8%A3%BD%E7%A8%8B%E9%80%8F%E9%81%8EASIC%E8%A8%AD%E8%A8%88%E6%9C%8D%E5%8B%99%E5%85%AC%E5%8F%B8%E5%BE%8C%E6%AE%B5%E8%A8%AD%E8%A8%88%E5%92%8C%E6%8A%95%E7%89%87%E8%AA%8D%E7%82%BATSMC%E7%9A%84%E6%94%B6%E8%B2%BB%E4%B9%9F%E4%B8%8D%E9%AB%98%E5%85%AC%E9%96%8B%E8%AA%AA%E5%94%AE%E5%83%B9%E4%B8%8D%E9%AB%98%E5%85%A7%E5%BF%83%E6%87%89%E8%A9%B2%E6%98%AF%E8%AA%8D%E7%82%BA%E5%BE%88%E4%BE%BF%E5%AE%9C.md&period=)

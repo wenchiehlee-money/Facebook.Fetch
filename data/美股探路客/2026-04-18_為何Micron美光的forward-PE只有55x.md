@@ -31,3 +31,7 @@ page_canonical_url: "https://www.facebook.com/raikk6"
 ◲ NVDA 21.7x、AVGO 27x及MU的5.5x 都低於去年底的水平，前兩者2026～2028的營收年複合增長率分別為26.2%、35.6%，但MU只有9.5%
 
 雖然無法預知華爾街分析師的預測準不準確，但短線股價還是必然會受影響
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-04-18_%E7%82%BA%E4%BD%95Micron%E7%BE%8E%E5%85%89%E7%9A%84forward-PE%E5%8F%AA%E6%9C%8955x.md&period=)

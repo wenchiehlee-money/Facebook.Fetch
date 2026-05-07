@@ -47,3 +47,7 @@ Alphabet 這一季雲端RPO從2400億美元跳升至4600億美元，單季增加
 第三，供應鏈是否出現新的瓶頸。電力、機房、網通與先進封裝仍在吃緊，這會影響部署速度與資本開支節奏。
 
 整體來看，大模型競爭已經從模型能力比較，轉為收入質量與成本結構的競爭。能把Token轉成穩定現金流的公司，就會拿到估值溢價。台灣站在這場大戰的制高點，金鏟子供應商讓我們真的是賺得盆滿鉢滿，也難怪擦鞋童變成了擦鞋董。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-05-04_AI%E6%A8%A1%E5%9E%8B%E8%83%BD%E5%8A%9B%E9%80%99%E6%A2%9D%E7%B7%9A%E9%81%8E%E5%8E%BB%E5%8D%8A%E5%B9%B4%E4%B8%80%E5%BA%A6%E7%94%B1Gemini%E6%90%B6%E4%B8%8B%E5%B8%82%E5%A0%B4%E8%81%B2%E9%87%8F%E4%BD%86GPT%E8%BF%91%E6%9C%9F%E5%9C%A8%E5%A4%9A%E6%A8%A1%E6%85%8B%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E6%8E%A8%E7%90%86%E9%AB%94%E9%A9%97%E4%B8%8A%E9%87%8D%E6%96%B0%E5%8A%A0%E9%80%9F%E6%88%91%E4%B9%9F%E7%94%A8%E5%BE%97%E9%9D%9E%E5%B8%B8%E9%96%8B%E5%BF%83%E8%AE%93OpenAI%E5%8F%88%E5%9B%9E%E5%88%B0%E6%8A%80%E8%A1%93%E7%84%A6%E9%BB%9E%E5%B7%B2%E7%B6%93%E8%A8%B1%E4%B9%85%E6%B2%92%E9%96%8B.md&period=)

@@ -4,6 +4,8 @@ fb_timeline_debug.json
 .github_output_tmp
 .DS_Store
 
+.env
+
 # Ignore temporary fetch artifacts
 *.html
 *.log

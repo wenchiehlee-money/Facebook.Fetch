@@ -29,3 +29,7 @@ page_canonical_url: "https://www.facebook.com/FinGuider"
 康寧將把美國光纖光學連接製造產能提升 10 倍，光纖產能增加超過50%，並在北卡羅來納州和德州建設三個新的先進製造設施，支援 Nvidia AI 晶片在大型資料中心的部署。
 
 過去市場比較關注 GPU 本身，但現在從 OpenAI、Marvell，到先前投資的光通訊零組件廠 Lumentum，都能看出輝達的策略已經延伸到整個 AI 生態系。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=NVDA%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=NVDA&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-05-06_%E8%BC%9D%E9%81%94NVDA%E8%88%87%E7%8E%BB%E7%92%83%E5%85%89%E5%AD%B8%E5%A4%A7%E5%BB%A0-Corning-%E5%BA%B7%E5%AF%A7GLW%E5%AE%A3%E5%B8%83%E6%93%B4%E5%A4%A7%E5%90%88%E4%BD%9C%E9%80%99%E6%AC%A1%E7%9B%B4%E6%8E%A5%E7%A0%B8%E4%B8%8B%E7%B4%84-5-%E5%84%84%E7%BE%8E%E5%85%83%E5%8F%96%E5%BE%97%E5%BA%B7%E5%AF%A7%E8%AA%8D%E8%82%A1%E6%AC%8A%E8%AD%89%E5%B8%82%E5%A0%B4%E4%B9%9F%E6%8A%8A%E9%80%99%E8%A6%96%E7%82%BA-AI-%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E6%8C%81%E7%BA%8C%E5%8D%87%E7%B4%9A%E7%9A%84%E9%87%8D%E8%A6%81%E8%A8%8A%E8%99%9F%E7%9B%A4%E5%89%8D.md&period=)

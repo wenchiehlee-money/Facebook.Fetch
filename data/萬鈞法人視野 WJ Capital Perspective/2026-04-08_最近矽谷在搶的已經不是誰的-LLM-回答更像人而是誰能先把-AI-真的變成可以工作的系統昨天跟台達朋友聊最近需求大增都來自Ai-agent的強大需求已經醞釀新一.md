@@ -41,3 +41,7 @@ Anthropic 在 4 月 8 日推出 Claude Managed Agents，直接把 cloud-hosted a
 LLM 是大腦，agent runtime 是執行層，工具鏈是手腳，資料中心則是整個系統能不能跑得動的底盤。誰領先，現階段 Anthropic 在企業 agent 產品化上動作最快，OpenAI 仍然握有最深的開發者滲透，Google 則有最完整的企業平台基礎。但不管最後誰贏，方向都很明確，未來真正有價值的，不是最會回答問題的模型，而是最能把 token 消耗轉成實際生產力、最能把 AI 接進真實工作流的系統。 ￼
 
 對半導體與科技產業來說，這就不是概念題了，而是需求結構開始改變。從 training 走向 inference，從單輪互動走向長流程執行，從模型競賽走向 agent 基礎設施競賽，背後對算力、網路、光通訊、先進封裝、散熱、記憶體與儲存的拉動，都會比上一階段更廣，也更持久。真正值得追的，不只是誰又發了一個模型，而是誰能在這一輪 AI agent 化的趨勢下，吃到最核心、最可持續的基礎設施需求。 ￼
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-04-08_%E6%9C%80%E8%BF%91%E7%9F%BD%E8%B0%B7%E5%9C%A8%E6%90%B6%E7%9A%84%E5%B7%B2%E7%B6%93%E4%B8%8D%E6%98%AF%E8%AA%B0%E7%9A%84-LLM-%E5%9B%9E%E7%AD%94%E6%9B%B4%E5%83%8F%E4%BA%BA%E8%80%8C%E6%98%AF%E8%AA%B0%E8%83%BD%E5%85%88%E6%8A%8A-AI-%E7%9C%9F%E7%9A%84%E8%AE%8A%E6%88%90%E5%8F%AF%E4%BB%A5%E5%B7%A5%E4%BD%9C%E7%9A%84%E7%B3%BB%E7%B5%B1%E6%98%A8%E5%A4%A9%E8%B7%9F%E5%8F%B0%E9%81%94%E6%9C%8B%E5%8F%8B%E8%81%8A%E6%9C%80%E8%BF%91%E9%9C%80%E6%B1%82%E5%A4%A7%E5%A2%9E%E9%83%BD%E4%BE%86%E8%87%AAAi-agent%E7%9A%84%E5%BC%B7%E5%A4%A7%E9%9C%80%E6%B1%82%E5%B7%B2%E7%B6%93%E9%86%9E%E9%87%80%E6%96%B0%E4%B8%80.md&period=)

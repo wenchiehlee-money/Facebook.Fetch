@@ -127,3 +127,7 @@ Nvidia、Apple、Broadcom 這些大客戶，在乎的不是你用了多酷的機
 <週末筆記>完全免費，你只需要訂閱我的電子報，就能每個星期獲得該星期最值得關注的所有資訊，以及我的看法，鏈結在下方。
 ​
 - KP
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=ASML%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=ASML&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-04-26_TSMC-%E8%AA%AA%E4%B8%8D%E8%B2%B7ASML%E7%9A%84High-NA-EUV%E5%B7%B2%E7%B6%93%E8%AC%9B%E4%BA%86%E5%85%A9%E5%B9%B4%E4%BA%86%E7%82%BA%E7%94%9A%E9%BA%BC%E5%B8%82%E5%A0%B4%E9%82%84%E6%98%AF%E6%9C%83%E5%8F%8D%E6%87%89%E4%B8%8D%E4%BD%B3.md&period=)

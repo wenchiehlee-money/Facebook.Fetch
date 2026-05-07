@@ -142,3 +142,7 @@ Amodei 的訪談，雖然句句未提 OpenAI，卻處處是 OpenAI 的影子。
 這場決定雲端霸主命運之戰，究竟如何展開？在我的電子報中閱讀全文，你將會對 Amazon 的策略有截然不同的認知。
 ​
 - KP
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2025%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2025&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-11_Gemini-%E9%82%84%E6%98%AF-ChatGPT-%E6%9B%B4%E5%A5%BD%E9%80%99%E5%80%8B%E5%95%8F%E9%A1%8C%E5%BE%9E%E5%B9%BE%E6%98%9F%E6%9C%9F%E5%89%8D%E9%96%8B%E5%A7%8B%E5%B0%B1%E5%B7%B2%E5%BC%95%E4%BE%86%E7%84%A1%E6%95%B8%E7%88%AD%E8%AB%96.md&period=)

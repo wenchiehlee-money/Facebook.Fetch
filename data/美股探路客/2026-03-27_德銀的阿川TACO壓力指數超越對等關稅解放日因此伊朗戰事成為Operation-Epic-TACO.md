@@ -29,3 +29,7 @@ page_canonical_url: "https://www.facebook.com/raikk6"
 其他機構的觀察是西德州原油價格在95～100之間，也會引發TACO
 
 不過戰爭是雙向，因此單方面TACO的效果不理想
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-03-27_%E5%BE%B7%E9%8A%80%E7%9A%84%E9%98%BF%E5%B7%9DTACO%E5%A3%93%E5%8A%9B%E6%8C%87%E6%95%B8%E8%B6%85%E8%B6%8A%E5%B0%8D%E7%AD%89%E9%97%9C%E7%A8%85%E8%A7%A3%E6%94%BE%E6%97%A5%E5%9B%A0%E6%AD%A4%E4%BC%8A%E6%9C%97%E6%88%B0%E4%BA%8B%E6%88%90%E7%82%BAOperation-Epic-TACO.md&period=)

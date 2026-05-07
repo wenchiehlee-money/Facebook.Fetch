@@ -67,3 +67,7 @@ Citrini 這份報告最重要的發現是：市場公認的航運數據，錯得
 Citrini的報告再次證明，在投資世界裡，獨立思考與求真精神，永遠是最重要的東西。
 ​
 - KP
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-04-07_%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%B9%8B%E5%89%8D%E9%82%84%E4%B8%8D%E8%AA%8D%E8%AD%98-Citrini-Research-%E7%9A%84%E8%A9%B1%E9%80%99%E5%85%A9%E5%80%8B%E6%9C%88%E9%81%8E%E4%BE%86%E4%BD%A0%E6%87%89%E8%A9%B2%E4%B8%8D%E6%9C%83%E5%B0%8D%E9%80%99%E5%80%8B%E5%90%8D%E5%AD%97%E9%99%8C%E7%94%9F%E4%BB%96%E5%80%91%E5%85%88%E6%98%AF%E7%99%BC%E4%BD%88%E4%BA%86%E9%82%A3%E7%AF%87%E5%BB%A3%E7%82%BA%E5%A0%B1%E5%B0%8E%E7%9A%84AI-%E6%9C%AB%E6%97%A5%E7%A0%94%E7%A9%B6%E4%BB%A4%E6%95%B4%E5%80%8B%E8%8F%AF%E7%88%BE%E8%A1%97%E9%83%BD%E5%9C%A8%E8%A8%8E%E8%AB%96-A.md&period=)

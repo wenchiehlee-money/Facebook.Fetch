@@ -36,3 +36,7 @@ page_canonical_url: "https://www.facebook.com/FinGuider"
 ​
 📨熱門公司的財報都在《FinGuider 文章專欄》的財報快訊
 你也可以追蹤「FinGuider 粉絲團」或「官方 Telegram」來獲得即時資訊！
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%202026%20Q1%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-19_%E8%B2%A1%E5%A0%B1%E5%AD%A3%E6%8C%81%E7%BA%8C%E5%8A%A0%E6%BA%AB%E7%89%B9%E6%96%AF%E6%8B%89TSLA%E7%B5%95%E5%B0%8D%E6%98%AF%E6%9C%AC%E9%80%B1%E4%B8%80%E5%A4%A7%E7%84%A6%E9%BB%9E%E9%9B%96%E7%84%B6-Q1-%E4%BA%A4%E8%BB%8A%E6%95%B8%E4%B8%8D%E5%A6%82%E9%A0%90%E6%9C%9F%E5%BA%AB%E5%AD%98%E5%A0%86%E7%A9%8D%E5%90%8C%E6%99%82%E9%82%84%E5%82%B3%E5%87%BA-CybercabSemi-%E9%9B%B6%E7%B5%84%E4%BB%B6%E4%BE%9B%E6%87%89%E4%B8%80%E5%BA%A6%E5%8F%97%E4%B8%AD%E5%9C%8B%E9%97%9C%E7%A8%85%E5%B9%B2%E6%93%BE%E4%B8%8D%E9%81%8E%E5%B8%82%E5%A0%B4%E6%9B%B4%E9%97%9C%E5%BF%83.md&period=2026%20Q1)

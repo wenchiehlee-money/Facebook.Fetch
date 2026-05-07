@@ -124,3 +124,7 @@ Ray-Ban 智能眼鏡的成功為這一轉向提供了堅實的數據支撐：
 - KP
 ​
 P.s. 最近「光通訊」這個詞很火熱，如果想了解更多的話，我剛在電子報寫了近兩萬字產業分析，看完後你會對行業應該如何投資有全新的了解。鏈結在下方。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2025%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2025&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-05_Mark-Zuckerberg-%E7%9A%84%E5%85%83%E5%AE%87%E5%AE%99%E5%A4%A7%E5%A4%A2%E7%B5%82%E6%96%BC%E5%88%B0%E4%BA%86%E5%A4%A2%E9%86%92%E6%99%82%E5%88%86%E4%BA%86%E5%97%8E.md&period=)

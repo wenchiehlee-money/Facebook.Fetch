@@ -32,3 +32,7 @@ page_canonical_url: "https://www.facebook.com/FinGuider"
 ​
 📌更多盤後重點新聞整理：
 https://link.finguider.cc/FBMNews/fp
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-01_%E5%B7%9D%E6%99%AE%E5%9C%A8-Truth-Social-%E4%B8%8A%E8%A1%A8%E7%A4%BA%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E5%B7%B2%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9C%8B%E5%81%9C%E7%81%AB%E4%BD%86%E5%8F%AA%E6%9C%89%E8%8D%B7%E5%A7%86%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%9A%A2%E9%80%9A%E7%84%A1%E9%98%BB%E7%9A%84%E6%83%85%E6%B3%81%E4%B8%8B%E7%BE%8E%E5%9C%8B%E6%89%8D%E6%9C%83%E8%80%83%E6%85%AE%E9%80%99%E9%A0%85%E6%8F%90%E8%AD%B0%E5%9C%A8%E9%80%99%E4%B9%8B%E5%89%8D%E7%BE%8E%E5%9C%8B%E5%B0%87%E6%8A%8A%E4%BC%8A%E6%9C%97%E7%82%B8%E7%9A%84%E7%B2%89%E8%BA%AB%E7%A2%8E%E9%AA%A8%E8%AE%93%E4%BB%96%E5%80%91%E5%9B%9E%E5%88%B0%E7%9F%B3%E5%99%A8.md&period=)

@@ -47,3 +47,7 @@ page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%9
 但是，我在上星期發表了一篇接近三萬字的SaaS分析，裡面有整套我認為如何評估SaaS公司在AI時代的框架，而資安板塊當然也有深入研究到。有興趣的話，歡迎你加入閱讀全文，你會對整個SaaS大屠殺有更堅實的看法。鏈結在留言區。
 ​
 - KP
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-02-24_%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%9C%A8%E5%88%86%E4%BA%ABCrowdStrike-CEO%E5%9C%A8X%E4%B8%8A%E7%9A%84%E6%8E%A8%E6%96%87%E5%A4%A7%E6%84%8F%E6%98%AFClaude%E8%AA%AA%E8%87%AA%E5%B7%B1%E7%84%A1%E6%B3%95%E5%81%9A%E5%88%B0CrowdStrike%E4%B8%80%E6%A8%A3%E7%9A%84%E8%BB%9F%E4%BB%B6.md&period=)

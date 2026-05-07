@@ -34,3 +34,7 @@ Google（#GOOGL）計劃對 #Anthropic 投資最多 400 億美元，擴大雙方
 ● Michael Burry 買進半導體 ETF 賣權
 ● 美國司法部撤銷對鮑爾的調查
 ● Google 與微軟競標承租軟銀 AI 資料中心
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-24_GoogleGOOGL%E8%A8%88%E5%8A%83%E5%B0%8D-Anthropic-%E6%8A%95%E8%B3%87%E6%9C%80%E5%A4%9A-400-%E5%84%84%E7%BE%8E%E5%85%83%E6%93%B4%E5%A4%A7%E9%9B%99%E6%96%B9%E9%95%B7%E6%9C%9F%E4%BB%A5%E4%BE%86%E7%9A%84%E5%90%88%E4%BD%9C%E9%97%9C%E4%BF%82.md&period=)

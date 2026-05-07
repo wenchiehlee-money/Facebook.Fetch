@@ -27,3 +27,7 @@ page_canonical_url: "https://www.facebook.com/yutinghaosfinance"
 這類風險常見於免費VPN、破解影音App、或一些來路不明的低價串流設備，很多都是打著免費的名義，其實在偷用你的頻寬。
 
 基本防護其實不難。可以用像Spur提供的工具檢查你的IP是否異常，如果出現風險提示，就要提高警覺。平常也要避免下載可疑App，尤其是那些標榜免費提供付費內容，或賺錢分享網路的服務。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E6%B8%B8%E5%BA%AD%E7%9A%93%E7%9A%84%E8%B2%A1%E7%B6%93%E7%9A%93%E8%A7%92%2F2026-04-05_%E8%8F%AF%E7%88%BE%E8%A1%97%E6%97%A5%E5%A0%B1%E5%A0%B1%E5%B0%8E%E8%BF%91%E5%B9%B4%E4%BD%8F%E5%AE%85%E4%BB%A3%E7%90%86%E7%B6%B2%E8%B7%AFresidential-proxy%E6%8A%80%E8%A1%93%E8%B6%8A%E4%BE%86%E8%B6%8A%E6%88%90%E7%86%9F%E5%8F%AF%E8%83%BD%E6%82%84%E6%82%84%E8%97%8F%E5%9C%A8%E6%89%8B%E6%A9%9FApp%E6%88%96%E4%BE%BF%E5%AE%9C%E9%9B%BB%E5%AD%90%E8%A8%AD%E5%82%99%E8%A3%A1%E8%AE%93%E9%A7%AD%E5%AE%A2%E7%9B%B4%E6%8E%A5%E5%80%9F%E7%94%A8%E4%BD%A0%E7%9A%84%E7%B6%B2%E8%B7%AF%E9%80%B2%E8%A1%8C%E6%94%BB%E6%93%8A%E6%88%96%E9%9D%9E%E6%B3%95%E8%A1%8C%E7%82%BA.md&period=)

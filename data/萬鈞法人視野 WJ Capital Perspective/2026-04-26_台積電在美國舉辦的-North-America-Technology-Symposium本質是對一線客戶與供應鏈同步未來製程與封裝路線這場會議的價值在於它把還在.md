@@ -53,3 +53,7 @@ CPO，把 I/O 能耗問題往封裝內解決
 全部圍繞同一個核心：封裝已經變成 AI 系統的主體，細節在之前文章已經分享過，想細看的可以再回去看。
 
 看完只覺得台積電真是護國神山加佛心企業，看不懂就穩穩壓神山，想超額報酬的也可以照台積給的按圖索驥，真的有那麼佛心的嗎？愛你神山😘
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-04-26_%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%9C%A8%E7%BE%8E%E5%9C%8B%E8%88%89%E8%BE%A6%E7%9A%84-North-America-Technology-Symposium%E6%9C%AC%E8%B3%AA%E6%98%AF%E5%B0%8D%E4%B8%80%E7%B7%9A%E5%AE%A2%E6%88%B6%E8%88%87%E4%BE%9B%E6%87%89%E9%8F%88%E5%90%8C%E6%AD%A5%E6%9C%AA%E4%BE%86%E8%A3%BD%E7%A8%8B%E8%88%87%E5%B0%81%E8%A3%9D%E8%B7%AF%E7%B7%9A%E9%80%99%E5%A0%B4%E6%9C%83%E8%AD%B0%E7%9A%84%E5%83%B9%E5%80%BC%E5%9C%A8%E6%96%BC%E5%AE%83%E6%8A%8A%E9%82%84%E5%9C%A8.md&period=)

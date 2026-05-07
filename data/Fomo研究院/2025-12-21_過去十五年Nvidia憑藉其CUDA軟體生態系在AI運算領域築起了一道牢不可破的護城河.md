@@ -145,3 +145,7 @@ TorchTPU的戰略精髓不在於說服開發者「TPU更好」，而在於向企
 主題七：Meta 與 Google 的TorchTPU結盟，這是 CUDA 統治終結的開始嗎？
 ​
 - KP
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2025%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2025&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-21_%E9%81%8E%E5%8E%BB%E5%8D%81%E4%BA%94%E5%B9%B4Nvidia%E6%86%91%E8%97%89%E5%85%B6CUDA%E8%BB%9F%E9%AB%94%E7%94%9F%E6%85%8B%E7%B3%BB%E5%9C%A8AI%E9%81%8B%E7%AE%97%E9%A0%98%E5%9F%9F%E7%AF%89%E8%B5%B7%E4%BA%86%E4%B8%80%E9%81%93%E7%89%A2%E4%B8%8D%E5%8F%AF%E7%A0%B4%E7%9A%84%E8%AD%B7%E5%9F%8E%E6%B2%B3.md&period=)

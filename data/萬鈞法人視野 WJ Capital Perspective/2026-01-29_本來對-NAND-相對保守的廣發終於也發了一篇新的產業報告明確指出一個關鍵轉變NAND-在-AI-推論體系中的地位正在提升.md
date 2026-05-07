@@ -29,3 +29,7 @@ page_canonical_url: "https://www.facebook.com/people/%E8%90%AC%E9%88%9E%E6%B3%95
 當 AI 推論拉動結構性需求、而供給回補速度卻放慢，價格行為自然會改變，並從高階產品一路向下擴散。也正是在這樣的背景下，研究端開始重新定位 NAND，不再只是傳統循環品，而是進入供需約束更強、評價邏輯可能改變的階段。
 
 很多人一直問我有沒有其他明確的標的，之前就已經提過因為AI掠奪所有稀缺資源下，市場對於稀缺資源的訂價趨勢才剛被確認，也才剛剛開始重新評估其價值所在。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-01-29_%E6%9C%AC%E4%BE%86%E5%B0%8D-NAND-%E7%9B%B8%E5%B0%8D%E4%BF%9D%E5%AE%88%E7%9A%84%E5%BB%A3%E7%99%BC%E7%B5%82%E6%96%BC%E4%B9%9F%E7%99%BC%E4%BA%86%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84%E7%94%A2%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%98%8E%E7%A2%BA%E6%8C%87%E5%87%BA%E4%B8%80%E5%80%8B%E9%97%9C%E9%8D%B5%E8%BD%89%E8%AE%8ANAND-%E5%9C%A8-AI-%E6%8E%A8%E8%AB%96%E9%AB%94%E7%B3%BB%E4%B8%AD%E7%9A%84%E5%9C%B0%E4%BD%8D%E6%AD%A3%E5%9C%A8%E6%8F%90%E5%8D%87.md&period=)

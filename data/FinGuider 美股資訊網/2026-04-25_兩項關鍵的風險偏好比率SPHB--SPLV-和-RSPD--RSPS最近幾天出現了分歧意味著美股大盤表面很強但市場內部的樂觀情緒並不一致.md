@@ -29,3 +29,7 @@ page_canonical_url: "https://www.facebook.com/FinGuider"
 換句話說，雖然指數在創高，但多頭看法還不夠全面，投資人雖然願意追高波動股，但是對「景氣循環、消費擴張」這方面還沒有完全買單。
 ​
 🔍若之後 RSPD / RSPS 補漲創高，代表多頭更健康、更全面；若持續落後，代表這波上漲過度集中在少數族群，續航力可能就要再觀察。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-25_%E5%85%A9%E9%A0%85%E9%97%9C%E9%8D%B5%E7%9A%84%E9%A2%A8%E9%9A%AA%E5%81%8F%E5%A5%BD%E6%AF%94%E7%8E%87SPHB--SPLV-%E5%92%8C-RSPD--RSPS%E6%9C%80%E8%BF%91%E5%B9%BE%E5%A4%A9%E5%87%BA%E7%8F%BE%E4%BA%86%E5%88%86%E6%AD%A7%E6%84%8F%E5%91%B3%E8%91%97%E7%BE%8E%E8%82%A1%E5%A4%A7%E7%9B%A4%E8%A1%A8%E9%9D%A2%E5%BE%88%E5%BC%B7%E4%BD%86%E5%B8%82%E5%A0%B4%E5%85%A7%E9%83%A8%E7%9A%84%E6%A8%82%E8%A7%80%E6%83%85%E7%B7%92%E4%B8%A6%E4%B8%8D%E4%B8%80%E8%87%B4.md&period=)

@@ -107,3 +107,7 @@ How to Retire作者訪談Jonathan Guyton的一章，有關於動態提領(Variab
 這個3.5%低於下限3.6%，這樣太少了。市場表現好，可以多花一點。所以這一年的生活費調整為1200萬的3.6%，也就是43.2萬。
 
 這是一種用自己設下的上下限，每年動態調整生活費的方法。有因應市場表現做出調整，波動也不會太大。是Jonathan Guyton比較認同的動態提領方式。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-03-06_How-to-Retire%E4%BD%9C%E8%80%85%E8%A8%AA%E8%AB%87Jonathan-Guyton%E7%9A%84%E4%B8%80%E7%AB%A0%E6%9C%89%E9%97%9C%E6%96%BC%E5%8B%95%E6%85%8B%E6%8F%90%E9%A0%98Variable-spending%E7%9A%84%E8%A8%8E%E8%AB%96.md&period=)

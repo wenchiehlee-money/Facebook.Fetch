@@ -35,3 +35,7 @@ page_canonical_url: "https://www.facebook.com/people/%E8%90%AC%E9%88%9E%E6%B3%95
 這項技術也有它的邊界。第一，它不是免費午餐。Flash 再怎麼優化，也不會變成 HBM 的延遲與頻寬，所以這比較像是把原本跑不動、裝不下、或必須重算的 workload，變成可跑、可留、可延伸，而不是讓所有推論都直接等速升級。第二，它適合的是記憶體受限、上下文很長、可以接受分層調度的場景，不是所有 low-latency 極致即時任務都能同樣受惠。第三，這條路要真正放大，不能只有技術發表，還要看實際 benchmark、客戶導入、ODM/OEM 綁定、以及軟體堆疊是否能被開發者接受。 ￼
 
 這是群聯開始從「NAND 控制器公司」往「AI 記憶體架構公司」靠的一個訊號。這家公司未來評價方式將會比較獨特，它短線未必立刻反映成爆量獲利，但中線很值得追蹤。因為 AI 發展到今天，瓶頸早就不只在算力，而是在算力後面的記憶體階層、資料移動、上下文長度、成本結構與本地部署能力。誰能把這幾件事整合起來，誰就有機會從零組件供應商，往基礎設施平台供應商升級。群聯這次的 aiDAPTIV 多層級記憶體架構，真正有價值的地方就在這裡。它不是要跟 HBM 正面對撞，而是在 HBM、DRAM 越來越貴、越來越缺的時代，替市場補上一層過去不存在、但未來會越來越重要的 AI 記憶體層。這條路如果走通，群聯後面看到的，不只是 SSD 商機，而是 AI 基礎設施重估。  ￼
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=MU%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=MU&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-03-17_%E7%BE%A4%E8%81%AF%E9%9B%BB%E5%AD%90%E6%96%BC%E5%85%A8%E7%90%83AI%E6%8A%80%E8%A1%93%E6%8C%87%E6%A8%99%E6%80%A7%E7%9B%9B%E6%9C%83-NVIDIA-GTC-%E5%B1%95%E6%9C%83%E4%B8%8A%E6%AD%A3%E5%BC%8F%E7%99%BC%E8%A1%A8%E5%85%B6%E9%9D%A9%E5%91%BD%E6%80%A7%E7%9A%84aiDAPTIV-%E5%A4%9A%E5%B1%A4%E7%B4%9A%E8%A8%98%E6%86%B6%E9%AB%94%E6%9E%B6%E6%A7%8B%E6%8A%80%E8%A1%93multi-tier-memory-arc.md&period=)

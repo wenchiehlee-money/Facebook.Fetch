@@ -27,3 +27,7 @@ page_canonical_url: "https://www.facebook.com/people/Richard%E5%8F%AA%E8%AB%87%E
 3. 合成資料也很有用，並沒有模型崩潰問題(來回對話中理解)，至少明確說到合成資料對於模型預訓練還是很有用，以Google的立場這樣講，大概就是定調了，合成資料至今繼續有用
 
 4. 其他一些方法，因為他們是用聊天的方法，我不理解他們白話說的是什麼技術，因沒有說專有名詞，可以讓資料和預訓練繼續擴展，例如現在的預訓練資料集都是預先安排好順序的，模型演算法只能依照順序，可以一邊訓練一邊調整資料順序?
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-04-18_%E6%A0%B9%E6%93%9ADeepmind--Google-Research%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%B8%E5%AE%B6Jeff-Dean-12%E5%A4%9A%E5%88%86%E9%90%98%E9%96%8B%E5%A7%8B.md&period=)

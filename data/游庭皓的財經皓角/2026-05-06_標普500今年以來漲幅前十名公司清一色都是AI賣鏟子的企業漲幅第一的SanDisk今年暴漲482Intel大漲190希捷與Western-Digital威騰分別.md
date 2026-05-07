@@ -27,3 +27,7 @@ page_canonical_url: "https://www.facebook.com/yutinghaosfinance"
 這代表市場現在最確定的是，無論最後誰贏，整個世界都需要更多算力、更多電力、更多資料傳輸與更多儲存空間。
 
 淘金熱時代最穩定賺錢的，往往不是淘金客，是賣鏟子、牛仔褲與鐵路的商人，現在的AI行情，也越來越像是一場，全球性的基礎設施軍備競賽。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E6%B8%B8%E5%BA%AD%E7%9A%93%E7%9A%84%E8%B2%A1%E7%B6%93%E7%9A%93%E8%A7%92%2F2026-05-06_%E6%A8%99%E6%99%AE500%E4%BB%8A%E5%B9%B4%E4%BB%A5%E4%BE%86%E6%BC%B2%E5%B9%85%E5%89%8D%E5%8D%81%E5%90%8D%E5%85%AC%E5%8F%B8%E6%B8%85%E4%B8%80%E8%89%B2%E9%83%BD%E6%98%AFAI%E8%B3%A3%E9%8F%9F%E5%AD%90%E7%9A%84%E4%BC%81%E6%A5%AD%E6%BC%B2%E5%B9%85%E7%AC%AC%E4%B8%80%E7%9A%84SanDisk%E4%BB%8A%E5%B9%B4%E6%9A%B4%E6%BC%B2482Intel%E5%A4%A7%E6%BC%B2190%E5%B8%8C%E6%8D%B7%E8%88%87Western-Digital%E5%A8%81%E9%A8%B0%E5%88%86%E5%88%A5.md&period=)

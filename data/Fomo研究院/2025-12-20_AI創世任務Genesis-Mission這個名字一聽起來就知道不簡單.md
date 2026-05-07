@@ -125,3 +125,7 @@ p.s. 最新一期「週末筆記」已經發出，完全免費，有興趣的不
 主題六：美光財報的兩個重要訊息，這次的記憶體循環會不一樣？
 ​
 主題七：Meta 與 Google 的TorchTPU結盟，這是 CUDA 統治終結的開始嗎？
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2025%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2025&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-20_AI%E5%89%B5%E4%B8%96%E4%BB%BB%E5%8B%99Genesis-Mission%E9%80%99%E5%80%8B%E5%90%8D%E5%AD%97%E4%B8%80%E8%81%BD%E8%B5%B7%E4%BE%86%E5%B0%B1%E7%9F%A5%E9%81%93%E4%B8%8D%E7%B0%A1%E5%96%AE.md&period=)

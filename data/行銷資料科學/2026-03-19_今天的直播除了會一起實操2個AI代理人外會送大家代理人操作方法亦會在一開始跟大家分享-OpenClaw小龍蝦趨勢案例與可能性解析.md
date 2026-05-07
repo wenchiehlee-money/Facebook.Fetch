@@ -31,3 +31,7 @@ page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 ✨ 分享會細項 ✨
 📅 活動時間：2026/3/19（四）20:00
 👉 歡迎免費報名：https://courses.taiwanmds.com/product/information?p=96074b0722ad11f18c9e16e54096a2db
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%2F2026-03-19_%E4%BB%8A%E5%A4%A9%E7%9A%84%E7%9B%B4%E6%92%AD%E9%99%A4%E4%BA%86%E6%9C%83%E4%B8%80%E8%B5%B7%E5%AF%A6%E6%93%8D2%E5%80%8BAI%E4%BB%A3%E7%90%86%E4%BA%BA%E5%A4%96%E6%9C%83%E9%80%81%E5%A4%A7%E5%AE%B6%E4%BB%A3%E7%90%86%E4%BA%BA%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95%E4%BA%A6%E6%9C%83%E5%9C%A8%E4%B8%80%E9%96%8B%E5%A7%8B%E8%B7%9F%E5%A4%A7%E5%AE%B6%E5%88%86%E4%BA%AB-OpenClaw%E5%B0%8F%E9%BE%8D%E8%9D%A6%E8%B6%A8%E5%8B%A2%E6%A1%88%E4%BE%8B%E8%88%87%E5%8F%AF%E8%83%BD%E6%80%A7%E8%A7%A3%E6%9E%90.md&period=)

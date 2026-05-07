@@ -35,3 +35,7 @@ page_canonical_url: "https://www.facebook.com/people/%E8%90%AC%E9%88%9E%E6%B3%95
 更關鍵的是，供給端現在又不是毫無節制地擴產。前幾年 NAND 廠商經歷過大虧損之後，資本支出明顯收斂，擴產速度保守，技術轉換週期也變長。也就是說，龍蝦這邊開始大量吃存儲，另一邊供給卻沒有同步大幅放開。這種結構下，NAND 的吃緊就不是短期補庫存，而是 AI 工作負載改變之後，整個產業鏈開始重新定價。
 
 所以真正把這件事看清楚之後，邏輯其實很簡單。補貼養龍蝦，表面上是在補 agent，實際上是在加速一種新的工作負載進入企業與資料中心；而這種新的工作負載，最終不只推升 CPU、DRAM、一般型伺服器，也一定會一路往下吃到 NAND 與 enterprise SSD。龍蝦越多，NAND 越缺；龍蝦越常駐，存儲越重要；龍蝦越像真正的數位員工，NAND 就越不像過去那種單純看景氣循環的老產業。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-03-11_%E6%9C%80%E8%BF%91%E6%AD%90%E7%BE%8E%E8%88%87%E4%B8%AD%E5%9C%8B%E6%9C%80%E7%B4%85%E7%9A%84%E5%B0%B1%E6%98%AF%E9%A4%8A%E9%BE%8D%E8%9D%A6%E4%B8%8D%E6%98%AF%E5%9C%A8%E9%A4%8A%E7%9C%9F%E7%9A%84%E9%BE%8D%E8%9D%A6%E8%80%8C%E6%98%AF%E5%9C%A8%E8%AC%9B%E9%83%A8%E7%BD%B2AI-agent%E5%9B%A0%E7%82%BA-OpenClaw-%E9%80%99%E9%A1%9E-agent-%E6%A1%86%E6%9E%B6%E5%9C%A8%E9%82%A3%E9%82%8A%E5%BE%88%E7%B4%85%E5%A4%A7%E5%AE%B6%E5%B0%B1%E6%8A%8A%E9%80%99%E7%A8%AE%E6%9C%83%E8%87%AA%E5%B7%B1%E8%AA%BF%E5%B7%A5%E5%85%B7%E8%AE%80%E8%B3%87%E6%96%99.md&period=)

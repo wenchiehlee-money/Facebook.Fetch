@@ -112,3 +112,7 @@ Financial freedom不需要退休才能達成。只要你跟錢的關係達到自
 不要不知道要做什麼，就想要退休。
 
 FIRE的後兩個字，對有些人可能反而是個陷阱。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-20_%E5%9C%A8%E6%8A%95%E8%B3%87%E7%95%8CFIRE%E6%98%AFFinancial-Independence-Retire-Early%E7%9A%84%E7%B8%AE%E5%AF%AB%E6%8C%87%E7%9A%84%E6%98%AF%E8%B2%A1%E5%8B%99%E7%8D%A8%E7%AB%8B%E6%8F%90%E6%97%A9%E9%80%80%E4%BC%91.md&period=)

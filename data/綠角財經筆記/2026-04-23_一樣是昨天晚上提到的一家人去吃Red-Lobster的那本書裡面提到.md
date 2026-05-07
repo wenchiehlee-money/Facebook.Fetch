@@ -39,3 +39,7 @@ page_canonical_url: "https://www.facebook.com/GreenHornFans"
 雖說人應看著自己手上的財富與收入，避免與人比較
 但挪威的例子讓人明顯看到，是否覺得自己夠有錢，收入夠高
 往往是跟他人相比的位階
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-23_%E4%B8%80%E6%A8%A3%E6%98%AF%E6%98%A8%E5%A4%A9%E6%99%9A%E4%B8%8A%E6%8F%90%E5%88%B0%E7%9A%84%E4%B8%80%E5%AE%B6%E4%BA%BA%E5%8E%BB%E5%90%83Red-Lobster%E7%9A%84%E9%82%A3%E6%9C%AC%E6%9B%B8%E8%A3%A1%E9%9D%A2%E6%8F%90%E5%88%B0.md&period=)

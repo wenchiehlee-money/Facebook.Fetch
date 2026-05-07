@@ -29,3 +29,7 @@ page_canonical_url: "https://www.facebook.com/yutinghaosfinance"
 研究也發現，一旦長期依賴AI，大腦會習慣外包思考，反而削弱學習能力。相對地，先訓練自己思考、再使用工具的人，即使導入AI，大腦仍保持較高活躍度。
 
 研究者提醒，如果一開始就依賴AI，其實是在放棄建立能力的機會，長期下來可能失去獨立思考與技能，甚至影響未來在現實世界中的競爭力與判斷能力。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E6%B8%B8%E5%BA%AD%E7%9A%93%E7%9A%84%E8%B2%A1%E7%B6%93%E7%9A%93%E8%A7%92%2F2026-04-05_%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%B8%E9%99%A2%E7%9A%84%E7%A0%94%E7%A9%B6%E5%9C%98%E9%9A%8A%E8%A7%80%E5%AF%9F%E5%88%B0%E9%9A%A8%E8%91%97ChatGPT%E6%99%AE%E5%8F%8A%E5%AD%B8%E7%94%9F%E8%B6%8A%E4%BE%86%E8%B6%8A%E4%BE%9D%E8%B3%B4AI%E5%AE%8C%E6%88%90%E5%AF%AB%E4%BD%9C%E8%88%87%E6%80%9D%E8%80%83%E4%BB%BB%E5%8B%99%E7%94%9A%E8%87%B3%E5%87%BA%E7%8F%BE%E8%A8%98%E6%86%B6%E5%8A%9B%E4%B8%8B%E9%99%8D%E8%A1%A8%E9%81%94%E7%A9%BA%E6%B4%9E%E7%9A%84%E7%8F%BE%E8%B1%A1%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%93%A1%E5%9B%A0%E6%AD%A4%E7%BD%95%E8%A6%8B%E5%9C%A8%E6%AD%A3%E5%BC%8F%E5%AF%A9%E6%9F%A5%E5%89%8D%E5%B0%B1%E5%85%AC%E9%96%8B%E6%88%90%E6%9E%9C%E5%9B%A0%E7%82%BA.md&period=)

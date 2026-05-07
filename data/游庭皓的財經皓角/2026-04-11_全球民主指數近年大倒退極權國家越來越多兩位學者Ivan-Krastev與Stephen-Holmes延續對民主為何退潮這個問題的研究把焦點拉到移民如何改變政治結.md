@@ -33,3 +33,7 @@ page_canonical_url: "https://www.facebook.com/yutinghaosfinance"
 理論上，海外僑民可以透過匯款或價值輸出，反過來影響母國，但實證結果很分裂，匯款一方面減少人民對政府依賴，另一方面卻也在經濟上撐住效率低落的政權。
 
 最終的結論其實有點殘酷，對個人來說，移民是理性的選擇；但對整體政治來說，這可能加速世界分裂成自由國家，與威權國家兩個陣營，而後者，反而會因為壓力被釋放而活得更久。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E6%B8%B8%E5%BA%AD%E7%9A%93%E7%9A%84%E8%B2%A1%E7%B6%93%E7%9A%93%E8%A7%92%2F2026-04-11_%E5%85%A8%E7%90%83%E6%B0%91%E4%B8%BB%E6%8C%87%E6%95%B8%E8%BF%91%E5%B9%B4%E5%A4%A7%E5%80%92%E9%80%80%E6%A5%B5%E6%AC%8A%E5%9C%8B%E5%AE%B6%E8%B6%8A%E4%BE%86%E8%B6%8A%E5%A4%9A%E5%85%A9%E4%BD%8D%E5%AD%B8%E8%80%85Ivan-Krastev%E8%88%87Stephen-Holmes%E5%BB%B6%E7%BA%8C%E5%B0%8D%E6%B0%91%E4%B8%BB%E7%82%BA%E4%BD%95%E9%80%80%E6%BD%AE%E9%80%99%E5%80%8B%E5%95%8F%E9%A1%8C%E7%9A%84%E7%A0%94%E7%A9%B6%E6%8A%8A%E7%84%A6%E9%BB%9E%E6%8B%89%E5%88%B0%E7%A7%BB%E6%B0%91%E5%A6%82%E4%BD%95%E6%94%B9%E8%AE%8A%E6%94%BF%E6%B2%BB%E7%B5%90.md&period=)

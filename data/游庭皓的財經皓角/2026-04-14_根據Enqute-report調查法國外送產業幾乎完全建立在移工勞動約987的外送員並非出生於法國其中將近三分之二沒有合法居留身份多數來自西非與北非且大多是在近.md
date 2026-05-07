@@ -27,3 +27,7 @@ page_canonical_url: "https://www.facebook.com/yutinghaosfinance"
 更關鍵的是這種結構帶來的勞動條件。外送員平均每週工作約63小時，多數一週工作六到七天，但月收入僅約1480歐元，換算時薪甚至不到6歐元（未扣成本）。
 
 也就是說，所謂的便利與低價，其實是建立在高工時、低報酬與不穩定身份之上。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E6%B8%B8%E5%BA%AD%E7%9A%93%E7%9A%84%E8%B2%A1%E7%B6%93%E7%9A%93%E8%A7%92%2F2026-04-14_%E6%A0%B9%E6%93%9AEnqute-report%E8%AA%BF%E6%9F%A5%E6%B3%95%E5%9C%8B%E5%A4%96%E9%80%81%E7%94%A2%E6%A5%AD%E5%B9%BE%E4%B9%8E%E5%AE%8C%E5%85%A8%E5%BB%BA%E7%AB%8B%E5%9C%A8%E7%A7%BB%E5%B7%A5%E5%8B%9E%E5%8B%95%E7%B4%84987%E7%9A%84%E5%A4%96%E9%80%81%E5%93%A1%E4%B8%A6%E9%9D%9E%E5%87%BA%E7%94%9F%E6%96%BC%E6%B3%95%E5%9C%8B%E5%85%B6%E4%B8%AD%E5%B0%87%E8%BF%91%E4%B8%89%E5%88%86%E4%B9%8B%E4%BA%8C%E6%B2%92%E6%9C%89%E5%90%88%E6%B3%95%E5%B1%85%E7%95%99%E8%BA%AB%E4%BB%BD%E5%A4%9A%E6%95%B8%E4%BE%86%E8%87%AA%E8%A5%BF%E9%9D%9E%E8%88%87%E5%8C%97%E9%9D%9E%E4%B8%94%E5%A4%A7%E5%A4%9A%E6%98%AF%E5%9C%A8%E8%BF%91.md&period=)

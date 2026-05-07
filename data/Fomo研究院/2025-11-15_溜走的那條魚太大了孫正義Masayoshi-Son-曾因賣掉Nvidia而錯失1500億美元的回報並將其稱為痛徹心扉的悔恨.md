@@ -109,3 +109,7 @@ page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%9
 歡迎到我的Substack免費訂閱!
 ​
 - KP
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2025%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2025&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-11-15_%E6%BA%9C%E8%B5%B0%E7%9A%84%E9%82%A3%E6%A2%9D%E9%AD%9A%E5%A4%AA%E5%A4%A7%E4%BA%86%E5%AD%AB%E6%AD%A3%E7%BE%A9Masayoshi-Son-%E6%9B%BE%E5%9B%A0%E8%B3%A3%E6%8E%89Nvidia%E8%80%8C%E9%8C%AF%E5%A4%B11500%E5%84%84%E7%BE%8E%E5%85%83%E7%9A%84%E5%9B%9E%E5%A0%B1%E4%B8%A6%E5%B0%87%E5%85%B6%E7%A8%B1%E7%82%BA%E7%97%9B%E5%BE%B9%E5%BF%83%E6%89%89%E7%9A%84%E6%82%94%E6%81%A8.md&period=)

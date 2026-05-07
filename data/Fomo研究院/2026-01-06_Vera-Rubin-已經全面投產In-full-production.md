@@ -67,3 +67,7 @@ Rubin平台的10倍成本效益是正面主攻，與Groq的合作是側翼包抄
 從供給的確定性，到推理的經濟性，再到物理AI的未來期權，這是黃仁勳在這次CES Keynote的訊息。
 ​
 - KP
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-01-06_Vera-Rubin-%E5%B7%B2%E7%B6%93%E5%85%A8%E9%9D%A2%E6%8A%95%E7%94%A2In-full-production.md&period=)

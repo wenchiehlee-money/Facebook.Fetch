@@ -127,3 +127,7 @@ Rubin平台上的每一項技術單獨來看都是「進化」，但當它們被
 這個主題收錄在最新的<週末筆記>中，裡面包含了今年CES 2026中你最需要知道的主題。<週末筆記>完全免費，只需要訂閱就可以免費閱讀。
 
 - KP
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-01-10_%E5%9C%A8CES%E4%B9%8B%E5%BE%8C%E5%BE%88%E5%A4%9A%E4%BA%BA%E9%82%84%E5%9C%A8%E7%B3%BE%E7%B5%90Rubin%E7%9A%84PFLOPS%E7%BF%BB%E4%BA%86%E5%B9%BE%E5%80%8D%E4%BD%86%E9%80%99%E5%85%B6%E5%AF%A6%E7%9C%8B%E9%8C%AF%E4%BA%86%E9%87%8D%E9%BB%9E.md&period=)

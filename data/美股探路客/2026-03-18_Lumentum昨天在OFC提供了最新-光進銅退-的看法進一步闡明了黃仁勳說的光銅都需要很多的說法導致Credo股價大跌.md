@@ -37,3 +37,7 @@ Lumentum在雷射、OCS的技術領先，成長性更高，目前華爾街對202
 公司內部預期9個月後，單季營收達到12.5億、年化50億、營業利潤率增加10%，不過為了更謹慎，選擇將實現目標的時間增加至12個月
 
 內部目標為再9個月後，營收達到單季20億、毛利率達到50%，同樣謹慎的將實現時間增加至12個月
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-03-18_Lumentum%E6%98%A8%E5%A4%A9%E5%9C%A8OFC%E6%8F%90%E4%BE%9B%E4%BA%86%E6%9C%80%E6%96%B0-%E5%85%89%E9%80%B2%E9%8A%85%E9%80%80-%E7%9A%84%E7%9C%8B%E6%B3%95%E9%80%B2%E4%B8%80%E6%AD%A5%E9%97%A1%E6%98%8E%E4%BA%86%E9%BB%83%E4%BB%81%E5%8B%B3%E8%AA%AA%E7%9A%84%E5%85%89%E9%8A%85%E9%83%BD%E9%9C%80%E8%A6%81%E5%BE%88%E5%A4%9A%E7%9A%84%E8%AA%AA%E6%B3%95%E5%B0%8E%E8%87%B4Credo%E8%82%A1%E5%83%B9%E5%A4%A7%E8%B7%8C.md&period=)

@@ -92,3 +92,7 @@ page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%9
 只要訂閱我的電子報，就能免費閱讀全文，鏈結在下方。
 ​
 - KP
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-02-07_%E6%AF%8F%E7%95%B6%E6%AF%94%E7%89%B9%E5%B9%A3%E5%A4%A7%E8%B7%8C%E5%B8%82%E5%A0%B4%E7%B8%BD%E6%9C%83%E6%B5%AE%E7%8F%BE%E4%B8%80%E5%80%8B%E7%86%9F%E6%82%89%E7%9A%84%E5%95%8F%E9%A1%8C%E5%BE%AE%E7%AD%96%E7%95%A5MicroStrategyStrategy%E7%9A%84%E6%AF%94%E7%89%B9%E5%B9%A3%E6%B8%85%E7%AE%97%E5%83%B9%E5%88%B0%E5%BA%95%E6%98%AF%E5%A4%9A%E5%B0%91.md&period=)

@@ -29,3 +29,7 @@ page_canonical_url: "https://www.facebook.com/FinGuider"
 🎯知情人士透露，這款新 SUV 可能會在中國生產，也有計畫將生產線擴展到美國和歐洲，但不太可能在今年投產。此外，特斯拉計畫以較小的電池、單馬達來降低成本，目標是以顯著低於入門款 Model 3 的價格推出新車。
 ​
 馬斯克在 2024 年決定取消備受期待的平價電動車專案，強調為人類駕駛生產一輛 2.5 萬美元的電動車「毫無意義」且「愚蠢」，並將公司重心轉向自駕計程車與機器人。這次計畫開發小型平價 SUV 是否代表特斯拉的策略發生變化，可以密切關注 4/22 盤後馬斯克在財報會議上的說法。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-09_%E8%B7%AF%E9%80%8F%E7%A4%BE%E5%A0%B1%E5%B0%8E%E7%89%B9%E6%96%AF%E6%8B%89TSLA%E6%AD%A3%E5%9C%A8%E6%96%B0%E9%96%8B%E7%99%BC%E4%B8%80%E6%AC%BE%E6%9B%B4%E5%B0%8F%E5%B7%A7%E6%9B%B4%E4%BE%BF%E5%AE%9C%E7%9A%84-SUV%E9%80%99%E5%B0%87%E6%98%AF%E4%B8%80%E6%AC%BE%E5%85%A8%E6%96%B0%E8%BB%8A%E5%9E%8B%E4%B8%A6%E9%9D%9E%E7%8F%BE%E6%9C%89-Model-3Model-Y-%E7%9A%84%E8%A1%8D%E7%94%9F%E8%BB%8A%E5%9E%8B%E4%B8%8D%E9%81%8E%E7%9B%AE%E5%89%8D%E4%BB%8D%E8%99%95%E6%96%BC%E6%97%A9%E6%9C%9F%E9%96%8B%E7%99%BC%E9%9A%8E%E6%AE%B5%E4%B8%8D%E7%A2%BA%E5%AE%9A.md&period=)

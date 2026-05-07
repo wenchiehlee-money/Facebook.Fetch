@@ -67,3 +67,7 @@ page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%9
 霍爾木茲海峽的停擺，本質上是伊朗在測試美國的戰略定力。 接下來，我們要觀察的不是美軍又派了哪艘驅逐艦，而是美國究竟願意付出多大的「代價」，是選擇在談判桌上給予伊朗籌碼，還是準備迎接一場代價更高昂的軍事衝突？
 ​
 p.s. 我最新一期的深入分析是光通訊大會2026，裡面包括了一切你需要知道有關光通訊行業的最新進展。我誠邀你閱讀完整分析，你會對整個行業的認知會更上一層樓。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=MU%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=MU&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-03-27_%E8%8D%B7%E5%A7%86%E8%8C%B2%E6%B5%B7%E5%B3%BDStrait-of-Hormuz%E5%8F%AF%E4%BB%A5%E8%AA%AA%E6%98%AF%E9%80%99%E5%B9%BE%E5%80%8B%E6%98%9F%E6%9C%9F%E8%A8%8E%E8%AB%96%E5%BA%A6%E6%9C%80%E9%AB%98%E7%9A%84%E5%90%8D%E8%A9%9E%E4%B9%8B%E4%B8%80.md&period=)

@@ -91,3 +91,7 @@ AI的出現，正在將過去專屬於少數精英和大型組織的「知識生
 - KP
 ​
 p.s. 這個訪談內容極多，之後還有更多部份的分析會在明天和大家分享。訂閱我的電子報，獲得定期深度分析。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=DELL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=DELL&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-11-17_%E7%A9%B6%E7%AB%9F%E5%9C%A8AI%E6%99%82%E4%BB%A3SaaS%E6%A8%A1%E5%BC%8F%E6%9C%83%E5%90%A6%E8%A2%AB%E9%A1%9B%E8%A6%86%E9%80%99%E6%98%AF%E5%BE%AE%E8%BB%9FCEO-Nadella%E5%9C%A8%E8%A8%AA%E8%AB%87%E4%B8%AD%E9%9D%A2%E5%B0%8D%E7%9A%84%E4%B8%80%E5%80%8B%E5%95%8F%E9%A1%8C.md&period=)

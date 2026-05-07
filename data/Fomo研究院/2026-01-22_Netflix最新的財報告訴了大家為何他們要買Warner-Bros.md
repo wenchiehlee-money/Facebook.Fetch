@@ -77,3 +77,7 @@ Netflix最大的成功，也是它最大的詛咒。
 - KP
 ​
 p.s.最新一期的「深入分析」已經發出，這期的主題是儲能。在電力已經是最明顯的瓶頸之一，我們需要對整個電網有深入的理解，才能作出最適當的投資。有興趣的可以到留言區找到連結。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-01-22_Netflix%E6%9C%80%E6%96%B0%E7%9A%84%E8%B2%A1%E5%A0%B1%E5%91%8A%E8%A8%B4%E4%BA%86%E5%A4%A7%E5%AE%B6%E7%82%BA%E4%BD%95%E4%BB%96%E5%80%91%E8%A6%81%E8%B2%B7Warner-Bros.md&period=)

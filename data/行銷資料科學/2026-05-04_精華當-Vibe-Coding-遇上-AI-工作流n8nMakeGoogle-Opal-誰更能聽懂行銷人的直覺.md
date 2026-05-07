@@ -69,3 +69,7 @@ Elon·Musk 有一個理念是：「能上原型（prototype），就不要給我
 📌 聯絡電話：02-2365-1689
 
 #ai    #行銷資料科學 #gemini #n8n #make #opal
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2F%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%2F2026-05-04_%E7%B2%BE%E8%8F%AF%E7%95%B6-Vibe-Coding-%E9%81%87%E4%B8%8A-AI-%E5%B7%A5%E4%BD%9C%E6%B5%81n8nMakeGoogle-Opal-%E8%AA%B0%E6%9B%B4%E8%83%BD%E8%81%BD%E6%87%82%E8%A1%8C%E9%8A%B7%E4%BA%BA%E7%9A%84%E7%9B%B4%E8%A6%BA.md&period=)

@@ -31,3 +31,7 @@ page_canonical_url: "https://www.facebook.com/raikk6"
 當然市場還有各方力量拉扯，以及最關鍵的伊朗戰事影響，不過今天美股的確有這兩股順風
 
 附圖分別來自Spotgamma的S&P 500 Gamma 分佈圖、JPMorgan預估的季度再平衡金額
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-03-31_%E4%BB%8A%E5%A4%A9%E6%98%AF-JPMCollar%E5%B0%8F%E6%91%A9%E7%9A%84%E8%B6%85%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%B0%8D%E6%B2%96%E5%9F%BA%E9%87%91SP-500-Collar%E6%9C%9F%E6%AC%8A%E7%AD%96%E7%95%A5%E5%AD%A3%E5%BA%95%E5%88%B0%E6%9C%9F%E6%97%A5%E5%88%B0%E6%9C%9F%E7%9A%84%E7%9C%8B%E8%B7%8C%E6%9C%9F%E6%AC%8ALong-Put%E8%A1%8C%E6%AC%8A%E5%83%B9%E5%9C%A86475%E7%B4%8432%E8%90%AC%E4%BB%BD%E5%90%88%E7%B4%8420%E5%84%84%E7%BE%8E.md&period=)

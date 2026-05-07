@@ -48,3 +48,7 @@ Stella 團隊提出了一個關鍵工程指標：Read:Edit Ratio（讀修比）�
 ......"
 
 https://www.koc.com.tw/archives/638616
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-04-11_%E5%BF%83%E5%BE%971-Test-Time-Scaling-Law%E9%9D%9E%E5%B8%B8%E6%98%8E%E9%A1%AF%E5%BC%B7%E7%83%88%E7%9A%84%E5%8D%B0%E8%AD%89.md&period=)

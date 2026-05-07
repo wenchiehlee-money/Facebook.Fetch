@@ -25,3 +25,7 @@ page_canonical_url: "https://www.facebook.com/FinGuider"
 SpaceX 正計畫在 6 月進行 IPO，預計募資約 750 億，估值將超過 2 兆美元。
 
 📌根據一份公開通知，這座「次世代、垂直整合的半導體製造與先進運算製程設施」可能位於德州，並強調這是一項對美國半導體製造能力具有變革性意義的投資。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-05-07_%E5%BD%AD%E5%8D%9A%E5%A0%B1%E5%B0%8ESpaceX-%E8%A8%88%E7%95%AB%E8%88%87%E7%89%B9%E6%96%AF%E6%8B%89TSLA%E5%85%B1%E5%90%8C%E8%88%88%E5%BB%BA%E7%9A%84%E6%99%B6%E7%89%87%E5%BB%A0-Terafab-%E6%88%90%E6%9C%AC%E8%87%B3%E5%B0%91%E7%82%BA-550-%E5%84%84%E7%BE%8E%E5%85%83%E8%8B%A5%E5%B0%88%E6%A1%88%E5%BE%8C%E7%BA%8C%E9%9A%8E%E6%AE%B5%E5%AE%8C%E6%88%90%E4%BC%B0%E8%A8%88%E7%B8%BD%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA%E5%8F%AF%E8%83%BD%E4%B8%8A%E7%9C%8B-1190-%E5%84%84.md&period=)

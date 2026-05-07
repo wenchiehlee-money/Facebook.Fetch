@@ -27,3 +27,7 @@ page_canonical_url: "https://www.facebook.com/yutinghaosfinance"
 但這種現象，也反映出更深層的社會問題。一方面，日本長期薪資停滯與年輕世代經濟壓力，使部分人轉向非典型收入來源；另一方面，平台媒合與灰色仲介降低了進入門檻，讓市場更難監管。
 
 當關係商品化逐漸常態化，不僅模糊了人際界線，也可能帶來法律、倫理與安全風險，若缺乏明確規範與社會討論，這類跨國化現象很可能持續擴大，並成為另一種結構性問題。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E6%B8%B8%E5%BA%AD%E7%9A%93%E7%9A%84%E8%B2%A1%E7%B6%93%E7%9A%93%E8%A7%92%2F2026-04-20_%E6%97%A5%E6%9C%AC-Sugar-Daddy-%E5%B8%82%E5%A0%B4%E8%B6%8A%E4%BE%86%E8%B6%8A%E5%A4%A7%E9%9A%A8%E8%91%97%E6%97%A5%E5%9C%93%E8%B2%B6%E5%80%BC%E8%88%87%E8%A7%80%E5%85%89%E4%BA%BA%E6%BD%AE%E5%9B%9E%E6%B5%81%E4%BE%86%E8%87%AA%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9D%B1%E5%8D%B0%E5%BA%A6%E7%AD%89%E5%9C%B0%E7%9A%84%E5%A4%96%E5%9C%8B%E5%AF%8C%E8%A3%95%E7%94%B7%E6%80%A7%E9%80%8F%E9%81%8E%E7%A4%BE%E7%BE%A4%E5%B9%B3%E5%8F%B0%E8%88%87%E4%BB%B2%E4%BB%8B%E6%9C%8D%E5%8B%99%E9%80%B2%E5%85%A5%E6%97%A5%E6%9C%AC%E5%B0%8B%E6%89%BE%E5%B9%B4%E8%BC%95%E5%A5%B3%E6%80%A7%E9%80%B2%E8%A1%8C%E9%87%91%E9%8C%A2%E8%88%87%E9%97%9C%E4%BF%82%E4%BA%A4.md&period=)

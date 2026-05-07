@@ -128,3 +128,7 @@ p.s. 這個主題，收錄在我這個星期的<思考筆記>中，當中有6個
 主題六：CLARITY 法案流出，穩定幣前景不明？
 ​
 <週末筆記>完全免費，你只需要訂閱我的電子報，就能每個星期獲得該星期最值得關注的所有資訊，以及我的看法。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-03-29_Google%E7%99%BC%E8%A1%A8%E4%BA%86%E4%B8%80%E9%A0%85%E5%90%8D%E7%82%BATurboQuant%E7%9A%84%E8%BB%9F%E9%AB%94%E6%BC%94%E7%AE%97%E6%B3%95%E7%AA%81%E7%A0%B4%E8%A8%98%E6%86%B6%E9%AB%94%E6%99%B6%E7%89%87%E9%A1%9E%E8%82%A1%E6%87%89%E8%81%B2%E9%87%8D%E6%8C%AB.md&period=)

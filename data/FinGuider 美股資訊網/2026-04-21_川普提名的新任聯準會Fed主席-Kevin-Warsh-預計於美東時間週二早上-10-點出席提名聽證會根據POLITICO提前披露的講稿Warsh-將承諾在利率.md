@@ -31,3 +31,7 @@ page_canonical_url: "https://www.facebook.com/FinGuider"
 總結來說，Warsh 認為，「Fed 獨立性主要取決於自己的紀律與作風」，他將致力於確保貨幣政策的運作保持絕對獨立，並與行政部門和國會合作 Fed 職權範圍內的非貨幣事務。
 ​
 🔍《華爾街日報》記者 Nick Timiraos 指出，考量到中東戰事對降息不利，市場將關注 Kevin Warsh 如何在不激怒川普的情況下說服投資人，上週川普曾在接受《Fox》訪問時透露，他認為 Warsh 上任後利率就會下降。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-21_%E5%B7%9D%E6%99%AE%E6%8F%90%E5%90%8D%E7%9A%84%E6%96%B0%E4%BB%BB%E8%81%AF%E6%BA%96%E6%9C%83Fed%E4%B8%BB%E5%B8%AD-Kevin-Warsh-%E9%A0%90%E8%A8%88%E6%96%BC%E7%BE%8E%E6%9D%B1%E6%99%82%E9%96%93%E9%80%B1%E4%BA%8C%E6%97%A9%E4%B8%8A-10-%E9%BB%9E%E5%87%BA%E5%B8%AD%E6%8F%90%E5%90%8D%E8%81%BD%E8%AD%89%E6%9C%83%E6%A0%B9%E6%93%9APOLITICO%E6%8F%90%E5%89%8D%E6%8A%AB%E9%9C%B2%E7%9A%84%E8%AC%9B%E7%A8%BFWarsh-%E5%B0%87%E6%89%BF%E8%AB%BE%E5%9C%A8%E5%88%A9%E7%8E%87.md&period=)

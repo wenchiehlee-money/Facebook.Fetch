@@ -86,3 +86,7 @@ page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%9
 <週末筆記>完全免費，你只需要訂閱我的電子報，就能每個星期獲得該星期最值得關注的所有資訊，以及我的看法。
 ​
 - KP
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-03-15_%E8%BF%91%E6%9C%9F%E5%85%A8%E7%90%83%E9%8A%80%E8%A1%8C%E9%BE%8D%E9%A0%AD%E6%91%A9%E6%A0%B9%E5%A4%A7%E9%80%9AJPMorgan%E5%B0%8D%E6%AD%A3%E8%99%95%E6%96%BC%E6%B0%B4%E6%B7%B1%E7%81%AB%E7%86%B1%E7%9A%84%E7%A7%81%E4%BA%BA%E4%BF%A1%E8%B2%B8Private-Credit%E8%A3%9C%E4%B8%8A%E4%BA%86%E9%97%9C%E9%8D%B5%E4%B8%80%E5%88%80%E9%96%8B%E5%A7%8B%E8%AA%BF%E9%99%8D%E6%9F%90%E4%BA%9B%E8%B2%B8%E6%AC%BE%E6%8A%B5%E6%8A%BC%E5%93%81%E7%9A%84%E4%BC%B0%E5%80%BC.md&period=)

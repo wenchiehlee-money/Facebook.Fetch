@@ -27,3 +27,7 @@ page_canonical_url: "https://www.facebook.com/yutinghaosfinance"
 更大的問題在於，AI帶來的電力需求正在改變整個能源市場結構。像 PJM Interconnection 這類電網營運機構已經感受到壓力，光是資料中心需求，就讓電力市場成本暴增數百億美元，進一步推高家庭電費。
 
 高盛預估，未來五年AI資料中心將占美國電力需求成長的四成，電價年增率可能維持在6%以上。即使企業願意自建電廠，也無法解決整體供需失衡的問題，甚至可能削弱既有電網的財務基礎。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E6%B8%B8%E5%BA%AD%E7%9A%93%E7%9A%84%E8%B2%A1%E7%B6%93%E7%9A%93%E8%A7%92%2F2026-04-18_%E8%B3%93%E5%B7%9E%E5%90%84%E5%9C%B0%E6%B0%91%E6%84%8F%E5%8F%8D%E5%BD%88%E5%A4%A7%E5%8A%9B%E6%8E%A8%E8%A1%8CNot-In-My-Back-Yard%E4%B8%8D%E8%A6%81%E5%9C%A8%E6%88%91%E5%AE%B6%E5%BE%8C%E9%99%A2%E9%81%8B%E5%8B%95%E6%8B%92%E7%B5%95AI%E8%88%87%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E8%93%8B%E5%9C%A8%E8%87%AA%E5%B7%B1%E5%AE%B6%E9%99%84%E8%BF%91%E9%81%BF%E5%85%8D%E9%9B%BB%E5%83%B9%E4%B8%8A%E6%BC%B2%E4%BA%8B%E5%AF%A6%E4%B8%8A%E5%BE%9E%E7%99%BD%E5%AE%AE%E5%88%B0%E5%90%84%E5%B7%9E%E6%94%BF%E5%BA%9C%E5%8C%85%E6%8B%AC%E5%B7%9D%E6%99%AE%E8%88%87%E8%B3%93%E5%B7%9E.md&period=)

@@ -81,3 +81,7 @@ Jane Street 願意一次鎖定 60 億美元 的算力，而且還用自己的錢
 <週末筆記>完全免費，你只需要訂閱我的電子報，就能每個星期獲得該星期最值得關注的所有資訊，以及我的看法，鏈結在下方。
 ​
 - KP
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-04-19_%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%B2%92%E8%81%BD%E9%81%8E-Jane-Street-%E9%80%99%E5%80%8B%E5%90%8D%E5%AD%97%E5%BE%88%E6%AD%A3%E5%B8%B8%E4%BB%96%E5%80%91%E4%B8%8D%E5%81%9A%E5%BB%A3%E5%91%8A%E4%B8%8D%E4%B8%8A%E6%96%B0%E8%81%9E%E4%B8%8D%E8%AB%87%E8%87%AA%E5%B7%B1%E5%9C%A8%E5%81%9A%E4%BB%80%E9%BA%BC.md&period=)

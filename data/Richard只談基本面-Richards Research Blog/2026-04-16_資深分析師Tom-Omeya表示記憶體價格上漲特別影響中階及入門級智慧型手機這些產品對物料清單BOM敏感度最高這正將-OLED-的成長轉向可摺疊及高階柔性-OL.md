@@ -25,3 +25,7 @@ page_canonical_url: "https://www.facebook.com/people/Richard%E5%8F%AA%E8%AB%87%E
 汽車OLED市場預計2026年仍將成長，但由於零件成本壓力及生產前景疲軟，預期有所下調。
 ......
 2026年，智慧型手機領域中，摺疊式OLED面板預計將年增34%，低於先前預估的46%，主要由蘋果的摺疊OLED智慧型手機及三星及其他原廠新機型推動。柔性OLED智慧型手機面板預計將維持年率持平，較先前2%的成長預測下修;而剛性OLED智慧型手機面板預計將較先前預測的成長下降15%。"
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-04-16_%E8%B3%87%E6%B7%B1%E5%88%86%E6%9E%90%E5%B8%ABTom-Omeya%E8%A1%A8%E7%A4%BA%E8%A8%98%E6%86%B6%E9%AB%94%E5%83%B9%E6%A0%BC%E4%B8%8A%E6%BC%B2%E7%89%B9%E5%88%A5%E5%BD%B1%E9%9F%BF%E4%B8%AD%E9%9A%8E%E5%8F%8A%E5%85%A5%E9%96%80%E7%B4%9A%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E9%80%99%E4%BA%9B%E7%94%A2%E5%93%81%E5%B0%8D%E7%89%A9%E6%96%99%E6%B8%85%E5%96%AEBOM%E6%95%8F%E6%84%9F%E5%BA%A6%E6%9C%80%E9%AB%98%E9%80%99%E6%AD%A3%E5%B0%87-OLED-%E7%9A%84%E6%88%90%E9%95%B7%E8%BD%89%E5%90%91%E5%8F%AF%E6%91%BA%E7%96%8A%E5%8F%8A%E9%AB%98%E9%9A%8E%E6%9F%94%E6%80%A7-OL.md&period=)

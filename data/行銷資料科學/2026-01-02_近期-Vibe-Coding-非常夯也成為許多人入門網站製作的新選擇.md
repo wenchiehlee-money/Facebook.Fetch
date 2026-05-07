@@ -24,3 +24,7 @@ page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 
 新年新希望，希望透過這支影片，能幫助大家踏出 Vibe Coding 入門的第一步
 👉 影片連結：
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%2F2026-01-02_%E8%BF%91%E6%9C%9F-Vibe-Coding-%E9%9D%9E%E5%B8%B8%E5%A4%AF%E4%B9%9F%E6%88%90%E7%82%BA%E8%A8%B1%E5%A4%9A%E4%BA%BA%E5%85%A5%E9%96%80%E7%B6%B2%E7%AB%99%E8%A3%BD%E4%BD%9C%E7%9A%84%E6%96%B0%E9%81%B8%E6%93%87.md&period=)

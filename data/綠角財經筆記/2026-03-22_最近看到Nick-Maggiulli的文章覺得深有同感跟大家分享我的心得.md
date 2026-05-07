@@ -75,3 +75,7 @@ page_canonical_url: "https://www.facebook.com/GreenHornFans"
 這時你會知道，他們持有的投資信念中最大的負債恐怕就是:
 
 “我的想法就是正確理念，沒有討論的餘地。”
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-03-22_%E6%9C%80%E8%BF%91%E7%9C%8B%E5%88%B0Nick-Maggiulli%E7%9A%84%E6%96%87%E7%AB%A0%E8%A6%BA%E5%BE%97%E6%B7%B1%E6%9C%89%E5%90%8C%E6%84%9F%E8%B7%9F%E5%A4%A7%E5%AE%B6%E5%88%86%E4%BA%AB%E6%88%91%E7%9A%84%E5%BF%83%E5%BE%97.md&period=)

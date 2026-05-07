@@ -76,3 +76,7 @@ page_canonical_url: "https://www.facebook.com/GreenHornFans"
 這就像家中廚房堆滿了鹽，但卻沒有任何食物需要烹煮一樣。是無意義的累積。
 
 《財富階梯》讓你懂得用有效的方法追求金錢，也讓你不致迷失在金錢之中，仍能看清人生的真正目標。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-27_%E6%88%91%E5%9C%A8%E5%8E%BB%E5%B9%B4%E7%9C%8B%E9%81%8E%E8%A6%BA%E5%BE%97%E9%9D%9E%E5%B8%B8%E5%A5%BD%E7%9C%8B%E4%B8%A6%E5%AF%AB%E4%B8%8B%E4%B8%83%E7%AF%87%E8%AE%80%E5%BE%8C%E6%84%9F%E7%9A%84The-Wealth-Ladder%E4%B8%AD%E8%AD%AF%E7%89%88%E5%B7%B2%E7%B6%93%E5%AE%8C%E6%88%90%E5%8D%B3%E5%B0%87%E7%99%BC%E8%A1%8C.md&period=)

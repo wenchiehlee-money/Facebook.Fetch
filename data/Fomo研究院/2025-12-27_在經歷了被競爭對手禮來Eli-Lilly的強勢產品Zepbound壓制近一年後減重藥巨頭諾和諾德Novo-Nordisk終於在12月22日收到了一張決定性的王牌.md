@@ -98,3 +98,7 @@ Orforglipron在兩個關鍵點上會有優勢：
 • 主題四：Google 如何靠收購 Intersect Power，直接跳過 7 年的電網排隊？
 
 - KP
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2025%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2025&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-27_%E5%9C%A8%E7%B6%93%E6%AD%B7%E4%BA%86%E8%A2%AB%E7%AB%B6%E7%88%AD%E5%B0%8D%E6%89%8B%E7%A6%AE%E4%BE%86Eli-Lilly%E7%9A%84%E5%BC%B7%E5%8B%A2%E7%94%A2%E5%93%81Zepbound%E5%A3%93%E5%88%B6%E8%BF%91%E4%B8%80%E5%B9%B4%E5%BE%8C%E6%B8%9B%E9%87%8D%E8%97%A5%E5%B7%A8%E9%A0%AD%E8%AB%BE%E5%92%8C%E8%AB%BE%E5%BE%B7Novo-Nordisk%E7%B5%82%E6%96%BC%E5%9C%A812%E6%9C%8822%E6%97%A5%E6%94%B6%E5%88%B0%E4%BA%86%E4%B8%80%E5%BC%B5%E6%B1%BA%E5%AE%9A%E6%80%A7%E7%9A%84%E7%8E%8B%E7%89%8C.md&period=)

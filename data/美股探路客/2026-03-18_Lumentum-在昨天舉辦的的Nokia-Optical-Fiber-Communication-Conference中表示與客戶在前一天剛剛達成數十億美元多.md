@@ -27,3 +27,7 @@ page_canonical_url: "https://www.facebook.com/raikk6"
 財報會議釋出的4億美元積壓訂單將在下半年出貨，較上半年成長4倍
 
 Lumentum股價開盤受黃仁勳在GTC說scale up需要很多銅影響而大跌，估計不少不知情投資人選擇賣出持股，盤中股價震幅高達15%、換手率超過12%，收盤上漲近4%，反應利多消息
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=MU%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=MU&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-03-18_Lumentum-%E5%9C%A8%E6%98%A8%E5%A4%A9%E8%88%89%E8%BE%A6%E7%9A%84%E7%9A%84Nokia-Optical-Fiber-Communication-Conference%E4%B8%AD%E8%A1%A8%E7%A4%BA%E8%88%87%E5%AE%A2%E6%88%B6%E5%9C%A8%E5%89%8D%E4%B8%80%E5%A4%A9%E5%89%9B%E5%89%9B%E9%81%94%E6%88%90%E6%95%B8%E5%8D%81%E5%84%84%E7%BE%8E%E5%85%83%E5%A4%9A.md&period=)

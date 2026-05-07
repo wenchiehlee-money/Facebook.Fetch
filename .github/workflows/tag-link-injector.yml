@@ -1,0 +1,37 @@
+name: Inject Tag Links on New Posts
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**/*.md'
+
+jobs:
+  inject:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Get newly added .md files
+        id: new_files
+        run: |
+          FILES=$(git diff --name-only --diff-filter=A HEAD~1 HEAD | grep '\.md$' | tr '\n' ' ')
+          echo "files=$FILES" >> $GITHUB_OUTPUT
+          echo "Found new .md files: $FILES"
+
+      - name: Inject tag links
+        if: steps.new_files.outputs.files != ''
+        run: |
+          python scripts/inject_tag_links.py --files ${{ steps.new_files.outputs.files }}
+
+      - name: Commit injected links
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: inject TAIEX.TW tag links [skip ci]"
+          file_pattern: "data/**/*.md"

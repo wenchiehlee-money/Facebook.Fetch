@@ -159,3 +159,7 @@ Bedrock 不再只是一個賣場，它升級成了「中央指揮部」。
 這場決定雲端霸主命運之戰，究竟如何展開？到我的電子報閱讀全文，你會對亞馬遜的策略有從此不一樣的認知。
 ​
 - KP
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2025%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2025&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-11_%E9%9B%96%E7%84%B6%E6%88%91%E5%80%91%E9%83%BD%E5%9C%A8%E8%AA%AA%E7%A7%91%E6%8A%80%E4%B8%83%E5%B7%A8%E9%A0%ADMagnificent-7%E4%BD%86%E5%9C%A8%E9%80%99AI%E6%99%82%E4%BB%A3%E9%80%997%E5%AE%B6%E7%9C%9F%E7%9A%84%E8%83%BD%E5%A4%A0%E5%AE%8C%E5%85%A8%E7%9B%B8%E6%8F%90%E4%B8%A6%E8%AB%96%E5%97%8E.md&period=)

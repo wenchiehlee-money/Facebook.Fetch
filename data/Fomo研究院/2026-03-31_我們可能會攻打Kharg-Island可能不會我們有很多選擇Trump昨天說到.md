@@ -65,3 +65,7 @@ Trump試圖透過施壓來重開海峽航道，但如果操作不當引發油價
 Kharg Island，既是美國快速取勝的最大希望，也是引爆全球災難的最高風險。它像一把達摩克利斯之劍，懸在伊朗頭頂，也同樣懸在全球經濟的上方。
 ​
 - KP
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-03-31_%E6%88%91%E5%80%91%E5%8F%AF%E8%83%BD%E6%9C%83%E6%94%BB%E6%89%93Kharg-Island%E5%8F%AF%E8%83%BD%E4%B8%8D%E6%9C%83%E6%88%91%E5%80%91%E6%9C%89%E5%BE%88%E5%A4%9A%E9%81%B8%E6%93%87Trump%E6%98%A8%E5%A4%A9%E8%AA%AA%E5%88%B0.md&period=)

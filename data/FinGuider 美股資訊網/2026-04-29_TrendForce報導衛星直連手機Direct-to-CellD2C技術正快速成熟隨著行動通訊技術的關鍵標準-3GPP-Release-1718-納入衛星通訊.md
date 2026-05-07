@@ -39,3 +39,7 @@ page_canonical_url: "https://www.facebook.com/FinGuider"
 🔸供應鏈方面，上游聚焦射頻（RF）模組與基頻晶片，亞德諾半導體（ADI）、科沃（QRVO）為主要供應商；中游交給 Starlink、AST 負責系統整合；下游則是由三星、Google（GOOGL）等手機品牌導入高通（QCOM）、聯發科的方案。
 ​
 對於投資人來說，這波 D2C 趨勢不僅是通訊產業的技術升級，更是全球連網基礎建設的重大補強，不過前方仍有許多技術待執行（衛星發射進度、訊號品質），此外各國頻譜分配與資本密集風險也不容忽視。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-29_TrendForce%E5%A0%B1%E5%B0%8E%E8%A1%9B%E6%98%9F%E7%9B%B4%E9%80%A3%E6%89%8B%E6%A9%9FDirect-to-CellD2C%E6%8A%80%E8%A1%93%E6%AD%A3%E5%BF%AB%E9%80%9F%E6%88%90%E7%86%9F%E9%9A%A8%E8%91%97%E8%A1%8C%E5%8B%95%E9%80%9A%E8%A8%8A%E6%8A%80%E8%A1%93%E7%9A%84%E9%97%9C%E9%8D%B5%E6%A8%99%E6%BA%96-3GPP-Release-1718-%E7%B4%8D%E5%85%A5%E8%A1%9B%E6%98%9F%E9%80%9A%E8%A8%8A.md&period=)

@@ -27,3 +27,7 @@ page_canonical_url: "https://www.facebook.com/FinGuider"
 考量到政府之前把 Anthropic 說成風險很高，直接取消「供應鏈風險認定」就等於承認先前的判斷失誤，而且五角大廈的立場依然很硬，因此白宮正想辦法保全面子、找個台階下。
 
 此外，如果政府突然撤回風險認定，可能會造成許多成本，因此白宮想先讓聯邦機構拿到 Mythos 等新模型的能力，同時持續與 Anthropic 談判，近期 OpenAI 和 Google 都已簽署協議，允許五角大廈在機密環境中依「一切合法用途」使用 AI 模型。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-29_Axios%E5%A0%B1%E5%B0%8E%E7%99%BD%E5%AE%AE%E6%AD%A3%E8%B5%B7%E8%8D%89%E4%B8%80%E6%A2%9D%E8%A1%8C%E6%94%BF%E5%91%BD%E4%BB%A4%E8%AE%93%E7%BE%8E%E5%9C%8B%E6%94%BF%E5%BA%9C%E9%83%A8%E9%96%80%E5%8F%AF%E4%BB%A5%E7%B9%9E%E9%81%8E-Anthropic-%E8%A2%AB%E6%A8%99%E8%A8%98%E7%82%BA%E4%BE%9B%E6%87%89%E9%8F%88%E9%A2%A8%E9%9A%AA%E7%9A%84%E9%99%90%E5%88%B6%E4%BB%A5%E4%BE%BF%E5%B0%8E%E5%85%A5%E5%8C%85%E6%8B%AC-Mythos-%E5%9C%A8%E5%85%A7%E7%9A%84%E6%9C%80%E6%96%B0-Anthropi.md&period=)

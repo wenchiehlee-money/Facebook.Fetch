@@ -36,3 +36,7 @@ page_canonical_url: "https://www.facebook.com/FinGuider"
 ● Pimco 擬融資 140 億美元助攻甲骨文
 ● 蘋果摺疊 iPhone 將按計畫於 9 月上市
 ● FDIC 訂穩定幣規範，銀行發行門檻明確化
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-08_%E5%B7%9D%E6%99%AE%E5%9C%A8-Truth-Social-%E4%B8%8A%E5%AE%A3%E5%B8%83%E7%BE%8E%E5%9C%8B%E8%88%87%E4%BC%8A%E6%9C%97%E9%81%94%E6%88%90%E7%82%BA%E6%9C%9F-2-%E9%80%B1%E7%9A%84%E9%9B%99%E9%82%8A%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0%E5%89%8D%E6%8F%90%E6%98%AF%E4%BC%8A%E6%9C%97%E7%AB%8B%E5%8D%B3%E5%AE%8C%E5%85%A8%E5%AE%89%E5%85%A8%E7%9A%84%E9%96%8B%E6%94%BE%E8%8D%B7%E5%A7%86%E8%8C%B2%E6%B5%B7%E5%B3%BD%E4%B8%A6%E5%BC%B7%E8%AA%BF%E7%BE%8E%E6%96%B9%E8%BB%8D%E4%BA%8B%E7%9B%AE%E6%A8%99%E5%B7%B2%E9%81%94%E6%88%90%E6%AD%A3%E6%8E%A8%E5%8B%95%E9%95%B7%E6%9C%9F%E5%92%8C%E5%B9%B3%E5%8D%94%E8%AD%B0.md&period=)

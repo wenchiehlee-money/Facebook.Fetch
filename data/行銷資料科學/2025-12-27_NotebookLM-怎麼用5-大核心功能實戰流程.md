@@ -38,3 +38,7 @@ page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 
 👀 點我閱讀更多：https://tmrmds.co/article-business/29379/
 ✏️ 作者：林奕綺、鍾皓軒(臺灣行銷研究有限公司創辦人）
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2025%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2025&file_path=data%2F%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%2F2025-12-27_NotebookLM-%E6%80%8E%E9%BA%BC%E7%94%A85-%E5%A4%A7%E6%A0%B8%E5%BF%83%E5%8A%9F%E8%83%BD%E5%AF%A6%E6%88%B0%E6%B5%81%E7%A8%8B.md&period=)

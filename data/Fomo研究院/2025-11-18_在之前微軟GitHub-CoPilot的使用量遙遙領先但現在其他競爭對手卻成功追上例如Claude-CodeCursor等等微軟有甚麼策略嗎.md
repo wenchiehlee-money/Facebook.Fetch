@@ -124,3 +124,7 @@ GitHub 不僅是一個存儲代碼的平台，它更是通往 Azure 的巨大流
 就像Netflix需要電影公司的內容一樣，微軟的平台也需要這些AI公司的模型來豐富自己的「頻道列表」。競爭對手的成功，反而增強了微軟平台的吸引力。
 ​
 - KP
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2025%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2025&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-11-18_%E5%9C%A8%E4%B9%8B%E5%89%8D%E5%BE%AE%E8%BB%9FGitHub-CoPilot%E7%9A%84%E4%BD%BF%E7%94%A8%E9%87%8F%E9%81%99%E9%81%99%E9%A0%98%E5%85%88%E4%BD%86%E7%8F%BE%E5%9C%A8%E5%85%B6%E4%BB%96%E7%AB%B6%E7%88%AD%E5%B0%8D%E6%89%8B%E5%8D%BB%E6%88%90%E5%8A%9F%E8%BF%BD%E4%B8%8A%E4%BE%8B%E5%A6%82Claude-CodeCursor%E7%AD%89%E7%AD%89%E5%BE%AE%E8%BB%9F%E6%9C%89%E7%94%9A%E9%BA%BC%E7%AD%96%E7%95%A5%E5%97%8E.md&period=)

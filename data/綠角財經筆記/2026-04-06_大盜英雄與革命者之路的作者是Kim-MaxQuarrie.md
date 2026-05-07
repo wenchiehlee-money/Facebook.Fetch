@@ -121,3 +121,7 @@ page_canonical_url: "https://www.facebook.com/GreenHornFans"
 當達爾文，這位前人的南美洲之旅，帶領生物科學開啟了全新的扉頁。
 
 有多少現代人，仍受限於自身觀念，自願留在投資的蠻荒時代呢?
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-06_%E5%A4%A7%E7%9B%9C%E8%8B%B1%E9%9B%84%E8%88%87%E9%9D%A9%E5%91%BD%E8%80%85%E4%B9%8B%E8%B7%AF%E7%9A%84%E4%BD%9C%E8%80%85%E6%98%AFKim-MaxQuarrie.md&period=)

@@ -46,3 +46,7 @@ page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 因此，進行關鍵字研究，找到對的關鍵字，常常就掌握了致勝的先機。至於進行關鍵字研究的具體作法，可以先到 Google Adwords 去找與某概念相關的關鍵字和它的搜尋量；或者到 Google Trends 尋找某些關鍵字歷年搜尋的趨勢與排行；還有就是到社群網站裡，挖掘與探索消費者正在討論的字詞，這些都有助於企業找出對的關鍵字。
 
 ✏️ 作者: 蘇宇暉（台科大管研所博士生）、羅凱揚（台科大企管系博士）
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2025%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2025&file_path=data%2F%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%2F2025-11-21_%E6%8E%A2%E5%B0%8B%E9%A1%A7%E5%AE%A2%E5%85%A7%E5%BF%83%E6%9C%80%E7%9C%9F%E5%AF%A6%E7%9A%84%E6%84%8F%E5%9C%96--%E9%97%9C%E9%8D%B5%E5%AD%97%E6%90%9C%E5%B0%8B--%E5%88%86%E6%9E%90Keyword-Search-Analytics.md&period=)

@@ -40,3 +40,7 @@ page_canonical_url: "https://www.facebook.com/people/Richard%E5%8F%AA%E8%AB%87%E
 ......"
 
 https://cdnh5.laohucaijing.com/kjj_lh/article.html?type=2&scartype=2&newid=161026&productId=1102
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%202026%20Q2%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-04-11_%E6%9C%AC%E6%B3%A2%E7%8F%BE%E8%B2%A8%E5%83%B9%E5%B8%82%E4%BD%945%E5%B0%8D%E5%90%88%E7%B4%84%E5%83%B995%E6%9C%89%E9%A0%98%E5%85%88%E6%80%A7leading-indicator%E5%97%8E%E4%B9%8B%E5%89%8D%E7%9A%84%E7%AC%AC%E4%B8%80%E5%80%8B%E8%AD%89%E6%93%9A%E6%98%AF23%E6%9C%88%E7%8F%BE%E8%B2%A8%E5%83%B9%E4%B8%8B%E8%B7%8C%E4%B9%8B%E5%BE%8C2Q26%E5%90%88%E7%B4%84%E5%83%B9%E7%B9%BC%E7%BA%8C%E5%A4%A7%E6%BC%B2%E6%B2%92%E6%9C%89%E9%A0%98%E5%85%88%E6%80%A7%E7%84%B6%E5%BE%8C.md&period=2026%20Q2)

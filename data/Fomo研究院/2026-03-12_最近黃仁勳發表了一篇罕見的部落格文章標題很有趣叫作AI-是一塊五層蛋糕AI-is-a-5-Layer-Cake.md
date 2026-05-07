@@ -84,3 +84,7 @@ p.s. 最新一期深入分析已經發出，主角是ASIC雙雄：Broadcom和Mar
 但如果你認為他們就是純粹的ASIC大哥和老二，那就簡化了他們的投資邏輯。為何兩者估值會相差這麼遠，為何博通的Forward PE會比Nvidia更高。而在財報公報後，有其中一家的估值邏輯已經出現了變化。在我電子報中的深度產業分析報告中，我將為大家全面深入分析。
 ​
 加入我的電子報，閱讀全文，你會對這兩家公司有完全不一樣的認知。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-03-12_%E6%9C%80%E8%BF%91%E9%BB%83%E4%BB%81%E5%8B%B3%E7%99%BC%E8%A1%A8%E4%BA%86%E4%B8%80%E7%AF%87%E7%BD%95%E8%A6%8B%E7%9A%84%E9%83%A8%E8%90%BD%E6%A0%BC%E6%96%87%E7%AB%A0%E6%A8%99%E9%A1%8C%E5%BE%88%E6%9C%89%E8%B6%A3%E5%8F%AB%E4%BD%9CAI-%E6%98%AF%E4%B8%80%E5%A1%8A%E4%BA%94%E5%B1%A4%E8%9B%8B%E7%B3%95AI-is-a-5-Layer-Cake.md&period=)

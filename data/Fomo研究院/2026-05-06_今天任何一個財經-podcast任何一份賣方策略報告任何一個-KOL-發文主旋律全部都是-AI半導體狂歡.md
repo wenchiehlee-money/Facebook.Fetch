@@ -47,3 +47,7 @@ page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%9
 連續談了幾個星期的半導體，要賺的大家都應該要賺了，還在舉棋不定的，應該也會繼續恐高。是時候將目光放到，究竟這場戰爭過後，有甚麼被結構性改變了，值得我們去研究。我在最新一期的深入分析，探討了LNG，油田服務，煉油，化肥，4大主題各自的邏輯。
 ​
 - KP
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-05-06_%E4%BB%8A%E5%A4%A9%E4%BB%BB%E4%BD%95%E4%B8%80%E5%80%8B%E8%B2%A1%E7%B6%93-podcast%E4%BB%BB%E4%BD%95%E4%B8%80%E4%BB%BD%E8%B3%A3%E6%96%B9%E7%AD%96%E7%95%A5%E5%A0%B1%E5%91%8A%E4%BB%BB%E4%BD%95%E4%B8%80%E5%80%8B-KOL-%E7%99%BC%E6%96%87%E4%B8%BB%E6%97%8B%E5%BE%8B%E5%85%A8%E9%83%A8%E9%83%BD%E6%98%AF-AI%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%8B%82%E6%AD%A1.md&period=)

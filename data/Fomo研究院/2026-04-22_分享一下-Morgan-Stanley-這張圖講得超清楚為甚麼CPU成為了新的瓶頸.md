@@ -51,3 +51,7 @@ page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%9
 我上週深入分析了CPU的整個投資邏輯，不同標的的具體投資機會，我推薦大家都去閱讀一下，你會對整個板塊有不一樣的認知。
 ​
 - KP
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-04-22_%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%8B-Morgan-Stanley-%E9%80%99%E5%BC%B5%E5%9C%96%E8%AC%9B%E5%BE%97%E8%B6%85%E6%B8%85%E6%A5%9A%E7%82%BA%E7%94%9A%E9%BA%BCCPU%E6%88%90%E7%82%BA%E4%BA%86%E6%96%B0%E7%9A%84%E7%93%B6%E9%A0%B8.md&period=)

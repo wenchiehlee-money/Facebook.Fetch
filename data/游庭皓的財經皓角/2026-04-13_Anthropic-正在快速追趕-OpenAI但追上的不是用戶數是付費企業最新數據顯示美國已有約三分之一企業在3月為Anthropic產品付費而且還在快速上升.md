@@ -27,3 +27,7 @@ Anthropic 正在快速追趕 OpenAI，但追上的不是用戶數，是付費企
 這代表AI競爭進入下一階段。OpenAI靠消費市場起家，用ChatGPT累積龐大用戶，但這種爆發式成長很難持續；反而是Anthropic，從開發者與專業用戶切入，慢慢往企業場景擴張，現在開始吃到成果。
 
 即使面對政府監管疑慮，企業仍然更在意模型效能與整合能力。整體來看，AI市場正在從誰用的人多，轉向誰能真正嵌入企業生產力，而這場戰爭，才剛開始重新洗牌。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E6%B8%B8%E5%BA%AD%E7%9A%93%E7%9A%84%E8%B2%A1%E7%B6%93%E7%9A%93%E8%A7%92%2F2026-04-13_Anthropic-%E6%AD%A3%E5%9C%A8%E5%BF%AB%E9%80%9F%E8%BF%BD%E8%B6%95-OpenAI%E4%BD%86%E8%BF%BD%E4%B8%8A%E7%9A%84%E4%B8%8D%E6%98%AF%E7%94%A8%E6%88%B6%E6%95%B8%E6%98%AF%E4%BB%98%E8%B2%BB%E4%BC%81%E6%A5%AD%E6%9C%80%E6%96%B0%E6%95%B8%E6%93%9A%E9%A1%AF%E7%A4%BA%E7%BE%8E%E5%9C%8B%E5%B7%B2%E6%9C%89%E7%B4%84%E4%B8%89%E5%88%86%E4%B9%8B%E4%B8%80%E4%BC%81%E6%A5%AD%E5%9C%A83%E6%9C%88%E7%82%BAAnthropic%E7%94%A2%E5%93%81%E4%BB%98%E8%B2%BB%E8%80%8C%E4%B8%94%E9%82%84%E5%9C%A8%E5%BF%AB%E9%80%9F%E4%B8%8A%E5%8D%87.md&period=)

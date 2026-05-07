@@ -47,3 +47,7 @@ Congrats on the very strong numbers. Actually, I wanted to follow up on Vivek's 
 ......
 CPU 如何優化與基礎模型合作，如何優化這些數據，真正推動代理人工智慧的巨大機會。我認為推論市場會更大，實體人工智慧也是另一個大市場。所以我認為這對我們來說是一個機會。雖然很難量化
 And so you addressed some of this agentic AI and later on the physical AI, how the CPU optimize working together with the foundation models, how to optimize that and using the data to really drive the massive opportunity in the agentic AI. I think the inference is going to be a much bigger market and the physical AI is another big market. So I think that's an opportunity for us. And it's hard to quantify.
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=MU%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=MU&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-04-24_%E9%87%9D%E5%B0%8Dagentic-AI%E5%92%8Cmulti-agent%E5%B7%A5%E4%BD%9C%E8%B2%A0%E8%BC%89%E7%9A%84AI%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E5%88%B0%E5%BA%95CPU%E5%92%8CGPU%E7%9A%84%E6%90%AD%E9%85%8D%E6%AF%94%E4%BE%8B%E6%9C%83%E5%A4%9A%E5%B0%91-Intel%E6%B2%92%E6%9C%89%E7%B5%A6%E6%98%8E%E7%A2%BA%E7%9A%84%E7%AD%94%E6%A1%88%E4%BD%86%E6%98%AF%E6%96%B9%E5%90%91%E6%80%A7%E5%BE%88%E6%B8%85%E6%A5%9A%E6%95%B8%E9%87%8F%E6%AF%94%E4%BE%8B%E4%B8%8A%E5%A4%A7.md&period=)

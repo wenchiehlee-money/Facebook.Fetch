@@ -36,3 +36,7 @@ page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 ✨ AI 廣告高級大片實戰： 現場拆解如何利用 AI 影片生成技術，製作定向掃光、質感拉滿的產品廣告，讓你的視覺力直接超車。
 ✨ 一人公司的千萬級邏輯： 揭秘如何利用 AI 協助動靜圖像，實現從 1 人到千萬級公司的跨越，同步學會「從目標做選擇」的創業者思維。 本次將會介紹我們小而美創業生態圈 - 煎妮的經歷。
 ✨ Vibe Coding 與 Gemini 實戰： 零基礎也能快速完成基礎的數位品牌頁面，用 AI 撰寫最具渲染力的品牌故事與行動呼籲。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%2F2026-04-16_%E6%AD%A1%E8%BF%8E%E5%8F%83%E8%80%83%E6%88%91%E5%80%91%E7%9B%B4%E6%92%AD%E5%88%86%E4%BA%AB%E6%9C%83httpsyoutubecomlivet_l_HFelr0s.md&period=)

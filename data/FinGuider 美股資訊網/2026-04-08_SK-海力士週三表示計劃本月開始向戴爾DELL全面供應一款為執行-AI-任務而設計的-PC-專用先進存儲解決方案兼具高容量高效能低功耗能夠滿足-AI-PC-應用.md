@@ -23,3 +23,7 @@ page_canonical_url: "https://www.facebook.com/FinGuider"
 SK 海力士週三表示，計劃本月開始向戴爾（DELL）全面供應一款為執行 AI 任務而設計的 PC 專用先進存儲解決方案，兼具高容量、高效能、低功耗，能夠滿足 AI PC 應用中日益增長的儲存需求。
 
 SK 海力士透露，這款最新的固態硬碟（cSSD）PQC21 採用 321 層 QLC NAND 技術，提供 1TB、2TB 兩種選擇，未來將持續擴大與全球其他主要客戶合作，鞏固在次世代 AI PC 儲存領域的領先地位。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=DELL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=DELL&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-08_SK-%E6%B5%B7%E5%8A%9B%E5%A3%AB%E9%80%B1%E4%B8%89%E8%A1%A8%E7%A4%BA%E8%A8%88%E5%8A%83%E6%9C%AC%E6%9C%88%E9%96%8B%E5%A7%8B%E5%90%91%E6%88%B4%E7%88%BEDELL%E5%85%A8%E9%9D%A2%E4%BE%9B%E6%87%89%E4%B8%80%E6%AC%BE%E7%82%BA%E5%9F%B7%E8%A1%8C-AI-%E4%BB%BB%E5%8B%99%E8%80%8C%E8%A8%AD%E8%A8%88%E7%9A%84-PC-%E5%B0%88%E7%94%A8%E5%85%88%E9%80%B2%E5%AD%98%E5%84%B2%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88%E5%85%BC%E5%85%B7%E9%AB%98%E5%AE%B9%E9%87%8F%E9%AB%98%E6%95%88%E8%83%BD%E4%BD%8E%E5%8A%9F%E8%80%97%E8%83%BD%E5%A4%A0%E6%BB%BF%E8%B6%B3-AI-PC-%E6%87%89%E7%94%A8.md&period=)

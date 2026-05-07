@@ -35,3 +35,7 @@ page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 謝謝大家，也希望你們會喜歡這份充滿愛與祝福的作品。
 
 https://youtube.com/live/CEnTNExfVCw?feature=share
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%2F2026-04-29_%E6%88%91%E5%80%91%E7%9A%84%E6%96%B0-MV-%E7%B5%82%E6%96%BC%E5%87%BA%E4%BE%86%E4%BA%86%E9%80%99%E6%94%AF-MV-%E5%B0%8D%E6%88%91%E4%BE%86%E8%AA%AA%E6%9C%89%E8%91%97%E9%9D%9E%E5%B8%B8%E7%89%B9%E5%88%A5%E7%9A%84%E6%84%8F%E7%BE%A9%E5%9B%A0%E7%82%BA%E6%88%91%E5%8D%B3%E5%B0%87%E8%B5%B0%E9%80%B2%E4%BA%BA%E7%94%9F%E4%B8%8B%E4%B8%80%E5%80%8B%E9%87%8D%E8%A6%81%E9%9A%8E%E6%AE%B5---%E7%B5%90%E5%A9%9A%E6%89%80%E4%BB%A5%E6%88%91%E6%83%B3%E6%8A%8A%E9%80%99%E4%BB%BD%E4%BD%9C%E5%93%81%E9%80%81%E7%B5%A6%E6%88%91%E7%9A%84%E6%9C%AA%E5%A9%9A%E5%A6%BB-Charlene%E4%BD%9C%E7%82%BA.md&period=)

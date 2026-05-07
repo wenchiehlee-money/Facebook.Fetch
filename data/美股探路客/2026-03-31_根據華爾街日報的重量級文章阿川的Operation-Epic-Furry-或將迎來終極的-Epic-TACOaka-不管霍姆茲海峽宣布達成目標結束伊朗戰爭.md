@@ -48,3 +48,7 @@ page_canonical_url: "https://www.facebook.com/raikk6"
 美伊戰事進入第五週，即將邁入預定的第六週，美國汽油平均價格正式突破每加侖$4美元，阿川的壓力指數爆表，推出終極TACO的機率攀升
 
 推薦訂閱 風傳媒x華爾街日報 VVIP 方案，透過專屬活動連結訂閱，除贈送一個月的美股探路客PressPlay訂閱專欄會員外，風傳媒將代為捐出 500 元予「花蓮角兒愛心公益協會」，將知識的力量轉化為實質的社會關懷，活動期限至5/10
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-03-31_%E6%A0%B9%E6%93%9A%E8%8F%AF%E7%88%BE%E8%A1%97%E6%97%A5%E5%A0%B1%E7%9A%84%E9%87%8D%E9%87%8F%E7%B4%9A%E6%96%87%E7%AB%A0%E9%98%BF%E5%B7%9D%E7%9A%84Operation-Epic-Furry-%E6%88%96%E5%B0%87%E8%BF%8E%E4%BE%86%E7%B5%82%E6%A5%B5%E7%9A%84-Epic-TACOaka-%E4%B8%8D%E7%AE%A1%E9%9C%8D%E5%A7%86%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%A3%E5%B8%83%E9%81%94%E6%88%90%E7%9B%AE%E6%A8%99%E7%B5%90%E6%9D%9F%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD.md&period=)
