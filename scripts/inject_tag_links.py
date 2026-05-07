@@ -170,19 +170,95 @@ def inject_file(md_path: Path, repo_root: Path, sym_map: dict[str, str]) -> bool
     return True
 
 
+def get_badge_status(md_path: Path) -> str:
+    """Return the current badge status of a .md file.
+
+    Returns one of:
+      '✅'  — issue closed (已比對)
+      '🔄'  — issue open (已標記)
+      '📌'  — tag link injected but no issue yet
+      ''    — not tagged at all
+    """
+    try:
+        content = md_path.read_text(encoding="utf-8", errors="ignore")
+    except Exception:
+        return ""
+    if "✅ 已比對" in content:
+        return "✅"
+    if "🔄 已標記" in content:
+        return "🔄"
+    if "📌 新增貼文至TAIEX.TW比對" in content:
+        return "📌"
+    return ""
+
+
+def update_index(repo_root: Path) -> int:
+    """Scan all data/**/index.md files and prefix each list item with badge status.
+
+    Format:
+      - `YYYY-MM-DD` [title](file.md)           → no badge, no change
+      - `YYYY-MM-DD` 📌 [title](file.md)        → has tag link but no issue
+      - `YYYY-MM-DD` 🔄 [title](file.md)        → issue submitted
+      - `YYYY-MM-DD` ✅ [title](file.md)        → issue closed / compared
+
+    Returns number of index files updated.
+    """
+    updated = 0
+    # Match list item pattern: - `YYYY-MM-DD` [optional_badge ][title](file.md)
+    item_re = re.compile(
+        r'^(- `\d{4}-\d{2}-\d{2}` )(?:[✅🔄📌]\s+)?(\[.*?\]\(([^)]+\.md)\))(.*)$'
+    )
+
+    for index_path in sorted(repo_root.glob("data/**/index.md")):
+        page_dir = index_path.parent
+        lines    = index_path.read_text(encoding="utf-8").splitlines(keepends=True)
+        new_lines = []
+        changed   = False
+
+        for line in lines:
+            m = item_re.match(line.rstrip("\n"))
+            if m:
+                prefix, link_part, md_filename, rest = m.groups()
+                md_file = page_dir / md_filename
+                badge = get_badge_status(md_file) if md_file.exists() else ""
+                badge_str = f"{badge} " if badge else ""
+                new_line = f"{prefix}{badge_str}{link_part}{rest}\n"
+                if new_line != line:
+                    changed = True
+                new_lines.append(new_line)
+            else:
+                new_lines.append(line)
+
+        if changed:
+            index_path.write_text("".join(new_lines), encoding="utf-8")
+            print(f"  [index] updated: {index_path.relative_to(repo_root)}")
+            updated += 1
+
+    return updated
+
+
 def main():
     parser = argparse.ArgumentParser(description="Inject TAIEX.TW tag links into .md files")
     group = parser.add_mutually_exclusive_group(required=True)
-    group.add_argument("--all",   action="store_true", help="Process all .md files under data/")
-    group.add_argument("--files", nargs="+",           help="Specific file paths to process")
+    group.add_argument("--all",          action="store_true", help="Process all .md files under data/")
+    group.add_argument("--files",        nargs="+",           help="Specific file paths to process")
+    group.add_argument("--update-index", action="store_true", help="Only update index.md badge status (no injection)")
     args = parser.parse_args()
 
     repo_root = Path(__file__).resolve().parent.parent
-    sym_map   = load_symbols_from_conceptstocks(repo_root)
+
+    if args.update_index:
+        n = update_index(repo_root)
+        print(f"\nDone: {n} index file(s) updated")
+        return
+
+    sym_map = load_symbols_from_conceptstocks(repo_root)
     print(f"  Loaded {len(sym_map)} symbol aliases")
 
     if args.all:
         files = sorted(repo_root.glob("data/**/*.md"))
+        # exclude index.md files
+        files = [f for f in files if f.name != "index.md"]
     else:
         files = [Path(f).resolve() for f in args.files]
 
@@ -200,6 +276,9 @@ def main():
             skipped += 1
 
     print(f"\nDone: {modified} tagged, {skipped} skipped, {total} total")
+
+    # Always refresh index after injection
+    update_index(repo_root)
 
 
 if __name__ == "__main__":
