@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/MarketingDataScienceTMR"
 final_url: "https://www.facebook.com/MarketingDataScienceTMR"
 post_url: "https://www.facebook.com/reel/1298866165712990/"
 creation_time_utc: "2026-05-04T08:09:28+00:00"
-fetched_at_utc: "2026-05-04T08:48:32.760373+00:00"
+fetched_at_utc: "2026-05-07T04:01:50.086552+00:00"
 source: "public_graphql"
 attachment_type: "Video"
 attachment_url: "https://www.facebook.com/reel/1298866165712990/"
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t15.5256-10/686492089_805814052351607_3911787178158883969_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=gyTCtkc5wqgQ7kNvwEywqUU&_nc_oc=Adpg_69YjHc8pQLSSL7XQHPx1qzNHRAaPjZfx9EQHSX9yLw6atlyU-ABd472wyKoMiU&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=uqa2WebqakGgrdE9ikeJZA&_nc_ss=78100&oh=00_Af5U2ZbSZFvIp3HQL7a08Mpx3JySTcW0KsILko1pxVXNlQ&oe=69FE345D"
+image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t15.5256-10/686492089_805814052351607_3911787178158883969_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=eza7dmYS2NwQ7kNvwGvhbJr&_nc_oc=AdpiYunJen-JQFTm63uGYOSLE-AwoM8uaoku3io9BDj1K-2CHpqcbK23Clf_U4nVMmM&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=brah20UXA8BZ1uXBSPczIQ&_nc_ss=78100&oh=00_Af5ktuM6IZulERG2EncNloEJ88k8s3DE5akxA4LHzF0H_g&oe=6A01F09D"
 feedback_id: "ZmVlZGJhY2s6MTI3MTc5OTUxMTczMDM1OA=="
 page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 ---
@@ -19,7 +19,7 @@ page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 
 原文連結: https://www.facebook.com/reel/1298866165712990/
 
-![【精華】✨當 Vibe Coding 遇上 AI 工作流✨：n8n、Make、Google Opal 誰更能「聽懂」行銷人的直覺？](https://scontent-tpe1-1.xx.fbcdn.net/v/t15.5256-10/686492089_805814052351607_3911787178158883969_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=gyTCtkc5wqgQ7kNvwEywqUU&_nc_oc=Adpg_69YjHc8pQLSSL7XQHPx1qzNHRAaPjZfx9EQHSX9yLw6atlyU-ABd472wyKoMiU&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=uqa2WebqakGgrdE9ikeJZA&_nc_ss=78100&oh=00_Af5U2ZbSZFvIp3HQL7a08Mpx3JySTcW0KsILko1pxVXNlQ&oe=69FE345D)
+![【精華】✨當 Vibe Coding 遇上 AI 工作流✨：n8n、Make、Google Opal 誰更能「聽懂」行銷人的直覺？](https://scontent-tpe1-1.xx.fbcdn.net/v/t15.5256-10/686492089_805814052351607_3911787178158883969_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=eza7dmYS2NwQ7kNvwGvhbJr&_nc_oc=AdpiYunJen-JQFTm63uGYOSLE-AwoM8uaoku3io9BDj1K-2CHpqcbK23Clf_U4nVMmM&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=brah20UXA8BZ1uXBSPczIQ&_nc_ss=78100&oh=00_Af5ktuM6IZulERG2EncNloEJ88k8s3DE5akxA4LHzF0H_g&oe=6A01F09D)
 【精華】✨當 Vibe Coding 遇上 AI 工作流✨：n8n、Make、Google Opal 誰更能「聽懂」行銷人的直覺？
 
 Elon·Musk 有一個理念是：「能上原型（prototype），就不要給我PPT」，但而vibe coding工作流，就是行銷人的「即時原型」！

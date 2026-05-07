@@ -4,12 +4,12 @@ title: "為何Micron美光的forward P/E只有5.5x⋯"
 page_title: "美股探路客"
 requested_url: "https://www.facebook.com/raikk6"
 final_url: "https://www.facebook.com/raikk6"
-post_url: "https://www.facebook.com/raikk6/posts/pfbid0eseWfYarY1fyTNED9GiZSjQaf3cpwNSTaG5mTZyVpJrSoYxTHQqtQFHWqV83wvZPl"
+post_url: "https://www.facebook.com/raikk6/posts/pfbid0eq92LmLquDEeHerBKakdDHHMxt61G7p8XyJ9PkswKFxb7841FMdFWVKxTeyF65i1l"
 creation_time_utc: "2026-04-18T05:49:30+00:00"
-fetched_at_utc: "2026-05-01T09:13:12.408799+00:00"
+fetched_at_utc: "2026-05-07T04:06:34.895742+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/raikk6/posts/pfbid0eseWfYarY1fyTNED9GiZSjQaf3cpwNSTaG5mTZyVpJrSoYxTHQqtQFHWqV83wvZPl"
+attachment_url: "https://www.facebook.com/raikk6/posts/pfbid0eq92LmLquDEeHerBKakdDHHMxt61G7p8XyJ9PkswKFxb7841FMdFWVKxTeyF65i1l"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTM3OTI0NzcyMDkxNTgyOA=="
 page_canonical_url: "https://www.facebook.com/raikk6"
@@ -17,7 +17,7 @@ page_canonical_url: "https://www.facebook.com/raikk6"
 
 # 為何Micron美光的forward P/E只有5.5x⋯
 
-原文連結: https://www.facebook.com/raikk6/posts/pfbid0eseWfYarY1fyTNED9GiZSjQaf3cpwNSTaG5mTZyVpJrSoYxTHQqtQFHWqV83wvZPl
+原文連結: https://www.facebook.com/raikk6/posts/pfbid0eq92LmLquDEeHerBKakdDHHMxt61G7p8XyJ9PkswKFxb7841FMdFWVKxTeyF65i1l
 為何Micron美光的forward P/E只有5.5x⋯
 
 昨天MarketWatch文章解釋了原因，華爾街目前預測美光2026營收為130.65B，2027成長33%，但2028年將衰退10%，到2028的年複合增長率只有9.5%

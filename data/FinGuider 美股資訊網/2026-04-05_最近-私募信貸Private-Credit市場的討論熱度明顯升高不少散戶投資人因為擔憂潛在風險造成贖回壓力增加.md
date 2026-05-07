@@ -4,22 +4,22 @@ title: "最近 #私募信貸（Private Credit）市場的討論熱度明顯升�
 page_title: "FinGuider 美股資訊網"
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid0383f3aYz8j5nsXeG2DWVLhF32M9peH6Sf8LfTZ5e6jKPdwcTDHM2bUZ3evx6johmjl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid038Jx5XH3b6GaiYHmfVCB8YKmhfMaFpgo1oMsNdEnu2fRuDeJtKmQK8Zadzgctm48Cl"
 creation_time_utc: "2026-04-05T04:23:33+00:00"
-fetched_at_utc: "2026-04-29T04:24:58.535697+00:00"
+fetched_at_utc: "2026-05-07T03:55:32.771446+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/665927672_1413237270846416_3889785048436496969_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=CujeCWg3APwQ7kNvwGRQEg4&_nc_oc=AdqBG-3sup4hSaYuGDMDACQP9gGr32hZdtBxqObzUtL6sZRp7l5SuUiBw9WeEqtRxto&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=-C64g7utD3WirAxCKbScrQ&_nc_ss=78100&oh=00_Af0bKzyOczOoIdTvjYhtF1CMcYAlbqsVo8ZEvMcCLhza0A&oe=69F76139"
+image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/665927672_1413237270846416_3889785048436496969_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=4PGxV1C88bIQ7kNvwFhwKHm&_nc_oc=AdqNaTtv2xgYxklOG7i_wA4_waQLp1WYikVmajw6XiwLQ2o8X5O1Nu6hhfdnc181hOI&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=Ln4GO70oPQa3SWeYBHDsPw&_nc_ss=78100&oh=00_Af7pvZCJ49sdlLsmjr5tZ_gDRK-b8ypFSjPxardGhTa_xw&oe=6A01ED39"
 feedback_id: "ZmVlZGJhY2s6MTQxMzIyODQ0NDE4MDYzMg=="
 page_canonical_url: "https://www.facebook.com/FinGuider"
 ---
 
 # 最近 #私募信貸（Private Credit）市場的討論熱度明顯升高，不少散戶投資人因為擔憂潛在風險，造成贖回壓力增加。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid0383f3aYz8j5nsXeG2DWVLhF32M9peH6Sf8LfTZ5e6jKPdwcTDHM2bUZ3evx6johmjl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid038Jx5XH3b6GaiYHmfVCB8YKmhfMaFpgo1oMsNdEnu2fRuDeJtKmQK8Zadzgctm48Cl
 
-![最近 #私募信貸（Private Credit）市場的討論熱度明顯升高，不少散戶投資人因為擔憂潛在風險，造成贖回壓力增加。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/665927672_1413237270846416_3889785048436496969_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=CujeCWg3APwQ7kNvwGRQEg4&_nc_oc=AdqBG-3sup4hSaYuGDMDACQP9gGr32hZdtBxqObzUtL6sZRp7l5SuUiBw9WeEqtRxto&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=-C64g7utD3WirAxCKbScrQ&_nc_ss=78100&oh=00_Af0bKzyOczOoIdTvjYhtF1CMcYAlbqsVo8ZEvMcCLhza0A&oe=69F76139)
+![最近 #私募信貸（Private Credit）市場的討論熱度明顯升高，不少散戶投資人因為擔憂潛在風險，造成贖回壓力增加。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/665927672_1413237270846416_3889785048436496969_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=4PGxV1C88bIQ7kNvwFhwKHm&_nc_oc=AdqNaTtv2xgYxklOG7i_wA4_waQLp1WYikVmajw6XiwLQ2o8X5O1Nu6hhfdnc181hOI&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=Ln4GO70oPQa3SWeYBHDsPw&_nc_ss=78100&oh=00_Af7pvZCJ49sdlLsmjr5tZ_gDRK-b8ypFSjPxardGhTa_xw&oe=6A01ED39)
 最近 #私募信貸（Private Credit）市場的討論熱度明顯升高，不少散戶投資人因為擔憂潛在風險，造成贖回壓力增加。
 ​
 信用市場通常被視為經濟與股市的領先指標，而私募信貸也是其中的重要一環，直接反映企業資金成本，連假就稍微聊聊有哪些問題浮出水面。

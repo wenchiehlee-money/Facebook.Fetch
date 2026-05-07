@@ -4,22 +4,22 @@ title: "【#AI 取代現有工作的量化指標—「冰山指數」（Iceberg 
 page_title: "行銷資料科學"
 requested_url: "https://www.facebook.com/MarketingDataScienceTMR"
 final_url: "https://www.facebook.com/MarketingDataScienceTMR"
-post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid024UasNdv5ymoMNASV9zjNbkAjokCFP9uwzzCeAx7cTSqQvBVzkZogZ3478LSd9fAWl"
+post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid024cMSM2FWSPQrRBNW3NtPxPrdVgR8ccfSvGkx1xwvc6we3JX6fT8oqfMFLTAtMudbl"
 creation_time_utc: "2026-01-14T12:00:06+00:00"
-fetched_at_utc: "2026-04-10T12:07:01.712102+00:00"
+fetched_at_utc: "2026-05-07T04:01:50.086552+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/616035729_1185188883724755_1194505883291211296_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=QuqLccHnAtQQ7kNvwHfpXJY&_nc_oc=Adoj9JcM9gAujKPgOjBV0Ii2RAl2cTn9S38nOyt-3LQcKHSQwG0dNSqFN2mNRyukFf4&_nc_zt=23&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=OSyMDAgY_E3Z2O_x1tavcQ&_nc_ss=7a389&oh=00_Af3cOQ-CDTaLlreXdIAnqyPj_CLKl4YqiBzcP1E3PiJLxw&oe=69DEA4D3"
+image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/616035729_1185188883724755_1194505883291211296_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=0MBqlQe58GkQ7kNvwEEyjXG&_nc_oc=Adrmtd8WnLA0v_cXoBWk-uq3PTxAbpTYA0dloDxndEoOeXMMOqbahZPlObw1uxIW9zI&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=-BTSPnBZ2b0BJk5ehHwzUQ&_nc_ss=78100&oh=00_Af7fVnT4RJ6K1jXdA4zYi89TDemBAD4yM1p8gNJF7fFS_Q&oe=6A01CCD3"
 feedback_id: "ZmVlZGJhY2s6MTE4NTQxNjAxMzcwMjA0Mg=="
 page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 ---
 
 # 【#AI 取代現有工作的量化指標—「冰山指數」（Iceberg Index）】
 
-原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid024UasNdv5ymoMNASV9zjNbkAjokCFP9uwzzCeAx7cTSqQvBVzkZogZ3478LSd9fAWl
+原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid024cMSM2FWSPQrRBNW3NtPxPrdVgR8ccfSvGkx1xwvc6we3JX6fT8oqfMFLTAtMudbl
 
-![【#AI 取代現有工作的量化指標—「冰山指數」（Iceberg Index）】](https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/616035729_1185188883724755_1194505883291211296_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=QuqLccHnAtQQ7kNvwHfpXJY&_nc_oc=Adoj9JcM9gAujKPgOjBV0Ii2RAl2cTn9S38nOyt-3LQcKHSQwG0dNSqFN2mNRyukFf4&_nc_zt=23&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=OSyMDAgY_E3Z2O_x1tavcQ&_nc_ss=7a389&oh=00_Af3cOQ-CDTaLlreXdIAnqyPj_CLKl4YqiBzcP1E3PiJLxw&oe=69DEA4D3)
+![【#AI 取代現有工作的量化指標—「冰山指數」（Iceberg Index）】](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/616035729_1185188883724755_1194505883291211296_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=0MBqlQe58GkQ7kNvwEEyjXG&_nc_oc=Adrmtd8WnLA0v_cXoBWk-uq3PTxAbpTYA0dloDxndEoOeXMMOqbahZPlObw1uxIW9zI&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=-BTSPnBZ2b0BJk5ehHwzUQ&_nc_ss=78100&oh=00_Af7fVnT4RJ6K1jXdA4zYi89TDemBAD4yM1p8gNJF7fFS_Q&oe=6A01CCD3)
 【#AI 取代現有工作的量化指標—「冰山指數」（Iceberg Index）】
 
 美國麻省理工學院和橡樹嶺國家實驗室製作了一份 AI 衝擊報告 📄。他們發明了一個「冰山指數」（Iceberg Index）🧊，專門衡量 AI 的技術能力和我們人類工作技能有多少重疊。

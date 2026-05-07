@@ -4,22 +4,22 @@ title: "POET因為4/27週一盤前公告Marvell因其違反保密協定而取消
 page_title: "美股探路客"
 requested_url: "https://www.facebook.com/raikk6"
 final_url: "https://www.facebook.com/raikk6"
-post_url: "https://www.facebook.com/raikk6/posts/pfbid0ykhQ3hK3J5aTLRzaxUZ9L2QhUXWUvsVJKXFfVN4i1Ke5cWwpMuDDwcNhG2UDHDFml"
+post_url: "https://www.facebook.com/raikk6/posts/pfbid0yiBuiv52fCKWjFr6UgkEWTEyx1spaJtdkDv762uwT3TCAoMbxMh2jHM3Fv1XEoHFl"
 creation_time_utc: "2026-04-28T04:41:52+00:00"
-fetched_at_utc: "2026-05-01T09:13:12.408799+00:00"
+fetched_at_utc: "2026-05-07T04:06:34.895742+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/684889223_1387683240072276_7650451934525139766_n.jpg?stp=cp6_dst-jpg_p180x540_tt6&_nc_cat=111&ccb=1-7&_nc_sid=7b2446&_nc_ohc=yd77tzpAT5IQ7kNvwFSOQci&_nc_oc=AdqghauKr7D2BVdJDjQFkcxg3p5dYeFItRk560kfv_nH7M66HqLIthKktrYJco7ZOQk&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=-gBrXbxIXnUMy3aPp4fi0Q&_nc_ss=78100&oh=00_Af54Il80D3kupGElntKfOyaesspC5MQd_4zXm4-t894QeA&oe=69FA2828"
+image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/684889223_1387683240072276_7650451934525139766_n.jpg?stp=cp6_dst-jpg_p180x540_tt6&_nc_cat=111&ccb=1-7&_nc_sid=7b2446&_nc_ohc=z2GwjGM5AakQ7kNvwFg946u&_nc_oc=Adp4Lx_8rGzWyDo9TWzdf1sMmpKAxfMwGjclFP6UOBDgGdxlmKcSTKAdsA5Y4eBC5UQ&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=jpQ2gZCVFgOBSNqpkJzdAg&_nc_ss=78100&oh=00_Af55hTkP9dickDqgxCm10FDW3-deqnqotJyZ2I3NHc6BKw&oe=6A01D8E8"
 feedback_id: "ZmVlZGJhY2s6MTM4NzY4NTkxNjczODY3NQ=="
 page_canonical_url: "https://www.facebook.com/raikk6"
 ---
 
 # POET因為4/27週一盤前公告Marvell因其違反保密協定而取消所有訂單，股價暴跌近五成，盤後再跌10%，關鍵問題在Marvell通知的時間是4/23週四，公司拖延到了週一才發公告⋯
 
-原文連結: https://www.facebook.com/raikk6/posts/pfbid0ykhQ3hK3J5aTLRzaxUZ9L2QhUXWUvsVJKXFfVN4i1Ke5cWwpMuDDwcNhG2UDHDFml
+原文連結: https://www.facebook.com/raikk6/posts/pfbid0yiBuiv52fCKWjFr6UgkEWTEyx1spaJtdkDv762uwT3TCAoMbxMh2jHM3Fv1XEoHFl
 
-![POET因為4/27週一盤前公告Marvell因其違反保密協定而取消所有訂單，股價暴跌近五成，盤後再跌10%，關鍵問題在Marvell通知的時間是4/23週四，公司拖延到了週一才發公告⋯](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/684889223_1387683240072276_7650451934525139766_n.jpg?stp=cp6_dst-jpg_p180x540_tt6&_nc_cat=111&ccb=1-7&_nc_sid=7b2446&_nc_ohc=yd77tzpAT5IQ7kNvwFSOQci&_nc_oc=AdqghauKr7D2BVdJDjQFkcxg3p5dYeFItRk560kfv_nH7M66HqLIthKktrYJco7ZOQk&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=-gBrXbxIXnUMy3aPp4fi0Q&_nc_ss=78100&oh=00_Af54Il80D3kupGElntKfOyaesspC5MQd_4zXm4-t894QeA&oe=69FA2828)
+![POET因為4/27週一盤前公告Marvell因其違反保密協定而取消所有訂單，股價暴跌近五成，盤後再跌10%，關鍵問題在Marvell通知的時間是4/23週四，公司拖延到了週一才發公告⋯](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/684889223_1387683240072276_7650451934525139766_n.jpg?stp=cp6_dst-jpg_p180x540_tt6&_nc_cat=111&ccb=1-7&_nc_sid=7b2446&_nc_ohc=z2GwjGM5AakQ7kNvwFg946u&_nc_oc=Adp4Lx_8rGzWyDo9TWzdf1sMmpKAxfMwGjclFP6UOBDgGdxlmKcSTKAdsA5Y4eBC5UQ&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=jpQ2gZCVFgOBSNqpkJzdAg&_nc_ss=78100&oh=00_Af55hTkP9dickDqgxCm10FDW3-deqnqotJyZ2I3NHc6BKw&oe=6A01D8E8)
 POET因為4/27週一盤前公告Marvell因其違反保密協定而取消所有訂單，股價暴跌近五成，盤後再跌10%，關鍵問題在Marvell通知的時間是4/23週四，公司拖延到了週一才發公告⋯
 
 記得以前在產業時，跟日本某大品牌廠合作開發，當時一位記者朋友來採訪，結束後閒聊，跟這位記者朋友談到的確有在合作，但再三提醒因為簽署了NDA，報導千萬不能提及品牌名字

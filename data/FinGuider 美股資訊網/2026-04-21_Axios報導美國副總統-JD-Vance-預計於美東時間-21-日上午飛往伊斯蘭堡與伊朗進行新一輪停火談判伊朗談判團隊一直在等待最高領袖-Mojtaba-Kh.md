@@ -4,22 +4,22 @@ title: "📌《Axios》報導，美國副總統 J.D. Vance 預計於美東時間
 page_title: "FinGuider 美股資訊網"
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid037Cx9TaDFi4jUAtZAGVd6ZCcwVC9t22UvXbk7WDA4gZSxB6ZCBdENmvbRwdpo5Lwol"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid023V9xFGKA3VGKE7j4bVQHgqvgAmZTxqn2kyCcHWExL6S42vd7E5j8YUBjTxy2Juzzl"
 creation_time_utc: "2026-04-21T05:13:16+00:00"
-fetched_at_utc: "2026-05-04T05:52:18.461638+00:00"
+fetched_at_utc: "2026-05-07T04:02:53.303551+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/677754533_1426263916210418_5265083436674945924_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=13d280&_nc_ohc=-uMLZlgYkyQQ7kNvwGuHstE&_nc_oc=AdqwT5Pm7SwcA2wWR--DfY2nts66yQS1cE1XDYxysbtLzTXRlC0O3ijarob_PTjTTqg&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=viFtfg5K5y1GMh2H5xY83Q&_nc_ss=78100&oh=00_Af5FbW5bmbQYdS85oSHsEFqk0GxsrE9m7T9c5EE1DMeTkw&oe=69FDF04F"
+image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/677754533_1426263916210418_5265083436674945924_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=13d280&_nc_ohc=JmOhQ1DIr0EQ7kNvwH4oFIh&_nc_oc=AdoCyrph0au-mG0YZKtJgrFGpXT1FVY5q7xSpdHSRcQnWKYIUK0Zz3WgYL7rRpmedt8&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=cDGXQ1asVG4cOAwUwZ6WGA&_nc_ss=78100&oh=00_Af7tPoONNxzkG-fSxgrsdZAaeGOk9sTQoZQPzP1Q37FFOw&oe=6A01E4CF"
 feedback_id: "ZmVlZGJhY2s6MTQyNjI2NDE4Mjg3NzA1OA=="
 page_canonical_url: "https://www.facebook.com/FinGuider"
 ---
 
 # 📌《Axios》報導，美國副總統 J.D. Vance 預計於美東時間 21 日上午飛往伊斯蘭堡，與伊朗進行新一輪停火談判。伊朗談判團隊一直在等待最高領袖 Mojtaba Khamenei 的指示，而 Khamenei 已於 20 日晚間批准了這次會議。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid037Cx9TaDFi4jUAtZAGVd6ZCcwVC9t22UvXbk7WDA4gZSxB6ZCBdENmvbRwdpo5Lwol
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid023V9xFGKA3VGKE7j4bVQHgqvgAmZTxqn2kyCcHWExL6S42vd7E5j8YUBjTxy2Juzzl
 
-![📌《Axios》報導，美國副總統 J.D. Vance 預計於美東時間 21 日上午飛往伊斯蘭堡，與伊朗進行新一輪停火談判。伊朗談判團隊一直在等待最高領袖 Mojtaba Khamenei 的指示，而 Khamenei 已於 20 日晚間批准了這次會議。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/677754533_1426263916210418_5265083436674945924_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=13d280&_nc_ohc=-uMLZlgYkyQQ7kNvwGuHstE&_nc_oc=AdqwT5Pm7SwcA2wWR--DfY2nts66yQS1cE1XDYxysbtLzTXRlC0O3ijarob_PTjTTqg&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=viFtfg5K5y1GMh2H5xY83Q&_nc_ss=78100&oh=00_Af5FbW5bmbQYdS85oSHsEFqk0GxsrE9m7T9c5EE1DMeTkw&oe=69FDF04F)
+![📌《Axios》報導，美國副總統 J.D. Vance 預計於美東時間 21 日上午飛往伊斯蘭堡，與伊朗進行新一輪停火談判。伊朗談判團隊一直在等待最高領袖 Mojtaba Khamenei 的指示，而 Khamenei 已於 20 日晚間批准了這次會議。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/677754533_1426263916210418_5265083436674945924_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=13d280&_nc_ohc=JmOhQ1DIr0EQ7kNvwH4oFIh&_nc_oc=AdoCyrph0au-mG0YZKtJgrFGpXT1FVY5q7xSpdHSRcQnWKYIUK0Zz3WgYL7rRpmedt8&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=cDGXQ1asVG4cOAwUwZ6WGA&_nc_ss=78100&oh=00_Af7tPoONNxzkG-fSxgrsdZAaeGOk9sTQoZQPzP1Q37FFOw&oe=6A01E4CF)
 📌《Axios》報導，美國副總統 J.D. Vance 預計於美東時間 21 日上午飛往伊斯蘭堡，與伊朗進行新一輪停火談判。伊朗談判團隊一直在等待最高領袖 Mojtaba Khamenei 的指示，而 Khamenei 已於 20 日晚間批准了這次會議。
 ​
 知情人士指出，伊朗方面一直受到伊斯蘭革命衛隊（IRGC）的壓力，堅持採取強硬立場，並聲稱只要美國持續封鎖荷姆茲海峽，談判就不應該進行。然而在巴基斯坦、埃及、土耳其的積極斡旋下，Khamenei 最終開了綠燈。

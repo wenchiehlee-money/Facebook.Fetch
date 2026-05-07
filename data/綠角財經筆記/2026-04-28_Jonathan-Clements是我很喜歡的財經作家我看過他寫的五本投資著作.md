@@ -4,22 +4,22 @@ title: "Jonathan Clements是我很喜歡的財經作家。我看過他寫的五�
 page_title: "綠角財經筆記"
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0225F3MgE5XdEvMwx4co1LuAxn6tVMLCBabBKVYxqwc7RXFphLDit86VG8XnFsqvy1l"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid021raYjkiL5BU1rwMVNhpjdCkaSXJBEHGRQR92SueGH22x78ZWyrgRrpNjouRpEUR7l"
 creation_time_utc: "2026-04-28T23:37:03+00:00"
-fetched_at_utc: "2026-04-29T04:28:33.813660+00:00"
+fetched_at_utc: "2026-05-07T04:04:35.374481+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/682713149_1389415622991834_2691149003556497084_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=1&ccb=1-7&_nc_sid=13d280&_nc_ohc=xB-LzOrxWioQ7kNvwHua7_T&_nc_oc=AdqGHHI0vJGcvzen22LsNYlm4BanOo9M39D3xYZ8-UpTM-0K7TlsqonGxrhYQcqNtbs&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=y6DNMziU7hyYviwFCYhM1w&_nc_ss=78100&oh=00_Af1Bs0txeL5degVCHIB2jT0H7QeU38ZrHc6k4rCb_mDTEA&oe=69F77131"
+image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/682713149_1389415622991834_2691149003556497084_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_ohc=19FFCEQdRtkQ7kNvwH5T27s&_nc_oc=AdodqFuw5pso2Tc3pZek_SY8hBsI2ZsXhcWizph3j1bxVyv391ukyJMrO-4IUk_Og4E&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=Jjhm5eaIncwG_kNbBXYCyA&_nc_ss=78100&oh=00_Af4Ng7rE94nkcRLU0E5jHFlSS2PKYYv3k8WT5AaAFDcyOg&oe=6A01FD31"
 feedback_id: "ZmVlZGJhY2s6MTM4OTcxODU5NjI5NDg3MA=="
 page_canonical_url: "https://www.facebook.com/GreenHornFans"
 ---
 
 # Jonathan Clements是我很喜歡的財經作家。我看過他寫的五本投資著作。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0225F3MgE5XdEvMwx4co1LuAxn6tVMLCBabBKVYxqwc7RXFphLDit86VG8XnFsqvy1l
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid021raYjkiL5BU1rwMVNhpjdCkaSXJBEHGRQR92SueGH22x78ZWyrgRrpNjouRpEUR7l
 
-![Jonathan Clements是我很喜歡的財經作家。我看過他寫的五本投資著作。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/682713149_1389415622991834_2691149003556497084_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=1&ccb=1-7&_nc_sid=13d280&_nc_ohc=xB-LzOrxWioQ7kNvwHua7_T&_nc_oc=AdqGHHI0vJGcvzen22LsNYlm4BanOo9M39D3xYZ8-UpTM-0K7TlsqonGxrhYQcqNtbs&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=y6DNMziU7hyYviwFCYhM1w&_nc_ss=78100&oh=00_Af1Bs0txeL5degVCHIB2jT0H7QeU38ZrHc6k4rCb_mDTEA&oe=69F77131)
+![Jonathan Clements是我很喜歡的財經作家。我看過他寫的五本投資著作。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/682713149_1389415622991834_2691149003556497084_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_ohc=19FFCEQdRtkQ7kNvwH5T27s&_nc_oc=AdodqFuw5pso2Tc3pZek_SY8hBsI2ZsXhcWizph3j1bxVyv391ukyJMrO-4IUk_Og4E&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=Jjhm5eaIncwG_kNbBXYCyA&_nc_ss=78100&oh=00_Af4Ng7rE94nkcRLU0E5jHFlSS2PKYYv3k8WT5AaAFDcyOg&oe=6A01FD31)
 Jonathan Clements是我很喜歡的財經作家。我看過他寫的五本投資著作。
 
 在他面對生命終點時，將畢生專欄寫作精華集結而成的The Best of Jonathan Clements，去年四月在美國出版後，我就買書閱讀，並寫下四篇讀後感。

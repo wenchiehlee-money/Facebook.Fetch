@@ -4,22 +4,22 @@ title: "我在去年看過，覺得非常好看，並寫下七篇讀後感的「
 page_title: "綠角財經筆記"
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0EWgm4xYXcG6XiLVABTR5XDKS8xUtm5UvF8VB5xMa88o43fjvFrRAYRXWPLajiyKFl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0Emyo1gbyykLnFKtczQnPxm6nw82bZETSQPsWRLrx1Ldz39quhRdCQaRgUAV2HCLal"
 creation_time_utc: "2026-04-27T00:07:36+00:00"
-fetched_at_utc: "2026-04-29T04:28:33.813660+00:00"
+fetched_at_utc: "2026-05-07T04:04:35.374481+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/680274427_1387260716540658_4534489628231610446_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=ltVUB5VMwr8Q7kNvwF1siNT&_nc_oc=Adp9wnQ7HAHYTPXFmUL4r8dQ8Qxsh_fxWVp90P9xsucooAMQ8Ti3StrYnXEgT91ESI0&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=jHfw8jFsUfOu3xw4I21J1A&_nc_ss=78100&oh=00_Af0cZvgrrw9O6pn7yVhFP0N6Apud8ukle9Vj46K7uNFkjw&oe=69F75ABA"
+image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/680274427_1387260716540658_4534489628231610446_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=vZimrpZgpt0Q7kNvwHyqqZs&_nc_oc=AdrYFK232b4HobEG6wKe-tTUwzuZOYwNSpUKIVQCxh6Jxt4zep8Mr4T3_hbLg1wHdCk&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=hYuL7gocMfCCUEsaMJ1WlA&_nc_ss=78100&oh=00_Af4-CmzUb7kUebjj3Pt07BFW-m7Tlj7k_aJ5eSfk0QRdBw&oe=6A01E6BA"
 feedback_id: "ZmVlZGJhY2s6MTM4ODEwODQ4OTc4OTIxNA=="
 page_canonical_url: "https://www.facebook.com/GreenHornFans"
 ---
 
 # 我在去年看過，覺得非常好看，並寫下七篇讀後感的「The Wealth Ladder」中譯版已經完成，即將發行。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0EWgm4xYXcG6XiLVABTR5XDKS8xUtm5UvF8VB5xMa88o43fjvFrRAYRXWPLajiyKFl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0Emyo1gbyykLnFKtczQnPxm6nw82bZETSQPsWRLrx1Ldz39quhRdCQaRgUAV2HCLal
 
-![我在去年看過，覺得非常好看，並寫下七篇讀後感的「The Wealth Ladder」中譯版已經完成，即將發行。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/680274427_1387260716540658_4534489628231610446_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=ltVUB5VMwr8Q7kNvwF1siNT&_nc_oc=Adp9wnQ7HAHYTPXFmUL4r8dQ8Qxsh_fxWVp90P9xsucooAMQ8Ti3StrYnXEgT91ESI0&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=jHfw8jFsUfOu3xw4I21J1A&_nc_ss=78100&oh=00_Af0cZvgrrw9O6pn7yVhFP0N6Apud8ukle9Vj46K7uNFkjw&oe=69F75ABA)
+![我在去年看過，覺得非常好看，並寫下七篇讀後感的「The Wealth Ladder」中譯版已經完成，即將發行。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/680274427_1387260716540658_4534489628231610446_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=vZimrpZgpt0Q7kNvwHyqqZs&_nc_oc=AdrYFK232b4HobEG6wKe-tTUwzuZOYwNSpUKIVQCxh6Jxt4zep8Mr4T3_hbLg1wHdCk&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=hYuL7gocMfCCUEsaMJ1WlA&_nc_ss=78100&oh=00_Af4-CmzUb7kUebjj3Pt07BFW-m7Tlj7k_aJ5eSfk0QRdBw&oe=6A01E6BA)
 我在去年看過，覺得非常好看，並寫下七篇讀後感的「The Wealth Ladder」中譯版已經完成，即將發行。
 
 綠角很高興收到邀請，為新書撰序。以下是序言全文:

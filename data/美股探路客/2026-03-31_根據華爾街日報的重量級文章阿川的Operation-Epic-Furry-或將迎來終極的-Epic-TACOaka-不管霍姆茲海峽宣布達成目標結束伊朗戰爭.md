@@ -4,22 +4,22 @@ title: "根據華爾街日報的重量級文章，阿川的Operation Epic Furry 
 page_title: "美股探路客"
 requested_url: "https://www.facebook.com/raikk6"
 final_url: "https://www.facebook.com/raikk6"
-post_url: "https://www.facebook.com/raikk6/posts/pfbid0CnYMuajPyXYHWoqz8FdVDtMGK2iroGckBEmJ7MfSe7c58tmRUb2TTAuDiZEyGMHnl"
+post_url: "https://www.facebook.com/raikk6/posts/pfbid0Ck2saoVPLWpj3eEFzZTu5C7RvRKQiXoYPjKHayb9tzaDy3e4vSWdHBn5TLmR4uf1l"
 creation_time_utc: "2026-03-31T08:55:57+00:00"
-fetched_at_utc: "2026-05-01T09:13:12.408799+00:00"
+fetched_at_utc: "2026-05-07T04:06:34.895742+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/661015788_1364679185706015_6408171170303576645_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=13d280&_nc_ohc=KfADFedlCXoQ7kNvwGx0_GZ&_nc_oc=AdpYY7UHay23AYkU6nz6jQMv8S0wFQUVtueTHf_0YKQaoZVsVRssC1RvoK9bnb6hhxs&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=cVxlt5zv4lAbzi0kk71bHw&_nc_ss=78100&oh=00_Af6F8vOWQE9fm0SHWMV3B6mhcHuRA0DTClk3MnboNMFkmA&oe=69FA312D"
+image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/661015788_1364679185706015_6408171170303576645_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=13d280&_nc_ohc=MHgiEvPSznQQ7kNvwHEeQ2X&_nc_oc=AdqWgKKW2_HmDAz0vo0ihSM9khkZVG6VkLt8aNG3Mr3eIf_MtkaIDQlPTcfykDT4QWs&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=9MGP1jeEjMDCHVyZJxsF3Q&_nc_ss=78100&oh=00_Af6P1nFNKVtFAQG7rt0ZZwD3Y4LD8XEU7fB-8dJdpCK7QA&oe=6A01E1ED"
 feedback_id: "ZmVlZGJhY2s6MTM2NDY4MTQ1NTcwNTc4OA=="
 page_canonical_url: "https://www.facebook.com/raikk6"
 ---
 
 # 根據華爾街日報的重量級文章，阿川的Operation Epic Furry 或將迎來終極的 Epic TACO，aka 不管霍姆茲海峽，宣布達成目標、結束伊朗戰爭
 
-原文連結: https://www.facebook.com/raikk6/posts/pfbid0CnYMuajPyXYHWoqz8FdVDtMGK2iroGckBEmJ7MfSe7c58tmRUb2TTAuDiZEyGMHnl
+原文連結: https://www.facebook.com/raikk6/posts/pfbid0Ck2saoVPLWpj3eEFzZTu5C7RvRKQiXoYPjKHayb9tzaDy3e4vSWdHBn5TLmR4uf1l
 
-![根據華爾街日報的重量級文章，阿川的Operation Epic Furry 或將迎來終極的 Epic TACO，aka 不管霍姆茲海峽，宣布達成目標、結束伊朗戰爭](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/661015788_1364679185706015_6408171170303576645_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=13d280&_nc_ohc=KfADFedlCXoQ7kNvwGx0_GZ&_nc_oc=AdpYY7UHay23AYkU6nz6jQMv8S0wFQUVtueTHf_0YKQaoZVsVRssC1RvoK9bnb6hhxs&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=cVxlt5zv4lAbzi0kk71bHw&_nc_ss=78100&oh=00_Af6F8vOWQE9fm0SHWMV3B6mhcHuRA0DTClk3MnboNMFkmA&oe=69FA312D)
+![根據華爾街日報的重量級文章，阿川的Operation Epic Furry 或將迎來終極的 Epic TACO，aka 不管霍姆茲海峽，宣布達成目標、結束伊朗戰爭](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/661015788_1364679185706015_6408171170303576645_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=13d280&_nc_ohc=MHgiEvPSznQQ7kNvwHEeQ2X&_nc_oc=AdqWgKKW2_HmDAz0vo0ihSM9khkZVG6VkLt8aNG3Mr3eIf_MtkaIDQlPTcfykDT4QWs&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=9MGP1jeEjMDCHVyZJxsF3Q&_nc_ss=78100&oh=00_Af6P1nFNKVtFAQG7rt0ZZwD3Y4LD8XEU7fB-8dJdpCK7QA&oe=6A01E1ED)
 根據華爾街日報的重量級文章，阿川的Operation Epic Furry 或將迎來終極的 Epic TACO，aka 不管霍姆茲海峽，宣布達成目標、結束伊朗戰爭
 
 華爾街日報不僅有聯準會喉舌，也是美國政治圈釋出風向的重要管道，昨天美東時間晚間8:37華爾街日報報導，阿川告訴助手們，願意在 #不重啟霍姆茲海峽 情況下結束對伊朗的戰爭，引發期指上漲、歐洲天然氣價格跳水

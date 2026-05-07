@@ -4,22 +4,22 @@ title: "📌OpenAI 與微軟（MSFT）宣布修訂協議以簡化合作方式：
 page_title: "FinGuider 美股資訊網"
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid04McJqBLo2HurWpv7J7pYGGCsMjXq6Cwkxs6ZPFy1HUosM15SNfGk61zGS3Aix8YCl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0282u1ihzt447iBmHpYRM4sUcMqG1ABW4c9sSJkWb4aZJec2rGqS2hhoBhehaEtGSxl"
 creation_time_utc: "2026-04-27T13:18:14+00:00"
-fetched_at_utc: "2026-05-04T05:52:18.461638+00:00"
+fetched_at_utc: "2026-05-07T04:02:53.303551+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/678565161_1431828165653993_3287471983534552008_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=iwPxKBpUpWsQ7kNvwHeO9zy&_nc_oc=AdpBrBcGKh08MzzqpnaGvYwSSVziRBpxZ03bfexi86C-o1qZaPEGDFFua9cvSegrQ2s&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=jFo82tTREP8iTtw58ZuOAQ&_nc_ss=78100&oh=00_Af7dhqHM1NIOVsLc6lHY5gG0i107tp4pct4xG_q3nA9MHA&oe=69FDFE4D"
+image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/678565161_1431828165653993_3287471983534552008_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=XxuTQzb315UQ7kNvwGH-su7&_nc_oc=AdrNGC5xZS_DYVALIRa_n8YJH_2x3nKTW3Snh1tNmCqFiwIPg4Ll-HIUoXgTYea3IBU&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=VgQpR5X1cwllJuh6KpKkyg&_nc_ss=78100&oh=00_Af6knxUn6BPe9L1dlUIkvJFPK8uaS9B1t4eSAUz48mjDeg&oe=6A01F2CD"
 feedback_id: "ZmVlZGJhY2s6MTQzMTgyODIwMjMyMDY1Ng=="
 page_canonical_url: "https://www.facebook.com/FinGuider"
 ---
 
 # 📌OpenAI 與微軟（MSFT）宣布修訂協議以簡化合作方式：
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid04McJqBLo2HurWpv7J7pYGGCsMjXq6Cwkxs6ZPFy1HUosM15SNfGk61zGS3Aix8YCl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0282u1ihzt447iBmHpYRM4sUcMqG1ABW4c9sSJkWb4aZJec2rGqS2hhoBhehaEtGSxl
 
-![📌OpenAI 與微軟（MSFT）宣布修訂協議以簡化合作方式：](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/678565161_1431828165653993_3287471983534552008_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=iwPxKBpUpWsQ7kNvwHeO9zy&_nc_oc=AdpBrBcGKh08MzzqpnaGvYwSSVziRBpxZ03bfexi86C-o1qZaPEGDFFua9cvSegrQ2s&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=jFo82tTREP8iTtw58ZuOAQ&_nc_ss=78100&oh=00_Af7dhqHM1NIOVsLc6lHY5gG0i107tp4pct4xG_q3nA9MHA&oe=69FDFE4D)
+![📌OpenAI 與微軟（MSFT）宣布修訂協議以簡化合作方式：](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/678565161_1431828165653993_3287471983534552008_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=XxuTQzb315UQ7kNvwGH-su7&_nc_oc=AdrNGC5xZS_DYVALIRa_n8YJH_2x3nKTW3Snh1tNmCqFiwIPg4Ll-HIUoXgTYea3IBU&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=VgQpR5X1cwllJuh6KpKkyg&_nc_ss=78100&oh=00_Af6knxUn6BPe9L1dlUIkvJFPK8uaS9B1t4eSAUz48mjDeg&oe=6A01F2CD)
 📌OpenAI 與微軟（MSFT）宣布修訂協議以簡化合作方式：
 - 微軟不再向 OpenAI 支付營收分潤
 - OpenAI 可將產品提供給任何雲端服務供應商的客戶

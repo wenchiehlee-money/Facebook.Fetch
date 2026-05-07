@@ -1,43 +1,54 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-05-04T08:48:32.760373+00:00",
+  "fetched_at_utc": "2026-05-07T04:01:50.086552+00:00",
   "page": {
     "title": "行銷資料科學",
-    "description": "行銷資料科學。 20,165 個讚 · 53 人正在談論這個。台灣第一個行銷資料科學（MDS）知識部落格\n本粉絲專頁在探討資料科學之基礎概念、趨勢、新工具和實作，讓粉絲們瞭解資料科學的行銷運用,並開啟厚植數據分析能力之契機",
+    "description": "行銷資料科學。 20,169 個讚 · 67 人正在談論這個。台灣第一個行銷資料科學（MDS）知識部落格\n本粉絲專頁在探討資料科學之基礎概念、趨勢、新工具和實作，讓粉絲們瞭解資料科學的行銷運用,並開啟厚植數據分析能力之契機",
     "canonical_url": "https://www.facebook.com/MarketingDataScienceTMR",
-    "image": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/326219191_1611757242576447_2600066751077188652_n.png?stp=dst-png&cstp=mx592x592&ctp=s592x592&_nc_cat=102&ccb=1-7&_nc_sid=3ab345&_nc_ohc=DJB8cfHdB0oQ7kNvwFFf_23&_nc_oc=AdrTB_tFYyY2Dx6GdsCRnuupi5RVzyVvb58F-nILuBXx--SAK6ExsA4hUUaxNHICJG4&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&_nc_gid=KMN0ViJGwjR6m-IW852M2A&_nc_ss=7820f&oh=00_Af4D0mDCCCQvODEYdPLGF8gGe7WcS_HJpJSw4VgMum3vBQ&oe=69FE323C"
+    "image": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/326219191_1611757242576447_2600066751077188652_n.png?stp=dst-png&cstp=mx592x592&ctp=s592x592&_nc_cat=102&ccb=1-7&_nc_sid=3ab345&_nc_ohc=SXqZrpNotmwQ7kNvwGW6Qy-&_nc_oc=AdqAvHWX_Ws9sDaBICWkPVG_oeVR7yj7z20SD-WZUhsWNtq2xpBKzkKkNU0XAjv1IzU&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&_nc_gid=x6fly53sZz7XDj3GsIKuUA&_nc_ss=7820f&oh=00_Af448k_45CIEJV4E-4JFMhdnhjywPlVTGSkjEvLbyejg9g&oe=6A01EE7C",
+    "follower_count": "2.0 萬位追蹤者"
   },
-  "checked_post_count": 8,
-  "new_post_count": 8,
+  "checked_post_count": 47,
+  "new_post_count": 13,
   "new_post_ids": [
-    "1271799511730358",
-    "1271744148402561",
-    "1271183608458615",
-    "1270435048533471",
-    "1280274687490577",
-    "1269650175278625",
-    "1267861398790836",
-    "1266435712266738"
+    "1273353751574934",
+    "1265577452352564",
+    "1264751749101801",
+    "1263922139184762",
+    "1262976159279360",
+    "1259062199670756",
+    "1258350199741956",
+    "1318806100114007",
+    "1257743699802606",
+    "1257584339818542",
+    "1257580386485604",
+    "1257568459820130",
+    "1254577366785906"
   ],
   "new_markdown_files": [
-    "data\\行銷資料科學\\2026-05-04_精華當-Vibe-Coding-遇上-AI-工作流n8nMakeGoogle-Opal-誰更能聽懂行銷人的直覺.md",
-    "data\\行銷資料科學\\2026-05-04_各位夥伴大家好我們-Vibe-Coding-學習圈又上架新課程囉.md",
-    "data\\行銷資料科學\\2026-05-03_客製化的糖衣陷阱當-AI-定價遇上個性化排名.md",
-    "data\\行銷資料科學\\2026-05-02_AI-產品設計的思考流程圖.md",
-    "data\\行銷資料科學\\2026-05-02_以前拍一支品牌-MV-要動員百人團隊燒掉數百萬預算現在我們是否能靠Vibe感覺就實現從視覺架站到電影級廣告的暴力產出-ChatGPT最新的AI工具可產出的產品組.md",
-    "data\\行銷資料科學\\2026-05-01_從工具到代理人當-AI-越來越像人我們真的更願意接受它嗎.md",
-    "data\\行銷資料科學\\2026-04-29_我們的新-MV-終於出來了這支-MV-對我來說有著非常特別的意義因為我即將走進人生下一個重要階段---結婚所以我想把這份作品送給我的未婚妻-Charlene作為.md",
-    "data\\行銷資料科學\\2026-04-27_數據很重要.md"
+    "data\\行銷資料科學\\2026-05-06_行銷資料科學的三種思維-EP3資料科學不是會寫程式就夠真正值錢的是這-3-種思維.md",
+    "data\\行銷資料科學\\2026-04-26_當行銷遇上-TransformerAI-不只會寫文案更會預測誰快要下單.md",
+    "data\\行銷資料科學\\2026-04-25_精準-行銷-的反直覺真相不那麼極致反而更聰明.md",
+    "data\\行銷資料科學\\2026-04-24_別讓-標籤-變干擾高效商品標籤的設計三原則.md",
+    "data\\行銷資料科學\\2026-04-23_領獎勵金學-AI美業青年翻身倒數計時限額-30-名.md",
+    "data\\行銷資料科學\\2026-04-18_我們10分鐘實戰影片精華出來囉-一起免費實戰打造你的第一個-AI-代理人.md",
+    "data\\行銷資料科學\\2026-04-17_精準行銷是在拚點擊率拚轉換率.md",
+    "data\\行銷資料科學\\2026-04-16_黃仁勳執行長曾說未來的程式語言是人類語言.md",
+    "data\\行銷資料科學\\2026-04-16_生成式AI-的兩面刃當內容民主化走向劣幣驅逐良幣.md",
+    "data\\行銷資料科學\\2026-04-16_歡迎參考我們直播分享會httpsyoutubecomlivet_l_HFelr0s.md",
+    "data\\行銷資料科學\\2026-04-16_短影音分享什麼才叫洞見99的人都搞錯了.md",
+    "data\\行銷資料科學\\2026-04-16_實戰AI行銷高級感大片--Vibe-Coding啤酒行銷.md",
+    "data\\行銷資料科學\\2026-04-12_短影音分享為什麼有些品牌廣告打很多最後還是賣不贏別人.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data\\行銷資料科學",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 9 篇貼文。",
+    "本次已成功用公開 GraphQL 擷取到 55 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 1 篇貼文。"
+    "已依中文至少 80 字規則排除 8 篇貼文。"
   ]
 }

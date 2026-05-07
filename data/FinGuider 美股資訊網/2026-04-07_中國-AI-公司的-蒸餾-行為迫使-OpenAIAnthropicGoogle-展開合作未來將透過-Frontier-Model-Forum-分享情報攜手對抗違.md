@@ -4,22 +4,22 @@ title: "中國 AI 公司的 #蒸餾 行為迫使 OpenAI、Anthropic、Google 展
 page_title: "FinGuider 美股資訊網"
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid0k3s98D56wjYMbzsBHnLHBDgt4ae7UjKb3rsh4HkCeyAUKHmuc2V25EPyCtsXke5Ll"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0kKAB4w8ZK1GLienPd2zfhdpSZxpaEEFqnn43ifKRuCXb91DqiF5bP5KTCeidQLeil"
 creation_time_utc: "2026-04-07T03:15:00+00:00"
-fetched_at_utc: "2026-04-29T04:24:58.535697+00:00"
+fetched_at_utc: "2026-05-07T03:55:32.771446+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/662008125_1414772887359521_6457415421078127834_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=13d280&_nc_ohc=MgZqfcGlHFwQ7kNvwFY3NmI&_nc_oc=AdoGNEWH029rec-4CaPG3v7ynl10Nhnf-kZfZGCx053ej9zwSUjkKqTHk_x4ul_skjw&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=3ii0PKpr5iqq2kopBCsxfg&_nc_ss=78100&oh=00_Af3fbAWzYAq7im2PgvPlZhXqpDXsShuDCis5b9nShZLTxw&oe=69F75125"
+image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/662008125_1414772887359521_6457415421078127834_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=13d280&_nc_ohc=JOwU81tSV9wQ7kNvwFnr-Ft&_nc_oc=AdqlyI97SzTXLFa9L2MFsVOeqmv9u7UPu5eare5Q1hNWw21a9Idwe2Wlo27r_Bwo-i8&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=Tkt47-cvfg6CSvx-YPEs4Q&_nc_ss=78100&oh=00_Af6qoXg_7-S2UHOqgcHxzmAgLKrM5b4vT2SVaWEztqweVg&oe=6A01DD25"
 feedback_id: "ZmVlZGJhY2s6MTQxNDc3MjM1MDY5MjkwOA=="
 page_canonical_url: "https://www.facebook.com/FinGuider"
 ---
 
 # 中國 AI 公司的 #蒸餾 行為迫使 OpenAI、Anthropic、Google 展開合作，未來將透過 Frontier Model Forum 分享情報，攜手對抗違反服務條款的蒸餾操作。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid0k3s98D56wjYMbzsBHnLHBDgt4ae7UjKb3rsh4HkCeyAUKHmuc2V25EPyCtsXke5Ll
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0kKAB4w8ZK1GLienPd2zfhdpSZxpaEEFqnn43ifKRuCXb91DqiF5bP5KTCeidQLeil
 
-![中國 AI 公司的 #蒸餾 行為迫使 OpenAI、Anthropic、Google 展開合作，未來將透過 Frontier Model Forum 分享情報，攜手對抗違反服務條款的蒸餾操作。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/662008125_1414772887359521_6457415421078127834_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=13d280&_nc_ohc=MgZqfcGlHFwQ7kNvwFY3NmI&_nc_oc=AdoGNEWH029rec-4CaPG3v7ynl10Nhnf-kZfZGCx053ej9zwSUjkKqTHk_x4ul_skjw&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=3ii0PKpr5iqq2kopBCsxfg&_nc_ss=78100&oh=00_Af3fbAWzYAq7im2PgvPlZhXqpDXsShuDCis5b9nShZLTxw&oe=69F75125)
+![中國 AI 公司的 #蒸餾 行為迫使 OpenAI、Anthropic、Google 展開合作，未來將透過 Frontier Model Forum 分享情報，攜手對抗違反服務條款的蒸餾操作。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/662008125_1414772887359521_6457415421078127834_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=13d280&_nc_ohc=JOwU81tSV9wQ7kNvwFnr-Ft&_nc_oc=AdqlyI97SzTXLFa9L2MFsVOeqmv9u7UPu5eare5Q1hNWw21a9Idwe2Wlo27r_Bwo-i8&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=Tkt47-cvfg6CSvx-YPEs4Q&_nc_ss=78100&oh=00_Af6qoXg_7-S2UHOqgcHxzmAgLKrM5b4vT2SVaWEztqweVg&oe=6A01DD25)
 中國 AI 公司的 #蒸餾 行為迫使 OpenAI、Anthropic、Google 展開合作，未來將透過 Frontier Model Forum 分享情報，攜手對抗違反服務條款的蒸餾操作。
 
 Anthropic 先前就指控，中國 DeepSeek、Moonshot AI、MiniMax 透過「工業級蒸餾攻擊」，大規模竊取 Claude 的關鍵能力，用於強化自家模型。

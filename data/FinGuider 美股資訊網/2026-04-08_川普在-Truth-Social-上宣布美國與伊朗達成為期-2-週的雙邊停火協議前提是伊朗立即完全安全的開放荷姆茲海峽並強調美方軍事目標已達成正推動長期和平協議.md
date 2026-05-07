@@ -4,12 +4,12 @@ title: "📌川普在 Truth Social 上宣布，美國與伊朗達成為期 2 週
 page_title: "FinGuider 美股資訊網"
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid02c2JRKn6c2nFNCu38Y3E6FmGneZeL8D2xPp57Jj3zoJA46df4CUbod3t3icRgbGxzl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid02bodvhraraNp5KUiU19izNoaXLTQyWPgBDCfoScdSrjpEzvwJE5YSCfx7qtc9UiJ2l"
 creation_time_utc: "2026-04-08T01:35:21+00:00"
-fetched_at_utc: "2026-04-29T04:24:58.535697+00:00"
+fetched_at_utc: "2026-05-07T03:55:32.771446+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/FinGuider/posts/pfbid02c2JRKn6c2nFNCu38Y3E6FmGneZeL8D2xPp57Jj3zoJA46df4CUbod3t3icRgbGxzl"
+attachment_url: "https://www.facebook.com/FinGuider/posts/pfbid02bodvhraraNp5KUiU19izNoaXLTQyWPgBDCfoScdSrjpEzvwJE5YSCfx7qtc9UiJ2l"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTQxNTUyMTI0Mzk1MTM1Mg=="
 page_canonical_url: "https://www.facebook.com/FinGuider"
@@ -17,7 +17,7 @@ page_canonical_url: "https://www.facebook.com/FinGuider"
 
 # 📌川普在 Truth Social 上宣布，美國與伊朗達成為期 2 週的雙邊停火協議，前提是伊朗立即、完全、安全的開放荷姆茲海峽，並強調美方軍事目標已達成，正推動長期和平協議。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid02c2JRKn6c2nFNCu38Y3E6FmGneZeL8D2xPp57Jj3zoJA46df4CUbod3t3icRgbGxzl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid02bodvhraraNp5KUiU19izNoaXLTQyWPgBDCfoScdSrjpEzvwJE5YSCfx7qtc9UiJ2l
 📌川普在 Truth Social 上宣布，美國與伊朗達成為期 2 週的雙邊停火協議，前提是伊朗立即、完全、安全的開放荷姆茲海峽，並強調美方軍事目標已達成，正推動長期和平協議。
 ​
 《紐約時報》報導，在巴基斯坦積極斡旋及中國介入調停下，伊朗已接受停火協議。《Axios》透露，美伊首輪談判最快可能於本週五（4/10）在巴基斯坦舉行。

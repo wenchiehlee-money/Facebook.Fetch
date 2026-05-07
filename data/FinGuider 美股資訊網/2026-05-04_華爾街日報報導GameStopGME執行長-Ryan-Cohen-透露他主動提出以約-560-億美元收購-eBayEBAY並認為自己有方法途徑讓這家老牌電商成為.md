@@ -4,22 +4,22 @@ title: "🎯《華爾街日報》報導，GameStop（#GME）執行長 Ryan Cohen
 page_title: "FinGuider 美股資訊網"
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid02Fdn2MwJeXRutBx9FrGxENyrHDf6AKFgJsa3MbuDYnQQ4wQPfdfRPSeiSNrypVqqVl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0Buyq9dQYrh5u3XQU7gVScBbtnPr4GeEGx5NN4d5dmDexm8316yzMGvf2nSGMm285l"
 creation_time_utc: "2026-05-04T01:23:37+00:00"
-fetched_at_utc: "2026-05-04T05:52:18.461638+00:00"
+fetched_at_utc: "2026-05-07T04:02:53.303551+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/689366695_1437491378421005_1150528379799538521_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=Ubojb7lcPRUQ7kNvwGPKKIQ&_nc_oc=AdooSukr4mHpRxvCHIOUrVcwmlyn3c6MobmH_-mCSmZehvG7Qpoq0riC5gYspH7iJHo&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=j9zSE7yq-jlfmk5_-QBVeA&_nc_ss=78100&oh=00_Af7aT4HAwTV-WvTsoj3JVba5FrPGbL58YDmS22M5_BinoQ&oe=69FDEC46"
+image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/689366695_1437491378421005_1150528379799538521_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=KVZIKjmQE9cQ7kNvwFUmtHu&_nc_oc=Adpq7xoxRnD1QIvJBSVAhC_yXHd1s0laOp8PLUkgwigahdlKfEQONEnB-v_vIg1zzSE&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=uHpx11JVjQuz9u6C5uzi-A&_nc_ss=78100&oh=00_Af6g6kPfU74dUp0-_ik8CNXHuq3WQCdzOoH3bhUiOqkC_Q&oe=6A01E0C6"
 feedback_id: "ZmVlZGJhY2s6MTQzNzQ5MTQ1MTc1NDMzMQ=="
 page_canonical_url: "https://www.facebook.com/FinGuider"
 ---
 
 # 🎯《華爾街日報》報導，GameStop（#GME）執行長 Ryan Cohen 透露，他主動提出以約 560 億美元收購 eBay（#EBAY），並認為自己有方法途徑讓這家老牌電商成為亞馬遜（AMZN）的競爭對手。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid02Fdn2MwJeXRutBx9FrGxENyrHDf6AKFgJsa3MbuDYnQQ4wQPfdfRPSeiSNrypVqqVl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0Buyq9dQYrh5u3XQU7gVScBbtnPr4GeEGx5NN4d5dmDexm8316yzMGvf2nSGMm285l
 
-![🎯《華爾街日報》報導，GameStop（#GME）執行長 Ryan Cohen 透露，他主動提出以約 560 億美元收購 eBay（#EBAY），並認為自己有方法途徑讓這家老牌電商成為亞馬遜（AMZN）的競爭對手。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/689366695_1437491378421005_1150528379799538521_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=Ubojb7lcPRUQ7kNvwGPKKIQ&_nc_oc=AdooSukr4mHpRxvCHIOUrVcwmlyn3c6MobmH_-mCSmZehvG7Qpoq0riC5gYspH7iJHo&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=j9zSE7yq-jlfmk5_-QBVeA&_nc_ss=78100&oh=00_Af7aT4HAwTV-WvTsoj3JVba5FrPGbL58YDmS22M5_BinoQ&oe=69FDEC46)
+![🎯《華爾街日報》報導，GameStop（#GME）執行長 Ryan Cohen 透露，他主動提出以約 560 億美元收購 eBay（#EBAY），並認為自己有方法途徑讓這家老牌電商成為亞馬遜（AMZN）的競爭對手。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/689366695_1437491378421005_1150528379799538521_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=KVZIKjmQE9cQ7kNvwFUmtHu&_nc_oc=Adpq7xoxRnD1QIvJBSVAhC_yXHd1s0laOp8PLUkgwigahdlKfEQONEnB-v_vIg1zzSE&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=uHpx11JVjQuz9u6C5uzi-A&_nc_ss=78100&oh=00_Af6g6kPfU74dUp0-_ik8CNXHuq3WQCdzOoH3bhUiOqkC_Q&oe=6A01E0C6)
 🎯《華爾街日報》報導，GameStop（#GME）執行長 Ryan Cohen 透露，他主動提出以約 560 億美元收購 eBay（#EBAY），並認為自己有方法途徑讓這家老牌電商成為亞馬遜（AMZN）的競爭對手。
 ​
 Cohen 表示，GameStop 已持有 eBay 約 5% 股份，並提出以現金加股票的方式收購 eBay，報價每股 125 美元，較 eBay 上週五收盤價溢價約 20%。目前 eBay 夜盤大漲超過 +13%。

@@ -4,22 +4,22 @@ title: "📱《TrendForce》報導，#衛星直連手機（Direct-to-Cell，#D2C
 page_title: "FinGuider 美股資訊網"
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid0bWpRUvhKgRtipVirjT1Cci5Pb7HoKdPAUSpnqctygiNKVmW24WARyQXzooKiXf3Yl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid02fC78NTMQiU6csCuDEuXnnVY53ZJNKLbLJYJMPdrG8zteFdJJSLDhMJ8Rp32FCfpGl"
 creation_time_utc: "2026-04-29T10:08:00+00:00"
-fetched_at_utc: "2026-05-04T05:52:18.461638+00:00"
+fetched_at_utc: "2026-05-07T04:02:53.303551+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/684274568_1433302055506604_6610819089805457223_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=FKzFkFQ1vNkQ7kNvwGL3XSD&_nc_oc=AdqrW9yKYC6Zjbb4gA3K0L0tMiai0qa488gL3DEEao7Uq2aMzBUg-J7ZrWXXRkN0ZG0&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=FS3WPY8oKVoA4TtaZLSD8Q&_nc_ss=78100&oh=00_Af67mZ9BrWN5B0h7tlQ2PIIa5z32WoKjQW4hDmJ6reTVAg&oe=69FDF808"
+image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/684274568_1433302055506604_6610819089805457223_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=JI9O2V0Cnz8Q7kNvwE3c349&_nc_oc=AdovtGiVJqj9mnRc6ko38jAZC06kKa36lbFgA4r7gkbc42bDkFGSDEIyPyw3maP6jHo&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=WO36UGFQHfx0XMQMjf07HQ&_nc_ss=78100&oh=00_Af7QkF4BrBZ0Gm_76_N4ePG9nGh3tyc-Us6dwxufBvbtxw&oe=6A01EC88"
 feedback_id: "ZmVlZGJhY2s6MTQzMzMwMjczODgzOTg2OQ=="
 page_canonical_url: "https://www.facebook.com/FinGuider"
 ---
 
 # 📱《TrendForce》報導，#衛星直連手機（Direct-to-Cell，#D2C）技術正快速成熟，隨著行動通訊技術的關鍵標準 3GPP Release 17、18 納入衛星通訊，市場進入實質商轉階段。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid0bWpRUvhKgRtipVirjT1Cci5Pb7HoKdPAUSpnqctygiNKVmW24WARyQXzooKiXf3Yl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid02fC78NTMQiU6csCuDEuXnnVY53ZJNKLbLJYJMPdrG8zteFdJJSLDhMJ8Rp32FCfpGl
 
-![📱《TrendForce》報導，#衛星直連手機（Direct-to-Cell，#D2C）技術正快速成熟，隨著行動通訊技術的關鍵標準 3GPP Release 17、18 納入衛星通訊，市場進入實質商轉階段。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/684274568_1433302055506604_6610819089805457223_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=FKzFkFQ1vNkQ7kNvwGL3XSD&_nc_oc=AdqrW9yKYC6Zjbb4gA3K0L0tMiai0qa488gL3DEEao7Uq2aMzBUg-J7ZrWXXRkN0ZG0&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=FS3WPY8oKVoA4TtaZLSD8Q&_nc_ss=78100&oh=00_Af67mZ9BrWN5B0h7tlQ2PIIa5z32WoKjQW4hDmJ6reTVAg&oe=69FDF808)
+![📱《TrendForce》報導，#衛星直連手機（Direct-to-Cell，#D2C）技術正快速成熟，隨著行動通訊技術的關鍵標準 3GPP Release 17、18 納入衛星通訊，市場進入實質商轉階段。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/684274568_1433302055506604_6610819089805457223_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=JI9O2V0Cnz8Q7kNvwE3c349&_nc_oc=AdovtGiVJqj9mnRc6ko38jAZC06kKa36lbFgA4r7gkbc42bDkFGSDEIyPyw3maP6jHo&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=WO36UGFQHfx0XMQMjf07HQ&_nc_ss=78100&oh=00_Af7QkF4BrBZ0Gm_76_N4ePG9nGh3tyc-Us6dwxufBvbtxw&oe=6A01EC88)
 📱《TrendForce》報導，#衛星直連手機（Direct-to-Cell，#D2C）技術正快速成熟，隨著行動通訊技術的關鍵標準 3GPP Release 17、18 納入衛星通訊，市場進入實質商轉階段。
 
 《TrendForce》預估，2026 年全球 D2C 市場規模將達 76 億美元、年成長約 49％，成長動能相當明確。

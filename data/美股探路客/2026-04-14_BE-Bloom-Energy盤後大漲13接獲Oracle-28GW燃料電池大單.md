@@ -4,12 +4,12 @@ title: "#BE Bloom Energy盤後大漲13%，接獲Oracle 2.8GW燃料電池大單"
 page_title: "美股探路客"
 requested_url: "https://www.facebook.com/raikk6"
 final_url: "https://www.facebook.com/raikk6"
-post_url: "https://www.facebook.com/raikk6/posts/pfbid02J9TjHMZbcS52ump1Bc4PmSTWZaRqEVkzG6tTFxhpBw4eku4eHoRYNeLMpxDDGZztl"
+post_url: "https://www.facebook.com/raikk6/posts/pfbid02J6xExaKaySryfxpwo4a9ypSMGGN3XkyXG72p4uHDruM26AZfc92aZ5b7dYd6MTLxl"
 creation_time_utc: "2026-04-14T05:24:31+00:00"
-fetched_at_utc: "2026-05-01T09:13:12.408799+00:00"
+fetched_at_utc: "2026-05-07T04:06:34.895742+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/raikk6/posts/pfbid02J9TjHMZbcS52ump1Bc4PmSTWZaRqEVkzG6tTFxhpBw4eku4eHoRYNeLMpxDDGZztl"
+attachment_url: "https://www.facebook.com/raikk6/posts/pfbid02J6xExaKaySryfxpwo4a9ypSMGGN3XkyXG72p4uHDruM26AZfc92aZ5b7dYd6MTLxl"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTM3NTgzMTkyMTI1NzQwOA=="
 page_canonical_url: "https://www.facebook.com/raikk6"
@@ -17,7 +17,7 @@ page_canonical_url: "https://www.facebook.com/raikk6"
 
 # #BE Bloom Energy盤後大漲13%，接獲Oracle 2.8GW燃料電池大單
 
-原文連結: https://www.facebook.com/raikk6/posts/pfbid02J9TjHMZbcS52ump1Bc4PmSTWZaRqEVkzG6tTFxhpBw4eku4eHoRYNeLMpxDDGZztl
+原文連結: https://www.facebook.com/raikk6/posts/pfbid02J6xExaKaySryfxpwo4a9ypSMGGN3XkyXG72p4uHDruM26AZfc92aZ5b7dYd6MTLxl
 #BE Bloom Energy盤後大漲13%，接獲Oracle 2.8GW燃料電池大單
 
 BYOP/BYOG Bring Your Own Power數據中心自帶發電已成為美國政府政策，避免造成一般民眾電價攀升、電網負荷過大，缺電也是數據中心開發瓶頸

@@ -4,12 +4,12 @@ title: "Sentimentrader的機構Smart Money信心度只有0.53，散戶Dumb Money
 page_title: "美股探路客"
 requested_url: "https://www.facebook.com/raikk6"
 final_url: "https://www.facebook.com/raikk6"
-post_url: "https://www.facebook.com/raikk6/posts/pfbid02FqF3FWdgUwMK6omRfRRZAmnSxAgdF2LAWnHGJ5efrhoCvbaFXNoGd7QjiWHwaHe6l"
+post_url: "https://www.facebook.com/raikk6/posts/pfbid02FnjYvjPfrAv4cDpTXtACkyTmwvRn7aApT65vV3o4Y8nkXBNc4iHfuWs6j1Dj1T2kl"
 creation_time_utc: "2026-04-23T14:15:03+00:00"
-fetched_at_utc: "2026-05-01T09:13:12.408799+00:00"
+fetched_at_utc: "2026-05-07T04:06:34.895742+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/raikk6/posts/pfbid02FqF3FWdgUwMK6omRfRRZAmnSxAgdF2LAWnHGJ5efrhoCvbaFXNoGd7QjiWHwaHe6l"
+attachment_url: "https://www.facebook.com/raikk6/posts/pfbid02FnjYvjPfrAv4cDpTXtACkyTmwvRn7aApT65vV3o4Y8nkXBNc4iHfuWs6j1Dj1T2kl"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTM4Mzc1MjMzMDQ2NTM2Nw=="
 page_canonical_url: "https://www.facebook.com/raikk6"
@@ -17,7 +17,7 @@ page_canonical_url: "https://www.facebook.com/raikk6"
 
 # Sentimentrader的機構Smart Money信心度只有0.53，散戶Dumb Money信心度則達到0.67的偏高水平
 
-原文連結: https://www.facebook.com/raikk6/posts/pfbid02FqF3FWdgUwMK6omRfRRZAmnSxAgdF2LAWnHGJ5efrhoCvbaFXNoGd7QjiWHwaHe6l
+原文連結: https://www.facebook.com/raikk6/posts/pfbid02FnjYvjPfrAv4cDpTXtACkyTmwvRn7aApT65vV3o4Y8nkXBNc4iHfuWs6j1Dj1T2kl
 Sentimentrader的機構Smart Money信心度只有0.53，散戶Dumb Money信心度則達到0.67的偏高水平
 
 AAII散戶情緒指標看漲比例來到46%，來到一年來僅次於1月中的49%的次高水平

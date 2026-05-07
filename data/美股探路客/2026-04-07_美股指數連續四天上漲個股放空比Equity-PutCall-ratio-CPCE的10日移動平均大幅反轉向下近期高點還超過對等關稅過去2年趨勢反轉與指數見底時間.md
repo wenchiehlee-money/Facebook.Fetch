@@ -4,12 +4,12 @@ title: "美股指數連續四天上漲，個股放空比Equity Put/Call ratio CP
 page_title: "美股探路客"
 requested_url: "https://www.facebook.com/raikk6"
 final_url: "https://www.facebook.com/raikk6"
-post_url: "https://www.facebook.com/raikk6/posts/pfbid0Wd67DTLSRFRTNWRX7Q3qNyKnp5NeNiQSdPPGag9xTGinodw6UiP1njVkxQ1mmtigl"
+post_url: "https://www.facebook.com/raikk6/posts/pfbid0Waactg6RnQkqYgGDPcVMi1bxrKKTpbeSEZ7rbcq6V6ZpM92XBhS96pY4pTovRZAtl"
 creation_time_utc: "2026-04-07T06:51:02+00:00"
-fetched_at_utc: "2026-05-01T09:13:12.408799+00:00"
+fetched_at_utc: "2026-05-07T04:06:34.895742+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/raikk6/posts/pfbid0Wd67DTLSRFRTNWRX7Q3qNyKnp5NeNiQSdPPGag9xTGinodw6UiP1njVkxQ1mmtigl"
+attachment_url: "https://www.facebook.com/raikk6/posts/pfbid0Waactg6RnQkqYgGDPcVMi1bxrKKTpbeSEZ7rbcq6V6ZpM92XBhS96pY4pTovRZAtl"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTM3MDQ0MjA1MTc5NjM5NQ=="
 page_canonical_url: "https://www.facebook.com/raikk6"
@@ -17,7 +17,7 @@ page_canonical_url: "https://www.facebook.com/raikk6"
 
 # 美股指數連續四天上漲，個股放空比Equity Put/Call ratio CPCE的10日移動平均大幅反轉向下，近期高點還超過對等關稅，過去2年趨勢反轉與指數見底時間大致相符
 
-原文連結: https://www.facebook.com/raikk6/posts/pfbid0Wd67DTLSRFRTNWRX7Q3qNyKnp5NeNiQSdPPGag9xTGinodw6UiP1njVkxQ1mmtigl
+原文連結: https://www.facebook.com/raikk6/posts/pfbid0Waactg6RnQkqYgGDPcVMi1bxrKKTpbeSEZ7rbcq6V6ZpM92XBhS96pY4pTovRZAtl
 美股指數連續四天上漲，個股放空比Equity Put/Call ratio CPCE的10日移動平均大幅反轉向下，近期高點還超過對等關稅，過去2年趨勢反轉與指數見底時間大致相符
 
 顯示投資人開始平倉放空個股的部位，或者大幅增加看漲部位，後者機率較低，被軋空平倉的機率較高

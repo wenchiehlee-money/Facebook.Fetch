@@ -81,6 +81,65 @@ def parse_meta_tags(html_text: str) -> dict[str, str]:
     return parser.meta
 
 
+def extract_follower_count(html_text: str, meta: dict[str, str] | None = None) -> str | None:
+    # Search in both raw HTML and meta descriptions
+    texts = [html_text]
+    if meta:
+        if meta.get("og:description"): texts.append(meta["og:description"])
+        if meta.get("description"): texts.append(meta["description"])
+    
+    combined_text = " ".join(texts)
+
+    # 1. Try JSON pattern (often in "subscriber_count" or "follower_count")
+    json_match = re.search(r'["\'](?:follower|subscriber)_count["\']\s*:\s*(\d+)', combined_text)
+    if json_match:
+        count = int(json_match.group(1))
+        if count >= 10000:
+            return f"{count/10000:.1f} 萬位追蹤者"
+        return f"{count} 位追蹤者"
+
+    # 2. Try text pattern (Chinese)
+    text_patterns = [
+        r'([\d,\.]+\s*[萬kM]?位追蹤者)',
+        r'([\d,\.]+\s*[萬kM]?人追蹤)',
+        r'([\d,\.]+\s*[萬kM]?位?追蹤者?數?)',
+    ]
+    for pattern in text_patterns:
+        match = re.search(pattern, combined_text)
+        if match:
+            return match.group(1).replace(" ", "")
+
+    # 3. Try English pattern
+    eng_patterns = [
+        r'([\d,\.]+\s*[kM]? followers)',
+        r'([\d,\.]+\s*[kM]? following)',
+    ]
+    for pattern in eng_patterns:
+        match = re.search(pattern, combined_text)
+        if match:
+            return match.group(1)
+
+    # 4. Fallback to likes
+    likes_patterns = [
+        r'([\d,\.]+\s*[萬kM]?個讚)',
+        r'([\d,\.]+\s*[kM]? likes)',
+    ]
+    for pattern in likes_patterns:
+        match = re.search(pattern, combined_text)
+        if match:
+            raw_likes = match.group(1)
+            num_str = re.sub(r'[^\d\.]', '', raw_likes.replace(',', ''))
+            try:
+                val = float(num_str)
+                if val >= 10000:
+                    return f"{val/10000:.1f} 萬位追蹤者"
+                return f"{int(val)} 位追蹤者"
+            except ValueError:
+                pass
+
+    return None
+
+
 def normalize_post_url(url: str) -> str:
     cleaned = html.unescape(url).replace("&amp;", "&")
     parsed = parse.urlsplit(cleaned)
@@ -514,6 +573,7 @@ def build_output_payload(url: str, result: FetchResult, count: int, months_back:
             "description": meta.get("og:description") or meta.get("description"),
             "canonical_url": meta.get("og:url"),
             "image": meta.get("og:image"),
+            "follower_count": extract_follower_count(result.html_text, meta),
         },
         "post_url_count": len(post_urls),
         "post_record_count": len(post_records),
@@ -564,6 +624,9 @@ def build_index_markdown(payload: dict[str, Any], markdown_files: list[Path]) ->
     page = payload.get("page", {})
     lines = ["# Facebook 貼文索引", ""]
     lines.append(f"- 頁面: {page.get('title') or ''}")
+    follower_count = page.get("follower_count")
+    if follower_count:
+        lines.append(f"- 追蹤人數: {follower_count}")
     lines.append(f"- 抓取時間: {payload.get('fetched_at_utc') or ''}")
     lines.append(f"- 已收錄貼文數量: {len(markdown_files)}")
     lines.append("")
@@ -629,14 +692,18 @@ def build_readme_group_summary(posts_dir: Path) -> str:
     markdown_files = sorted(path for path in posts_dir.glob("*.md") if path.name != "index.md")
     summary_path = posts_dir / "latest_fetch_summary.json"
     page_title = posts_dir.name
+    follower_count = ""
     if summary_path.exists():
         try:
             summary = json.loads(summary_path.read_text(encoding="utf-8"))
             page_title = summary.get("page", {}).get("title") or page_title
+            follower_count = summary.get("page", {}).get("follower_count") or ""
         except (OSError, json.JSONDecodeError):
             pass
     index_path = parse.quote((posts_dir / "index.md").as_posix(), safe="/")
-    return f"### [{page_title}]({index_path}) (已收錄: {len(markdown_files)})"
+    count_str = f" (已收錄: {len(markdown_files)})"
+    follower_str = f" - {follower_count}" if follower_count else ""
+    return f"### [{page_title}]({index_path}){count_str}{follower_str}"
 
 
 def build_readme_generated_section(data_dir: Path) -> str:
@@ -644,7 +711,11 @@ def build_readme_generated_section(data_dir: Path) -> str:
         path for path in data_dir.iterdir()
         if path.is_dir() and (path / "index.md").exists()
     )
-    lines = ["## 自動更新清單", ""]
+    # Use UTC+8 for CST (Taiwan/China time)
+    cst_time = datetime.now(timezone(timedelta(hours=8)))
+    now_str = cst_time.strftime("%Y-%m-%d %H:%M") + " CST"
+
+    lines = ["## 自動更新清單", "", f"Updated: {now_str}", ""]
     if not group_dirs:
         lines.append("- 目前沒有 group")
         lines.append("")

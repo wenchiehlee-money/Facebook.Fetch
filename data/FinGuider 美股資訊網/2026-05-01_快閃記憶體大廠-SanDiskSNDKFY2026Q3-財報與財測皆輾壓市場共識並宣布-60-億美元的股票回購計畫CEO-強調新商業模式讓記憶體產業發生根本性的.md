@@ -4,23 +4,25 @@ title: "📌快閃記憶體大廠 #SanDisk（#SNDK）FY2026Q3 財報與財測皆
 page_title: "FinGuider 美股資訊網"
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid0mnEQXsWb9og28fs1sWy1Gx2tJFuRuTG5TUtytYTNxMQxyC1TvuuoxeRAg6dKZB6Jl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid02qTX7RQAgBjSVTrErxPHSQk6w3ddhvpwGvc1UtwfTzD2rDr7ZaJ5kEkQvtuC2SVUdl"
 creation_time_utc: "2026-05-01T02:40:41+00:00"
-fetched_at_utc: "2026-05-04T05:52:18.461638+00:00"
+fetched_at_utc: "2026-05-07T04:02:53.303551+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/685739581_1434996722003804_294154828407839119_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=zWOpmY6TIm0Q7kNvwHxNEVg&_nc_oc=AdpT6ED-OP6SqxbwYQnqSwxgkfrgEQ9Qoim0OUgeYSZaFToEZ4sIRx1hgQ4vLAMj8_E&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=t1ETyhYgXEksCYuMHlCX5w&_nc_ss=78100&oh=00_Af5i82DHMFN_E-rH4hNMYa_QEOiDch9adW-6wVOUZbIRtg&oe=69FE08B1"
+image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/685739581_1434996722003804_294154828407839119_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=N3pGfrB71qQQ7kNvwG55RQe&_nc_oc=AdoUFiTxF0KkkHqnyNnMVDGMHbHcJLbr_WG8SEywHWFLGqtWmqFaAjr9WyWM1-OeGrg&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=wwke2jmE396AmdFfvFIvdQ&_nc_ss=78100&oh=00_Af5kOQ-87CuF92m87jrHCUeRC56znDI8wpjuEkUn-Em8MA&oe=6A01FD31"
 feedback_id: "ZmVlZGJhY2s6MTQzNDk5NjkyODY3MDQ1MA=="
 page_canonical_url: "https://www.facebook.com/FinGuider"
 ---
 
 # 📌快閃記憶體大廠 #SanDisk（#SNDK）FY2026Q3 財報與財測皆輾壓市場共識，並宣布 60 億美元的股票回購計畫，CEO 強調新商業模式讓記憶體產業發生根本性的改變，不過盤後仍下跌約 -6%。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid0mnEQXsWb9og28fs1sWy1Gx2tJFuRuTG5TUtytYTNxMQxyC1TvuuoxeRAg6dKZB6Jl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid02qTX7RQAgBjSVTrErxPHSQk6w3ddhvpwGvc1UtwfTzD2rDr7ZaJ5kEkQvtuC2SVUdl
 
-![📌快閃記憶體大廠 #SanDisk（#SNDK）FY2026Q3 財報與財測皆輾壓市場共識，並宣布 60 億美元的股票回購計畫，CEO 強調新商業模式讓記憶體產業發生根本性的改變，不過盤後仍下跌約 -6%。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/685739581_1434996722003804_294154828407839119_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=zWOpmY6TIm0Q7kNvwHxNEVg&_nc_oc=AdpT6ED-OP6SqxbwYQnqSwxgkfrgEQ9Qoim0OUgeYSZaFToEZ4sIRx1hgQ4vLAMj8_E&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=t1ETyhYgXEksCYuMHlCX5w&_nc_ss=78100&oh=00_Af5i82DHMFN_E-rH4hNMYa_QEOiDch9adW-6wVOUZbIRtg&oe=69FE08B1)
+![📌快閃記憶體大廠 #SanDisk（#SNDK）FY2026Q3 財報與財測皆輾壓市場共識，並宣布 60 億美元的股票回購計畫，CEO 強調新商業模式讓記憶體產業發生根本性的改變，不過盤後仍下跌約 -6%。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/685739581_1434996722003804_294154828407839119_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=N3pGfrB71qQQ7kNvwG55RQe&_nc_oc=AdoUFiTxF0KkkHqnyNnMVDGMHbHcJLbr_WG8SEywHWFLGqtWmqFaAjr9WyWM1-OeGrg&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=wwke2jmE396AmdFfvFIvdQ&_nc_ss=78100&oh=00_Af5kOQ-87CuF92m87jrHCUeRC56znDI8wpjuEkUn-Em8MA&oe=6A01FD31)
 📌快閃記憶體大廠 #SanDisk（#SNDK）FY2026Q3 財報與財測皆輾壓市場共識，並宣布 60 億美元的股票回購計畫，CEO 強調新商業模式讓記憶體產業發生根本性的改變，不過盤後仍下跌約 -6%。
+
+有興趣可以看完整文章 https://link.finguider.cc/Sandisk/fp
 ​
 🟢營收：59.5 億美元（QoQ +97%、YoY +251%）v.s. 47.2 億
 🟢EPS：23.41 美元（QoQ +278%、由虧轉盈）v.s. 14.62 美元

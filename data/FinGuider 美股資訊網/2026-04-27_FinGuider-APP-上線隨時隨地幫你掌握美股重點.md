@@ -4,12 +4,12 @@ title: "【FinGuider #APP 上線：隨時隨地幫你掌握美股重點‼】"
 page_title: "FinGuider 美股資訊網"
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid02dVbcmwfPofeP6sz6yhoEzhQErihfu3VwxKSBToa4MfxdyZodgaGM8TRhGAPnBb5Ul"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0aFkx8HLVxiJ1sghgnqBt1GMsGCKLaUdc7x9xbM9YuE1kBxx2L1kSnKYNw1XAgD5xl"
 creation_time_utc: "2026-04-27T09:24:01+00:00"
-fetched_at_utc: "2026-05-04T05:52:18.461638+00:00"
+fetched_at_utc: "2026-05-07T04:02:53.303551+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/FinGuider/posts/pfbid02dVbcmwfPofeP6sz6yhoEzhQErihfu3VwxKSBToa4MfxdyZodgaGM8TRhGAPnBb5Ul"
+attachment_url: "https://www.facebook.com/FinGuider/posts/pfbid0aFkx8HLVxiJ1sghgnqBt1GMsGCKLaUdc7x9xbM9YuE1kBxx2L1kSnKYNw1XAgD5xl"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTQzMTU2NjAyOTAxMzU0MA=="
 page_canonical_url: "https://www.facebook.com/FinGuider"
@@ -17,7 +17,7 @@ page_canonical_url: "https://www.facebook.com/FinGuider"
 
 # 【FinGuider #APP 上線：隨時隨地幫你掌握美股重點‼】
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid02dVbcmwfPofeP6sz6yhoEzhQErihfu3VwxKSBToa4MfxdyZodgaGM8TRhGAPnBb5Ul
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0aFkx8HLVxiJ1sghgnqBt1GMsGCKLaUdc7x9xbM9YuE1kBxx2L1kSnKYNw1XAgD5xl
 【FinGuider #APP 上線：隨時隨地幫你掌握美股重點‼】
 通勤時想快速看美股？
 吃飯空檔想知道市場發生什麼事？
