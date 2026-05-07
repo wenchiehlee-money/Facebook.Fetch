@@ -12,6 +12,7 @@ Usage:
 """
 
 import argparse
+import csv
 import re
 import urllib.parse
 from pathlib import Path
@@ -19,24 +20,106 @@ from pathlib import Path
 TAIEX_REPO    = "wenchiehlee-money/TAIEX.TW"
 FB_FETCH_REPO = "wenchiehlee-money/Facebook.Fetch"
 
-US_SYMBOLS = {
-    'AMD', 'NVDA', 'GOOGL', 'AAPL', 'META', 'MSFT', 'AMZN', 'TSM',
-    'QCOM', 'AVGO', 'INTC', 'MU', 'WDC', 'ORCL', 'DELL', 'HPQ', 'HPE',
-    'ASML', 'ARM', 'SMCI', 'MRVL', 'AMAT', 'LRCX', 'KLAC',
+# Fallback hardcoded symbols (used when ConceptStocks CSVs are unavailable)
+_FALLBACK_SYMBOLS: dict[str, str] = {
+    'AMD': 'AMD', 'NVDA': 'NVDA', 'GOOGL': 'GOOGL', 'AAPL': 'AAPL',
+    'META': 'META', 'MSFT': 'MSFT', 'AMZN': 'AMZN', 'TSM': 'TSM',
+    'QCOM': 'QCOM', 'AVGO': 'AVGO', 'INTC': 'INTC', 'MU': 'MU',
+    'WDC': 'WDC', 'ORCL': 'ORCL', 'DELL': 'DELL', 'HPQ': 'HPQ',
+    'HPE': 'HPE', 'ASML': 'ASML', 'ARM': 'ARM', 'SNDK': 'SNDK',
+    'LNVGY': 'LNVGY',
+}
+
+# Concept-name → ticker overrides (names extracted from companyinfo column headers)
+_CONCEPT_OVERRIDES: dict[str, str] = {
+    'SANDISK':  'SNDK',
+    'NVIDIA':   'NVDA',
+    'NVIIDA':   'NVDA',
+    'GOOGLE':   'GOOGL',
+    'ALPHABET': 'GOOGL',
+    'BROADCOM': 'AVGO',
+    'AMAZON':   'AMZN',
+    'APPLE':    'AAPL',
+    'MICROSOFT':'MSFT',
+    'MICRON':   'MU',
+    'QUALCOMM': 'QCOM',
+    'INTEL':    'INTC',
+    'TSMC':     'TSM',
+    'LENOVO':   'LNVGY',
+    'ORACLE':   'ORCL',
+    'META':     'META',
+    'OPENAI':   'OPENAI',
 }
 
 TAGGED_MARKERS = ("📌 新增貼文至TAIEX.TW比對", "🔄 已標記", "✅ 已比對")
 
 
-def extract_symbol(filename: str) -> str:
+def load_symbols_from_conceptstocks(repo_root: Path) -> dict[str, str]:
+    """Load name→ticker mapping from ConceptStocks CSVs (sibling repo).
+
+    Returns dict: {uppercase_name_or_alias: ticker}
+    Priority: metadata Ticker > concept column aliases > fallback hardcoded list.
+    """
+    mapping: dict[str, str] = dict(_FALLBACK_SYMBOLS)
+    mapping.update(_CONCEPT_OVERRIDES)
+
+    cs_root = repo_root.parent / "ConceptStocks"
+
+    # 1. raw_conceptstock_company_metadata.csv → Ticker + 公司名稱 keywords
+    metadata_path = cs_root / "raw_conceptstock_company_metadata.csv"
+    if metadata_path.exists():
+        with open(metadata_path, encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                ticker = (row.get("Ticker") or "").strip()
+                name   = (row.get("公司名稱") or "").strip()
+                if not ticker or ticker == "-":
+                    continue
+                mapping[ticker.upper()] = ticker
+                # Add first meaningful word of company name as alias
+                for word in re.split(r'[\s,.]', name):
+                    w = word.strip().upper()
+                    if len(w) >= 3 and not w.isdigit():
+                        mapping.setdefault(w, ticker)
+
+    # 2. raw_companyinfo.csv → concept column headers (strip 概念)
+    companyinfo_path = cs_root / "raw_companyinfo.csv"
+    if companyinfo_path.exists():
+        with open(companyinfo_path, encoding="utf-8") as f:
+            fieldnames = next(csv.reader(f))
+        for col in fieldnames:
+            if col.endswith("概念"):
+                alias = col[:-2].upper()  # strip 概念
+                if alias in _CONCEPT_OVERRIDES:
+                    mapping.setdefault(alias, _CONCEPT_OVERRIDES[alias])
+                elif alias in mapping:
+                    pass  # already mapped
+                else:
+                    mapping.setdefault(alias, alias)  # use alias as ticker
+
+    return mapping
+
+
+def extract_symbol(filename: str, sym_map: dict[str, str]) -> str:
+    """Return ticker for the stock mentioned in filename, or '' if unrecognised."""
     name_upper = filename.upper()
-    for sym in sorted(US_SYMBOLS, key=len, reverse=True):
-        if re.search(rf'\b{sym}\b', name_upper) or sym in name_upper:
-            return sym
-    # TW 4-digit stock code
-    m = re.search(r'(?<!\d)(\d{4})(?!\d)', filename)
-    if m:
-        return m.group(1)
+
+    # Pass 1: exact ticker substring match (short ≤6 chars, all-caps)
+    tickers = {a: t for a, t in sym_map.items() if a == t and len(a) <= 6}
+    for ticker in sorted(tickers, key=len, reverse=True):
+        if ticker in name_upper:
+            return tickers[ticker]
+
+    # Pass 2: company name / alias with word boundary (longer aliases like SANDISK)
+    aliases = {a: t for a, t in sym_map.items() if a != t or len(a) > 6}
+    for alias in sorted(aliases, key=len, reverse=True):
+        if re.search(rf'(?<![A-Z]){re.escape(alias)}', name_upper):
+            return aliases[alias]
+
+    # Pass 3: TW 4-digit stock code (exclude years 1900-2099)
+    for m in re.finditer(r'(?<!\d)(\d{4})(?!\d)', filename):
+        code = m.group(1)
+        if not (1900 <= int(code) <= 2099):
+            return code
     return ""
 
 
@@ -62,7 +145,7 @@ def build_issue_url(symbol: str, rel_path: str, period: str) -> str:
     return f"https://github.com/{TAIEX_REPO}/issues/new?{qs}"
 
 
-def inject_file(md_path: Path, repo_root: Path) -> bool:
+def inject_file(md_path: Path, repo_root: Path, sym_map: dict[str, str]) -> bool:
     """Append tag link to .md file. Returns True if file was modified."""
     content = md_path.read_text(encoding="utf-8")
 
@@ -72,7 +155,7 @@ def inject_file(md_path: Path, repo_root: Path) -> bool:
     rel_path = md_path.relative_to(repo_root).as_posix()
     stem     = md_path.stem  # filename without .md
 
-    symbol = extract_symbol(stem)
+    symbol = extract_symbol(stem, sym_map)
     if not symbol:
         return False  # can't identify stock
 
@@ -95,6 +178,8 @@ def main():
     args = parser.parse_args()
 
     repo_root = Path(__file__).resolve().parent.parent
+    sym_map   = load_symbols_from_conceptstocks(repo_root)
+    print(f"  Loaded {len(sym_map)} symbol aliases")
 
     if args.all:
         files = sorted(repo_root.glob("data/**/*.md"))
@@ -108,7 +193,7 @@ def main():
             print(f"  [skip] not found: {f}")
             skipped += 1
             continue
-        if inject_file(f, repo_root):
+        if inject_file(f, repo_root, sym_map):
             print(f"  [tagged] {f.relative_to(repo_root)}")
             modified += 1
         else:
