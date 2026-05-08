@@ -263,9 +263,9 @@ def update_index(repo_root: Path) -> int:
     Returns number of index files updated.
     """
     updated = 0
-    # Match list items — strip any leading shields.io badges or emoji badges before the date
+    # Match list items — strip badges before OR after date (handles old and new formats)
     item_re = re.compile(
-        r'^- (?:(?:!\[[^\]]*\]\([^)]*\)|[✅🔄📌])\s+)*(`\d{4}-\d{2}-\d{2}` )(\[.*?\]\(([^)]+\.md)\))(.*)$'
+        r'^- (?:(?:!\[[^\]]*\]\([^)]*\)|[✅🔄📌])\s+)*(`\d{4}-\d{2}-\d{2}` )(?:[✅🔄📌]\s+)?(\[.*?\]\(([^)]+\.md)\))(.*)$'
     )
 
     for index_path in sorted(repo_root.glob("data/**/index.md")):
@@ -279,11 +279,13 @@ def update_index(repo_root: Path) -> int:
             if m:
                 date_part, link_part, md_filename, rest = m.groups()
                 md_file = page_dir / md_filename
-                taiex_status    = get_badge_status(md_file) if md_file.exists() else ""
+                taiex_status     = get_badge_status(md_file) if md_file.exists() else ""
                 biztrends_status = get_biztrends_badge_status(md_file) if md_file.exists() else ""
+                # Only show 🔄 / ✅ — 📌 is injected automatically and would appear on
+                # every post, making the index noisy. It lives in the post file as an action button.
                 shields = " ".join(filter(None, [
-                    make_shield("TAIEX.TW", taiex_status),
-                    make_shield("biztrends.TW", biztrends_status),
+                    make_shield("TAIEX.TW",     taiex_status     if taiex_status     in ("🔄", "✅") else ""),
+                    make_shield("biztrends.TW", biztrends_status if biztrends_status in ("🔄", "✅") else ""),
                 ]))
                 badge_str = f"{shields} " if shields else ""
                 new_line = f"- {badge_str}{date_part}{link_part}{rest}\n"
