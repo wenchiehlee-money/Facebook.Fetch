@@ -39,3 +39,7 @@ page_canonical_url: "https://www.facebook.com/FinGuider"
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-05-06_The-Information%E5%A0%B1%E5%B0%8EAnthropic-%E8%88%87-GoogleGOOGL%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0%E6%89%BF%E8%AB%BE%E6%9C%AA%E4%BE%86-5-%E5%B9%B4%E6%8E%A1%E8%B3%BC-2000-%E5%84%84%E7%BE%8E%E5%85%83%E7%9A%84%E9%9B%B2%E7%AB%AF%E6%9C%8D%E5%8B%99%E8%88%87%E6%99%B6%E7%89%87%E9%80%99%E6%98%AF%E8%BF%91%E6%9C%9F%E9%9B%99%E6%96%B9%E6%93%B4%E5%A4%A7%E5%90%88.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-05-06_The-Information%E5%A0%B1%E5%B0%8EAnthropic-%E8%88%87-GoogleGOOGL%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0%E6%89%BF%E8%AB%BE%E6%9C%AA%E4%BE%86-5-%E5%B9%B4%E6%8E%A1%E8%B3%BC-2000-%E5%84%84%E7%BE%8E%E5%85%83%E7%9A%84%E9%9B%B2%E7%AB%AF%E6%9C%8D%E5%8B%99%E8%88%87%E6%99%B6%E7%89%87%E9%80%99%E6%98%AF%E8%BF%91%E6%9C%9F%E9%9B%99%E6%96%B9%E6%93%B4%E5%A4%A7%E5%90%88.md&period=)

@@ -105,3 +105,7 @@ P.s. 最近「光通訊」這個詞很火熱，如果想了解更多的話，我
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-05_%E9%80%99%E5%B9%BE%E5%A4%A9%E6%88%91%E7%B5%82%E6%96%BC%E7%9C%8B%E5%AE%8C%E4%BA%86%E9%82%A3%E9%83%A8%E8%AC%9B%E8%BF%B0-Google-DeepMind-%E7%9A%84%E7%B4%80%E9%8C%84%E7%89%87The-Thinking-Game.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-05_%E9%80%99%E5%B9%BE%E5%A4%A9%E6%88%91%E7%B5%82%E6%96%BC%E7%9C%8B%E5%AE%8C%E4%BA%86%E9%82%A3%E9%83%A8%E8%AC%9B%E8%BF%B0-Google-DeepMind-%E7%9A%84%E7%B4%80%E9%8C%84%E7%89%87The-Thinking-Game.md&period=)

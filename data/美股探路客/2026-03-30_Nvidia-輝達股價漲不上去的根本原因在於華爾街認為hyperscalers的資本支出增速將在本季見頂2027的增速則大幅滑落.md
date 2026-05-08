@@ -31,3 +31,7 @@ page_canonical_url: "https://www.facebook.com/raikk6"
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-03-30_Nvidia-%E8%BC%9D%E9%81%94%E8%82%A1%E5%83%B9%E6%BC%B2%E4%B8%8D%E4%B8%8A%E5%8E%BB%E7%9A%84%E6%A0%B9%E6%9C%AC%E5%8E%9F%E5%9B%A0%E5%9C%A8%E6%96%BC%E8%8F%AF%E7%88%BE%E8%A1%97%E8%AA%8D%E7%82%BAhyperscalers%E7%9A%84%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA%E5%A2%9E%E9%80%9F%E5%B0%87%E5%9C%A8%E6%9C%AC%E5%AD%A3%E8%A6%8B%E9%A0%822027%E7%9A%84%E5%A2%9E%E9%80%9F%E5%89%87%E5%A4%A7%E5%B9%85%E6%BB%91%E8%90%BD.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=NVDA%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=NVDA&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-03-30_Nvidia-%E8%BC%9D%E9%81%94%E8%82%A1%E5%83%B9%E6%BC%B2%E4%B8%8D%E4%B8%8A%E5%8E%BB%E7%9A%84%E6%A0%B9%E6%9C%AC%E5%8E%9F%E5%9B%A0%E5%9C%A8%E6%96%BC%E8%8F%AF%E7%88%BE%E8%A1%97%E8%AA%8D%E7%82%BAhyperscalers%E7%9A%84%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA%E5%A2%9E%E9%80%9F%E5%B0%87%E5%9C%A8%E6%9C%AC%E5%AD%A3%E8%A6%8B%E9%A0%822027%E7%9A%84%E5%A2%9E%E9%80%9F%E5%89%87%E5%A4%A7%E5%B9%85%E6%BB%91%E8%90%BD.md&period=)

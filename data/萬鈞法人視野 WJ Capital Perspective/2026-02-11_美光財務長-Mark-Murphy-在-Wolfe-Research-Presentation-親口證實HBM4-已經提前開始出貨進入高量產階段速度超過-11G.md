@@ -42,3 +42,7 @@ HBM4 屬於 12-high 堆疊、2048-bit 介面架構，單一 stack 頻寬上看 2
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=MU%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=MU&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-02-11_%E7%BE%8E%E5%85%89%E8%B2%A1%E5%8B%99%E9%95%B7-Mark-Murphy-%E5%9C%A8-Wolfe-Research-Presentation-%E8%A6%AA%E5%8F%A3%E8%AD%89%E5%AF%A6HBM4-%E5%B7%B2%E7%B6%93%E6%8F%90%E5%89%8D%E9%96%8B%E5%A7%8B%E5%87%BA%E8%B2%A8%E9%80%B2%E5%85%A5%E9%AB%98%E9%87%8F%E7%94%A2%E9%9A%8E%E6%AE%B5%E9%80%9F%E5%BA%A6%E8%B6%85%E9%81%8E-11G.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=MU%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=MU&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-02-11_%E7%BE%8E%E5%85%89%E8%B2%A1%E5%8B%99%E9%95%B7-Mark-Murphy-%E5%9C%A8-Wolfe-Research-Presentation-%E8%A6%AA%E5%8F%A3%E8%AD%89%E5%AF%A6HBM4-%E5%B7%B2%E7%B6%93%E6%8F%90%E5%89%8D%E9%96%8B%E5%A7%8B%E5%87%BA%E8%B2%A8%E9%80%B2%E5%85%A5%E9%AB%98%E9%87%8F%E7%94%A2%E9%9A%8E%E6%AE%B5%E9%80%9F%E5%BA%A6%E8%B6%85%E9%81%8E-11G.md&period=)

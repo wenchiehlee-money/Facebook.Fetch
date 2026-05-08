@@ -33,3 +33,7 @@ BE介紹文章部分開放免費閱讀👇
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-04-14_BE-Bloom-Energy%E7%9B%A4%E5%BE%8C%E5%A4%A7%E6%BC%B213%E6%8E%A5%E7%8D%B2Oracle-28GW%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E5%A4%A7%E5%96%AE.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=ORCL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=ORCL&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-04-14_BE-Bloom-Energy%E7%9B%A4%E5%BE%8C%E5%A4%A7%E6%BC%B213%E6%8E%A5%E7%8D%B2Oracle-28GW%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E5%A4%A7%E5%96%AE.md&period=)

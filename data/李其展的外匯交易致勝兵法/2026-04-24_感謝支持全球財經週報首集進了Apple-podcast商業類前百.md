@@ -39,3 +39,7 @@ page_canonical_url: "https://www.facebook.com/ForexStrategist"
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E6%9D%8E%E5%85%B6%E5%B1%95%E7%9A%84%E5%A4%96%E5%8C%AF%E4%BA%A4%E6%98%93%E8%87%B4%E5%8B%9D%E5%85%B5%E6%B3%95%2F2026-04-24_%E6%84%9F%E8%AC%9D%E6%94%AF%E6%8C%81%E5%85%A8%E7%90%83%E8%B2%A1%E7%B6%93%E9%80%B1%E5%A0%B1%E9%A6%96%E9%9B%86%E9%80%B2%E4%BA%86Apple-podcast%E5%95%86%E6%A5%AD%E9%A1%9E%E5%89%8D%E7%99%BE.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=AAPL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=AAPL&file_path=data%2F%E6%9D%8E%E5%85%B6%E5%B1%95%E7%9A%84%E5%A4%96%E5%8C%AF%E4%BA%A4%E6%98%93%E8%87%B4%E5%8B%9D%E5%85%B5%E6%B3%95%2F2026-04-24_%E6%84%9F%E8%AC%9D%E6%94%AF%E6%8C%81%E5%85%A8%E7%90%83%E8%B2%A1%E7%B6%93%E9%80%B1%E5%A0%B1%E9%A6%96%E9%9B%86%E9%80%B2%E4%BA%86Apple-podcast%E5%95%86%E6%A5%AD%E9%A1%9E%E5%89%8D%E7%99%BE.md&period=)

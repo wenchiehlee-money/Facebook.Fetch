@@ -73,3 +73,7 @@ SK海力士作為長期合作、擁有最大HBM產能且量產經驗豐富的夥
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-02-10_HBM%E5%8D%B3%E5%B0%87%E9%80%B2%E5%85%A5%E6%96%B0%E4%B8%80%E4%BB%A3%E8%80%8C%E4%B8%89%E6%98%9F%E9%9B%BB%E5%AD%90%E7%8E%87%E5%85%88%E9%80%9A%E9%81%8E%E4%BA%86Nvidia-HBM4%E7%9A%84%E5%93%81%E8%B3%AA%E8%AA%8D%E8%AD%89.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=NVDA%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=NVDA&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-02-10_HBM%E5%8D%B3%E5%B0%87%E9%80%B2%E5%85%A5%E6%96%B0%E4%B8%80%E4%BB%A3%E8%80%8C%E4%B8%89%E6%98%9F%E9%9B%BB%E5%AD%90%E7%8E%87%E5%85%88%E9%80%9A%E9%81%8E%E4%BA%86Nvidia-HBM4%E7%9A%84%E5%93%81%E8%B3%AA%E8%AA%8D%E8%AD%89.md&period=)

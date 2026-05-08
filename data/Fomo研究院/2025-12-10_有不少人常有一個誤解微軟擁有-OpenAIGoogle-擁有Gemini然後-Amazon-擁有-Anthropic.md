@@ -130,3 +130,7 @@ AWS 的潛台詞是：「你不需要請一個諾貝爾獎得主（昂貴的 GPT
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-10_%E6%9C%89%E4%B8%8D%E5%B0%91%E4%BA%BA%E5%B8%B8%E6%9C%89%E4%B8%80%E5%80%8B%E8%AA%A4%E8%A7%A3%E5%BE%AE%E8%BB%9F%E6%93%81%E6%9C%89-OpenAIGoogle-%E6%93%81%E6%9C%89Gemini%E7%84%B6%E5%BE%8C-Amazon-%E6%93%81%E6%9C%89-Anthropic.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=OPENAI%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=OPENAI&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-10_%E6%9C%89%E4%B8%8D%E5%B0%91%E4%BA%BA%E5%B8%B8%E6%9C%89%E4%B8%80%E5%80%8B%E8%AA%A4%E8%A7%A3%E5%BE%AE%E8%BB%9F%E6%93%81%E6%9C%89-OpenAIGoogle-%E6%93%81%E6%9C%89Gemini%E7%84%B6%E5%BE%8C-Amazon-%E6%93%81%E6%9C%89-Anthropic.md&period=)

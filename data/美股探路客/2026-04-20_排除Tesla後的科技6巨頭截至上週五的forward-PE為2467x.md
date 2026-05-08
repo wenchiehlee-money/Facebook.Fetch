@@ -35,3 +35,7 @@ Tesla的forward P/E為197.6x，PEG 5.34x，為outlier，因此不納入評估科
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-04-20_%E6%8E%92%E9%99%A4Tesla%E5%BE%8C%E7%9A%84%E7%A7%91%E6%8A%806%E5%B7%A8%E9%A0%AD%E6%88%AA%E8%87%B3%E4%B8%8A%E9%80%B1%E4%BA%94%E7%9A%84forward-PE%E7%82%BA2467x.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=2467%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2467&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-04-20_%E6%8E%92%E9%99%A4Tesla%E5%BE%8C%E7%9A%84%E7%A7%91%E6%8A%806%E5%B7%A8%E9%A0%AD%E6%88%AA%E8%87%B3%E4%B8%8A%E9%80%B1%E4%BA%94%E7%9A%84forward-PE%E7%82%BA2467x.md&period=)

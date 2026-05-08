@@ -4,11 +4,12 @@ import sys, io
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8', errors='replace')
 """
-Inject 'Tag to TAIEX.TW' links into Facebook.Fetch .md files.
+Inject 'Tag to TAIEX.TW' and 'Tag to biztrends.TW' links into Facebook.Fetch .md files.
 
 Usage:
     python scripts/inject_tag_links.py --all          # backfill all existing .md files
     python scripts/inject_tag_links.py --files f1 f2  # specific files (used by GitHub Action)
+    python scripts/inject_tag_links.py --update-index # only refresh index.md badges
 """
 
 import argparse
@@ -17,8 +18,9 @@ import re
 import urllib.parse
 from pathlib import Path
 
-TAIEX_REPO    = "wenchiehlee-money/TAIEX.TW"
-FB_FETCH_REPO = "wenchiehlee-money/Facebook.Fetch"
+TAIEX_REPO     = "wenchiehlee-money/TAIEX.TW"
+BIZTRENDS_REPO = "wenchiehlee-money/biztrends.TW"
+FB_FETCH_REPO  = "wenchiehlee-money/Facebook.Fetch"
 
 # Fallback hardcoded symbols (used when ConceptStocks CSVs are unavailable)
 _FALLBACK_SYMBOLS: dict[str, str] = {
@@ -51,7 +53,34 @@ _CONCEPT_OVERRIDES: dict[str, str] = {
     'OPENAI':   'OPENAI',
 }
 
-TAGGED_MARKERS = ("📌 新增貼文至TAIEX.TW比對", "🔄 已標記", "✅ 已比對")
+TAIEX_TAGGED_MARKERS     = ("📌 新增貼文至TAIEX.TW比對", "🔄 已標記", "✅ 已比對")
+BIZTRENDS_TAGGED_MARKERS = ("📌 新增貼文至biztrends.TW比對", "🔄 已標記至biztrends.TW", "✅ 已比對至biztrends.TW")
+
+# Keep backward-compat alias
+TAGGED_MARKERS = TAIEX_TAGGED_MARKERS
+
+# shields.io badge color per repo — color identifies the repo, emoji identifies the state
+# Add new repos here to scale to 3, 4, 5+ repos
+SHIELD_COLORS: dict[str, str] = {
+    "TAIEX.TW":     "lightgreen",
+    "biztrends.TW": "yellow",
+}
+
+_EMOJI_ENC = {
+    "📌": "%F0%9F%93%8C",
+    "🔄": "%F0%9F%94%84",
+    "✅": "%E2%9C%85",
+}
+
+def make_shield(repo_label: str, status: str) -> str:
+    """Return a shields.io badge markdown string, or '' if no status."""
+    if not status:
+        return ""
+    emoji_enc = _EMOJI_ENC.get(status, "")
+    if not emoji_enc:
+        return ""
+    color = SHIELD_COLORS.get(repo_label, "lightgrey")
+    return f"![{repo_label}](https://img.shields.io/badge/-{emoji_enc}-{color})"
 
 
 def load_symbols_from_conceptstocks(repo_root: Path) -> dict[str, str]:
@@ -75,7 +104,6 @@ def load_symbols_from_conceptstocks(repo_root: Path) -> dict[str, str]:
                 if not ticker or ticker == "-":
                     continue
                 mapping[ticker.upper()] = ticker
-                # Add first meaningful word of company name as alias
                 for word in re.split(r'[\s,.]', name):
                     w = word.strip().upper()
                     if len(w) >= 3 and not w.isdigit():
@@ -88,13 +116,13 @@ def load_symbols_from_conceptstocks(repo_root: Path) -> dict[str, str]:
             fieldnames = next(csv.reader(f))
         for col in fieldnames:
             if col.endswith("概念"):
-                alias = col[:-2].upper()  # strip 概念
+                alias = col[:-2].upper()
                 if alias in _CONCEPT_OVERRIDES:
                     mapping.setdefault(alias, _CONCEPT_OVERRIDES[alias])
                 elif alias in mapping:
-                    pass  # already mapped
+                    pass
                 else:
-                    mapping.setdefault(alias, alias)  # use alias as ticker
+                    mapping.setdefault(alias, alias)
 
     return mapping
 
@@ -124,7 +152,6 @@ def extract_symbol(filename: str, sym_map: dict[str, str]) -> str:
 
 
 def extract_period(filename: str) -> str:
-    # Match patterns like Q1、Q2、Q3、Q4 or 第一季 etc.
     q_match = re.search(r'[Qq]([1-4])', filename)
     year_match = re.search(r'(\d{4})', filename)
     if q_match and year_match:
@@ -132,7 +159,7 @@ def extract_period(filename: str) -> str:
     return ""
 
 
-def build_issue_url(symbol: str, rel_path: str, period: str) -> str:
+def build_issue_url(symbol: str, rel_path: str, period: str, repo: str) -> str:
     title = f"{symbol} {period} 財報標記".strip()
     params = {
         "template": "earnings_tag.yml",
@@ -142,25 +169,25 @@ def build_issue_url(symbol: str, rel_path: str, period: str) -> str:
         "period":   period,
     }
     qs = urllib.parse.urlencode(params, quote_via=urllib.parse.quote)
-    return f"https://github.com/{TAIEX_REPO}/issues/new?{qs}"
+    return f"https://github.com/{repo}/issues/new?{qs}"
 
 
 def inject_file(md_path: Path, repo_root: Path, sym_map: dict[str, str]) -> bool:
-    """Append tag link to .md file. Returns True if file was modified."""
+    """Append TAIEX.TW tag link to .md file. Returns True if file was modified."""
     content = md_path.read_text(encoding="utf-8")
 
-    if any(m in content for m in TAGGED_MARKERS):
-        return False  # already tagged
+    if any(m in content for m in TAIEX_TAGGED_MARKERS):
+        return False
 
     rel_path = md_path.relative_to(repo_root).as_posix()
-    stem     = md_path.stem  # filename without .md
+    stem     = md_path.stem
 
     symbol = extract_symbol(stem, sym_map)
     if not symbol:
-        return False  # can't identify stock
+        return False
 
     period    = extract_period(stem)
-    issue_url = build_issue_url(symbol, rel_path, period)
+    issue_url = build_issue_url(symbol, rel_path, period, TAIEX_REPO)
 
     tag_section = (
         "\n\n---\n"
@@ -170,15 +197,33 @@ def inject_file(md_path: Path, repo_root: Path, sym_map: dict[str, str]) -> bool
     return True
 
 
-def get_badge_status(md_path: Path) -> str:
-    """Return the current badge status of a .md file.
+def inject_file_biztrends(md_path: Path, repo_root: Path, sym_map: dict[str, str]) -> bool:
+    """Append biztrends.TW tag link to .md file. Returns True if file was modified."""
+    content = md_path.read_text(encoding="utf-8")
 
-    Returns one of:
-      '✅'  — issue closed (已比對)
-      '🔄'  — issue open (已標記)
-      '📌'  — tag link injected but no issue yet
-      ''    — not tagged at all
-    """
+    if any(m in content for m in BIZTRENDS_TAGGED_MARKERS):
+        return False
+
+    rel_path = md_path.relative_to(repo_root).as_posix()
+    stem     = md_path.stem
+
+    symbol = extract_symbol(stem, sym_map)
+    if not symbol:
+        return False
+
+    period    = extract_period(stem)
+    issue_url = build_issue_url(symbol, rel_path, period, BIZTRENDS_REPO)
+
+    tag_section = (
+        "\n\n---\n"
+        f"[📌 新增貼文至biztrends.TW比對]({issue_url})\n"
+    )
+    md_path.write_text(content + tag_section, encoding="utf-8")
+    return True
+
+
+def get_badge_status(md_path: Path) -> str:
+    """Return TAIEX.TW badge status: ✅ / 🔄 / 📌 / ''"""
     try:
         content = md_path.read_text(encoding="utf-8", errors="ignore")
     except Exception:
@@ -192,21 +237,35 @@ def get_badge_status(md_path: Path) -> str:
     return ""
 
 
-def update_index(repo_root: Path) -> int:
-    """Scan all data/**/index.md files and prefix each list item with badge status.
+def get_biztrends_badge_status(md_path: Path) -> str:
+    """Return biztrends.TW badge status: ✅ / 🔄 / 📌 / ''"""
+    try:
+        content = md_path.read_text(encoding="utf-8", errors="ignore")
+    except Exception:
+        return ""
+    if "✅ 已比對至biztrends.TW" in content:
+        return "✅"
+    if "🔄 已標記至biztrends.TW" in content:
+        return "🔄"
+    if "📌 新增貼文至biztrends.TW比對" in content:
+        return "📌"
+    return ""
 
-    Format:
-      - `YYYY-MM-DD` [title](file.md)           → no badge, no change
-      - `YYYY-MM-DD` 📌 [title](file.md)        → has tag link but no issue
-      - `YYYY-MM-DD` 🔄 [title](file.md)        → issue submitted
-      - `YYYY-MM-DD` ✅ [title](file.md)        → issue closed / compared
+
+def update_index(repo_root: Path) -> int:
+    """Scan all data/**/index.md files and prefix each list item with shields.io badges.
+
+    Format (colored shields.io badges before date, one per repo):
+      - `YYYY-MM-DD` [title](file.md)                                        → neither tagged
+      - ![TAIEX.TW](…lightgreen…) `YYYY-MM-DD` [title](file.md)             → TAIEX only
+      - ![TAIEX.TW](…) ![biztrends.TW](…yellow…) `YYYY-MM-DD` [title](link) → both
 
     Returns number of index files updated.
     """
     updated = 0
-    # Match list item pattern: - `YYYY-MM-DD` [optional_badge ][title](file.md)
+    # Match list items — strip any leading shields.io badges or emoji badges before the date
     item_re = re.compile(
-        r'^(- `\d{4}-\d{2}-\d{2}` )(?:[✅🔄📌]\s+)?(\[.*?\]\(([^)]+\.md)\))(.*)$'
+        r'^- (?:(?:!\[[^\]]*\]\([^)]*\)|[✅🔄📌])\s+)*(`\d{4}-\d{2}-\d{2}` )(\[.*?\]\(([^)]+\.md)\))(.*)$'
     )
 
     for index_path in sorted(repo_root.glob("data/**/index.md")):
@@ -218,14 +277,16 @@ def update_index(repo_root: Path) -> int:
         for line in lines:
             m = item_re.match(line.rstrip("\n"))
             if m:
-                prefix, link_part, md_filename, rest = m.groups()
+                date_part, link_part, md_filename, rest = m.groups()
                 md_file = page_dir / md_filename
-                badge = get_badge_status(md_file) if md_file.exists() else ""
-                # Only show 🔄 / ✅ in index.md — 📌 is a per-file action button,
-                # showing it on every line makes the index unreadably noisy.
-                visible_badge = badge if badge in ("🔄", "✅") else ""
-                badge_str = f"{visible_badge} " if visible_badge else ""
-                new_line = f"{prefix}{badge_str}{link_part}{rest}\n"
+                taiex_status    = get_badge_status(md_file) if md_file.exists() else ""
+                biztrends_status = get_biztrends_badge_status(md_file) if md_file.exists() else ""
+                shields = " ".join(filter(None, [
+                    make_shield("TAIEX.TW", taiex_status),
+                    make_shield("biztrends.TW", biztrends_status),
+                ]))
+                badge_str = f"{shields} " if shields else ""
+                new_line = f"- {badge_str}{date_part}{link_part}{rest}\n"
                 if new_line != line:
                     changed = True
                 new_lines.append(new_line)
@@ -241,7 +302,7 @@ def update_index(repo_root: Path) -> int:
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Inject TAIEX.TW tag links into .md files")
+    parser = argparse.ArgumentParser(description="Inject TAIEX.TW and biztrends.TW tag links into .md files")
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument("--all",          action="store_true", help="Process all .md files under data/")
     group.add_argument("--files",        nargs="+",           help="Specific file paths to process")
@@ -260,25 +321,29 @@ def main():
 
     if args.all:
         files = sorted(repo_root.glob("data/**/*.md"))
-        # exclude index.md files
         files = [f for f in files if f.name != "index.md"]
     else:
         files = [Path(f).resolve() for f in args.files]
 
-    total = modified = skipped = 0
+    total = modified = biz_modified = skipped = 0
     for f in files:
         total += 1
         if not f.exists():
             print(f"  [skip] not found: {f}")
             skipped += 1
             continue
-        if inject_file(f, repo_root, sym_map):
-            print(f"  [tagged] {f.relative_to(repo_root)}")
+        tagged     = inject_file(f, repo_root, sym_map)
+        biz_tagged = inject_file_biztrends(f, repo_root, sym_map)
+        if tagged:
+            print(f"  [TAIEX tagged]     {f.relative_to(repo_root)}")
             modified += 1
-        else:
+        if biz_tagged:
+            print(f"  [biztrends tagged] {f.relative_to(repo_root)}")
+            biz_modified += 1
+        if not tagged and not biz_tagged:
             skipped += 1
 
-    print(f"\nDone: {modified} tagged, {skipped} skipped, {total} total")
+    print(f"\nDone: TAIEX {modified} tagged, biztrends {biz_modified} tagged, {skipped} skipped, {total} total")
 
     # Always refresh index after injection
     update_index(repo_root)

@@ -37,3 +37,7 @@ https://www.trendforce.com.tw/presscenter/news/20260407-12999.html
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%202026%20Q2%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-04-07_Consumer-DRAM%E5%A4%A7%E9%83%A8%E5%88%86%E6%98%AF%E5%B0%8F%E5%AE%B9%E9%87%8F%E7%9A%84DDR4DDR31Q26%E5%B9%B3%E5%9D%87%E6%BC%B2%E5%83%B975802Q26%E9%A0%90%E6%9C%9F%E5%86%8D%E6%BC%B24550%E4%B9%8B%E5%89%8D%E5%8F%AA%E6%9C%89%E5%85%AC%E5%B8%83%E6%95%B4%E9%AB%94DRAM%E4%B8%8D%E5%88%86DDR4DDR5HBM%E7%AD%89%E5%8F%AF.md&period=2026%20Q2)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=4550%202026%20Q2%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=4550&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-04-07_Consumer-DRAM%E5%A4%A7%E9%83%A8%E5%88%86%E6%98%AF%E5%B0%8F%E5%AE%B9%E9%87%8F%E7%9A%84DDR4DDR31Q26%E5%B9%B3%E5%9D%87%E6%BC%B2%E5%83%B975802Q26%E9%A0%90%E6%9C%9F%E5%86%8D%E6%BC%B24550%E4%B9%8B%E5%89%8D%E5%8F%AA%E6%9C%89%E5%85%AC%E5%B8%83%E6%95%B4%E9%AB%94DRAM%E4%B8%8D%E5%88%86DDR4DDR5HBM%E7%AD%89%E5%8F%AF.md&period=2026%20Q2)

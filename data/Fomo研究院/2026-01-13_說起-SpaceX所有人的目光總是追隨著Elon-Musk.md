@@ -67,3 +67,7 @@ p.s. 我在過去兩個星期，深入分析了有關於太空產業的一切。
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=MU%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=MU&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-01-13_%E8%AA%AA%E8%B5%B7-SpaceX%E6%89%80%E6%9C%89%E4%BA%BA%E7%9A%84%E7%9B%AE%E5%85%89%E7%B8%BD%E6%98%AF%E8%BF%BD%E9%9A%A8%E8%91%97Elon-Musk.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=MU%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=MU&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-01-13_%E8%AA%AA%E8%B5%B7-SpaceX%E6%89%80%E6%9C%89%E4%BA%BA%E7%9A%84%E7%9B%AE%E5%85%89%E7%B8%BD%E6%98%AF%E8%BF%BD%E9%9A%A8%E8%91%97Elon-Musk.md&period=)

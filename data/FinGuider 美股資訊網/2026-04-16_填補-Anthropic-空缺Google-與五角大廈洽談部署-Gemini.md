@@ -34,3 +34,7 @@ Google 於 2018 年宣布不再與國防部續簽「Project Maven」合約，該
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-16_%E5%A1%AB%E8%A3%9C-Anthropic-%E7%A9%BA%E7%BC%BAGoogle-%E8%88%87%E4%BA%94%E8%A7%92%E5%A4%A7%E5%BB%88%E6%B4%BD%E8%AB%87%E9%83%A8%E7%BD%B2-Gemini.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-16_%E5%A1%AB%E8%A3%9C-Anthropic-%E7%A9%BA%E7%BC%BAGoogle-%E8%88%87%E4%BA%94%E8%A7%92%E5%A4%A7%E5%BB%88%E6%B4%BD%E8%AB%87%E9%83%A8%E7%BD%B2-Gemini.md&period=)

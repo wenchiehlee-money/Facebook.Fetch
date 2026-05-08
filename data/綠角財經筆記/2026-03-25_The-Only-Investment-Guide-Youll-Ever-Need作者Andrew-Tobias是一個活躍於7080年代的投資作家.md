@@ -106,3 +106,7 @@ page_canonical_url: "https://www.facebook.com/GreenHornFans"
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-03-25_The-Only-Investment-Guide-Youll-Ever-Need%E4%BD%9C%E8%80%85Andrew-Tobias%E6%98%AF%E4%B8%80%E5%80%8B%E6%B4%BB%E8%BA%8D%E6%96%BC7080%E5%B9%B4%E4%BB%A3%E7%9A%84%E6%8A%95%E8%B3%87%E4%BD%9C%E5%AE%B6.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=7080%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=7080&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-03-25_The-Only-Investment-Guide-Youll-Ever-Need%E4%BD%9C%E8%80%85Andrew-Tobias%E6%98%AF%E4%B8%80%E5%80%8B%E6%B4%BB%E8%BA%8D%E6%96%BC7080%E5%B9%B4%E4%BB%A3%E7%9A%84%E6%8A%95%E8%B3%87%E4%BD%9C%E5%AE%B6.md&period=)

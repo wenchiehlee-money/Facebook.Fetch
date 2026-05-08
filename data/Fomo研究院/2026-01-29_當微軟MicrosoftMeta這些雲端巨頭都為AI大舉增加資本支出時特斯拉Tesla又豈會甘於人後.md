@@ -81,3 +81,7 @@ page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%9
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=META%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=META&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-01-29_%E7%95%B6%E5%BE%AE%E8%BB%9FMicrosoftMeta%E9%80%99%E4%BA%9B%E9%9B%B2%E7%AB%AF%E5%B7%A8%E9%A0%AD%E9%83%BD%E7%82%BAAI%E5%A4%A7%E8%88%89%E5%A2%9E%E5%8A%A0%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA%E6%99%82%E7%89%B9%E6%96%AF%E6%8B%89Tesla%E5%8F%88%E8%B1%88%E6%9C%83%E7%94%98%E6%96%BC%E4%BA%BA%E5%BE%8C.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=META%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=META&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-01-29_%E7%95%B6%E5%BE%AE%E8%BB%9FMicrosoftMeta%E9%80%99%E4%BA%9B%E9%9B%B2%E7%AB%AF%E5%B7%A8%E9%A0%AD%E9%83%BD%E7%82%BAAI%E5%A4%A7%E8%88%89%E5%A2%9E%E5%8A%A0%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA%E6%99%82%E7%89%B9%E6%96%AF%E6%8B%89Tesla%E5%8F%88%E8%B1%88%E6%9C%83%E7%94%98%E6%96%BC%E4%BA%BA%E5%BE%8C.md&period=)

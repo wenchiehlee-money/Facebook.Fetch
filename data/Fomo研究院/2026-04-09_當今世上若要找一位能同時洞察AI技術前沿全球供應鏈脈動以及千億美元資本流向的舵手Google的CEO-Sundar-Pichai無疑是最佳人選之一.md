@@ -93,3 +93,7 @@ Pichai直言，全球的「晶圓產能」和高階記憶體產量是有上限�
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-04-09_%E7%95%B6%E4%BB%8A%E4%B8%96%E4%B8%8A%E8%8B%A5%E8%A6%81%E6%89%BE%E4%B8%80%E4%BD%8D%E8%83%BD%E5%90%8C%E6%99%82%E6%B4%9E%E5%AF%9FAI%E6%8A%80%E8%A1%93%E5%89%8D%E6%B2%BF%E5%85%A8%E7%90%83%E4%BE%9B%E6%87%89%E9%8F%88%E8%84%88%E5%8B%95%E4%BB%A5%E5%8F%8A%E5%8D%83%E5%84%84%E7%BE%8E%E5%85%83%E8%B3%87%E6%9C%AC%E6%B5%81%E5%90%91%E7%9A%84%E8%88%B5%E6%89%8BGoogle%E7%9A%84CEO-Sundar-Pichai%E7%84%A1%E7%96%91%E6%98%AF%E6%9C%80%E4%BD%B3%E4%BA%BA%E9%81%B8%E4%B9%8B%E4%B8%80.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-04-09_%E7%95%B6%E4%BB%8A%E4%B8%96%E4%B8%8A%E8%8B%A5%E8%A6%81%E6%89%BE%E4%B8%80%E4%BD%8D%E8%83%BD%E5%90%8C%E6%99%82%E6%B4%9E%E5%AF%9FAI%E6%8A%80%E8%A1%93%E5%89%8D%E6%B2%BF%E5%85%A8%E7%90%83%E4%BE%9B%E6%87%89%E9%8F%88%E8%84%88%E5%8B%95%E4%BB%A5%E5%8F%8A%E5%8D%83%E5%84%84%E7%BE%8E%E5%85%83%E8%B3%87%E6%9C%AC%E6%B5%81%E5%90%91%E7%9A%84%E8%88%B5%E6%89%8BGoogle%E7%9A%84CEO-Sundar-Pichai%E7%84%A1%E7%96%91%E6%98%AF%E6%9C%80%E4%BD%B3%E4%BA%BA%E9%81%B8%E4%B9%8B%E4%B8%80.md&period=)

@@ -31,3 +31,7 @@ page_canonical_url: "https://www.facebook.com/people/Richard%E5%8F%AA%E8%AB%87%E
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-04-18_%E6%A0%B9%E6%93%9ADeepmind--Google-Research%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%B8%E5%AE%B6Jeff-Dean-12%E5%A4%9A%E5%88%86%E9%90%98%E9%96%8B%E5%A7%8B.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-04-18_%E6%A0%B9%E6%93%9ADeepmind--Google-Research%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%B8%E5%AE%B6Jeff-Dean-12%E5%A4%9A%E5%88%86%E9%90%98%E9%96%8B%E5%A7%8B.md&period=)

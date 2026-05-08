@@ -39,3 +39,7 @@ page_canonical_url: "https://www.facebook.com/people/%E8%90%AC%E9%88%9E%E6%B3%95
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=MU%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=MU&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-03-17_%E7%BE%A4%E8%81%AF%E9%9B%BB%E5%AD%90%E6%96%BC%E5%85%A8%E7%90%83AI%E6%8A%80%E8%A1%93%E6%8C%87%E6%A8%99%E6%80%A7%E7%9B%9B%E6%9C%83-NVIDIA-GTC-%E5%B1%95%E6%9C%83%E4%B8%8A%E6%AD%A3%E5%BC%8F%E7%99%BC%E8%A1%A8%E5%85%B6%E9%9D%A9%E5%91%BD%E6%80%A7%E7%9A%84aiDAPTIV-%E5%A4%9A%E5%B1%A4%E7%B4%9A%E8%A8%98%E6%86%B6%E9%AB%94%E6%9E%B6%E6%A7%8B%E6%8A%80%E8%A1%93multi-tier-memory-arc.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=MU%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=MU&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-03-17_%E7%BE%A4%E8%81%AF%E9%9B%BB%E5%AD%90%E6%96%BC%E5%85%A8%E7%90%83AI%E6%8A%80%E8%A1%93%E6%8C%87%E6%A8%99%E6%80%A7%E7%9B%9B%E6%9C%83-NVIDIA-GTC-%E5%B1%95%E6%9C%83%E4%B8%8A%E6%AD%A3%E5%BC%8F%E7%99%BC%E8%A1%A8%E5%85%B6%E9%9D%A9%E5%91%BD%E6%80%A7%E7%9A%84aiDAPTIV-%E5%A4%9A%E5%B1%A4%E7%B4%9A%E8%A8%98%E6%86%B6%E9%AB%94%E6%9E%B6%E6%A7%8B%E6%8A%80%E8%A1%93multi-tier-memory-arc.md&period=)

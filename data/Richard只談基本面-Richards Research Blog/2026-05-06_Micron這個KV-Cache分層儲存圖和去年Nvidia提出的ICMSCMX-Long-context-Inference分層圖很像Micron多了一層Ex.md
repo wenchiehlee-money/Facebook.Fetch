@@ -86,3 +86,7 @@ https://www.itiger.com/hans/news/2633977471
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-05-06_Micron%E9%80%99%E5%80%8BKV-Cache%E5%88%86%E5%B1%A4%E5%84%B2%E5%AD%98%E5%9C%96%E5%92%8C%E5%8E%BB%E5%B9%B4Nvidia%E6%8F%90%E5%87%BA%E7%9A%84ICMSCMX-Long-context-Inference%E5%88%86%E5%B1%A4%E5%9C%96%E5%BE%88%E5%83%8FMicron%E5%A4%9A%E4%BA%86%E4%B8%80%E5%B1%A4Ex.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=NVDA%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=NVDA&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-05-06_Micron%E9%80%99%E5%80%8BKV-Cache%E5%88%86%E5%B1%A4%E5%84%B2%E5%AD%98%E5%9C%96%E5%92%8C%E5%8E%BB%E5%B9%B4Nvidia%E6%8F%90%E5%87%BA%E7%9A%84ICMSCMX-Long-context-Inference%E5%88%86%E5%B1%A4%E5%9C%96%E5%BE%88%E5%83%8FMicron%E5%A4%9A%E4%BA%86%E4%B8%80%E5%B1%A4Ex.md&period=)

@@ -99,3 +99,7 @@ p.s. 還未閱讀最新一期「週末筆記」的朋友，不妨考慮訂閱電
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2025%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2025&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-29_%E5%9C%A8NvidiaNvidia%E6%94%B6%E8%B3%BCGroq%E5%BE%8C%E8%A8%B1%E5%A4%9A%E4%BA%BA%E7%9A%84%E7%AC%AC%E4%B8%80%E5%8F%8D%E6%87%89%E6%98%AF%E8%88%88%E5%A5%AE%E7%B7%8A%E6%8E%A5%E8%91%97%E4%BE%BF%E6%98%AF%E4%B8%80%E5%80%8B%E5%B7%A8%E5%A4%A7%E7%9A%84%E7%96%91%E5%95%8F.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=NVDA%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=NVDA&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-29_%E5%9C%A8NvidiaNvidia%E6%94%B6%E8%B3%BCGroq%E5%BE%8C%E8%A8%B1%E5%A4%9A%E4%BA%BA%E7%9A%84%E7%AC%AC%E4%B8%80%E5%8F%8D%E6%87%89%E6%98%AF%E8%88%88%E5%A5%AE%E7%B7%8A%E6%8E%A5%E8%91%97%E4%BE%BF%E6%98%AF%E4%B8%80%E5%80%8B%E5%B7%A8%E5%A4%A7%E7%9A%84%E7%96%91%E5%95%8F.md&period=)

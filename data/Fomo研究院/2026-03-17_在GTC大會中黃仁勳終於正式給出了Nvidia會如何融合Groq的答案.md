@@ -113,3 +113,7 @@ p.s. 想時刻緊貼市場動態的話，我誠邀你訂閱我的電子報，週
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-03-17_%E5%9C%A8GTC%E5%A4%A7%E6%9C%83%E4%B8%AD%E9%BB%83%E4%BB%81%E5%8B%B3%E7%B5%82%E6%96%BC%E6%AD%A3%E5%BC%8F%E7%B5%A6%E5%87%BA%E4%BA%86Nvidia%E6%9C%83%E5%A6%82%E4%BD%95%E8%9E%8D%E5%90%88Groq%E7%9A%84%E7%AD%94%E6%A1%88.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=NVDA%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=NVDA&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-03-17_%E5%9C%A8GTC%E5%A4%A7%E6%9C%83%E4%B8%AD%E9%BB%83%E4%BB%81%E5%8B%B3%E7%B5%82%E6%96%BC%E6%AD%A3%E5%BC%8F%E7%B5%A6%E5%87%BA%E4%BA%86Nvidia%E6%9C%83%E5%A6%82%E4%BD%95%E8%9E%8D%E5%90%88Groq%E7%9A%84%E7%AD%94%E6%A1%88.md&period=)

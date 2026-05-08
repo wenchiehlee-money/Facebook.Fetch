@@ -37,3 +37,7 @@ Silicon Motion 的指引更直接反映NAND控制IC的需求回溫。公司預�
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-04-28_%E7%BE%8E%E8%82%A1%E7%9B%A4%E4%B8%AD%E5%9B%A0-OpenAI-%E5%82%B3%E5%87%BA%E7%94%A8%E6%88%B6%E8%88%87%E7%87%9F%E6%94%B6%E6%9C%AA%E9%81%94%E6%A8%99%E8%B2%BB%E5%8D%8A%E5%9B%9E%E6%AA%94%E8%B6%85%E9%81%8E35%E5%B8%82%E5%A0%B4%E5%85%88%E5%B0%8D%E9%8F%9F%E5%AD%90%E8%82%A1%E9%9C%80%E6%B1%82%E5%81%9A%E6%8A%98%E5%83%B9%E8%80%8C%E7%9B%A4%E5%BE%8C-Bloom-EnergySeagateSilicon-Motion.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=OPENAI%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=OPENAI&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-04-28_%E7%BE%8E%E8%82%A1%E7%9B%A4%E4%B8%AD%E5%9B%A0-OpenAI-%E5%82%B3%E5%87%BA%E7%94%A8%E6%88%B6%E8%88%87%E7%87%9F%E6%94%B6%E6%9C%AA%E9%81%94%E6%A8%99%E8%B2%BB%E5%8D%8A%E5%9B%9E%E6%AA%94%E8%B6%85%E9%81%8E35%E5%B8%82%E5%A0%B4%E5%85%88%E5%B0%8D%E9%8F%9F%E5%AD%90%E8%82%A1%E9%9C%80%E6%B1%82%E5%81%9A%E6%8A%98%E5%83%B9%E8%80%8C%E7%9B%A4%E5%BE%8C-Bloom-EnergySeagateSilicon-Motion.md&period=)

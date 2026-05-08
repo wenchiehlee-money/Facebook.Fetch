@@ -108,3 +108,7 @@ Nadella的答案是：都要，但重心在長尾。
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=DELL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=DELL&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-11-17_%E5%BE%9E%E5%BE%AE%E8%BB%9FCEO-Nadella%E8%A8%AA%E8%AB%87%E4%B8%AD%E7%9C%8B%E5%BE%AE%E8%BB%9F%E7%9A%84AI%E6%88%B0%E7%95%A5-%E4%B8%80.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=DELL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=DELL&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-11-17_%E5%BE%9E%E5%BE%AE%E8%BB%9FCEO-Nadella%E8%A8%AA%E8%AB%87%E4%B8%AD%E7%9C%8B%E5%BE%AE%E8%BB%9F%E7%9A%84AI%E6%88%B0%E7%95%A5-%E4%B8%80.md&period=)

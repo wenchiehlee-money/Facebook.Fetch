@@ -102,3 +102,7 @@ OpenAI 與 Cerebras 的結盟，是 AI 基礎設施從「訓練為王」的單�
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-02-15_%E5%A6%82%E6%9E%9C%E8%AA%AA-NVIDIA-%E6%98%AF-AI-%E7%8E%8B%E5%9C%8B%E8%A3%A1%E6%8F%A1%E6%9C%89%E7%AE%97%E5%8A%9B%E7%A8%85%E5%BE%B5%E6%94%B6%E6%AC%8A%E7%9A%84%E5%9C%8B%E7%8E%8B%E9%82%A3%E9%BA%BC-OpenAI-%E6%9C%80%E8%BF%91%E7%9A%84%E4%B8%80%E7%B3%BB%E5%88%97%E5%8B%95%E4%BD%9C%E6%9B%B4%E5%83%8F%E6%98%AF%E4%B8%80%E5%A0%B4%E7%B2%BE%E5%BF%83%E7%AD%96%E5%8A%83%E7%9A%84%E7%8D%A8%E7%AB%8B%E6%88%B0%E7%88%AD.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=OPENAI%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=OPENAI&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-02-15_%E5%A6%82%E6%9E%9C%E8%AA%AA-NVIDIA-%E6%98%AF-AI-%E7%8E%8B%E5%9C%8B%E8%A3%A1%E6%8F%A1%E6%9C%89%E7%AE%97%E5%8A%9B%E7%A8%85%E5%BE%B5%E6%94%B6%E6%AC%8A%E7%9A%84%E5%9C%8B%E7%8E%8B%E9%82%A3%E9%BA%BC-OpenAI-%E6%9C%80%E8%BF%91%E7%9A%84%E4%B8%80%E7%B3%BB%E5%88%97%E5%8B%95%E4%BD%9C%E6%9B%B4%E5%83%8F%E6%98%AF%E4%B8%80%E5%A0%B4%E7%B2%BE%E5%BF%83%E7%AD%96%E5%8A%83%E7%9A%84%E7%8D%A8%E7%AB%8B%E6%88%B0%E7%88%AD.md&period=)

@@ -35,3 +35,7 @@ Nvidia的NIXL函式庫和Dynamo軟體是調動各層KV Cache的工具
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-05-01_%E6%9C%AC%E9%80%B1NAND-SSD%E5%A4%A7%E5%BB%A0Samsung%E5%92%8CSandisk%E7%9A%84%E8%B2%A1%E5%A0%B1%E6%9C%83%E8%AD%B0%E9%83%BD%E6%8F%90%E5%88%B0Inference%E9%95%B7%E4%B8%8A%E4%B8%8B%E6%96%87KV-Cache%E9%9C%80%E6%B1%82%E7%88%86%E7%99%BC%E5%B0%8DSSD%E9%9C%80%E6%B1%82%E7%9A%84%E6%AD%A3%E9%9D%A2%E5%BD%B1%E9%9F%BF.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=SNDK%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=SNDK&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-05-01_%E6%9C%AC%E9%80%B1NAND-SSD%E5%A4%A7%E5%BB%A0Samsung%E5%92%8CSandisk%E7%9A%84%E8%B2%A1%E5%A0%B1%E6%9C%83%E8%AD%B0%E9%83%BD%E6%8F%90%E5%88%B0Inference%E9%95%B7%E4%B8%8A%E4%B8%8B%E6%96%87KV-Cache%E9%9C%80%E6%B1%82%E7%88%86%E7%99%BC%E5%B0%8DSSD%E9%9C%80%E6%B1%82%E7%9A%84%E6%AD%A3%E9%9D%A2%E5%BD%B1%E9%9F%BF.md&period=)

@@ -102,3 +102,7 @@ p.s. 要看懂Google是怎樣在這場戰役取得反先，究竟TPU的優勢在
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-11-28_%E9%80%99%E5%B9%BE%E5%A4%A9%E5%9C%A8Gemini-30%E7%99%BC%E4%BD%88%E5%BE%8CGoogle-CEO-Sundar-Pichai%E5%9C%A8%E8%87%AA%E5%AE%B6YouTube%E9%A0%BB%E9%81%93%E9%80%B2%E8%A1%8C%E4%BA%86%E4%B8%80%E5%A0%B4%E8%A8%AA%E8%AB%87.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-11-28_%E9%80%99%E5%B9%BE%E5%A4%A9%E5%9C%A8Gemini-30%E7%99%BC%E4%BD%88%E5%BE%8CGoogle-CEO-Sundar-Pichai%E5%9C%A8%E8%87%AA%E5%AE%B6YouTube%E9%A0%BB%E9%81%93%E9%80%B2%E8%A1%8C%E4%BA%86%E4%B8%80%E5%A0%B4%E8%A8%AA%E8%AB%87.md&period=)

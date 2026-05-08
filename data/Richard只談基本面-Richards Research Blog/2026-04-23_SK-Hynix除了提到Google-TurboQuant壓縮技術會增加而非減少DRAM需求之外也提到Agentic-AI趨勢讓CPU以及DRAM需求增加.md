@@ -42,3 +42,7 @@ https://wccftech.com/everyone-thought-google-turboquant-would-solve-the-memory-c
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-04-23_SK-Hynix%E9%99%A4%E4%BA%86%E6%8F%90%E5%88%B0Google-TurboQuant%E5%A3%93%E7%B8%AE%E6%8A%80%E8%A1%93%E6%9C%83%E5%A2%9E%E5%8A%A0%E8%80%8C%E9%9D%9E%E6%B8%9B%E5%B0%91DRAM%E9%9C%80%E6%B1%82%E4%B9%8B%E5%A4%96%E4%B9%9F%E6%8F%90%E5%88%B0Agentic-AI%E8%B6%A8%E5%8B%A2%E8%AE%93CPU%E4%BB%A5%E5%8F%8ADRAM%E9%9C%80%E6%B1%82%E5%A2%9E%E5%8A%A0.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-04-23_SK-Hynix%E9%99%A4%E4%BA%86%E6%8F%90%E5%88%B0Google-TurboQuant%E5%A3%93%E7%B8%AE%E6%8A%80%E8%A1%93%E6%9C%83%E5%A2%9E%E5%8A%A0%E8%80%8C%E9%9D%9E%E6%B8%9B%E5%B0%91DRAM%E9%9C%80%E6%B1%82%E4%B9%8B%E5%A4%96%E4%B9%9F%E6%8F%90%E5%88%B0Agentic-AI%E8%B6%A8%E5%8B%A2%E8%AE%93CPU%E4%BB%A5%E5%8F%8ADRAM%E9%9C%80%E6%B1%82%E5%A2%9E%E5%8A%A0.md&period=)

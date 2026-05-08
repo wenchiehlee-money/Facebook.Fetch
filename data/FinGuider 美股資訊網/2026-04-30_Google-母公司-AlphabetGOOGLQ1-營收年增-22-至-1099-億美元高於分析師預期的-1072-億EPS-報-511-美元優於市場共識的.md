@@ -45,3 +45,7 @@ Pichai 直言，有鑑於前所未見的海量需求，Google 短期內仍面臨
 
 ---
 [✅ 已比對 [#7](https://github.com/wenchiehlee-money/TAIEX.TW/issues/7)](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=GOOGL%202026%20Q1%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-30_Google-%E6%AF%8D%E5%85%AC%E5%8F%B8-AlphabetGOOGLQ1-%E7%87%9F%E6%94%B6%E5%B9%B4%E5%A2%9E-22-%E8%87%B3-1099-%E5%84%84%E7%BE%8E%E5%85%83%E9%AB%98%E6%96%BC%E5%88%86%E6%9E%90%E5%B8%AB%E9%A0%90%E6%9C%9F%E7%9A%84-1072-%E5%84%84EPS-%E5%A0%B1-511-%E7%BE%8E%E5%85%83%E5%84%AA%E6%96%BC%E5%B8%82%E5%A0%B4%E5%85%B1%E8%AD%98%E7%9A%84.md&period=2026%20Q1)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=GOOGL%202026%20Q1%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-30_Google-%E6%AF%8D%E5%85%AC%E5%8F%B8-AlphabetGOOGLQ1-%E7%87%9F%E6%94%B6%E5%B9%B4%E5%A2%9E-22-%E8%87%B3-1099-%E5%84%84%E7%BE%8E%E5%85%83%E9%AB%98%E6%96%BC%E5%88%86%E6%9E%90%E5%B8%AB%E9%A0%90%E6%9C%9F%E7%9A%84-1072-%E5%84%84EPS-%E5%A0%B1-511-%E7%BE%8E%E5%85%83%E5%84%AA%E6%96%BC%E5%B8%82%E5%A0%B4%E5%85%B1%E8%AD%98%E7%9A%84.md&period=2026%20Q1)

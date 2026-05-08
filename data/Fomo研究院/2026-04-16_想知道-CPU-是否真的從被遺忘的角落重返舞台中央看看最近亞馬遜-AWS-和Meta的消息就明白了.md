@@ -41,3 +41,7 @@ Meta 的目標非常明確：專攻 AI 推理（Inference）、AI 代理（Agent
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=META%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=META&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-04-16_%E6%83%B3%E7%9F%A5%E9%81%93-CPU-%E6%98%AF%E5%90%A6%E7%9C%9F%E7%9A%84%E5%BE%9E%E8%A2%AB%E9%81%BA%E5%BF%98%E7%9A%84%E8%A7%92%E8%90%BD%E9%87%8D%E8%BF%94%E8%88%9E%E5%8F%B0%E4%B8%AD%E5%A4%AE%E7%9C%8B%E7%9C%8B%E6%9C%80%E8%BF%91%E4%BA%9E%E9%A6%AC%E9%81%9C-AWS-%E5%92%8CMeta%E7%9A%84%E6%B6%88%E6%81%AF%E5%B0%B1%E6%98%8E%E7%99%BD%E4%BA%86.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=META%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=META&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-04-16_%E6%83%B3%E7%9F%A5%E9%81%93-CPU-%E6%98%AF%E5%90%A6%E7%9C%9F%E7%9A%84%E5%BE%9E%E8%A2%AB%E9%81%BA%E5%BF%98%E7%9A%84%E8%A7%92%E8%90%BD%E9%87%8D%E8%BF%94%E8%88%9E%E5%8F%B0%E4%B8%AD%E5%A4%AE%E7%9C%8B%E7%9C%8B%E6%9C%80%E8%BF%91%E4%BA%9E%E9%A6%AC%E9%81%9C-AWS-%E5%92%8CMeta%E7%9A%84%E6%B6%88%E6%81%AF%E5%B0%B1%E6%98%8E%E7%99%BD%E4%BA%86.md&period=)

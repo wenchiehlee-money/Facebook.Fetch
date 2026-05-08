@@ -44,3 +44,7 @@ https://www.ft.com/content/12eaae3a-e1b8-47a0-9006-70fe319b130a
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-04-12_%E8%81%BD%E4%B8%80%E4%B8%8BGoogle-TurboQuant%E7%A0%94%E7%A9%B6%E8%80%85%E8%87%AA%E5%B7%B1%E7%9A%84%E8%AA%AA%E6%B3%95%E6%98%AF%E7%82%BA%E4%BA%86%E7%AF%80%E7%9C%81%E8%A8%98%E6%86%B6%E9%AB%94%E5%97%8E.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-04-12_%E8%81%BD%E4%B8%80%E4%B8%8BGoogle-TurboQuant%E7%A0%94%E7%A9%B6%E8%80%85%E8%87%AA%E5%B7%B1%E7%9A%84%E8%AA%AA%E6%B3%95%E6%98%AF%E7%82%BA%E4%BA%86%E7%AF%80%E7%9C%81%E8%A8%98%E6%86%B6%E9%AB%94%E5%97%8E.md&period=)

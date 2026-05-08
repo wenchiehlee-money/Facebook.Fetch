@@ -31,3 +31,7 @@ Microsoft將部分算力提供給了內部其他產品，而非完全用在Azure
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-04-30_%E9%9B%B2%E7%AB%AF%E4%B8%89%E5%B7%A8%E9%A0%AD%E8%B2%A1%E5%A0%B1%E8%A1%A8%E7%8F%BE%E9%83%BD%E5%BE%88%E5%84%AA%E7%A7%80%E4%BD%86%E7%9B%A4%E5%89%8D%E8%82%A1%E5%83%B9%E8%A1%A8%E7%8F%BE%E5%88%86%E5%8C%96Microsoft%E7%9B%A4%E5%89%8D%E4%B8%8B%E8%B7%8CAmazon%E4%B8%8A%E6%BC%B2Alphabet%E8%B0%B7%E6%AD%8C%E5%A4%A7%E6%BC%B2.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=MSFT%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=MSFT&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-04-30_%E9%9B%B2%E7%AB%AF%E4%B8%89%E5%B7%A8%E9%A0%AD%E8%B2%A1%E5%A0%B1%E8%A1%A8%E7%8F%BE%E9%83%BD%E5%BE%88%E5%84%AA%E7%A7%80%E4%BD%86%E7%9B%A4%E5%89%8D%E8%82%A1%E5%83%B9%E8%A1%A8%E7%8F%BE%E5%88%86%E5%8C%96Microsoft%E7%9B%A4%E5%89%8D%E4%B8%8B%E8%B7%8CAmazon%E4%B8%8A%E6%BC%B2Alphabet%E8%B0%B7%E6%AD%8C%E5%A4%A7%E6%BC%B2.md&period=)

@@ -85,3 +85,7 @@ p.s. 想時刻緊貼市場動態的話，我誠邀你訂閱我的電子報，週
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-03-17_NVIDIA-%E8%A6%81%E8%B5%B0%E9%8A%85%E7%BA%9C%E6%93%B4%E5%B1%95%E9%82%84%E6%98%AF%E5%85%89%E5%AD%B8%E6%93%B4%E5%B1%95%E7%AD%94%E6%A1%88%E6%98%AF%E6%88%91%E5%80%91%E5%85%A8%E9%83%BD%E8%A6%81Were-going-to-do-both.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=NVDA%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=NVDA&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-03-17_NVIDIA-%E8%A6%81%E8%B5%B0%E9%8A%85%E7%BA%9C%E6%93%B4%E5%B1%95%E9%82%84%E6%98%AF%E5%85%89%E5%AD%B8%E6%93%B4%E5%B1%95%E7%AD%94%E6%A1%88%E6%98%AF%E6%88%91%E5%80%91%E5%85%A8%E9%83%BD%E8%A6%81Were-going-to-do-both.md&period=)

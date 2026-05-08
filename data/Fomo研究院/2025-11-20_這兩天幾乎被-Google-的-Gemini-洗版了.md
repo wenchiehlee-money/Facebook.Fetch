@@ -59,3 +59,7 @@ p.s. 晶片，雲端，電力，可以說是軍備競賽中的必需品。晶片
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-11-20_%E9%80%99%E5%85%A9%E5%A4%A9%E5%B9%BE%E4%B9%8E%E8%A2%AB-Google-%E7%9A%84-Gemini-%E6%B4%97%E7%89%88%E4%BA%86.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-11-20_%E9%80%99%E5%85%A9%E5%A4%A9%E5%B9%BE%E4%B9%8E%E8%A2%AB-Google-%E7%9A%84-Gemini-%E6%B4%97%E7%89%88%E4%BA%86.md&period=)

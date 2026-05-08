@@ -89,3 +89,7 @@ Groq 等待的風，終於來了。
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2025%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2025&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-26_Groq%E6%97%A9%E5%9C%A89%E5%B9%B4%E5%89%8D%E5%89%B5%E8%BE%A6%E4%BD%86%E7%82%BA%E4%BD%95%E9%80%99%E4%B8%80%E5%85%A9%E5%B9%B4%E6%89%8D%E5%BF%BD%E7%84%B6%E8%A2%AB%E5%BB%A3%E6%B3%9B%E8%A8%8E%E8%AB%96%E6%88%90%E7%82%BANvidia%E6%AE%BA%E6%89%8B%E5%88%B0%E8%A2%ABNvidia%E9%87%8D%E9%87%91%E6%94%B6%E8%B3%BC.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=NVDA%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=NVDA&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-26_Groq%E6%97%A9%E5%9C%A89%E5%B9%B4%E5%89%8D%E5%89%B5%E8%BE%A6%E4%BD%86%E7%82%BA%E4%BD%95%E9%80%99%E4%B8%80%E5%85%A9%E5%B9%B4%E6%89%8D%E5%BF%BD%E7%84%B6%E8%A2%AB%E5%BB%A3%E6%B3%9B%E8%A8%8E%E8%AB%96%E6%88%90%E7%82%BANvidia%E6%AE%BA%E6%89%8B%E5%88%B0%E8%A2%ABNvidia%E9%87%8D%E9%87%91%E6%94%B6%E8%B3%BC.md&period=)

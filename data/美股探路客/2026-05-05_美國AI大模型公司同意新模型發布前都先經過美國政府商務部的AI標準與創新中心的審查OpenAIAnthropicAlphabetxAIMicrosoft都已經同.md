@@ -29,3 +29,7 @@ page_canonical_url: "https://www.facebook.com/raikk6"
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-05-05_%E7%BE%8E%E5%9C%8BAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%85%AC%E5%8F%B8%E5%90%8C%E6%84%8F%E6%96%B0%E6%A8%A1%E5%9E%8B%E7%99%BC%E5%B8%83%E5%89%8D%E9%83%BD%E5%85%88%E7%B6%93%E9%81%8E%E7%BE%8E%E5%9C%8B%E6%94%BF%E5%BA%9C%E5%95%86%E5%8B%99%E9%83%A8%E7%9A%84AI%E6%A8%99%E6%BA%96%E8%88%87%E5%89%B5%E6%96%B0%E4%B8%AD%E5%BF%83%E7%9A%84%E5%AF%A9%E6%9F%A5OpenAIAnthropicAlphabetxAIMicrosoft%E9%83%BD%E5%B7%B2%E7%B6%93%E5%90%8C.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=OPENAI%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=OPENAI&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-05-05_%E7%BE%8E%E5%9C%8BAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%85%AC%E5%8F%B8%E5%90%8C%E6%84%8F%E6%96%B0%E6%A8%A1%E5%9E%8B%E7%99%BC%E5%B8%83%E5%89%8D%E9%83%BD%E5%85%88%E7%B6%93%E9%81%8E%E7%BE%8E%E5%9C%8B%E6%94%BF%E5%BA%9C%E5%95%86%E5%8B%99%E9%83%A8%E7%9A%84AI%E6%A8%99%E6%BA%96%E8%88%87%E5%89%B5%E6%96%B0%E4%B8%AD%E5%BF%83%E7%9A%84%E5%AF%A9%E6%9F%A5OpenAIAnthropicAlphabetxAIMicrosoft%E9%83%BD%E5%B7%B2%E7%B6%93%E5%90%8C.md&period=)

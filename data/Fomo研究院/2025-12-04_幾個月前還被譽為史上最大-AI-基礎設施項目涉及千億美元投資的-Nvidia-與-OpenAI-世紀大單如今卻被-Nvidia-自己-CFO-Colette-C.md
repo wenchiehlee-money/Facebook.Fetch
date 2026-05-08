@@ -77,3 +77,7 @@ P.s. 對最近很火的“光通訊”想了解更多，我剛在電子報寫了
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2025%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2025&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-04_%E5%B9%BE%E5%80%8B%E6%9C%88%E5%89%8D%E9%82%84%E8%A2%AB%E8%AD%BD%E7%82%BA%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7-AI-%E5%9F%BA%E7%A4%8E%E8%A8%AD%E6%96%BD%E9%A0%85%E7%9B%AE%E6%B6%89%E5%8F%8A%E5%8D%83%E5%84%84%E7%BE%8E%E5%85%83%E6%8A%95%E8%B3%87%E7%9A%84-Nvidia-%E8%88%87-OpenAI-%E4%B8%96%E7%B4%80%E5%A4%A7%E5%96%AE%E5%A6%82%E4%BB%8A%E5%8D%BB%E8%A2%AB-Nvidia-%E8%87%AA%E5%B7%B1-CFO-Colette-C.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=OPENAI%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=OPENAI&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-04_%E5%B9%BE%E5%80%8B%E6%9C%88%E5%89%8D%E9%82%84%E8%A2%AB%E8%AD%BD%E7%82%BA%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7-AI-%E5%9F%BA%E7%A4%8E%E8%A8%AD%E6%96%BD%E9%A0%85%E7%9B%AE%E6%B6%89%E5%8F%8A%E5%8D%83%E5%84%84%E7%BE%8E%E5%85%83%E6%8A%95%E8%B3%87%E7%9A%84-Nvidia-%E8%88%87-OpenAI-%E4%B8%96%E7%B4%80%E5%A4%A7%E5%96%AE%E5%A6%82%E4%BB%8A%E5%8D%BB%E8%A2%AB-Nvidia-%E8%87%AA%E5%B7%B1-CFO-Colette-C.md&period=)

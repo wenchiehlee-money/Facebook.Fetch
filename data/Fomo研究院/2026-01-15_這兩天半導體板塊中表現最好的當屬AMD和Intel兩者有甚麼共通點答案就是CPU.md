@@ -126,3 +126,7 @@ p.s. 這篇分析只是節錄，全文收錄在電子報中，完全免費。雖
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=AMD%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=AMD&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-01-15_%E9%80%99%E5%85%A9%E5%A4%A9%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%9D%BF%E5%A1%8A%E4%B8%AD%E8%A1%A8%E7%8F%BE%E6%9C%80%E5%A5%BD%E7%9A%84%E7%95%B6%E5%B1%ACAMD%E5%92%8CIntel%E5%85%A9%E8%80%85%E6%9C%89%E7%94%9A%E9%BA%BC%E5%85%B1%E9%80%9A%E9%BB%9E%E7%AD%94%E6%A1%88%E5%B0%B1%E6%98%AFCPU.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=AMD%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=AMD&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-01-15_%E9%80%99%E5%85%A9%E5%A4%A9%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%9D%BF%E5%A1%8A%E4%B8%AD%E8%A1%A8%E7%8F%BE%E6%9C%80%E5%A5%BD%E7%9A%84%E7%95%B6%E5%B1%ACAMD%E5%92%8CIntel%E5%85%A9%E8%80%85%E6%9C%89%E7%94%9A%E9%BA%BC%E5%85%B1%E9%80%9A%E9%BB%9E%E7%AD%94%E6%A1%88%E5%B0%B1%E6%98%AFCPU.md&period=)
