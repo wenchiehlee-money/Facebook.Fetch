@@ -42,6 +42,8 @@ jobs:
             "https://www.facebook.com/ForexStrategist"
             "https://www.facebook.com/profile.php?id=61578106860333"
             "https://www.facebook.com/profile.php?id=100054201473657"
+            "https://www.facebook.com/intleconobserve"
+            "https://www.facebook.com/profile.php?id=61565088683715"
           )
           for url in "${urls[@]}"; do
             echo "::group::Fetching $url"

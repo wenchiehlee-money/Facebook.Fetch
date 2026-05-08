@@ -1,0 +1,56 @@
+{
+  "requested_url": "https://www.facebook.com/intleconobserve",
+  "final_url": "https://www.facebook.com/intleconobserve",
+  "fetched_at_utc": "2026-05-08T22:50:27.786451+00:00",
+  "page": {
+    "title": null,
+    "description": null,
+    "canonical_url": null,
+    "image": null,
+    "follower_count": null
+  },
+  "checked_post_count": 89,
+  "new_post_count": 14,
+  "new_post_ids": [
+    "1476280917189865",
+    "1475663117251645",
+    "1475413213943302",
+    "1475203240630966",
+    "1474935170657773",
+    "1474870440664246",
+    "1474806754003948",
+    "1474735867344370",
+    "1474459227372034",
+    "1474133580737932",
+    "1474039077414049",
+    "1473997407418216",
+    "1473938107424146",
+    "1473894820761808"
+  ],
+  "new_markdown_files": [
+    "data\\intleconobserve\\2026-04-11_Sandisk進NASDAQ100取代Atlassian剛好映襯本週兩大主題就是戰爭中止AI周邊半導體硬體電力股反彈爆噴油汽板塊回跌以及Anthropic又再度.md",
+    "data\\intleconobserve\\2026-04-10_Lumentum-光通訂單滿到2028.md",
+    "data\\intleconobserve\\2026-04-10_科技軟硬體冰火兩重天整個SaaS板塊在Anthropic推出Claude-Managed-Agents後很明顯的被針對.md",
+    "data\\intleconobserve\\2026-04-09_Amazon執行長Andy-JassyAWS-在商業上線三年後年化營收為-5800-萬美元這波-AI-浪潮的第三年AWS-的-AI-年化營收在-2026-年-Q.md",
+    "data\\intleconobserve\\2026-04-09_最近幾個月的節奏就是Anthropic發什麼功能什麼SaaS公司股價就崩潰去吃大便未來所有軟體公司都是某種的Token轉售商也因此成本是有可能被墊高沒錯甚至一些.md",
+    "data\\intleconobserve\\2026-04-09_消費無人機龍頭DJI的創辦人汪滔蠻少接受專訪講了一些有趣的東西也包含自己公司內部管理混亂山頭林立的問題.md",
+    "data\\intleconobserve\\2026-04-09_Sundar-Pichai-擔任-Google-CEO-已邁入第十年Alphabet-如今不僅是全球最大的科技公司之一更是-AI-競賽中的領跑者2026-年資本.md",
+    "data\\intleconobserve\\2026-04-09_現在大家都在賭Musk到底會不會出有方向盤的Cybercab還是這些只是工程測試車.md",
+    "data\\intleconobserve\\2026-04-08_Meta亞歷山大王的MSI億元團總算憋出新東西來了.md",
+    "data\\intleconobserve\\2026-04-08_其實AI的進步速度人類絕對是跟不上的同時也很有可能無可避免拉開貧富差距這也是為什麼你的投資組合裡有主要AI公司受惠的族群因為這些生產力爆炸的人類AI理論上能幫這.md",
+    "data\\intleconobserve\\2026-04-08_川哥投顧全力做多.md",
+    "data\\intleconobserve\\2026-04-08_Anthropic-最新發布的前沿模型-Claude-Mythos-Preview-讓這個現實變得無法迴避AI-的程式能力已經進步到足以超越絕大多數人類安全研究.md",
+    "data\\intleconobserve\\2026-04-08_伊朗說美國同意了10點協議作為談判基礎看起來會是個薛丁格的共識410在伊斯蘭馬巴德談判.md",
+    "data\\intleconobserve\\2026-04-07_雙向停火兩週荷姆茲海峽開放.md"
+  ],
+  "removed_markdown_files": [],
+  "posts_directory": "data\\intleconobserve",
+  "notes": [
+    "Facebook 公開頁面的 HTML 結構很常變動。",
+    "本次已成功用公開 GraphQL 擷取到 201 篇貼文。",
+    "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
+    "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 80 字規則排除 112 篇貼文。"
+  ]
+}
