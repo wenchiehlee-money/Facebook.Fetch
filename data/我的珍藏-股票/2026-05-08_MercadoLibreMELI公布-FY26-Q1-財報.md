@@ -2,15 +2,17 @@
 post_id: "10226369743950180"
 title: "MercadoLibre（MELI）公布 FY26 Q1 財報‼️"
 page_title: "股票"
+source_page: "吉米投資理財補給站 Ver2.0"
 requested_url: "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02tCCjWM5QnZZvBC5b3L3hphVXkTCoMwW8yeThurktDcyr3CVAEcsJ5KeXdtNKmSy2l&id=61565088683715"
 creation_time_utc: ""
-fetched_at_utc: "2026-05-08T22:23:07.586885+00:00"
+fetched_at_utc: "2026-05-08T22:37:39.618786+00:00"
 source: "saved_list"
 ---
 
 # MercadoLibre（MELI）公布 FY26 Q1 財報‼️
 
+來源：吉米投資理財補給站 Ver2.0
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02tCCjWM5QnZZvBC5b3L3hphVXkTCoMwW8yeThurktDcyr3CVAEcsJ5KeXdtNKmSy2l&id=61565088683715
 MercadoLibre（MELI）公布 FY26 Q1 財報‼️
 創下過去 4 年最快成長速度 🚀

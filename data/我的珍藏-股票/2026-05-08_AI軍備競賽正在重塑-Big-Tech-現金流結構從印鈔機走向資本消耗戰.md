@@ -2,15 +2,17 @@
 post_id: "10226367379171062"
 title: "🚀 AI軍備競賽正在重塑 Big Tech 現金流結構：從印鈔機走向資本消耗戰"
 page_title: "股票"
+source_page: "吉米投資理財補給站 Ver2.0"
 requested_url: "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02osnSjdUC2pqEi4KiuTysNivixtNHkxuz3ZFsyZ4yGhgNtZpGdHyB7NJ68dU32Wiul&id=61565088683715"
 creation_time_utc: ""
-fetched_at_utc: "2026-05-08T22:23:07.591995+00:00"
+fetched_at_utc: "2026-05-08T22:37:39.622243+00:00"
 source: "saved_list"
 ---
 
 # 🚀 AI軍備競賽正在重塑 Big Tech 現金流結構：從印鈔機走向資本消耗戰
 
+來源：吉米投資理財補給站 Ver2.0
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02osnSjdUC2pqEi4KiuTysNivixtNHkxuz3ZFsyZ4yGhgNtZpGdHyB7NJ68dU32Wiul&id=61565088683715
 🚀 AI軍備競賽正在重塑 Big Tech 現金流結構：從印鈔機走向資本消耗戰
 🔹 1、自由現金流（FCF）急速收縮
