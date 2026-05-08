@@ -29,3 +29,7 @@ ASML、TSMC多年努力的成果與建立的護城河，結果是否只是侷限
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-03-24_%E6%A9%9F%E6%A7%8BBernstein%E6%8E%A8%E7%AE%97%E9%A6%AC%E6%95%99%E4%B8%BB-Terafab-%E7%9A%841TW%E7%AE%97%E5%8A%9B%E4%BB%A5Blackwell%E8%A8%88%E7%AE%97%E9%9C%80%E8%A6%81%E6%8A%95%E8%B3%877%E5%85%86%E7%BE%8E%E5%85%83Rubin%E9%9C%80%E8%A6%815%E5%85%86Rubin-Ultra%E9%9C%80%E8%A6%8113%E5%85%86.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-03-24_%E6%A9%9F%E6%A7%8BBernstein%E6%8E%A8%E7%AE%97%E9%A6%AC%E6%95%99%E4%B8%BB-Terafab-%E7%9A%841TW%E7%AE%97%E5%8A%9B%E4%BB%A5Blackwell%E8%A8%88%E7%AE%97%E9%9C%80%E8%A6%81%E6%8A%95%E8%B3%877%E5%85%86%E7%BE%8E%E5%85%83Rubin%E9%9C%80%E8%A6%815%E5%85%86Rubin-Ultra%E9%9C%80%E8%A6%8113%E5%85%86.md&period=)

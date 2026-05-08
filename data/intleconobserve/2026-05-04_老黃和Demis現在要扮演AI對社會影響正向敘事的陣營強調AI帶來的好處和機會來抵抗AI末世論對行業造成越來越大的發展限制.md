@@ -149,3 +149,11 @@ Jensen Huang 的結語回到了人類生活本身：
 「假設我們把 AI 注入這個國家，結果我們做事比以往任何時候都更快，野心比以往更大，期待比以往更高。這對我們的國家怎麼會是壞事？這正是我們想要的：比以往更有野心，比以往更快，比以往更好。」
 
 「在過去六個月，AI 真的開始有用了。在那之前，它很驚人但沒用。現在它既有用又驚人。我真的希望每個產業、每家公司都能利用它。我們完全投入了，被它充飽了電，被它激勵著，我們的野心比以往更大。」
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fintleconobserve%2F2026-05-04_%E8%80%81%E9%BB%83%E5%92%8CDemis%E7%8F%BE%E5%9C%A8%E8%A6%81%E6%89%AE%E6%BC%94AI%E5%B0%8D%E7%A4%BE%E6%9C%83%E5%BD%B1%E9%9F%BF%E6%AD%A3%E5%90%91%E6%95%98%E4%BA%8B%E7%9A%84%E9%99%A3%E7%87%9F%E5%BC%B7%E8%AA%BFAI%E5%B8%B6%E4%BE%86%E7%9A%84%E5%A5%BD%E8%99%95%E5%92%8C%E6%A9%9F%E6%9C%83%E4%BE%86%E6%8A%B5%E6%8A%97AI%E6%9C%AB%E4%B8%96%E8%AB%96%E5%B0%8D%E8%A1%8C%E6%A5%AD%E9%80%A0%E6%88%90%E8%B6%8A%E4%BE%86%E8%B6%8A%E5%A4%A7%E7%9A%84%E7%99%BC%E5%B1%95%E9%99%90%E5%88%B6.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fintleconobserve%2F2026-05-04_%E8%80%81%E9%BB%83%E5%92%8CDemis%E7%8F%BE%E5%9C%A8%E8%A6%81%E6%89%AE%E6%BC%94AI%E5%B0%8D%E7%A4%BE%E6%9C%83%E5%BD%B1%E9%9F%BF%E6%AD%A3%E5%90%91%E6%95%98%E4%BA%8B%E7%9A%84%E9%99%A3%E7%87%9F%E5%BC%B7%E8%AA%BFAI%E5%B8%B6%E4%BE%86%E7%9A%84%E5%A5%BD%E8%99%95%E5%92%8C%E6%A9%9F%E6%9C%83%E4%BE%86%E6%8A%B5%E6%8A%97AI%E6%9C%AB%E4%B8%96%E8%AB%96%E5%B0%8D%E8%A1%8C%E6%A5%AD%E9%80%A0%E6%88%90%E8%B6%8A%E4%BE%86%E8%B6%8A%E5%A4%A7%E7%9A%84%E7%99%BC%E5%B1%95%E9%99%90%E5%88%B6.md&period=)

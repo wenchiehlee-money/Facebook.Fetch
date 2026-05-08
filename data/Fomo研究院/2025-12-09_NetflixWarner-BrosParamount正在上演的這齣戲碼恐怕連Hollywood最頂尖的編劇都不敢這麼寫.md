@@ -119,3 +119,7 @@ David Ellison 敢於發動惡意收購，說明了兩件事：
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2025%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2025&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-09_NetflixWarner-BrosParamount%E6%AD%A3%E5%9C%A8%E4%B8%8A%E6%BC%94%E7%9A%84%E9%80%99%E9%BD%A3%E6%88%B2%E7%A2%BC%E6%81%90%E6%80%95%E9%80%A3Hollywood%E6%9C%80%E9%A0%82%E5%B0%96%E7%9A%84%E7%B7%A8%E5%8A%87%E9%83%BD%E4%B8%8D%E6%95%A2%E9%80%99%E9%BA%BC%E5%AF%AB.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-09_NetflixWarner-BrosParamount%E6%AD%A3%E5%9C%A8%E4%B8%8A%E6%BC%94%E7%9A%84%E9%80%99%E9%BD%A3%E6%88%B2%E7%A2%BC%E6%81%90%E6%80%95%E9%80%A3Hollywood%E6%9C%80%E9%A0%82%E5%B0%96%E7%9A%84%E7%B7%A8%E5%8A%87%E9%83%BD%E4%B8%8D%E6%95%A2%E9%80%99%E9%BA%BC%E5%AF%AB.md&period=)

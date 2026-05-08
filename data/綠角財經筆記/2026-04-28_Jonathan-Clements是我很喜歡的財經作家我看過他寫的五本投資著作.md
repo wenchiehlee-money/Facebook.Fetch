@@ -71,3 +71,7 @@ Jonathan Clements是我很喜歡的財經作家。我看過他寫的五本投資
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-28_Jonathan-Clements%E6%98%AF%E6%88%91%E5%BE%88%E5%96%9C%E6%AD%A1%E7%9A%84%E8%B2%A1%E7%B6%93%E4%BD%9C%E5%AE%B6%E6%88%91%E7%9C%8B%E9%81%8E%E4%BB%96%E5%AF%AB%E7%9A%84%E4%BA%94%E6%9C%AC%E6%8A%95%E8%B3%87%E8%91%97%E4%BD%9C.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-28_Jonathan-Clements%E6%98%AF%E6%88%91%E5%BE%88%E5%96%9C%E6%AD%A1%E7%9A%84%E8%B2%A1%E7%B6%93%E4%BD%9C%E5%AE%B6%E6%88%91%E7%9C%8B%E9%81%8E%E4%BB%96%E5%AF%AB%E7%9A%84%E4%BA%94%E6%9C%AC%E6%8A%95%E8%B3%87%E8%91%97%E4%BD%9C.md&period=)

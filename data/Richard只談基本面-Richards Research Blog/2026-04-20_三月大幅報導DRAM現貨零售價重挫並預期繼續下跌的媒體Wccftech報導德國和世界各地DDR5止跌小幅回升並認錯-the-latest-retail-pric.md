@@ -37,3 +37,7 @@ https://wccftech.com/ddr5-prices-in-germany-snap-back-to-410-of-july-levels-crus
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-04-20_%E4%B8%89%E6%9C%88%E5%A4%A7%E5%B9%85%E5%A0%B1%E5%B0%8EDRAM%E7%8F%BE%E8%B2%A8%E9%9B%B6%E5%94%AE%E5%83%B9%E9%87%8D%E6%8C%AB%E4%B8%A6%E9%A0%90%E6%9C%9F%E7%B9%BC%E7%BA%8C%E4%B8%8B%E8%B7%8C%E7%9A%84%E5%AA%92%E9%AB%94Wccftech%E5%A0%B1%E5%B0%8E%E5%BE%B7%E5%9C%8B%E5%92%8C%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0DDR5%E6%AD%A2%E8%B7%8C%E5%B0%8F%E5%B9%85%E5%9B%9E%E5%8D%87%E4%B8%A6%E8%AA%8D%E9%8C%AF-the-latest-retail-pric.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-04-20_%E4%B8%89%E6%9C%88%E5%A4%A7%E5%B9%85%E5%A0%B1%E5%B0%8EDRAM%E7%8F%BE%E8%B2%A8%E9%9B%B6%E5%94%AE%E5%83%B9%E9%87%8D%E6%8C%AB%E4%B8%A6%E9%A0%90%E6%9C%9F%E7%B9%BC%E7%BA%8C%E4%B8%8B%E8%B7%8C%E7%9A%84%E5%AA%92%E9%AB%94Wccftech%E5%A0%B1%E5%B0%8E%E5%BE%B7%E5%9C%8B%E5%92%8C%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0DDR5%E6%AD%A2%E8%B7%8C%E5%B0%8F%E5%B9%85%E5%9B%9E%E5%8D%87%E4%B8%A6%E8%AA%8D%E9%8C%AF-the-latest-retail-pric.md&period=)

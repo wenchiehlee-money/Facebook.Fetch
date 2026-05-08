@@ -48,3 +48,7 @@ page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%2F2026-01-14_AI-%E5%8F%96%E4%BB%A3%E7%8F%BE%E6%9C%89%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%87%8F%E5%8C%96%E6%8C%87%E6%A8%99%E5%86%B0%E5%B1%B1%E6%8C%87%E6%95%B8Iceberg-Index.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%2F2026-01-14_AI-%E5%8F%96%E4%BB%A3%E7%8F%BE%E6%9C%89%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%87%8F%E5%8C%96%E6%8C%87%E6%A8%99%E5%86%B0%E5%B1%B1%E6%8C%87%E6%95%B8Iceberg-Index.md&period=)

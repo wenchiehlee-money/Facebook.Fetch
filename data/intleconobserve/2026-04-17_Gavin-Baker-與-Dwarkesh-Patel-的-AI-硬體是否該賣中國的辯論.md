@@ -55,3 +55,11 @@ Baker 最後將討論拉到國家安全層面。他指出，美國和中國的 A
 而當中國模型仍然在美國硬體上跑得最好時，美國實際上保有了一定程度的槓桿和控制力。一旦中國建立起完全自主的替代生態系統，這種槓桿就會消失。
 
 Baker 因此認為，這種架構分岔反而強化了向中國出售上一代 GPU 的國安論據。讓中國模型繼續依賴美國硬體棧，比把中國完全推向自主替代方案更符合美國利益。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fintleconobserve%2F2026-04-17_Gavin-Baker-%E8%88%87-Dwarkesh-Patel-%E7%9A%84-AI-%E7%A1%AC%E9%AB%94%E6%98%AF%E5%90%A6%E8%A9%B2%E8%B3%A3%E4%B8%AD%E5%9C%8B%E7%9A%84%E8%BE%AF%E8%AB%96.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fintleconobserve%2F2026-04-17_Gavin-Baker-%E8%88%87-Dwarkesh-Patel-%E7%9A%84-AI-%E7%A1%AC%E9%AB%94%E6%98%AF%E5%90%A6%E8%A9%B2%E8%B3%A3%E4%B8%AD%E5%9C%8B%E7%9A%84%E8%BE%AF%E8%AB%96.md&period=)

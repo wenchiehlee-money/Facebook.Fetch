@@ -128,3 +128,7 @@ P.s. 最近「光通訊」這個詞很火熱，如果想了解更多的話，我
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2025%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2025&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-05_Mark-Zuckerberg-%E7%9A%84%E5%85%83%E5%AE%87%E5%AE%99%E5%A4%A7%E5%A4%A2%E7%B5%82%E6%96%BC%E5%88%B0%E4%BA%86%E5%A4%A2%E9%86%92%E6%99%82%E5%88%86%E4%BA%86%E5%97%8E.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-05_Mark-Zuckerberg-%E7%9A%84%E5%85%83%E5%AE%87%E5%AE%99%E5%A4%A7%E5%A4%A2%E7%B5%82%E6%96%BC%E5%88%B0%E4%BA%86%E5%A4%A2%E9%86%92%E6%99%82%E5%88%86%E4%BA%86%E5%97%8E.md&period=)

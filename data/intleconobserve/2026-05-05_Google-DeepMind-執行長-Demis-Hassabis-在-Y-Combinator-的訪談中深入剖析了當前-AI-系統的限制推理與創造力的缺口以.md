@@ -117,3 +117,11 @@ Hassabis 的 AGI 時間表落在 2030 年左右。他預測未來的系統架構
 對於 vibe coding 和 agent 應用，Hassabis 給出明確的時間預期：「為什麼還沒有小孩用這些工具做出賣 1000 萬份的熱門遊戲？這應該是可能的，但還是缺了什麼。也許和流程或工具有關。我預期這在未來 6 到 12 個月內會出現。」
 
 他描繪這個過渡期會看到的景象：「我們不會先看到自主運作。我們會看到這個房間裡的人以 1000 倍的效率運作，那才是你會先看到的。然後其中很多人會建立遊戲公司或其他類型的公司，用這些工具做出某種暢銷 app 或暢銷遊戲。那是你會先看到的，然後更多會被自動化。」
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2Fintleconobserve%2F2026-05-05_Google-DeepMind-%E5%9F%B7%E8%A1%8C%E9%95%B7-Demis-Hassabis-%E5%9C%A8-Y-Combinator-%E7%9A%84%E8%A8%AA%E8%AB%87%E4%B8%AD%E6%B7%B1%E5%85%A5%E5%89%96%E6%9E%90%E4%BA%86%E7%95%B6%E5%89%8D-AI-%E7%B3%BB%E7%B5%B1%E7%9A%84%E9%99%90%E5%88%B6%E6%8E%A8%E7%90%86%E8%88%87%E5%89%B5%E9%80%A0%E5%8A%9B%E7%9A%84%E7%BC%BA%E5%8F%A3%E4%BB%A5.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2Fintleconobserve%2F2026-05-05_Google-DeepMind-%E5%9F%B7%E8%A1%8C%E9%95%B7-Demis-Hassabis-%E5%9C%A8-Y-Combinator-%E7%9A%84%E8%A8%AA%E8%AB%87%E4%B8%AD%E6%B7%B1%E5%85%A5%E5%89%96%E6%9E%90%E4%BA%86%E7%95%B6%E5%89%8D-AI-%E7%B3%BB%E7%B5%B1%E7%9A%84%E9%99%90%E5%88%B6%E6%8E%A8%E7%90%86%E8%88%87%E5%89%B5%E9%80%A0%E5%8A%9B%E7%9A%84%E7%BC%BA%E5%8F%A3%E4%BB%A5.md&period=)

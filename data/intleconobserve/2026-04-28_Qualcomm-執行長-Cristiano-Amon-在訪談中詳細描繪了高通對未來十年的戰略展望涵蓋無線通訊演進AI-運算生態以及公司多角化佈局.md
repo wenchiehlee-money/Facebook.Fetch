@@ -69,3 +69,11 @@ Amon 在 2021 年接任執行長時，便宣示要推動高通從「以授權業
 面對市場給予高通「蘋果供應商」估值的現況，Amon 以德州儀器（TI）為例，說明這種估值折價往往是過渡期現象。「TI 退出 Nokia 供應鏈後，繼續執行多角化策略，估值倍數大幅擴張。我認為高通正在走同樣的路，我們只需要繼續執行。」
 
 他的結論是：「真正重要的是這家公司的 IP 能力，高通從技術面看，這條紀錄是相當驚人的。」
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=QCOM%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=QCOM&file_path=data%2Fintleconobserve%2F2026-04-28_Qualcomm-%E5%9F%B7%E8%A1%8C%E9%95%B7-Cristiano-Amon-%E5%9C%A8%E8%A8%AA%E8%AB%87%E4%B8%AD%E8%A9%B3%E7%B4%B0%E6%8F%8F%E7%B9%AA%E4%BA%86%E9%AB%98%E9%80%9A%E5%B0%8D%E6%9C%AA%E4%BE%86%E5%8D%81%E5%B9%B4%E7%9A%84%E6%88%B0%E7%95%A5%E5%B1%95%E6%9C%9B%E6%B6%B5%E8%93%8B%E7%84%A1%E7%B7%9A%E9%80%9A%E8%A8%8A%E6%BC%94%E9%80%B2AI-%E9%81%8B%E7%AE%97%E7%94%9F%E6%85%8B%E4%BB%A5%E5%8F%8A%E5%85%AC%E5%8F%B8%E5%A4%9A%E8%A7%92%E5%8C%96%E4%BD%88%E5%B1%80.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=QCOM%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=QCOM&file_path=data%2Fintleconobserve%2F2026-04-28_Qualcomm-%E5%9F%B7%E8%A1%8C%E9%95%B7-Cristiano-Amon-%E5%9C%A8%E8%A8%AA%E8%AB%87%E4%B8%AD%E8%A9%B3%E7%B4%B0%E6%8F%8F%E7%B9%AA%E4%BA%86%E9%AB%98%E9%80%9A%E5%B0%8D%E6%9C%AA%E4%BE%86%E5%8D%81%E5%B9%B4%E7%9A%84%E6%88%B0%E7%95%A5%E5%B1%95%E6%9C%9B%E6%B6%B5%E8%93%8B%E7%84%A1%E7%B7%9A%E9%80%9A%E8%A8%8A%E6%BC%94%E9%80%B2AI-%E9%81%8B%E7%AE%97%E7%94%9F%E6%85%8B%E4%BB%A5%E5%8F%8A%E5%85%AC%E5%8F%B8%E5%A4%9A%E8%A7%92%E5%8C%96%E4%BD%88%E5%B1%80.md&period=)

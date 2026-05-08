@@ -47,3 +47,7 @@ SK 海力士在摩根大通韓國大會上，管理層直接指出，DRAM 與 NA
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-03-09_%E8%BC%9D%E9%81%94%E5%9F%B7%E8%A1%8C%E9%95%B7%E9%BB%83%E4%BB%81%E5%8B%B3%E5%96%8ADRAM%E5%BB%A0%E5%84%98%E7%AE%A1%E5%8E%BB%E6%93%B4%E7%94%A2%E5%9B%A0%E7%82%BA%E6%93%B4%E5%A2%9E%E7%94%A2%E8%83%BD%E5%A4%9A%E5%B0%91%E8%BC%9D%E9%81%94%E5%B0%B1%E6%9C%83%E7%94%A8%E6%8E%89%E5%A4%9A%E5%B0%91%E7%94%A2%E8%83%BD-%E5%9C%A8-Morgan-Stanley-%E7%A7%91%E6%8A%80%E5%A4%A7%E6%9C%83%E4%B8%8A%E7%9A%84%E8%AB%87%E8%A9%B1.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-03-09_%E8%BC%9D%E9%81%94%E5%9F%B7%E8%A1%8C%E9%95%B7%E9%BB%83%E4%BB%81%E5%8B%B3%E5%96%8ADRAM%E5%BB%A0%E5%84%98%E7%AE%A1%E5%8E%BB%E6%93%B4%E7%94%A2%E5%9B%A0%E7%82%BA%E6%93%B4%E5%A2%9E%E7%94%A2%E8%83%BD%E5%A4%9A%E5%B0%91%E8%BC%9D%E9%81%94%E5%B0%B1%E6%9C%83%E7%94%A8%E6%8E%89%E5%A4%9A%E5%B0%91%E7%94%A2%E8%83%BD-%E5%9C%A8-Morgan-Stanley-%E7%A7%91%E6%8A%80%E5%A4%A7%E6%9C%83%E4%B8%8A%E7%9A%84%E8%AB%87%E8%A9%B1.md&period=)

@@ -60,3 +60,11 @@ page_canonical_url: ""
 對應的公司價值就已經極為驚人。
 
 而這個市場的潛力，遠遠超過這個等級。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-05-01_%E4%BA%BA%E5%BD%A2%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%98%AF%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%95%86%E6%A9%9FFigure-AI-CEO%E9%80%99%E6%98%AF%E5%90%9E%E4%B8%8B%E5%8D%8A%E5%80%8BGDP%E7%9A%84%E7%B5%82%E6%A5%B5%E7%94%A2%E6%A5%AD.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-05-01_%E4%BA%BA%E5%BD%A2%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%98%AF%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%95%86%E6%A9%9FFigure-AI-CEO%E9%80%99%E6%98%AF%E5%90%9E%E4%B8%8B%E5%8D%8A%E5%80%8BGDP%E7%9A%84%E7%B5%82%E6%A5%B5%E7%94%A2%E6%A5%AD.md&period=)

@@ -39,3 +39,11 @@ SSH（Secure Shell）就像「加密版的遠端控制終端機」
 1、建立加密通道（避免被偷看）
 2、驗證身份（確定你是誰）
 3、允許遠端操作（下指令、管理系統）
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-04-11_GOOGL-CEO-Sundar-Pichai-%E8%AB%87AI%E5%AE%89%E5%85%A8%E9%80%99%E4%BA%9B%E6%A8%A1%E5%9E%8B%E5%8F%AF%E8%83%BD%E6%89%93%E7%A0%B4%E6%89%80%E6%9C%89%E8%BB%9F%E9%AB%94%E9%98%B2%E7%B7%9A.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-04-11_GOOGL-CEO-Sundar-Pichai-%E8%AB%87AI%E5%AE%89%E5%85%A8%E9%80%99%E4%BA%9B%E6%A8%A1%E5%9E%8B%E5%8F%AF%E8%83%BD%E6%89%93%E7%A0%B4%E6%89%80%E6%9C%89%E8%BB%9F%E9%AB%94%E9%98%B2%E7%B7%9A.md&period=)

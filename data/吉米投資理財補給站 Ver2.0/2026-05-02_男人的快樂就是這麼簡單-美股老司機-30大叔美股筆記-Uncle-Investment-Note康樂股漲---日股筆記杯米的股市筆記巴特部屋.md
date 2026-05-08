@@ -52,3 +52,11 @@ page_canonical_url: ""
 
 買車找 胡夏米Honda竹東-胡庭瑋 小米
 📍 購車諮詢、試駕安排、專屬方案
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-05-02_%E7%94%B7%E4%BA%BA%E7%9A%84%E5%BF%AB%E6%A8%82%E5%B0%B1%E6%98%AF%E9%80%99%E9%BA%BC%E7%B0%A1%E5%96%AE-%E7%BE%8E%E8%82%A1%E8%80%81%E5%8F%B8%E6%A9%9F-30%E5%A4%A7%E5%8F%94%E7%BE%8E%E8%82%A1%E7%AD%86%E8%A8%98-Uncle-Investment-Note%E5%BA%B7%E6%A8%82%E8%82%A1%E6%BC%B2---%E6%97%A5%E8%82%A1%E7%AD%86%E8%A8%98%E6%9D%AF%E7%B1%B3%E7%9A%84%E8%82%A1%E5%B8%82%E7%AD%86%E8%A8%98%E5%B7%B4%E7%89%B9%E9%83%A8%E5%B1%8B.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-05-02_%E7%94%B7%E4%BA%BA%E7%9A%84%E5%BF%AB%E6%A8%82%E5%B0%B1%E6%98%AF%E9%80%99%E9%BA%BC%E7%B0%A1%E5%96%AE-%E7%BE%8E%E8%82%A1%E8%80%81%E5%8F%B8%E6%A9%9F-30%E5%A4%A7%E5%8F%94%E7%BE%8E%E8%82%A1%E7%AD%86%E8%A8%98-Uncle-Investment-Note%E5%BA%B7%E6%A8%82%E8%82%A1%E6%BC%B2---%E6%97%A5%E8%82%A1%E7%AD%86%E8%A8%98%E6%9D%AF%E7%B1%B3%E7%9A%84%E8%82%A1%E5%B8%82%E7%AD%86%E8%A8%98%E5%B7%B4%E7%89%B9%E9%83%A8%E5%B1%8B.md&period=)

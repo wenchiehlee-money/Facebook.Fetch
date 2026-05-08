@@ -102,3 +102,7 @@ p.s. 如果大家還記得的話，關於Anthropic和五角大廈的爭議，我
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-03-01_%E5%B0%B1%E5%9C%A8%E7%BE%8E%E5%9C%8B%E5%9C%8B%E9%98%B2%E9%83%A8%E9%95%B7Pete-Hegseth%E6%AD%A3%E5%BC%8F%E5%B0%87-Anthropic-%E5%88%97%E7%82%BA%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E4%BE%9B%E6%87%89%E9%8F%88%E9%A2%A8%E9%9A%AA%E7%A6%81%E6%AD%A2%E8%BB%8D%E4%BA%8B%E6%89%BF%E5%8C%85%E5%95%86%E8%88%87%E5%85%B6%E5%BE%80%E4%BE%86%E5%BE%8C%E7%9A%84%E5%B9%BE%E5%80%8B%E5%B0%8F%E6%99%82Anthropic-CEO-Dari.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-03-01_%E5%B0%B1%E5%9C%A8%E7%BE%8E%E5%9C%8B%E5%9C%8B%E9%98%B2%E9%83%A8%E9%95%B7Pete-Hegseth%E6%AD%A3%E5%BC%8F%E5%B0%87-Anthropic-%E5%88%97%E7%82%BA%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E4%BE%9B%E6%87%89%E9%8F%88%E9%A2%A8%E9%9A%AA%E7%A6%81%E6%AD%A2%E8%BB%8D%E4%BA%8B%E6%89%BF%E5%8C%85%E5%95%86%E8%88%87%E5%85%B6%E5%BE%80%E4%BE%86%E5%BE%8C%E7%9A%84%E5%B9%BE%E5%80%8B%E5%B0%8F%E6%99%82Anthropic-CEO-Dari.md&period=)

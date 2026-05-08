@@ -23,3 +23,11 @@ page_canonical_url: ""
 最近幾個月的節奏就是Anthropic發什麼功能，什麼SaaS公司股價就崩潰去吃大便。未來所有軟體公司都是某種的Token轉售商，也因此成本是有可能被墊高沒錯。甚至一些單一工具型軟體公司，完全就有平替的可能或是沒有存在必要，被斷代式的科技給碾壓。
 
 但在AI變得更強更能突破各種漏洞時，資安公司也跟著股價大跌。 AI 時代，資安公司到底是被淘汰還是需求爆棚？
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fintleconobserve%2F2026-04-09_%E6%9C%80%E8%BF%91%E5%B9%BE%E5%80%8B%E6%9C%88%E7%9A%84%E7%AF%80%E5%A5%8F%E5%B0%B1%E6%98%AFAnthropic%E7%99%BC%E4%BB%80%E9%BA%BC%E5%8A%9F%E8%83%BD%E4%BB%80%E9%BA%BCSaaS%E5%85%AC%E5%8F%B8%E8%82%A1%E5%83%B9%E5%B0%B1%E5%B4%A9%E6%BD%B0%E5%8E%BB%E5%90%83%E5%A4%A7%E4%BE%BF%E6%9C%AA%E4%BE%86%E6%89%80%E6%9C%89%E8%BB%9F%E9%AB%94%E5%85%AC%E5%8F%B8%E9%83%BD%E6%98%AF%E6%9F%90%E7%A8%AE%E7%9A%84Token%E8%BD%89%E5%94%AE%E5%95%86%E4%B9%9F%E5%9B%A0%E6%AD%A4%E6%88%90%E6%9C%AC%E6%98%AF%E6%9C%89%E5%8F%AF%E8%83%BD%E8%A2%AB%E5%A2%8A%E9%AB%98%E6%B2%92%E9%8C%AF%E7%94%9A%E8%87%B3%E4%B8%80%E4%BA%9B.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fintleconobserve%2F2026-04-09_%E6%9C%80%E8%BF%91%E5%B9%BE%E5%80%8B%E6%9C%88%E7%9A%84%E7%AF%80%E5%A5%8F%E5%B0%B1%E6%98%AFAnthropic%E7%99%BC%E4%BB%80%E9%BA%BC%E5%8A%9F%E8%83%BD%E4%BB%80%E9%BA%BCSaaS%E5%85%AC%E5%8F%B8%E8%82%A1%E5%83%B9%E5%B0%B1%E5%B4%A9%E6%BD%B0%E5%8E%BB%E5%90%83%E5%A4%A7%E4%BE%BF%E6%9C%AA%E4%BE%86%E6%89%80%E6%9C%89%E8%BB%9F%E9%AB%94%E5%85%AC%E5%8F%B8%E9%83%BD%E6%98%AF%E6%9F%90%E7%A8%AE%E7%9A%84Token%E8%BD%89%E5%94%AE%E5%95%86%E4%B9%9F%E5%9B%A0%E6%AD%A4%E6%88%90%E6%9C%AC%E6%98%AF%E6%9C%89%E5%8F%AF%E8%83%BD%E8%A2%AB%E5%A2%8A%E9%AB%98%E6%B2%92%E9%8C%AF%E7%94%9A%E8%87%B3%E4%B8%80%E4%BA%9B.md&period=)

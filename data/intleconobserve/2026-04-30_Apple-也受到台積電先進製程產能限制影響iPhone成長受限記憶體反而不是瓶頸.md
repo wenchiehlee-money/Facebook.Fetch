@@ -65,3 +65,11 @@ Mac 本季營收 84 億美元，年增 6%，同樣受供給限制壓抑。新發
 #6月季度展望
 
 蘋果預期下季營收年增 14% 至 17%，已納入供給受限的預估。服務營收成長率（剔除匯率順風後）將與本季相當。營業費用 188 億至 191 億美元，稅率約 17%。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=AAPL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=AAPL&file_path=data%2Fintleconobserve%2F2026-04-30_Apple-%E4%B9%9F%E5%8F%97%E5%88%B0%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%85%88%E9%80%B2%E8%A3%BD%E7%A8%8B%E7%94%A2%E8%83%BD%E9%99%90%E5%88%B6%E5%BD%B1%E9%9F%BFiPhone%E6%88%90%E9%95%B7%E5%8F%97%E9%99%90%E8%A8%98%E6%86%B6%E9%AB%94%E5%8F%8D%E8%80%8C%E4%B8%8D%E6%98%AF%E7%93%B6%E9%A0%B8.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=AAPL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=AAPL&file_path=data%2Fintleconobserve%2F2026-04-30_Apple-%E4%B9%9F%E5%8F%97%E5%88%B0%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%85%88%E9%80%B2%E8%A3%BD%E7%A8%8B%E7%94%A2%E8%83%BD%E9%99%90%E5%88%B6%E5%BD%B1%E9%9F%BFiPhone%E6%88%90%E9%95%B7%E5%8F%97%E9%99%90%E8%A8%98%E6%86%B6%E9%AB%94%E5%8F%8D%E8%80%8C%E4%B8%8D%E6%98%AF%E7%93%B6%E9%A0%B8.md&period=)

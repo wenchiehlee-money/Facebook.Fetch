@@ -111,3 +111,7 @@ p.s. 我剛剛週日接受了一場訪問，講述我對現時市場的看法，
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-04-21_4-%E6%9C%88-20-%E6%97%A5%E8%98%8B%E6%9E%9C%E5%AE%A3%E5%B8%83-Tim-Cook-%E5%B0%87%E5%9C%A8-9-%E6%9C%88-1-%E6%97%A5%E5%8D%B8%E4%BB%BB-CEO%E8%BD%89%E4%BB%BB%E5%9F%B7%E8%A1%8C%E8%91%A3%E4%BA%8B%E9%95%B7%E7%94%B1%E7%8F%BE%E4%BB%BB%E7%A1%AC%E9%AB%94%E5%B7%A5%E7%A8%8B%E8%B3%87%E6%B7%B1%E5%89%AF%E7%B8%BD%E8%A3%81-John-Ternus-%E6%8E%A5%E7%8F%AD.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-04-21_4-%E6%9C%88-20-%E6%97%A5%E8%98%8B%E6%9E%9C%E5%AE%A3%E5%B8%83-Tim-Cook-%E5%B0%87%E5%9C%A8-9-%E6%9C%88-1-%E6%97%A5%E5%8D%B8%E4%BB%BB-CEO%E8%BD%89%E4%BB%BB%E5%9F%B7%E8%A1%8C%E8%91%A3%E4%BA%8B%E9%95%B7%E7%94%B1%E7%8F%BE%E4%BB%BB%E7%A1%AC%E9%AB%94%E5%B7%A5%E7%A8%8B%E8%B3%87%E6%B7%B1%E5%89%AF%E7%B8%BD%E8%A3%81-John-Ternus-%E6%8E%A5%E7%8F%AD.md&period=)

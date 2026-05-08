@@ -85,3 +85,11 @@ NVIDIA 投資 $2B，不只是看需求，而是看「效率」
 Lumentum 最值得關注的，不是「營收成長3倍」，而是它已經完成從「低成長硬體商」到「高毛利 AI 基礎設施供應商」的轉型。未來幾年，隨著 1.6T、OCS、CPO 逐步放量，它的利潤確實有機會持續向上擴張，甚至進入高速成長軌道。但同時，市場也已經提前反映這個轉變，現在的股價本質是在交易「未來幾年利潤極度樂觀的情境」。
 
 #光通訊至少再發光發熱三年😍
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=ARM%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=ARM&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-04-11_%E5%85%89%E5%AD%B8%E8%BB%8D%E7%81%AB%E5%95%86%E5%85%A8%E9%9D%A2%E7%88%86%E7%99%BCLumentum-Holdings-Inc-%E7%9B%B4%E6%8C%87-2028-%E4%B8%89%E5%80%8D%E6%88%90%E9%95%B7%E5%88%A9%E6%BD%A4%E6%8B%90%E9%BB%9E-LITE.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=ARM%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=ARM&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-04-11_%E5%85%89%E5%AD%B8%E8%BB%8D%E7%81%AB%E5%95%86%E5%85%A8%E9%9D%A2%E7%88%86%E7%99%BCLumentum-Holdings-Inc-%E7%9B%B4%E6%8C%87-2028-%E4%B8%89%E5%80%8D%E6%88%90%E9%95%B7%E5%88%A9%E6%BD%A4%E6%8B%90%E9%BB%9E-LITE.md&period=)

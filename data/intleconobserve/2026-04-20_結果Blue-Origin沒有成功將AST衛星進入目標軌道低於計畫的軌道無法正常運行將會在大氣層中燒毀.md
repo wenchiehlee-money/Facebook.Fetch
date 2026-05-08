@@ -24,3 +24,11 @@ page_canonical_url: ""
 
 發射任務有點像是手術成功但是病人死亡了
 成功重複使用火箭助推器並回收，但是客戶的衛星沒有送上預定軌道。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fintleconobserve%2F2026-04-20_%E7%B5%90%E6%9E%9CBlue-Origin%E6%B2%92%E6%9C%89%E6%88%90%E5%8A%9F%E5%B0%87AST%E8%A1%9B%E6%98%9F%E9%80%B2%E5%85%A5%E7%9B%AE%E6%A8%99%E8%BB%8C%E9%81%93%E4%BD%8E%E6%96%BC%E8%A8%88%E7%95%AB%E7%9A%84%E8%BB%8C%E9%81%93%E7%84%A1%E6%B3%95%E6%AD%A3%E5%B8%B8%E9%81%8B%E8%A1%8C%E5%B0%87%E6%9C%83%E5%9C%A8%E5%A4%A7%E6%B0%A3%E5%B1%A4%E4%B8%AD%E7%87%92%E6%AF%80.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fintleconobserve%2F2026-04-20_%E7%B5%90%E6%9E%9CBlue-Origin%E6%B2%92%E6%9C%89%E6%88%90%E5%8A%9F%E5%B0%87AST%E8%A1%9B%E6%98%9F%E9%80%B2%E5%85%A5%E7%9B%AE%E6%A8%99%E8%BB%8C%E9%81%93%E4%BD%8E%E6%96%BC%E8%A8%88%E7%95%AB%E7%9A%84%E8%BB%8C%E9%81%93%E7%84%A1%E6%B3%95%E6%AD%A3%E5%B8%B8%E9%81%8B%E8%A1%8C%E5%B0%87%E6%9C%83%E5%9C%A8%E5%A4%A7%E6%B0%A3%E5%B1%A4%E4%B8%AD%E7%87%92%E6%AF%80.md&period=)

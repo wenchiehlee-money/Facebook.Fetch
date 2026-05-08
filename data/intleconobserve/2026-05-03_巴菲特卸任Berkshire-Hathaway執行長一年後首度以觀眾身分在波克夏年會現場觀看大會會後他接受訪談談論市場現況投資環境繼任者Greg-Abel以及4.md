@@ -77,3 +77,11 @@ page_canonical_url: ""
 不過巴菲特也表示，他不喜歡跟別人這樣談話：「擔憂這些事情對你沒有任何好處。我認為對這些事情有所認知是好的，但擔憂是糟糕的。我不喜歡讓人們產生這種信念，我不喜歡到處跟人說末日將至。」
 
 主持人說：「有個朋友昨天告訴我，他最近開始用一句話：我不焦慮，我不擔憂。這大概是過生活的好方法。」
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fintleconobserve%2F2026-05-03_%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8D%B8%E4%BB%BBBerkshire-Hathaway%E5%9F%B7%E8%A1%8C%E9%95%B7%E4%B8%80%E5%B9%B4%E5%BE%8C%E9%A6%96%E5%BA%A6%E4%BB%A5%E8%A7%80%E7%9C%BE%E8%BA%AB%E5%88%86%E5%9C%A8%E6%B3%A2%E5%85%8B%E5%A4%8F%E5%B9%B4%E6%9C%83%E7%8F%BE%E5%A0%B4%E8%A7%80%E7%9C%8B%E5%A4%A7%E6%9C%83%E6%9C%83%E5%BE%8C%E4%BB%96%E6%8E%A5%E5%8F%97%E8%A8%AA%E8%AB%87%E8%AB%87%E8%AB%96%E5%B8%82%E5%A0%B4%E7%8F%BE%E6%B3%81%E6%8A%95%E8%B3%87%E7%92%B0%E5%A2%83%E7%B9%BC%E4%BB%BB%E8%80%85Greg-Abel%E4%BB%A5%E5%8F%8A4.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fintleconobserve%2F2026-05-03_%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8D%B8%E4%BB%BBBerkshire-Hathaway%E5%9F%B7%E8%A1%8C%E9%95%B7%E4%B8%80%E5%B9%B4%E5%BE%8C%E9%A6%96%E5%BA%A6%E4%BB%A5%E8%A7%80%E7%9C%BE%E8%BA%AB%E5%88%86%E5%9C%A8%E6%B3%A2%E5%85%8B%E5%A4%8F%E5%B9%B4%E6%9C%83%E7%8F%BE%E5%A0%B4%E8%A7%80%E7%9C%8B%E5%A4%A7%E6%9C%83%E6%9C%83%E5%BE%8C%E4%BB%96%E6%8E%A5%E5%8F%97%E8%A8%AA%E8%AB%87%E8%AB%87%E8%AB%96%E5%B8%82%E5%A0%B4%E7%8F%BE%E6%B3%81%E6%8A%95%E8%B3%87%E7%92%B0%E5%A2%83%E7%B9%BC%E4%BB%BB%E8%80%85Greg-Abel%E4%BB%A5%E5%8F%8A4.md&period=)

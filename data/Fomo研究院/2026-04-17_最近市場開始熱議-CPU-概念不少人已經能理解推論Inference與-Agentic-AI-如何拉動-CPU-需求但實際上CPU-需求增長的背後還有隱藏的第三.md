@@ -84,3 +84,7 @@ page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%9
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-04-17_%E6%9C%80%E8%BF%91%E5%B8%82%E5%A0%B4%E9%96%8B%E5%A7%8B%E7%86%B1%E8%AD%B0-CPU-%E6%A6%82%E5%BF%B5%E4%B8%8D%E5%B0%91%E4%BA%BA%E5%B7%B2%E7%B6%93%E8%83%BD%E7%90%86%E8%A7%A3%E6%8E%A8%E8%AB%96Inference%E8%88%87-Agentic-AI-%E5%A6%82%E4%BD%95%E6%8B%89%E5%8B%95-CPU-%E9%9C%80%E6%B1%82%E4%BD%86%E5%AF%A6%E9%9A%9B%E4%B8%8ACPU-%E9%9C%80%E6%B1%82%E5%A2%9E%E9%95%B7%E7%9A%84%E8%83%8C%E5%BE%8C%E9%82%84%E6%9C%89%E9%9A%B1%E8%97%8F%E7%9A%84%E7%AC%AC%E4%B8%89.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-04-17_%E6%9C%80%E8%BF%91%E5%B8%82%E5%A0%B4%E9%96%8B%E5%A7%8B%E7%86%B1%E8%AD%B0-CPU-%E6%A6%82%E5%BF%B5%E4%B8%8D%E5%B0%91%E4%BA%BA%E5%B7%B2%E7%B6%93%E8%83%BD%E7%90%86%E8%A7%A3%E6%8E%A8%E8%AB%96Inference%E8%88%87-Agentic-AI-%E5%A6%82%E4%BD%95%E6%8B%89%E5%8B%95-CPU-%E9%9C%80%E6%B1%82%E4%BD%86%E5%AF%A6%E9%9A%9B%E4%B8%8ACPU-%E9%9C%80%E6%B1%82%E5%A2%9E%E9%95%B7%E7%9A%84%E8%83%8C%E5%BE%8C%E9%82%84%E6%9C%89%E9%9A%B1%E8%97%8F%E7%9A%84%E7%AC%AC%E4%B8%89.md&period=)

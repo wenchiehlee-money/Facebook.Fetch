@@ -51,3 +51,7 @@ SRAM 變多，不代表 DRAM 變少；很多時候，SRAM 變多，代表整個�
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-03-16_%E6%9C%80%E8%BF%91%E5%B8%82%E5%A0%B4%E5%8F%88%E9%96%8B%E5%A7%8B%E5%82%B3%E4%B8%80%E5%80%8B%E7%89%88%E6%9C%AC%E8%BC%9D%E9%81%94%E4%B8%8B%E9%80%B1-GTC-%E6%9C%83%E6%8E%A8%E6%96%B0%E7%B3%BB%E7%B5%B1GPU-%E5%8A%A0-Groq-LPU%E4%B8%8D%E7%94%A8-DRAM%E6%94%B9%E7%94%A8-SRAM%E6%89%80%E4%BB%A5-HBMDRAM-%E9%9C%80%E6%B1%82%E8%A6%81%E8%A2%AB%E6%89%93%E6%8E%89.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-03-16_%E6%9C%80%E8%BF%91%E5%B8%82%E5%A0%B4%E5%8F%88%E9%96%8B%E5%A7%8B%E5%82%B3%E4%B8%80%E5%80%8B%E7%89%88%E6%9C%AC%E8%BC%9D%E9%81%94%E4%B8%8B%E9%80%B1-GTC-%E6%9C%83%E6%8E%A8%E6%96%B0%E7%B3%BB%E7%B5%B1GPU-%E5%8A%A0-Groq-LPU%E4%B8%8D%E7%94%A8-DRAM%E6%94%B9%E7%94%A8-SRAM%E6%89%80%E4%BB%A5-HBMDRAM-%E9%9C%80%E6%B1%82%E8%A6%81%E8%A2%AB%E6%89%93%E6%8E%89.md&period=)

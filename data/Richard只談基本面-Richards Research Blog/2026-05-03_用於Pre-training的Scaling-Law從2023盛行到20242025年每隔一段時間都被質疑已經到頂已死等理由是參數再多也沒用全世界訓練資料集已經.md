@@ -26,3 +26,7 @@ Pre-training scaling law沉寂一年之後再度啟動，對硬體的影響.....
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-05-03_%E7%94%A8%E6%96%BCPre-training%E7%9A%84Scaling-Law%E5%BE%9E2023%E7%9B%9B%E8%A1%8C%E5%88%B020242025%E5%B9%B4%E6%AF%8F%E9%9A%94%E4%B8%80%E6%AE%B5%E6%99%82%E9%96%93%E9%83%BD%E8%A2%AB%E8%B3%AA%E7%96%91%E5%B7%B2%E7%B6%93%E5%88%B0%E9%A0%82%E5%B7%B2%E6%AD%BB%E7%AD%89%E7%90%86%E7%94%B1%E6%98%AF%E5%8F%83%E6%95%B8%E5%86%8D%E5%A4%9A%E4%B9%9F%E6%B2%92%E7%94%A8%E5%85%A8%E4%B8%96%E7%95%8C%E8%A8%93%E7%B7%B4%E8%B3%87%E6%96%99%E9%9B%86%E5%B7%B2%E7%B6%93.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-05-03_%E7%94%A8%E6%96%BCPre-training%E7%9A%84Scaling-Law%E5%BE%9E2023%E7%9B%9B%E8%A1%8C%E5%88%B020242025%E5%B9%B4%E6%AF%8F%E9%9A%94%E4%B8%80%E6%AE%B5%E6%99%82%E9%96%93%E9%83%BD%E8%A2%AB%E8%B3%AA%E7%96%91%E5%B7%B2%E7%B6%93%E5%88%B0%E9%A0%82%E5%B7%B2%E6%AD%BB%E7%AD%89%E7%90%86%E7%94%B1%E6%98%AF%E5%8F%83%E6%95%B8%E5%86%8D%E5%A4%9A%E4%B9%9F%E6%B2%92%E7%94%A8%E5%85%A8%E4%B8%96%E7%95%8C%E8%A8%93%E7%B7%B4%E8%B3%87%E6%96%99%E9%9B%86%E5%B7%B2%E7%B6%93.md&period=)

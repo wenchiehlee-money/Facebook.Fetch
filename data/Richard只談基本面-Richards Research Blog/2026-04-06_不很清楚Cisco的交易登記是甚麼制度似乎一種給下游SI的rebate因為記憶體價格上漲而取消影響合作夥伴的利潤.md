@@ -84,3 +84,7 @@ https://www.crn.com/news/networking/2026/cisco-move-to-eliminate-compute-deal-re
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-04-06_%E4%B8%8D%E5%BE%88%E6%B8%85%E6%A5%9ACisco%E7%9A%84%E4%BA%A4%E6%98%93%E7%99%BB%E8%A8%98%E6%98%AF%E7%94%9A%E9%BA%BC%E5%88%B6%E5%BA%A6%E4%BC%BC%E4%B9%8E%E4%B8%80%E7%A8%AE%E7%B5%A6%E4%B8%8B%E6%B8%B8SI%E7%9A%84rebate%E5%9B%A0%E7%82%BA%E8%A8%98%E6%86%B6%E9%AB%94%E5%83%B9%E6%A0%BC%E4%B8%8A%E6%BC%B2%E8%80%8C%E5%8F%96%E6%B6%88%E5%BD%B1%E9%9F%BF%E5%90%88%E4%BD%9C%E5%A4%A5%E4%BC%B4%E7%9A%84%E5%88%A9%E6%BD%A4.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-04-06_%E4%B8%8D%E5%BE%88%E6%B8%85%E6%A5%9ACisco%E7%9A%84%E4%BA%A4%E6%98%93%E7%99%BB%E8%A8%98%E6%98%AF%E7%94%9A%E9%BA%BC%E5%88%B6%E5%BA%A6%E4%BC%BC%E4%B9%8E%E4%B8%80%E7%A8%AE%E7%B5%A6%E4%B8%8B%E6%B8%B8SI%E7%9A%84rebate%E5%9B%A0%E7%82%BA%E8%A8%98%E6%86%B6%E9%AB%94%E5%83%B9%E6%A0%BC%E4%B8%8A%E6%BC%B2%E8%80%8C%E5%8F%96%E6%B6%88%E5%BD%B1%E9%9F%BF%E5%90%88%E4%BD%9C%E5%A4%A5%E4%BC%B4%E7%9A%84%E5%88%A9%E6%BD%A4.md&period=)

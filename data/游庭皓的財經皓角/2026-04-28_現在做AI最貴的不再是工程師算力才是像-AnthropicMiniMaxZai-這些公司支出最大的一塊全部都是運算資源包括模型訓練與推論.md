@@ -31,3 +31,7 @@ page_canonical_url: "https://www.facebook.com/yutinghaosfinance"
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E6%B8%B8%E5%BA%AD%E7%9A%93%E7%9A%84%E8%B2%A1%E7%B6%93%E7%9A%93%E8%A7%92%2F2026-04-28_%E7%8F%BE%E5%9C%A8%E5%81%9AAI%E6%9C%80%E8%B2%B4%E7%9A%84%E4%B8%8D%E5%86%8D%E6%98%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%AE%97%E5%8A%9B%E6%89%8D%E6%98%AF%E5%83%8F-AnthropicMiniMaxZai-%E9%80%99%E4%BA%9B%E5%85%AC%E5%8F%B8%E6%94%AF%E5%87%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E4%B8%80%E5%A1%8A%E5%85%A8%E9%83%A8%E9%83%BD%E6%98%AF%E9%81%8B%E7%AE%97%E8%B3%87%E6%BA%90%E5%8C%85%E6%8B%AC%E6%A8%A1%E5%9E%8B%E8%A8%93%E7%B7%B4%E8%88%87%E6%8E%A8%E8%AB%96.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E6%B8%B8%E5%BA%AD%E7%9A%93%E7%9A%84%E8%B2%A1%E7%B6%93%E7%9A%93%E8%A7%92%2F2026-04-28_%E7%8F%BE%E5%9C%A8%E5%81%9AAI%E6%9C%80%E8%B2%B4%E7%9A%84%E4%B8%8D%E5%86%8D%E6%98%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%AE%97%E5%8A%9B%E6%89%8D%E6%98%AF%E5%83%8F-AnthropicMiniMaxZai-%E9%80%99%E4%BA%9B%E5%85%AC%E5%8F%B8%E6%94%AF%E5%87%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E4%B8%80%E5%A1%8A%E5%85%A8%E9%83%A8%E9%83%BD%E6%98%AF%E9%81%8B%E7%AE%97%E8%B3%87%E6%BA%90%E5%8C%85%E6%8B%AC%E6%A8%A1%E5%9E%8B%E8%A8%93%E7%B7%B4%E8%88%87%E6%8E%A8%E8%AB%96.md&period=)

@@ -94,3 +94,11 @@ MercadoLibre 是全球最早大規模企業導入 Claude AI 的公司之一
 「拉丁美洲的數位經濟並未放緩，而是才剛開始。
 擁有 26 年歷史的 Mercado Libre，如今在核心市場仍展現出新創公司般的高速成長。
 我們正把握這個世代級的機會。」
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E6%88%91%E7%9A%84%E7%8F%8D%E8%97%8F-%E8%82%A1%E7%A5%A8%2F2026-05-08_MercadoLibreMELI%E5%85%AC%E5%B8%83-FY26-Q1-%E8%B2%A1%E5%A0%B1.md&period=2026%20Q1)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E6%88%91%E7%9A%84%E7%8F%8D%E8%97%8F-%E8%82%A1%E7%A5%A8%2F2026-05-08_MercadoLibreMELI%E5%85%AC%E5%B8%83-FY26-Q1-%E8%B2%A1%E5%A0%B1.md&period=2026%20Q1)

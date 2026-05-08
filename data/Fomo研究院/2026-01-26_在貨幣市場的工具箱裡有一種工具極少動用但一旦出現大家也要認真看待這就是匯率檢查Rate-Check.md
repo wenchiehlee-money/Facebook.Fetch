@@ -79,3 +79,7 @@ page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%9
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-01-26_%E5%9C%A8%E8%B2%A8%E5%B9%A3%E5%B8%82%E5%A0%B4%E7%9A%84%E5%B7%A5%E5%85%B7%E7%AE%B1%E8%A3%A1%E6%9C%89%E4%B8%80%E7%A8%AE%E5%B7%A5%E5%85%B7%E6%A5%B5%E5%B0%91%E5%8B%95%E7%94%A8%E4%BD%86%E4%B8%80%E6%97%A6%E5%87%BA%E7%8F%BE%E5%A4%A7%E5%AE%B6%E4%B9%9F%E8%A6%81%E8%AA%8D%E7%9C%9F%E7%9C%8B%E5%BE%85%E9%80%99%E5%B0%B1%E6%98%AF%E5%8C%AF%E7%8E%87%E6%AA%A2%E6%9F%A5Rate-Check.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-01-26_%E5%9C%A8%E8%B2%A8%E5%B9%A3%E5%B8%82%E5%A0%B4%E7%9A%84%E5%B7%A5%E5%85%B7%E7%AE%B1%E8%A3%A1%E6%9C%89%E4%B8%80%E7%A8%AE%E5%B7%A5%E5%85%B7%E6%A5%B5%E5%B0%91%E5%8B%95%E7%94%A8%E4%BD%86%E4%B8%80%E6%97%A6%E5%87%BA%E7%8F%BE%E5%A4%A7%E5%AE%B6%E4%B9%9F%E8%A6%81%E8%AA%8D%E7%9C%9F%E7%9C%8B%E5%BE%85%E9%80%99%E5%B0%B1%E6%98%AF%E5%8C%AF%E7%8E%87%E6%AA%A2%E6%9F%A5Rate-Check.md&period=)

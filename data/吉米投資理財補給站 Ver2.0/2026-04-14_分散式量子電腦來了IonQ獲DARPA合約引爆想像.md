@@ -37,3 +37,11 @@ IonQ 現在已經明確證明：
 
 邁向：
 ▪ 真正「分散式、可網路化」的量子運算架構
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-04-14_%E5%88%86%E6%95%A3%E5%BC%8F%E9%87%8F%E5%AD%90%E9%9B%BB%E8%85%A6%E4%BE%86%E4%BA%86IonQ%E7%8D%B2DARPA%E5%90%88%E7%B4%84%E5%BC%95%E7%88%86%E6%83%B3%E5%83%8F.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-04-14_%E5%88%86%E6%95%A3%E5%BC%8F%E9%87%8F%E5%AD%90%E9%9B%BB%E8%85%A6%E4%BE%86%E4%BA%86IonQ%E7%8D%B2DARPA%E5%90%88%E7%B4%84%E5%BC%95%E7%88%86%E6%83%B3%E5%83%8F.md&period=)

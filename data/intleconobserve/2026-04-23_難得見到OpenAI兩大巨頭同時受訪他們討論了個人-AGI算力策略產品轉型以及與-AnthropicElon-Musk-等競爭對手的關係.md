@@ -77,3 +77,11 @@ Brockman 對 Anthropic 的執行力給予肯定：
 「Elon 說他需要多數股權、需要當 CEO、需要完全控制權。我們幾乎要答應了。但絕對控制權這件事，即使他說未來會稀釋，讓我們停下來問：我們真的在乎讓這項技術造福所有人的願景嗎？不應該有一個人掌控整個未來，不管那個人是誰。那就是破局點。」
 
 Brockman 表示：「多年來我們從未講過這個故事，但現在我們會講。我唯一擔心的是他在開庭前撤案，讓我們沒機會把話說清楚。」
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=OPENAI%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=OPENAI&file_path=data%2Fintleconobserve%2F2026-04-23_%E9%9B%A3%E5%BE%97%E8%A6%8B%E5%88%B0OpenAI%E5%85%A9%E5%A4%A7%E5%B7%A8%E9%A0%AD%E5%90%8C%E6%99%82%E5%8F%97%E8%A8%AA%E4%BB%96%E5%80%91%E8%A8%8E%E8%AB%96%E4%BA%86%E5%80%8B%E4%BA%BA-AGI%E7%AE%97%E5%8A%9B%E7%AD%96%E7%95%A5%E7%94%A2%E5%93%81%E8%BD%89%E5%9E%8B%E4%BB%A5%E5%8F%8A%E8%88%87-AnthropicElon-Musk-%E7%AD%89%E7%AB%B6%E7%88%AD%E5%B0%8D%E6%89%8B%E7%9A%84%E9%97%9C%E4%BF%82.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=OPENAI%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=OPENAI&file_path=data%2Fintleconobserve%2F2026-04-23_%E9%9B%A3%E5%BE%97%E8%A6%8B%E5%88%B0OpenAI%E5%85%A9%E5%A4%A7%E5%B7%A8%E9%A0%AD%E5%90%8C%E6%99%82%E5%8F%97%E8%A8%AA%E4%BB%96%E5%80%91%E8%A8%8E%E8%AB%96%E4%BA%86%E5%80%8B%E4%BA%BA-AGI%E7%AE%97%E5%8A%9B%E7%AD%96%E7%95%A5%E7%94%A2%E5%93%81%E8%BD%89%E5%9E%8B%E4%BB%A5%E5%8F%8A%E8%88%87-AnthropicElon-Musk-%E7%AD%89%E7%AB%B6%E7%88%AD%E5%B0%8D%E6%89%8B%E7%9A%84%E9%97%9C%E4%BF%82.md&period=)

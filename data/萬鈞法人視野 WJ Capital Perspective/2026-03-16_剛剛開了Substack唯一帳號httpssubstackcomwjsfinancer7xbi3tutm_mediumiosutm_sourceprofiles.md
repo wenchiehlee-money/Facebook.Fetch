@@ -47,3 +47,7 @@ page_canonical_url: "https://www.facebook.com/people/%E8%90%AC%E9%88%9E%E6%B3%95
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-03-16_%E5%89%9B%E5%89%9B%E9%96%8B%E4%BA%86Substack%E5%94%AF%E4%B8%80%E5%B8%B3%E8%99%9Fhttpssubstackcomwjsfinancer7xbi3tutm_mediumiosutm_sourceprofiles.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-03-16_%E5%89%9B%E5%89%9B%E9%96%8B%E4%BA%86Substack%E5%94%AF%E4%B8%80%E5%B8%B3%E8%99%9Fhttpssubstackcomwjsfinancer7xbi3tutm_mediumiosutm_sourceprofiles.md&period=)

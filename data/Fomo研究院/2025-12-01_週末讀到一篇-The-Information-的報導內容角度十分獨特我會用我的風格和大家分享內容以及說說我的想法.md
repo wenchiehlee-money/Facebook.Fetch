@@ -79,3 +79,7 @@ p.s. 最近中國更禁止字節跳動再使用Nvidia晶片，這個主題收錄
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2025%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2025&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-01_%E9%80%B1%E6%9C%AB%E8%AE%80%E5%88%B0%E4%B8%80%E7%AF%87-The-Information-%E7%9A%84%E5%A0%B1%E5%B0%8E%E5%85%A7%E5%AE%B9%E8%A7%92%E5%BA%A6%E5%8D%81%E5%88%86%E7%8D%A8%E7%89%B9%E6%88%91%E6%9C%83%E7%94%A8%E6%88%91%E7%9A%84%E9%A2%A8%E6%A0%BC%E5%92%8C%E5%A4%A7%E5%AE%B6%E5%88%86%E4%BA%AB%E5%85%A7%E5%AE%B9%E4%BB%A5%E5%8F%8A%E8%AA%AA%E8%AA%AA%E6%88%91%E7%9A%84%E6%83%B3%E6%B3%95.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-01_%E9%80%B1%E6%9C%AB%E8%AE%80%E5%88%B0%E4%B8%80%E7%AF%87-The-Information-%E7%9A%84%E5%A0%B1%E5%B0%8E%E5%85%A7%E5%AE%B9%E8%A7%92%E5%BA%A6%E5%8D%81%E5%88%86%E7%8D%A8%E7%89%B9%E6%88%91%E6%9C%83%E7%94%A8%E6%88%91%E7%9A%84%E9%A2%A8%E6%A0%BC%E5%92%8C%E5%A4%A7%E5%AE%B6%E5%88%86%E4%BA%AB%E5%85%A7%E5%AE%B9%E4%BB%A5%E5%8F%8A%E8%AA%AA%E8%AA%AA%E6%88%91%E7%9A%84%E6%83%B3%E6%B3%95.md&period=)

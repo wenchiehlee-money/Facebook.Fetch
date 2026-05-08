@@ -25,3 +25,11 @@ Amazon說要擴大外銷自己投資自用多年的「Amazon Supply Chain Servic
 這項服務不限於電商賣家，而是涵蓋醫療、製造、汽車、零售等各產業，讓企業能從工廠端提貨、跨境運輸、報關、清關、倉儲管理，一直到最後一哩配送，全程交由亞馬遜一手包辦。
 
 其實FBA早就在鯨吞蠶食這個市場，現在算是全面和物流公司宣戰？
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=AMZN%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=AMZN&file_path=data%2Fintleconobserve%2F2026-05-05_Amazon%E8%AA%AA%E8%A6%81%E6%93%B4%E5%A4%A7%E5%A4%96%E9%8A%B7%E8%87%AA%E5%B7%B1%E6%8A%95%E8%B3%87%E8%87%AA%E7%94%A8%E5%A4%9A%E5%B9%B4%E7%9A%84Amazon-Supply-Chain-Services%E4%BA%9E%E9%A6%AC%E9%81%9C%E4%BE%9B%E6%87%89%E9%8F%88%E6%9C%8D%E5%8B%99%E7%B0%A1%E7%A8%B1ASCS%E7%9B%B4%E6%8E%A5%E8%AE%93FedEx-%E5%92%8CUPS%E8%82%A1%E5%83%B9%E5%B4%A9.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=AMZN%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=AMZN&file_path=data%2Fintleconobserve%2F2026-05-05_Amazon%E8%AA%AA%E8%A6%81%E6%93%B4%E5%A4%A7%E5%A4%96%E9%8A%B7%E8%87%AA%E5%B7%B1%E6%8A%95%E8%B3%87%E8%87%AA%E7%94%A8%E5%A4%9A%E5%B9%B4%E7%9A%84Amazon-Supply-Chain-Services%E4%BA%9E%E9%A6%AC%E9%81%9C%E4%BE%9B%E6%87%89%E9%8F%88%E6%9C%8D%E5%8B%99%E7%B0%A1%E7%A8%B1ASCS%E7%9B%B4%E6%8E%A5%E8%AE%93FedEx-%E5%92%8CUPS%E8%82%A1%E5%83%B9%E5%B4%A9.md&period=)

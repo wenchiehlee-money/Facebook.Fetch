@@ -77,3 +77,11 @@ page_canonical_url: ""
 2、「我們已經徹底打破這個指標，這樣的表現只有少數 AI 基礎設施公司能達成，例如 NVIDIA、Micron Technology 和 SK hynix。」
 
 3、「動能正在爆發——我們上一季成長 85%，創下歷史最高年增率；美國業務翻倍成長。我們因此將全年營收成長指引上調至 71%，比上季預測高出 10 個百分點，這反映我們對美國市場加速成長的高度信心。」
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=DELL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=DELL&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-05-05_Alex-KarpPalantir-Technologies-CEO%E5%B0%8D%E6%95%A3%E6%88%B6%E6%8A%95%E8%B3%87%E4%BA%BA%E7%9A%84%E7%99%BC%E8%A8%80.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=DELL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=DELL&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-05-05_Alex-KarpPalantir-Technologies-CEO%E5%B0%8D%E6%95%A3%E6%88%B6%E6%8A%95%E8%B3%87%E4%BA%BA%E7%9A%84%E7%99%BC%E8%A8%80.md&period=)

@@ -42,3 +42,11 @@ AI agent 需要：
 
 🔹 總結
 SanDisk 的故事不是 NAND 復甦，而是 AI 推理讓儲存從後端成本，升級成整個運算架構的關鍵瓶頸，因此營收才會出現近三倍的結構性跳升。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=SNDK%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=SNDK&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-04-28_SanDiskAI-%E6%8E%A8%E7%90%86%E9%A9%85%E5%8B%95%E4%B8%8B%E7%9A%84-NAND-%E7%B5%90%E6%A7%8B%E6%80%A7%E6%88%90%E9%95%B7%E8%88%87%E7%87%9F%E6%94%B6%E9%87%8D%E4%BC%B02027-%E5%B1%95%E6%9C%9B.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=SNDK%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=SNDK&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-04-28_SanDiskAI-%E6%8E%A8%E7%90%86%E9%A9%85%E5%8B%95%E4%B8%8B%E7%9A%84-NAND-%E7%B5%90%E6%A7%8B%E6%80%A7%E6%88%90%E9%95%B7%E8%88%87%E7%87%9F%E6%94%B6%E9%87%8D%E4%BC%B02027-%E5%B1%95%E6%9C%9B.md&period=)

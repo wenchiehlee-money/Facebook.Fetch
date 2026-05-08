@@ -34,3 +34,7 @@ Q1營收7.5億、超預期40%，EPS $0.44、超預期424%
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%202026%20Q1%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-04-29_Bloom-Energy-BE-Q1%E6%A5%AD%E7%B8%BE%E5%A4%A7%E5%B9%85%E8%B6%85%E8%B6%8A%E9%A0%90%E6%9C%9F2%E6%9C%88%E6%89%8D%E5%A4%A7%E5%B9%85%E4%B8%8A%E8%AA%BF%E5%85%A8%E5%B9%B4%E6%8C%87%E5%BC%95%E6%98%A8%E5%A4%A9%E5%86%8D%E6%AC%A1%E5%85%A8%E9%9D%A2%E8%AA%BF%E9%AB%98%E7%9B%A4%E5%BE%8C%E8%82%A1%E5%83%B9%E5%A4%A7%E6%BC%B213.md&period=2026%20Q1)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-04-29_Bloom-Energy-BE-Q1%E6%A5%AD%E7%B8%BE%E5%A4%A7%E5%B9%85%E8%B6%85%E8%B6%8A%E9%A0%90%E6%9C%9F2%E6%9C%88%E6%89%8D%E5%A4%A7%E5%B9%85%E4%B8%8A%E8%AA%BF%E5%85%A8%E5%B9%B4%E6%8C%87%E5%BC%95%E6%98%A8%E5%A4%A9%E5%86%8D%E6%AC%A1%E5%85%A8%E9%9D%A2%E8%AA%BF%E9%AB%98%E7%9B%A4%E5%BE%8C%E8%82%A1%E5%83%B9%E5%A4%A7%E6%BC%B213.md&period=2026%20Q1)

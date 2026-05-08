@@ -83,3 +83,7 @@ Howard Marks在The Most Important Thing Illuminated書中，談投資是先跟�
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-05-03_%E9%80%99%E6%9C%AC%E6%9B%B8%E8%8A%B1%E4%BA%86%E4%B8%89%E7%AB%A0%E8%A8%8E%E8%AB%96%E9%A2%A8%E9%9A%AA%E5%88%86%E5%88%A5%E6%98%AFUnderstanding-Risk-Recognizing-Risk%E5%92%8CControlling-Risk%E6%88%91%E8%AA%8D%E7%82%BA%E6%98%AF%E5%85%A8%E6%9B%B8%E6%9C%80%E7%B2%BE%E9%87%87%E7%9A%84%E5%9C%B0%E6%96%B9%E4%B9%9F%E6%98%AF.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-05-03_%E9%80%99%E6%9C%AC%E6%9B%B8%E8%8A%B1%E4%BA%86%E4%B8%89%E7%AB%A0%E8%A8%8E%E8%AB%96%E9%A2%A8%E9%9A%AA%E5%88%86%E5%88%A5%E6%98%AFUnderstanding-Risk-Recognizing-Risk%E5%92%8CControlling-Risk%E6%88%91%E8%AA%8D%E7%82%BA%E6%98%AF%E5%85%A8%E6%9B%B8%E6%9C%80%E7%B2%BE%E9%87%87%E7%9A%84%E5%9C%B0%E6%96%B9%E4%B9%9F%E6%98%AF.md&period=)

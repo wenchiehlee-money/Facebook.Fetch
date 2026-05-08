@@ -89,3 +89,7 @@ https://itunes.apple.com/app/id6759227113
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-27_FinGuider-APP-%E4%B8%8A%E7%B7%9A%E9%9A%A8%E6%99%82%E9%9A%A8%E5%9C%B0%E5%B9%AB%E4%BD%A0%E6%8E%8C%E6%8F%A1%E7%BE%8E%E8%82%A1%E9%87%8D%E9%BB%9E.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-27_FinGuider-APP-%E4%B8%8A%E7%B7%9A%E9%9A%A8%E6%99%82%E9%9A%A8%E5%9C%B0%E5%B9%AB%E4%BD%A0%E6%8E%8C%E6%8F%A1%E7%BE%8E%E8%82%A1%E9%87%8D%E9%BB%9E.md&period=)

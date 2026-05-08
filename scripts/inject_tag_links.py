@@ -160,7 +160,7 @@ def extract_period(filename: str) -> str:
 
 
 def build_issue_url(symbol: str, rel_path: str, period: str, repo: str) -> str:
-    title = f"{symbol} {period} 財報標記".strip()
+    title = f"{symbol} {period} 財報標記".strip() if symbol else "貼文標記"
     params = {
         "template": "earnings_tag.yml",
         "title":    title,
@@ -181,12 +181,8 @@ def inject_file(md_path: Path, repo_root: Path, sym_map: dict[str, str]) -> bool
 
     rel_path = md_path.relative_to(repo_root).as_posix()
     stem     = md_path.stem
-
-    symbol = extract_symbol(stem, sym_map)
-    if not symbol:
-        return False
-
-    period    = extract_period(stem)
+    symbol   = extract_symbol(stem, sym_map)  # may be empty — inject anyway
+    period   = extract_period(stem)
     issue_url = build_issue_url(symbol, rel_path, period, TAIEX_REPO)
 
     tag_section = (
@@ -206,12 +202,8 @@ def inject_file_biztrends(md_path: Path, repo_root: Path, sym_map: dict[str, str
 
     rel_path = md_path.relative_to(repo_root).as_posix()
     stem     = md_path.stem
-
-    symbol = extract_symbol(stem, sym_map)
-    if not symbol:
-        return False
-
-    period    = extract_period(stem)
+    symbol   = extract_symbol(stem, sym_map)  # may be empty — inject anyway
+    period   = extract_period(stem)
     issue_url = build_issue_url(symbol, rel_path, period, BIZTRENDS_REPO)
 
     tag_section = (

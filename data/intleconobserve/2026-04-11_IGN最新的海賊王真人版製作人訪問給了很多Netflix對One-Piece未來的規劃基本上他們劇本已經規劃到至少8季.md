@@ -53,3 +53,11 @@ Ian Stokes 也提到，尾田對每一條劇本筆記投入的心思和細膩程
 
 #第三季的具體狀況
 訪談時第三季已經在拍攝中，進度大約過半，預計夏天左右殺青。第三季將進入阿拉巴斯坦篇，場景和佈景規模都比前兩季更大。已經確認 Mr. 4 會在第三季登場，而第二季被刪掉的薇薇搭檔跑得快（Karoo）也確認會在第三季出現。選角方面已經公布了部分新演員，製作人提到還有很多優秀的新卡司尚未公開。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fintleconobserve%2F2026-04-11_IGN%E6%9C%80%E6%96%B0%E7%9A%84%E6%B5%B7%E8%B3%8A%E7%8E%8B%E7%9C%9F%E4%BA%BA%E7%89%88%E8%A3%BD%E4%BD%9C%E4%BA%BA%E8%A8%AA%E5%95%8F%E7%B5%A6%E4%BA%86%E5%BE%88%E5%A4%9ANetflix%E5%B0%8DOne-Piece%E6%9C%AA%E4%BE%86%E7%9A%84%E8%A6%8F%E5%8A%83%E5%9F%BA%E6%9C%AC%E4%B8%8A%E4%BB%96%E5%80%91%E5%8A%87%E6%9C%AC%E5%B7%B2%E7%B6%93%E8%A6%8F%E5%8A%83%E5%88%B0%E8%87%B3%E5%B0%918%E5%AD%A3.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fintleconobserve%2F2026-04-11_IGN%E6%9C%80%E6%96%B0%E7%9A%84%E6%B5%B7%E8%B3%8A%E7%8E%8B%E7%9C%9F%E4%BA%BA%E7%89%88%E8%A3%BD%E4%BD%9C%E4%BA%BA%E8%A8%AA%E5%95%8F%E7%B5%A6%E4%BA%86%E5%BE%88%E5%A4%9ANetflix%E5%B0%8DOne-Piece%E6%9C%AA%E4%BE%86%E7%9A%84%E8%A6%8F%E5%8A%83%E5%9F%BA%E6%9C%AC%E4%B8%8A%E4%BB%96%E5%80%91%E5%8A%87%E6%9C%AC%E5%B7%B2%E7%B6%93%E8%A6%8F%E5%8A%83%E5%88%B0%E8%87%B3%E5%B0%918%E5%AD%A3.md&period=)

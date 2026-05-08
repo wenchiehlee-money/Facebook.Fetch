@@ -23,3 +23,11 @@ page_canonical_url: ""
 Sandisk進NASDAQ100取代Atlassian，剛好映襯本週兩大主題就是戰爭中止AI周邊半導體、硬體電力股反彈爆噴，油汽板塊回跌。以及Anthropic又再度引發華爾街對SaaS軟體股的恐慌殺盤。
 
 大型績優SaaS股包含CRM、NOW、INTU都來到了歷史未見過的低估值，Forward EV/FCF 都到了15倍以下
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=SNDK%202026%20Q1%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=SNDK&file_path=data%2Fintleconobserve%2F2026-04-11_Sandisk%E9%80%B2NASDAQ100%E5%8F%96%E4%BB%A3Atlassian%E5%89%9B%E5%A5%BD%E6%98%A0%E8%A5%AF%E6%9C%AC%E9%80%B1%E5%85%A9%E5%A4%A7%E4%B8%BB%E9%A1%8C%E5%B0%B1%E6%98%AF%E6%88%B0%E7%88%AD%E4%B8%AD%E6%AD%A2AI%E5%91%A8%E9%82%8A%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%A1%AC%E9%AB%94%E9%9B%BB%E5%8A%9B%E8%82%A1%E5%8F%8D%E5%BD%88%E7%88%86%E5%99%B4%E6%B2%B9%E6%B1%BD%E6%9D%BF%E5%A1%8A%E5%9B%9E%E8%B7%8C%E4%BB%A5%E5%8F%8AAnthropic%E5%8F%88%E5%86%8D%E5%BA%A6.md&period=2026%20Q1)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=SNDK%202026%20Q1%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=SNDK&file_path=data%2Fintleconobserve%2F2026-04-11_Sandisk%E9%80%B2NASDAQ100%E5%8F%96%E4%BB%A3Atlassian%E5%89%9B%E5%A5%BD%E6%98%A0%E8%A5%AF%E6%9C%AC%E9%80%B1%E5%85%A9%E5%A4%A7%E4%B8%BB%E9%A1%8C%E5%B0%B1%E6%98%AF%E6%88%B0%E7%88%AD%E4%B8%AD%E6%AD%A2AI%E5%91%A8%E9%82%8A%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%A1%AC%E9%AB%94%E9%9B%BB%E5%8A%9B%E8%82%A1%E5%8F%8D%E5%BD%88%E7%88%86%E5%99%B4%E6%B2%B9%E6%B1%BD%E6%9D%BF%E5%A1%8A%E5%9B%9E%E8%B7%8C%E4%BB%A5%E5%8F%8AAnthropic%E5%8F%88%E5%86%8D%E5%BA%A6.md&period=2026%20Q1)

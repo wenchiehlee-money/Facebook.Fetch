@@ -85,3 +85,7 @@ Musk 證明了只要你跑得夠快，法規就只能在背後追著你跑。
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-01-22_%E9%80%99%E5%B9%BE%E5%A4%A9%E6%9C%89%E4%B8%8D%E5%B0%91%E4%BA%BA%E8%A8%8E%E8%AB%96%E5%88%B0%E5%89%8DxAI%E5%B7%A5%E7%A8%8B%E5%B8%ABSulaiman-Ghori%E5%9B%A0%E7%82%BA%E6%8E%A5%E5%8F%97%E6%8E%A1%E8%A8%AA%E7%84%B6%E5%BE%8C%E5%B0%B1%E8%A2%AB%E7%82%92%E4%BA%86.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-01-22_%E9%80%99%E5%B9%BE%E5%A4%A9%E6%9C%89%E4%B8%8D%E5%B0%91%E4%BA%BA%E8%A8%8E%E8%AB%96%E5%88%B0%E5%89%8DxAI%E5%B7%A5%E7%A8%8B%E5%B8%ABSulaiman-Ghori%E5%9B%A0%E7%82%BA%E6%8E%A5%E5%8F%97%E6%8E%A1%E8%A8%AA%E7%84%B6%E5%BE%8C%E5%B0%B1%E8%A2%AB%E7%82%92%E4%BA%86.md&period=)

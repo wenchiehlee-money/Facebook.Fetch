@@ -81,3 +81,7 @@ page_canonical_url: "https://www.facebook.com/GreenHornFans"
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-07_%E5%BE%9E2002%E9%96%8B%E5%A7%8B%E6%A8%99%E6%99%AE%E5%85%AC%E5%8F%B8%E6%AF%8F%E5%B9%B4%E7%99%BC%E8%A1%8C%E4%B8%80%E4%BB%BD%E5%90%8D%E7%82%BASPIVA%E8%A8%88%E5%88%86%E5%8D%A1SPIVA-Scorecard%E7%9A%84%E5%A0%B1%E5%91%8ASPIVA%E6%98%AFSP-Indices-versus-Active%E6%A8%99%E6%99%AE%E6%8C%87%E6%95%B8%E8%B7%9F.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-07_%E5%BE%9E2002%E9%96%8B%E5%A7%8B%E6%A8%99%E6%99%AE%E5%85%AC%E5%8F%B8%E6%AF%8F%E5%B9%B4%E7%99%BC%E8%A1%8C%E4%B8%80%E4%BB%BD%E5%90%8D%E7%82%BASPIVA%E8%A8%88%E5%88%86%E5%8D%A1SPIVA-Scorecard%E7%9A%84%E5%A0%B1%E5%91%8ASPIVA%E6%98%AFSP-Indices-versus-Active%E6%A8%99%E6%99%AE%E6%8C%87%E6%95%B8%E8%B7%9F.md&period=)

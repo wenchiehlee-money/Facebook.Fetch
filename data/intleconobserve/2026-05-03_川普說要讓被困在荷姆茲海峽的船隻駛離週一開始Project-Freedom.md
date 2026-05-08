@@ -44,3 +44,11 @@ page_canonical_url: ""
 
 唐納・J・川普
 美利堅合眾國總統
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fintleconobserve%2F2026-05-03_%E5%B7%9D%E6%99%AE%E8%AA%AA%E8%A6%81%E8%AE%93%E8%A2%AB%E5%9B%B0%E5%9C%A8%E8%8D%B7%E5%A7%86%E8%8C%B2%E6%B5%B7%E5%B3%BD%E7%9A%84%E8%88%B9%E9%9A%BB%E9%A7%9B%E9%9B%A2%E9%80%B1%E4%B8%80%E9%96%8B%E5%A7%8BProject-Freedom.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fintleconobserve%2F2026-05-03_%E5%B7%9D%E6%99%AE%E8%AA%AA%E8%A6%81%E8%AE%93%E8%A2%AB%E5%9B%B0%E5%9C%A8%E8%8D%B7%E5%A7%86%E8%8C%B2%E6%B5%B7%E5%B3%BD%E7%9A%84%E8%88%B9%E9%9A%BB%E9%A7%9B%E9%9B%A2%E9%80%B1%E4%B8%80%E9%96%8B%E5%A7%8BProject-Freedom.md&period=)

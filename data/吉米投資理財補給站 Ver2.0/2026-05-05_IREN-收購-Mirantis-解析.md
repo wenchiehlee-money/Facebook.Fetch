@@ -48,3 +48,11 @@ Mirantis 帶來的是
 🧠 結論
 👉 IREN 正在從「算力供應商」轉型成「AI 雲平台公司」，
 Mirantis 是它跨過 AI 產業價值鏈的關鍵跳板。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-05-05_IREN-%E6%94%B6%E8%B3%BC-Mirantis-%E8%A7%A3%E6%9E%90.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-05-05_IREN-%E6%94%B6%E8%B3%BC-Mirantis-%E8%A7%A3%E6%9E%90.md&period=)

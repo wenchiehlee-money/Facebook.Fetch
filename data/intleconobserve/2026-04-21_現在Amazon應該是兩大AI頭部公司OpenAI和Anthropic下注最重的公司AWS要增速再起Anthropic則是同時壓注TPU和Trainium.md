@@ -56,3 +56,11 @@ Amazon CEO Andy Jassy 在聲明中強調，自研 AI 晶片以顯著更低的成
 Pfizer 則使用 Claude 搭配 Bedrock，讓科學家以語音指令與聊天介面檢索每項新藥開發計畫約 2 萬份文件，年度節省約 1.6 萬小時搜尋時間，基礎設施成本下降 55%。
 
 此外，Claude 也已整合進 Amazon Connect、Kiro 與 Amazon Quick 等 AWS 產品線，Amazon 內部開發者亦在多項業務中使用 Claude 改善客戶體驗。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=OPENAI%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=OPENAI&file_path=data%2Fintleconobserve%2F2026-04-21_%E7%8F%BE%E5%9C%A8Amazon%E6%87%89%E8%A9%B2%E6%98%AF%E5%85%A9%E5%A4%A7AI%E9%A0%AD%E9%83%A8%E5%85%AC%E5%8F%B8OpenAI%E5%92%8CAnthropic%E4%B8%8B%E6%B3%A8%E6%9C%80%E9%87%8D%E7%9A%84%E5%85%AC%E5%8F%B8AWS%E8%A6%81%E5%A2%9E%E9%80%9F%E5%86%8D%E8%B5%B7Anthropic%E5%89%87%E6%98%AF%E5%90%8C%E6%99%82%E5%A3%93%E6%B3%A8TPU%E5%92%8CTrainium.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=OPENAI%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=OPENAI&file_path=data%2Fintleconobserve%2F2026-04-21_%E7%8F%BE%E5%9C%A8Amazon%E6%87%89%E8%A9%B2%E6%98%AF%E5%85%A9%E5%A4%A7AI%E9%A0%AD%E9%83%A8%E5%85%AC%E5%8F%B8OpenAI%E5%92%8CAnthropic%E4%B8%8B%E6%B3%A8%E6%9C%80%E9%87%8D%E7%9A%84%E5%85%AC%E5%8F%B8AWS%E8%A6%81%E5%A2%9E%E9%80%9F%E5%86%8D%E8%B5%B7Anthropic%E5%89%87%E6%98%AF%E5%90%8C%E6%99%82%E5%A3%93%E6%B3%A8TPU%E5%92%8CTrainium.md&period=)

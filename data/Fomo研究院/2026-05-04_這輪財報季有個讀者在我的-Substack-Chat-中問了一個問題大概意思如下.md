@@ -101,3 +101,7 @@ page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%9
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-05-04_%E9%80%99%E8%BC%AA%E8%B2%A1%E5%A0%B1%E5%AD%A3%E6%9C%89%E5%80%8B%E8%AE%80%E8%80%85%E5%9C%A8%E6%88%91%E7%9A%84-Substack-Chat-%E4%B8%AD%E5%95%8F%E4%BA%86%E4%B8%80%E5%80%8B%E5%95%8F%E9%A1%8C%E5%A4%A7%E6%A6%82%E6%84%8F%E6%80%9D%E5%A6%82%E4%B8%8B.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-05-04_%E9%80%99%E8%BC%AA%E8%B2%A1%E5%A0%B1%E5%AD%A3%E6%9C%89%E5%80%8B%E8%AE%80%E8%80%85%E5%9C%A8%E6%88%91%E7%9A%84-Substack-Chat-%E4%B8%AD%E5%95%8F%E4%BA%86%E4%B8%80%E5%80%8B%E5%95%8F%E9%A1%8C%E5%A4%A7%E6%A6%82%E6%84%8F%E6%80%9D%E5%A6%82%E4%B8%8B.md&period=)

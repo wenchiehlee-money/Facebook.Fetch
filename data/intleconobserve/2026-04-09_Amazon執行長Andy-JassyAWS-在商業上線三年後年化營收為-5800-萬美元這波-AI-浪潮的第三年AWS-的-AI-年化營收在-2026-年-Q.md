@@ -35,3 +35,11 @@ Jassy 透露，甚至有兩家大型 AWS 客戶詢問是否能包下 2026 年全
 「我們不是憑直覺投入約 2000 億美元資本支出。近期的 OpenAI 承諾（超過 1000 億美元）只是其中一個例子，但還有其他幾項已完成或尚未宣布的客戶協議，或正在深入洽談中。」他說，2026 年大部分資本支出將在 2027 至 2028 年開始產生收益，而其中相當大比例已有客戶承諾在手。
 
 Jassy 以 AWS 第一波成長的回報作背書：「AI 是一個千載難逢的機會，當前的成長速度史無前例，未來的成長潛力更大。我們不會保守地應對這一切——我們投資是為了成為有意義的領導者，我們未來的業務、營業利潤和自由現金流將因此大幅增加。」
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=AMZN%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=AMZN&file_path=data%2Fintleconobserve%2F2026-04-09_Amazon%E5%9F%B7%E8%A1%8C%E9%95%B7Andy-JassyAWS-%E5%9C%A8%E5%95%86%E6%A5%AD%E4%B8%8A%E7%B7%9A%E4%B8%89%E5%B9%B4%E5%BE%8C%E5%B9%B4%E5%8C%96%E7%87%9F%E6%94%B6%E7%82%BA-5800-%E8%90%AC%E7%BE%8E%E5%85%83%E9%80%99%E6%B3%A2-AI-%E6%B5%AA%E6%BD%AE%E7%9A%84%E7%AC%AC%E4%B8%89%E5%B9%B4AWS-%E7%9A%84-AI-%E5%B9%B4%E5%8C%96%E7%87%9F%E6%94%B6%E5%9C%A8-2026-%E5%B9%B4-Q.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=AMZN%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=AMZN&file_path=data%2Fintleconobserve%2F2026-04-09_Amazon%E5%9F%B7%E8%A1%8C%E9%95%B7Andy-JassyAWS-%E5%9C%A8%E5%95%86%E6%A5%AD%E4%B8%8A%E7%B7%9A%E4%B8%89%E5%B9%B4%E5%BE%8C%E5%B9%B4%E5%8C%96%E7%87%9F%E6%94%B6%E7%82%BA-5800-%E8%90%AC%E7%BE%8E%E5%85%83%E9%80%99%E6%B3%A2-AI-%E6%B5%AA%E6%BD%AE%E7%9A%84%E7%AC%AC%E4%B8%89%E5%B9%B4AWS-%E7%9A%84-AI-%E5%B9%B4%E5%8C%96%E7%87%9F%E6%94%B6%E5%9C%A8-2026-%E5%B9%B4-Q.md&period=)

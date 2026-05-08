@@ -65,3 +65,11 @@ HBF 不是一家公司遊戲，而是整個供應鏈新戰場
 
 結論
 HBF 是 AI 記憶體從「高速」進化到「超大容量」的下一個主戰場，SanDisk 正在搶第一波標準與產業話語權。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=SNDK%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=SNDK&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-04-13_SanDisk-HBF-%E5%8A%A0%E9%80%9F%E9%96%8B%E7%99%BCAI-%E8%A8%98%E6%86%B6%E9%AB%94%E9%80%B2%E5%85%A5HBMHBF-%E9%9B%99%E8%BB%8C%E6%99%82%E4%BB%A3.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=SNDK%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=SNDK&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-04-13_SanDisk-HBF-%E5%8A%A0%E9%80%9F%E9%96%8B%E7%99%BCAI-%E8%A8%98%E6%86%B6%E9%AB%94%E9%80%B2%E5%85%A5HBMHBF-%E9%9B%99%E8%BB%8C%E6%99%82%E4%BB%A3.md&period=)

@@ -83,3 +83,7 @@ ServiceNow 的策略很明確：我不必發明最強的 AI 模型，但我擁�
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-02-19_%E7%95%B6%E6%81%90%E6%87%BC%E8%94%93%E5%BB%B6%E6%99%82%E8%A8%B1%E5%A4%9A%E6%98%94%E6%97%A5%E7%9A%84%E6%98%8E%E6%98%9F%E5%A6%82-ServiceNowAdobeWorkday%E5%85%B6%E4%BC%B0%E5%80%BC%E7%94%9A%E8%87%B3%E8%B7%8C%E8%87%B3%E5%8D%81%E5%B9%B4%E4%BE%86%E7%9A%84%E4%BD%8E%E9%BB%9E.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-02-19_%E7%95%B6%E6%81%90%E6%87%BC%E8%94%93%E5%BB%B6%E6%99%82%E8%A8%B1%E5%A4%9A%E6%98%94%E6%97%A5%E7%9A%84%E6%98%8E%E6%98%9F%E5%A6%82-ServiceNowAdobeWorkday%E5%85%B6%E4%BC%B0%E5%80%BC%E7%94%9A%E8%87%B3%E8%B7%8C%E8%87%B3%E5%8D%81%E5%B9%B4%E4%BE%86%E7%9A%84%E4%BD%8E%E9%BB%9E.md&period=)

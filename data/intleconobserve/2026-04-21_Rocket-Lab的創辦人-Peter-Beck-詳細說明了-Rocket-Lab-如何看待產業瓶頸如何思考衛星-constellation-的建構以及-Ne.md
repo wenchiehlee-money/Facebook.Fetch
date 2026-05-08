@@ -67,3 +67,11 @@ Rocket Lab 合約 backlog 已超過 100 億美元。Peter Beck 維持長期 50/5
 
 #Neutron發射時間表：2026 年 Q4
 「會的，我們會試著讓它升空。但 Electron 當年延誤了多久上發射台？沒人記得，因為那不重要。重要的是它是一個規律發射的可靠載具。Neutron 也會完全一樣。我們會盡快，但不會走任何捷徑。」
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fintleconobserve%2F2026-04-21_Rocket-Lab%E7%9A%84%E5%89%B5%E8%BE%A6%E4%BA%BA-Peter-Beck-%E8%A9%B3%E7%B4%B0%E8%AA%AA%E6%98%8E%E4%BA%86-Rocket-Lab-%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%94%A2%E6%A5%AD%E7%93%B6%E9%A0%B8%E5%A6%82%E4%BD%95%E6%80%9D%E8%80%83%E8%A1%9B%E6%98%9F-constellation-%E7%9A%84%E5%BB%BA%E6%A7%8B%E4%BB%A5%E5%8F%8A-Ne.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fintleconobserve%2F2026-04-21_Rocket-Lab%E7%9A%84%E5%89%B5%E8%BE%A6%E4%BA%BA-Peter-Beck-%E8%A9%B3%E7%B4%B0%E8%AA%AA%E6%98%8E%E4%BA%86-Rocket-Lab-%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%94%A2%E6%A5%AD%E7%93%B6%E9%A0%B8%E5%A6%82%E4%BD%95%E6%80%9D%E8%80%83%E8%A1%9B%E6%98%9F-constellation-%E7%9A%84%E5%BB%BA%E6%A7%8B%E4%BB%A5%E5%8F%8A-Ne.md&period=)

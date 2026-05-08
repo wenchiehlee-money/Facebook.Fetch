@@ -103,3 +103,7 @@ LiDAR不僅是技術競賽，更是殘酷的製造業戰爭。
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2025%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2025&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-16_LiDAR%E8%A3%BD%E9%80%A0%E5%95%86Luminar%E7%94%B3%E8%AB%8B%E7%A0%B4%E7%94%A2%E7%9C%8B%E5%88%B0%E6%9C%89%E4%BA%9B%E4%BA%BA%E5%B0%B1%E7%AB%8B%E5%88%BB%E8%A1%A8%E7%A4%BA%E9%80%99%E6%98%AF%E7%B4%94%E8%A6%96%E8%A6%BA%E7%9A%84%E5%8B%9D%E5%88%A9.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-16_LiDAR%E8%A3%BD%E9%80%A0%E5%95%86Luminar%E7%94%B3%E8%AB%8B%E7%A0%B4%E7%94%A2%E7%9C%8B%E5%88%B0%E6%9C%89%E4%BA%9B%E4%BA%BA%E5%B0%B1%E7%AB%8B%E5%88%BB%E8%A1%A8%E7%A4%BA%E9%80%99%E6%98%AF%E7%B4%94%E8%A6%96%E8%A6%BA%E7%9A%84%E5%8B%9D%E5%88%A9.md&period=)

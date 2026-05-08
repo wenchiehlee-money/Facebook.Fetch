@@ -31,3 +31,7 @@ Tom’s  Hardware報導，Mythos並非超級駭客，所謂發現數千個危險
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-04-13_%E9%98%BF%E5%B7%9D%E6%94%BF%E5%BA%9C%E7%9A%84AI%E5%85%BC%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E6%B2%99%E7%9A%87David-Sacks%E5%9C%A8All-in-podcast%E6%89%B9%E8%A9%95Anthropic%E7%99%BC%E4%BD%88%E6%96%B0%E7%94%A2%E5%93%81%E6%99%82%E9%83%BD%E6%9C%83%E5%9A%87%E5%94%AC%E4%BA%BA%E8%AA%87%E5%A4%A7%E5%AE%A3%E5%82%B3.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-04-13_%E9%98%BF%E5%B7%9D%E6%94%BF%E5%BA%9C%E7%9A%84AI%E5%85%BC%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E6%B2%99%E7%9A%87David-Sacks%E5%9C%A8All-in-podcast%E6%89%B9%E8%A9%95Anthropic%E7%99%BC%E4%BD%88%E6%96%B0%E7%94%A2%E5%93%81%E6%99%82%E9%83%BD%E6%9C%83%E5%9A%87%E5%94%AC%E4%BA%BA%E8%AA%87%E5%A4%A7%E5%AE%A3%E5%82%B3.md&period=)

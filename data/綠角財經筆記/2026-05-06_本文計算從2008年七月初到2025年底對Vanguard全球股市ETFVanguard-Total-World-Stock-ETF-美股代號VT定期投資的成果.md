@@ -73,3 +73,7 @@ VT在2024的全年報酬是22.44%。
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-05-06_%E6%9C%AC%E6%96%87%E8%A8%88%E7%AE%97%E5%BE%9E2008%E5%B9%B4%E4%B8%83%E6%9C%88%E5%88%9D%E5%88%B02025%E5%B9%B4%E5%BA%95%E5%B0%8DVanguard%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82ETFVanguard-Total-World-Stock-ETF-%E7%BE%8E%E8%82%A1%E4%BB%A3%E8%99%9FVT%E5%AE%9A%E6%9C%9F%E6%8A%95%E8%B3%87%E7%9A%84%E6%88%90%E6%9E%9C.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-05-06_%E6%9C%AC%E6%96%87%E8%A8%88%E7%AE%97%E5%BE%9E2008%E5%B9%B4%E4%B8%83%E6%9C%88%E5%88%9D%E5%88%B02025%E5%B9%B4%E5%BA%95%E5%B0%8DVanguard%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82ETFVanguard-Total-World-Stock-ETF-%E7%BE%8E%E8%82%A1%E4%BB%A3%E8%99%9FVT%E5%AE%9A%E6%9C%9F%E6%8A%95%E8%B3%87%E7%9A%84%E6%88%90%E6%9E%9C.md&period=)

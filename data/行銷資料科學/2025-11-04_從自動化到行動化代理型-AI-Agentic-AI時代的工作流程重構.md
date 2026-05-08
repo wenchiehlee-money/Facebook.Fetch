@@ -60,3 +60,7 @@ page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2025%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2025&file_path=data%2F%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%2F2025-11-04_%E5%BE%9E%E8%87%AA%E5%8B%95%E5%8C%96%E5%88%B0%E8%A1%8C%E5%8B%95%E5%8C%96%E4%BB%A3%E7%90%86%E5%9E%8B-AI-Agentic-AI%E6%99%82%E4%BB%A3%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B%E9%87%8D%E6%A7%8B.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%2F2025-11-04_%E5%BE%9E%E8%87%AA%E5%8B%95%E5%8C%96%E5%88%B0%E8%A1%8C%E5%8B%95%E5%8C%96%E4%BB%A3%E7%90%86%E5%9E%8B-AI-Agentic-AI%E6%99%82%E4%BB%A3%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B%E9%87%8D%E6%A7%8B.md&period=)

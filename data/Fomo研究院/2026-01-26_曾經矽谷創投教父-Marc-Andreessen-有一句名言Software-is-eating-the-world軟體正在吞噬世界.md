@@ -77,3 +77,7 @@ p.s. 最新一期週末筆記已經發出，文章完全免費，只要訂閱電
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-01-26_%E6%9B%BE%E7%B6%93%E7%9F%BD%E8%B0%B7%E5%89%B5%E6%8A%95%E6%95%99%E7%88%B6-Marc-Andreessen-%E6%9C%89%E4%B8%80%E5%8F%A5%E5%90%8D%E8%A8%80Software-is-eating-the-world%E8%BB%9F%E9%AB%94%E6%AD%A3%E5%9C%A8%E5%90%9E%E5%99%AC%E4%B8%96%E7%95%8C.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-01-26_%E6%9B%BE%E7%B6%93%E7%9F%BD%E8%B0%B7%E5%89%B5%E6%8A%95%E6%95%99%E7%88%B6-Marc-Andreessen-%E6%9C%89%E4%B8%80%E5%8F%A5%E5%90%8D%E8%A8%80Software-is-eating-the-world%E8%BB%9F%E9%AB%94%E6%AD%A3%E5%9C%A8%E5%90%9E%E5%99%AC%E4%B8%96%E7%95%8C.md&period=)

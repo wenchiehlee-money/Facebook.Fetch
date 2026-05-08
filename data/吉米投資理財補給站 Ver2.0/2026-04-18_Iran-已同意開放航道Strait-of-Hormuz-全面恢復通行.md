@@ -27,3 +27,11 @@ page_canonical_url: ""
 4、核心條件只有一個 → 處理掉伊朗的核能力（特別是濃縮鈾）。
 5、美國說法重點 → 就算用軍事手段，也一定會把這件事解決。
 6、最終紅線 → 伊朗永遠不能擁有核武器。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=MU%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=MU&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-04-18_Iran-%E5%B7%B2%E5%90%8C%E6%84%8F%E9%96%8B%E6%94%BE%E8%88%AA%E9%81%93Strait-of-Hormuz-%E5%85%A8%E9%9D%A2%E6%81%A2%E5%BE%A9%E9%80%9A%E8%A1%8C.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=MU%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=MU&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-04-18_Iran-%E5%B7%B2%E5%90%8C%E6%84%8F%E9%96%8B%E6%94%BE%E8%88%AA%E9%81%93Strait-of-Hormuz-%E5%85%A8%E9%9D%A2%E6%81%A2%E5%BE%A9%E9%80%9A%E8%A1%8C.md&period=)

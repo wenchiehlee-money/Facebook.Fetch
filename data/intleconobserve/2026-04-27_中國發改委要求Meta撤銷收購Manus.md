@@ -26,3 +26,11 @@ page_canonical_url: ""
 禁止理由：交易涉嫌違反技術出口管制、對外投資規定及外商投資安全審查相關法規。重點關注Manus中國背景的核心技術與人才是否透過「新加坡洗底」方式非法外流。
 
 Manus兩位創辦人（肖弘、季逸超）此前已被限制出境，目前仍需配合調查。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=META%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=META&file_path=data%2Fintleconobserve%2F2026-04-27_%E4%B8%AD%E5%9C%8B%E7%99%BC%E6%94%B9%E5%A7%94%E8%A6%81%E6%B1%82Meta%E6%92%A4%E9%8A%B7%E6%94%B6%E8%B3%BCManus.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=META%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=META&file_path=data%2Fintleconobserve%2F2026-04-27_%E4%B8%AD%E5%9C%8B%E7%99%BC%E6%94%B9%E5%A7%94%E8%A6%81%E6%B1%82Meta%E6%92%A4%E9%8A%B7%E6%94%B6%E8%B3%BCManus.md&period=)

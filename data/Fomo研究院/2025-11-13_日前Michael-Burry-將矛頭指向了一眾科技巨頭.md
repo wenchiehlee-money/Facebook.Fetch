@@ -109,3 +109,7 @@ p.s. 最新研究報告已經發出，內容是討論究竟這個記憶體週期
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2025%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2025&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-11-13_%E6%97%A5%E5%89%8DMichael-Burry-%E5%B0%87%E7%9F%9B%E9%A0%AD%E6%8C%87%E5%90%91%E4%BA%86%E4%B8%80%E7%9C%BE%E7%A7%91%E6%8A%80%E5%B7%A8%E9%A0%AD.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-11-13_%E6%97%A5%E5%89%8DMichael-Burry-%E5%B0%87%E7%9F%9B%E9%A0%AD%E6%8C%87%E5%90%91%E4%BA%86%E4%B8%80%E7%9C%BE%E7%A7%91%E6%8A%80%E5%B7%A8%E9%A0%AD.md&period=)

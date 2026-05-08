@@ -39,3 +39,11 @@ Sundar Pichai 擔任 Google CEO 已邁入第十年，Alphabet 如今不僅是全
 Pichai 特別提到建設速度的重要性：「你會對中國建設東西的速度感到敬畏。我真的覺得我們需要學會更快地建造東西。你幾乎需要轉變心態，思考在實體世界中如何做到快 10 倍。」
 
 記憶體是最關鍵的短期瓶頸之一。「領先的記憶體公司不可能在短期內大幅提升產能。所以短期內有這些限制，但隨著時間推移會逐漸緩解。」他也指出這種限制反而會推動創新，「我們會讓這些東西的效率提升 30 倍。這些都是同時在發生的。」
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2Fintleconobserve%2F2026-04-09_Sundar-Pichai-%E6%93%94%E4%BB%BB-Google-CEO-%E5%B7%B2%E9%82%81%E5%85%A5%E7%AC%AC%E5%8D%81%E5%B9%B4Alphabet-%E5%A6%82%E4%BB%8A%E4%B8%8D%E5%83%85%E6%98%AF%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E7%9A%84%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E4%B9%8B%E4%B8%80%E6%9B%B4%E6%98%AF-AI-%E7%AB%B6%E8%B3%BD%E4%B8%AD%E7%9A%84%E9%A0%98%E8%B7%91%E8%80%852026-%E5%B9%B4%E8%B3%87%E6%9C%AC.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2Fintleconobserve%2F2026-04-09_Sundar-Pichai-%E6%93%94%E4%BB%BB-Google-CEO-%E5%B7%B2%E9%82%81%E5%85%A5%E7%AC%AC%E5%8D%81%E5%B9%B4Alphabet-%E5%A6%82%E4%BB%8A%E4%B8%8D%E5%83%85%E6%98%AF%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E7%9A%84%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E4%B9%8B%E4%B8%80%E6%9B%B4%E6%98%AF-AI-%E7%AB%B6%E8%B3%BD%E4%B8%AD%E7%9A%84%E9%A0%98%E8%B7%91%E8%80%852026-%E5%B9%B4%E8%B3%87%E6%9C%AC.md&period=)

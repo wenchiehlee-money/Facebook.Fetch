@@ -87,3 +87,7 @@ Taking Stock的作者是Jordan Grumet，一位美國的內科醫師。
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-03-18_Taking-Stock%E7%9A%84%E4%BD%9C%E8%80%85%E6%98%AFJordan-Grumet%E4%B8%80%E4%BD%8D%E7%BE%8E%E5%9C%8B%E7%9A%84%E5%85%A7%E7%A7%91%E9%86%AB%E5%B8%AB.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-03-18_Taking-Stock%E7%9A%84%E4%BD%9C%E8%80%85%E6%98%AFJordan-Grumet%E4%B8%80%E4%BD%8D%E7%BE%8E%E5%9C%8B%E7%9A%84%E5%85%A7%E7%A7%91%E9%86%AB%E5%B8%AB.md&period=)

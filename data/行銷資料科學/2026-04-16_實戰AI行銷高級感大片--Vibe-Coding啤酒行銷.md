@@ -40,3 +40,7 @@ page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%2F2026-04-16_%E5%AF%A6%E6%88%B0AI%E8%A1%8C%E9%8A%B7%E9%AB%98%E7%B4%9A%E6%84%9F%E5%A4%A7%E7%89%87--Vibe-Coding%E5%95%A4%E9%85%92%E8%A1%8C%E9%8A%B7.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%2F2026-04-16_%E5%AF%A6%E6%88%B0AI%E8%A1%8C%E9%8A%B7%E9%AB%98%E7%B4%9A%E6%84%9F%E5%A4%A7%E7%89%87--Vibe-Coding%E5%95%A4%E9%85%92%E8%A1%8C%E9%8A%B7.md&period=)

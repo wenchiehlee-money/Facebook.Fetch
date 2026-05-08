@@ -29,3 +29,7 @@ FB貼文分析了Equity Put/Call ratio個股放空比移動平均已快速反轉
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-04-08_%E9%80%B1%E4%B8%80%E5%B0%B1%E5%9C%A8PressPlay%E7%BE%8E%E8%82%A1%E5%B8%82%E5%A0%B4%E8%B6%A8%E5%8B%A2%E6%96%87%E5%88%86%E6%9E%90%E7%9C%BE%E5%A4%9A%E8%B7%A1%E8%B1%A1%E9%A1%AF%E7%A4%BA%E7%BE%8E%E8%82%A1%E5%B7%B2%E7%B6%93%E8%A6%8B%E5%BA%95%E6%A9%9F%E7%8E%87%E9%AB%98%E5%B8%82%E5%A0%B4%E6%A5%B5%E5%BA%A6%E6%82%B2%E8%A7%80.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-04-08_%E9%80%B1%E4%B8%80%E5%B0%B1%E5%9C%A8PressPlay%E7%BE%8E%E8%82%A1%E5%B8%82%E5%A0%B4%E8%B6%A8%E5%8B%A2%E6%96%87%E5%88%86%E6%9E%90%E7%9C%BE%E5%A4%9A%E8%B7%A1%E8%B1%A1%E9%A1%AF%E7%A4%BA%E7%BE%8E%E8%82%A1%E5%B7%B2%E7%B6%93%E8%A6%8B%E5%BA%95%E6%A9%9F%E7%8E%87%E9%AB%98%E5%B8%82%E5%A0%B4%E6%A5%B5%E5%BA%A6%E6%82%B2%E8%A7%80.md&period=)

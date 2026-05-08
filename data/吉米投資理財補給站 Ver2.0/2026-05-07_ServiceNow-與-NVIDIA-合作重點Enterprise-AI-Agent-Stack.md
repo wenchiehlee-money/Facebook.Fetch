@@ -81,3 +81,11 @@ NVIDIA 提供的是「底層 AI 工廠（AI Factory）」能力：
 👉 兩者結合＝企業級 agentic AI 操作系統
 
 #我們剛剛加倉了 #NOW
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=HPE%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=HPE&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-05-07_ServiceNow-%E8%88%87-NVIDIA-%E5%90%88%E4%BD%9C%E9%87%8D%E9%BB%9EEnterprise-AI-Agent-Stack.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=HPE%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=HPE&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-05-07_ServiceNow-%E8%88%87-NVIDIA-%E5%90%88%E4%BD%9C%E9%87%8D%E9%BB%9EEnterprise-AI-Agent-Stack.md&period=)

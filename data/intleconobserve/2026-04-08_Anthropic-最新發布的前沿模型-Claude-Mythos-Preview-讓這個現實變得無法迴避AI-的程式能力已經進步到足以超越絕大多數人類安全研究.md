@@ -70,3 +70,11 @@ Project Glasswing 定位為長期工程的起點，而非一次性行動。Anthr
 Anthropic 也表達希望吸引更多 AI 業者加入，共同建立業界標準，並在中期引入獨立的第三方機構，整合公私部門資源，持續推進這些大規模網路安全專案。
 
 「軟體吃掉了世界，我們生活中的每一個類比面向都以某種方式存在於數位領域。我們的日常生活都建立在對這些系統的信賴之上。網路安全就是社會的安全。」Anthropic 在聲明中如此定位這項工作的重要性。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fintleconobserve%2F2026-04-08_Anthropic-%E6%9C%80%E6%96%B0%E7%99%BC%E5%B8%83%E7%9A%84%E5%89%8D%E6%B2%BF%E6%A8%A1%E5%9E%8B-Claude-Mythos-Preview-%E8%AE%93%E9%80%99%E5%80%8B%E7%8F%BE%E5%AF%A6%E8%AE%8A%E5%BE%97%E7%84%A1%E6%B3%95%E8%BF%B4%E9%81%BFAI-%E7%9A%84%E7%A8%8B%E5%BC%8F%E8%83%BD%E5%8A%9B%E5%B7%B2%E7%B6%93%E9%80%B2%E6%AD%A5%E5%88%B0%E8%B6%B3%E4%BB%A5%E8%B6%85%E8%B6%8A%E7%B5%95%E5%A4%A7%E5%A4%9A%E6%95%B8%E4%BA%BA%E9%A1%9E%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fintleconobserve%2F2026-04-08_Anthropic-%E6%9C%80%E6%96%B0%E7%99%BC%E5%B8%83%E7%9A%84%E5%89%8D%E6%B2%BF%E6%A8%A1%E5%9E%8B-Claude-Mythos-Preview-%E8%AE%93%E9%80%99%E5%80%8B%E7%8F%BE%E5%AF%A6%E8%AE%8A%E5%BE%97%E7%84%A1%E6%B3%95%E8%BF%B4%E9%81%BFAI-%E7%9A%84%E7%A8%8B%E5%BC%8F%E8%83%BD%E5%8A%9B%E5%B7%B2%E7%B6%93%E9%80%B2%E6%AD%A5%E5%88%B0%E8%B6%B3%E4%BB%A5%E8%B6%85%E8%B6%8A%E7%B5%95%E5%A4%A7%E5%A4%9A%E6%95%B8%E4%BA%BA%E9%A1%9E%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6.md&period=)

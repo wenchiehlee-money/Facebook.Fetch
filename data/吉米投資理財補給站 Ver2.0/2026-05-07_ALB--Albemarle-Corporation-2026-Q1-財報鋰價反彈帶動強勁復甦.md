@@ -45,3 +45,11 @@ page_canonical_url: ""
 「儲能與 Specialties 業務的價格與銷量提升，加上持續推動成本控制與生產效率改善，是本季業績成長的主要驅動力。」
 
 讓 Amber姐姐美股投資週記看一下🤣🤭
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=NVDA%202026%20Q1%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=NVDA&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-05-07_ALB--Albemarle-Corporation-2026-Q1-%E8%B2%A1%E5%A0%B1%E9%8B%B0%E5%83%B9%E5%8F%8D%E5%BD%88%E5%B8%B6%E5%8B%95%E5%BC%B7%E5%8B%81%E5%BE%A9%E7%94%A6.md&period=2026%20Q1)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=NVDA%202026%20Q1%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=NVDA&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-05-07_ALB--Albemarle-Corporation-2026-Q1-%E8%B2%A1%E5%A0%B1%E9%8B%B0%E5%83%B9%E5%8F%8D%E5%BD%88%E5%B8%B6%E5%8B%95%E5%BC%B7%E5%8B%81%E5%BE%A9%E7%94%A6.md&period=2026%20Q1)

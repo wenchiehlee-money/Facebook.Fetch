@@ -28,3 +28,11 @@ page_canonical_url: ""
 Anthropic 從「只提供模型」進化成直接提供 Agent 完整運行基礎設施，讓企業不用自己搭建或依賴第三方 infra 就能把 agent 推上生產環境
 
 過去 SaaS 靠 per-seat subscription + 複雜 UI 包裝各種業務流程（CRM、data analysis、document handling、合規等）。現在 Claude Managed Agents（加上之前的 Cowork plugins）讓企業用自然語言指令就能讓 agent 自主完成多步驟工作，減少對多個專門 SaaS 工具的需求。市場預期未來很多「薄包裝」（thin wrapper）SaaS 會被自訂 agent 取代，導致訂閱收入崩跌。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fintleconobserve%2F2026-04-10_%E7%A7%91%E6%8A%80%E8%BB%9F%E7%A1%AC%E9%AB%94%E5%86%B0%E7%81%AB%E5%85%A9%E9%87%8D%E5%A4%A9%E6%95%B4%E5%80%8BSaaS%E6%9D%BF%E5%A1%8A%E5%9C%A8Anthropic%E6%8E%A8%E5%87%BAClaude-Managed-Agents%E5%BE%8C%E5%BE%88%E6%98%8E%E9%A1%AF%E7%9A%84%E8%A2%AB%E9%87%9D%E5%B0%8D.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fintleconobserve%2F2026-04-10_%E7%A7%91%E6%8A%80%E8%BB%9F%E7%A1%AC%E9%AB%94%E5%86%B0%E7%81%AB%E5%85%A9%E9%87%8D%E5%A4%A9%E6%95%B4%E5%80%8BSaaS%E6%9D%BF%E5%A1%8A%E5%9C%A8Anthropic%E6%8E%A8%E5%87%BAClaude-Managed-Agents%E5%BE%8C%E5%BE%88%E6%98%8E%E9%A1%AF%E7%9A%84%E8%A2%AB%E9%87%9D%E5%B0%8D.md&period=)

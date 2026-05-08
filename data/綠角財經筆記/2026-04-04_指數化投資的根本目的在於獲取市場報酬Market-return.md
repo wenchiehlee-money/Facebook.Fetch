@@ -101,3 +101,7 @@ page_canonical_url: "https://www.facebook.com/GreenHornFans"
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-04_%E6%8C%87%E6%95%B8%E5%8C%96%E6%8A%95%E8%B3%87%E7%9A%84%E6%A0%B9%E6%9C%AC%E7%9B%AE%E7%9A%84%E5%9C%A8%E6%96%BC%E7%8D%B2%E5%8F%96%E5%B8%82%E5%A0%B4%E5%A0%B1%E9%85%ACMarket-return.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-04_%E6%8C%87%E6%95%B8%E5%8C%96%E6%8A%95%E8%B3%87%E7%9A%84%E6%A0%B9%E6%9C%AC%E7%9B%AE%E7%9A%84%E5%9C%A8%E6%96%BC%E7%8D%B2%E5%8F%96%E5%B8%82%E5%A0%B4%E5%A0%B1%E9%85%ACMarket-return.md&period=)

@@ -39,3 +39,7 @@ IB可以自行設定
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-03-23_%E5%9C%A8%E6%88%91%E4%BD%BF%E7%94%A8%E7%9A%84%E5%90%84%E5%AE%B6%E7%BE%8E%E5%9C%8B%E5%88%B8%E5%95%86%E4%B8%ADInteractive-Brokers%E7%9A%84%E5%B8%B3%E6%88%B6%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A%E6%98%AF%E6%9C%80%E6%9C%89%E5%BD%88%E6%80%A7%E7%9A%84.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-03-23_%E5%9C%A8%E6%88%91%E4%BD%BF%E7%94%A8%E7%9A%84%E5%90%84%E5%AE%B6%E7%BE%8E%E5%9C%8B%E5%88%B8%E5%95%86%E4%B8%ADInteractive-Brokers%E7%9A%84%E5%B8%B3%E6%88%B6%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A%E6%98%AF%E6%9C%80%E6%9C%89%E5%BD%88%E6%80%A7%E7%9A%84.md&period=)

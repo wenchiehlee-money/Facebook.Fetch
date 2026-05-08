@@ -29,3 +29,7 @@ page_canonical_url: "https://www.facebook.com/FinGuider"
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-10_%E7%A7%91%E6%8A%80%E5%AA%92%E9%AB%94The-Information%E5%A0%B1%E5%B0%8ESpaceX-%E5%8E%BB%E5%B9%B4%E7%87%9F%E6%94%B6%E8%B6%85%E9%81%8E-185-%E5%84%84%E7%BE%8E%E5%85%83%E9%AB%98%E6%96%BC%E5%B8%82%E5%A0%B4%E9%A0%90%E6%9C%9F%E7%9A%84-150160-%E5%84%84%E4%B8%8D%E9%81%8E%E5%9C%A8%E5%90%88%E4%BD%B5%E8%A8%88%E7%AE%97-xAI-%E8%B2%A1%E5%8B%99%E6%95%B8%E6%93%9A%E5%BE%8C%E6%9C%80%E7%B5%82%E6%8F%B9%E8%B2%A0%E8%BF%91.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-10_%E7%A7%91%E6%8A%80%E5%AA%92%E9%AB%94The-Information%E5%A0%B1%E5%B0%8ESpaceX-%E5%8E%BB%E5%B9%B4%E7%87%9F%E6%94%B6%E8%B6%85%E9%81%8E-185-%E5%84%84%E7%BE%8E%E5%85%83%E9%AB%98%E6%96%BC%E5%B8%82%E5%A0%B4%E9%A0%90%E6%9C%9F%E7%9A%84-150160-%E5%84%84%E4%B8%8D%E9%81%8E%E5%9C%A8%E5%90%88%E4%BD%B5%E8%A8%88%E7%AE%97-xAI-%E8%B2%A1%E5%8B%99%E6%95%B8%E6%93%9A%E5%BE%8C%E6%9C%80%E7%B5%82%E6%8F%B9%E8%B2%A0%E8%BF%91.md&period=)

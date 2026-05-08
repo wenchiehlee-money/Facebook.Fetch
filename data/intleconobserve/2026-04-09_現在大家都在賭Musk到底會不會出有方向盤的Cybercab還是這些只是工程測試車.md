@@ -23,3 +23,11 @@ page_canonical_url: ""
 現在大家都在賭Musk到底會不會出有方向盤的Cybercab，還是這些只是工程測試車
 
 長線我們當然都知道目標是不用方向盤自動駕駛，但是Musk會頭那麼鐵把需要數百萬輛大量量產的產品賭各國監管放不放你通過嗎？
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=MU%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=MU&file_path=data%2Fintleconobserve%2F2026-04-09_%E7%8F%BE%E5%9C%A8%E5%A4%A7%E5%AE%B6%E9%83%BD%E5%9C%A8%E8%B3%ADMusk%E5%88%B0%E5%BA%95%E6%9C%83%E4%B8%8D%E6%9C%83%E5%87%BA%E6%9C%89%E6%96%B9%E5%90%91%E7%9B%A4%E7%9A%84Cybercab%E9%82%84%E6%98%AF%E9%80%99%E4%BA%9B%E5%8F%AA%E6%98%AF%E5%B7%A5%E7%A8%8B%E6%B8%AC%E8%A9%A6%E8%BB%8A.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=MU%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=MU&file_path=data%2Fintleconobserve%2F2026-04-09_%E7%8F%BE%E5%9C%A8%E5%A4%A7%E5%AE%B6%E9%83%BD%E5%9C%A8%E8%B3%ADMusk%E5%88%B0%E5%BA%95%E6%9C%83%E4%B8%8D%E6%9C%83%E5%87%BA%E6%9C%89%E6%96%B9%E5%90%91%E7%9B%A4%E7%9A%84Cybercab%E9%82%84%E6%98%AF%E9%80%99%E4%BA%9B%E5%8F%AA%E6%98%AF%E5%B7%A5%E7%A8%8B%E6%B8%AC%E8%A9%A6%E8%BB%8A.md&period=)

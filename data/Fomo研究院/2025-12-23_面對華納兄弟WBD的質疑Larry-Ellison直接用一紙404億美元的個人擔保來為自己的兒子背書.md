@@ -83,3 +83,7 @@ Netflix路線，則代表著「矽谷入侵的終章」。
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2025%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2025&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-23_%E9%9D%A2%E5%B0%8D%E8%8F%AF%E7%B4%8D%E5%85%84%E5%BC%9FWBD%E7%9A%84%E8%B3%AA%E7%96%91Larry-Ellison%E7%9B%B4%E6%8E%A5%E7%94%A8%E4%B8%80%E7%B4%99404%E5%84%84%E7%BE%8E%E5%85%83%E7%9A%84%E5%80%8B%E4%BA%BA%E6%93%94%E4%BF%9D%E4%BE%86%E7%82%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%85%92%E5%AD%90%E8%83%8C%E6%9B%B8.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-23_%E9%9D%A2%E5%B0%8D%E8%8F%AF%E7%B4%8D%E5%85%84%E5%BC%9FWBD%E7%9A%84%E8%B3%AA%E7%96%91Larry-Ellison%E7%9B%B4%E6%8E%A5%E7%94%A8%E4%B8%80%E7%B4%99404%E5%84%84%E7%BE%8E%E5%85%83%E7%9A%84%E5%80%8B%E4%BA%BA%E6%93%94%E4%BF%9D%E4%BE%86%E7%82%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%85%92%E5%AD%90%E8%83%8C%E6%9B%B8.md&period=)

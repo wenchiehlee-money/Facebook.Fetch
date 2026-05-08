@@ -48,3 +48,11 @@ page_canonical_url: ""
 👉 這波上漲，不只是題材，而是「資金 + 巨頭背書」共同推動的 re-rating
 
 #已 633%
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=LNVGY%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=LNVGY&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-05-04_Nebius-Group-%E5%BC%B7%E5%8B%A2%E5%89%B5%E9%AB%98%E8%83%8C%E5%BE%8C%E4%B8%8D%E5%8F%AA%E6%98%AF%E8%82%A1%E5%83%B9%E8%A1%8C%E6%83%85%E8%80%8C%E6%98%AF%E6%88%B0%E7%95%A5%E8%B3%87%E9%87%91%E4%BF%A1%E8%99%9F.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=LNVGY%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=LNVGY&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-05-04_Nebius-Group-%E5%BC%B7%E5%8B%A2%E5%89%B5%E9%AB%98%E8%83%8C%E5%BE%8C%E4%B8%8D%E5%8F%AA%E6%98%AF%E8%82%A1%E5%83%B9%E8%A1%8C%E6%83%85%E8%80%8C%E6%98%AF%E6%88%B0%E7%95%A5%E8%B3%87%E9%87%91%E4%BF%A1%E8%99%9F.md&period=)

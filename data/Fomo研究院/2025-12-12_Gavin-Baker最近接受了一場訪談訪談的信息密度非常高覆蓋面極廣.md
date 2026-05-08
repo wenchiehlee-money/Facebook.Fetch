@@ -141,3 +141,7 @@ p.s. 最新一期深入分析已經發出，主角是「美股七巨頭」中今
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2025%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2025&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-12_Gavin-Baker%E6%9C%80%E8%BF%91%E6%8E%A5%E5%8F%97%E4%BA%86%E4%B8%80%E5%A0%B4%E8%A8%AA%E8%AB%87%E8%A8%AA%E8%AB%87%E7%9A%84%E4%BF%A1%E6%81%AF%E5%AF%86%E5%BA%A6%E9%9D%9E%E5%B8%B8%E9%AB%98%E8%A6%86%E8%93%8B%E9%9D%A2%E6%A5%B5%E5%BB%A3.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2025-12-12_Gavin-Baker%E6%9C%80%E8%BF%91%E6%8E%A5%E5%8F%97%E4%BA%86%E4%B8%80%E5%A0%B4%E8%A8%AA%E8%AB%87%E8%A8%AA%E8%AB%87%E7%9A%84%E4%BF%A1%E6%81%AF%E5%AF%86%E5%BA%A6%E9%9D%9E%E5%B8%B8%E9%AB%98%E8%A6%86%E8%93%8B%E9%9D%A2%E6%A5%B5%E5%BB%A3.md&period=)

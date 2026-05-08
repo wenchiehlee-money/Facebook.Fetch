@@ -29,3 +29,7 @@ page_canonical_url: "https://www.facebook.com/yutinghaosfinance"
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E6%B8%B8%E5%BA%AD%E7%9A%93%E7%9A%84%E8%B2%A1%E7%B6%93%E7%9A%93%E8%A7%92%2F2026-05-02_%E7%BE%8E%E5%9C%8B%E4%BA%BA%E8%B6%8A%E4%BE%86%E8%B6%8A%E6%84%9BHello-Kitty%E4%B8%89%E9%BA%97%E9%B7%97%E5%9C%A8%E5%8C%97%E7%BE%8E%E5%B8%82%E5%A0%B4%E6%9B%BE%E9%95%B7%E6%9C%9F%E4%BD%8E%E8%BF%B7%E7%94%9A%E8%87%B3%E7%B6%93%E6%AD%B7%E9%80%A3%E7%BA%8C7%E6%9C%9F%E7%87%9F%E6%94%B6%E4%B8%8B%E6%BB%91%E4%BD%86%E8%BF%91%E5%B9%B4%E5%8D%BB%E5%87%BA%E7%8F%BE%E6%98%8E%E9%A1%AFV%E5%9E%8B%E5%8F%8D%E8%BD%89.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E6%B8%B8%E5%BA%AD%E7%9A%93%E7%9A%84%E8%B2%A1%E7%B6%93%E7%9A%93%E8%A7%92%2F2026-05-02_%E7%BE%8E%E5%9C%8B%E4%BA%BA%E8%B6%8A%E4%BE%86%E8%B6%8A%E6%84%9BHello-Kitty%E4%B8%89%E9%BA%97%E9%B7%97%E5%9C%A8%E5%8C%97%E7%BE%8E%E5%B8%82%E5%A0%B4%E6%9B%BE%E9%95%B7%E6%9C%9F%E4%BD%8E%E8%BF%B7%E7%94%9A%E8%87%B3%E7%B6%93%E6%AD%B7%E9%80%A3%E7%BA%8C7%E6%9C%9F%E7%87%9F%E6%94%B6%E4%B8%8B%E6%BB%91%E4%BD%86%E8%BF%91%E5%B9%B4%E5%8D%BB%E5%87%BA%E7%8F%BE%E6%98%8E%E9%A1%AFV%E5%9E%8B%E5%8F%8D%E8%BD%89.md&period=)

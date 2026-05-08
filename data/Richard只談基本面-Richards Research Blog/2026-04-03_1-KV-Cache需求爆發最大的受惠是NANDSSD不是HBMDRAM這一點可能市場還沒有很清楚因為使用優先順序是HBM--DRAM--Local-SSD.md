@@ -73,3 +73,7 @@ https://www.eet-china.com/news/202604023162.html
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-04-03_1-KV-Cache%E9%9C%80%E6%B1%82%E7%88%86%E7%99%BC%E6%9C%80%E5%A4%A7%E7%9A%84%E5%8F%97%E6%83%A0%E6%98%AFNANDSSD%E4%B8%8D%E6%98%AFHBMDRAM%E9%80%99%E4%B8%80%E9%BB%9E%E5%8F%AF%E8%83%BD%E5%B8%82%E5%A0%B4%E9%82%84%E6%B2%92%E6%9C%89%E5%BE%88%E6%B8%85%E6%A5%9A%E5%9B%A0%E7%82%BA%E4%BD%BF%E7%94%A8%E5%84%AA%E5%85%88%E9%A0%86%E5%BA%8F%E6%98%AFHBM--DRAM--Local-SSD.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FRichard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog%2F2026-04-03_1-KV-Cache%E9%9C%80%E6%B1%82%E7%88%86%E7%99%BC%E6%9C%80%E5%A4%A7%E7%9A%84%E5%8F%97%E6%83%A0%E6%98%AFNANDSSD%E4%B8%8D%E6%98%AFHBMDRAM%E9%80%99%E4%B8%80%E9%BB%9E%E5%8F%AF%E8%83%BD%E5%B8%82%E5%A0%B4%E9%82%84%E6%B2%92%E6%9C%89%E5%BE%88%E6%B8%85%E6%A5%9A%E5%9B%A0%E7%82%BA%E4%BD%BF%E7%94%A8%E5%84%AA%E5%85%88%E9%A0%86%E5%BA%8F%E6%98%AFHBM--DRAM--Local-SSD.md&period=)

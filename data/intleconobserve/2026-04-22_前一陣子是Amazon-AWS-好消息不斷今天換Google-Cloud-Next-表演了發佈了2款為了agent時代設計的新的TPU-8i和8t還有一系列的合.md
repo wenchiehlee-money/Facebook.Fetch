@@ -25,3 +25,11 @@ page_canonical_url: ""
 TPU 8t旨在將前沿模型開發週期從數月縮短至數週。透過平衡盡可能高的運算吞吐量、共享記憶體和晶片間頻寬，以及盡可能高的能源效率和高效的運算時間，我們打造出一個系統，其每個Pod的運算效能比上一代產品提升近3倍，從而加速創新，確保我們的客戶繼續引領產業發展。
 
  TPU 8i 旨在處理眾多專業智能體複雜、協作且迭代的工作，這些智能體通常會在複雜的流程中「集群」協作，為最具挑戰性的任務提供解決方案和見解。
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2Fintleconobserve%2F2026-04-22_%E5%89%8D%E4%B8%80%E9%99%A3%E5%AD%90%E6%98%AFAmazon-AWS-%E5%A5%BD%E6%B6%88%E6%81%AF%E4%B8%8D%E6%96%B7%E4%BB%8A%E5%A4%A9%E6%8F%9BGoogle-Cloud-Next-%E8%A1%A8%E6%BC%94%E4%BA%86%E7%99%BC%E4%BD%88%E4%BA%862%E6%AC%BE%E7%82%BA%E4%BA%86agent%E6%99%82%E4%BB%A3%E8%A8%AD%E8%A8%88%E7%9A%84%E6%96%B0%E7%9A%84TPU-8i%E5%92%8C8t%E9%82%84%E6%9C%89%E4%B8%80%E7%B3%BB%E5%88%97%E7%9A%84%E5%90%88.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2Fintleconobserve%2F2026-04-22_%E5%89%8D%E4%B8%80%E9%99%A3%E5%AD%90%E6%98%AFAmazon-AWS-%E5%A5%BD%E6%B6%88%E6%81%AF%E4%B8%8D%E6%96%B7%E4%BB%8A%E5%A4%A9%E6%8F%9BGoogle-Cloud-Next-%E8%A1%A8%E6%BC%94%E4%BA%86%E7%99%BC%E4%BD%88%E4%BA%862%E6%AC%BE%E7%82%BA%E4%BA%86agent%E6%99%82%E4%BB%A3%E8%A8%AD%E8%A8%88%E7%9A%84%E6%96%B0%E7%9A%84TPU-8i%E5%92%8C8t%E9%82%84%E6%9C%89%E4%B8%80%E7%B3%BB%E5%88%97%E7%9A%84%E5%90%88.md&period=)

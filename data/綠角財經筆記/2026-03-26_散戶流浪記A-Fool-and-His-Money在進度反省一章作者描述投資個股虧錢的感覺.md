@@ -55,3 +55,7 @@ page_canonical_url: "https://www.facebook.com/GreenHornFans"
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-03-26_%E6%95%A3%E6%88%B6%E6%B5%81%E6%B5%AA%E8%A8%98A-Fool-and-His-Money%E5%9C%A8%E9%80%B2%E5%BA%A6%E5%8F%8D%E7%9C%81%E4%B8%80%E7%AB%A0%E4%BD%9C%E8%80%85%E6%8F%8F%E8%BF%B0%E6%8A%95%E8%B3%87%E5%80%8B%E8%82%A1%E8%99%A7%E9%8C%A2%E7%9A%84%E6%84%9F%E8%A6%BA.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-03-26_%E6%95%A3%E6%88%B6%E6%B5%81%E6%B5%AA%E8%A8%98A-Fool-and-His-Money%E5%9C%A8%E9%80%B2%E5%BA%A6%E5%8F%8D%E7%9C%81%E4%B8%80%E7%AB%A0%E4%BD%9C%E8%80%85%E6%8F%8F%E8%BF%B0%E6%8A%95%E8%B3%87%E5%80%8B%E8%82%A1%E8%99%A7%E9%8C%A2%E7%9A%84%E6%84%9F%E8%A6%BA.md&period=)

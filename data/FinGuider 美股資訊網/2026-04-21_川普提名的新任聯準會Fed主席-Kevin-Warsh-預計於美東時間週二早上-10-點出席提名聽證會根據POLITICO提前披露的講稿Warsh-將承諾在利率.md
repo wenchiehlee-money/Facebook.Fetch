@@ -35,3 +35,7 @@ page_canonical_url: "https://www.facebook.com/FinGuider"
 
 ---
 [📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-21_%E5%B7%9D%E6%99%AE%E6%8F%90%E5%90%8D%E7%9A%84%E6%96%B0%E4%BB%BB%E8%81%AF%E6%BA%96%E6%9C%83Fed%E4%B8%BB%E5%B8%AD-Kevin-Warsh-%E9%A0%90%E8%A8%88%E6%96%BC%E7%BE%8E%E6%9D%B1%E6%99%82%E9%96%93%E9%80%B1%E4%BA%8C%E6%97%A9%E4%B8%8A-10-%E9%BB%9E%E5%87%BA%E5%B8%AD%E6%8F%90%E5%90%8D%E8%81%BD%E8%AD%89%E6%9C%83%E6%A0%B9%E6%93%9APOLITICO%E6%8F%90%E5%89%8D%E6%8A%AB%E9%9C%B2%E7%9A%84%E8%AC%9B%E7%A8%BFWarsh-%E5%B0%87%E6%89%BF%E8%AB%BE%E5%9C%A8%E5%88%A9%E7%8E%87.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-21_%E5%B7%9D%E6%99%AE%E6%8F%90%E5%90%8D%E7%9A%84%E6%96%B0%E4%BB%BB%E8%81%AF%E6%BA%96%E6%9C%83Fed%E4%B8%BB%E5%B8%AD-Kevin-Warsh-%E9%A0%90%E8%A8%88%E6%96%BC%E7%BE%8E%E6%9D%B1%E6%99%82%E9%96%93%E9%80%B1%E4%BA%8C%E6%97%A9%E4%B8%8A-10-%E9%BB%9E%E5%87%BA%E5%B8%AD%E6%8F%90%E5%90%8D%E8%81%BD%E8%AD%89%E6%9C%83%E6%A0%B9%E6%93%9APOLITICO%E6%8F%90%E5%89%8D%E6%8A%AB%E9%9C%B2%E7%9A%84%E8%AC%9B%E7%A8%BFWarsh-%E5%B0%87%E6%89%BF%E8%AB%BE%E5%9C%A8%E5%88%A9%E7%8E%87.md&period=)

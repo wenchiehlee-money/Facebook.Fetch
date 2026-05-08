@@ -48,3 +48,11 @@ AI 不再只是生成內容，而是：
 AI 正從「生成內容工具」進化成「執行工作的代理人」，帶動算力需求爆炸 + 商業價值正式落地。
 
 #摘自他今天在CNBC上的演講
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-05-06_Jensen-HuangAgentic-AI-%E8%AE%93%E7%AE%97%E5%8A%9B%E9%9C%80%E6%B1%82%E6%9A%B4%E5%A2%9E-10-%E5%80%8DAI-%E6%AD%A3%E5%BC%8F%E5%BE%9E%E5%B7%A5%E5%85%B7%E8%AE%8A%E6%88%90%E7%94%9F%E7%94%A2%E5%8A%9B%E5%BC%95%E6%93%8E.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0%2F2026-05-06_Jensen-HuangAgentic-AI-%E8%AE%93%E7%AE%97%E5%8A%9B%E9%9C%80%E6%B1%82%E6%9A%B4%E5%A2%9E-10-%E5%80%8DAI-%E6%AD%A3%E5%BC%8F%E5%BE%9E%E5%B7%A5%E5%85%B7%E8%AE%8A%E6%88%90%E7%94%9F%E7%94%A2%E5%8A%9B%E5%BC%95%E6%93%8E.md&period=)
