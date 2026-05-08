@@ -43,9 +43,9 @@ jobs:
                              env={**os.environ})
               exit(1)
 
-          # Read daily_fetch.yml
-          workflow_path = ".github/workflows/daily_fetch.yml"
-          content = open(workflow_path, encoding="utf-8").read()
+          # Read fetch_urls.txt (avoids workflow permission issues)
+          urls_path = "data/fetch_urls.txt"
+          content = open(urls_path, encoding="utf-8").read()
 
           # Check if URL already exists
           if facebook_url in content:
@@ -55,25 +55,15 @@ jobs:
               subprocess.run(["gh", "issue", "close", issue_num], env={**os.environ})
               exit(0)
 
-          # Add URL to the urls array in daily_fetch.yml
-          new_line = f'            "{facebook_url}"'
-          updated = re.sub(
-              r'((\s+"\s*https://www\.facebook\.com/[^\n]+"\n)+)(\s+\))',
-              lambda m: m.group(0).rstrip(")\n") + f"\n{new_line}\n          )",
-              content
-          )
-
-          if updated == content:
-              print("ERROR: Could not find urls array to insert")
-              exit(1)
-
-          open(workflow_path, "w", encoding="utf-8").write(updated)
+          # Append URL to fetch_urls.txt
+          updated = content.rstrip("\n") + f"\n{facebook_url}\n"
+          open(urls_path, "w", encoding="utf-8").write(updated)
 
           # Commit and push
           subprocess.run(["git", "config", "user.name", "github-actions[bot]"])
           subprocess.run(["git", "config", "user.email",
                           "41898282+github-actions[bot]@users.noreply.github.com"])
-          subprocess.run(["git", "add", workflow_path])
+          subprocess.run(["git", "add", urls_path])
           subprocess.run(["git", "commit", "-m",
                           f"feat: add {group_name} to daily fetch (from issue #{issue_num})"])
           subprocess.run(["git", "push"])

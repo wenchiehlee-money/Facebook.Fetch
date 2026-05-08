@@ -29,29 +29,13 @@ jobs:
         env:
           FB_COOKIE: ${{ secrets.FB_COOKIE }}
         run: |
-          # Use an array of URLs to fetch multiple pages
-          urls=(
-            "https://www.facebook.com/dextermchang"
-            "https://www.facebook.com/yutinghaosfinance"
-            "https://www.facebook.com/MarketingDataScienceTMR"
-            "https://www.facebook.com/FinGuider"
-            "https://www.facebook.com/GreenHornFans"
-            "https://www.facebook.com/stocksardine"
-            "https://www.facebook.com/raikk6"
-            "https://www.facebook.com/profile.php?id=61573146584049"
-            "https://www.facebook.com/ForexStrategist"
-            "https://www.facebook.com/profile.php?id=61578106860333"
-            "https://www.facebook.com/profile.php?id=100054201473657"
-            "https://www.facebook.com/intleconobserve"
-            "https://www.facebook.com/profile.php?id=61565088683715"
-          )
-          for url in "${urls[@]}"; do
+          # Read URLs from data/fetch_urls.txt (one per line, # = comment)
+          while IFS= read -r url; do
+            [[ "$url" =~ ^#.*$ || -z "$url" ]] && continue
             echo "::group::Fetching $url"
-            # We pass the cookie secret; if not set, it will be empty string which the script handles.
-            # Use '|| true' or handle error to ensure one failure doesn't stop the whole process.
             python3 fetch_facebook_posts.py "$url" --count 20 --cookie "$FB_COOKIE" || echo "Warning: Failed to fetch $url"
             echo "::endgroup::"
-          done
+          done < data/fetch_urls.txt
 
       - name: Fetch saved lists
         env:
