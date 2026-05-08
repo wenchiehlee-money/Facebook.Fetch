@@ -6,7 +6,7 @@ on:
 
 jobs:
   add-group:
-    if: contains(github.event.issue.labels.*.name, 'add-group')
+    if: contains(github.event.issue.labels.*.name, 'add-group') || startsWith(github.event.issue.title, '新增群組')
     runs-on: ubuntu-latest
     permissions:
       contents: write
