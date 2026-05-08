@@ -1,0 +1,86 @@
+name: Add Group Handler
+
+on:
+  issues:
+    types: [opened, reopened]
+
+jobs:
+  add-group:
+    if: contains(github.event.issue.labels.*.name, 'add-group')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Parse issue and add group
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'PYEOF'
+          import os, re, subprocess
+
+          body = os.environ["ISSUE_BODY"]
+          issue_num = os.environ["ISSUE_NUMBER"]
+
+          # Parse form fields from GitHub issue body
+          def extract_field(label, text):
+              m = re.search(rf"###\s*{re.escape(label)}\s*\n+(.+?)(?:\n###|\Z)", text, re.DOTALL)
+              return m.group(1).strip() if m else ""
+
+          group_name  = extract_field("粉專名稱", body)
+          facebook_url = extract_field("Facebook 頁面 URL", body)
+
+          if not group_name or not facebook_url:
+              print("ERROR: Missing group_name or facebook_url")
+              subprocess.run(["gh", "issue", "comment", issue_num,
+                              "--body", "❌ 無法解析粉專名稱或 URL，請確認 issue 格式正確。"],
+                             env={**os.environ})
+              exit(1)
+
+          # Read daily_fetch.yml
+          workflow_path = ".github/workflows/daily_fetch.yml"
+          content = open(workflow_path, encoding="utf-8").read()
+
+          # Check if URL already exists
+          if facebook_url in content:
+              msg = f"ℹ️ `{facebook_url}` 已在每日抓取清單中，無需重複新增。"
+              subprocess.run(["gh", "issue", "comment", issue_num, "--body", msg],
+                             env={**os.environ})
+              subprocess.run(["gh", "issue", "close", issue_num], env={**os.environ})
+              exit(0)
+
+          # Add URL to the urls array in daily_fetch.yml
+          new_line = f'            "{facebook_url}"'
+          updated = re.sub(
+              r'((\s+"\s*https://www\.facebook\.com/[^\n]+"\n)+)(\s+\))',
+              lambda m: m.group(0).rstrip(")\n") + f"\n{new_line}\n          )",
+              content
+          )
+
+          if updated == content:
+              print("ERROR: Could not find urls array to insert")
+              exit(1)
+
+          open(workflow_path, "w", encoding="utf-8").write(updated)
+
+          # Commit and push
+          subprocess.run(["git", "config", "user.name", "github-actions[bot]"])
+          subprocess.run(["git", "config", "user.email",
+                          "41898282+github-actions[bot]@users.noreply.github.com"])
+          subprocess.run(["git", "add", workflow_path])
+          subprocess.run(["git", "commit", "-m",
+                          f"feat: add {group_name} to daily fetch (from issue #{issue_num})"])
+          subprocess.run(["git", "push"])
+
+          # Comment and close issue
+          msg = f"✅ 已將 **{group_name}** (`{facebook_url}`) 加入每日抓取清單。\n\n下次 Daily Fetch 執行時會開始收錄此粉專的貼文。"
+          subprocess.run(["gh", "issue", "comment", issue_num, "--body", msg],
+                         env={**os.environ})
+          subprocess.run(["gh", "issue", "close", issue_num], env={**os.environ})
+          PYEOF

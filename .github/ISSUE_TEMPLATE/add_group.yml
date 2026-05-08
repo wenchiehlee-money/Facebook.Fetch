@@ -1,0 +1,31 @@
+name: 新增追蹤群組
+description: 把一個 Facebook 粉專/個人頁面加入每日自動抓取清單
+title: "新增群組: "
+labels: ["add-group"]
+body:
+  - type: input
+    id: group_name
+    attributes:
+      label: 粉專名稱
+      description: Facebook 粉專的顯示名稱
+      placeholder: "例：IEObserve 國際經濟觀察"
+    validations:
+      required: true
+
+  - type: input
+    id: facebook_url
+    attributes:
+      label: Facebook 頁面 URL
+      description: 粉專的完整 Facebook 網址
+      placeholder: "https://www.facebook.com/intleconobserve"
+    validations:
+      required: true
+
+  - type: input
+    id: triggered_by
+    attributes:
+      label: 來源貼文（選填）
+      description: 是哪篇珍藏貼文觸發了這個請求
+      placeholder: "data/我的珍藏-股票/2026-05-08_xxx.md"
+    validations:
+      required: false
