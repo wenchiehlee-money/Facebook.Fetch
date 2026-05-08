@@ -841,6 +841,11 @@ def parse_args() -> argparse.Namespace:
         default=None,
         help="可選，直接傳入 Cookie header 內容以使用登入 session。",
     )
+    parser.add_argument(
+        "--page-name",
+        default=None,
+        help="覆蓋頁面名稱（用於 profile.php?id=... 等無法自動取得標題的 URL）",
+    )
     return parser.parse_args()
 
 
@@ -864,7 +869,7 @@ def main() -> int:
             return 1
 
     payload = build_output_payload(args.url, result, args.count, months_back=args.months_back)
-    page_title = payload.get("page", {}).get("title") or parse.urlsplit(args.url).path.strip("/") or "Facebook Page"
+    page_title = args.page_name or payload.get("page", {}).get("title") or parse.urlsplit(args.url).path.strip("/") or "Facebook Page"
     posts_dir = data_dir / slugify_text(page_title, limit=120, separator=" ")
     new_markdown_files, new_post_ids, removed_markdown_files = write_post_markdown_files(posts_dir, payload)
 
