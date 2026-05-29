@@ -1,7 +1,7 @@
 {
-  "requested_url": "https://www.facebook.com/intleconobserve",
-  "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-05-29T11:08:29.627271+00:00",
+  "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
+  "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
+  "fetched_at_utc": "2026-05-29T11:08:26.742587+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -14,7 +14,7 @@
   "new_post_ids": [],
   "new_markdown_files": [],
   "removed_markdown_files": [],
-  "posts_directory": "data/intleconobserve",
+  "posts_directory": "data/profilephp",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
     "本次公開 GraphQL 沒有回貼文，已退回 HTML 解析。",
