@@ -5,21 +5,43 @@
 <!-- AUTO-GENERATED:POSTS START -->
 ## 自動更新清單
 
-Updated: 2026-05-09 07:24 CST
+Updated: 2026-05-29 19:08 CST
+
+### [FinGuider](data/FinGuider/index.md) (已收錄: 0)
 
 ### [FinGuider 美股資訊網](data/FinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2/index.md) (已收錄: 98) - 5.9 萬位追蹤者
 
 ### [Fomo研究院](data/Fomo%E7%A0%94%E7%A9%B6%E9%99%A2/index.md) (已收錄: 297) - 9.7 萬位追蹤者
 
-### [intleconobserve](data/intleconobserve/index.md) (已收錄: 89)
+### [ForexStrategist](data/ForexStrategist/index.md) (已收錄: 0)
+
+### [GreenHornFans](data/GreenHornFans/index.md) (已收錄: 0)
+
+### [MarketingDataScienceTMR](data/MarketingDataScienceTMR/index.md) (已收錄: 0)
 
 ### [Richard只談基本面-Richard's Research Blog](data/Richard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog/index.md) (已收錄: 38) - 4.1 萬位追蹤者
 
+### [dextermchang](data/dextermchang/index.md) (已收錄: 0)
+
+### [ericlin77](data/ericlin77/index.md) (已收錄: 0)
+
+### [intleconobserve](data/intleconobserve/index.md) (已收錄: 89)
+
+### [profilephp](data/profilephp/index.md) (已收錄: 0)
+
+### [raikk6](data/raikk6/index.md) (已收錄: 0)
+
+### [stocksardine](data/stocksardine/index.md) (已收錄: 0)
+
+### [yutinghaosfinance](data/yutinghaosfinance/index.md) (已收錄: 0)
+
 ### [吉米投資理財補給站 Ver2.0](data/%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0/index.md) (已收錄: 110)
+
+### [吉米投資理財補給站 Ver20](data/%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver20/index.md) (已收錄: 0)
 
 ### [大會計師 張明輝](data/%E5%A4%A7%E6%9C%83%E8%A8%88%E5%B8%AB%20%E5%BC%B5%E6%98%8E%E8%BC%9D/index.md) (已收錄: 84) - 1.7 萬位追蹤者
 
-### [我的珍藏-股票](data/%E6%88%91%E7%9A%84%E7%8F%8D%E8%97%8F-%E8%82%A1%E7%A5%A8/index.md) (已收錄: 20)
+### [我的珍藏-股票](data/%E6%88%91%E7%9A%84%E7%8F%8D%E8%97%8F-%E8%82%A1%E7%A5%A8/index.md) (已收錄: 30)
 
 ### [李其展的外匯交易致勝兵法](data/%E6%9D%8E%E5%85%B6%E5%B1%95%E7%9A%84%E5%A4%96%E5%8C%AF%E4%BA%A4%E6%98%93%E8%87%B4%E5%8B%9D%E5%85%B5%E6%B3%95/index.md) (已收錄: 318) - 12.2 萬位追蹤者
 
@@ -29,6 +51,8 @@ Updated: 2026-05-09 07:24 CST
 
 ### [美股探路客](data/%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2/index.md) (已收錄: 89) - 5.4 萬位追蹤者
 
+### [美股老司機 30](data/%E7%BE%8E%E8%82%A1%E8%80%81%E5%8F%B8%E6%A9%9F%2030/index.md) (已收錄: 0)
+
 ### [股魚](data/%E8%82%A1%E9%AD%9A/index.md) (已收錄: 31) - 23.7 萬位追蹤者
 
 ### [萬鈞法人視野 WJ Capital Perspective](data/%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective/index.md) (已收錄: 91) - 6.1 萬位追蹤者
@@ -36,6 +60,41 @@ Updated: 2026-05-09 07:24 CST
 ### [行銷資料科學](data/%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8/index.md) (已收錄: 81) - 2.0 萬位追蹤者
 
 <!-- AUTO-GENERATED:POSTS END -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -165,14 +224,15 @@ python3 fetch_facebook_posts.py 'https://www.facebook.com/dextermchang' --count 
 1. 重設所有 `latest_fetch_summary.json` 的 `new_post_count` 為 0
 2. 依序抓取 `data/fetch_urls.txt` 內的所有頁面
 3. 重建 README 的「自動更新清單」並更新時間戳
-4. 有新貼文時 commit 貼文資料；沒有時僅 commit README 時間戳更新
+4. 更新 `raw_facebook_fetch.csv` 抓取記錄
+5. 有新貼文時 commit 貼文資料；沒有時僅 commit README 時間戳與 CSV 更新
 
 ## FB_COOKIE 維護
 
 workflow 需要 GitHub Secret `FB_COOKIE`（Facebook 登入 session）才能正常抓取。
 Cookie 約每 **3 個月**失效，失效後 workflow 仍會成功執行但新增貼文數為 0。
 
-**失效症狀：** Actions 頁面顯示 success，但 README 的 `Updated:` 時間雖每天更新，各頁面新增貼文數量持續為 0。
+**失效症狀：** Actions 頁面顯示 success，但各頁面新增貼文數量持續為 0。
 
 **更新步驟（需搭配 Claude Code + Chrome DevTools MCP）：**
 
