@@ -1,0 +1,33 @@
+name: Sync to biztrends.TW
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "raw_facebook_fetch.csv"
+      - "raw_column_definition.md"
+      - ".github/sync-to-biztrends.yml"
+      - ".github/workflows/sync-to-biztrends.yml"
+
+concurrency:
+  group: sync-biztrends
+  cancel-in-progress: true
+
+jobs:
+  sync-to-biztrends:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync to biztrends.TW
+        uses: BetaHuhn/repo-file-sync-action@latest
+        with:
+          GH_PAT: ${{ secrets.REPO_FILE_SYNC_WENCHIEHLEE_INVESTMENT }}
+          CONFIG_PATH: .github/sync-to-biztrends.yml
+          COMMIT_EACH_FILE: false
+          PR_LABELS: "automated-sync"
+          SKIP_PR: true

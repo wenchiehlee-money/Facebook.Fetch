@@ -1,0 +1,7 @@
+group:
+  - repository: wenchiehlee/biztrends.TW
+    files:
+      - source: raw_facebook_fetch.csv
+        dest: data/Facebook.Fetch/raw_facebook_fetch.csv
+      - source: raw_column_definition.md
+        dest: definitions/raw_column_definition_FacebookFetch.md
