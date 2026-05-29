@@ -112,9 +112,6 @@ Updated: 2026-05-09 07:24 CST
 
 
 
-
-
-
 ## 手動執行
 
 ```bash
@@ -163,14 +160,25 @@ python3 fetch_facebook_posts.py 'https://www.facebook.com/dextermchang' --count 
 
 ## GitHub Actions
 
-已新增每日排程 workflow：
+每日排程 workflow（`.github/workflows/daily_fetch.yml`）會：
 
-- `.github/workflows/daily_fetch.yml`
+1. 重設所有 `latest_fetch_summary.json` 的 `new_post_count` 為 0
+2. 依序抓取 `data/fetch_urls.txt` 內的所有頁面
+3. 重建 README 的「自動更新清單」並更新時間戳
+4. 有新貼文時 commit 貼文資料；沒有時僅 commit README 時間戳更新
 
-它會：
+## FB_COOKIE 維護
 
-1. 檢出程式碼
-2. 設定 Python 3.11
-3. 重設所有 `latest_fetch_summary.json` 的 `new_post_count` 為 0
-4. 依序抓取指定清單
-5. 如果有任何一個抓取結果 `new_post_count > 0`，則提交並推送到 `main`
+workflow 需要 GitHub Secret `FB_COOKIE`（Facebook 登入 session）才能正常抓取。
+Cookie 約每 **3 個月**失效，失效後 workflow 仍會成功執行但新增貼文數為 0。
+
+**失效症狀：** Actions 頁面顯示 success，但 README 的 `Updated:` 時間雖每天更新，各頁面新增貼文數量持續為 0。
+
+**更新步驟（需搭配 Claude Code + Chrome DevTools MCP）：**
+
+1. 確認 Chrome 已登入 Facebook
+2. 在 Claude Code 執行：
+   ```
+   ! python -X utf8 tools/update_fb_cookie.py
+   ```
+3. 腳本會自動從執行中的 Chrome 取得 cookie，更新 GitHub Secret 並觸發一次 workflow 驗證
