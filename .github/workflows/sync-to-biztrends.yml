@@ -24,7 +24,7 @@ jobs:
           fetch-depth: 0
 
       - name: Sync to biztrends.TW
-        uses: BetaHuhn/repo-file-sync-action@latest
+        uses: BetaHuhn/repo-file-sync-action@v1
         with:
           GH_PAT: ${{ secrets.REPO_FILE_SYNC_WENCHIEHLEE_MONEY }}
           CONFIG_PATH: .github/sync-to-biztrends.yml
