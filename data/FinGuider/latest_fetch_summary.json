@@ -1,7 +1,7 @@
 {
-  "requested_url": "https://www.facebook.com/raikk6",
-  "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-05-30T14:25:24.838269+00:00",
+  "requested_url": "https://www.facebook.com/FinGuider",
+  "final_url": "https://www.facebook.com/FinGuider",
+  "fetched_at_utc": "2026-05-30T14:25:12.807964+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -14,7 +14,7 @@
   "new_post_ids": [],
   "new_markdown_files": [],
   "removed_markdown_files": [],
-  "posts_directory": "data/raikk6",
+  "posts_directory": "data/FinGuider",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
     "本次公開 GraphQL 沒有回貼文，已退回 HTML 解析。",
