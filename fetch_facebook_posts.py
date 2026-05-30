@@ -869,6 +869,13 @@ def main() -> int:
             return 1
 
     payload = build_output_payload(args.url, result, args.count, months_back=args.months_back)
+    if cookie and payload.get("post_record_count", 0) == 0:
+        print("Cookie fetch returned 0 posts, falling back to public fetch...", file=sys.stderr)
+        try:
+            result = fetch_html(args.url, None)
+            payload = build_output_payload(args.url, result, args.count, months_back=args.months_back)
+        except Exception as exc:
+            print(f"Public fallback also failed: {exc}", file=sys.stderr)
     page_title = args.page_name or payload.get("page", {}).get("title") or parse.urlsplit(args.url).path.strip("/") or "Facebook Page"
     posts_dir = data_dir / slugify_text(page_title, limit=120, separator=" ")
     new_markdown_files, new_post_ids, removed_markdown_files = write_post_markdown_files(posts_dir, payload)
