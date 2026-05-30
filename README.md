@@ -5,7 +5,7 @@
 <!-- AUTO-GENERATED:POSTS START -->
 ## 自動更新清單
 
-Updated: 2026-05-30 22:47 CST
+Updated: 2026-05-30 22:49 CST
 
 ### [FinGuider 美股資訊網](data/FinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2/index.md) (已收錄: 98) - 6.1 萬位追蹤者
 
@@ -21,21 +21,53 @@ Updated: 2026-05-30 22:47 CST
 
 ### [我的珍藏-股票](data/%E6%88%91%E7%9A%84%E7%8F%8D%E8%97%8F-%E8%82%A1%E7%A5%A8/index.md) (已收錄: 32)
 
-### [李其展的外匯交易致勝兵法](data/%E6%9D%8E%E5%85%B6%E5%B1%95%E7%9A%84%E5%A4%96%E5%8C%AF%E4%BA%A4%E6%98%93%E8%87%B4%E5%8B%9D%E5%85%B5%E6%B3%95/index.md) (已收錄: 318) - 12.4 萬位追蹤者
+### [李其展的外匯交易致勝兵法](data/%E6%9D%8E%E5%85%B6%E5%B1%95%E7%9A%84%E5%A4%96%E5%8C%AF%E4%BA%A4%E6%98%93%E8%87%B4%E5%8B%9D%E5%85%B5%E6%B3%95/index.md) (已收錄: 318) - 12.2 萬位追蹤者
 
 ### [游庭皓的財經皓角](data/%E6%B8%B8%E5%BA%AD%E7%9A%93%E7%9A%84%E8%B2%A1%E7%B6%93%E7%9A%93%E8%A7%92/index.md) (已收錄: 364) - 35.1 萬位追蹤者
 
 ### [綠角財經筆記](data/%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98/index.md) (已收錄: 97) - 35.3 萬位追蹤者
 
-### [美股探路客](data/%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2/index.md) (已收錄: 89) - 5.5 萬位追蹤者
+### [美股探路客](data/%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2/index.md) (已收錄: 89) - 5.4 萬位追蹤者
 
-### [股魚](data/%E8%82%A1%E9%AD%9A/index.md) (已收錄: 31) - 24.1 萬位追蹤者
+### [股魚](data/%E8%82%A1%E9%AD%9A/index.md) (已收錄: 31) - 23.7 萬位追蹤者
 
 ### [萬鈞法人視野 WJ Capital Perspective](data/%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective/index.md) (已收錄: 91) - 6.4 萬位追蹤者
 
 ### [行銷資料科學](data/%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8/index.md) (已收錄: 81) - 2.0 萬位追蹤者
 
 <!-- AUTO-GENERATED:POSTS END -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
