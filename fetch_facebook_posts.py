@@ -256,7 +256,15 @@ def extract_post_records_from_html(html_text: str) -> list[dict[str, Any]]:
 def extract_public_graphql_context(html_text: str) -> dict[str, str] | None:
     lsd_match = re.search(r'\["LSD",\s*\[\],\s*\{"token":\s*"([^"]+)"\}', html_text)
     jazoest_match = re.search(r"jazoest[^0-9]{0,20}(\d{4,})", html_text)
-    user_id_match = re.search(r'"userID":"(\d+)"', html_text)
+    user_id_match = (
+        re.search(r'"userID"\s*:\s*"(\d+)"', html_text)
+        or re.search(r'"actorID"\s*:\s*"(\d+)"', html_text)
+        or re.search(r'"ownerID"\s*:\s*"(\d+)"', html_text)
+        or re.search(r'"pageID"\s*:\s*"(\d+)"', html_text)
+        or re.search(r'"profileID"\s*:\s*"(\d+)"', html_text)
+        or re.search(r'"owner"\s*:\s*\{[^}]*"id"\s*:\s*"(\d+)"', html_text)
+        or re.search(r'"node"\s*:\s*\{[^}]*"id"\s*:\s*"(\d{10,})"', html_text)
+    )
     vanity_match = re.search(r'"userVanity":"([^"]+)"', html_text)
     if not (lsd_match and jazoest_match and user_id_match):
         return None
