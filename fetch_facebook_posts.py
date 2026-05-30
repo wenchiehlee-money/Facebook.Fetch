@@ -279,9 +279,6 @@ def extract_public_graphql_context(html_text: str) -> dict[str, str] | None:
 def fetch_public_timeline_parts(html_text: str, count: int, cursor: str | None = None) -> list[dict[str, Any]]:
     context = extract_public_graphql_context(html_text)
     if not context:
-        lsd_found = bool(re.search(r'\["LSD",\s*\[\],\s*\{"token":\s*"([^"]+)"\}', html_text))
-        uid_found = bool(re.search(r'"userID":"(\d+)"', html_text))
-        print(f"[DEBUG] GraphQL context missing: LSD={lsd_found} userID={uid_found} html_len={len(html_text)}", file=sys.stderr)
         return []
 
     variables = {
@@ -329,8 +326,6 @@ def fetch_public_timeline_parts(html_text: str, count: int, cursor: str | None =
     req = request.Request("https://www.facebook.com/api/graphql/", data=data, headers=headers)
     with request.urlopen(req, timeout=30) as response:
         body = response.read().decode("utf-8", errors="replace")
-    if cursor is None:
-        print(f"[DEBUG] API response first 300 chars: {body[:300]!r}", file=sys.stderr)
 
     parts: list[dict[str, Any]] = []
     for line in body.splitlines():
