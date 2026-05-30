@@ -27,7 +27,10 @@ def build_group_line(posts_dir):
     return f'### [{page_title}]({index_path}){count_str}{follower_str}'
 
 
-group_dirs = sorted(p for p in data_dir.iterdir() if p.is_dir() and (p / 'index.md').exists())
+def has_posts(d):
+    return any(f.name != 'index.md' for f in d.glob('*.md'))
+
+group_dirs = sorted(p for p in data_dir.iterdir() if p.is_dir() and (p / 'index.md').exists() and has_posts(p))
 cst_time = datetime.now(timezone(timedelta(hours=8)))
 now_str = cst_time.strftime('%Y-%m-%d %H:%M') + ' CST'
 

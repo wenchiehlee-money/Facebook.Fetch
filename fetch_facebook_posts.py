@@ -470,7 +470,7 @@ def merge_post_urls(records: list[dict[str, Any]], html_urls: list[str]) -> list
 
 def slugify_text(value: str, limit: int = 80, separator: str = "-") -> str:
     cleaned = re.sub(r"\s+", separator, value.strip())
-    allowed = rf"[^A-Za-z0-9\u4e00-\u9fff_{re.escape(separator)}-]"
+    allowed = rf"[^A-Za-z0-9\u4e00-\u9fff_.{re.escape(separator)}-]"
     cleaned = re.sub(allowed, "", cleaned)
     cleaned = cleaned.strip(f"{separator}-_")
     if not cleaned:
