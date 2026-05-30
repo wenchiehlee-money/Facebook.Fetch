@@ -1,5 +1,5 @@
 group:
-  - repository: wenchiehlee/biztrends.TW
+  - repository: wenchiehlee-money/biztrends.TW
     files:
       - source: raw_facebook_fetch.csv
         dest: data/Facebook.Fetch/raw_facebook_fetch.csv
