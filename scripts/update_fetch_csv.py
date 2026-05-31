@@ -32,8 +32,9 @@ def to_cst(utc_str: str) -> str:
 
 
 def main() -> None:
-    existing = load_existing_keys()
-    new_rows: list[dict] = []
+    # We will now overwrite the CSV to ensure only the latest state per page is kept.
+    # This prevents "Data Bloat" and fixes the "duplicated" issue.
+    page_data: dict[str, dict] = {}
 
     for summary_path in sorted(DATA_DIR.glob("*/latest_fetch_summary.json")):
         try:
@@ -43,32 +44,34 @@ def main() -> None:
 
         page_name = summary.get("page", {}).get("title") or summary_path.parent.name
         fetched_at_cst = to_cst(summary.get("fetched_at_utc", ""))
-        key = (fetched_at_cst, page_name)
-
-        if key in existing:
-            continue
-
-        new_rows.append({
+        
+        row = {
             "fetched_at_cst": fetched_at_cst,
             "page_name": page_name,
             "page_url": summary.get("final_url", summary.get("requested_url", "")),
             "new_post_count": summary.get("new_post_count", 0),
             "total_post_count": count_posts(summary_path.parent),
             "follower_count": summary.get("page", {}).get("follower_count", ""),
-        })
+        }
+        
+        # If we have multiple entries for the same page_name (shouldn't happen with */ glob, but safe)
+        # keep the one with the latest timestamp.
+        if page_name not in page_data or fetched_at_cst > page_data[page_name]["fetched_at_cst"]:
+            page_data[page_name] = row
 
-    if not new_rows:
-        print("No new rows to append.")
+    if not page_data:
+        print("No data found to write.")
         return
 
-    write_header = not CSV_PATH.exists()
-    with CSV_PATH.open("a", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
-        if write_header:
-            writer.writeheader()
-        writer.writerows(new_rows)
+    # Sort by page_name for stability
+    sorted_rows = [page_data[k] for k in sorted(page_data.keys())]
 
-    print(f"Appended {len(new_rows)} rows to {CSV_PATH}")
+    with CSV_PATH.open("w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
+        writer.writeheader()
+        writer.writerows(sorted_rows)
+
+    print(f"Updated {CSV_PATH} with {len(sorted_rows)} latest page records (overwritten).")
 
 
 if __name__ == "__main__":
