@@ -9,3 +9,8 @@ fb_timeline_debug.json
 # Ignore temporary fetch artifacts
 *.html
 *.log
+
+.env*
+
+# Gemini CLI safety audit
+.claude/
