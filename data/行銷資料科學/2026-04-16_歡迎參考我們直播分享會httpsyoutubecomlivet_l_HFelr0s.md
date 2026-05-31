@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/MarketingDataScienceTMR"
 final_url: "https://www.facebook.com/MarketingDataScienceTMR"
 post_url: "https://www.facebook.com/reel/26398114586517248/"
 creation_time_utc: "2026-04-16T07:28:26+00:00"
-fetched_at_utc: "2026-05-07T04:01:50.086552+00:00"
+fetched_at_utc: "2026-05-31T10:31:32.321693+00:00"
 source: "public_graphql"
 attachment_type: "Video"
 attachment_url: "https://www.facebook.com/reel/26398114586517248/"
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t15.5256-10/671542059_1475433850743633_7431378726897785381_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=VU8OwnQlU5wQ7kNvwF3XESa&_nc_oc=Adp4XAq0KY4G0NdgYaIWkdfLE5fLedGyhMvi36NmpYtxWjk5cRBcJk8vpHHvwAbuoHY&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=MtJs6u6Vv0Fp5MCfViFQ8A&_nc_ss=78100&oh=00_Af4pnHpyFgxZVX-jWucHh0S0INc1vsA4YCx-XPiTvQ2R5g&oe=6A01F3D7"
+image_url: "https://scontent.ftpe8-4.fna.fbcdn.net/v/t15.5256-10/671542059_1475433850743633_7431378726897785381_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=OCtYPPox78gQ7kNvwEo5rL1&_nc_oc=AdpU5tiY8J2a68eJY4iQaZDOgsCBsqf18EgSoImu5s0_34R9FEESzgfpCBcpFy-5ODM&_nc_zt=23&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=Gr1bK5ru5SvYRmjsq1h2rQ&_nc_ss=78100&oh=00_Af9wweOL57Ka_LU6olhoq-kawVJog4FQdUNSQdP5yJn-Ew&oe=6A21D017"
 feedback_id: "ZmVlZGJhY2s6MTI1NzU4NDMzOTgxODU0Mg=="
 page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 ---
@@ -19,7 +19,7 @@ page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 
 原文連結: https://www.facebook.com/reel/26398114586517248/
 
-![歡迎參考我們直播分享會：https://youtube.com/live/t_l_HFelr0s](https://scontent-tpe1-1.xx.fbcdn.net/v/t15.5256-10/671542059_1475433850743633_7431378726897785381_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=VU8OwnQlU5wQ7kNvwF3XESa&_nc_oc=Adp4XAq0KY4G0NdgYaIWkdfLE5fLedGyhMvi36NmpYtxWjk5cRBcJk8vpHHvwAbuoHY&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=MtJs6u6Vv0Fp5MCfViFQ8A&_nc_ss=78100&oh=00_Af4pnHpyFgxZVX-jWucHh0S0INc1vsA4YCx-XPiTvQ2R5g&oe=6A01F3D7)
+![歡迎參考我們直播分享會：https://youtube.com/live/t_l_HFelr0s](https://scontent.ftpe8-4.fna.fbcdn.net/v/t15.5256-10/671542059_1475433850743633_7431378726897785381_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=OCtYPPox78gQ7kNvwEo5rL1&_nc_oc=AdpU5tiY8J2a68eJY4iQaZDOgsCBsqf18EgSoImu5s0_34R9FEESzgfpCBcpFy-5ODM&_nc_zt=23&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=Gr1bK5ru5SvYRmjsq1h2rQ&_nc_ss=78100&oh=00_Af9wweOL57Ka_LU6olhoq-kawVJog4FQdUNSQdP5yJn-Ew&oe=6A21D017)
 歡迎參考我們直播分享會：https://youtube.com/live/t_l_HFelr0s
 實戰AI行銷高級感大片 & Vibe Coding：啤酒行銷
 
@@ -36,11 +36,3 @@ page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 ✨ AI 廣告高級大片實戰： 現場拆解如何利用 AI 影片生成技術，製作定向掃光、質感拉滿的產品廣告，讓你的視覺力直接超車。
 ✨ 一人公司的千萬級邏輯： 揭秘如何利用 AI 協助動靜圖像，實現從 1 人到千萬級公司的跨越，同步學會「從目標做選擇」的創業者思維。 本次將會介紹我們小而美創業生態圈 - 煎妮的經歷。
 ✨ Vibe Coding 與 Gemini 實戰： 零基礎也能快速完成基礎的數位品牌頁面，用 AI 撰寫最具渲染力的品牌故事與行動呼籲。
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%2F2026-04-16_%E6%AD%A1%E8%BF%8E%E5%8F%83%E8%80%83%E6%88%91%E5%80%91%E7%9B%B4%E6%92%AD%E5%88%86%E4%BA%AB%E6%9C%83httpsyoutubecomlivet_l_HFelr0s.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%2F2026-04-16_%E6%AD%A1%E8%BF%8E%E5%8F%83%E8%80%83%E6%88%91%E5%80%91%E7%9B%B4%E6%92%AD%E5%88%86%E4%BA%AB%E6%9C%83httpsyoutubecomlivet_l_HFelr0s.md&period=)

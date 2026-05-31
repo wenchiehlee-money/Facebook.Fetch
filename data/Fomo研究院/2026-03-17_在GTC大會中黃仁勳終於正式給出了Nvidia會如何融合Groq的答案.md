@@ -4,22 +4,22 @@ title: "在GTC大會中，黃仁勳終於正式給出了Nvidia會如何融合Gro
 page_title: "Fomo研究院"
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%99%A2/61573146584049/"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid09VRdjrWCgpottv8eh3CaFfnwa5XWg8fSY1A6qQXhJ7SX16aJRzyafRYN2mhPwQSel&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02Cza3xPJESy8YJUHywd9UJNMYtCShqWN3FtvmtLobdzDwd2pnVVaxZChJarMUx3P4l&id=61573146584049"
 creation_time_utc: "2026-03-17T02:03:18+00:00"
-fetched_at_utc: "2026-05-04T08:42:23.231444+00:00"
+fetched_at_utc: "2026-05-31T10:37:29.965964+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/652631856_122175908528771552_3004771221874873346_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=7b2446&_nc_ohc=fN-pQT13t8gQ7kNvwF3auGV&_nc_oc=Adovbd7HPuqgSFHkfv30wB055Cp7dUt3xH3Vyq0SSM87z-xSxs4cdx0hb0WMGJ9Lv2U&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=uyUYSJrkpgLfRKAyhcx3Sg&_nc_ss=78100&oh=00_Af7W8IRNgasEmHnNA98dKNZCxI8MZKSnVx34YKUHGj18dQ&oe=69FE15AB"
+image_url: "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/652631856_122175908528771552_3004771221874873346_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Y0n-RlTDMTMQ7kNvwHzt_bC&_nc_oc=AdrPnnnXe1yfNFK83GA9yNEwL2QwB-_ZvXPWPob_b0zOOZhtLWStoZPjDVDlrvifZjk&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=pwI_1QB47j60cq_ObWat5g&_nc_ss=78100&oh=00_Af-mUQ9IWEG7Atu3Qkaiz3pJgQ0fJhpmQnyhjveaVAIzUw&oe=6A21E66B"
 feedback_id: "ZmVlZGJhY2s6MTIyMTc1OTA4NTUyNzcxNTUy"
 page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%99%A2/61573146584049/"
 ---
 
 # 在GTC大會中，黃仁勳終於正式給出了Nvidia會如何融合Groq的答案。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid09VRdjrWCgpottv8eh3CaFfnwa5XWg8fSY1A6qQXhJ7SX16aJRzyafRYN2mhPwQSel&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02Cza3xPJESy8YJUHywd9UJNMYtCShqWN3FtvmtLobdzDwd2pnVVaxZChJarMUx3P4l&id=61573146584049
 
-![在GTC大會中，黃仁勳終於正式給出了Nvidia會如何融合Groq的答案。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/652631856_122175908528771552_3004771221874873346_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=7b2446&_nc_ohc=fN-pQT13t8gQ7kNvwF3auGV&_nc_oc=Adovbd7HPuqgSFHkfv30wB055Cp7dUt3xH3Vyq0SSM87z-xSxs4cdx0hb0WMGJ9Lv2U&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=uyUYSJrkpgLfRKAyhcx3Sg&_nc_ss=78100&oh=00_Af7W8IRNgasEmHnNA98dKNZCxI8MZKSnVx34YKUHGj18dQ&oe=69FE15AB)
+![在GTC大會中，黃仁勳終於正式給出了Nvidia會如何融合Groq的答案。](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/652631856_122175908528771552_3004771221874873346_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Y0n-RlTDMTMQ7kNvwHzt_bC&_nc_oc=AdrPnnnXe1yfNFK83GA9yNEwL2QwB-_ZvXPWPob_b0zOOZhtLWStoZPjDVDlrvifZjk&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=pwI_1QB47j60cq_ObWat5g&_nc_ss=78100&oh=00_Af-mUQ9IWEG7Atu3Qkaiz3pJgQ0fJhpmQnyhjveaVAIzUw&oe=6A21E66B)
 在GTC大會中，黃仁勳終於正式給出了Nvidia會如何融合Groq的答案。
 ​
 模型訓練好之後，真正的商業變現來自於它每一秒鐘產生的 Token。然而，傳統 GPU 在處理大模型時存在一個隱形的「效率斷層」。
@@ -109,11 +109,3 @@ Dynamo 1.0 已經正式量產並開源，支援 vLLM、SGLang 等主流後端。
 - KP
 ​
 p.s. 想時刻緊貼市場動態的話，我誠邀你訂閱我的電子報，週末筆記永久免費，鏈結在下方。
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-03-17_%E5%9C%A8GTC%E5%A4%A7%E6%9C%83%E4%B8%AD%E9%BB%83%E4%BB%81%E5%8B%B3%E7%B5%82%E6%96%BC%E6%AD%A3%E5%BC%8F%E7%B5%A6%E5%87%BA%E4%BA%86Nvidia%E6%9C%83%E5%A6%82%E4%BD%95%E8%9E%8D%E5%90%88Groq%E7%9A%84%E7%AD%94%E6%A1%88.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=NVDA%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=NVDA&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-03-17_%E5%9C%A8GTC%E5%A4%A7%E6%9C%83%E4%B8%AD%E9%BB%83%E4%BB%81%E5%8B%B3%E7%B5%82%E6%96%BC%E6%AD%A3%E5%BC%8F%E7%B5%A6%E5%87%BA%E4%BA%86Nvidia%E6%9C%83%E5%A6%82%E4%BD%95%E8%9E%8D%E5%90%88Groq%E7%9A%84%E7%AD%94%E6%A1%88.md&period=)

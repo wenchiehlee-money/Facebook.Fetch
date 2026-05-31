@@ -4,22 +4,22 @@ title: "如果你沒聽過 Jane Street 這個名字，很正常。他們不做�
 page_title: "Fomo研究院"
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%99%A2/61573146584049/"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0317L3wLP1ehnRngd5LWu6MUh2zbemSAJZEE6P1ZjbjQkvAadRXVLes75kJs4fDaEnl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0wDPa42criA4UbLvqA96sdFHSoyGdCVEYhBQae8jmqpck6n6d6MMvQsvHoTPTr3W9l&id=61573146584049"
 creation_time_utc: "2026-04-19T11:02:37+00:00"
-fetched_at_utc: "2026-05-04T08:42:23.231444+00:00"
+fetched_at_utc: "2026-05-31T10:37:29.965964+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/678201515_122179721954771552_8632630062624825448_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=7b2446&_nc_ohc=YhdMaKICHtAQ7kNvwE3IgLf&_nc_oc=AdqZFQ0Pr1NetrUAHJz2-8Yy8FOvTwLHrowrjrtN8BsYktJTDHHz1sa9m7WgpHcUYH8&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=roftmu1AtUV4_2y6XZYiSw&_nc_ss=78100&oh=00_Af7dX5GBL7K2eXXu47IHQERhVNovsBx-2ofBZUTgtrEs5Q&oe=69FE120B"
+image_url: "https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/678201515_122179721954771552_8632630062624825448_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=OxV2TDVes3MQ7kNvwHveVnT&_nc_oc=AdrDcYO4FesAOymB28-19HCwfQkxOzw5lYVxQ6VFJMYrYWVJYUzMG_T84OR-3nXdI8A&_nc_zt=23&_nc_ht=scontent.ftpe8-2.fna&_nc_gid=7etaZmxAxhOWchhqDH2_6g&_nc_ss=78100&oh=00_Af-4cjsNG3sT01RNkKqUb70TNyNBkSg1mvvGYocm1UISOw&oe=6A21E2CB"
 feedback_id: "ZmVlZGJhY2s6MTIyMTc5NzIxOTg0NzcxNTUy"
 page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%99%A2/61573146584049/"
 ---
 
 # 如果你沒聽過 Jane Street 這個名字，很正常。他們不做廣告、不上新聞、不談自己在做什麼。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0317L3wLP1ehnRngd5LWu6MUh2zbemSAJZEE6P1ZjbjQkvAadRXVLes75kJs4fDaEnl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0wDPa42criA4UbLvqA96sdFHSoyGdCVEYhBQae8jmqpck6n6d6MMvQsvHoTPTr3W9l&id=61573146584049
 
-![如果你沒聽過 Jane Street 這個名字，很正常。他們不做廣告、不上新聞、不談自己在做什麼。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/678201515_122179721954771552_8632630062624825448_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=7b2446&_nc_ohc=YhdMaKICHtAQ7kNvwE3IgLf&_nc_oc=AdqZFQ0Pr1NetrUAHJz2-8Yy8FOvTwLHrowrjrtN8BsYktJTDHHz1sa9m7WgpHcUYH8&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=roftmu1AtUV4_2y6XZYiSw&_nc_ss=78100&oh=00_Af7dX5GBL7K2eXXu47IHQERhVNovsBx-2ofBZUTgtrEs5Q&oe=69FE120B)
+![如果你沒聽過 Jane Street 這個名字，很正常。他們不做廣告、不上新聞、不談自己在做什麼。](https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/678201515_122179721954771552_8632630062624825448_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=OxV2TDVes3MQ7kNvwHveVnT&_nc_oc=AdrDcYO4FesAOymB28-19HCwfQkxOzw5lYVxQ6VFJMYrYWVJYUzMG_T84OR-3nXdI8A&_nc_zt=23&_nc_ht=scontent.ftpe8-2.fna&_nc_gid=7etaZmxAxhOWchhqDH2_6g&_nc_ss=78100&oh=00_Af-4cjsNG3sT01RNkKqUb70TNyNBkSg1mvvGYocm1UISOw&oe=6A21E2CB)
 如果你沒聽過 Jane Street 這個名字，很正常。他們不做廣告、不上新聞、不談自己在做什麼。
 ​
 但在華爾街，他們是食物鏈頂端的存在。一家量化交易公司，員工大概兩千多人，交易收入據報導超過數百億美元。每個員工平均創造的收入，大概是 Google 的十倍。
@@ -81,11 +81,3 @@ Jane Street 願意一次鎖定 60 億美元 的算力，而且還用自己的錢
 <週末筆記>完全免費，你只需要訂閱我的電子報，就能每個星期獲得該星期最值得關注的所有資訊，以及我的看法，鏈結在下方。
 ​
 - KP
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-04-19_%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%B2%92%E8%81%BD%E9%81%8E-Jane-Street-%E9%80%99%E5%80%8B%E5%90%8D%E5%AD%97%E5%BE%88%E6%AD%A3%E5%B8%B8%E4%BB%96%E5%80%91%E4%B8%8D%E5%81%9A%E5%BB%A3%E5%91%8A%E4%B8%8D%E4%B8%8A%E6%96%B0%E8%81%9E%E4%B8%8D%E8%AB%87%E8%87%AA%E5%B7%B1%E5%9C%A8%E5%81%9A%E4%BB%80%E9%BA%BC.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-04-19_%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%B2%92%E8%81%BD%E9%81%8E-Jane-Street-%E9%80%99%E5%80%8B%E5%90%8D%E5%AD%97%E5%BE%88%E6%AD%A3%E5%B8%B8%E4%BB%96%E5%80%91%E4%B8%8D%E5%81%9A%E5%BB%A3%E5%91%8A%E4%B8%8D%E4%B8%8A%E6%96%B0%E8%81%9E%E4%B8%8D%E8%AB%87%E8%87%AA%E5%B7%B1%E5%9C%A8%E5%81%9A%E4%BB%80%E9%BA%BC.md&period=)

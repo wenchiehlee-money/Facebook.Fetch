@@ -4,22 +4,22 @@ title: "英文有句俗諺:”Live beneath your means.”。"
 page_title: "綠角財經筆記"
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0f4u794oM2zuJuzXpqFaMgUretucfYjNS9CCGaHZ9KvkkJN472o4Siaym79knKMp2l"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02ikCXejs7cgBiUpkkwkXjFrnWhV7XU6Gdp7pTR5eVsCrWJYojtuGYi9aLJX3CE68Yl"
 creation_time_utc: "2026-04-16T23:25:03+00:00"
-fetched_at_utc: "2026-05-07T04:04:35.374481+00:00"
+fetched_at_utc: "2026-05-31T10:32:27.148463+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/673153761_1379972340602829_6760675214335743083_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=13d280&_nc_ohc=LRnaDQzYihsQ7kNvwFk6yAE&_nc_oc=AdqbonYQLnjoQVQHpeqyO6To8_48dXLWWS6Eo5GNnMe_t5VPxE_9_M7X8So1b3G9D-c&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=8RduqxZ2FN9FdXXtrJ8HLA&_nc_ss=78100&oh=00_Af4Z8nnI6beBOgjhbS02-ujdsQLTimpsVUU8tz_q4sdikQ&oe=6A01CCD6"
+image_url: "https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/673153761_1379972340602829_6760675214335743083_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Guza4v9JF8wQ7kNvwFhaZHH&_nc_oc=AdrNLis4zQmUIiCfdr1P7Yx4ovq5KmL3d-FDNf4jsfXeXaOiWEC58pA0Pgs4eLwEwMw&_nc_zt=23&_nc_ht=scontent.ftpe8-2.fna&_nc_gid=vRXb-ol03NpGo07sxCNMdQ&_nc_ss=78100&oh=00_Af95z7rGR84yjN2kBbyd0gyOJ7-YfxYlfIa0WxCfzt8toQ&oe=6A21E156"
 feedback_id: "ZmVlZGJhY2s6MTM4MDI4MjI4MDU3MTgzNQ=="
 page_canonical_url: "https://www.facebook.com/GreenHornFans"
 ---
 
 # 英文有句俗諺:”Live beneath your means.”。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0f4u794oM2zuJuzXpqFaMgUretucfYjNS9CCGaHZ9KvkkJN472o4Siaym79knKMp2l
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02ikCXejs7cgBiUpkkwkXjFrnWhV7XU6Gdp7pTR5eVsCrWJYojtuGYi9aLJX3CE68Yl
 
-![英文有句俗諺:”Live beneath your means.”。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/673153761_1379972340602829_6760675214335743083_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=13d280&_nc_ohc=LRnaDQzYihsQ7kNvwFk6yAE&_nc_oc=AdqbonYQLnjoQVQHpeqyO6To8_48dXLWWS6Eo5GNnMe_t5VPxE_9_M7X8So1b3G9D-c&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=8RduqxZ2FN9FdXXtrJ8HLA&_nc_ss=78100&oh=00_Af4Z8nnI6beBOgjhbS02-ujdsQLTimpsVUU8tz_q4sdikQ&oe=6A01CCD6)
+![英文有句俗諺:”Live beneath your means.”。](https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/673153761_1379972340602829_6760675214335743083_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Guza4v9JF8wQ7kNvwFhaZHH&_nc_oc=AdrNLis4zQmUIiCfdr1P7Yx4ovq5KmL3d-FDNf4jsfXeXaOiWEC58pA0Pgs4eLwEwMw&_nc_zt=23&_nc_ht=scontent.ftpe8-2.fna&_nc_gid=vRXb-ol03NpGo07sxCNMdQ&_nc_ss=78100&oh=00_Af95z7rGR84yjN2kBbyd0gyOJ7-YfxYlfIa0WxCfzt8toQ&oe=6A21E156)
 英文有句俗諺:”Live beneath your means.”。
 
 Charles Dickens在《塊肉餘生錄》有類似的說法:
@@ -85,11 +85,3 @@ Katie提出算式。
 結果之後受傷，或是負面醜聞纏身，高收入不再。他卻很難將已經習慣的高消費整個降下來。之前累積的資產，也無法再長期支應這樣的開銷，最後就是大量負債或甚至破產。
 
 考量合理花費，不要只看收入，也記得看看自己已經累積了多少金融資產。
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-16_%E8%8B%B1%E6%96%87%E6%9C%89%E5%8F%A5%E4%BF%97%E8%AB%BALive-beneath-your-means.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-16_%E8%8B%B1%E6%96%87%E6%9C%89%E5%8F%A5%E4%BF%97%E8%AB%BALive-beneath-your-means.md&period=)

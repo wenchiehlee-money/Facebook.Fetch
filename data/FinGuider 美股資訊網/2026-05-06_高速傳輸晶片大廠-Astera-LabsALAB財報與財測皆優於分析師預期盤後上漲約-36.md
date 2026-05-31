@@ -4,12 +4,12 @@ title: "📌高速傳輸晶片大廠 Astera Labs（#ALAB）財報與財測皆優
 page_title: "FinGuider 美股資訊網"
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid02ETXFrD9uehNzAqiqKf4iuXL5Hgk8aS4u818ra81DpH6ZG7dG7VcKdL1dpe9ky3jTl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid02EmLVjrs4CojLe8nNBvGKNpQg2C4Rm86UbhhukVKspWCCYDqE7e88mBQps2xnWfeNl"
 creation_time_utc: "2026-05-06T06:36:42+00:00"
-fetched_at_utc: "2026-05-07T04:02:53.303551+00:00"
+fetched_at_utc: "2026-05-31T10:28:01.101180+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/FinGuider/posts/pfbid02ETXFrD9uehNzAqiqKf4iuXL5Hgk8aS4u818ra81DpH6ZG7dG7VcKdL1dpe9ky3jTl"
+attachment_url: "https://www.facebook.com/FinGuider/posts/pfbid02EmLVjrs4CojLe8nNBvGKNpQg2C4Rm86UbhhukVKspWCCYDqE7e88mBQps2xnWfeNl"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTQzOTI3MzE2NDkwOTQ5Mw=="
 page_canonical_url: "https://www.facebook.com/FinGuider"
@@ -17,7 +17,7 @@ page_canonical_url: "https://www.facebook.com/FinGuider"
 
 # 📌高速傳輸晶片大廠 Astera Labs（#ALAB）財報與財測皆優於分析師預期，盤後上漲約 +3.6%。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid02ETXFrD9uehNzAqiqKf4iuXL5Hgk8aS4u818ra81DpH6ZG7dG7VcKdL1dpe9ky3jTl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid02EmLVjrs4CojLe8nNBvGKNpQg2C4Rm86UbhhukVKspWCCYDqE7e88mBQps2xnWfeNl
 📌高速傳輸晶片大廠 Astera Labs（#ALAB）財報與財測皆優於分析師預期，盤後上漲約 +3.6%。
 🟢營收：3.08 億美元（QoQ +14%、YoY +93%）v.s. 2.92 億
 🟢EPS：0.61 美元（QoQ +5%、YoY +85%）v.s. 0.54美元
@@ -80,10 +80,6 @@ CFO 上一季就已經提醒，與亞馬遜新簽署的認股權證將從 Q2 起
 ​
 至於 AI 晶片產能缺口，CFO 坦承確實面臨供應挑戰，但已完成了後段供應鏈的多樣化配置，足以支撐 Scorpio 在下半年的產能爬坡需求。CEO 則強調正積極與供應鏈夥伴合作，確保 2027 年爆發性需求的產能無虞。
 
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-05-06_%E9%AB%98%E9%80%9F%E5%82%B3%E8%BC%B8%E6%99%B6%E7%89%87%E5%A4%A7%E5%BB%A0-Astera-LabsALAB%E8%B2%A1%E5%A0%B1%E8%88%87%E8%B2%A1%E6%B8%AC%E7%9A%86%E5%84%AA%E6%96%BC%E5%88%86%E6%9E%90%E5%B8%AB%E9%A0%90%E6%9C%9F%E7%9B%A4%E5%BE%8C%E4%B8%8A%E6%BC%B2%E7%B4%84-36.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-05-06_%E9%AB%98%E9%80%9F%E5%82%B3%E8%BC%B8%E6%99%B6%E7%89%87%E5%A4%A7%E5%BB%A0-Astera-LabsALAB%E8%B2%A1%E5%A0%B1%E8%88%87%E8%B2%A1%E6%B8%AC%E7%9A%86%E5%84%AA%E6%96%BC%E5%88%86%E6%9E%90%E5%B8%AB%E9%A0%90%E6%9C%9F%E7%9B%A4%E5%BE%8C%E4%B8%8A%E6%BC%B2%E7%B4%84-36.md&period=)
+📣透過《FinGuider》幫你更輕鬆看懂美股
+網站 https://finguider.cc/home
+APP https://apps.apple.com/us/app/finguider-美股投資好幫手/id6759227113

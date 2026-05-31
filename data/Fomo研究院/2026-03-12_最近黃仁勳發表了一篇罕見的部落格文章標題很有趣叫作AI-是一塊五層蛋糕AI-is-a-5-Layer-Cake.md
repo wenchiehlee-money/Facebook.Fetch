@@ -4,22 +4,22 @@ title: "最近，黃仁勳發表了一篇罕見的部落格文章，標題很有
 page_title: "Fomo研究院"
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%99%A2/61573146584049/"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0YtNTCnbkYGiUxrUkXDzWFHxjsCHnhhAsnNS1wjqoxhu9z3uwG39EjhapyDwoNNnl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0WPbkZxGfY7awaucxgGeD8QbLaAx8w2GSGP88w7AGvCV8CdRoSzqFcbVHiiSEAQFl&id=61573146584049"
 creation_time_utc: "2026-03-12T10:15:51+00:00"
-fetched_at_utc: "2026-05-04T08:42:23.231444+00:00"
+fetched_at_utc: "2026-05-31T10:37:29.965964+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/650837243_122175385202771552_3547273234661955259_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7b2446&_nc_ohc=2VZxSNKi2PMQ7kNvwFJ4WHv&_nc_oc=AdrlNliPH7gALezCTr659F8KlWGLvhN84TeySZKNjsUrKHbIbqQJaBF5HklHxOiyW90&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=TsjNVJZj3x4RqhVmy0GLbQ&_nc_ss=78100&oh=00_Af770JWwvt2ciXNVTUH6BiU6wfqjESrl-OHrmFVNAici0w&oe=69FE2F41"
+image_url: "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/650837243_122175385202771552_3547273234661955259_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=cmtiZk_a93IQ7kNvwGxMxSc&_nc_oc=AdrqHt0LDtU8ho3g474ZZZs5t2lqsrMPJA7YcBW9Atho8mL07kAi-xGnMqsm1Smx17Y&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=GnfLFr_RDbUlMcWeMqG9pQ&_nc_ss=78100&oh=00_Af8uAlbXqHL0W2Suc_nHFP_bCTVpNQvIqfRQsSJfsOkaAA&oe=6A21C7C1"
 feedback_id: "ZmVlZGJhY2s6MTIyMTc1Mzg1MjIwNzcxNTUy"
 page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%99%A2/61573146584049/"
 ---
 
 # 最近，黃仁勳發表了一篇罕見的部落格文章，標題很有趣，叫作《AI 是一塊五層蛋糕》（AI is a 5-Layer Cake）。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0YtNTCnbkYGiUxrUkXDzWFHxjsCHnhhAsnNS1wjqoxhu9z3uwG39EjhapyDwoNNnl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0WPbkZxGfY7awaucxgGeD8QbLaAx8w2GSGP88w7AGvCV8CdRoSzqFcbVHiiSEAQFl&id=61573146584049
 
-![最近，黃仁勳發表了一篇罕見的部落格文章，標題很有趣，叫作《AI 是一塊五層蛋糕》（AI is a 5-Layer Cake）。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/650837243_122175385202771552_3547273234661955259_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7b2446&_nc_ohc=2VZxSNKi2PMQ7kNvwFJ4WHv&_nc_oc=AdrlNliPH7gALezCTr659F8KlWGLvhN84TeySZKNjsUrKHbIbqQJaBF5HklHxOiyW90&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=TsjNVJZj3x4RqhVmy0GLbQ&_nc_ss=78100&oh=00_Af770JWwvt2ciXNVTUH6BiU6wfqjESrl-OHrmFVNAici0w&oe=69FE2F41)
+![最近，黃仁勳發表了一篇罕見的部落格文章，標題很有趣，叫作《AI 是一塊五層蛋糕》（AI is a 5-Layer Cake）。](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/650837243_122175385202771552_3547273234661955259_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=cmtiZk_a93IQ7kNvwGxMxSc&_nc_oc=AdrqHt0LDtU8ho3g474ZZZs5t2lqsrMPJA7YcBW9Atho8mL07kAi-xGnMqsm1Smx17Y&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=GnfLFr_RDbUlMcWeMqG9pQ&_nc_ss=78100&oh=00_Af8uAlbXqHL0W2Suc_nHFP_bCTVpNQvIqfRQsSJfsOkaAA&oe=6A21C7C1)
 最近，黃仁勳發表了一篇罕見的部落格文章，標題很有趣，叫作《AI 是一塊五層蛋糕》（AI is a 5-Layer Cake）。
 ​
 黃仁勳試圖告訴我們：AI 不是一個聰明的 App，也不是一個單純的模型，它是像「電力」與「網路」一樣的基礎設施。
@@ -84,11 +84,3 @@ p.s. 最新一期深入分析已經發出，主角是ASIC雙雄：Broadcom和Mar
 但如果你認為他們就是純粹的ASIC大哥和老二，那就簡化了他們的投資邏輯。為何兩者估值會相差這麼遠，為何博通的Forward PE會比Nvidia更高。而在財報公報後，有其中一家的估值邏輯已經出現了變化。在我電子報中的深度產業分析報告中，我將為大家全面深入分析。
 ​
 加入我的電子報，閱讀全文，你會對這兩家公司有完全不一樣的認知。
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-03-12_%E6%9C%80%E8%BF%91%E9%BB%83%E4%BB%81%E5%8B%B3%E7%99%BC%E8%A1%A8%E4%BA%86%E4%B8%80%E7%AF%87%E7%BD%95%E8%A6%8B%E7%9A%84%E9%83%A8%E8%90%BD%E6%A0%BC%E6%96%87%E7%AB%A0%E6%A8%99%E9%A1%8C%E5%BE%88%E6%9C%89%E8%B6%A3%E5%8F%AB%E4%BD%9CAI-%E6%98%AF%E4%B8%80%E5%A1%8A%E4%BA%94%E5%B1%A4%E8%9B%8B%E7%B3%95AI-is-a-5-Layer-Cake.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-03-12_%E6%9C%80%E8%BF%91%E9%BB%83%E4%BB%81%E5%8B%B3%E7%99%BC%E8%A1%A8%E4%BA%86%E4%B8%80%E7%AF%87%E7%BD%95%E8%A6%8B%E7%9A%84%E9%83%A8%E8%90%BD%E6%A0%BC%E6%96%87%E7%AB%A0%E6%A8%99%E9%A1%8C%E5%BE%88%E6%9C%89%E8%B6%A3%E5%8F%AB%E4%BD%9CAI-%E6%98%AF%E4%B8%80%E5%A1%8A%E4%BA%94%E5%B1%A4%E8%9B%8B%E7%B3%95AI-is-a-5-Layer-Cake.md&period=)

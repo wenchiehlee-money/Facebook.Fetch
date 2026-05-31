@@ -1,0 +1,35 @@
+---
+post_id: "122216516684502956"
+title: "🚀 $NOW（ServiceNow）正在悄悄成為 AI 時代最重要的企業平台之一。很多人只注意到 AI 晶片、伺服器與雲端運算，但真正讓 AI 能在企業內部開始「工作」的平台，其實非常少，而 ServiceNow 正站在這個核心位置。"
+page_title: "吉米投資理財補給站 Ver2.0"
+requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
+final_url: "https://www.facebook.com/people/%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99-Ver20/61565088683715/"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02Rt1DsShnD7Syiw11vWRoVBNisQiyCY3KpGyTqCawhGM2aePY5oQXAXp5pBEEgD2Rl&id=61565088683715"
+creation_time_utc: "2026-05-28T13:26:36+00:00"
+fetched_at_utc: "2026-05-31T10:40:21.545065+00:00"
+source: "public_graphql"
+attachment_type: "Photo"
+attachment_url: ""
+image_url: "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/708528395_122216516600502956_756925990928315102_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NXLK8M2KSkQQ7kNvwHHc-Jc&_nc_oc=AdpZEinAh5ZOsvdbsNQWINHoT2kTR5BxJqnbj8rm4EcNt2sg44ly1UQy-jgqHoo1sKc&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=Zur-GLBLIpvfASOtUyXmpg&_nc_ss=78100&oh=00_Af_QJASMP9x-TzJrXeQLvCAGd9-AEM4z4respSUYP4E2RQ&oe=6A21E2CC"
+feedback_id: "ZmVlZGJhY2s6MTIyMjE2NTE2Njg0NTAyOTU2"
+page_canonical_url: "https://www.facebook.com/people/%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99-Ver20/61565088683715/"
+---
+
+# 🚀 $NOW（ServiceNow）正在悄悄成為 AI 時代最重要的企業平台之一。很多人只注意到 AI 晶片、伺服器與雲端運算，但真正讓 AI 能在企業內部開始「工作」的平台，其實非常少，而 ServiceNow 正站在這個核心位置。
+
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02Rt1DsShnD7Syiw11vWRoVBNisQiyCY3KpGyTqCawhGM2aePY5oQXAXp5pBEEgD2Rl&id=61565088683715
+
+![🚀 $NOW（ServiceNow）正在悄悄成為 AI 時代最重要的企業平台之一。很多人只注意到 AI 晶片、伺服器與雲端運算，但真正讓 AI 能在企業內部開始「工作」的平台，其實非常少，而 ServiceNow 正站在這個核心位置。](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/708528395_122216516600502956_756925990928315102_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NXLK8M2KSkQQ7kNvwHHc-Jc&_nc_oc=AdpZEinAh5ZOsvdbsNQWINHoT2kTR5BxJqnbj8rm4EcNt2sg44ly1UQy-jgqHoo1sKc&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=Zur-GLBLIpvfASOtUyXmpg&_nc_ss=78100&oh=00_Af_QJASMP9x-TzJrXeQLvCAGd9-AEM4z4respSUYP4E2RQ&oe=6A21E2CC)
+🚀 $NOW（ServiceNow）正在悄悄成為 AI 時代最重要的企業平台之一。很多人只注意到 AI 晶片、伺服器與雲端運算，但真正讓 AI 能在企業內部開始「工作」的平台，其實非常少，而 ServiceNow 正站在這個核心位置。
+
+🔹 自 2022 年以來，ServiceNow 的成長速度相當驚人。收入成長 93%，EPS（每股收益）暴增 427%，積壓訂單（Backlog / RPO）成長 98%，訂閱收入也成長 97%。而且這些並不是一次性收入，而是高黏著度的 SaaS 訂閱模式。企業一旦把 IT、人資、客服、財務與內部流程導入 ServiceNow，通常很難再更換平台，這也是它能長期維持高續約率的重要原因。
+
+🔹 市場現在重新評價 ServiceNow 的關鍵，其實來自 AI。它不是單純的聊天機器人公司，而是希望成為「企業 AI 工作流的大腦」。目前 ServiceNow 正把 OpenAI、Anthropic、Google、微軟、輝達與 Amazon 等 AI 生態系整合進自己的平台中，讓企業未來不只是員工在工作，而是 AI Agent 也開始處理 IT、客服、人資與營運流程。
+
+🔹 更重要的是，市場對未來幾年的預測仍非常強勁。到 2028 年，市場預估 ServiceNow 的 Revenue CAGR 可達 19%，EPS CAGR 高達 59%，自由現金流 CAGR 也有 25%。這代表市場認為它未來不只是營收成長，而是進入「獲利加速成長」階段。因為 SaaS 加上 AI 的商業模式，一旦規模放大，邊際利潤通常會快速提升。
+
+🔹 目前也有不少投資人認為，NOW 的股價仍低於合理價值約 30%。原因在於市場過去幾年把焦點幾乎全部放在 GPU 與 AI 算力，但真正能把 AI 導入企業流程並成功變現的平台公司，其實數量非常有限，而 ServiceNow 正是其中之一。
+
+🔹 ServiceNow 的牛市邏輯其實相當清楚：AI 正開始真正替企業工作、強大的 AI 生態合作夥伴持續擴張、企業雲端工作流自動化需求不斷增加，再加上高續約率與穩定訂閱收入，使它擁有極高的營收能見度。
+
+有時候市場最強的公司，未必是每天最熱門的股票，而是那些默默成長、默默擴大護城河，最後成為整個產業基礎設施的一部分的公司。

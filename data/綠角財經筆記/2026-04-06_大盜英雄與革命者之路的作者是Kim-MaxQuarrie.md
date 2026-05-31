@@ -4,22 +4,22 @@ title: "“大盜、英雄與革命者之路”的作者是Kim MaxQuarrie。"
 page_title: "綠角財經筆記"
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02EUqGSeDCnsuctLtHVDYH4vKn3wMPw9KrBQBGafWGgq2dwLNwf41hGUsgz3aiH5gpl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02EneWLHvMLtzjkzBG4A7qKpcUVWZqMFhAbJz1cXikTfbx7A6BxJf38Uk3sqzUc4vzl"
 creation_time_utc: "2026-04-06T01:02:58+00:00"
-fetched_at_utc: "2026-05-07T04:04:35.374481+00:00"
+fetched_at_utc: "2026-05-31T10:32:27.148463+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/662304868_1372107884722608_3956237658761835848_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=13d280&_nc_ohc=aK7ICX4tV2oQ7kNvwFRhUHk&_nc_oc=Adpujb8SwJrTVS5a41lgy50LLIOm7eatGkhnRqLhJ9lupoQfNRwIfU5cbjAuVV1LGCM&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=WPW_T4WxR-f0fowPU8Y6JA&_nc_ss=78100&oh=00_Af7VvaoOdip7JgqKfoZGfpbfkyzmItikcQ-9mYxOZXa0Tw&oe=6A01CFAA"
+image_url: "https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/662304868_1372107884722608_3956237658761835848_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=g2tiGrCp30QQ7kNvwHZbEYg&_nc_oc=Adr3Jd2GrwzP2hGh16f9eOWM9wk0I6WteKCNuK9lnkRznwbxzo8KIoAgzn2tq39b-d0&_nc_zt=23&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=NsrGA2dDg0SYOw_xlh682w&_nc_ss=78100&oh=00_Af-TO-5JdkyRbV0PGRYD68XYjOd40cDSgkda6TOd0rNN4g&oe=6A21E42A"
 feedback_id: "ZmVlZGJhY2s6MTM3MjEwODg5ODA1NTg0MA=="
 page_canonical_url: "https://www.facebook.com/GreenHornFans"
 ---
 
 # “大盜、英雄與革命者之路”的作者是Kim MaxQuarrie。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02EUqGSeDCnsuctLtHVDYH4vKn3wMPw9KrBQBGafWGgq2dwLNwf41hGUsgz3aiH5gpl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02EneWLHvMLtzjkzBG4A7qKpcUVWZqMFhAbJz1cXikTfbx7A6BxJf38Uk3sqzUc4vzl
 
-![“大盜、英雄與革命者之路”的作者是Kim MaxQuarrie。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/662304868_1372107884722608_3956237658761835848_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=13d280&_nc_ohc=aK7ICX4tV2oQ7kNvwFRhUHk&_nc_oc=Adpujb8SwJrTVS5a41lgy50LLIOm7eatGkhnRqLhJ9lupoQfNRwIfU5cbjAuVV1LGCM&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=WPW_T4WxR-f0fowPU8Y6JA&_nc_ss=78100&oh=00_Af7VvaoOdip7JgqKfoZGfpbfkyzmItikcQ-9mYxOZXa0Tw&oe=6A01CFAA)
+![“大盜、英雄與革命者之路”的作者是Kim MaxQuarrie。](https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/662304868_1372107884722608_3956237658761835848_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=g2tiGrCp30QQ7kNvwHZbEYg&_nc_oc=Adr3Jd2GrwzP2hGh16f9eOWM9wk0I6WteKCNuK9lnkRznwbxzo8KIoAgzn2tq39b-d0&_nc_zt=23&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=NsrGA2dDg0SYOw_xlh682w&_nc_ss=78100&oh=00_Af-TO-5JdkyRbV0PGRYD68XYjOd40cDSgkda6TOd0rNN4g&oe=6A21E42A)
 “大盜、英雄與革命者之路”的作者是Kim MaxQuarrie。
 
 這是在他走遍南美洲大陸，探索各地的風情與故事後，所寫成的書。在他筆下，讀者將可以感受到這片奇特大地的複雜背景與迷人風情。
@@ -121,11 +121,3 @@ page_canonical_url: "https://www.facebook.com/GreenHornFans"
 當達爾文，這位前人的南美洲之旅，帶領生物科學開啟了全新的扉頁。
 
 有多少現代人，仍受限於自身觀念，自願留在投資的蠻荒時代呢?
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-06_%E5%A4%A7%E7%9B%9C%E8%8B%B1%E9%9B%84%E8%88%87%E9%9D%A9%E5%91%BD%E8%80%85%E4%B9%8B%E8%B7%AF%E7%9A%84%E4%BD%9C%E8%80%85%E6%98%AFKim-MaxQuarrie.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-06_%E5%A4%A7%E7%9B%9C%E8%8B%B1%E9%9B%84%E8%88%87%E9%9D%A9%E5%91%BD%E8%80%85%E4%B9%8B%E8%B7%AF%E7%9A%84%E4%BD%9C%E8%80%85%E6%98%AFKim-MaxQuarrie.md&period=)

@@ -4,22 +4,22 @@ title: "最近市場開始熱議 CPU 概念，不少人已經能理解推論（I
 page_title: "Fomo研究院"
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%99%A2/61573146584049/"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02JFUEWgGhsG2dBoiQVgj2p2qFERn4DV1gKQ7jffvM4vnfLrhVYTbgKDXn5jtacQcfl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0EqVHC25kkbP7DBXcDGyG443hsAfSSwWuypEAGC7o9HuVWRXZBBfJPg2UprXLfBPPl&id=61573146584049"
 creation_time_utc: "2026-04-17T11:03:50+00:00"
-fetched_at_utc: "2026-05-04T08:42:23.231444+00:00"
+fetched_at_utc: "2026-05-31T10:37:29.965964+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/674206867_122179448540771552_8262779597373761029_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=103&ccb=1-7&_nc_sid=7b2446&_nc_ohc=-gp-dT4Ux0wQ7kNvwGEXJW2&_nc_oc=Adpjj-wJOWeaQh8tx0k3Ncp2t5rTLdS8XLTrI4ftg8xZ-fwqal8hj9gIWdn_gnI2Qc4&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=9_JhpF4mt_CrQqhFm8lzHg&_nc_ss=78100&oh=00_Af5DEoCK9xkpe7-ssKWAxa7PuB9OuH6r95vZwEf_sD-vPg&oe=69FE3751"
+image_url: "https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/674206867_122179448540771552_8262779597373761029_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=mz6FQsGYBW0Q7kNvwHcqrE7&_nc_oc=Adp7N1UUDtVpLK-oX5nhklVhpJyB-Om42bfHQ5w6jI_JmWJiwrCVAZnhMRtAK3rGFd4&_nc_zt=23&_nc_ht=scontent.ftpe8-2.fna&_nc_gid=CFvBRHNOUid_0FRSQzi-Wg&_nc_ss=78100&oh=00_Af8PGa8Ab_5NPueTDySaZ0aJZwe7mCJgPjSTZvnwCPcU4w&oe=6A21CFD1"
 feedback_id: "ZmVlZGJhY2s6MTIyMTc5NDQ4NTY0NzcxNTUy"
 page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%99%A2/61573146584049/"
 ---
 
 # 最近市場開始熱議 CPU 概念，不少人已經能理解推論（Inference）與 Agentic AI 如何拉動 CPU 需求。但實際上，CPU 需求增長的背後還有隱藏的「第三股力量」。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02JFUEWgGhsG2dBoiQVgj2p2qFERn4DV1gKQ7jffvM4vnfLrhVYTbgKDXn5jtacQcfl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0EqVHC25kkbP7DBXcDGyG443hsAfSSwWuypEAGC7o9HuVWRXZBBfJPg2UprXLfBPPl&id=61573146584049
 
-![最近市場開始熱議 CPU 概念，不少人已經能理解推論（Inference）與 Agentic AI 如何拉動 CPU 需求。但實際上，CPU 需求增長的背後還有隱藏的「第三股力量」。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/674206867_122179448540771552_8262779597373761029_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=103&ccb=1-7&_nc_sid=7b2446&_nc_ohc=-gp-dT4Ux0wQ7kNvwGEXJW2&_nc_oc=Adpjj-wJOWeaQh8tx0k3Ncp2t5rTLdS8XLTrI4ftg8xZ-fwqal8hj9gIWdn_gnI2Qc4&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=9_JhpF4mt_CrQqhFm8lzHg&_nc_ss=78100&oh=00_Af5DEoCK9xkpe7-ssKWAxa7PuB9OuH6r95vZwEf_sD-vPg&oe=69FE3751)
+![最近市場開始熱議 CPU 概念，不少人已經能理解推論（Inference）與 Agentic AI 如何拉動 CPU 需求。但實際上，CPU 需求增長的背後還有隱藏的「第三股力量」。](https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/674206867_122179448540771552_8262779597373761029_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=mz6FQsGYBW0Q7kNvwHcqrE7&_nc_oc=Adp7N1UUDtVpLK-oX5nhklVhpJyB-Om42bfHQ5w6jI_JmWJiwrCVAZnhMRtAK3rGFd4&_nc_zt=23&_nc_ht=scontent.ftpe8-2.fna&_nc_gid=CFvBRHNOUid_0FRSQzi-Wg&_nc_ss=78100&oh=00_Af8PGa8Ab_5NPueTDySaZ0aJZwe7mCJgPjSTZvnwCPcU4w&oe=6A21CFD1)
 最近市場開始熱議 CPU 概念，不少人已經能理解推論（Inference）與 Agentic AI 如何拉動 CPU 需求。但實際上，CPU 需求增長的背後還有隱藏的「第三股力量」。
 ​
 這股力量所產生的需求，與前兩者有本質上的不同。
@@ -80,11 +80,3 @@ page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%9
 我在最新一期的深入分析中，詳細分析了CPU的崛起，現在市場的趨勢，以及最重要的，不同標的的具體投資邏輯。我誠邀你閱讀全文，鏈結在下方。
 ​
 - KP
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-04-17_%E6%9C%80%E8%BF%91%E5%B8%82%E5%A0%B4%E9%96%8B%E5%A7%8B%E7%86%B1%E8%AD%B0-CPU-%E6%A6%82%E5%BF%B5%E4%B8%8D%E5%B0%91%E4%BA%BA%E5%B7%B2%E7%B6%93%E8%83%BD%E7%90%86%E8%A7%A3%E6%8E%A8%E8%AB%96Inference%E8%88%87-Agentic-AI-%E5%A6%82%E4%BD%95%E6%8B%89%E5%8B%95-CPU-%E9%9C%80%E6%B1%82%E4%BD%86%E5%AF%A6%E9%9A%9B%E4%B8%8ACPU-%E9%9C%80%E6%B1%82%E5%A2%9E%E9%95%B7%E7%9A%84%E8%83%8C%E5%BE%8C%E9%82%84%E6%9C%89%E9%9A%B1%E8%97%8F%E7%9A%84%E7%AC%AC%E4%B8%89.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-04-17_%E6%9C%80%E8%BF%91%E5%B8%82%E5%A0%B4%E9%96%8B%E5%A7%8B%E7%86%B1%E8%AD%B0-CPU-%E6%A6%82%E5%BF%B5%E4%B8%8D%E5%B0%91%E4%BA%BA%E5%B7%B2%E7%B6%93%E8%83%BD%E7%90%86%E8%A7%A3%E6%8E%A8%E8%AB%96Inference%E8%88%87-Agentic-AI-%E5%A6%82%E4%BD%95%E6%8B%89%E5%8B%95-CPU-%E9%9C%80%E6%B1%82%E4%BD%86%E5%AF%A6%E9%9A%9B%E4%B8%8ACPU-%E9%9C%80%E6%B1%82%E5%A2%9E%E9%95%B7%E7%9A%84%E8%83%8C%E5%BE%8C%E9%82%84%E6%9C%89%E9%9A%B1%E8%97%8F%E7%9A%84%E7%AC%AC%E4%B8%89.md&period=)

@@ -4,22 +4,22 @@ title: "Google發表了一項名為「TurboQuant」的軟體演算法突破，�
 page_title: "Fomo研究院"
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%99%A2/61573146584049/"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0UeJydPfi4XCwSSXC8DgsxMsh2iJLLi7YyxiFkNyJgEns4waGSi5VfPnHZYvQ6Y4yl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02YdQvQa2weXUjsGpKzBzmDSrjzdX8bpCiVehy6gNRZSeYpnkHJmBYk7gdbVn4aXqfl&id=61573146584049"
 creation_time_utc: "2026-03-29T04:31:35+00:00"
-fetched_at_utc: "2026-05-04T08:42:23.231444+00:00"
+fetched_at_utc: "2026-05-31T10:37:29.965964+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/657400932_122177288738771552_5573966395605231307_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=7b2446&_nc_ohc=nR02x3gTIfUQ7kNvwF4nlhR&_nc_oc=AdrRi-ndpTMqZkoNX3Xn0VAwbezSh_J22LI9HYTcK0uo6g3SBsHq6Sy4lcdMd5Rs2fA&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=BdtcEzQSP8BUDY0vwpwM8A&_nc_ss=78100&oh=00_Af44l8fADS_ZCHoFzUTlPpLnydY3djzKSXlBqSp_B-L6uw&oe=69FE4252"
+image_url: "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/657400932_122177288738771552_5573966395605231307_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=DtFQZosTIYgQ7kNvwFqqBMv&_nc_oc=Adr6c3ZXAlu6M8ApJryJ30QGE9Th7R_52Z8RDQQpwnMSNThQLPXVCy4gnhQJ-pbo8uc&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=mLqNc952V3rR6qnOWSbV4g&_nc_ss=78100&oh=00_Af8JeTeQJ37vkJZu84SDhY55qSBdKOcIng7h0C3VEs5enQ&oe=6A21DAD2"
 feedback_id: "ZmVlZGJhY2s6MTIyMTc3Mjg4NzY4NzcxNTUy"
 page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%99%A2/61573146584049/"
 ---
 
 # Google發表了一項名為「TurboQuant」的軟體演算法突破，記憶體晶片類股應聲重挫。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0UeJydPfi4XCwSSXC8DgsxMsh2iJLLi7YyxiFkNyJgEns4waGSi5VfPnHZYvQ6Y4yl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02YdQvQa2weXUjsGpKzBzmDSrjzdX8bpCiVehy6gNRZSeYpnkHJmBYk7gdbVn4aXqfl&id=61573146584049
 
-![Google發表了一項名為「TurboQuant」的軟體演算法突破，記憶體晶片類股應聲重挫。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/657400932_122177288738771552_5573966395605231307_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=7b2446&_nc_ohc=nR02x3gTIfUQ7kNvwF4nlhR&_nc_oc=AdrRi-ndpTMqZkoNX3Xn0VAwbezSh_J22LI9HYTcK0uo6g3SBsHq6Sy4lcdMd5Rs2fA&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=BdtcEzQSP8BUDY0vwpwM8A&_nc_ss=78100&oh=00_Af44l8fADS_ZCHoFzUTlPpLnydY3djzKSXlBqSp_B-L6uw&oe=69FE4252)
+![Google發表了一項名為「TurboQuant」的軟體演算法突破，記憶體晶片類股應聲重挫。](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/657400932_122177288738771552_5573966395605231307_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=DtFQZosTIYgQ7kNvwFqqBMv&_nc_oc=Adr6c3ZXAlu6M8ApJryJ30QGE9Th7R_52Z8RDQQpwnMSNThQLPXVCy4gnhQJ-pbo8uc&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=mLqNc952V3rR6qnOWSbV4g&_nc_ss=78100&oh=00_Af8JeTeQJ37vkJZu84SDhY55qSBdKOcIng7h0C3VEs5enQ&oe=6A21DAD2)
 Google發表了一項名為「TurboQuant」的軟體演算法突破，記憶體晶片類股應聲重挫。
 ​
 這合理嗎？我認為：完全合理。
@@ -128,11 +128,3 @@ p.s. 這個主題，收錄在我這個星期的<思考筆記>中，當中有6個
 主題六：CLARITY 法案流出，穩定幣前景不明？
 ​
 <週末筆記>完全免費，你只需要訂閱我的電子報，就能每個星期獲得該星期最值得關注的所有資訊，以及我的看法。
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-03-29_Google%E7%99%BC%E8%A1%A8%E4%BA%86%E4%B8%80%E9%A0%85%E5%90%8D%E7%82%BATurboQuant%E7%9A%84%E8%BB%9F%E9%AB%94%E6%BC%94%E7%AE%97%E6%B3%95%E7%AA%81%E7%A0%B4%E8%A8%98%E6%86%B6%E9%AB%94%E6%99%B6%E7%89%87%E9%A1%9E%E8%82%A1%E6%87%89%E8%81%B2%E9%87%8D%E6%8C%AB.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=GOOGL%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=GOOGL&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-03-29_Google%E7%99%BC%E8%A1%A8%E4%BA%86%E4%B8%80%E9%A0%85%E5%90%8D%E7%82%BATurboQuant%E7%9A%84%E8%BB%9F%E9%AB%94%E6%BC%94%E7%AE%97%E6%B3%95%E7%AA%81%E7%A0%B4%E8%A8%98%E6%86%B6%E9%AB%94%E6%99%B6%E7%89%87%E9%A1%9E%E8%82%A1%E6%87%89%E8%81%B2%E9%87%8D%E6%8C%AB.md&period=)

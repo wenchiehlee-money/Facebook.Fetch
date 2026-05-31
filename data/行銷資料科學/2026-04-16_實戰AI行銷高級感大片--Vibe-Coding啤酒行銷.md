@@ -4,9 +4,9 @@ title: "實戰AI行銷高級感大片 & Vibe Coding：啤酒行銷"
 page_title: "行銷資料科學"
 requested_url: "https://www.facebook.com/MarketingDataScienceTMR"
 final_url: "https://www.facebook.com/MarketingDataScienceTMR"
-post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid02TmCbK2UKfyJAAKU57NpBwQ3pa8nHPpErfw4SE1sRnCaZUDetBqUzB7bTpCnMhGYNl"
+post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0Q3R7iryuYxB9YVKSD4VCCTUbjQ19eY9ELKwXhahnZhNcX51iPun5VSs1pQmWht8pl"
 creation_time_utc: "2026-04-16T07:01:20+00:00"
-fetched_at_utc: "2026-05-07T04:01:50.086552+00:00"
+fetched_at_utc: "2026-05-31T10:31:32.321693+00:00"
 source: "public_graphql"
 attachment_type: "GenericAttachmentMedia"
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 
 # 實戰AI行銷高級感大片 & Vibe Coding：啤酒行銷
 
-原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid02TmCbK2UKfyJAAKU57NpBwQ3pa8nHPpErfw4SE1sRnCaZUDetBqUzB7bTpCnMhGYNl
+原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0Q3R7iryuYxB9YVKSD4VCCTUbjQ19eY9ELKwXhahnZhNcX51iPun5VSs1pQmWht8pl
 實戰AI行銷高級感大片 & Vibe Coding：啤酒行銷
 歡迎參考我們直播分享會： https://youtube.com/live/t_l_HFelr0s
 
@@ -36,11 +36,3 @@ page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 ✨ AI 廣告高級大片實戰： 現場拆解如何利用 AI 影片生成技術，製作定向掃光、質感拉滿的產品廣告，讓你的視覺力直接超車。
 ✨ 一人公司的千萬級邏輯： 揭秘如何利用 AI 協助動靜圖像，實現從 1 人到千萬級公司的跨越，同步學會「從目標做選擇」的創業者思維。 本次將會介紹我們小而美創業生態圈 - 煎妮的經歷。
 ✨ Vibe Coding 與 Gemini 實戰： 零基礎也能快速完成基礎的數位品牌頁面，用 AI 撰寫最具渲染力的品牌故事與行動呼籲。
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%2F2026-04-16_%E5%AF%A6%E6%88%B0AI%E8%A1%8C%E9%8A%B7%E9%AB%98%E7%B4%9A%E6%84%9F%E5%A4%A7%E7%89%87--Vibe-Coding%E5%95%A4%E9%85%92%E8%A1%8C%E9%8A%B7.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%2F2026-04-16_%E5%AF%A6%E6%88%B0AI%E8%A1%8C%E9%8A%B7%E9%AB%98%E7%B4%9A%E6%84%9F%E5%A4%A7%E7%89%87--Vibe-Coding%E5%95%A4%E9%85%92%E8%A1%8C%E9%8A%B7.md&period=)

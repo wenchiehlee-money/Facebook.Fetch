@@ -1,0 +1,27 @@
+---
+post_id: "1392651186238358"
+title: "📌Netflix（#NFLX）在華納兄弟競購戰中高歌離席、豪取 28 億美元分手費後，將斥資 6 億收購影星班艾佛列克創立的 AI 電影製作公司 InterPositive，這將是 Netflix 有史以來規模最大的收購案之一。"
+page_title: "FinGuider 美股資訊網"
+requested_url: "https://www.facebook.com/FinGuider"
+final_url: "https://www.facebook.com/FinGuider"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid02QTmZBbkPJmWBBi4BkfnPPZi3hmeyq6SZ6XCWRdnGicsrj71DNqZXHgoUUkmNYy4Xl"
+creation_time_utc: "2026-03-12T09:35:01+00:00"
+fetched_at_utc: "2026-05-31T10:28:01.101180+00:00"
+source: "public_graphql"
+attachment_type: "Photo"
+attachment_url: ""
+image_url: "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/649832720_1392650566238420_762282943902137909_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kaUu_-hWtm0Q7kNvwHyzuvv&_nc_oc=Adpxsmdc3SmmBsn6aRpX5aGC5HdE1Exgrn74RqLMjKIdks-otGh9KQ-v3J9uT6qxW48&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=fEW4BP__G5WiY7ctE8lamg&_nc_ss=78100&oh=00_Af-BIElu2WoV9kKf0j23KrPKlFv5wIjNC-2eS9qEJ5Vz2g&oe=6A21ED93"
+feedback_id: "ZmVlZGJhY2s6MTM5MjY1MTE4NjIzODM1OA=="
+page_canonical_url: "https://www.facebook.com/FinGuider"
+---
+
+# 📌Netflix（#NFLX）在華納兄弟競購戰中高歌離席、豪取 28 億美元分手費後，將斥資 6 億收購影星班艾佛列克創立的 AI 電影製作公司 InterPositive，這將是 Netflix 有史以來規模最大的收購案之一。
+
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid02QTmZBbkPJmWBBi4BkfnPPZi3hmeyq6SZ6XCWRdnGicsrj71DNqZXHgoUUkmNYy4Xl
+
+![📌Netflix（#NFLX）在華納兄弟競購戰中高歌離席、豪取 28 億美元分手費後，將斥資 6 億收購影星班艾佛列克創立的 AI 電影製作公司 InterPositive，這將是 Netflix 有史以來規模最大的收購案之一。](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/649832720_1392650566238420_762282943902137909_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kaUu_-hWtm0Q7kNvwHyzuvv&_nc_oc=Adpxsmdc3SmmBsn6aRpX5aGC5HdE1Exgrn74RqLMjKIdks-otGh9KQ-v3J9uT6qxW48&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=fEW4BP__G5WiY7ctE8lamg&_nc_ss=78100&oh=00_Af-BIElu2WoV9kKf0j23KrPKlFv5wIjNC-2eS9qEJ5Vz2g&oe=6A21ED93)
+📌Netflix（#NFLX）在華納兄弟競購戰中高歌離席、豪取 28 億美元分手費後，將斥資 6 億收購影星班艾佛列克創立的 AI 電影製作公司 InterPositive，這將是 Netflix 有史以來規模最大的收購案之一。
+
+👉InterPositive 開發了一套 AI 工具，讓電影製作時能夠快速修改現有素材，Netflix 已在由布萊德·彼特主演、即將上映的《克里夫·布茲歷險記》中使用了這套工具。
+
+InterPositive 強調，這套 AI 工具並不是要「無中生有」，而是為了提升電影後期製作階段的效率。

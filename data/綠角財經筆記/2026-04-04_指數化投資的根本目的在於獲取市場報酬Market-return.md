@@ -4,22 +4,22 @@ title: "指數化投資的根本目的，在於獲取市場報酬(Market return)
 page_title: "綠角財經筆記"
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0fW1yBgPWZNdx7TFn5TneWymQNUu8AC92bVeMQgz8P2G352yVUzRs1dE4H8Bzda48l"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02jBKPhMTH9AvpPS9v8zJY2XGoWcNSzWBc3vNRKYijBxeA6uqSQ4w1eyEhhGeDiFfkl"
 creation_time_utc: "2026-04-04T23:40:41+00:00"
-fetched_at_utc: "2026-05-07T04:04:35.374481+00:00"
+fetched_at_utc: "2026-05-31T10:32:27.148463+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/662275246_1371315608135169_4934494213908111791_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=13d280&_nc_ohc=m3aCdIA1Zx0Q7kNvwHjPnP-&_nc_oc=Adorlcdri1lm_662DQq5OhKlDofZgq14n4WKkgeOygkhMHrbi3ADl32ZRKHPV5StZLg&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=gm8Lf1fvOAXvjJTz_lXDLA&_nc_ss=78100&oh=00_Af4GYGyVxbL_ydLnVK-yNYpTLaAS1fq0_64_EHvnTMQmYg&oe=6A01D82B"
+image_url: "https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/662275246_1371315608135169_4934494213908111791_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ZxZ49q92V_EQ7kNvwGJFh1J&_nc_oc=AdqziWePDdWWjs4wSumlHxWgjztKI0hcUuPtSlfTYmx_osor8FZuLXUFv7k5IQWSDj8&_nc_zt=23&_nc_ht=scontent.ftpe8-2.fna&_nc_gid=NsrGA2dDg0SYOw_xlh682w&_nc_ss=78100&oh=00_Af_5_mQOasJV83iMFBezvV_YnFLZh9-GTnUk7epohp0Snw&oe=6A21ECAB"
 feedback_id: "ZmVlZGJhY2s6MTM3MTMxNTgyMTQ2ODQ4MQ=="
 page_canonical_url: "https://www.facebook.com/GreenHornFans"
 ---
 
 # 指數化投資的根本目的，在於獲取市場報酬(Market return)。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0fW1yBgPWZNdx7TFn5TneWymQNUu8AC92bVeMQgz8P2G352yVUzRs1dE4H8Bzda48l
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02jBKPhMTH9AvpPS9v8zJY2XGoWcNSzWBc3vNRKYijBxeA6uqSQ4w1eyEhhGeDiFfkl
 
-![指數化投資的根本目的，在於獲取市場報酬(Market return)。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/662275246_1371315608135169_4934494213908111791_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=13d280&_nc_ohc=m3aCdIA1Zx0Q7kNvwHjPnP-&_nc_oc=Adorlcdri1lm_662DQq5OhKlDofZgq14n4WKkgeOygkhMHrbi3ADl32ZRKHPV5StZLg&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=gm8Lf1fvOAXvjJTz_lXDLA&_nc_ss=78100&oh=00_Af4GYGyVxbL_ydLnVK-yNYpTLaAS1fq0_64_EHvnTMQmYg&oe=6A01D82B)
+![指數化投資的根本目的，在於獲取市場報酬(Market return)。](https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/662275246_1371315608135169_4934494213908111791_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ZxZ49q92V_EQ7kNvwGJFh1J&_nc_oc=AdqziWePDdWWjs4wSumlHxWgjztKI0hcUuPtSlfTYmx_osor8FZuLXUFv7k5IQWSDj8&_nc_zt=23&_nc_ht=scontent.ftpe8-2.fna&_nc_gid=NsrGA2dDg0SYOw_xlh682w&_nc_ss=78100&oh=00_Af_5_mQOasJV83iMFBezvV_YnFLZh9-GTnUk7epohp0Snw&oe=6A21ECAB)
 指數化投資的根本目的，在於獲取市場報酬(Market return)。
 
 市場報酬很簡單，就是該市場帶來的報酬，不論這個市場是股票市場、債券市場還是其它的資本市場。
@@ -97,11 +97,3 @@ page_canonical_url: "https://www.facebook.com/GreenHornFans"
 獲取市場報酬，這個投資理念，本身就是一個可以與主動投資的想法平起平坐的重要投資論點。
 
 指數化投資，才是市場中真正的順勢而為。當你有了正確的想法，以市場報酬為目標，不要依賴任何人為努力或天賜幸運所帶來的變化莫測的成績，等著你的，是一條投資的康莊大道。
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-04_%E6%8C%87%E6%95%B8%E5%8C%96%E6%8A%95%E8%B3%87%E7%9A%84%E6%A0%B9%E6%9C%AC%E7%9B%AE%E7%9A%84%E5%9C%A8%E6%96%BC%E7%8D%B2%E5%8F%96%E5%B8%82%E5%A0%B4%E5%A0%B1%E9%85%ACMarket-return.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-04_%E6%8C%87%E6%95%B8%E5%8C%96%E6%8A%95%E8%B3%87%E7%9A%84%E6%A0%B9%E6%9C%AC%E7%9B%AE%E7%9A%84%E5%9C%A8%E6%96%BC%E7%8D%B2%E5%8F%96%E5%B8%82%E5%A0%B4%E5%A0%B1%E9%85%ACMarket-return.md&period=)

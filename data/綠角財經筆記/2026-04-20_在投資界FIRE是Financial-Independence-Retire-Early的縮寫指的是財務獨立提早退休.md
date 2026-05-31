@@ -4,22 +4,22 @@ title: "在投資界，FIRE是Financial Independence Retire Early的縮寫。指
 page_title: "綠角財經筆記"
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02aXp1vrPCzuETV6rP7e8kTbN7m3BsDjebzokMFG3gf8k7gBJBKdeRJKNrNpvHdGwQl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02aMfjFrX9jHR8XJTFeKM1Z1Hnw238LAeGV5ovV5rGEyRSSHbopoWcPPH2KkZLCvJFl"
 creation_time_utc: "2026-04-20T23:27:04+00:00"
-fetched_at_utc: "2026-05-07T04:04:35.374481+00:00"
+fetched_at_utc: "2026-05-31T10:32:27.148463+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/676793800_1382965673636829_2364688281451293594_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=13d280&_nc_ohc=t7JafdwfViIQ7kNvwHqErWJ&_nc_oc=AdrfCXmPmMfBac9PyHAJ28XVuEMK6gj24UC9fu0hDoPKIX_DcUHgJdij-UiP8-88js4&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=_tHpK09tzTaIVihvDobmrw&_nc_ss=78100&oh=00_Af5xFl-qtXSxI58Hp-dvALUvLMaSMofT4ekX0N4AE93DKg&oe=6A01EBEC"
+image_url: "https://scontent.ftpe8-3.fna.fbcdn.net/v/t39.30808-6/676793800_1382965673636829_2364688281451293594_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tY26UOpdwGsQ7kNvwG75kuL&_nc_oc=AdriQSVzIeL-C4GUCTXoCvvtrevU8WeKqFfiQgTmqoJNor_t2WND98s5EPqQRN5gQGA&_nc_zt=23&_nc_ht=scontent.ftpe8-3.fna&_nc_gid=pauOocO43q9U7bWv88JXsg&_nc_ss=78100&oh=00_Af-1iKl0erh_2oejtfhKA1YmgrCxwFrBC4OCgdcNkvcRoA&oe=6A21C82C"
 feedback_id: "ZmVlZGJhY2s6MTM4MzI3ODM4MzYwNTU1OA=="
 page_canonical_url: "https://www.facebook.com/GreenHornFans"
 ---
 
 # 在投資界，FIRE是Financial Independence Retire Early的縮寫。指的是財務獨立，提早退休。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02aXp1vrPCzuETV6rP7e8kTbN7m3BsDjebzokMFG3gf8k7gBJBKdeRJKNrNpvHdGwQl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02aMfjFrX9jHR8XJTFeKM1Z1Hnw238LAeGV5ovV5rGEyRSSHbopoWcPPH2KkZLCvJFl
 
-![在投資界，FIRE是Financial Independence Retire Early的縮寫。指的是財務獨立，提早退休。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/676793800_1382965673636829_2364688281451293594_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=13d280&_nc_ohc=t7JafdwfViIQ7kNvwHqErWJ&_nc_oc=AdrfCXmPmMfBac9PyHAJ28XVuEMK6gj24UC9fu0hDoPKIX_DcUHgJdij-UiP8-88js4&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=_tHpK09tzTaIVihvDobmrw&_nc_ss=78100&oh=00_Af5xFl-qtXSxI58Hp-dvALUvLMaSMofT4ekX0N4AE93DKg&oe=6A01EBEC)
+![在投資界，FIRE是Financial Independence Retire Early的縮寫。指的是財務獨立，提早退休。](https://scontent.ftpe8-3.fna.fbcdn.net/v/t39.30808-6/676793800_1382965673636829_2364688281451293594_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tY26UOpdwGsQ7kNvwG75kuL&_nc_oc=AdriQSVzIeL-C4GUCTXoCvvtrevU8WeKqFfiQgTmqoJNor_t2WND98s5EPqQRN5gQGA&_nc_zt=23&_nc_ht=scontent.ftpe8-3.fna&_nc_gid=pauOocO43q9U7bWv88JXsg&_nc_ss=78100&oh=00_Af-1iKl0erh_2oejtfhKA1YmgrCxwFrBC4OCgdcNkvcRoA&oe=6A21C82C)
 在投資界，FIRE是Financial Independence Retire Early的縮寫。指的是財務獨立，提早退休。
 
 其實在不少實行者心中，FIRE只是RE。Retire Early。其目標與實際施行方法，就是為了早退休，或是說，為了離開工作。
@@ -112,11 +112,3 @@ Financial freedom不需要退休才能達成。只要你跟錢的關係達到自
 不要不知道要做什麼，就想要退休。
 
 FIRE的後兩個字，對有些人可能反而是個陷阱。
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-20_%E5%9C%A8%E6%8A%95%E8%B3%87%E7%95%8CFIRE%E6%98%AFFinancial-Independence-Retire-Early%E7%9A%84%E7%B8%AE%E5%AF%AB%E6%8C%87%E7%9A%84%E6%98%AF%E8%B2%A1%E5%8B%99%E7%8D%A8%E7%AB%8B%E6%8F%90%E6%97%A9%E9%80%80%E4%BC%91.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-20_%E5%9C%A8%E6%8A%95%E8%B3%87%E7%95%8CFIRE%E6%98%AFFinancial-Independence-Retire-Early%E7%9A%84%E7%B8%AE%E5%AF%AB%E6%8C%87%E7%9A%84%E6%98%AF%E8%B2%A1%E5%8B%99%E7%8D%A8%E7%AB%8B%E6%8F%90%E6%97%A9%E9%80%80%E4%BC%91.md&period=)

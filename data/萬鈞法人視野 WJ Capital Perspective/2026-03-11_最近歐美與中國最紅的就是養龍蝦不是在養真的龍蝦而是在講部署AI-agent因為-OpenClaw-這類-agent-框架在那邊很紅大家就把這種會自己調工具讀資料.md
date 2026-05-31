@@ -4,22 +4,22 @@ title: "最近歐美與中國最紅的就是「養龍蝦」，不是在養真的
 page_title: "萬鈞法人視野 WJ Capital Perspective"
 requested_url: "https://www.facebook.com/profile.php?id=61578106860333"
 final_url: "https://www.facebook.com/people/%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E-WJ-Capital-Perspective/61578106860333/"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0W8okYqycgwbfwnoDATc2Z7xtgVBBnUx2k7vKQsh7XdFe7d99wotJttMCn94UUKGgl&id=61578106860333"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0VxfTsr7ZRGZZrv5f3384NGRnuGmzVfiSDDfoCF5fCwGgtaFPo6adW3JwoSPWfWEyl&id=61578106860333"
 creation_time_utc: "2026-03-11T00:49:31+00:00"
-fetched_at_utc: "2026-05-07T04:08:30.243407+00:00"
+fetched_at_utc: "2026-05-31T10:38:55.055470+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/649827846_122188852418936895_1900005696641496384_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=7b2446&_nc_ohc=Pycq_fbfTjEQ7kNvwH1TlOq&_nc_oc=AdpSY2nPbNNwjEWWs7mbabCp3V9mD3KDuM_pUISww5yvaaJRZbTtP_6im96LPN5Jaxc&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=cJ6dQ4xN_lmq1rXveZc7FQ&_nc_ss=78100&oh=00_Af60DBzxDP6kt0Wv-X8Mh3G9671yfmMkYi91YpxrC7mP7Q&oe=6A01FCE3"
+image_url: "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/649827846_122188852418936895_1900005696641496384_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=BDXmmK0LwyAQ7kNvwE1fbpt&_nc_oc=Adrl19XwaGzDA0TAAfemJtk5i2idiWMD00U-44ZRj4BA3RRENdKqyrsU5kIPKG8YzJY&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=Ta0yiP4s8WeE8Lc5GKZLiA&_nc_ss=78100&oh=00_Af8pGpD_gRP61KD0aArtV8JtIkj836CMcniMfMDf1NlN5Q&oe=6A21D923"
 feedback_id: "ZmVlZGJhY2s6MTIyMTg4ODUyNDU0OTM2ODk1"
 page_canonical_url: "https://www.facebook.com/people/%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E-WJ-Capital-Perspective/61578106860333/"
 ---
 
 # 最近歐美與中國最紅的就是「養龍蝦」，不是在養真的龍蝦，而是在講部署AI agent。因為 OpenClaw 這類 agent 框架在那邊很紅，大家就把這種會自己調工具、讀資料、跑流程、做任務的 AI 系統，半開玩笑叫做「龍蝦」。所以所謂「養龍蝦」，本質上就是把 AI 從單純聊天，變成能長時間在線、持續做事的數位員工。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0W8okYqycgwbfwnoDATc2Z7xtgVBBnUx2k7vKQsh7XdFe7d99wotJttMCn94UUKGgl&id=61578106860333
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0VxfTsr7ZRGZZrv5f3384NGRnuGmzVfiSDDfoCF5fCwGgtaFPo6adW3JwoSPWfWEyl&id=61578106860333
 
-![最近歐美與中國最紅的就是「養龍蝦」，不是在養真的龍蝦，而是在講部署AI agent。因為 OpenClaw 這類 agent 框架在那邊很紅，大家就把這種會自己調工具、讀資料、跑流程、做任務的 AI 系統，半開玩笑叫做「龍蝦」。所以所謂「養龍蝦」，本質上就是把 AI 從單純聊天，變成能長時間在線、持續做事的數位員工。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/649827846_122188852418936895_1900005696641496384_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=7b2446&_nc_ohc=Pycq_fbfTjEQ7kNvwH1TlOq&_nc_oc=AdpSY2nPbNNwjEWWs7mbabCp3V9mD3KDuM_pUISww5yvaaJRZbTtP_6im96LPN5Jaxc&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=cJ6dQ4xN_lmq1rXveZc7FQ&_nc_ss=78100&oh=00_Af60DBzxDP6kt0Wv-X8Mh3G9671yfmMkYi91YpxrC7mP7Q&oe=6A01FCE3)
+![最近歐美與中國最紅的就是「養龍蝦」，不是在養真的龍蝦，而是在講部署AI agent。因為 OpenClaw 這類 agent 框架在那邊很紅，大家就把這種會自己調工具、讀資料、跑流程、做任務的 AI 系統，半開玩笑叫做「龍蝦」。所以所謂「養龍蝦」，本質上就是把 AI 從單純聊天，變成能長時間在線、持續做事的數位員工。](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/649827846_122188852418936895_1900005696641496384_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=BDXmmK0LwyAQ7kNvwE1fbpt&_nc_oc=Adrl19XwaGzDA0TAAfemJtk5i2idiWMD00U-44ZRj4BA3RRENdKqyrsU5kIPKG8YzJY&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=Ta0yiP4s8WeE8Lc5GKZLiA&_nc_ss=78100&oh=00_Af8pGpD_gRP61KD0aArtV8JtIkj836CMcniMfMDf1NlN5Q&oe=6A21D923)
 最近歐美與中國最紅的就是「養龍蝦」，不是在養真的龍蝦，而是在講部署AI agent。因為 OpenClaw 這類 agent 框架在那邊很紅，大家就把這種會自己調工具、讀資料、跑流程、做任務的 AI 系統，半開玩笑叫做「龍蝦」。所以所謂「養龍蝦」，本質上就是把 AI 從單純聊天，變成能長時間在線、持續做事的數位員工。
 
 如果今天龍蝦只是回你一句話、做完一個問答，那它吃掉的其實只是一些 API call，對硬體影響有限。但真正開始進企業、進客服、進知識管理、進行政流程、進供應鏈協作的龍蝦，不是這樣。它是長時間在線、持續調工具、持續讀寫資料、持續保留狀態、持續執行任務的。它不是問完就結束，而是一直活著、一直工作、一直把資料堆積下來。這時候，龍蝦吃掉的就不只是算力，而是整個記憶體與存儲體系。
@@ -35,11 +35,3 @@ page_canonical_url: "https://www.facebook.com/people/%E8%90%AC%E9%88%9E%E6%B3%95
 更關鍵的是，供給端現在又不是毫無節制地擴產。前幾年 NAND 廠商經歷過大虧損之後，資本支出明顯收斂，擴產速度保守，技術轉換週期也變長。也就是說，龍蝦這邊開始大量吃存儲，另一邊供給卻沒有同步大幅放開。這種結構下，NAND 的吃緊就不是短期補庫存，而是 AI 工作負載改變之後，整個產業鏈開始重新定價。
 
 所以真正把這件事看清楚之後，邏輯其實很簡單。補貼養龍蝦，表面上是在補 agent，實際上是在加速一種新的工作負載進入企業與資料中心；而這種新的工作負載，最終不只推升 CPU、DRAM、一般型伺服器，也一定會一路往下吃到 NAND 與 enterprise SSD。龍蝦越多，NAND 越缺；龍蝦越常駐，存儲越重要；龍蝦越像真正的數位員工，NAND 就越不像過去那種單純看景氣循環的老產業。
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-03-11_%E6%9C%80%E8%BF%91%E6%AD%90%E7%BE%8E%E8%88%87%E4%B8%AD%E5%9C%8B%E6%9C%80%E7%B4%85%E7%9A%84%E5%B0%B1%E6%98%AF%E9%A4%8A%E9%BE%8D%E8%9D%A6%E4%B8%8D%E6%98%AF%E5%9C%A8%E9%A4%8A%E7%9C%9F%E7%9A%84%E9%BE%8D%E8%9D%A6%E8%80%8C%E6%98%AF%E5%9C%A8%E8%AC%9B%E9%83%A8%E7%BD%B2AI-agent%E5%9B%A0%E7%82%BA-OpenClaw-%E9%80%99%E9%A1%9E-agent-%E6%A1%86%E6%9E%B6%E5%9C%A8%E9%82%A3%E9%82%8A%E5%BE%88%E7%B4%85%E5%A4%A7%E5%AE%B6%E5%B0%B1%E6%8A%8A%E9%80%99%E7%A8%AE%E6%9C%83%E8%87%AA%E5%B7%B1%E8%AA%BF%E5%B7%A5%E5%85%B7%E8%AE%80%E8%B3%87%E6%96%99.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-03-11_%E6%9C%80%E8%BF%91%E6%AD%90%E7%BE%8E%E8%88%87%E4%B8%AD%E5%9C%8B%E6%9C%80%E7%B4%85%E7%9A%84%E5%B0%B1%E6%98%AF%E9%A4%8A%E9%BE%8D%E8%9D%A6%E4%B8%8D%E6%98%AF%E5%9C%A8%E9%A4%8A%E7%9C%9F%E7%9A%84%E9%BE%8D%E8%9D%A6%E8%80%8C%E6%98%AF%E5%9C%A8%E8%AC%9B%E9%83%A8%E7%BD%B2AI-agent%E5%9B%A0%E7%82%BA-OpenClaw-%E9%80%99%E9%A1%9E-agent-%E6%A1%86%E6%9E%B6%E5%9C%A8%E9%82%A3%E9%82%8A%E5%BE%88%E7%B4%85%E5%A4%A7%E5%AE%B6%E5%B0%B1%E6%8A%8A%E9%80%99%E7%A8%AE%E6%9C%83%E8%87%AA%E5%B7%B1%E8%AA%BF%E5%B7%A5%E5%85%B7%E8%AE%80%E8%B3%87%E6%96%99.md&period=)

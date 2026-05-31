@@ -4,9 +4,9 @@ title: "在 Substack Chat 裡，有位讀者問了一個問題："
 page_title: "Fomo研究院"
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%99%A2/61573146584049/"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid029JqA8yPuCfN5AHneoFkowoC1AdW9rZTQfoVDD421cxW3A8ZnyFFrAju8ZJThduzql&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid05QtgFfdkGMzGA5Tx9aW4MRu5pcFSkQWDFtAVu7AXrCXKxBMUhZ2iMKfoaND3hVoSl&id=61573146584049"
 creation_time_utc: "2026-04-17T00:27:48+00:00"
-fetched_at_utc: "2026-05-04T08:42:23.231444+00:00"
+fetched_at_utc: "2026-05-31T10:37:29.965964+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%9
 
 # 在 Substack Chat 裡，有位讀者問了一個問題：
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid029JqA8yPuCfN5AHneoFkowoC1AdW9rZTQfoVDD421cxW3A8ZnyFFrAju8ZJThduzql&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid05QtgFfdkGMzGA5Tx9aW4MRu5pcFSkQWDFtAVu7AXrCXKxBMUhZ2iMKfoaND3hVoSl&id=61573146584049
 在 Substack Chat 裡，有位讀者問了一個問題：
 ​
 「科技巨頭如 Google、Nvidia 幾年前應該就預見了 CPU 對推理的重要性，為什麼沒有提前佈局產能？是 AI 需求太驚人，還是大家都在摸著石頭過河？」
@@ -75,11 +75,3 @@ page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%9
 我在最新一期的深入分析中，詳細分析了CPU的崛起，現在市場的趨勢，以及最重要的，不同標的的具體投資邏輯。我誠邀你閱讀全文，鏈結在下方。
 ​
 - KP
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-04-17_%E5%9C%A8-Substack-Chat-%E8%A3%A1%E6%9C%89%E4%BD%8D%E8%AE%80%E8%80%85%E5%95%8F%E4%BA%86%E4%B8%80%E5%80%8B%E5%95%8F%E9%A1%8C.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-04-17_%E5%9C%A8-Substack-Chat-%E8%A3%A1%E6%9C%89%E4%BD%8D%E8%AE%80%E8%80%85%E5%95%8F%E4%BA%86%E4%B8%80%E5%80%8B%E5%95%8F%E9%A1%8C.md&period=)

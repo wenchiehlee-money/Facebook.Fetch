@@ -4,22 +4,22 @@ title: "美國石油大亨洛克斐勒(John D Rockefeller)曾被記者提問:”
 page_title: "綠角財經筆記"
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02smJVMfibSNS3J8cNeBXG6KsuidxkY1NXp31f5zvWcEcD57Zqr12LbDCoHH8EoWhTl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02sbACgfrYAd4Kxi9XnzAUAxeCySSJfqRRXTpqSMyVXJkTv9DbVVuVCDQmvzngqPAFl"
 creation_time_utc: "2026-04-30T23:32:05+00:00"
-fetched_at_utc: "2026-05-07T04:04:35.374481+00:00"
+fetched_at_utc: "2026-05-31T10:32:27.148463+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/683872476_1390871466179583_4236716878606328843_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=Fm5Dgna1H7QQ7kNvwExpbCn&_nc_oc=Adqrh6iStFYHmImjjIByfZfuFEwLC0Kka8ArOiAu4AnrcgB62hvgUcNQv-CaG8rmjCU&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=0NMt2BCzvnqT1BCyIVmjrg&_nc_ss=78100&oh=00_Af6ZgO-JwYM9d0Q-dDilQqFF6_nUKx6nAyV3ucz5qMsB7g&oe=6A01F9A3"
+image_url: "https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/683872476_1390871466179583_4236716878606328843_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=z897fbzrIfgQ7kNvwGuo78N&_nc_oc=Adpo4a4DKucfL4bt1lsbNEKiy9-D756FOAY_7e79zD7zrIao41dSjlc0AQyc13wljMk&_nc_zt=23&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=S7sm2wFjG-usfCtKVYHVQg&_nc_ss=78100&oh=00_Af9njvMemzFGqjFYBQCgnfpPFeiMM_iPXFfCqp4zc2jadg&oe=6A21D5E3"
 feedback_id: "ZmVlZGJhY2s6MTM5MTM0NDYzNjEzMjI2Ng=="
 page_canonical_url: "https://www.facebook.com/GreenHornFans"
 ---
 
 # 美國石油大亨洛克斐勒(John D Rockefeller)曾被記者提問:”多少錢您才會覺得足夠呢?”
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02smJVMfibSNS3J8cNeBXG6KsuidxkY1NXp31f5zvWcEcD57Zqr12LbDCoHH8EoWhTl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02sbACgfrYAd4Kxi9XnzAUAxeCySSJfqRRXTpqSMyVXJkTv9DbVVuVCDQmvzngqPAFl
 
-![美國石油大亨洛克斐勒(John D Rockefeller)曾被記者提問:”多少錢您才會覺得足夠呢?”](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/683872476_1390871466179583_4236716878606328843_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=Fm5Dgna1H7QQ7kNvwExpbCn&_nc_oc=Adqrh6iStFYHmImjjIByfZfuFEwLC0Kka8ArOiAu4AnrcgB62hvgUcNQv-CaG8rmjCU&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=0NMt2BCzvnqT1BCyIVmjrg&_nc_ss=78100&oh=00_Af6ZgO-JwYM9d0Q-dDilQqFF6_nUKx6nAyV3ucz5qMsB7g&oe=6A01F9A3)
+![美國石油大亨洛克斐勒(John D Rockefeller)曾被記者提問:”多少錢您才會覺得足夠呢?”](https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/683872476_1390871466179583_4236716878606328843_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=z897fbzrIfgQ7kNvwGuo78N&_nc_oc=Adpo4a4DKucfL4bt1lsbNEKiy9-D756FOAY_7e79zD7zrIao41dSjlc0AQyc13wljMk&_nc_zt=23&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=S7sm2wFjG-usfCtKVYHVQg&_nc_ss=78100&oh=00_Af9njvMemzFGqjFYBQCgnfpPFeiMM_iPXFfCqp4zc2jadg&oe=6A21D5E3)
 美國石油大亨洛克斐勒(John D Rockefeller)曾被記者提問:”多少錢您才會覺得足夠呢?”
 
 洛克斐勒答:’只要再多一點”。(原文:Just a little more)
@@ -91,11 +91,3 @@ Things That Matter提出實做方法，那就是捐贈。將你的錢拿出來�
 因為錢，變得吝嗇、貪婪、焦燥、無情，你會與幸福絕緣。
 
 好好想清楚自己跟錢的關係。因為這是人生的重要決定。
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-30_%E7%BE%8E%E5%9C%8B%E7%9F%B3%E6%B2%B9%E5%A4%A7%E4%BA%A8%E6%B4%9B%E5%85%8B%E6%96%90%E5%8B%92John-D-Rockefeller%E6%9B%BE%E8%A2%AB%E8%A8%98%E8%80%85%E6%8F%90%E5%95%8F%E5%A4%9A%E5%B0%91%E9%8C%A2%E6%82%A8%E6%89%8D%E6%9C%83%E8%A6%BA%E5%BE%97%E8%B6%B3%E5%A4%A0%E5%91%A2.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-30_%E7%BE%8E%E5%9C%8B%E7%9F%B3%E6%B2%B9%E5%A4%A7%E4%BA%A8%E6%B4%9B%E5%85%8B%E6%96%90%E5%8B%92John-D-Rockefeller%E6%9B%BE%E8%A2%AB%E8%A8%98%E8%80%85%E6%8F%90%E5%95%8F%E5%A4%9A%E5%B0%91%E9%8C%A2%E6%82%A8%E6%89%8D%E6%9C%83%E8%A6%BA%E5%BE%97%E8%B6%B3%E5%A4%A0%E5%91%A2.md&period=)

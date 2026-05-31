@@ -4,22 +4,22 @@ title: "這輪財報季，有個讀者在我的 Substack Chat 中問了一個問
 page_title: "Fomo研究院"
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%99%A2/61573146584049/"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02cUxEWpHinjbCYeJKtJU4syazKYmWYnvUh9qa4TZftTwrQEu5dnhYuAbd67nPfyJal&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02cJowqpRfX5niJConi6bzfV7yp86sTEdcPzi7v1HNYeMDJVFbcEDLy4mNcp9jXy5Dl&id=61573146584049"
 creation_time_utc: "2026-05-04T14:13:04+00:00"
-fetched_at_utc: "2026-05-07T04:06:50.560925+00:00"
+fetched_at_utc: "2026-05-31T10:37:29.965964+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/686946194_122181477248771552_3026850059000764658_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=1-7&_nc_sid=7b2446&_nc_ohc=MOqbUiijRXoQ7kNvwHpVqPd&_nc_oc=AdoiDFYB93oCOundRpu8RH5xgg16DEt0nUfKDPIhwECtT5w9mi986P1hJFwDZwn9BYk&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=Qj31U30a8Y3BVX-nW1Y69w&_nc_ss=78100&oh=00_Af7pCxpMqOt00hkR5Q5tTCDr3uhUAfoyeLYIkUNQQK9rnw&oe=6A01C8D9"
+image_url: "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/686946194_122181477248771552_3026850059000764658_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=CUWOC_mZRRcQ7kNvwGCQoZ5&_nc_oc=Adr7TWqyBM2CoPNl5pU5mWTIIg-UpMtghGtX4gebZF6wnSbgSI7NHECxjlrsidhq55A&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=tBaRcUrdGbxMY6gJtKMeYA&_nc_ss=78100&oh=00_Af8O0b53fLjp-S8BiHGTRnL_d7NL-qP-QGR2dWAlEiopxg&oe=6A21DD59"
 feedback_id: "ZmVlZGJhY2s6MTIyMTgxNDc3MjcyNzcxNTUy"
 page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%99%A2/61573146584049/"
 ---
 
 # 這輪財報季，有個讀者在我的 Substack Chat 中問了一個問題，大概意思如下：
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02cUxEWpHinjbCYeJKtJU4syazKYmWYnvUh9qa4TZftTwrQEu5dnhYuAbd67nPfyJal&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02cJowqpRfX5niJConi6bzfV7yp86sTEdcPzi7v1HNYeMDJVFbcEDLy4mNcp9jXy5Dl&id=61573146584049
 
-![這輪財報季，有個讀者在我的 Substack Chat 中問了一個問題，大概意思如下：](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/686946194_122181477248771552_3026850059000764658_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=1-7&_nc_sid=7b2446&_nc_ohc=MOqbUiijRXoQ7kNvwHpVqPd&_nc_oc=AdoiDFYB93oCOundRpu8RH5xgg16DEt0nUfKDPIhwECtT5w9mi986P1hJFwDZwn9BYk&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=Qj31U30a8Y3BVX-nW1Y69w&_nc_ss=78100&oh=00_Af7pCxpMqOt00hkR5Q5tTCDr3uhUAfoyeLYIkUNQQK9rnw&oe=6A01C8D9)
+![這輪財報季，有個讀者在我的 Substack Chat 中問了一個問題，大概意思如下：](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/686946194_122181477248771552_3026850059000764658_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=CUWOC_mZRRcQ7kNvwGCQoZ5&_nc_oc=Adr7TWqyBM2CoPNl5pU5mWTIIg-UpMtghGtX4gebZF6wnSbgSI7NHECxjlrsidhq55A&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=tBaRcUrdGbxMY6gJtKMeYA&_nc_ss=78100&oh=00_Af8O0b53fLjp-S8BiHGTRnL_d7NL-qP-QGR2dWAlEiopxg&oe=6A21DD59)
 這輪財報季，有個讀者在我的 Substack Chat 中問了一個問題，大概意思如下：
 ​
 「財報數據究竟應該如何看，華爾街是怎樣決定何時拉升或拋售某隻股票的？」
@@ -97,11 +97,3 @@ page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%9
 我在週末深入分析了五大巨頭的財報，週末筆記完全免費，你只需要訂閱電子報，就能每星期獲得最新看法。
 ​
 - KP
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-05-04_%E9%80%99%E8%BC%AA%E8%B2%A1%E5%A0%B1%E5%AD%A3%E6%9C%89%E5%80%8B%E8%AE%80%E8%80%85%E5%9C%A8%E6%88%91%E7%9A%84-Substack-Chat-%E4%B8%AD%E5%95%8F%E4%BA%86%E4%B8%80%E5%80%8B%E5%95%8F%E9%A1%8C%E5%A4%A7%E6%A6%82%E6%84%8F%E6%80%9D%E5%A6%82%E4%B8%8B.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-05-04_%E9%80%99%E8%BC%AA%E8%B2%A1%E5%A0%B1%E5%AD%A3%E6%9C%89%E5%80%8B%E8%AE%80%E8%80%85%E5%9C%A8%E6%88%91%E7%9A%84-Substack-Chat-%E4%B8%AD%E5%95%8F%E4%BA%86%E4%B8%80%E5%80%8B%E5%95%8F%E9%A1%8C%E5%A4%A7%E6%A6%82%E6%84%8F%E6%80%9D%E5%A6%82%E4%B8%8B.md&period=)

@@ -4,22 +4,22 @@ title: "從2002開始，標普公司每年發行一份名為SPIVA計分卡(SPIVA
 page_title: "綠角財經筆記"
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02t99KvCfX7LxehCTFqdnPVyu6tGU2ouQssTorxRvghyHZqGr57WyxuPvr7vWJouPFl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02sy13FCoTqqF8saPHvFG6TjBZKqvNw49fwduzeyixJDCVUQePNczbsMJrKMHK16oul"
 creation_time_utc: "2026-04-07T23:30:04+00:00"
-fetched_at_utc: "2026-05-07T04:04:35.374481+00:00"
+fetched_at_utc: "2026-05-31T10:32:27.148463+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/667980638_1373234804609916_5019128763960341750_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=ptEA56B5ufQQ7kNvwGVFBUs&_nc_oc=AdobTe4f_3bw2TgdAV3YFyvHCub1RuD5yvjrfImWtUmTLxGYQodrF77yIUxgPc5NtC0&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=V6-Q8bWeeDab8siR7qHVPA&_nc_ss=78100&oh=00_Af7v-Bp3KwoX3BDnGbSMDQHt03l_PUddDfeH3IAAJ6nWRQ&oe=6A01CBD4"
+image_url: "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/667980638_1373234804609916_5019128763960341750_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Gm0Wrw4xDEAQ7kNvwEw5KMg&_nc_oc=AdowxFnx8e6-d1Ma7YGch_sMU5yRf0zI5J4E-RoYxqeNlmrv1-s4PlbPQIv9oWopTts&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=ReR0KgrbmB3h4Yzx9k7Phw&_nc_ss=78100&oh=00_Af8WMajpzE1qoxP2GTZaYCuzLw0-pbumaT0walAYe4cyhg&oe=6A21E054"
 feedback_id: "ZmVlZGJhY2s6MTM3MzUzNjIzNDU3OTc3Mw=="
 page_canonical_url: "https://www.facebook.com/GreenHornFans"
 ---
 
 # 從2002開始，標普公司每年發行一份名為SPIVA計分卡(SPIVA Scorecard)的報告。SPIVA是S&P Indices versus Active，”標普指數跟主動型基金對比”的縮寫。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02t99KvCfX7LxehCTFqdnPVyu6tGU2ouQssTorxRvghyHZqGr57WyxuPvr7vWJouPFl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02sy13FCoTqqF8saPHvFG6TjBZKqvNw49fwduzeyixJDCVUQePNczbsMJrKMHK16oul
 
-![從2002開始，標普公司每年發行一份名為SPIVA計分卡(SPIVA Scorecard)的報告。SPIVA是S&P Indices versus Active，”標普指數跟主動型基金對比”的縮寫。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/667980638_1373234804609916_5019128763960341750_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=ptEA56B5ufQQ7kNvwGVFBUs&_nc_oc=AdobTe4f_3bw2TgdAV3YFyvHCub1RuD5yvjrfImWtUmTLxGYQodrF77yIUxgPc5NtC0&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=V6-Q8bWeeDab8siR7qHVPA&_nc_ss=78100&oh=00_Af7v-Bp3KwoX3BDnGbSMDQHt03l_PUddDfeH3IAAJ6nWRQ&oe=6A01CBD4)
+![從2002開始，標普公司每年發行一份名為SPIVA計分卡(SPIVA Scorecard)的報告。SPIVA是S&P Indices versus Active，”標普指數跟主動型基金對比”的縮寫。](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/667980638_1373234804609916_5019128763960341750_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Gm0Wrw4xDEAQ7kNvwEw5KMg&_nc_oc=AdowxFnx8e6-d1Ma7YGch_sMU5yRf0zI5J4E-RoYxqeNlmrv1-s4PlbPQIv9oWopTts&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=ReR0KgrbmB3h4Yzx9k7Phw&_nc_ss=78100&oh=00_Af8WMajpzE1qoxP2GTZaYCuzLw0-pbumaT0walAYe4cyhg&oe=6A21E054)
 從2002開始，標普公司每年發行一份名為SPIVA計分卡(SPIVA Scorecard)的報告。SPIVA是S&P Indices versus Active，”標普指數跟主動型基金對比”的縮寫。
 
 該報告詳細整理各資產類別的主動型基金與對應市場指數兩者相比的成果。
@@ -77,11 +77,3 @@ page_canonical_url: "https://www.facebook.com/GreenHornFans"
 選對產業，萬一經理人主動選股選錯股票，也會落後指數。
 
 那為什麼還要投資主動型基金呢?
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-07_%E5%BE%9E2002%E9%96%8B%E5%A7%8B%E6%A8%99%E6%99%AE%E5%85%AC%E5%8F%B8%E6%AF%8F%E5%B9%B4%E7%99%BC%E8%A1%8C%E4%B8%80%E4%BB%BD%E5%90%8D%E7%82%BASPIVA%E8%A8%88%E5%88%86%E5%8D%A1SPIVA-Scorecard%E7%9A%84%E5%A0%B1%E5%91%8ASPIVA%E6%98%AFSP-Indices-versus-Active%E6%A8%99%E6%99%AE%E6%8C%87%E6%95%B8%E8%B7%9F.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-07_%E5%BE%9E2002%E9%96%8B%E5%A7%8B%E6%A8%99%E6%99%AE%E5%85%AC%E5%8F%B8%E6%AF%8F%E5%B9%B4%E7%99%BC%E8%A1%8C%E4%B8%80%E4%BB%BD%E5%90%8D%E7%82%BASPIVA%E8%A8%88%E5%88%86%E5%8D%A1SPIVA-Scorecard%E7%9A%84%E5%A0%B1%E5%91%8ASPIVA%E6%98%AFSP-Indices-versus-Active%E6%A8%99%E6%99%AE%E6%8C%87%E6%95%B8%E8%B7%9F.md&period=)

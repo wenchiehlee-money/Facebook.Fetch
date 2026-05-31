@@ -4,22 +4,22 @@ title: "📱《TrendForce》報導，#衛星直連手機（Direct-to-Cell，#D2C
 page_title: "FinGuider 美股資訊網"
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid02fC78NTMQiU6csCuDEuXnnVY53ZJNKLbLJYJMPdrG8zteFdJJSLDhMJ8Rp32FCfpGl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid02f1xqhTVMSkbp2f3Ri4c5dqgazH62r2h9emZwU8xAqtoi4SzjibfkumMrharW39hpl"
 creation_time_utc: "2026-04-29T10:08:00+00:00"
-fetched_at_utc: "2026-05-07T04:02:53.303551+00:00"
+fetched_at_utc: "2026-05-31T10:28:01.101180+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/684274568_1433302055506604_6610819089805457223_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=JI9O2V0Cnz8Q7kNvwE3c349&_nc_oc=AdovtGiVJqj9mnRc6ko38jAZC06kKa36lbFgA4r7gkbc42bDkFGSDEIyPyw3maP6jHo&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=WO36UGFQHfx0XMQMjf07HQ&_nc_ss=78100&oh=00_Af7QkF4BrBZ0Gm_76_N4ePG9nGh3tyc-Us6dwxufBvbtxw&oe=6A01EC88"
+image_url: "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/684274568_1433302055506604_6610819089805457223_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=s6zYmqJR5nQQ7kNvwEcDtjR&_nc_oc=AdrutvQ1ci5veHBqtwejEZkTKKCgg3N27GUn0fRgRKJflGETibfACYZZ3vlJNXNhMVg&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=ATC0cv144z0W4XTb2eZn0A&_nc_ss=78100&oh=00_Af8pxtrCaKq3vKnj8dvlOKsmNUYN2oicBJ--Z9cKCvRE6Q&oe=6A21C8C8"
 feedback_id: "ZmVlZGJhY2s6MTQzMzMwMjczODgzOTg2OQ=="
 page_canonical_url: "https://www.facebook.com/FinGuider"
 ---
 
 # 📱《TrendForce》報導，#衛星直連手機（Direct-to-Cell，#D2C）技術正快速成熟，隨著行動通訊技術的關鍵標準 3GPP Release 17、18 納入衛星通訊，市場進入實質商轉階段。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid02fC78NTMQiU6csCuDEuXnnVY53ZJNKLbLJYJMPdrG8zteFdJJSLDhMJ8Rp32FCfpGl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid02f1xqhTVMSkbp2f3Ri4c5dqgazH62r2h9emZwU8xAqtoi4SzjibfkumMrharW39hpl
 
-![📱《TrendForce》報導，#衛星直連手機（Direct-to-Cell，#D2C）技術正快速成熟，隨著行動通訊技術的關鍵標準 3GPP Release 17、18 納入衛星通訊，市場進入實質商轉階段。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/684274568_1433302055506604_6610819089805457223_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=JI9O2V0Cnz8Q7kNvwE3c349&_nc_oc=AdovtGiVJqj9mnRc6ko38jAZC06kKa36lbFgA4r7gkbc42bDkFGSDEIyPyw3maP6jHo&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=WO36UGFQHfx0XMQMjf07HQ&_nc_ss=78100&oh=00_Af7QkF4BrBZ0Gm_76_N4ePG9nGh3tyc-Us6dwxufBvbtxw&oe=6A01EC88)
+![📱《TrendForce》報導，#衛星直連手機（Direct-to-Cell，#D2C）技術正快速成熟，隨著行動通訊技術的關鍵標準 3GPP Release 17、18 納入衛星通訊，市場進入實質商轉階段。](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/684274568_1433302055506604_6610819089805457223_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=s6zYmqJR5nQQ7kNvwEcDtjR&_nc_oc=AdrutvQ1ci5veHBqtwejEZkTKKCgg3N27GUn0fRgRKJflGETibfACYZZ3vlJNXNhMVg&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=ATC0cv144z0W4XTb2eZn0A&_nc_ss=78100&oh=00_Af8pxtrCaKq3vKnj8dvlOKsmNUYN2oicBJ--Z9cKCvRE6Q&oe=6A21C8C8)
 📱《TrendForce》報導，#衛星直連手機（Direct-to-Cell，#D2C）技術正快速成熟，隨著行動通訊技術的關鍵標準 3GPP Release 17、18 納入衛星通訊，市場進入實質商轉階段。
 
 《TrendForce》預估，2026 年全球 D2C 市場規模將達 76 億美元、年成長約 49％，成長動能相當明確。
@@ -39,11 +39,3 @@ page_canonical_url: "https://www.facebook.com/FinGuider"
 🔸供應鏈方面，上游聚焦射頻（RF）模組與基頻晶片，亞德諾半導體（ADI）、科沃（QRVO）為主要供應商；中游交給 Starlink、AST 負責系統整合；下游則是由三星、Google（GOOGL）等手機品牌導入高通（QCOM）、聯發科的方案。
 ​
 對於投資人來說，這波 D2C 趨勢不僅是通訊產業的技術升級，更是全球連網基礎建設的重大補強，不過前方仍有許多技術待執行（衛星發射進度、訊號品質），此外各國頻譜分配與資本密集風險也不容忽視。
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-29_TrendForce%E5%A0%B1%E5%B0%8E%E8%A1%9B%E6%98%9F%E7%9B%B4%E9%80%A3%E6%89%8B%E6%A9%9FDirect-to-CellD2C%E6%8A%80%E8%A1%93%E6%AD%A3%E5%BF%AB%E9%80%9F%E6%88%90%E7%86%9F%E9%9A%A8%E8%91%97%E8%A1%8C%E5%8B%95%E9%80%9A%E8%A8%8A%E6%8A%80%E8%A1%93%E7%9A%84%E9%97%9C%E9%8D%B5%E6%A8%99%E6%BA%96-3GPP-Release-1718-%E7%B4%8D%E5%85%A5%E8%A1%9B%E6%98%9F%E9%80%9A%E8%A8%8A.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=1718%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=1718&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-04-29_TrendForce%E5%A0%B1%E5%B0%8E%E8%A1%9B%E6%98%9F%E7%9B%B4%E9%80%A3%E6%89%8B%E6%A9%9FDirect-to-CellD2C%E6%8A%80%E8%A1%93%E6%AD%A3%E5%BF%AB%E9%80%9F%E6%88%90%E7%86%9F%E9%9A%A8%E8%91%97%E8%A1%8C%E5%8B%95%E9%80%9A%E8%A8%8A%E6%8A%80%E8%A1%93%E7%9A%84%E9%97%9C%E9%8D%B5%E6%A8%99%E6%BA%96-3GPP-Release-1718-%E7%B4%8D%E5%85%A5%E8%A1%9B%E6%98%9F%E9%80%9A%E8%A8%8A.md&period=)

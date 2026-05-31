@@ -4,22 +4,22 @@ title: "關於Elon Musk的Terfab半導體超級工廠，很多人都在爭論可
 page_title: "Fomo研究院"
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%99%A2/61573146584049/"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02wp6v5hUjuxgqpndUt1FVLSDPPP1vnSnXRNcfeW2EAB1b31uucSEa8b4z2hdv7gM3l&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0tQ7xm3HnoK5nDNWJpD2qjdy6rfquBMJTUsnE7JbMSUArcm45sDPEPTw6VhxN3cVXl&id=61573146584049"
 creation_time_utc: "2026-03-29T10:53:56+00:00"
-fetched_at_utc: "2026-05-04T08:42:23.231444+00:00"
+fetched_at_utc: "2026-05-31T10:37:29.965964+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/659730266_122177316278771552_6695948338403633023_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=7b2446&_nc_ohc=-OrTIqgQ0rgQ7kNvwFZX6ig&_nc_oc=AdqdETwK4jeLurbKCGqoBxElqtqDFO2FUeJNbibW7FigUVWyc9pzXZafEE1fxTV-z78&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=8ZcOCtMbAu4_dy9imnfRgA&_nc_ss=78100&oh=00_Af6cGO3vtgfws4S-I9tty_iCb21SMC-2ZgAYM7c5yFsYpg&oe=69FE2CF2"
+image_url: "https://scontent.ftpe8-3.fna.fbcdn.net/v/t39.30808-6/659730266_122177316278771552_6695948338403633023_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3OXbz49KY5EQ7kNvwHOVcd2&_nc_oc=Adr7IIQy015-20x71u-CgHIyr3oO8d9izV8nJssGjVAILZpIKO6U8uQ-IS8hKFizyZc&_nc_zt=23&_nc_ht=scontent.ftpe8-3.fna&_nc_gid=w-zi33ZOwUfU5Gg6xbqExQ&_nc_ss=78100&oh=00_Af82n8Bv6VbLBUFiIySqpd_QG2Mdin8Wq_AbRxne8lH97Q&oe=6A21FDB2"
 feedback_id: "ZmVlZGJhY2s6MTIyMTc3MzE2MzAyNzcxNTUy"
 page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%99%A2/61573146584049/"
 ---
 
 # 關於Elon Musk的Terfab半導體超級工廠，很多人都在爭論可行性，2奈米製程根本不是隨意就能成功等等。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02wp6v5hUjuxgqpndUt1FVLSDPPP1vnSnXRNcfeW2EAB1b31uucSEa8b4z2hdv7gM3l&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0tQ7xm3HnoK5nDNWJpD2qjdy6rfquBMJTUsnE7JbMSUArcm45sDPEPTw6VhxN3cVXl&id=61573146584049
 
-![關於Elon Musk的Terfab半導體超級工廠，很多人都在爭論可行性，2奈米製程根本不是隨意就能成功等等。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/659730266_122177316278771552_6695948338403633023_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=7b2446&_nc_ohc=-OrTIqgQ0rgQ7kNvwFZX6ig&_nc_oc=AdqdETwK4jeLurbKCGqoBxElqtqDFO2FUeJNbibW7FigUVWyc9pzXZafEE1fxTV-z78&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=8ZcOCtMbAu4_dy9imnfRgA&_nc_ss=78100&oh=00_Af6cGO3vtgfws4S-I9tty_iCb21SMC-2ZgAYM7c5yFsYpg&oe=69FE2CF2)
+![關於Elon Musk的Terfab半導體超級工廠，很多人都在爭論可行性，2奈米製程根本不是隨意就能成功等等。](https://scontent.ftpe8-3.fna.fbcdn.net/v/t39.30808-6/659730266_122177316278771552_6695948338403633023_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3OXbz49KY5EQ7kNvwHOVcd2&_nc_oc=Adr7IIQy015-20x71u-CgHIyr3oO8d9izV8nJssGjVAILZpIKO6U8uQ-IS8hKFizyZc&_nc_zt=23&_nc_ht=scontent.ftpe8-3.fna&_nc_gid=w-zi33ZOwUfU5Gg6xbqExQ&_nc_ss=78100&oh=00_Af82n8Bv6VbLBUFiIySqpd_QG2Mdin8Wq_AbRxne8lH97Q&oe=6A21FDB2)
 關於Elon Musk的Terfab半導體超級工廠，很多人都在爭論可行性，2奈米製程根本不是隨意就能成功等等。
 ​
 但作為投資者，我們不需要跟著群眾的情緒起伏，而是應該思考問題的本質。
@@ -84,11 +84,3 @@ p.s. 這個主題，收錄在我這個星期的<思考筆記>中，當中有6個
 主題六：CLARITY 法案流出，穩定幣前景不明？
 ​
 <週末筆記>完全免費，你只需要訂閱我的電子報，就能每個星期獲得該星期最值得關注的所有資訊，以及我的看法。
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=MU%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=MU&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-03-29_%E9%97%9C%E6%96%BCElon-Musk%E7%9A%84Terfab%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%B6%85%E7%B4%9A%E5%B7%A5%E5%BB%A0%E5%BE%88%E5%A4%9A%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%88%AD%E8%AB%96%E5%8F%AF%E8%A1%8C%E6%80%A72%E5%A5%88%E7%B1%B3%E8%A3%BD%E7%A8%8B%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%98%AF%E9%9A%A8%E6%84%8F%E5%B0%B1%E8%83%BD%E6%88%90%E5%8A%9F%E7%AD%89%E7%AD%89.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=MU%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=MU&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-03-29_%E9%97%9C%E6%96%BCElon-Musk%E7%9A%84Terfab%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%B6%85%E7%B4%9A%E5%B7%A5%E5%BB%A0%E5%BE%88%E5%A4%9A%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%88%AD%E8%AB%96%E5%8F%AF%E8%A1%8C%E6%80%A72%E5%A5%88%E7%B1%B3%E8%A3%BD%E7%A8%8B%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%98%AF%E9%9A%A8%E6%84%8F%E5%B0%B1%E8%83%BD%E6%88%90%E5%8A%9F%E7%AD%89%E7%AD%89.md&period=)

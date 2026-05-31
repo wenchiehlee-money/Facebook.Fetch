@@ -4,22 +4,22 @@ title: "如果你之前還不認識 Citrini Research 的話，這兩個月過來
 page_title: "Fomo研究院"
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%99%A2/61573146584049/"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02ajPLmPpv3isD81XrmDyKfriW6wGfmZ6Gw9trLWmhiJYQAcfHtJcNBhCrfvN1ionul&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0XKQPSjdxw36Gs1SQzercKXADdwFNz64ma4UvkHZLKbRy8fAmAwd6SSkivw1766Zzl&id=61573146584049"
 creation_time_utc: "2026-04-07T05:03:41+00:00"
-fetched_at_utc: "2026-05-04T08:42:23.231444+00:00"
+fetched_at_utc: "2026-05-31T10:37:29.965964+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/667302272_122178319364771552_6046943532195811356_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=7b2446&_nc_ohc=ZfA6Md7B0NUQ7kNvwEMX7Nd&_nc_oc=AdpMplthtOhIwY-B3ugxOln-cMC9D4Lq6TjjCTU10jnRpVPIbq_vZAuFrgDZed20ENc&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=8uBl1oeIDwITr0jUKkzo4w&_nc_ss=78100&oh=00_Af53-1Z11ntieZ3-mkpAUx2i0SikGXjs4S7esQQ2Qk4dgA&oe=69FE4327"
+image_url: "https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/667302272_122178319364771552_6046943532195811356_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=72KB4_3DfLEQ7kNvwF-Tkuo&_nc_oc=AdqR5eKZMV5XHFkaynaV4MloSr8PvkUR9xUTjbVzuDXrdAHLOwWjY5pqG1LO6ULr-MA&_nc_zt=23&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=k71XBhuqRBi5jMyn4TeGfA&_nc_ss=78100&oh=00_Af8BqUw4j_xdoXfzLj0euNQC1ahXHSz7gO10PcZblGaLMA&oe=6A21DBA7"
 feedback_id: "ZmVlZGJhY2s6MTIyMTc4MzE5Mzg4NzcxNTUy"
 page_canonical_url: "https://www.facebook.com/people/Fomo%E7%A0%94%E7%A9%B6%E9%99%A2/61573146584049/"
 ---
 
 # 如果你之前還不認識 Citrini Research 的話，這兩個月過來，你應該不會對這個名字陌生。他們先是發佈了那篇廣為報導的「AI 末日研究」，令整個華爾街都在討論 AI 會否令大部份人失業。然後就在昨天，他們發佈了一篇最新研究，再次引起極大討論。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02ajPLmPpv3isD81XrmDyKfriW6wGfmZ6Gw9trLWmhiJYQAcfHtJcNBhCrfvN1ionul&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0XKQPSjdxw36Gs1SQzercKXADdwFNz64ma4UvkHZLKbRy8fAmAwd6SSkivw1766Zzl&id=61573146584049
 
-![如果你之前還不認識 Citrini Research 的話，這兩個月過來，你應該不會對這個名字陌生。他們先是發佈了那篇廣為報導的「AI 末日研究」，令整個華爾街都在討論 AI 會否令大部份人失業。然後就在昨天，他們發佈了一篇最新研究，再次引起極大討論。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/667302272_122178319364771552_6046943532195811356_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=7b2446&_nc_ohc=ZfA6Md7B0NUQ7kNvwEMX7Nd&_nc_oc=AdpMplthtOhIwY-B3ugxOln-cMC9D4Lq6TjjCTU10jnRpVPIbq_vZAuFrgDZed20ENc&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=8uBl1oeIDwITr0jUKkzo4w&_nc_ss=78100&oh=00_Af53-1Z11ntieZ3-mkpAUx2i0SikGXjs4S7esQQ2Qk4dgA&oe=69FE4327)
+![如果你之前還不認識 Citrini Research 的話，這兩個月過來，你應該不會對這個名字陌生。他們先是發佈了那篇廣為報導的「AI 末日研究」，令整個華爾街都在討論 AI 會否令大部份人失業。然後就在昨天，他們發佈了一篇最新研究，再次引起極大討論。](https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/667302272_122178319364771552_6046943532195811356_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=72KB4_3DfLEQ7kNvwF-Tkuo&_nc_oc=AdqR5eKZMV5XHFkaynaV4MloSr8PvkUR9xUTjbVzuDXrdAHLOwWjY5pqG1LO6ULr-MA&_nc_zt=23&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=k71XBhuqRBi5jMyn4TeGfA&_nc_ss=78100&oh=00_Af8BqUw4j_xdoXfzLj0euNQC1ahXHSz7gO10PcZblGaLMA&oe=6A21DBA7)
 如果你之前還不認識 Citrini Research 的話，這兩個月過來，你應該不會對這個名字陌生。他們先是發佈了那篇廣為報導的「AI 末日研究」，令整個華爾街都在討論 AI 會否令大部份人失業。然後就在昨天，他們發佈了一篇最新研究，再次引起極大討論。
 ​
 簡單來說，他們認為現在所有人都看錯了，市場賴以為生的航運數據根本不準。
@@ -67,11 +67,3 @@ Citrini 這份報告最重要的發現是：市場公認的航運數據，錯得
 Citrini的報告再次證明，在投資世界裡，獨立思考與求真精神，永遠是最重要的東西。
 ​
 - KP
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-04-07_%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%B9%8B%E5%89%8D%E9%82%84%E4%B8%8D%E8%AA%8D%E8%AD%98-Citrini-Research-%E7%9A%84%E8%A9%B1%E9%80%99%E5%85%A9%E5%80%8B%E6%9C%88%E9%81%8E%E4%BE%86%E4%BD%A0%E6%87%89%E8%A9%B2%E4%B8%8D%E6%9C%83%E5%B0%8D%E9%80%99%E5%80%8B%E5%90%8D%E5%AD%97%E9%99%8C%E7%94%9F%E4%BB%96%E5%80%91%E5%85%88%E6%98%AF%E7%99%BC%E4%BD%88%E4%BA%86%E9%82%A3%E7%AF%87%E5%BB%A3%E7%82%BA%E5%A0%B1%E5%B0%8E%E7%9A%84AI-%E6%9C%AB%E6%97%A5%E7%A0%94%E7%A9%B6%E4%BB%A4%E6%95%B4%E5%80%8B%E8%8F%AF%E7%88%BE%E8%A1%97%E9%83%BD%E5%9C%A8%E8%A8%8E%E8%AB%96-A.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFomo%E7%A0%94%E7%A9%B6%E9%99%A2%2F2026-04-07_%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%B9%8B%E5%89%8D%E9%82%84%E4%B8%8D%E8%AA%8D%E8%AD%98-Citrini-Research-%E7%9A%84%E8%A9%B1%E9%80%99%E5%85%A9%E5%80%8B%E6%9C%88%E9%81%8E%E4%BE%86%E4%BD%A0%E6%87%89%E8%A9%B2%E4%B8%8D%E6%9C%83%E5%B0%8D%E9%80%99%E5%80%8B%E5%90%8D%E5%AD%97%E9%99%8C%E7%94%9F%E4%BB%96%E5%80%91%E5%85%88%E6%98%AF%E7%99%BC%E4%BD%88%E4%BA%86%E9%82%A3%E7%AF%87%E5%BB%A3%E7%82%BA%E5%A0%B1%E5%B0%8E%E7%9A%84AI-%E6%9C%AB%E6%97%A5%E7%A0%94%E7%A9%B6%E4%BB%A4%E6%95%B4%E5%80%8B%E8%8F%AF%E7%88%BE%E8%A1%97%E9%83%BD%E5%9C%A8%E8%A8%8E%E8%AB%96-A.md&period=)

@@ -4,12 +4,12 @@ title: "為何Micron美光的forward P/E只有5.5x⋯"
 page_title: "美股探路客"
 requested_url: "https://www.facebook.com/raikk6"
 final_url: "https://www.facebook.com/raikk6"
-post_url: "https://www.facebook.com/raikk6/posts/pfbid0eq92LmLquDEeHerBKakdDHHMxt61G7p8XyJ9PkswKFxb7841FMdFWVKxTeyF65i1l"
+post_url: "https://www.facebook.com/raikk6/posts/pfbid0eezjfmUndZbGagLEDVJoFrSN3JNY5zn7gv4PkqUh6bKitrk3ysvkVVEcpoPYxUssl"
 creation_time_utc: "2026-04-18T05:49:30+00:00"
-fetched_at_utc: "2026-05-07T04:06:34.895742+00:00"
+fetched_at_utc: "2026-05-31T10:36:31.738986+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/raikk6/posts/pfbid0eq92LmLquDEeHerBKakdDHHMxt61G7p8XyJ9PkswKFxb7841FMdFWVKxTeyF65i1l"
+attachment_url: "https://www.facebook.com/raikk6/posts/pfbid0eezjfmUndZbGagLEDVJoFrSN3JNY5zn7gv4PkqUh6bKitrk3ysvkVVEcpoPYxUssl"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTM3OTI0NzcyMDkxNTgyOA=="
 page_canonical_url: "https://www.facebook.com/raikk6"
@@ -17,7 +17,7 @@ page_canonical_url: "https://www.facebook.com/raikk6"
 
 # 為何Micron美光的forward P/E只有5.5x⋯
 
-原文連結: https://www.facebook.com/raikk6/posts/pfbid0eq92LmLquDEeHerBKakdDHHMxt61G7p8XyJ9PkswKFxb7841FMdFWVKxTeyF65i1l
+原文連結: https://www.facebook.com/raikk6/posts/pfbid0eezjfmUndZbGagLEDVJoFrSN3JNY5zn7gv4PkqUh6bKitrk3ysvkVVEcpoPYxUssl
 為何Micron美光的forward P/E只有5.5x⋯
 
 昨天MarketWatch文章解釋了原因，華爾街目前預測美光2026營收為130.65B，2027成長33%，但2028年將衰退10%，到2028的年複合增長率只有9.5%
@@ -31,11 +31,3 @@ page_canonical_url: "https://www.facebook.com/raikk6"
 ◲ NVDA 21.7x、AVGO 27x及MU的5.5x 都低於去年底的水平，前兩者2026～2028的營收年複合增長率分別為26.2%、35.6%，但MU只有9.5%
 
 雖然無法預知華爾街分析師的預測準不準確，但短線股價還是必然會受影響
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-04-18_%E7%82%BA%E4%BD%95Micron%E7%BE%8E%E5%85%89%E7%9A%84forward-PE%E5%8F%AA%E6%9C%8955x.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=MU%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=MU&file_path=data%2F%E7%BE%8E%E8%82%A1%E6%8E%A2%E8%B7%AF%E5%AE%A2%2F2026-04-18_%E7%82%BA%E4%BD%95Micron%E7%BE%8E%E5%85%89%E7%9A%84forward-PE%E5%8F%AA%E6%9C%8955x.md&period=)

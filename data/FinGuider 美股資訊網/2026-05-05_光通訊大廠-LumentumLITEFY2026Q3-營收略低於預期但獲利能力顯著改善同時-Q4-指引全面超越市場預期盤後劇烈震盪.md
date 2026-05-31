@@ -4,22 +4,22 @@ title: "📌光通訊大廠 Lumentum（#LITE）FY2026Q3 營收略低於預期，
 page_title: "FinGuider 美股資訊網"
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid02bA4y28xPDeuJ6SuUzYUhVRPcaPAKsqc4UjhP5oNwo9tZt4KxQqh2QZcxBGPyo5UAl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid02bTtCunfXmiqmCH22QKva8Sgj3uuz8XmXVCVZFDEvnG9uUKxi9kMdy5MTAqcmFabRl"
 creation_time_utc: "2026-05-05T20:36:10+00:00"
-fetched_at_utc: "2026-05-07T04:02:53.303551+00:00"
+fetched_at_utc: "2026-05-31T10:28:01.101180+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/690536759_1439230481580428_2104386788434656138_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_ohc=3lZgC-_kIHYQ7kNvwHMTisD&_nc_oc=AdpDwbEmeeQZ8UGNwewGPNcNFi8PPtgeqZuHDSZpRoCdOv-1hut0LykvZy4QzjbZi40&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=U7zRy34wvp5YwnBVK7LFuw&_nc_ss=78100&oh=00_Af5emJ45Vd79606Uk-ue_qay50vmcB1imhksHwVVhNG3zw&oe=6A01DB80"
+image_url: "https://scontent.ftpe8-3.fna.fbcdn.net/v/t39.30808-6/690536759_1439230481580428_2104386788434656138_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Lvuotu_uA9UQ7kNvwEQLURn&_nc_oc=AdompPcPRiqw5yghPHASPPsgLTknwglnenpTIz83pTCdWkYU-nz6iBrPrHm7Qgfrx8k&_nc_zt=23&_nc_ht=scontent.ftpe8-3.fna&_nc_gid=-MWHRkHo0NivyYOvmVsHuw&_nc_ss=78100&oh=00_Af8BhgzgRnx0bOLuCWtIkNH-yqOtCLbONa2_2dIii8Mj3A&oe=6A21F000"
 feedback_id: "ZmVlZGJhY2s6MTQzOTAzMTc4NDkzMzYzMQ=="
 page_canonical_url: "https://www.facebook.com/FinGuider"
 ---
 
 # 📌光通訊大廠 Lumentum（#LITE）FY2026Q3 營收略低於預期，但獲利能力顯著改善，同時 Q4 指引全面超越市場預期，盤後劇烈震盪。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid02bA4y28xPDeuJ6SuUzYUhVRPcaPAKsqc4UjhP5oNwo9tZt4KxQqh2QZcxBGPyo5UAl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid02bTtCunfXmiqmCH22QKva8Sgj3uuz8XmXVCVZFDEvnG9uUKxi9kMdy5MTAqcmFabRl
 
-![📌光通訊大廠 Lumentum（#LITE）FY2026Q3 營收略低於預期，但獲利能力顯著改善，同時 Q4 指引全面超越市場預期，盤後劇烈震盪。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/690536759_1439230481580428_2104386788434656138_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_ohc=3lZgC-_kIHYQ7kNvwHMTisD&_nc_oc=AdpDwbEmeeQZ8UGNwewGPNcNFi8PPtgeqZuHDSZpRoCdOv-1hut0LykvZy4QzjbZi40&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=U7zRy34wvp5YwnBVK7LFuw&_nc_ss=78100&oh=00_Af5emJ45Vd79606Uk-ue_qay50vmcB1imhksHwVVhNG3zw&oe=6A01DB80)
+![📌光通訊大廠 Lumentum（#LITE）FY2026Q3 營收略低於預期，但獲利能力顯著改善，同時 Q4 指引全面超越市場預期，盤後劇烈震盪。](https://scontent.ftpe8-3.fna.fbcdn.net/v/t39.30808-6/690536759_1439230481580428_2104386788434656138_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Lvuotu_uA9UQ7kNvwEQLURn&_nc_oc=AdompPcPRiqw5yghPHASPPsgLTknwglnenpTIz83pTCdWkYU-nz6iBrPrHm7Qgfrx8k&_nc_zt=23&_nc_ht=scontent.ftpe8-3.fna&_nc_gid=-MWHRkHo0NivyYOvmVsHuw&_nc_ss=78100&oh=00_Af8BhgzgRnx0bOLuCWtIkNH-yqOtCLbONa2_2dIii8Mj3A&oe=6A21F000)
 📌光通訊大廠 Lumentum（#LITE）FY2026Q3 營收略低於預期，但獲利能力顯著改善，同時 Q4 指引全面超越市場預期，盤後劇烈震盪。
 🔴營收：8.08 億美元（YoY +90%）v.s. 8.1 億
 🟢EPS：2.37 美元（YoY +316%）v.s. 2.27 美元
@@ -59,10 +59,7 @@ Hurlston 預期，隨著 CPO 與 OCS 這兩項關鍵成長引擎開始發力，L
 🟢EPS：2.85～3.05 美元（YoY +235%）v.s. 2.69 美元
 🟢營益率：35%～36%（YoY +20.5ppt）v.s. 32.1%
 
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%202026%20Q3%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-05-05_%E5%85%89%E9%80%9A%E8%A8%8A%E5%A4%A7%E5%BB%A0-LumentumLITEFY2026Q3-%E7%87%9F%E6%94%B6%E7%95%A5%E4%BD%8E%E6%96%BC%E9%A0%90%E6%9C%9F%E4%BD%86%E7%8D%B2%E5%88%A9%E8%83%BD%E5%8A%9B%E9%A1%AF%E8%91%97%E6%94%B9%E5%96%84%E5%90%8C%E6%99%82-Q4-%E6%8C%87%E5%BC%95%E5%85%A8%E9%9D%A2%E8%B6%85%E8%B6%8A%E5%B8%82%E5%A0%B4%E9%A0%90%E6%9C%9F%E7%9B%A4%E5%BE%8C%E5%8A%87%E7%83%88%E9%9C%87%E7%9B%AA.md&period=2026%20Q3)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FFinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2%2F2026-05-05_%E5%85%89%E9%80%9A%E8%A8%8A%E5%A4%A7%E5%BB%A0-LumentumLITEFY2026Q3-%E7%87%9F%E6%94%B6%E7%95%A5%E4%BD%8E%E6%96%BC%E9%A0%90%E6%9C%9F%E4%BD%86%E7%8D%B2%E5%88%A9%E8%83%BD%E5%8A%9B%E9%A1%AF%E8%91%97%E6%94%B9%E5%96%84%E5%90%8C%E6%99%82-Q4-%E6%8C%87%E5%BC%95%E5%85%A8%E9%9D%A2%E8%B6%85%E8%B6%8A%E5%B8%82%E5%A0%B4%E9%A0%90%E6%9C%9F%E7%9B%A4%E5%BE%8C%E5%8A%87%E7%83%88%E9%9C%87%E7%9B%AA.md&period=2026%20Q3)
+👉光通訊概念股過去一個月飆漲約 +43%，遠超標普 500 指數的約 +10%
+https://finguider.cc/concept?list_id=C0057
+🎉歡慶 FinGuider #APP 上線，首波用戶享三個月優惠，適合想用零碎時間掌握美股重點、降低資訊整理成本的你！
+https://itunes.apple.com/app/id6759227113

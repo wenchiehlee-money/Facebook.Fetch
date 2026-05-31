@@ -4,22 +4,22 @@ title: "最近看到Nick Maggiulli的文章，覺得深有同感。跟大家分�
 page_title: "綠角財經筆記"
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0jRPo472V6vrUXPuAtijVmiv2tKDgeWnxo68MJTHKiWEJXyC2bzPBBRgsjRc6Nw7el"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0jjD2wkjdf9dufHmDjFZKj8egVTDmMPE6xmFkjUFgQBEwJ2GsGFX55D4xdPGW1qydl"
 creation_time_utc: "2026-03-22T23:30:07+00:00"
-fetched_at_utc: "2026-05-07T04:04:35.374481+00:00"
+fetched_at_utc: "2026-05-31T10:32:27.148463+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/655890121_1360621009204629_3112448534665716000_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=oCtjOm8-x98Q7kNvwE88WNE&_nc_oc=Adr0MMpGI4dfFMB6Nu9uVQUqCCcn8VsMzc4wyrUqbdt0mNfgwpXU0gplJ5kqVb6cj5Y&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=ZpIQBxw5bqONxOaM6n1Eeg&_nc_ss=78100&oh=00_Af5XDpnOqViL9E9JGdn_gCDxUBKbKoARtbsek7UDmb5A9A&oe=6A01D85F"
+image_url: "https://scontent.ftpe8-3.fna.fbcdn.net/v/t39.30808-6/655890121_1360621009204629_3112448534665716000_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rAkBPsZdFyoQ7kNvwGkk10w&_nc_oc=Adpd20U1x8vPvTNMljhkjs7w45SFGJC-spJMlpzRCwv0lQXz7M7I0IhWNH0RGeS79wU&_nc_zt=23&_nc_ht=scontent.ftpe8-3.fna&_nc_gid=Yfh6xUxzHgsz5WqgFFs13w&_nc_ss=78100&oh=00_Af99F5M7SEcyjmd3w-aWHQnKY_lCpd0XfCFzN_jAmodBow&oe=6A21ECDF"
 feedback_id: "ZmVlZGJhY2s6MTM2MDk1NzAwOTE3MTAyOQ=="
 page_canonical_url: "https://www.facebook.com/GreenHornFans"
 ---
 
 # 最近看到Nick Maggiulli的文章，覺得深有同感。跟大家分享我的心得。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0jRPo472V6vrUXPuAtijVmiv2tKDgeWnxo68MJTHKiWEJXyC2bzPBBRgsjRc6Nw7el
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0jjD2wkjdf9dufHmDjFZKj8egVTDmMPE6xmFkjUFgQBEwJ2GsGFX55D4xdPGW1qydl
 
-![最近看到Nick Maggiulli的文章，覺得深有同感。跟大家分享我的心得。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/655890121_1360621009204629_3112448534665716000_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=oCtjOm8-x98Q7kNvwE88WNE&_nc_oc=Adr0MMpGI4dfFMB6Nu9uVQUqCCcn8VsMzc4wyrUqbdt0mNfgwpXU0gplJ5kqVb6cj5Y&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=ZpIQBxw5bqONxOaM6n1Eeg&_nc_ss=78100&oh=00_Af5XDpnOqViL9E9JGdn_gCDxUBKbKoARtbsek7UDmb5A9A&oe=6A01D85F)
+![最近看到Nick Maggiulli的文章，覺得深有同感。跟大家分享我的心得。](https://scontent.ftpe8-3.fna.fbcdn.net/v/t39.30808-6/655890121_1360621009204629_3112448534665716000_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rAkBPsZdFyoQ7kNvwGkk10w&_nc_oc=Adpd20U1x8vPvTNMljhkjs7w45SFGJC-spJMlpzRCwv0lQXz7M7I0IhWNH0RGeS79wU&_nc_zt=23&_nc_ht=scontent.ftpe8-3.fna&_nc_gid=Yfh6xUxzHgsz5WqgFFs13w&_nc_ss=78100&oh=00_Af99F5M7SEcyjmd3w-aWHQnKY_lCpd0XfCFzN_jAmodBow&oe=6A21ECDF)
 最近看到Nick Maggiulli的文章，覺得深有同感。跟大家分享我的心得。
 
 一個人腦中的想法，會決定他如何看待這個世界，採取怎樣的行動。而這些行動，會帶來特定的成果。
@@ -75,11 +75,3 @@ page_canonical_url: "https://www.facebook.com/GreenHornFans"
 這時你會知道，他們持有的投資信念中最大的負債恐怕就是:
 
 “我的想法就是正確理念，沒有討論的餘地。”
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-03-22_%E6%9C%80%E8%BF%91%E7%9C%8B%E5%88%B0Nick-Maggiulli%E7%9A%84%E6%96%87%E7%AB%A0%E8%A6%BA%E5%BE%97%E6%B7%B1%E6%9C%89%E5%90%8C%E6%84%9F%E8%B7%9F%E5%A4%A7%E5%AE%B6%E5%88%86%E4%BA%AB%E6%88%91%E7%9A%84%E5%BF%83%E5%BE%97.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-03-22_%E6%9C%80%E8%BF%91%E7%9C%8B%E5%88%B0Nick-Maggiulli%E7%9A%84%E6%96%87%E7%AB%A0%E8%A6%BA%E5%BE%97%E6%B7%B1%E6%9C%89%E5%90%8C%E6%84%9F%E8%B7%9F%E5%A4%A7%E5%AE%B6%E5%88%86%E4%BA%AB%E6%88%91%E7%9A%84%E5%BF%83%E5%BE%97.md&period=)

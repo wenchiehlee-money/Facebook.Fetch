@@ -1,12 +1,14 @@
 # Facebook 貼文索引
 
 - 頁面: Richard只談基本面-Richard's Research Blog
-- 追蹤人數: 4.1 萬位追蹤者
-- 抓取時間: 2026-05-07T04:08:43.685141+00:00
-- 已收錄貼文數量: 38
+- 追蹤人數: 4.4 萬位追蹤者
+- 抓取時間: 2026-05-31T10:39:01.805084+00:00
+- 已收錄貼文數量: 40
 
 ## 文章列表
 
+- `2026-05-30` [Seagate取得HAMR技術領先，WD如何追趕?](2026-05-30_Seagate取得HAMR技術領先WD如何追趕.md)
+- `2026-05-30` [Memory最近這一波需求刺激，來自Agentic AI](2026-05-30_Memory最近這一波需求刺激來自Agentic-AI.md)
 - `2026-05-06` [相信、尊重TSMC經營團隊長期的訂價策略，但TSMC的訂價策略，似乎沒有考慮到市場競爭的環境變化，應該是沒錯的，從一個指標來看](2026-05-06_相信尊重TSMC經營團隊長期的訂價策略但TSMC的訂價策略似乎沒有考慮到市場競爭的環境變化應該是沒錯的從一個指標來看.md)
 - `2026-05-06` [Micron這個KV Cache分層儲存圖和去年Nvidia提出的ICMS/CMX Long context Inference分層圖很像，Micron多了一層Extension Memory，雖然Micron沒有明講CXL，我們之前用Nivida G1~G4層修改提出的G1.5 or G2.5 CXL memory大概是這個概念](2026-05-06_Micron這個KV-Cache分層儲存圖和去年Nvidia提出的ICMSCMX-Long-context-Inference分層圖很像Micron多了一層Ex.md)
 - `2026-05-06` [HBM產能賣完，不希奇](2026-05-06_HBM產能賣完不希奇.md)

@@ -4,12 +4,12 @@ title: "各位夥伴大家好！我們 Vibe Coding 學習圈又上架新課程�
 page_title: "行銷資料科學"
 requested_url: "https://www.facebook.com/MarketingDataScienceTMR"
 final_url: "https://www.facebook.com/MarketingDataScienceTMR"
-post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid025uNuhgzmVrk8e8n3aYsKbXEwBFUbg3u7b6ZL7AXH2LfzHfjeLTJXMYjeyVukJNbl"
+post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid02PicoMQ9KWPBr69De9DiarbGmL9ZkBpWw2UFhR5L83riLJhdLzkAYGEyBk2ifN7Wl"
 creation_time_utc: "2026-05-04T06:17:52+00:00"
-fetched_at_utc: "2026-05-07T04:01:50.086552+00:00"
+fetched_at_utc: "2026-05-31T10:31:32.321693+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid025uNuhgzmVrk8e8n3aYsKbXEwBFUbg3u7b6ZL7AXH2LfzHfjeLTJXMYjeyVukJNbl"
+attachment_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid02PicoMQ9KWPBr69De9DiarbGmL9ZkBpWw2UFhR5L83riLJhdLzkAYGEyBk2ifN7Wl"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTI3MTc0NDE0ODQwMjU2MQ=="
 page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
@@ -17,7 +17,7 @@ page_canonical_url: "https://www.facebook.com/MarketingDataScienceTMR"
 
 # 各位夥伴大家好！我們 Vibe Coding 學習圈又上架新課程囉~！
 
-原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid025uNuhgzmVrk8e8n3aYsKbXEwBFUbg3u7b6ZL7AXH2LfzHfjeLTJXMYjeyVukJNbl
+原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid02PicoMQ9KWPBr69De9DiarbGmL9ZkBpWw2UFhR5L83riLJhdLzkAYGEyBk2ifN7Wl
 各位夥伴大家好！我們 Vibe Coding 學習圈又上架新課程囉~！
 
 AI行銷行政大腦：從「庶務處理」到「決策管理」的Gemini數位轉型課
@@ -55,11 +55,3 @@ AI行銷行政大腦：從「庶務處理」到「決策管理」的Gemini數位
 折價券：8MwjovkB
 
 金庸群折價券：bJDX0v7G
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%2F2026-05-04_%E5%90%84%E4%BD%8D%E5%A4%A5%E4%BC%B4%E5%A4%A7%E5%AE%B6%E5%A5%BD%E6%88%91%E5%80%91-Vibe-Coding-%E5%AD%B8%E7%BF%92%E5%9C%88%E5%8F%88%E4%B8%8A%E6%9E%B6%E6%96%B0%E8%AA%B2%E7%A8%8B%E5%9B%89.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%2F2026-05-04_%E5%90%84%E4%BD%8D%E5%A4%A5%E4%BC%B4%E5%A4%A7%E5%AE%B6%E5%A5%BD%E6%88%91%E5%80%91-Vibe-Coding-%E5%AD%B8%E7%BF%92%E5%9C%88%E5%8F%88%E4%B8%8A%E6%9E%B6%E6%96%B0%E8%AA%B2%E7%A8%8B%E5%9B%89.md&period=)

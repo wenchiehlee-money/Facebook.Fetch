@@ -4,22 +4,22 @@ title: "“The Only Investment Guide You’ll Ever Need”作者Andrew Tobias，
 page_title: "綠角財經筆記"
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0f5LSfspSkPHUABi7FhPjt4jEHnmVNFkMUiiFQYuBZV6XvVh4mp7sBgrhG1akrwXSl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02ikdsBYtDL6RuQtE7vLpxSaxXqs7HmksihAqzDGpLBwXetKsiEXBoqWtGyJA8jEEyl"
 creation_time_utc: "2026-03-25T10:39:16+00:00"
-fetched_at_utc: "2026-05-07T04:04:35.374481+00:00"
+fetched_at_utc: "2026-05-31T10:32:27.148463+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/656922144_1362943468972383_649801988410945326_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=2e-LQyKA0dcQ7kNvwFPG4Ws&_nc_oc=AdrgCam-j_qufycTtmLWY_Sfr5DRxwPk23pPEmq707a23z6tp3Pqni6WgfVhfYR_7uY&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=2SZYq1uxWEDOydH9nKgvTg&_nc_ss=78100&oh=00_Af57WHbB_3XiMOsG0YYsgly9GVhy5tw50ijyPrmR1qT1gg&oe=6A01FD0B"
+image_url: "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/656922144_1362943468972383_649801988410945326_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=U-G3XQ2QM8sQ7kNvwFOdiXu&_nc_oc=AdoEUKk7aBdFZlolbB0vzOdZjmA3bjsXEIX5xOtl5DaBEBaIedFHPWRAqMSDnFRfe_Q&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=CqHPsiw2h-jC-6VVC_11Og&_nc_ss=78100&oh=00_Af8TfyJVgzVKyIvDBJ6uFEs3LQkj9msidB9HooDfJbF6lQ&oe=6A21D94B"
 feedback_id: "ZmVlZGJhY2s6MTM2Mjk0NDA3NTYzODk4OQ=="
 page_canonical_url: "https://www.facebook.com/GreenHornFans"
 ---
 
 # “The Only Investment Guide You’ll Ever Need”作者Andrew Tobias，是一個活躍於70,80年代的投資作家。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0f5LSfspSkPHUABi7FhPjt4jEHnmVNFkMUiiFQYuBZV6XvVh4mp7sBgrhG1akrwXSl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02ikdsBYtDL6RuQtE7vLpxSaxXqs7HmksihAqzDGpLBwXetKsiEXBoqWtGyJA8jEEyl
 
-![“The Only Investment Guide You’ll Ever Need”作者Andrew Tobias，是一個活躍於70,80年代的投資作家。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/656922144_1362943468972383_649801988410945326_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=2e-LQyKA0dcQ7kNvwFPG4Ws&_nc_oc=AdrgCam-j_qufycTtmLWY_Sfr5DRxwPk23pPEmq707a23z6tp3Pqni6WgfVhfYR_7uY&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=2SZYq1uxWEDOydH9nKgvTg&_nc_ss=78100&oh=00_Af57WHbB_3XiMOsG0YYsgly9GVhy5tw50ijyPrmR1qT1gg&oe=6A01FD0B)
+![“The Only Investment Guide You’ll Ever Need”作者Andrew Tobias，是一個活躍於70,80年代的投資作家。](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/656922144_1362943468972383_649801988410945326_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=U-G3XQ2QM8sQ7kNvwFOdiXu&_nc_oc=AdoEUKk7aBdFZlolbB0vzOdZjmA3bjsXEIX5xOtl5DaBEBaIedFHPWRAqMSDnFRfe_Q&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=CqHPsiw2h-jC-6VVC_11Og&_nc_ss=78100&oh=00_Af8TfyJVgzVKyIvDBJ6uFEs3LQkj9msidB9HooDfJbF6lQ&oe=6A21D94B)
 “The Only Investment Guide You’ll Ever Need”作者Andrew Tobias，是一個活躍於70,80年代的投資作家。
 
 作者提到1970年代與現在相比是一個多麼不同的世界。當時沒有指數型基金、沒有ETF、沒有Home equity loan(住宅權益貸款) 、沒有401k、沒有飛行里程、沒有網路、沒有Amazon。
@@ -102,11 +102,3 @@ page_canonical_url: "https://www.facebook.com/GreenHornFans"
 投資應該先看大局，先看選股、擇時這些遊戲值不值得玩，而不是馬上一頭栽入。
 
 這個論點，在1970年代成立，在今天也同樣成立。
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-03-25_The-Only-Investment-Guide-Youll-Ever-Need%E4%BD%9C%E8%80%85Andrew-Tobias%E6%98%AF%E4%B8%80%E5%80%8B%E6%B4%BB%E8%BA%8D%E6%96%BC7080%E5%B9%B4%E4%BB%A3%E7%9A%84%E6%8A%95%E8%B3%87%E4%BD%9C%E5%AE%B6.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=7080%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=7080&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-03-25_The-Only-Investment-Guide-Youll-Ever-Need%E4%BD%9C%E8%80%85Andrew-Tobias%E6%98%AF%E4%B8%80%E5%80%8B%E6%B4%BB%E8%BA%8D%E6%96%BC7080%E5%B9%B4%E4%BB%A3%E7%9A%84%E6%8A%95%E8%B3%87%E4%BD%9C%E5%AE%B6.md&period=)

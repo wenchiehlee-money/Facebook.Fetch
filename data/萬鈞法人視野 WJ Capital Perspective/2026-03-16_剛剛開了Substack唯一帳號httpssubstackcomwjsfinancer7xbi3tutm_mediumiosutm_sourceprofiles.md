@@ -4,12 +4,12 @@ title: "剛剛開了Substack唯一帳號：https://substack.com/@wjsfinance?r=7x
 page_title: "萬鈞法人視野 WJ Capital Perspective"
 requested_url: "https://www.facebook.com/profile.php?id=61578106860333"
 final_url: "https://www.facebook.com/people/%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E-WJ-Capital-Perspective/61578106860333/"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0Q7LL95Bi4sz72hEga9C2yNu1o8SgqfoXos8mckgGWYdKNCqM7DDtyHBZeqjFRtTAl&id=61578106860333"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02TndkekFUedmg5hVgYKUxg6HnjNJWj2Sb82h51EeXkC8RD7dcGsN16sDMfxwng6qal&id=61578106860333"
 creation_time_utc: "2026-03-16T07:56:23+00:00"
-fetched_at_utc: "2026-05-07T04:08:30.243407+00:00"
+fetched_at_utc: "2026-05-31T10:38:55.055470+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0Q7LL95Bi4sz72hEga9C2yNu1o8SgqfoXos8mckgGWYdKNCqM7DDtyHBZeqjFRtTAl&id=61578106860333"
+attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02TndkekFUedmg5hVgYKUxg6HnjNJWj2Sb82h51EeXkC8RD7dcGsN16sDMfxwng6qal&id=61578106860333"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTIyMTg5NzcxNTc2OTM2ODk1"
 page_canonical_url: "https://www.facebook.com/people/%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E-WJ-Capital-Perspective/61578106860333/"
@@ -17,7 +17,7 @@ page_canonical_url: "https://www.facebook.com/people/%E8%90%AC%E9%88%9E%E6%B3%95
 
 # 剛剛開了Substack唯一帳號：https://substack.com/@wjsfinance?r=7xbi3t&utm_medium=ios&utm_source=profile&shareImageVariant=light
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0Q7LL95Bi4sz72hEga9C2yNu1o8SgqfoXos8mckgGWYdKNCqM7DDtyHBZeqjFRtTAl&id=61578106860333
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02TndkekFUedmg5hVgYKUxg6HnjNJWj2Sb82h51EeXkC8RD7dcGsN16sDMfxwng6qal&id=61578106860333
 剛剛開了Substack唯一帳號：https://substack.com/@wjsfinance?r=7xbi3t&utm_medium=ios&utm_source=profile&shareImageVariant=light
 
 天下文化邀請我為他們出書，今天下午與他們正在線上開會中，總編輯提到他閱讀我在substack的文章很欣賞……..
@@ -43,11 +43,3 @@ page_canonical_url: "https://www.facebook.com/people/%E8%90%AC%E9%88%9E%E6%B3%95
 也謝謝很多朋友提醒我這件事。你們幫我看到的，不只是一次搬運，而是對內容創作者最基本的尊重問題。
 
 請幫我檢舉詐騙與盜版，感謝大家
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-03-16_%E5%89%9B%E5%89%9B%E9%96%8B%E4%BA%86Substack%E5%94%AF%E4%B8%80%E5%B8%B3%E8%99%9Fhttpssubstackcomwjsfinancer7xbi3tutm_mediumiosutm_sourceprofiles.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-03-16_%E5%89%9B%E5%89%9B%E9%96%8B%E4%BA%86Substack%E5%94%AF%E4%B8%80%E5%B8%B3%E8%99%9Fhttpssubstackcomwjsfinancer7xbi3tutm_mediumiosutm_sourceprofiles.md&period=)

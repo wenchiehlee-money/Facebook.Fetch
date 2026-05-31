@@ -4,22 +4,22 @@ title: "我在去年看過，覺得非常好看，並寫下七篇讀後感的「
 page_title: "綠角財經筆記"
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0Emyo1gbyykLnFKtczQnPxm6nw82bZETSQPsWRLrx1Ldz39quhRdCQaRgUAV2HCLal"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0EbqWLgjvi7YXCgSawpbmd3pUJdUsd4meHHzN9N743KH76T9aETi4ZLzQjSghkdUjl"
 creation_time_utc: "2026-04-27T00:07:36+00:00"
-fetched_at_utc: "2026-05-07T04:04:35.374481+00:00"
+fetched_at_utc: "2026-05-31T10:32:27.148463+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/680274427_1387260716540658_4534489628231610446_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=vZimrpZgpt0Q7kNvwHyqqZs&_nc_oc=AdrYFK232b4HobEG6wKe-tTUwzuZOYwNSpUKIVQCxh6Jxt4zep8Mr4T3_hbLg1wHdCk&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=hYuL7gocMfCCUEsaMJ1WlA&_nc_ss=78100&oh=00_Af4-CmzUb7kUebjj3Pt07BFW-m7Tlj7k_aJ5eSfk0QRdBw&oe=6A01E6BA"
+image_url: "https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/680274427_1387260716540658_4534489628231610446_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nuuQOZmfWVwQ7kNvwGKS8cK&_nc_oc=AdrT3-z4eDWLq8Blc0Z575taY7xN15el_kuuwYCrt7bCv6YjQGY6ogbi3hAzcq-gga4&_nc_zt=23&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=t09T2SuXvxqXYolu8uNwrQ&_nc_ss=78100&oh=00_Af-_wzxdOLAc2HqvzaOU9Eu5-d5qw-mHzWng8H0KDOjyMQ&oe=6A21FB3A"
 feedback_id: "ZmVlZGJhY2s6MTM4ODEwODQ4OTc4OTIxNA=="
 page_canonical_url: "https://www.facebook.com/GreenHornFans"
 ---
 
 # 我在去年看過，覺得非常好看，並寫下七篇讀後感的「The Wealth Ladder」中譯版已經完成，即將發行。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0Emyo1gbyykLnFKtczQnPxm6nw82bZETSQPsWRLrx1Ldz39quhRdCQaRgUAV2HCLal
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0EbqWLgjvi7YXCgSawpbmd3pUJdUsd4meHHzN9N743KH76T9aETi4ZLzQjSghkdUjl
 
-![我在去年看過，覺得非常好看，並寫下七篇讀後感的「The Wealth Ladder」中譯版已經完成，即將發行。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/680274427_1387260716540658_4534489628231610446_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=vZimrpZgpt0Q7kNvwHyqqZs&_nc_oc=AdrYFK232b4HobEG6wKe-tTUwzuZOYwNSpUKIVQCxh6Jxt4zep8Mr4T3_hbLg1wHdCk&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=hYuL7gocMfCCUEsaMJ1WlA&_nc_ss=78100&oh=00_Af4-CmzUb7kUebjj3Pt07BFW-m7Tlj7k_aJ5eSfk0QRdBw&oe=6A01E6BA)
+![我在去年看過，覺得非常好看，並寫下七篇讀後感的「The Wealth Ladder」中譯版已經完成，即將發行。](https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/680274427_1387260716540658_4534489628231610446_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nuuQOZmfWVwQ7kNvwGKS8cK&_nc_oc=AdrT3-z4eDWLq8Blc0Z575taY7xN15el_kuuwYCrt7bCv6YjQGY6ogbi3hAzcq-gga4&_nc_zt=23&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=t09T2SuXvxqXYolu8uNwrQ&_nc_ss=78100&oh=00_Af-_wzxdOLAc2HqvzaOU9Eu5-d5qw-mHzWng8H0KDOjyMQ&oe=6A21FB3A)
 我在去年看過，覺得非常好看，並寫下七篇讀後感的「The Wealth Ladder」中譯版已經完成，即將發行。
 
 綠角很高興收到邀請，為新書撰序。以下是序言全文:
@@ -76,11 +76,3 @@ page_canonical_url: "https://www.facebook.com/GreenHornFans"
 這就像家中廚房堆滿了鹽，但卻沒有任何食物需要烹煮一樣。是無意義的累積。
 
 《財富階梯》讓你懂得用有效的方法追求金錢，也讓你不致迷失在金錢之中，仍能看清人生的真正目標。
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-27_%E6%88%91%E5%9C%A8%E5%8E%BB%E5%B9%B4%E7%9C%8B%E9%81%8E%E8%A6%BA%E5%BE%97%E9%9D%9E%E5%B8%B8%E5%A5%BD%E7%9C%8B%E4%B8%A6%E5%AF%AB%E4%B8%8B%E4%B8%83%E7%AF%87%E8%AE%80%E5%BE%8C%E6%84%9F%E7%9A%84The-Wealth-Ladder%E4%B8%AD%E8%AD%AF%E7%89%88%E5%B7%B2%E7%B6%93%E5%AE%8C%E6%88%90%E5%8D%B3%E5%B0%87%E7%99%BC%E8%A1%8C.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E7%B6%A0%E8%A7%92%E8%B2%A1%E7%B6%93%E7%AD%86%E8%A8%98%2F2026-04-27_%E6%88%91%E5%9C%A8%E5%8E%BB%E5%B9%B4%E7%9C%8B%E9%81%8E%E8%A6%BA%E5%BE%97%E9%9D%9E%E5%B8%B8%E5%A5%BD%E7%9C%8B%E4%B8%A6%E5%AF%AB%E4%B8%8B%E4%B8%83%E7%AF%87%E8%AE%80%E5%BE%8C%E6%84%9F%E7%9A%84The-Wealth-Ladder%E4%B8%AD%E8%AD%AF%E7%89%88%E5%B7%B2%E7%B6%93%E5%AE%8C%E6%88%90%E5%8D%B3%E5%B0%87%E7%99%BC%E8%A1%8C.md&period=)

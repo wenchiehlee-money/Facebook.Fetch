@@ -4,22 +4,22 @@ title: "很多人最近看記憶體，會很自然跟著外資報告走。Morgan
 page_title: "萬鈞法人視野 WJ Capital Perspective"
 requested_url: "https://www.facebook.com/profile.php?id=61578106860333"
 final_url: "https://www.facebook.com/people/%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E-WJ-Capital-Perspective/61578106860333/"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid032Gc1V7ratFbWDZrdXbdsDT1ruSjDWN7vtNJ6P3d5puRW6qUMAMkcxvNSwhVe4VcLl&id=61578106860333"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid032aRFNmZjSLAnPYPAJNsT4WRPkRqgSWKZ4oiWTPgWeYf6XPhzw4nwsNddgF4B3w9Nl&id=61578106860333"
 creation_time_utc: "2026-03-20T00:32:29+00:00"
-fetched_at_utc: "2026-05-07T04:08:30.243407+00:00"
+fetched_at_utc: "2026-05-31T10:38:55.055470+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/653710819_122190526160936895_2241114844765997558_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=7b2446&_nc_ohc=ywVCw4E6ysIQ7kNvwGBItF9&_nc_oc=AdqOoL3-KRbL-E9SsOMhA-P9OSLY_-T77ikX6gP7DJfets5N53qIWUklwzw3Pf3JYn4&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=_GbMVwKC2Np1wilHvP6KiQ&_nc_ss=78100&oh=00_Af7TkRfhxu-coJ7ilcDPxmJJIdH8MpAJ1XAuVrWers3rPw&oe=6A01D5C8"
+image_url: "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/653710819_122190526160936895_2241114844765997558_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=xJXahWt9PHcQ7kNvwGnBa3E&_nc_oc=AdoZA6rXZRuJepMzAjMCzZHPtTHpi5_OCfoAzADyUpK08ZWrLle5Mp4VHtz7gwhsVVk&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=arSiL8aS2CGxa95chCnARg&_nc_ss=78100&oh=00_Af_vxEXN4eMDgpqJyxNs_53BYG_rNk7jbSeDvZRg_0bFoQ&oe=6A21EA48"
 feedback_id: "ZmVlZGJhY2s6MTIyMTkwNTI2MjE0OTM2ODk1"
 page_canonical_url: "https://www.facebook.com/people/%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E-WJ-Capital-Perspective/61578106860333/"
 ---
 
 # 很多人最近看記憶體，會很自然跟著外資報告走。Morgan Stanley這次把旺宏升為首選，調降南亞科、華邦電評等，市場的直覺解讀也很直接：DDR4這一段大概差不多了，真正更大的機會在MLC NAND。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid032Gc1V7ratFbWDZrdXbdsDT1ruSjDWN7vtNJ6P3d5puRW6qUMAMkcxvNSwhVe4VcLl&id=61578106860333
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid032aRFNmZjSLAnPYPAJNsT4WRPkRqgSWKZ4oiWTPgWeYf6XPhzw4nwsNddgF4B3w9Nl&id=61578106860333
 
-![很多人最近看記憶體，會很自然跟著外資報告走。Morgan Stanley這次把旺宏升為首選，調降南亞科、華邦電評等，市場的直覺解讀也很直接：DDR4這一段大概差不多了，真正更大的機會在MLC NAND。](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/653710819_122190526160936895_2241114844765997558_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=7b2446&_nc_ohc=ywVCw4E6ysIQ7kNvwGBItF9&_nc_oc=AdqOoL3-KRbL-E9SsOMhA-P9OSLY_-T77ikX6gP7DJfets5N53qIWUklwzw3Pf3JYn4&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=_GbMVwKC2Np1wilHvP6KiQ&_nc_ss=78100&oh=00_Af7TkRfhxu-coJ7ilcDPxmJJIdH8MpAJ1XAuVrWers3rPw&oe=6A01D5C8)
+![很多人最近看記憶體，會很自然跟著外資報告走。Morgan Stanley這次把旺宏升為首選，調降南亞科、華邦電評等，市場的直覺解讀也很直接：DDR4這一段大概差不多了，真正更大的機會在MLC NAND。](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/653710819_122190526160936895_2241114844765997558_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=xJXahWt9PHcQ7kNvwGnBa3E&_nc_oc=AdoZA6rXZRuJepMzAjMCzZHPtTHpi5_OCfoAzADyUpK08ZWrLle5Mp4VHtz7gwhsVVk&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=arSiL8aS2CGxa95chCnARg&_nc_ss=78100&oh=00_Af_vxEXN4eMDgpqJyxNs_53BYG_rNk7jbSeDvZRg_0bFoQ&oe=6A21EA48)
 很多人最近看記憶體，會很自然跟著外資報告走。Morgan Stanley這次把旺宏升為首選，調降南亞科、華邦電評等，市場的直覺解讀也很直接：DDR4這一段大概差不多了，真正更大的機會在MLC NAND。
 
 這個結論，只對一半。
@@ -55,11 +55,3 @@ HBM最強，大家都知道；MLC NAND缺貨，市場現在也開始接受；但
 如果還是只用供給去判斷多空，最後很容易顧此失彼。
 
 因為這一輪記憶體真正的變數，從來不只是誰在擴產，而是需求正在你沒注意的地方，一層一層長出來。
-
-
----
-[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=2026%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=2026&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-03-20_%E5%BE%88%E5%A4%9A%E4%BA%BA%E6%9C%80%E8%BF%91%E7%9C%8B%E8%A8%98%E6%86%B6%E9%AB%94%E6%9C%83%E5%BE%88%E8%87%AA%E7%84%B6%E8%B7%9F%E8%91%97%E5%A4%96%E8%B3%87%E5%A0%B1%E5%91%8A%E8%B5%B0Morgan-Stanley%E9%80%99%E6%AC%A1%E6%8A%8A%E6%97%BA%E5%AE%8F%E5%8D%87%E7%82%BA%E9%A6%96%E9%81%B8%E8%AA%BF%E9%99%8D%E5%8D%97%E4%BA%9E%E7%A7%91%E8%8F%AF%E9%82%A6%E9%9B%BB%E8%A9%95%E7%AD%89%E5%B8%82%E5%A0%B4%E7%9A%84%E7%9B%B4%E8%A6%BA%E8%A7%A3%E8%AE%80%E4%B9%9F%E5%BE%88%E7%9B%B4%E6%8E%A5DDR4%E9%80%99%E4%B8%80%E6%AE%B5%E5%A4%A7%E6%A6%82%E5%B7%AE%E4%B8%8D%E5%A4%9A%E4%BA%86%E7%9C%9F%E6%AD%A3%E6%9B%B4.md&period=)
-
-
----
-[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2F%E8%90%AC%E9%88%9E%E6%B3%95%E4%BA%BA%E8%A6%96%E9%87%8E%20WJ%20Capital%20Perspective%2F2026-03-20_%E5%BE%88%E5%A4%9A%E4%BA%BA%E6%9C%80%E8%BF%91%E7%9C%8B%E8%A8%98%E6%86%B6%E9%AB%94%E6%9C%83%E5%BE%88%E8%87%AA%E7%84%B6%E8%B7%9F%E8%91%97%E5%A4%96%E8%B3%87%E5%A0%B1%E5%91%8A%E8%B5%B0Morgan-Stanley%E9%80%99%E6%AC%A1%E6%8A%8A%E6%97%BA%E5%AE%8F%E5%8D%87%E7%82%BA%E9%A6%96%E9%81%B8%E8%AA%BF%E9%99%8D%E5%8D%97%E4%BA%9E%E7%A7%91%E8%8F%AF%E9%82%A6%E9%9B%BB%E8%A9%95%E7%AD%89%E5%B8%82%E5%A0%B4%E7%9A%84%E7%9B%B4%E8%A6%BA%E8%A7%A3%E8%AE%80%E4%B9%9F%E5%BE%88%E7%9B%B4%E6%8E%A5DDR4%E9%80%99%E4%B8%80%E6%AE%B5%E5%A4%A7%E6%A6%82%E5%B7%AE%E4%B8%8D%E5%A4%9A%E4%BA%86%E7%9C%9F%E6%AD%A3%E6%9B%B4.md&period=)

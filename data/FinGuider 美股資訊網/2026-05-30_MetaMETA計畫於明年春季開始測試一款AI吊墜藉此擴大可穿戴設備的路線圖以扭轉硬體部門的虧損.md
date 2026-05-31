@@ -1,0 +1,33 @@
+---
+post_id: "1461362712700538"
+title: "📿#Meta（META）計畫於明年春季開始測試一款「#AI吊墜」，藉此擴大可穿戴設備的路線圖，以扭轉硬體部門的虧損。"
+page_title: "FinGuider 美股資訊網"
+requested_url: "https://www.facebook.com/FinGuider"
+final_url: "https://www.facebook.com/FinGuider"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid02n6p2NfAQ8aMDDwMUsutPZrKGnpN1vRgJJ3KDgmv4ReC5ofHPBzDiQQRBq1JDoSxnl"
+creation_time_utc: "2026-05-30T23:57:40+00:00"
+fetched_at_utc: "2026-05-31T10:28:01.101180+00:00"
+source: "public_graphql"
+attachment_type: "Photo"
+attachment_url: ""
+image_url: "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/710745425_1461362349367241_4996172316734859350_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=d95LwE2Cyg8Q7kNvwGOPCco&_nc_oc=AdpxtitY957A8muMRnPww5neUQHQozDOHoK1cn6HRHQEPaazoH2dv3vQMuhGqwT5Fc0&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=g7_WOmVv4gfLU8otkzU71A&_nc_ss=78100&oh=00_Af-MkN8ELtX_rjfws78BxJsDr2O_lPiFHZU5_sdVUr_wcg&oe=6A21EED6"
+feedback_id: "ZmVlZGJhY2s6MTQ2MTM2MjcxMjcwMDUzOA=="
+page_canonical_url: "https://www.facebook.com/FinGuider"
+---
+
+# 📿#Meta（META）計畫於明年春季開始測試一款「#AI吊墜」，藉此擴大可穿戴設備的路線圖，以扭轉硬體部門的虧損。
+
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid02n6p2NfAQ8aMDDwMUsutPZrKGnpN1vRgJJ3KDgmv4ReC5ofHPBzDiQQRBq1JDoSxnl
+
+![📿#Meta（META）計畫於明年春季開始測試一款「#AI吊墜」，藉此擴大可穿戴設備的路線圖，以扭轉硬體部門的虧損。](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/710745425_1461362349367241_4996172316734859350_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=d95LwE2Cyg8Q7kNvwGOPCco&_nc_oc=AdpxtitY957A8muMRnPww5neUQHQozDOHoK1cn6HRHQEPaazoH2dv3vQMuhGqwT5Fc0&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=g7_WOmVv4gfLU8otkzU71A&_nc_ss=78100&oh=00_Af-MkN8ELtX_rjfws78BxJsDr2O_lPiFHZU5_sdVUr_wcg&oe=6A21EED6)
+📿#Meta（META）計畫於明年春季開始測試一款「#AI吊墜」，藉此擴大可穿戴設備的路線圖，以扭轉硬體部門的虧損。
+​
+去年 Meta 收購了 AI 可穿戴裝置新創 Limitless，這家公司開發了一種可以錄音的 AI 吊墜，用戶可以別在衣服上或作為項鍊佩戴。不過《The Information》指出，內部備忘錄並未明確描述這款設備的詳細設計，只知道會搭載攝影機。
+​
+除了 Meta，OpenAI、Google（GOOGL）也在積極規劃推出新型 AI 硬體，希望帶動自身 AI 應用服務的使用量。
+​
+🎯內部備忘錄顯示，Meta 計劃大幅擴充 AI 眼鏡產品線，並推出以企業、商務為導向的「辦公室穿戴設備」（Wearables for Work），希望藉此推動旗下 AI 模型與相關產品的普及，包括訂閱服務，以及研發中的消費級 AI 助理 Hatch。
+​
+Meta 在備忘錄中指出，若想要在硬體利潤之外打造可持續性的業務，就必須倚賴差異化的軟體體驗。本週 Meta 宣布為「Meta AI」推出兩種訂閱方案，除了各大應用平台外，相關服務也將延伸至旗下 AI 眼鏡。
+​
+👓Meta 目標在 2026 下半年銷售 1,000 萬台可穿戴裝置，不僅會推出四款 AI 眼鏡（不再侷限於與 Ray-Ban 和 Oakley 合作），還會將產品推廣到更多國家。
