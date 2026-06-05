@@ -266,6 +266,7 @@ def extract_public_graphql_context(html_text: str) -> dict[str, str] | None:
         or re.search(r'"node"\s*:\s*\{[^}]*"id"\s*:\s*"(\d{10,})"', html_text)
     )
     vanity_match = re.search(r'"userVanity":"([^"]+)"', html_text)
+    dtsg_match = re.search(r'"DTSGInitialData",\[\],\{"token":"([^"]+)"\}', html_text)
     if not (lsd_match and jazoest_match and user_id_match):
         return None
     return {
@@ -273,6 +274,7 @@ def extract_public_graphql_context(html_text: str) -> dict[str, str] | None:
         "jazoest": jazoest_match.group(1),
         "user_id": user_id_match.group(1),
         "user_vanity": vanity_match.group(1) if vanity_match else "",
+        "fb_dtsg": dtsg_match.group(1) if dtsg_match else "",
     }
 
 
@@ -339,6 +341,8 @@ def fetch_public_timeline_parts(html_text: str, count: int, cursor: str | None =
         "lsd": context["lsd"],
         "jazoest": context["jazoest"],
     }
+    if context.get("fb_dtsg"):
+        form["fb_dtsg"] = context["fb_dtsg"]
     data = parse.urlencode(form).encode("utf-8")
     headers = {
         "User-Agent": DEFAULT_UA,
