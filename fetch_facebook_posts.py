@@ -289,9 +289,11 @@ def _extract_c_user(cookie: str) -> str:
 def fetch_public_timeline_parts(html_text: str, count: int, cursor: str | None = None, cookie: str | None = None) -> list[dict[str, Any]]:
     context = extract_public_graphql_context(html_text)
     if not context:
+        print("[debug] extract_public_graphql_context returned None", file=sys.stderr)
         return []
 
     user_id = _extract_c_user(cookie) if cookie else "0"
+    print(f"[debug] GraphQL: page_id={context['user_id']} av={user_id} dtsg={'yes' if context.get('fb_dtsg') else 'no'} lsd={context['lsd'][:8]}", file=sys.stderr)
 
     variables = {
         "afterTime": None,
@@ -357,6 +359,7 @@ def fetch_public_timeline_parts(html_text: str, count: int, cursor: str | None =
     req = request.Request("https://www.facebook.com/api/graphql/", data=data, headers=headers)
     with request.urlopen(req, timeout=30) as response:
         body = response.read().decode("utf-8", errors="replace")
+    print(f"[debug] GraphQL response: {len(body)} bytes, first 120: {body[:120]!r}", file=sys.stderr)
 
     parts: list[dict[str, Any]] = []
     for line in body.splitlines():
