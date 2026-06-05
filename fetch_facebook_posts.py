@@ -17,7 +17,7 @@ from urllib import error, parse, request
 
 
 DEFAULT_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-PUBLIC_TIMELINE_DOC_ID = "26727840526911119"
+PUBLIC_TIMELINE_DOC_ID = "27123018647381811"
 PUBLIC_TIMELINE_QUERY_NAME = "ProfileCometTimelineFeedRefetchQuery"
 JSON_SCRIPT_RE = re.compile(
     r'<script\s+type="application/json"[^>]*>(.*?)</script>',
@@ -276,10 +276,20 @@ def extract_public_graphql_context(html_text: str) -> dict[str, str] | None:
     }
 
 
-def fetch_public_timeline_parts(html_text: str, count: int, cursor: str | None = None) -> list[dict[str, Any]]:
+def _extract_c_user(cookie: str) -> str:
+    for part in cookie.split(";"):
+        k, _, v = part.strip().partition("=")
+        if k.strip() == "c_user":
+            return v.strip()
+    return "0"
+
+
+def fetch_public_timeline_parts(html_text: str, count: int, cursor: str | None = None, cookie: str | None = None) -> list[dict[str, Any]]:
     context = extract_public_graphql_context(html_text)
     if not context:
         return []
+
+    user_id = _extract_c_user(cookie) if cookie else "0"
 
     variables = {
         "afterTime": None,
@@ -291,22 +301,35 @@ def fetch_public_timeline_parts(html_text: str, count: int, cursor: str | None =
         "focusCommentID": None,
         "id": context["user_id"],
         "memorializedSplitTimeFilter": None,
-        "omitPinnedPost": False,
-        "postedBy": None,
+        "omitPinnedPost": True,
+        "postedBy": {"group": "OWNER"},
         "privacy": None,
         "privacySelectorRenderLocation": "COMET_STREAM",
-        "referringStoryRenderLocation": "timeline",
+        "referringStoryRenderLocation": None,
         "renderLocation": "timeline",
         "scale": 1,
-        "stream_count": count,
+        "stream_count": 1,
         "taggedInOnly": None,
         "trackingCode": None,
         "useDefaultActor": False,
+        "__relay_internal__pv__GHLShouldChangeAdIdFieldNamerelayprovider": True,
+        "__relay_internal__pv__GHLShouldChangeSponsoredDataFieldNamerelayprovider": True,
+        "__relay_internal__pv__CometFeedStory_enable_reactor_facepilerelayprovider": False,
+        "__relay_internal__pv__CometFeedStory_enable_social_bubblesrelayprovider": False,
+        "__relay_internal__pv__CometUFICommentActionLinksRewriteEnabledrelayprovider": False,
+        "__relay_internal__pv__IsWorkUserrelayprovider": False,
+        "__relay_internal__pv__FBReels_deprecate_short_form_video_context_gkrelayprovider": True,
+        "__relay_internal__pv__FBReels_enable_view_dubbed_audio_type_gkrelayprovider": True,
+        "__relay_internal__pv__CometUFIShareActionMigrationrelayprovider": True,
+        "__relay_internal__pv__CometUFISingleLineUFIrelayprovider": True,
+        "__relay_internal__pv__CometUFIReactionsEnableShortNamerelayprovider": False,
+        "__relay_internal__pv__CometUFICommentAutoTranslationTyperelayprovider": "ORIGINAL",
+        "__relay_internal__pv__FBReelsMediaFooter_comet_enable_reels_ads_gkrelayprovider": True,
     }
 
     form = {
-        "av": "0",
-        "__user": "0",
+        "av": user_id,
+        "__user": user_id,
         "__a": "1",
         "fb_api_caller_class": "RelayModern",
         "fb_api_req_friendly_name": PUBLIC_TIMELINE_QUERY_NAME,
@@ -322,7 +345,11 @@ def fetch_public_timeline_parts(html_text: str, count: int, cursor: str | None =
         "Content-Type": "application/x-www-form-urlencoded",
         "x-fb-friendly-name": PUBLIC_TIMELINE_QUERY_NAME,
         "x-fb-lsd": context["lsd"],
+        "origin": "https://www.facebook.com",
+        "referer": "https://www.facebook.com/",
     }
+    if cookie:
+        headers["Cookie"] = cookie
     req = request.Request("https://www.facebook.com/api/graphql/", data=data, headers=headers)
     with request.urlopen(req, timeout=30) as response:
         body = response.read().decode("utf-8", errors="replace")
@@ -424,7 +451,7 @@ def walk_graphql_parts(node: Any, found: list[dict[str, Any]]) -> None:
             walk_graphql_parts(item, found)
 
 
-def extract_graphql_post_records(html_text: str, count: int, months_back: int = 0, max_pages: int = 100) -> list[dict[str, Any]]:
+def extract_graphql_post_records(html_text: str, count: int, months_back: int = 0, max_pages: int = 100, cookie: str | None = None) -> list[dict[str, Any]]:
     cutoff_ts: int | None = None
     if months_back > 0:
         cutoff_ts = int((datetime.now(timezone.utc) - timedelta(days=30 * months_back)).timestamp())
@@ -432,7 +459,7 @@ def extract_graphql_post_records(html_text: str, count: int, months_back: int = 
     records: list[dict[str, Any]] = []
     cursor: str | None = None
     for page_idx in range(max_pages):
-        parts = fetch_public_timeline_parts(html_text, count, cursor=cursor)
+        parts = fetch_public_timeline_parts(html_text, count, cursor=cursor, cookie=cookie)
         if not parts:
             break
         page_records: list[dict[str, Any]] = []
@@ -547,10 +574,10 @@ def extract_generated_markdown_body(text: str) -> str:
     return "\n".join(body_lines).strip()
 
 
-def build_output_payload(url: str, result: FetchResult, count: int, months_back: int = 0) -> dict[str, Any]:
+def build_output_payload(url: str, result: FetchResult, count: int, months_back: int = 0, cookie: str | None = None) -> dict[str, Any]:
     meta = parse_meta_tags(result.html_text)
     html_post_urls = extract_post_urls(result.html_text)
-    graphql_records = extract_graphql_post_records(result.html_text, count, months_back=months_back)
+    graphql_records = extract_graphql_post_records(result.html_text, count, months_back=months_back, cookie=cookie)
     html_records = extract_post_records_from_html(result.html_text)
     post_records = graphql_records if graphql_records else html_records
     prefiltered_count = len(post_records)
@@ -876,12 +903,12 @@ def main() -> int:
             print(f"Fetch failed: {exc}", file=sys.stderr)
             return 1
 
-    payload = build_output_payload(args.url, result, args.count, months_back=args.months_back)
+    payload = build_output_payload(args.url, result, args.count, months_back=args.months_back, cookie=cookie)
     if cookie and payload.get("post_record_count", 0) == 0:
         print("Cookie fetch returned 0 posts, falling back to public fetch...", file=sys.stderr)
         try:
             result = fetch_html(args.url, None)
-            payload = build_output_payload(args.url, result, args.count, months_back=args.months_back)
+            payload = build_output_payload(args.url, result, args.count, months_back=args.months_back, cookie=None)
         except Exception as exc:
             print(f"Public fallback also failed: {exc}", file=sys.stderr)
     page_title = args.page_name or payload.get("page", {}).get("title") or parse.urlsplit(args.url).path.strip("/") or "Facebook Page"
