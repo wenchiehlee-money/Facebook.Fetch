@@ -1,32 +1,25 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/people/Richard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards-Research-Blog/100054201473657/",
-  "fetched_at_utc": "2026-05-31T10:39:01.805084+00:00",
+  "fetched_at_utc": "2026-06-05T06:50:58.822657+00:00",
   "page": {
     "title": "Richard只談基本面-Richard's Research Blog",
-    "description": "Richard只談基本面-Richard's Research Blog 。 44,137 個讚 · 3,968 人正在談論這個。內容: 科技產業研究、科技新聞分析、公司基本研究、選擇性轉貼公開資訊\n(基本面定義:和企業獲利有關的稱為基本面，不包含股票投資)",
+    "description": "Richard只談基本面-Richard's Research Blog. 44,192 likes · 2,466 talking about this. 內容: 科技產業研究、科技新聞分析、公司基本研究、選擇性轉貼公開資訊\n(基本面定義:和企業獲利有關的稱為基本面，不包含股票投資)",
     "canonical_url": "https://www.facebook.com/people/Richard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards-Research-Blog/100054201473657/",
-    "image": "https://scontent.ftpe8-3.fna.fbcdn.net/v/t39.30808-1/305654190_614468207036556_770408953886381464_n.jpg?stp=dst-jpg_tt6&cstp=mx1229x1229&ctp=s720x720&_nc_cat=111&ccb=1-7&_nc_sid=3ab345&_nc_ohc=eNysMSMgKXcQ7kNvwHeZ5e0&_nc_oc=AdqdBESWd97vPiWoXek0Qg5E9Xd6-6PMEB6th0DQ5lUgpdkcjWeOxBvdYy4XxTHdVbU&_nc_zt=24&_nc_ht=scontent.ftpe8-3.fna&_nc_gid=s65iDM6bo6M0g6yr4vXdlA&_nc_ss=7820f&oh=00_Af_hm4TVAhVHcU1evR3SwDU4xwkzum9fDcjUih7ECvRIFg&oe=6A21FD9C",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/305654190_614468207036556_770408953886381464_n.jpg?stp=dst-jpg_tt6&cstp=mx1229x1229&ctp=s720x720&_nc_cat=111&ccb=1-7&_nc_sid=3ab345&_nc_ohc=ygLFOW87yAwQ7kNvwFQCPLH&_nc_oc=AdoqodwIXZxRcSU966ubbwHvocOYnrO-K41o87W9pJNJd903WZK_l2hyHw1U1diBh9I&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&_nc_gid=-ihsJGxHzPpElcwGvi65gQ&_nc_ss=7e20f&oh=00_Af8CACFAe6lXbb3ussJ1WvDZuhUl6pjRONI3a2kKcZT-gA&oe=6A285CDC",
     "follower_count": "4.4 萬位追蹤者"
   },
-  "checked_post_count": 2,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "1518905229926178",
-    "1518791733270861"
-  ],
-  "new_markdown_files": [
-    "data\\Richard只談基本面-Richards Research Blog\\2026-05-30_Memory最近這一波需求刺激來自Agentic-AI.md",
-    "data\\Richard只談基本面-Richards Research Blog\\2026-05-30_Seagate取得HAMR技術領先WD如何追趕.md"
-  ],
+  "checked_post_count": 0,
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
-  "posts_directory": "data\\Richard只談基本面-Richards Research Blog",
+  "posts_directory": "data/Richard只談基本面-Richards Research Blog",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
+    "本次公開 GraphQL 沒有回貼文，已退回 HTML 解析。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

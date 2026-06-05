@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/eric.lin77",
-  "final_url": "https://www.facebook.com/eric.lin77",
-  "fetched_at_utc": "2026-05-31T10:42:46.558886+00:00",
+  "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Feric.lin77",
+  "fetched_at_utc": "2026-06-05T06:51:15.966461+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -14,7 +14,7 @@
   "new_post_ids": [],
   "new_markdown_files": [],
   "removed_markdown_files": [],
-  "posts_directory": "data\\eric.lin77",
+  "posts_directory": "data/eric.lin77",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
     "本次公開 GraphQL 沒有回貼文，已退回 HTML 解析。",

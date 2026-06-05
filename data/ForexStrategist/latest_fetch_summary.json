@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/ForexStrategist",
-  "final_url": "https://www.facebook.com/ForexStrategist",
-  "fetched_at_utc": "2026-05-30T14:25:35.895701+00:00",
+  "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FForexStrategist",
+  "fetched_at_utc": "2026-06-05T06:50:49.680861+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -20,7 +20,6 @@
     "本次公開 GraphQL 沒有回貼文，已退回 HTML 解析。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 2 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

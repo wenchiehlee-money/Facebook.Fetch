@@ -1,37 +1,23 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-05-31T10:30:42.639373+00:00",
+  "fetched_at_utc": "2026-06-05T06:50:20.303402+00:00",
   "page": {
     "title": "游庭皓的財經皓角",
-    "description": "游庭皓的財經皓角。 351,837 個讚 · 175,716 人正在談論這個。分享數據",
+    "description": "游庭皓的財經皓角. 354,160 likes · 166,731 talking about this. 分享數據",
     "canonical_url": "https://www.facebook.com/yutinghaosfinance",
-    "image": "https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-1/322128965_1214062385868658_8215444431924818366_n.jpg?stp=dst-jpg_tt6&cstp=mx1366x2048&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=3ab345&_nc_ohc=JWHGmT1nhWcQ7kNvwH1hwuZ&_nc_oc=AdpP1UUmWNcZnsV4uQs5J0A3koMEGKTmaLaU2Ty6Boa6zHmXypq4urjvSV3pKVA-6ig&_nc_zt=24&_nc_ht=scontent.ftpe8-2.fna&_nc_gid=KGpysUW6zRNAVZgCVUhEBA&_nc_ss=7820f&oh=00_Af-YGS3dm4GfbiIQt2rNorknPfhdV6Fhfqfhvdxoukgf-w&oe=6A21D659",
-    "follower_count": "35.2 萬位追蹤者"
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/322128965_1214062385868658_8215444431924818366_n.jpg?stp=dst-jpg_tt6&cstp=mx1366x2048&ctp=s960x960&_nc_cat=1&ccb=1-7&_nc_sid=3ab345&_nc_ohc=TDbpbijHa9EQ7kNvwHSgOLh&_nc_oc=Adqee-56ntCA1B356jGiVyxNA5L8iNWNUBObth8JgwHvCV6bKZdcCeMc7QgrnMBrd64&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&_nc_gid=ALNafjTcig-gfcMPOkha0g&_nc_ss=7e20f&oh=00_Af-ljuxiGpPdEBmKeP0ZNc8VqXE74RUU-b0eYBBaGBxHbg&oe=6A283599",
+    "follower_count": "35.4 萬位追蹤者"
   },
-  "checked_post_count": 6,
-  "new_post_count": 6,
-  "new_post_ids": [
-    "1044287181495968",
-    "1044284291496257",
-    "1044277071496979",
-    "1044274241497262",
-    "1044261798165173",
-    "1044258071498879"
-  ],
-  "new_markdown_files": [
-    "data\\游庭皓的財經皓角\\2026-05-30_資料中心正在取代辦公大樓過去十多年來辦公大樓一直是商業不動產投資的重要項目占整體民間建設支出的比重長期維持在5至6以上.md",
-    "data\\游庭皓的財經皓角\\2026-05-30_全台AI化台灣政府準備啟動新一輪產業升級工程中央政府規劃總共投入1000億元資源結合AI新十大建設希望在2040年前協助100萬家企業完成智慧化AI轉型涵蓋中小.md",
-    "data\\游庭皓的財經皓角\\2026-05-30_台灣新創快追上日韓國際新創研究機構-StartupBlink-最新發布的2026新創生態系指數台灣排名大幅躍升至全球第20名首度擠進全球前20強創下歷史最佳成績.md",
-    "data\\游庭皓的財經皓角\\2026-05-30_台灣是全球第28名繁榮國家根據美國智庫-Atlantic-Council-繁榮指數評比範圍涵蓋全球超過160個國家與地區台灣名列全球第28名位居英國之前.md",
-    "data\\游庭皓的財經皓角\\2026-05-30_蘋果終於準備正式反攻AI市場根據彭博報導蘋果即將在新版系統中推出15年來最大規模的Siri改版不只介面全面重做還會加入類似聊天機器人的獨立應用程式甚至直接整合外.md",
-    "data\\游庭皓的財經皓角\\2026-05-30_中國出口結構已經改變過去紡織家具成衣等傳統製造業曾長期是中國出口核心但現在占整體出口比重已經一路下滑反而是晶片電腦與AI相關硬體的出口占比快速攀升.md"
-  ],
+  "checked_post_count": 0,
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
-  "posts_directory": "data\\游庭皓的財經皓角",
+  "posts_directory": "data/游庭皓的財經皓角",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 6 篇貼文。",
+    "本次公開 GraphQL 沒有回貼文，已退回 HTML 解析。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
