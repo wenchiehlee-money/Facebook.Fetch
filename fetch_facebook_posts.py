@@ -586,17 +586,24 @@ def extract_generated_markdown_body(text: str) -> str:
 def build_output_payload(url: str, result: FetchResult, count: int, months_back: int = 0, cookie: str | None = None, fb_dtsg: str | None = None) -> dict[str, Any]:
     meta = parse_meta_tags(result.html_text)
     html_post_urls = extract_post_urls(result.html_text)
-    # When cookie-authenticated, fetch public (no-cookie) HTML for GraphQL context.
-    # Authenticated HTML often has the logged-in user's ID as the first "userID" match,
-    # not the target page's ID. Public HTML reliably returns the target page's ID.
+    # Prefer fb_dtsg extracted fresh from the authenticated HTML over the CLI arg.
+    # urllib with a valid session cookie returns HTML containing DTSGInitialData.
+    effective_fb_dtsg = fb_dtsg
+    if cookie:
+        dtsg_match = re.search(r'"DTSGInitialData",\[\],\{"token":"([^"]+)"\}', result.html_text)
+        if dtsg_match:
+            effective_fb_dtsg = dtsg_match.group(1)
+            print(f"[debug] Extracted fresh fb_dtsg from authenticated HTML", file=sys.stderr)
+    # Fetch public (no-cookie) HTML for GraphQL context to get reliable page_id.
+    # Authenticated HTML often has the logged-in user's ID first, not the target page's.
     graphql_html = result.html_text
-    if cookie and fb_dtsg:
+    if cookie and effective_fb_dtsg:
         try:
             public_result = fetch_html(url, None)
             graphql_html = public_result.html_text
         except Exception:
             pass
-    graphql_records = extract_graphql_post_records(graphql_html, count, months_back=months_back, cookie=cookie, fb_dtsg=fb_dtsg)
+    graphql_records = extract_graphql_post_records(graphql_html, count, months_back=months_back, cookie=cookie, fb_dtsg=effective_fb_dtsg)
     html_records = extract_post_records_from_html(result.html_text)
     post_records = graphql_records if graphql_records else html_records
     prefiltered_count = len(post_records)
