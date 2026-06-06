@@ -286,7 +286,7 @@ def _extract_c_user(cookie: str) -> str:
     return "0"
 
 
-def fetch_public_timeline_parts(html_text: str, count: int, cursor: str | None = None, cookie: str | None = None, fb_dtsg: str | None = None) -> list[dict[str, Any]]:
+def fetch_public_timeline_parts(html_text: str, count: int, cursor: str | None = None, cookie: str | None = None, fb_dtsg: str | None = None, page_id_override: str | None = None) -> list[dict[str, Any]]:
     context = extract_public_graphql_context(html_text)
     if not context:
         print("[debug] extract_public_graphql_context returned None", file=sys.stderr)
@@ -294,6 +294,8 @@ def fetch_public_timeline_parts(html_text: str, count: int, cursor: str | None =
 
     if fb_dtsg:
         context["fb_dtsg"] = fb_dtsg
+    if page_id_override:
+        context["user_id"] = page_id_override
     user_id = _extract_c_user(cookie) if cookie else "0"
     print(f"[debug] GraphQL: page_id={context['user_id']} av={user_id} dtsg={'yes' if context.get('fb_dtsg') else 'no'} lsd={context['lsd'][:8]}", file=sys.stderr)
 
@@ -460,7 +462,7 @@ def walk_graphql_parts(node: Any, found: list[dict[str, Any]]) -> None:
             walk_graphql_parts(item, found)
 
 
-def extract_graphql_post_records(html_text: str, count: int, months_back: int = 0, max_pages: int = 100, cookie: str | None = None, fb_dtsg: str | None = None) -> list[dict[str, Any]]:
+def extract_graphql_post_records(html_text: str, count: int, months_back: int = 0, max_pages: int = 100, cookie: str | None = None, fb_dtsg: str | None = None, page_id_override: str | None = None) -> list[dict[str, Any]]:
     cutoff_ts: int | None = None
     if months_back > 0:
         cutoff_ts = int((datetime.now(timezone.utc) - timedelta(days=30 * months_back)).timestamp())
@@ -468,7 +470,7 @@ def extract_graphql_post_records(html_text: str, count: int, months_back: int = 
     records: list[dict[str, Any]] = []
     cursor: str | None = None
     for page_idx in range(max_pages):
-        parts = fetch_public_timeline_parts(html_text, count, cursor=cursor, cookie=cookie, fb_dtsg=fb_dtsg)
+        parts = fetch_public_timeline_parts(html_text, count, cursor=cursor, cookie=cookie, fb_dtsg=fb_dtsg, page_id_override=page_id_override)
         if not parts:
             break
         page_records: list[dict[str, Any]] = []
@@ -583,27 +585,38 @@ def extract_generated_markdown_body(text: str) -> str:
     return "\n".join(body_lines).strip()
 
 
+def _extract_page_id_from_url(url: str) -> str | None:
+    """Extract numeric page ID directly from profile.php?id=... URLs."""
+    qs = parse.parse_qs(parse.urlsplit(url).query)
+    ids = qs.get("id", [])
+    return ids[0] if ids and ids[0].isdigit() else None
+
+
 def build_output_payload(url: str, result: FetchResult, count: int, months_back: int = 0, cookie: str | None = None, fb_dtsg: str | None = None) -> dict[str, Any]:
     meta = parse_meta_tags(result.html_text)
     html_post_urls = extract_post_urls(result.html_text)
-    # Prefer fb_dtsg extracted fresh from the authenticated HTML over the CLI arg.
-    # urllib with a valid session cookie returns HTML containing DTSGInitialData.
+    # Use authenticated HTML for session-bound tokens (lsd, jazoest, fb_dtsg).
+    # Extract fresh fb_dtsg from the current authenticated HTML response.
     effective_fb_dtsg = fb_dtsg
     if cookie:
         dtsg_match = re.search(r'"DTSGInitialData",\[\],\{"token":"([^"]+)"\}', result.html_text)
         if dtsg_match:
             effective_fb_dtsg = dtsg_match.group(1)
-            print(f"[debug] Extracted fresh fb_dtsg from authenticated HTML", file=sys.stderr)
-    # Fetch public (no-cookie) HTML for GraphQL context to get reliable page_id.
-    # Authenticated HTML often has the logged-in user's ID first, not the target page's.
-    graphql_html = result.html_text
-    if cookie and effective_fb_dtsg:
+            print("[debug] Extracted fresh fb_dtsg from authenticated HTML", file=sys.stderr)
+    # Get the target page's numeric ID reliably:
+    # - profile.php?id=X URLs: extract directly from URL
+    # - Vanity URLs: fetch public (no-cookie) HTML; authenticated HTML often returns
+    #   the logged-in user's ID as the first "userID" match instead of the target.
+    page_id_override = _extract_page_id_from_url(url)
+    if not page_id_override and cookie and effective_fb_dtsg:
         try:
             public_result = fetch_html(url, None)
-            graphql_html = public_result.html_text
+            pub_ctx = extract_public_graphql_context(public_result.html_text)
+            if pub_ctx and pub_ctx.get("user_id") and pub_ctx["user_id"] != "0":
+                page_id_override = pub_ctx["user_id"]
         except Exception:
             pass
-    graphql_records = extract_graphql_post_records(graphql_html, count, months_back=months_back, cookie=cookie, fb_dtsg=effective_fb_dtsg)
+    graphql_records = extract_graphql_post_records(result.html_text, count, months_back=months_back, cookie=cookie, fb_dtsg=effective_fb_dtsg, page_id_override=page_id_override)
     html_records = extract_post_records_from_html(result.html_text)
     post_records = graphql_records if graphql_records else html_records
     prefiltered_count = len(post_records)
