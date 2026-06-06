@@ -253,37 +253,18 @@ def extract_post_records_from_html(html_text: str) -> list[dict[str, Any]]:
     return deduplicate_records(records)
 
 
-def extract_public_graphql_context(html_text: str, logged_in_user_id: str | None = None) -> dict[str, str] | None:
+def extract_public_graphql_context(html_text: str) -> dict[str, str] | None:
     lsd_match = re.search(r'\["LSD",\s*\[\],\s*\{"token":\s*"([^"]+)"\}', html_text)
     jazoest_match = re.search(r"jazoest[^0-9]{0,20}(\d{4,})", html_text)
-
-    # Find target page/profile ID, excluding the logged-in user's own ID when possible.
-    # When authenticated, "userID" in HTML often refers to the logged-in user, not the
-    # target page, so we scan all occurrences and skip the logged-in user's ID.
-    _id_patterns = [
-        r'"userID"\s*:\s*"(\d+)"',
-        r'"actorID"\s*:\s*"(\d+)"',
-        r'"ownerID"\s*:\s*"(\d+)"',
-        r'"pageID"\s*:\s*"(\d+)"',
-        r'"profileID"\s*:\s*"(\d+)"',
-        r'"owner"\s*:\s*\{[^}]*"id"\s*:\s*"(\d+)"',
-        r'"node"\s*:\s*\{[^}]*"id"\s*:\s*"(\d{10,})"',
-    ]
-    user_id_match = None
-    for pat in _id_patterns:
-        for m in re.finditer(pat, html_text):
-            if logged_in_user_id is None or m.group(1) != logged_in_user_id:
-                user_id_match = m
-                break
-        if user_id_match:
-            break
-    if user_id_match is None:
-        # Fallback: accept any match even if it equals logged_in_user_id
-        for pat in _id_patterns:
-            user_id_match = re.search(pat, html_text)
-            if user_id_match:
-                break
-
+    user_id_match = (
+        re.search(r'"userID"\s*:\s*"(\d+)"', html_text)
+        or re.search(r'"actorID"\s*:\s*"(\d+)"', html_text)
+        or re.search(r'"ownerID"\s*:\s*"(\d+)"', html_text)
+        or re.search(r'"pageID"\s*:\s*"(\d+)"', html_text)
+        or re.search(r'"profileID"\s*:\s*"(\d+)"', html_text)
+        or re.search(r'"owner"\s*:\s*\{[^}]*"id"\s*:\s*"(\d+)"', html_text)
+        or re.search(r'"node"\s*:\s*\{[^}]*"id"\s*:\s*"(\d{10,})"', html_text)
+    )
     vanity_match = re.search(r'"userVanity":"([^"]+)"', html_text)
     dtsg_match = re.search(r'"DTSGInitialData",\[\],\{"token":"([^"]+)"\}', html_text)
     if not (lsd_match and jazoest_match and user_id_match):
@@ -306,14 +287,14 @@ def _extract_c_user(cookie: str) -> str:
 
 
 def fetch_public_timeline_parts(html_text: str, count: int, cursor: str | None = None, cookie: str | None = None, fb_dtsg: str | None = None) -> list[dict[str, Any]]:
-    user_id = _extract_c_user(cookie) if cookie else "0"
-    context = extract_public_graphql_context(html_text, logged_in_user_id=user_id if user_id != "0" else None)
+    context = extract_public_graphql_context(html_text)
     if not context:
         print("[debug] extract_public_graphql_context returned None", file=sys.stderr)
         return []
 
     if fb_dtsg:
         context["fb_dtsg"] = fb_dtsg
+    user_id = _extract_c_user(cookie) if cookie else "0"
     print(f"[debug] GraphQL: page_id={context['user_id']} av={user_id} dtsg={'yes' if context.get('fb_dtsg') else 'no'} lsd={context['lsd'][:8]}", file=sys.stderr)
 
     variables = {
@@ -605,7 +586,17 @@ def extract_generated_markdown_body(text: str) -> str:
 def build_output_payload(url: str, result: FetchResult, count: int, months_back: int = 0, cookie: str | None = None, fb_dtsg: str | None = None) -> dict[str, Any]:
     meta = parse_meta_tags(result.html_text)
     html_post_urls = extract_post_urls(result.html_text)
-    graphql_records = extract_graphql_post_records(result.html_text, count, months_back=months_back, cookie=cookie, fb_dtsg=fb_dtsg)
+    # When cookie-authenticated, fetch public (no-cookie) HTML for GraphQL context.
+    # Authenticated HTML often has the logged-in user's ID as the first "userID" match,
+    # not the target page's ID. Public HTML reliably returns the target page's ID.
+    graphql_html = result.html_text
+    if cookie and fb_dtsg:
+        try:
+            public_result = fetch_html(url, None)
+            graphql_html = public_result.html_text
+        except Exception:
+            pass
+    graphql_records = extract_graphql_post_records(graphql_html, count, months_back=months_back, cookie=cookie, fb_dtsg=fb_dtsg)
     html_records = extract_post_records_from_html(result.html_text)
     post_records = graphql_records if graphql_records else html_records
     prefiltered_count = len(post_records)
