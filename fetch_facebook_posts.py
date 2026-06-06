@@ -17,7 +17,7 @@ from urllib import error, parse, request
 
 
 DEFAULT_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-PUBLIC_TIMELINE_DOC_ID = "27123018647381811"
+PUBLIC_TIMELINE_DOC_ID = "36112944778351266"
 PUBLIC_TIMELINE_QUERY_NAME = "ProfileCometTimelineFeedRefetchQuery"
 JSON_SCRIPT_RE = re.compile(
     r'<script\s+type="application/json"[^>]*>(.*?)</script>',
