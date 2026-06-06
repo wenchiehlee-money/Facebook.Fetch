@@ -28,6 +28,7 @@ jobs:
       - name: Run daily fetch
         env:
           FB_COOKIE: ${{ secrets.FB_COOKIE }}
+          FB_DTSG: ${{ secrets.FB_DTSG }}
         run: |
           # Read URLs from data/fetch_urls.txt
           # Format: URL [TAB page_name]  — page_name is used as folder name override
@@ -35,9 +36,9 @@ jobs:
             [[ "$url" =~ ^#.*$ || -z "$url" ]] && continue
             echo "::group::Fetching $url"
             if [[ -n "$page_name" ]]; then
-              python3 fetch_facebook_posts.py "$url" --count 20 --cookie "$FB_COOKIE" --page-name "$page_name" || echo "Warning: Failed to fetch $url"
+              python3 fetch_facebook_posts.py "$url" --count 20 --cookie "$FB_COOKIE" --fb-dtsg "$FB_DTSG" --page-name "$page_name" || echo "Warning: Failed to fetch $url"
             else
-              python3 fetch_facebook_posts.py "$url" --count 20 --cookie "$FB_COOKIE" || echo "Warning: Failed to fetch $url"
+              python3 fetch_facebook_posts.py "$url" --count 20 --cookie "$FB_COOKIE" --fb-dtsg "$FB_DTSG" || echo "Warning: Failed to fetch $url"
             fi
             echo "::endgroup::"
           done < data/fetch_urls.txt

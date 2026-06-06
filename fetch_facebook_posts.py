@@ -286,12 +286,14 @@ def _extract_c_user(cookie: str) -> str:
     return "0"
 
 
-def fetch_public_timeline_parts(html_text: str, count: int, cursor: str | None = None, cookie: str | None = None) -> list[dict[str, Any]]:
+def fetch_public_timeline_parts(html_text: str, count: int, cursor: str | None = None, cookie: str | None = None, fb_dtsg: str | None = None) -> list[dict[str, Any]]:
     context = extract_public_graphql_context(html_text)
     if not context:
         print("[debug] extract_public_graphql_context returned None", file=sys.stderr)
         return []
 
+    if fb_dtsg:
+        context["fb_dtsg"] = fb_dtsg
     user_id = _extract_c_user(cookie) if cookie else "0"
     print(f"[debug] GraphQL: page_id={context['user_id']} av={user_id} dtsg={'yes' if context.get('fb_dtsg') else 'no'} lsd={context['lsd'][:8]}", file=sys.stderr)
 
@@ -458,7 +460,7 @@ def walk_graphql_parts(node: Any, found: list[dict[str, Any]]) -> None:
             walk_graphql_parts(item, found)
 
 
-def extract_graphql_post_records(html_text: str, count: int, months_back: int = 0, max_pages: int = 100, cookie: str | None = None) -> list[dict[str, Any]]:
+def extract_graphql_post_records(html_text: str, count: int, months_back: int = 0, max_pages: int = 100, cookie: str | None = None, fb_dtsg: str | None = None) -> list[dict[str, Any]]:
     cutoff_ts: int | None = None
     if months_back > 0:
         cutoff_ts = int((datetime.now(timezone.utc) - timedelta(days=30 * months_back)).timestamp())
@@ -466,7 +468,7 @@ def extract_graphql_post_records(html_text: str, count: int, months_back: int = 
     records: list[dict[str, Any]] = []
     cursor: str | None = None
     for page_idx in range(max_pages):
-        parts = fetch_public_timeline_parts(html_text, count, cursor=cursor, cookie=cookie)
+        parts = fetch_public_timeline_parts(html_text, count, cursor=cursor, cookie=cookie, fb_dtsg=fb_dtsg)
         if not parts:
             break
         page_records: list[dict[str, Any]] = []
@@ -581,10 +583,10 @@ def extract_generated_markdown_body(text: str) -> str:
     return "\n".join(body_lines).strip()
 
 
-def build_output_payload(url: str, result: FetchResult, count: int, months_back: int = 0, cookie: str | None = None) -> dict[str, Any]:
+def build_output_payload(url: str, result: FetchResult, count: int, months_back: int = 0, cookie: str | None = None, fb_dtsg: str | None = None) -> dict[str, Any]:
     meta = parse_meta_tags(result.html_text)
     html_post_urls = extract_post_urls(result.html_text)
-    graphql_records = extract_graphql_post_records(result.html_text, count, months_back=months_back, cookie=cookie)
+    graphql_records = extract_graphql_post_records(result.html_text, count, months_back=months_back, cookie=cookie, fb_dtsg=fb_dtsg)
     html_records = extract_post_records_from_html(result.html_text)
     post_records = graphql_records if graphql_records else html_records
     prefiltered_count = len(post_records)
@@ -888,6 +890,11 @@ def parse_args() -> argparse.Namespace:
         default=None,
         help="覆蓋頁面名稱（用於 profile.php?id=... 等無法自動取得標題的 URL）",
     )
+    parser.add_argument(
+        "--fb-dtsg",
+        default=None,
+        help="可選，直接傳入 fb_dtsg CSRF token（因 urllib 無法從 HTML 取得）",
+    )
     return parser.parse_args()
 
 
@@ -896,6 +903,7 @@ def main() -> int:
     data_dir = Path(args.data_dir)
 
     cookie = args.cookie
+    fb_dtsg = args.fb_dtsg or None
     try:
         result = fetch_html(args.url, cookie)
     except (error.HTTPError, error.URLError) as exc:
@@ -910,7 +918,7 @@ def main() -> int:
             print(f"Fetch failed: {exc}", file=sys.stderr)
             return 1
 
-    payload = build_output_payload(args.url, result, args.count, months_back=args.months_back, cookie=cookie)
+    payload = build_output_payload(args.url, result, args.count, months_back=args.months_back, cookie=cookie, fb_dtsg=fb_dtsg)
     if cookie and payload.get("post_record_count", 0) == 0:
         print("Cookie fetch returned 0 posts, falling back to public fetch...", file=sys.stderr)
         try:
