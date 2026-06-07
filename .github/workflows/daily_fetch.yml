@@ -85,7 +85,7 @@ jobs:
             if [ "${{ steps.detect.outputs.new_post_count }}" != "0" ]; then
               git commit -m "Daily fetch: added $count new posts" -m "Automated fetch from Facebook pages."
             else
-              git commit -m "chore: update README timestamp [skip ci]"
+              git commit -m "chore: refresh facebook fetch metadata"
             fi
             git push origin HEAD:main
           fi

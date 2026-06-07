@@ -169,7 +169,7 @@ def main() -> None:
         reverse=True,
     )
     with CSV_PATH.open("w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
+        writer = csv.DictWriter(f, fieldnames=FIELDNAMES, lineterminator="\n")
         writer.writeheader()
         writer.writerows(sorted_rows)
     print(f"Updated {CSV_PATH} with {len(sorted_rows)} article records (overwritten).")
