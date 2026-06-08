@@ -1,25 +1,25 @@
 ---
 post_id: "122216596934502956"
 title: "🚨FPGA、CPU、ADI 全面缺貨！半導體測試設備交期開始失控"
-page_title: "吉米投資理財補給站 Ver2.0"
+page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
-final_url: "https://www.facebook.com/people/%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99-Ver20/61565088683715/"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid023HbKbde2hh12CievNbi3BWTJHuRZJFaAMMBStgyuCnF7om9Lp1zc3GChHwDYP4aQl&id=61565088683715"
+final_url: "https://www.facebook.com/profile.php?id=61565088683715"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid023YtMYMhV4yZA9UGwfgoZsMgyL4a9Uwy7AMTbEZRiQw4pudWLmBSDFoN4RStLXk2il&id=61565088683715"
 creation_time_utc: "2026-05-29T10:49:19+00:00"
-fetched_at_utc: "2026-05-31T10:40:21.545065+00:00"
+fetched_at_utc: "2026-06-08T07:04:41.132596+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/708320191_122216596862502956_351251270414376763_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ZGNRkaH2RMAQ7kNvwHHp5bL&_nc_oc=AdrLXONBdQX8s2UcfC6WHG6o-vGFKQpknf8Qk3iKgAJQbhGO5-nu5Sy7JC2moUge4eE&_nc_zt=23&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=R68BWI-JhfgTvWAa86Z8UQ&_nc_ss=78100&oh=00_Af_Q3UUqh0zP-7EK7jCV9ccMwZw2GSpsv9fwY2BRrrzjnw&oe=6A21C6B6"
+image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/708320191_122216596862502956_351251270414376763_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tQ87N_IU-TQQ7kNvwEb47aq&_nc_oc=Adp_GYa30MLa9UxyZ9mKVYcsSGquigUKLCbYgF_xe3YIGZZbbfgQ6Othwauvyjdnrv4&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=ahNC0Mk9ZrzvSZCCIjSkFg&_nc_ss=7e120&oh=00_Af8pMs90hyQ3p0Zpqwg6n2HzXWuf7HhJI8DXAOpOZrCiNQ&oe=6A2C52B6"
 feedback_id: "ZmVlZGJhY2s6MTIyMjE2NTk2OTM0NTAyOTU2"
-page_canonical_url: "https://www.facebook.com/people/%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99-Ver20/61565088683715/"
+page_canonical_url: ""
 ---
 
 # 🚨FPGA、CPU、ADI 全面缺貨！半導體測試設備交期開始失控
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid023HbKbde2hh12CievNbi3BWTJHuRZJFaAMMBStgyuCnF7om9Lp1zc3GChHwDYP4aQl&id=61565088683715
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid023YtMYMhV4yZA9UGwfgoZsMgyL4a9Uwy7AMTbEZRiQw4pudWLmBSDFoN4RStLXk2il&id=61565088683715
 
-![🚨FPGA、CPU、ADI 全面缺貨！半導體測試設備交期開始失控](https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/708320191_122216596862502956_351251270414376763_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ZGNRkaH2RMAQ7kNvwHHp5bL&_nc_oc=AdrLXONBdQX8s2UcfC6WHG6o-vGFKQpknf8Qk3iKgAJQbhGO5-nu5Sy7JC2moUge4eE&_nc_zt=23&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=R68BWI-JhfgTvWAa86Z8UQ&_nc_ss=78100&oh=00_Af_Q3UUqh0zP-7EK7jCV9ccMwZw2GSpsv9fwY2BRrrzjnw&oe=6A21C6B6)
+![🚨FPGA、CPU、ADI 全面缺貨！半導體測試設備交期開始失控](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/708320191_122216596862502956_351251270414376763_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tQ87N_IU-TQQ7kNvwEb47aq&_nc_oc=Adp_GYa30MLa9UxyZ9mKVYcsSGquigUKLCbYgF_xe3YIGZZbbfgQ6Othwauvyjdnrv4&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=ahNC0Mk9ZrzvSZCCIjSkFg&_nc_ss=7e120&oh=00_Af8pMs90hyQ3p0Zpqwg6n2HzXWuf7HhJI8DXAOpOZrCiNQ&oe=6A2C52B6)
 🚨FPGA、CPU、ADI 全面缺貨！半導體測試設備交期開始失控
 現在業界甚至出現一句話：「因為缺半導體，所以做不出半導體設備。」這次問題已經不只是單一零件，而是整個非記憶體晶片供應鏈全面卡關。尤其 AI、資料中心與雲端需求持續暴增，讓大量高階晶片優先流向 hyperscaler 與 AI server，設備商反而被擠壓。
 

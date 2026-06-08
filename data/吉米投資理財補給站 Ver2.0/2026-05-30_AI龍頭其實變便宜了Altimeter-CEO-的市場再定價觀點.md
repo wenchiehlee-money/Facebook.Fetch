@@ -1,25 +1,23 @@
 ---
 post_id: "122216713406502956"
 title: "🔥 AI龍頭其實變便宜了？Altimeter CEO 的市場再定價觀點"
-page_title: "吉米投資理財補給站 Ver2.0"
+page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
-final_url: "https://www.facebook.com/people/%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99-Ver20/61565088683715/"
+final_url: "https://www.facebook.com/profile.php?id=61565088683715"
 post_url: "https://www.facebook.com/reel/973697518966611/"
 creation_time_utc: "2026-05-30T14:01:21+00:00"
-fetched_at_utc: "2026-05-31T10:40:21.545065+00:00"
+fetched_at_utc: "2026-06-08T07:04:41.132596+00:00"
 source: "public_graphql"
 attachment_type: "Video"
-attachment_url: "https://www.facebook.com/reel/973697518966611/"
-image_url: "https://scontent.ftpe8-2.fna.fbcdn.net/v/t15.5256-10/709578009_945857404951583_3058063259066809253_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=X-WDaUDesCcQ7kNvwGpC2X9&_nc_oc=AdqpmdikAR1RKi405oudnkn5Hmqthzjg-xC7T67D-ah7_CGwFGAMRqZQRQbqSZ5KOAw&_nc_zt=23&_nc_ht=scontent.ftpe8-2.fna&_nc_gid=_c6Skc51ByeJUZsPK_GHkA&_nc_ss=78100&oh=00_Af83Ktl-lDb2381SSJoAovj3hCnn4brWiEHfzZj-4GNolw&oe=6A21CA66"
+attachment_url: ""
+image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTIyMjE2NzEzNDA2NTAyOTU2"
-page_canonical_url: "https://www.facebook.com/people/%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99-Ver20/61565088683715/"
+page_canonical_url: ""
 ---
 
 # 🔥 AI龍頭其實變便宜了？Altimeter CEO 的市場再定價觀點
 
 原文連結: https://www.facebook.com/reel/973697518966611/
-
-![🔥 AI龍頭其實變便宜了？Altimeter CEO 的市場再定價觀點](https://scontent.ftpe8-2.fna.fbcdn.net/v/t15.5256-10/709578009_945857404951583_3058063259066809253_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=X-WDaUDesCcQ7kNvwGpC2X9&_nc_oc=AdqpmdikAR1RKi405oudnkn5Hmqthzjg-xC7T67D-ah7_CGwFGAMRqZQRQbqSZ5KOAw&_nc_zt=23&_nc_ht=scontent.ftpe8-2.fna&_nc_gid=_c6Skc51ByeJUZsPK_GHkA&_nc_ss=78100&oh=00_Af83Ktl-lDb2381SSJoAovj3hCnn4brWiEHfzZj-4GNolw&oe=6A21CA66)
 🔥 AI龍頭其實變便宜了？Altimeter CEO 的市場再定價觀點
 Altimeter Capital 創辦人兼執行長 Brad Gerstner 的核心判斷是：AI 相關龍頭股雖然過去三年大幅上漲，但本質上不是泡沫，而是「獲利重新加速」帶來的再定價。
 
