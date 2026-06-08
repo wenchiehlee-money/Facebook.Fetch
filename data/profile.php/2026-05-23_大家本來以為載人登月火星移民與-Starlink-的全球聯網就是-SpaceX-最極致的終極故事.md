@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0RZE3rABiMhdwXhWZTxXi2VrrEV29tNAkRFdsCgB17i13brLzFC38JEEyvo6fNu9Bl&id=61573146584049"
 creation_time_utc: "2026-05-23T13:23:54+00:00"
-fetched_at_utc: "2026-06-08T07:01:42.458119+00:00"
+fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/704766704_122183758460771552_354841700636043464_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=yNY8W7XXPU4Q7kNvwFoy49H&_nc_oc=AdrEmCDFt_X0sQ1F-ofE4vQ9Eclh0XOld6uIH2oTW47np3PDq6g3xnWxLeE7Ath7oaw&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=sTcIpUJFRvHsZflEkTS1sw&_nc_ss=7e120&oh=00_Af_czsBbCYtFX3zn6izNbWXuSVREMPsMfone3v0BHr1-Dw&oe=6A2C385D"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/704766704_122183758460771552_354841700636043464_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=yNY8W7XXPU4Q7kNvwGhNn4K&_nc_oc=Adobul15Qt9uVxxouxLCs8Jc1oZt9qe87glf9i8jOhPxyZjjO_u4oDG-LM2IiPek5_Y&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=-rE_k1EShNwWVhIw07WDKg&_nc_ss=7e120&oh=00_Af_nGKfafn8AnqxF3L-13oSAfVHYs_Ec9J1V01wT6ikMeA&oe=6A2C385D"
 feedback_id: "ZmVlZGJhY2s6MTIyMTgzNzU4NDg0NzcxNTUy"
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0RZE3rABiMhdwXhWZTxXi2VrrEV29tNAkRFdsCgB17i13brLzFC38JEEyvo6fNu9Bl&id=61573146584049
 
-![大家本來以為，載人登月、火星移民與 Starlink 的全球聯網，就是 SpaceX 最極致的終極故事。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/704766704_122183758460771552_354841700636043464_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=yNY8W7XXPU4Q7kNvwFoy49H&_nc_oc=AdrEmCDFt_X0sQ1F-ofE4vQ9Eclh0XOld6uIH2oTW47np3PDq6g3xnWxLeE7Ath7oaw&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=sTcIpUJFRvHsZflEkTS1sw&_nc_ss=7e120&oh=00_Af_czsBbCYtFX3zn6izNbWXuSVREMPsMfone3v0BHr1-Dw&oe=6A2C385D)
+![大家本來以為，載人登月、火星移民與 Starlink 的全球聯網，就是 SpaceX 最極致的終極故事。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/704766704_122183758460771552_354841700636043464_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=yNY8W7XXPU4Q7kNvwGhNn4K&_nc_oc=Adobul15Qt9uVxxouxLCs8Jc1oZt9qe87glf9i8jOhPxyZjjO_u4oDG-LM2IiPek5_Y&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=-rE_k1EShNwWVhIw07WDKg&_nc_ss=7e120&oh=00_Af_nGKfafn8AnqxF3L-13oSAfVHYs_Ec9J1V01wT6ikMeA&oe=6A2C385D)
 大家本來以為，載人登月、火星移民與 Starlink 的全球聯網，就是 SpaceX 最極致的終極故事。
 ​
 但這次 Elon Musk 遞交的 S-1 招股書卻用數字證明：AI 部門才是這場資本盛宴裡，真正能撐起數兆估值的「最大吞金獸」與「終極槓桿」。

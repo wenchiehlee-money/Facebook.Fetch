@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02vc1UuVaitHAWLTtT4WYrK6J8FMEKYQaAkm7Sd3VQAf6sXpcPFkcicjf9EHvoLSoal&id=61573146584049"
 creation_time_utc: "2026-05-21T10:50:17+00:00"
-fetched_at_utc: "2026-06-08T07:01:42.458119+00:00"
+fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/703335620_122183509448771552_3471201185974815950_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=OgjgRnA3ZMoQ7kNvwFiEHPn&_nc_oc=AdqxcNIwb4e0ou0eHtQzVdcJgm4ebsVGFvc_XN9AjjmktHdHiAXLET3EFrQeD2zJiBU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=0VODsJv0Wa-GEXXoqO2K6A&_nc_ss=7e120&oh=00_Af9wTt2mUNBD-y5KOsggXCZAtker_i4wD_wb11Gx767OoQ&oe=6A2C26FA"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/703335620_122183509448771552_3471201185974815950_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=OgjgRnA3ZMoQ7kNvwH8XmR9&_nc_oc=AdqJU3XxSw2MgVWc6RnEk3-mJetnhzUkrYnFa7TeygNGzk5gw6WR__BVRkVl_outi9M&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=UQfRarJ-13y-k--7jzZbgQ&_nc_ss=7e120&oh=00_Af936cHfuA7_HrB1PoWZV8K3NiMUSi2eUch4Oaeg7tufQg&oe=6A2C26FA"
 feedback_id: "ZmVlZGJhY2s6MTIyMTgzNTA5NDcyNzcxNTUy"
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02vc1UuVaitHAWLTtT4WYrK6J8FMEKYQaAkm7Sd3VQAf6sXpcPFkcicjf9EHvoLSoal&id=61573146584049
 
-![Nokia 和 Cisco 這兩個名字，代表的是科技史上的兩段「失落傳奇」。](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/703335620_122183509448771552_3471201185974815950_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=OgjgRnA3ZMoQ7kNvwFiEHPn&_nc_oc=AdqxcNIwb4e0ou0eHtQzVdcJgm4ebsVGFvc_XN9AjjmktHdHiAXLET3EFrQeD2zJiBU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=0VODsJv0Wa-GEXXoqO2K6A&_nc_ss=7e120&oh=00_Af9wTt2mUNBD-y5KOsggXCZAtker_i4wD_wb11Gx767OoQ&oe=6A2C26FA)
+![Nokia 和 Cisco 這兩個名字，代表的是科技史上的兩段「失落傳奇」。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/703335620_122183509448771552_3471201185974815950_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=OgjgRnA3ZMoQ7kNvwH8XmR9&_nc_oc=AdqJU3XxSw2MgVWc6RnEk3-mJetnhzUkrYnFa7TeygNGzk5gw6WR__BVRkVl_outi9M&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=UQfRarJ-13y-k--7jzZbgQ&_nc_ss=7e120&oh=00_Af936cHfuA7_HrB1PoWZV8K3NiMUSi2eUch4Oaeg7tufQg&oe=6A2C26FA)
 Nokia 和 Cisco 這兩個名字，代表的是科技史上的兩段「失落傳奇」。
 ​
 2007 年，Nokia 是無可爭議的手機霸主，市值高達 1500 億美元。然而，隨著 iPhone 的問世與智慧型手機浪潮的席捲，這家芬蘭巨頭在短短五年內市值崩跌至 150 億美元，最終黯然將手機業務出售。

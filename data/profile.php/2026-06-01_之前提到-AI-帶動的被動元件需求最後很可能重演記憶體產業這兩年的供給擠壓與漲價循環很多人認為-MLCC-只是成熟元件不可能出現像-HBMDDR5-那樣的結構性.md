@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=61578106860333"
 final_url: "https://www.facebook.com/profile.php?id=61578106860333"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02BZnz97c592AwK1Mdtpm9KWVAYRmRELNAqofER37UsVx2Ad6E5GGptAJe39EbeiNKl&id=61578106860333"
 creation_time_utc: "2026-06-01T23:24:23+00:00"
-fetched_at_utc: "2026-06-08T07:02:11.242654+00:00"
+fetched_at_utc: "2026-06-08T07:33:22.963947+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/711466086_122203510766936895_8613139565504088922_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=cOYCIhOF05sQ7kNvwEiEsaa&_nc_oc=AdoYuCXxNK1m4cA5AainL3UD5GDGb7VTQG7mvCMP6NhTVvVNtMVbdUwtUQgowkxYJok&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=nq1O-sLwfvDbqMS0rmlPsA&_nc_ss=7e120&oh=00_Af_quHwyeb5SAbsyYsm5AA2iSdG0sxI_QMeB2D2CKIeepA&oe=6A2C474F"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/711466086_122203510766936895_8613139565504088922_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=cOYCIhOF05sQ7kNvwEwGUjk&_nc_oc=AdrEm2Iak6oG70uRoRM77BNR0W1fyTkXaCGpcj1W512mMvRcj6_fxbQsrnNzUhvFYL0&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=8XZq_rCcw9_49QGjfULRAw&_nc_ss=7e120&oh=00_Af9ntZGXWLWZI_uXnKANnf7sKJaH8dEeEGgThBd4FXaCow&oe=6A2C474F"
 feedback_id: "ZmVlZGJhY2s6MTIyMjAzNTEwODA4OTM2ODk1"
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02BZnz97c592AwK1Mdtpm9KWVAYRmRELNAqofER37UsVx2Ad6E5GGptAJe39EbeiNKl&id=61578106860333
 
-![之前提到 AI 帶動的被動元件需求，最後很可能重演記憶體產業這兩年的供給擠壓與漲價循環。很多人認為 MLCC 只是成熟元件，不可能出現像 HBM、DDR5 那樣的結構性缺貨，但最近幾家外資的大幅調升目標價與產業報告，開始讓市場重新理解這件事的本質。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/711466086_122203510766936895_8613139565504088922_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=cOYCIhOF05sQ7kNvwEiEsaa&_nc_oc=AdoYuCXxNK1m4cA5AainL3UD5GDGb7VTQG7mvCMP6NhTVvVNtMVbdUwtUQgowkxYJok&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=nq1O-sLwfvDbqMS0rmlPsA&_nc_ss=7e120&oh=00_Af_quHwyeb5SAbsyYsm5AA2iSdG0sxI_QMeB2D2CKIeepA&oe=6A2C474F)
+![之前提到 AI 帶動的被動元件需求，最後很可能重演記憶體產業這兩年的供給擠壓與漲價循環。很多人認為 MLCC 只是成熟元件，不可能出現像 HBM、DDR5 那樣的結構性缺貨，但最近幾家外資的大幅調升目標價與產業報告，開始讓市場重新理解這件事的本質。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/711466086_122203510766936895_8613139565504088922_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=cOYCIhOF05sQ7kNvwEwGUjk&_nc_oc=AdrEm2Iak6oG70uRoRM77BNR0W1fyTkXaCGpcj1W512mMvRcj6_fxbQsrnNzUhvFYL0&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=8XZq_rCcw9_49QGjfULRAw&_nc_ss=7e120&oh=00_Af9ntZGXWLWZI_uXnKANnf7sKJaH8dEeEGgThBd4FXaCow&oe=6A2C474F)
 之前提到 AI 帶動的被動元件需求，最後很可能重演記憶體產業這兩年的供給擠壓與漲價循環。很多人認為 MLCC 只是成熟元件，不可能出現像 HBM、DDR5 那樣的結構性缺貨，但最近幾家外資的大幅調升目標價與產業報告，開始讓市場重新理解這件事的本質。
 
 從摩根士丹利、JPMorgan、CLSA這幾份最新國巨報告來看，現在產業看到的已經不只是AI帶來需求增加，而是AI正在改變整個被動元件產業的供需結構。除了國巨，昨天華新科也發出漲價函，去年發的漲價函在反應銀價上漲的成本提升，而現在雖然也是説因應成本上漲，但已經開始反應供需吃緊。

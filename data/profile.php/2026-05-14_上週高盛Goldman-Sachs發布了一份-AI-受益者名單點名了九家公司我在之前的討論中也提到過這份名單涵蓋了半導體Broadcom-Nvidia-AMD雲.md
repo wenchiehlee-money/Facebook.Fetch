@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0VWEs2PWCzPEdRVJwAPj2FyNASgvYgEgPz9Y5nxza19WHDrERY3btKXL6FddhiN27l&id=61573146584049"
 creation_time_utc: "2026-05-14T10:27:28+00:00"
-fetched_at_utc: "2026-06-08T07:01:42.458119+00:00"
+fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/699310429_122182672268771552_7276775741183391900_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=hVG_XSg7iwYQ7kNvwFZHy7e&_nc_oc=AdqfiTN_VT2TElTBHPploYM0IJMc5pDbq2BJM5Cwju6BgaUtHJHEJ2iFyci4D327UTo&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=cidBfSYKQ8YGr3-lHbW4cg&_nc_ss=7e120&oh=00_Af_BenMkaDAmHUWXPNjSv7defu9jMEhXZg_2Iq6nkEDMKg&oe=6A2C4435"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/699310429_122182672268771552_7276775741183391900_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=hVG_XSg7iwYQ7kNvwHxFyMK&_nc_oc=AdrcuFOkndvx_-5NPmw7uGS35Kf2DNYyrIj1RoVD0K5dgTwThum4iEew4zqKlUzFRDw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=BkzsFx2vVytH8B7B2zR-eg&_nc_ss=7e120&oh=00_Af-uO5HNrMSTgMDnbAraecViS3uWG1VqLz-s3HbEXeMEJA&oe=6A2C4435"
 feedback_id: "ZmVlZGJhY2s6MTIyMTgyNjcyMjkyNzcxNTUy"
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0VWEs2PWCzPEdRVJwAPj2FyNASgvYgEgPz9Y5nxza19WHDrERY3btKXL6FddhiN27l&id=61573146584049
 
-![上週高盛（Goldman Sachs）發布了一份 AI 受益者名單，點名了九家公司。我在之前的討論中也提到過，這份名單涵蓋了半導體（Broadcom, Nvidia, AMD）、雲端巨頭（Amazon, Google, Meta）以及軟體服務（Microsoft, Cloudflare, Accenture）。](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/699310429_122182672268771552_7276775741183391900_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=hVG_XSg7iwYQ7kNvwFZHy7e&_nc_oc=AdqfiTN_VT2TElTBHPploYM0IJMc5pDbq2BJM5Cwju6BgaUtHJHEJ2iFyci4D327UTo&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=cidBfSYKQ8YGr3-lHbW4cg&_nc_ss=7e120&oh=00_Af_BenMkaDAmHUWXPNjSv7defu9jMEhXZg_2Iq6nkEDMKg&oe=6A2C4435)
+![上週高盛（Goldman Sachs）發布了一份 AI 受益者名單，點名了九家公司。我在之前的討論中也提到過，這份名單涵蓋了半導體（Broadcom, Nvidia, AMD）、雲端巨頭（Amazon, Google, Meta）以及軟體服務（Microsoft, Cloudflare, Accenture）。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/699310429_122182672268771552_7276775741183391900_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=hVG_XSg7iwYQ7kNvwHxFyMK&_nc_oc=AdrcuFOkndvx_-5NPmw7uGS35Kf2DNYyrIj1RoVD0K5dgTwThum4iEew4zqKlUzFRDw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=BkzsFx2vVytH8B7B2zR-eg&_nc_ss=7e120&oh=00_Af-uO5HNrMSTgMDnbAraecViS3uWG1VqLz-s3HbEXeMEJA&oe=6A2C4435)
 上週高盛（Goldman Sachs）發布了一份 AI 受益者名單，點名了九家公司。我在之前的討論中也提到過，這份名單涵蓋了半導體（Broadcom, Nvidia, AMD）、雲端巨頭（Amazon, Google, Meta）以及軟體服務（Microsoft, Cloudflare, Accenture）。
 ​
 坦白說，如果你只看名單本身，這並不是什麼獨到的見解。這些都是市場耳熟能詳的大型股。但我認為這份報告真正有價值的地方，在於它揭示了 AI 產業鏈轉化的三條戰線。

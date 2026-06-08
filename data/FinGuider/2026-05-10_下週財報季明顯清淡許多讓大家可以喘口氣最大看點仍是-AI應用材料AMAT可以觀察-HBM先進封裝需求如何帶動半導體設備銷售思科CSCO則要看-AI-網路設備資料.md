@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
 post_url: "https://www.facebook.com/FinGuider/posts/pfbid0W3ukbvjkNsVPDjMsoJzZjNGVcw3y1vmRGR7zLYt3p8MWrddjRUB9dPTFQSXVznHdl"
 creation_time_utc: "2026-05-10T02:00:12+00:00"
-fetched_at_utc: "2026-06-08T06:59:00.549107+00:00"
+fetched_at_utc: "2026-06-08T07:24:00.578955+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/690677761_1442182984618511_6051005594869023272_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0uNfqZvNaV0Q7kNvwGvIMws&_nc_oc=AdoHiH5xxSV-C5KsRtb0VYv48tlp6gkPPTQPGpqlFaaDGYQGGzbPGpk2MKey2WBM-qc&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=oyyKzhiJtTuK-Y8PspM1gg&_nc_ss=7e120&oh=00_Af_iybzS4H_RaMV37ufsohjFOPXku-0OZMFi9xcsa-SDXw&oe=6A2C361B"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/690677761_1442182984618511_6051005594869023272_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0uNfqZvNaV0Q7kNvwHnLpNe&_nc_oc=Adpe-ACuQlUnxBzzcX6_YXNLQ_5G1BtewjVOaX6Lpzp8E1XjJ1lgcHHMSeuMGfiSZSk&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=SGV89otWxItlOAOOHy1fpA&_nc_ss=7e120&oh=00_Af-8iHl1Mw2xQMGGAyjNOgw_PENfBElY5Ev17QxD4cs6Gw&oe=6A2C361B"
 feedback_id: "ZmVlZGJhY2s6MTQ0MjE4MzI5NDYxODQ4MA=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/FinGuider/posts/pfbid0W3ukbvjkNsVPDjMsoJzZjNGVcw3y1vmRGR7zLYt3p8MWrddjRUB9dPTFQSXVznHdl
 
-![📌下週財報季明顯清淡許多，讓大家可以喘口氣。最大看點仍是 AI，應用材料（#AMAT）可以觀察 HBM、先進封裝需求如何帶動半導體設備銷售，思科（#CSCO）則要看 AI 網路設備、資料中心交換器，以及 Splunk 併入後的資安與訂閱收入表現。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/690677761_1442182984618511_6051005594869023272_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0uNfqZvNaV0Q7kNvwGvIMws&_nc_oc=AdoHiH5xxSV-C5KsRtb0VYv48tlp6gkPPTQPGpqlFaaDGYQGGzbPGpk2MKey2WBM-qc&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=oyyKzhiJtTuK-Y8PspM1gg&_nc_ss=7e120&oh=00_Af_iybzS4H_RaMV37ufsohjFOPXku-0OZMFi9xcsa-SDXw&oe=6A2C361B)
+![📌下週財報季明顯清淡許多，讓大家可以喘口氣。最大看點仍是 AI，應用材料（#AMAT）可以觀察 HBM、先進封裝需求如何帶動半導體設備銷售，思科（#CSCO）則要看 AI 網路設備、資料中心交換器，以及 Splunk 併入後的資安與訂閱收入表現。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/690677761_1442182984618511_6051005594869023272_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0uNfqZvNaV0Q7kNvwHnLpNe&_nc_oc=Adpe-ACuQlUnxBzzcX6_YXNLQ_5G1BtewjVOaX6Lpzp8E1XjJ1lgcHHMSeuMGfiSZSk&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=SGV89otWxItlOAOOHy1fpA&_nc_ss=7e120&oh=00_Af-8iHl1Mw2xQMGGAyjNOgw_PENfBElY5Ev17QxD4cs6Gw&oe=6A2C361B)
 📌下週財報季明顯清淡許多，讓大家可以喘口氣。最大看點仍是 AI，應用材料（#AMAT）可以觀察 HBM、先進封裝需求如何帶動半導體設備銷售，思科（#CSCO）則要看 AI 網路設備、資料中心交換器，以及 Splunk 併入後的資安與訂閱收入表現。
 ​
 另外還可以留意 AI 雲端運算新創 Nebius（#NBIS），近期輝達剛宣布將投資 20 億，除了 GPU 供給、資料中心擴張、客戶需求外，從上週市場對 CoreWeave 財報的表現來看，獲利與現金流可能會特受到關注。

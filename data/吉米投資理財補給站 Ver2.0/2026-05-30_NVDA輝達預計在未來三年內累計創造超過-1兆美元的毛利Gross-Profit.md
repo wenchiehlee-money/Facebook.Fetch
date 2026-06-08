@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
 final_url: "https://www.facebook.com/profile.php?id=61565088683715"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0jX6BocMf1Eb9HQSN2BYHTofVvL3vf2FpiBzrNpXFSLCnNxGULSh1x6j6XdHfAza4l&id=61565088683715"
 creation_time_utc: "2026-05-30T13:43:51+00:00"
-fetched_at_utc: "2026-06-08T07:04:41.132596+00:00"
+fetched_at_utc: "2026-06-08T07:34:20.879581+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/710745437_122216711942502956_7982716663726962007_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gsCmxFT_mi8Q7kNvwGCjgb0&_nc_oc=AdoDMj5Mr0uQ5L2cWU2tbRHR2UHLUiBEKjrLnKrxkEQm-XcMwlCclDol0wUX5PRT7kM&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Y3SvmWqae1eyiJaTnKP2jA&_nc_ss=7e120&oh=00_Af_kfVo0fsF85Kgc08jaDfyiHjqDO3vKYqWixxMPfOWswA&oe=6A2C2414"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/710745437_122216711942502956_7982716663726962007_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gsCmxFT_mi8Q7kNvwEM3Kgq&_nc_oc=Adq3jmI4tZTDCSOaB0zmpOmq_zjR_fdTvLSxzC7bG6H4dNj-FcA7qRqiOuwe4ZF-koY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=V06Cn6bINY5_hDD0qfJAuQ&_nc_ss=7e120&oh=00_Af9lOneVA0MrhbUlAbNrC0hxvwRT0fwmLssJRDaT7E4w0A&oe=6A2C5C54"
 feedback_id: "ZmVlZGJhY2s6MTIyMjE2NzEyMDgwNTAyOTU2"
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0jX6BocMf1Eb9HQSN2BYHTofVvL3vf2FpiBzrNpXFSLCnNxGULSh1x6j6XdHfAza4l&id=61565088683715
 
-![$NVDA（輝達）預計在未來三年內累計創造超過 1兆美元的毛利（Gross Profit）：](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/710745437_122216711942502956_7982716663726962007_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gsCmxFT_mi8Q7kNvwGCjgb0&_nc_oc=AdoDMj5Mr0uQ5L2cWU2tbRHR2UHLUiBEKjrLnKrxkEQm-XcMwlCclDol0wUX5PRT7kM&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Y3SvmWqae1eyiJaTnKP2jA&_nc_ss=7e120&oh=00_Af_kfVo0fsF85Kgc08jaDfyiHjqDO3vKYqWixxMPfOWswA&oe=6A2C2414)
+![$NVDA（輝達）預計在未來三年內累計創造超過 1兆美元的毛利（Gross Profit）：](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/710745437_122216711942502956_7982716663726962007_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gsCmxFT_mi8Q7kNvwEM3Kgq&_nc_oc=Adq3jmI4tZTDCSOaB0zmpOmq_zjR_fdTvLSxzC7bG6H4dNj-FcA7qRqiOuwe4ZF-koY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=V06Cn6bINY5_hDD0qfJAuQ&_nc_ss=7e120&oh=00_Af9lOneVA0MrhbUlAbNrC0hxvwRT0fwmLssJRDaT7E4w0A&oe=6A2C5C54)
 $NVDA（輝達）預計在未來三年內累計創造超過 1兆美元的毛利（Gross Profit）：
 ▪ 2026年：2,580億美元（年增98%）
 ▪ 2027年：3,610億美元（年增40%）

@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
 post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid036tJ924SBnLSuzNQsEZ6svpmhyteTj9sgeBkZoiBfui4yk1B1v7UfG47TB4KuyvMgl"
 creation_time_utc: "2026-05-10T23:35:03+00:00"
-fetched_at_utc: "2026-06-08T06:59:31.062169+00:00"
+fetched_at_utc: "2026-06-08T07:24:30.891930+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/693658600_1399001905366539_4735088950576245420_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=k3BG2skCEMkQ7kNvwEKXVNs&_nc_oc=AdoAKizSIPRYk-v4KORS83sXEO0vi8OYbE-JOXeYug8_-NkYq5BLnqh0pSHPEI65U8g&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=1JYR1ft54x1eLvaOmFKWHw&_nc_ss=7e120&oh=00_Af_f_suMVkgGH6mltYu9AdfczTq_CKa3FSy16YaCylY3sQ&oe=6A2C23CD"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/693658600_1399001905366539_4735088950576245420_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=k3BG2skCEMkQ7kNvwGKsPmI&_nc_oc=AdoWT0Crdx9gGy374gI_ki7QlS59jCIESr5o-0bb-txiC2mu2zsbRHkSN4QZfw2gSRU&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_ky9vxAxGDzhpkEf5BF94g&_nc_ss=7e120&oh=00_Af-sqHqYE1lFyuXHOZfw4OvTV-dXVe2SmZvR09372CIU0g&oe=6A2C5C0D"
 feedback_id: "ZmVlZGJhY2s6MTM5OTI5MTg1NTMzNzU0NA=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid036tJ924SBnLSuzNQsEZ6svpmhyteTj9sgeBkZoiBfui4yk1B1v7UfG47TB4KuyvMgl
 
-!["A Wealth of Well-Being"的作者是Meir Statman，之前我看過同一作者寫的"為什麼你無法致富" (What Investors Really Want) 。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/693658600_1399001905366539_4735088950576245420_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=k3BG2skCEMkQ7kNvwEKXVNs&_nc_oc=AdoAKizSIPRYk-v4KORS83sXEO0vi8OYbE-JOXeYug8_-NkYq5BLnqh0pSHPEI65U8g&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=1JYR1ft54x1eLvaOmFKWHw&_nc_ss=7e120&oh=00_Af_f_suMVkgGH6mltYu9AdfczTq_CKa3FSy16YaCylY3sQ&oe=6A2C23CD)
+!["A Wealth of Well-Being"的作者是Meir Statman，之前我看過同一作者寫的"為什麼你無法致富" (What Investors Really Want) 。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/693658600_1399001905366539_4735088950576245420_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=k3BG2skCEMkQ7kNvwGKsPmI&_nc_oc=AdoWT0Crdx9gGy374gI_ki7QlS59jCIESr5o-0bb-txiC2mu2zsbRHkSN4QZfw2gSRU&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_ky9vxAxGDzhpkEf5BF94g&_nc_ss=7e120&oh=00_Af-sqHqYE1lFyuXHOZfw4OvTV-dXVe2SmZvR09372CIU0g&oe=6A2C5C0D)
 "A Wealth of Well-Being"的作者是Meir Statman，之前我看過同一作者寫的"為什麼你無法致富" (What Investors Really Want) 。
 
 "A Wealth of Well-Being"這本書討論各種Well-Being，中文可譯為”幸福”。也就是人生中關於物質、健康、婚姻等各面向的幸福，還有它們與金錢的關係。

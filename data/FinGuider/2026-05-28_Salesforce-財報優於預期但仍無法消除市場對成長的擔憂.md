@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
 post_url: "https://www.facebook.com/FinGuider/posts/pfbid02tYRaAoncADtpWUGzr7rHETauKYXqErGA5gr7AtDZMwEdpzff3k9zcuduE3kGbH9el"
 creation_time_utc: "2026-05-28T07:33:00+00:00"
-fetched_at_utc: "2026-06-08T06:59:00.549107+00:00"
+fetched_at_utc: "2026-06-08T07:24:00.578955+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/710745289_1458895679613908_2149190433427847747_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6WNo16mENFAQ7kNvwGD_Fdf&_nc_oc=Ado6Qyqy4MLIIcysDeSl4l1NnCZ6oCzLToiPV5ngE_x241t_0IyIXXwfnButTOTk4O0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=oQZwrLZbRz-kZVpKupXX3g&_nc_ss=7e120&oh=00_Af-HCbGMDpuSaQQJqxdljDM1AQCfSKRgMDBdc0LURB54ug&oe=6A2C3CA9"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/710745289_1458895679613908_2149190433427847747_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6WNo16mENFAQ7kNvwHkaTpE&_nc_oc=Adrqj8FghIBswyOCYF2L5OUdLpJ5sjsHeafYX5RawmeYFoqq3BFzyUuFN849Zr4WhNU&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=PCOrXNb8CaIz_Y7upTz5YQ&_nc_ss=7e120&oh=00_Af_x3g8-ZPzDVqfM6WQlCS4vzn-eZvFvG0ua6aji3u_qwQ&oe=6A2C3CA9"
 feedback_id: "ZmVlZGJhY2s6MTQ1ODkwNzY2NjI3OTM3Ng=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/FinGuider/posts/pfbid02tYRaAoncADtpWUGzr7rHETauKYXqErGA5gr7AtDZMwEdpzff3k9zcuduE3kGbH9el
 
-![【#Salesforce 財報優於預期，但仍無法消除市場對成長的擔憂】](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/710745289_1458895679613908_2149190433427847747_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6WNo16mENFAQ7kNvwGD_Fdf&_nc_oc=Ado6Qyqy4MLIIcysDeSl4l1NnCZ6oCzLToiPV5ngE_x241t_0IyIXXwfnButTOTk4O0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=oQZwrLZbRz-kZVpKupXX3g&_nc_ss=7e120&oh=00_Af-HCbGMDpuSaQQJqxdljDM1AQCfSKRgMDBdc0LURB54ug&oe=6A2C3CA9)
+![【#Salesforce 財報優於預期，但仍無法消除市場對成長的擔憂】](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/710745289_1458895679613908_2149190433427847747_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6WNo16mENFAQ7kNvwHkaTpE&_nc_oc=Adrqj8FghIBswyOCYF2L5OUdLpJ5sjsHeafYX5RawmeYFoqq3BFzyUuFN849Zr4WhNU&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=PCOrXNb8CaIz_Y7upTz5YQ&_nc_ss=7e120&oh=00_Af_x3g8-ZPzDVqfM6WQlCS4vzn-eZvFvG0ua6aji3u_qwQ&oe=6A2C3CA9)
 【#Salesforce 財報優於預期，但仍無法消除市場對成長的擔憂】
 Salesforce（#CRM）Q1 財報出爐，表現相當亮眼
 🟢營收：111.3 億美元、年增 13%（v.s. 110.5 億）

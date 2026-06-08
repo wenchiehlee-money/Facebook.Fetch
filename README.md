@@ -5,37 +5,37 @@
 <!-- AUTO-GENERATED:POSTS START -->
 ## 自動更新清單
 
-Updated: 2026-06-08 15:06 CST
+Updated: 2026-06-08 15:36 CST
 
-### [FinGuider](data/FinGuider/index.md) (已收錄: 75)
+### [FinGuider](data/FinGuider/index.md) (已收錄: 225)
 
 ### [FinGuider 美股資訊網](data/FinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2/index.md) (已收錄: 291) - 6.2 萬位追蹤者
 
 ### [Fomo研究院](data/Fomo%E7%A0%94%E7%A9%B6%E9%99%A2/index.md) (已收錄: 329) - 10.6 萬位追蹤者
 
-### [ForexStrategist](data/ForexStrategist/index.md) (已收錄: 15)
+### [ForexStrategist](data/ForexStrategist/index.md) (已收錄: 100)
 
-### [GreenHornFans](data/GreenHornFans/index.md) (已收錄: 42)
+### [GreenHornFans](data/GreenHornFans/index.md) (已收錄: 51)
 
 ### [IEObserve 國際經濟觀察](data/IEObserve%20%E5%9C%8B%E9%9A%9B%E7%B6%93%E6%BF%9F%E8%A7%80%E5%AF%9F/index.md) (已收錄: 55) - 31.2 萬位追蹤者
 
-### [MarketingDataScienceTMR](data/MarketingDataScienceTMR/index.md) (已收錄: 20)
+### [MarketingDataScienceTMR](data/MarketingDataScienceTMR/index.md) (已收錄: 104)
 
 ### [Richard只談基本面-Richards Research Blog](data/Richard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards%20Research%20Blog/index.md) (已收錄: 40) - 4.4 萬位追蹤者
 
-### [dextermchang](data/dextermchang/index.md) (已收錄: 29)
+### [dextermchang](data/dextermchang/index.md) (已收錄: 46)
 
-### [eric.lin77](data/eric.lin77/index.md) (已收錄: 14)
+### [eric.lin77](data/eric.lin77/index.md) (已收錄: 16)
 
-### [intleconobserve](data/intleconobserve/index.md) (已收錄: 89)
+### [intleconobserve](data/intleconobserve/index.md) (已收錄: 90)
 
-### [profile.php](data/profile.php/index.md) (已收錄: 108)
+### [profile.php](data/profile.php/index.md) (已收錄: 604)
 
 ### [raikk6](data/raikk6/index.md) (已收錄: 61)
 
 ### [stocksardine](data/stocksardine/index.md) (已收錄: 41)
 
-### [yutinghaosfinance](data/yutinghaosfinance/index.md) (已收錄: 129)
+### [yutinghaosfinance](data/yutinghaosfinance/index.md) (已收錄: 156)
 
 ### [吉米投資理財補給站 Ver2.0](data/%E5%90%89%E7%B1%B3%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E8%A3%9C%E7%B5%A6%E7%AB%99%20Ver2.0/index.md) (已收錄: 175)
 
@@ -60,6 +60,38 @@ Updated: 2026-06-08 15:06 CST
 ### [行銷資料科學](data/%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8/index.md) (已收錄: 97) - 2.0 萬位追蹤者
 
 <!-- AUTO-GENERATED:POSTS END -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

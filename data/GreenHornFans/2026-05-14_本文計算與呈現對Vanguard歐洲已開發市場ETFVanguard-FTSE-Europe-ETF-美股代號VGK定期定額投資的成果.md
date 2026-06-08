@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
 post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0gJEPpr1GZXwcXCsEzFyKBG4wpAdec8466PhBTFFFRe1NMZWyyxykUiNV3TAtnhvwl"
 creation_time_utc: "2026-05-14T23:32:05+00:00"
-fetched_at_utc: "2026-06-08T06:59:31.062169+00:00"
+fetched_at_utc: "2026-06-08T07:24:30.891930+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/701233772_1402184865048243_562595565509718825_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=r_b00f_ZBr0Q7kNvwGBYdQ4&_nc_oc=Adr4h9YN2dSaJ37aC1RHdmuYMmas_ewPqA5VI0iPUdzbYcucptHIe43zIWq4eYAbSkw&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=Ijq5ByNoyN2YrzDxl5k-1A&_nc_ss=7e120&oh=00_Af-9SOpHIXYq5d6YWI-EodOczCJ8XQ_X4kqWEhgtEr_q4A&oe=6A2C4B34"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/701233772_1402184865048243_562595565509718825_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=r_b00f_ZBr0Q7kNvwFYH4Rr&_nc_oc=AdqLtghCSdXKiSIWdD56XWlCt6Ny7M4IlQoXGM5tyX9-ZpOHAv4V-uwaApIBCQrAXa8&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=pKqggjraQSNJKlNVkZA2FQ&_nc_ss=7e120&oh=00_Af8-I1mDS5dWTHZosOUl_gGFl84IF1y6RRSGID0IUQ_-Yg&oe=6A2C4B34"
 feedback_id: "ZmVlZGJhY2s6MTQwMjUxODU4ODM0ODIwNA=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0gJEPpr1GZXwcXCsEzFyKBG4wpAdec8466PhBTFFFRe1NMZWyyxykUiNV3TAtnhvwl
 
-![本文計算與呈現對Vanguard歐洲已開發市場ETF，Vanguard FTSE Europe ETF (美股代號:VGK)，定期定額投資的成果。](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/701233772_1402184865048243_562595565509718825_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=r_b00f_ZBr0Q7kNvwGBYdQ4&_nc_oc=Adr4h9YN2dSaJ37aC1RHdmuYMmas_ewPqA5VI0iPUdzbYcucptHIe43zIWq4eYAbSkw&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=Ijq5ByNoyN2YrzDxl5k-1A&_nc_ss=7e120&oh=00_Af-9SOpHIXYq5d6YWI-EodOczCJ8XQ_X4kqWEhgtEr_q4A&oe=6A2C4B34)
+![本文計算與呈現對Vanguard歐洲已開發市場ETF，Vanguard FTSE Europe ETF (美股代號:VGK)，定期定額投資的成果。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/701233772_1402184865048243_562595565509718825_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=r_b00f_ZBr0Q7kNvwFYH4Rr&_nc_oc=AdqLtghCSdXKiSIWdD56XWlCt6Ny7M4IlQoXGM5tyX9-ZpOHAv4V-uwaApIBCQrAXa8&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=pKqggjraQSNJKlNVkZA2FQ&_nc_ss=7e120&oh=00_Af8-I1mDS5dWTHZosOUl_gGFl84IF1y6RRSGID0IUQ_-Yg&oe=6A2C4B34)
 本文計算與呈現對Vanguard歐洲已開發市場ETF，Vanguard FTSE Europe ETF (美股代號:VGK)，定期定額投資的成果。
 
 投入方式是從2007年1月到2025年12月底為止，共19年，分別在每年的一、四、七、十月，每季定期投入。

@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
 post_url: "https://www.facebook.com/FinGuider/posts/pfbid02hdswXiisCcA6nSnLWz768JqWBG5qoA4TLTncrPBvQPP3fC8ETvbjRQUQ9JhJ9ofDl"
 creation_time_utc: "2026-06-04T09:36:00+00:00"
-fetched_at_utc: "2026-06-08T06:59:00.549107+00:00"
+fetched_at_utc: "2026-06-08T07:24:00.578955+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/713991799_1465561148947361_3831004380951494862_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SfgT8F7hC-oQ7kNvwGnjZU1&_nc_oc=AdqCuqBYYhx9AgTumg7Wlvgw8x_p3KKMFYxRV6QGxWidzxORkOK3DCvA5CNjiMNdOCU&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=q9ZnYhYeqkk1wtduW90dJw&_nc_ss=7e120&oh=00_Af99n5QYLMbQSbBfbFnKiA4S9VgeIjuSYpwsP49sT9TXMw&oe=6A2C422C"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/713991799_1465561148947361_3831004380951494862_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SfgT8F7hC-oQ7kNvwGq6h0A&_nc_oc=Adrh9_zsr507vXhAocCSWVfgCYHyNXiOWJnv-eyHZAq172MnBX_sWMuH2XhMe6zzvgM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Be7XihVWGLhuknH7db7Htw&_nc_ss=7e120&oh=00_Af-24Q3b-9DhYURgydPT1tDUo9_N0fysjijyxKWexg3cNg&oe=6A2C422C"
 feedback_id: "ZmVlZGJhY2s6MTQ2NTU2MTY2NTYxMzk3Ng=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/FinGuider/posts/pfbid02hdswXiisCcA6nSnLWz768JqWBG5qoA4TLTncrPBvQPP3fC8ETvbjRQUQ9JhJ9ofDl
 
-![SpaceX IPO 前的暖身，今晚量子運算概念股 #Quantinuum（#QNT）即將登場！](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/713991799_1465561148947361_3831004380951494862_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SfgT8F7hC-oQ7kNvwGnjZU1&_nc_oc=AdqCuqBYYhx9AgTumg7Wlvgw8x_p3KKMFYxRV6QGxWidzxORkOK3DCvA5CNjiMNdOCU&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=q9ZnYhYeqkk1wtduW90dJw&_nc_ss=7e120&oh=00_Af99n5QYLMbQSbBfbFnKiA4S9VgeIjuSYpwsP49sT9TXMw&oe=6A2C422C)
+![SpaceX IPO 前的暖身，今晚量子運算概念股 #Quantinuum（#QNT）即將登場！](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/713991799_1465561148947361_3831004380951494862_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SfgT8F7hC-oQ7kNvwGq6h0A&_nc_oc=Adrh9_zsr507vXhAocCSWVfgCYHyNXiOWJnv-eyHZAq172MnBX_sWMuH2XhMe6zzvgM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Be7XihVWGLhuknH7db7Htw&_nc_ss=7e120&oh=00_Af-24Q3b-9DhYURgydPT1tDUo9_N0fysjijyxKWexg3cNg&oe=6A2C422C)
 SpaceX IPO 前的暖身，今晚量子運算概念股 #Quantinuum（#QNT）即將登場！
 ​
 📌FinGuider 先前有簡單介紹 QNT 曾是 Honeywell 旗下量子部門，也是目前量子運算領域的重要玩家之一，更是第一家將輝達 CUDA-Q 平台與自有硬體整合的公司。

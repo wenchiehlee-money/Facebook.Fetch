@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0Qcwz2fipoFnT9A4bzgMLwDKL7JHnPkZybRMZ5HQ5TvtWxkUWN2QHTZGqCTkrqvZjl&id=61573146584049"
 creation_time_utc: "2026-06-02T06:08:49+00:00"
-fetched_at_utc: "2026-06-08T07:01:42.458119+00:00"
+fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/711474744_122184827396771552_2981328401521092548_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Bzd_bgKU7c0Q7kNvwHGSr0u&_nc_oc=AdoiM7_z6dw87RD_tpj32dT2jErEyEmCjoEmSW0mzz8wD9DSf4v24AsXfHEjLuDJxcc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=dcz9KoEuNDOR_hsBoyZlRw&_nc_ss=7e120&oh=00_Af_XfCs6L0hOcrST9ldDwM8vCB-o1hjXieOvcMJM3ITy_w&oe=6A2C3E5E"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/711474744_122184827396771552_2981328401521092548_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Bzd_bgKU7c0Q7kNvwE1UQ1D&_nc_oc=AdoHbRUHaZglROYVz3-lJW3o74Mu7iSdU9kfb3rMKhFRn3g767N6F4b8Sw_aPgJEXkk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qKms2Q-toaylZVcqX66irg&_nc_ss=7e120&oh=00_Af8sMCIJgYUP-Fvn8xGiUrAyrZJDeh3CEOEGvHf7esf7JQ&oe=6A2C3E5E"
 feedback_id: "ZmVlZGJhY2s6MTIyMTg0ODI3NDQ0NzcxNTUy"
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0Qcwz2fipoFnT9A4bzgMLwDKL7JHnPkZybRMZ5HQ5TvtWxkUWN2QHTZGqCTkrqvZjl&id=61573146584049
 
-![「這就是下一家市值兆元（Trillion-dollar）的公司。」](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/711474744_122184827396771552_2981328401521092548_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Bzd_bgKU7c0Q7kNvwHGSr0u&_nc_oc=AdoiM7_z6dw87RD_tpj32dT2jErEyEmCjoEmSW0mzz8wD9DSf4v24AsXfHEjLuDJxcc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=dcz9KoEuNDOR_hsBoyZlRw&_nc_ss=7e120&oh=00_Af_XfCs6L0hOcrST9ldDwM8vCB-o1hjXieOvcMJM3ITy_w&oe=6A2C3E5E)
+![「這就是下一家市值兆元（Trillion-dollar）的公司。」](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/711474744_122184827396771552_2981328401521092548_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Bzd_bgKU7c0Q7kNvwE1UQ1D&_nc_oc=AdoHbRUHaZglROYVz3-lJW3o74Mu7iSdU9kfb3rMKhFRn3g767N6F4b8Sw_aPgJEXkk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qKms2Q-toaylZVcqX66irg&_nc_ss=7e120&oh=00_Af8sMCIJgYUP-Fvn8xGiUrAyrZJDeh3CEOEGvHf7esf7JQ&oe=6A2C3E5E)
 「這就是下一家市值兆元（Trillion-dollar）的公司。」
 ​
 在 Marvell CEO Matt Murphy 發表主題為「AI 的未來取決於互連（The Future of AI Depends on Connectivity）」的演講時，黃仁勳毫無預警地驚喜現身。他站在 Murphy 身旁，說出了這番言論。

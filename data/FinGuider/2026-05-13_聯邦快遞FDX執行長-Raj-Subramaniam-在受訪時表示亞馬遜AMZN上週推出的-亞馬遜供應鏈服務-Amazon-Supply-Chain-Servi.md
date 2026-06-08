@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
 post_url: "https://www.facebook.com/FinGuider/posts/pfbid0rtkrsFu6VxnPvo1a9G4xEVCRiBpHTmDTvnn7kZKXWTKHvr3VQauy5oHcdmcpAGPrl"
 creation_time_utc: "2026-05-13T08:31:42+00:00"
-fetched_at_utc: "2026-06-08T06:59:00.549107+00:00"
+fetched_at_utc: "2026-06-08T07:24:00.578955+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/698939356_1445639654272844_1303198586962605933_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gTzWoOGQMBAQ7kNvwHxn6xv&_nc_oc=AdozuFeAiWYIDYc66rab-n5WLD5Dbkz0tkXJcmr6LnTT43_0z8l08pZIIrsyS3tksO0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=uXNqa7pRRk4uinDrIxw6zg&_nc_ss=7e120&oh=00_Af_Bhr9lNdPH_rB4oX0nKT9hNr8lmpOoe5ikjwy64MPBZQ&oe=6A2C4AF5"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/698939356_1445639654272844_1303198586962605933_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gTzWoOGQMBAQ7kNvwGto2TR&_nc_oc=Adp6kdglYF2MJGYfBEtxwxhERkitXDmM3i1y46HK6vAyNjcyhhgTGmpSe320m-nwC9s&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=nTNM3RS8FQHnYqh0WtfCTw&_nc_ss=7e120&oh=00_Af8VkfvpUb3OntGn8NvqtlK00w0DXp0c0czyQqLtShqUkA&oe=6A2C4AF5"
 feedback_id: "ZmVlZGJhY2s6MTQ0NTYzOTg0NDI3MjgyNQ=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/FinGuider/posts/pfbid0rtkrsFu6VxnPvo1a9G4xEVCRiBpHTmDTvnn7kZKXWTKHvr3VQauy5oHcdmcpAGPrl
 
-![聯邦快遞（#FDX）執行長 Raj Subramaniam 在受訪時表示，亞馬遜（AMZN）上週推出的 #亞馬遜供應鏈服務 （Amazon Supply Chain Services）與 FedEx 的核心業務本質完全不同。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/698939356_1445639654272844_1303198586962605933_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gTzWoOGQMBAQ7kNvwHxn6xv&_nc_oc=AdozuFeAiWYIDYc66rab-n5WLD5Dbkz0tkXJcmr6LnTT43_0z8l08pZIIrsyS3tksO0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=uXNqa7pRRk4uinDrIxw6zg&_nc_ss=7e120&oh=00_Af_Bhr9lNdPH_rB4oX0nKT9hNr8lmpOoe5ikjwy64MPBZQ&oe=6A2C4AF5)
+![聯邦快遞（#FDX）執行長 Raj Subramaniam 在受訪時表示，亞馬遜（AMZN）上週推出的 #亞馬遜供應鏈服務 （Amazon Supply Chain Services）與 FedEx 的核心業務本質完全不同。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/698939356_1445639654272844_1303198586962605933_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gTzWoOGQMBAQ7kNvwGto2TR&_nc_oc=Adp6kdglYF2MJGYfBEtxwxhERkitXDmM3i1y46HK6vAyNjcyhhgTGmpSe320m-nwC9s&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=nTNM3RS8FQHnYqh0WtfCTw&_nc_ss=7e120&oh=00_Af8VkfvpUb3OntGn8NvqtlK00w0DXp0c0czyQqLtShqUkA&oe=6A2C4AF5)
 聯邦快遞（#FDX）執行長 Raj Subramaniam 在受訪時表示，亞馬遜（AMZN）上週推出的 #亞馬遜供應鏈服務 （Amazon Supply Chain Services）與 FedEx 的核心業務本質完全不同。
 ​
 亞馬遜於 5/4 宣布推出亞馬遜供應鏈服務（ASCS），將內部物流基礎建設全面開放給外部企業，企圖打造「物流版 AWS」，消息公布後 FedEx 暴跌 -9%，但現在已收復約一半的跌幅。

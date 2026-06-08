@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
 post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02FiiCcCYu86PaTZ9rRednyp3pH8pLjZehrsZKnVTXsR2L5QeD24mpHSphL61fmnZUl"
 creation_time_utc: "2026-05-28T23:31:04+00:00"
-fetched_at_utc: "2026-06-08T06:59:31.062169+00:00"
+fetched_at_utc: "2026-06-08T07:24:30.891930+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/708333769_1413632327236830_6995123866030713262_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=aehltoTCV7MQ7kNvwFKcJ5b&_nc_oc=Ado8id5mZsphr5A7Ph5msKKRIqBI9IPIEX0p7o6t67oq32qmlosl1AQJ9nNuRWgCxEw&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=tI96qu5wQu6CpGkwz6FP0w&_nc_ss=7e120&oh=00_Af-2uuBCKLCZSUFmHq2o2qrql0dy3hFHKMuBAjC0sRdQEw&oe=6A2C4698"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/708333769_1413632327236830_6995123866030713262_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=aehltoTCV7MQ7kNvwGw3MDg&_nc_oc=AdoksZwv44f-2d3buAE9-JD3qwrYLM4JZ7Bbsq31nPlj8oKtdBc1dlbR1jJhhUCYM-U&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=9oYhLJ70T8mEoZPEYbvCQg&_nc_ss=7e120&oh=00_Af92Vv8atqAOmv-zkYgoF1W6sdjvwYahvZNWmEhusmjNlg&oe=6A2C4698"
 feedback_id: "ZmVlZGJhY2s6MTQxMzk1NzU5NzIwNDMwMw=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02FiiCcCYu86PaTZ9rRednyp3pH8pLjZehrsZKnVTXsR2L5QeD24mpHSphL61fmnZUl
 
-![本文計算與呈現對全球新興市場股市ETF，Vanguard FTSE Emerging Markets ETF (美股代號:VWO)定期定額投資的成果。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/708333769_1413632327236830_6995123866030713262_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=aehltoTCV7MQ7kNvwFKcJ5b&_nc_oc=Ado8id5mZsphr5A7Ph5msKKRIqBI9IPIEX0p7o6t67oq32qmlosl1AQJ9nNuRWgCxEw&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=tI96qu5wQu6CpGkwz6FP0w&_nc_ss=7e120&oh=00_Af-2uuBCKLCZSUFmHq2o2qrql0dy3hFHKMuBAjC0sRdQEw&oe=6A2C4698)
+![本文計算與呈現對全球新興市場股市ETF，Vanguard FTSE Emerging Markets ETF (美股代號:VWO)定期定額投資的成果。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/708333769_1413632327236830_6995123866030713262_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=aehltoTCV7MQ7kNvwGw3MDg&_nc_oc=AdoksZwv44f-2d3buAE9-JD3qwrYLM4JZ7Bbsq31nPlj8oKtdBc1dlbR1jJhhUCYM-U&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=9oYhLJ70T8mEoZPEYbvCQg&_nc_ss=7e120&oh=00_Af92Vv8atqAOmv-zkYgoF1W6sdjvwYahvZNWmEhusmjNlg&oe=6A2C4698)
 本文計算與呈現對全球新興市場股市ETF，Vanguard FTSE Emerging Markets ETF (美股代號:VWO)定期定額投資的成果。
 
 投入方式是從2007年1月到2025年12月為止，共19年，分別在每年的一、四、七、十月，每季定期投入。

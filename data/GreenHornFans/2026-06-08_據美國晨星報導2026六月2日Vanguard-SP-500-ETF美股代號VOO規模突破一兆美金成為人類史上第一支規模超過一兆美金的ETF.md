@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
 post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02EGHshY97VUWUVdnTtZa3DBrYjorp9T5Kmgdunti39nCThAM5VboLe3SMh5nbFnowl"
 creation_time_utc: "2026-06-08T00:14:29+00:00"
-fetched_at_utc: "2026-06-08T06:59:31.062169+00:00"
+fetched_at_utc: "2026-06-08T07:24:30.891930+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/718777250_1422414376358625_612417914144381287_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mzzkCyGZZtQQ7kNvwHLjPXP&_nc_oc=AdpxH_bXxGZ-6LNc0F6Djxw2kmRyLOSoDRspNkcu1RROJd1hu7mRsKGM9Ke8vQkbVBE&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=ca_LpOJXyO3utIk5IhTlCA&_nc_ss=7e120&oh=00_Af9o22oDsc8bQ5h7sJbcivx0g6eypqGNWq5z_OtIQSlysg&oe=6A2C49A4"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/718777250_1422414376358625_612417914144381287_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mzzkCyGZZtQQ7kNvwElq-nf&_nc_oc=Adr2f_LmSw-ga6PGUL5Z5BTJmRvVcilSt_uam4eZKp7YrUsgO7IVNjp6DFgCAyPgzuA&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=rH3GVl_JPzY89kl61PQI9g&_nc_ss=7e120&oh=00_Af8sbAEZiXzR87TgVC1475WHA85PBUxrLg5KB41mTR5NXQ&oe=6A2C49A4"
 feedback_id: "ZmVlZGJhY2s6MTQyMjc2NTk5OTY1Njc5Ng=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02EGHshY97VUWUVdnTtZa3DBrYjorp9T5Kmgdunti39nCThAM5VboLe3SMh5nbFnowl
 
-![據美國晨星報導，2026六月2日，Vanguard S&P 500 ETF(美股代號:VOO)，規模突破一兆美金。成為人類史上，第一支規模超過一兆美金的ETF。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/718777250_1422414376358625_612417914144381287_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mzzkCyGZZtQQ7kNvwHLjPXP&_nc_oc=AdpxH_bXxGZ-6LNc0F6Djxw2kmRyLOSoDRspNkcu1RROJd1hu7mRsKGM9Ke8vQkbVBE&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=ca_LpOJXyO3utIk5IhTlCA&_nc_ss=7e120&oh=00_Af9o22oDsc8bQ5h7sJbcivx0g6eypqGNWq5z_OtIQSlysg&oe=6A2C49A4)
+![據美國晨星報導，2026六月2日，Vanguard S&P 500 ETF(美股代號:VOO)，規模突破一兆美金。成為人類史上，第一支規模超過一兆美金的ETF。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/718777250_1422414376358625_612417914144381287_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mzzkCyGZZtQQ7kNvwElq-nf&_nc_oc=Adr2f_LmSw-ga6PGUL5Z5BTJmRvVcilSt_uam4eZKp7YrUsgO7IVNjp6DFgCAyPgzuA&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=rH3GVl_JPzY89kl61PQI9g&_nc_ss=7e120&oh=00_Af8sbAEZiXzR87TgVC1475WHA85PBUxrLg5KB41mTR5NXQ&oe=6A2C49A4)
 據美國晨星報導，2026六月2日，Vanguard S&P 500 ETF(美股代號:VOO)，規模突破一兆美金。成為人類史上，第一支規模超過一兆美金的ETF。
 
 2020年時，Vanguard Total Stock Market Index Fund 則成為第一支規模達一兆美金的共同基金。

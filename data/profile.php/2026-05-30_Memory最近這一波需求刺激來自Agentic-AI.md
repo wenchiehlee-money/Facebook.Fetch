@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02CEzxZsZARZE18zZorQmAPTRwLt8zHzGKFBzmCB5heXxmaxUZEh3EdGD2vRvhFTwul&id=100054201473657"
 creation_time_utc: "2026-05-30T15:43:48+00:00"
-fetched_at_utc: "2026-06-08T07:02:48.938731+00:00"
+fetched_at_utc: "2026-06-08T07:33:36.899093+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/710497402_1518905133259521_562881402185327732_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vwknFabjzksQ7kNvwH4SQmn&_nc_oc=AdoWmbknMTmGF4oi0sbo4UAoIcICHx1oDUd-Uhy6ofhnc4iBiu6NeAbcsdTZPIaj7RQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=GUOIqcqO0kmASOFDSciCsA&_nc_ss=7e120&oh=00_Af-8jN_MZ_8omWSiR-CV93n6l9VbenhdGRatQrbFrR-6OA&oe=6A2C29F0"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/710497402_1518905133259521_562881402185327732_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vwknFabjzksQ7kNvwFQzBkA&_nc_oc=Adosmhznlz6Hlo2Vx6pr3oiqkRsx9D8naQuoTZsxBus6P83E75CFQh4ZgE0LIvDj6rw&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=cSprFNnVGYWGBFeIqjkr3w&_nc_ss=7e120&oh=00_Af-Ja7GF1RNC_uqX5tMxcOTa6H_AI-n55H6sJm_LJfVxiA&oe=6A2C29F0"
 feedback_id: "ZmVlZGJhY2s6MTUxODkwNTIyOTkyNjE3OA=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02CEzxZsZARZE18zZorQmAPTRwLt8zHzGKFBzmCB5heXxmaxUZEh3EdGD2vRvhFTwul&id=100054201473657
 
-![Memory最近這一波需求刺激，來自Agentic AI](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/710497402_1518905133259521_562881402185327732_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vwknFabjzksQ7kNvwH4SQmn&_nc_oc=AdoWmbknMTmGF4oi0sbo4UAoIcICHx1oDUd-Uhy6ofhnc4iBiu6NeAbcsdTZPIaj7RQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=GUOIqcqO0kmASOFDSciCsA&_nc_ss=7e120&oh=00_Af-8jN_MZ_8omWSiR-CV93n6l9VbenhdGRatQrbFrR-6OA&oe=6A2C29F0)
+![Memory最近這一波需求刺激，來自Agentic AI](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/710497402_1518905133259521_562881402185327732_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vwknFabjzksQ7kNvwFQzBkA&_nc_oc=Adosmhznlz6Hlo2Vx6pr3oiqkRsx9D8naQuoTZsxBus6P83E75CFQh4ZgE0LIvDj6rw&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=cSprFNnVGYWGBFeIqjkr3w&_nc_ss=7e120&oh=00_Af-Ja7GF1RNC_uqX5tMxcOTa6H_AI-n55H6sJm_LJfVxiA&oe=6A2C29F0)
 Memory最近這一波需求刺激，來自Agentic AI
 (1)Inference次數自動循環
 (2)Agentic AI需要更多CPU而CPU和DRAM綁一起

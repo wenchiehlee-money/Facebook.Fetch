@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
 post_url: "https://www.facebook.com/FinGuider/posts/pfbid0eC8oHVrLV92HDp7JmXRauQRsXmAhtjgovHedUqnFsBsUXwX1F3YMDGrPWwhJtPqvl"
 creation_time_utc: "2026-06-02T01:12:03+00:00"
-fetched_at_utc: "2026-06-08T06:59:00.549107+00:00"
+fetched_at_utc: "2026-06-08T07:24:00.578955+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/710755867_1463316619171814_4618521724338857194_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8KMEQba2-ngQ7kNvwHJMw-w&_nc_oc=AdovQMNHYYRn6kx7FM4e9ZXFuI2MVUYkRKGBoHSTqSerOJtqxP49EEDGqa3dPeRHkr0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=mfHXMKPEhGdLlcjxov4IIg&_nc_ss=7e120&oh=00_Af_M2mJl4SsYjKG6bllC9HI_EHEjKPQWZcgEAy9Do_Tm-w&oe=6A2C4F77"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/710755867_1463316619171814_4618521724338857194_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8KMEQba2-ngQ7kNvwEgvhPN&_nc_oc=Adp2VMIB7jqeoNWQS70De6Oa6BZ4vfr8FCRXcHvxRwPzQloxAK3Hf6Ec2yw0QqtmnnQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YdazVSvKuHev1VUpNkpqQg&_nc_ss=7e120&oh=00_Af8a8Enm3NnCDmoBAA5fkXNhhc22GCmFpo72_feEmuy3yg&oe=6A2C4F77"
 feedback_id: "ZmVlZGJhY2s6MTQ2MzMxNjcxMjUwNTEzOA=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/FinGuider/posts/pfbid0eC8oHVrLV92HDp7JmXRauQRsXmAhtjgovHedUqnFsBsUXwX1F3YMDGrPWwhJtPqvl
 
-![Google（#GOOGL）計畫透過增發股票籌集 800 億美元，以推動 AI 基礎建設擴張。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/710755867_1463316619171814_4618521724338857194_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8KMEQba2-ngQ7kNvwHJMw-w&_nc_oc=AdovQMNHYYRn6kx7FM4e9ZXFuI2MVUYkRKGBoHSTqSerOJtqxP49EEDGqa3dPeRHkr0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=mfHXMKPEhGdLlcjxov4IIg&_nc_ss=7e120&oh=00_Af_M2mJl4SsYjKG6bllC9HI_EHEjKPQWZcgEAy9Do_Tm-w&oe=6A2C4F77)
+![Google（#GOOGL）計畫透過增發股票籌集 800 億美元，以推動 AI 基礎建設擴張。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/710755867_1463316619171814_4618521724338857194_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8KMEQba2-ngQ7kNvwEgvhPN&_nc_oc=Adp2VMIB7jqeoNWQS70De6Oa6BZ4vfr8FCRXcHvxRwPzQloxAK3Hf6Ec2yw0QqtmnnQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YdazVSvKuHev1VUpNkpqQg&_nc_ss=7e120&oh=00_Af8a8Enm3NnCDmoBAA5fkXNhhc22GCmFpo72_feEmuy3yg&oe=6A2C4F77)
 Google（#GOOGL）計畫透過增發股票籌集 800 億美元，以推動 AI 基礎建設擴張。
 ​
 本次計畫中有 300 億將透過投資銀行負責承銷，其中包含 150 億的強制可轉換優先股，另外 Google 與 #波克夏（BRK.B）達成了 100 億的私募協議，並將於 Q3 透過公開發行（ATM offering），分階段籌集剩餘的 400 億。

@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
 post_url: "https://www.facebook.com/FinGuider/posts/pfbid02CSMjpBgppJRVo9XXQ98wwPZBvc2MyJkDmWc91tTuJPUjtCPyhsAEB8HWWqdTwibQl"
 creation_time_utc: "2026-06-03T14:17:42+00:00"
-fetched_at_utc: "2026-06-08T06:59:00.549107+00:00"
+fetched_at_utc: "2026-06-08T07:24:00.578955+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/710782170_1464816695688473_3752133429619583637_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Y2bKb0c7PogQ7kNvwEuEvt8&_nc_oc=AdrYGMF7Kvgdzn-GYV3bRrNsa7Ik0RJQE_5dhu5rzcoF4xyhDo2KQ15fBe_e-9pp5wU&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=A7Y3g5Zay6PGC2djM_ZVLQ&_nc_ss=7e120&oh=00_Af-IvGgrmsgWkZZTZ7KlAdD9qi5hgPR9qgt0iRZHWIY_1A&oe=6A2C3C7F"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/710782170_1464816695688473_3752133429619583637_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Y2bKb0c7PogQ7kNvwGjoach&_nc_oc=AdoR6piwLvgqwzFLpIXX2kBv3v7RE9cyWAIvLb0Kr3tGZcsUYl8az-EEqkAGmBNgtrc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=IluOVWNTqdXowRLSpHwYwQ&_nc_ss=7e120&oh=00_Af9mHBnH_ZW88lmbbJXq8jKw364BvbId-0-8aoAvZrIM7A&oe=6A2C3C7F"
 feedback_id: "ZmVlZGJhY2s6MTQ2NDgxNjc0OTAyMTgwMQ=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/FinGuider/posts/pfbid02CSMjpBgppJRVo9XXQ98wwPZBvc2MyJkDmWc91tTuJPUjtCPyhsAEB8HWWqdTwibQl
 
-![黃仁勳加持再一例，Navitas（NVTS）攜手 NVIDIA 推進 800 V AI 電力架構，開盤暴漲 +24% 🚀](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/710782170_1464816695688473_3752133429619583637_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Y2bKb0c7PogQ7kNvwEuEvt8&_nc_oc=AdrYGMF7Kvgdzn-GYV3bRrNsa7Ik0RJQE_5dhu5rzcoF4xyhDo2KQ15fBe_e-9pp5wU&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=A7Y3g5Zay6PGC2djM_ZVLQ&_nc_ss=7e120&oh=00_Af-IvGgrmsgWkZZTZ7KlAdD9qi5hgPR9qgt0iRZHWIY_1A&oe=6A2C3C7F)
+![黃仁勳加持再一例，Navitas（NVTS）攜手 NVIDIA 推進 800 V AI 電力架構，開盤暴漲 +24% 🚀](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/710782170_1464816695688473_3752133429619583637_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Y2bKb0c7PogQ7kNvwGjoach&_nc_oc=AdoR6piwLvgqwzFLpIXX2kBv3v7RE9cyWAIvLb0Kr3tGZcsUYl8az-EEqkAGmBNgtrc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=IluOVWNTqdXowRLSpHwYwQ&_nc_ss=7e120&oh=00_Af9mHBnH_ZW88lmbbJXq8jKw364BvbId-0-8aoAvZrIM7A&oe=6A2C3C7F)
 黃仁勳加持再一例，Navitas（NVTS）攜手 NVIDIA 推進 800 V AI 電力架構，開盤暴漲 +24% 🚀
 
 功率半導體公司 Navitas 今天宣布，正與 NVIDIA MGX 生態系合作推進新一代 800 VDC AI 基礎設施，並在 COMPUTEX 2026 展出最新的 800 V-to-6 V DC-DC Power Delivery Board（PDB）。

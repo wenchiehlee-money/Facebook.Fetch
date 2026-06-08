@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid034fRoJur8JiFRGEAHbsPMRPcbk5FcNUBAqn7X1uDgvzsMhBLfhJhsq3bB6xD6Xnfsl&id=100054201473657"
 creation_time_utc: "2026-05-27T15:12:28+00:00"
-fetched_at_utc: "2026-06-08T07:02:48.938731+00:00"
+fetched_at_utc: "2026-06-08T07:33:36.899093+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/707562881_1516294876853880_5893747560661279159_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2GqOE9QNvRYQ7kNvwG1Cdsx&_nc_oc=AdphA5lukz6wzG0wweWZ9yy0c_Y_J3RwjYMLN8KdnJ_eGLcSKWMvT9Xz9rc71yyJxZI&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=SizVVAoGU9nnH99r-a2uyQ&_nc_ss=7e120&oh=00_Af9EeovKAwA1_40Yxs5nZ6zYvnVWIK1j1Wj5QYApeswucg&oe=6A2C34A0"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/707562881_1516294876853880_5893747560661279159_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2GqOE9QNvRYQ7kNvwFS1RNg&_nc_oc=AdpdDRve4286pO6d3X5KwoGSzjYItHXgQ0AjsTmmH8MsIfbbCtp5-ow0424CuLLMCIo&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=hB5kFIRlgwsEAgCj6BqNYg&_nc_ss=7e120&oh=00_Af-LKWu09y80pILK5MsT5OdfB4fPJMpQdGx3y3ZDmlE-dg&oe=6A2C34A0"
 feedback_id: "ZmVlZGJhY2s6MTUxNjI5NTA3MDE4NzE5NA=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid034fRoJur8JiFRGEAHbsPMRPcbk5FcNUBAqn7X1uDgvzsMhBLfhJhsq3bB6xD6Xnfsl&id=100054201473657
 
-![2H26會有許多廠商推出Nvidia CMX平台Flash SSD Rack for G3.5 KV cache level，用SSD降低inference cost，用越多SSD，則Inference同時服務人數越多/GPU重算負載越少，則TCO越低(或者服務品質越好)](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/707562881_1516294876853880_5893747560661279159_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2GqOE9QNvRYQ7kNvwG1Cdsx&_nc_oc=AdphA5lukz6wzG0wweWZ9yy0c_Y_J3RwjYMLN8KdnJ_eGLcSKWMvT9Xz9rc71yyJxZI&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=SizVVAoGU9nnH99r-a2uyQ&_nc_ss=7e120&oh=00_Af9EeovKAwA1_40Yxs5nZ6zYvnVWIK1j1Wj5QYApeswucg&oe=6A2C34A0)
+![2H26會有許多廠商推出Nvidia CMX平台Flash SSD Rack for G3.5 KV cache level，用SSD降低inference cost，用越多SSD，則Inference同時服務人數越多/GPU重算負載越少，則TCO越低(或者服務品質越好)](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/707562881_1516294876853880_5893747560661279159_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2GqOE9QNvRYQ7kNvwFS1RNg&_nc_oc=AdpdDRve4286pO6d3X5KwoGSzjYItHXgQ0AjsTmmH8MsIfbbCtp5-ow0424CuLLMCIo&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=hB5kFIRlgwsEAgCj6BqNYg&_nc_ss=7e120&oh=00_Af-LKWu09y80pILK5MsT5OdfB4fPJMpQdGx3y3ZDmlE-dg&oe=6A2C34A0)
 2H26會有許多廠商推出Nvidia CMX平台Flash SSD Rack for G3.5 KV cache level，用SSD降低inference cost，用越多SSD，則Inference同時服務人數越多/GPU重算負載越少，則TCO越低(或者服務品質越好)
 
 ----------"這些狀態資料會以鍵值（KV）對的形式儲存在快取中。隨著 KV 快取逐漸滿，它會從快速的 HBM 和 DRAM 記憶體溢出到較慢的儲存媒介，這會增加使用者或代理人員所經歷的等待時間。在某些情況下，直接在 GPU 上重新執行預填充工作來重新計算狀態，比等待從較慢的儲存空間拉取 KV 狀態資訊更快。但繳納那種「重新計算稅」顯然不是理想的長期解決方案。

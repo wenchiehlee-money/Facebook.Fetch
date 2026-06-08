@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/yutinghaosfinance"
 final_url: "https://www.facebook.com/yutinghaosfinance"
 post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid0aXB7P4UiKjJLtoaMKFb8CEcH8CXvnE3WXrxyPriatieX6aBZCPutoganje5qPMDXl"
 creation_time_utc: "2026-06-02T08:42:50+00:00"
-fetched_at_utc: "2026-06-08T06:57:55.621853+00:00"
+fetched_at_utc: "2026-06-08T07:21:25.952162+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/710827329_1046818541242832_3002791607229795651_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3RefgMF0p78Q7kNvwE4Ockc&_nc_oc=AdqXBDQAnLuIFnHx8TZ37Mx6bvd-1q8_8fW2GVwL7tCfdH3vLl6o3ptvn-xqERbRdQE&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Mmjlj7aO7NHVQ4nvfpxt6A&_nc_ss=7e120&oh=00_Af9gvM3aEy3FKcJbn8IJlZ5ObuM8FTXwIsfpADgFVihtOA&oe=6A2C1E62"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/710827329_1046818541242832_3002791607229795651_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3RefgMF0p78Q7kNvwHiRnQR&_nc_oc=AdpapyQ1937kwsmj_ZF8w4TUiYkVQJWoXIsvxTJn3KD-iQxlxKYLHRsHSzZbKXPpqqo&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=HUVUkHsMctvtnHXwXUAaIg&_nc_ss=7e120&oh=00_Af-tdv2YMLcgmYWAm346o0uFEBH4jrqih-jCFN7VBqzs-w&oe=6A2C56A2"
 feedback_id: "ZmVlZGJhY2s6MTA0NjgxODY0NDU3NjE1NQ=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid0aXB7P4UiKjJLtoaMKFb8CEcH8CXvnE3WXrxyPriatieX6aBZCPutoganje5qPMDXl
 
-![消費性電子進入深度衰退。市調機構 Counterpoint Research 預估，2026年全球手機出貨量將年減13.9%，降至10.8億支，不僅比先前預測的12.4%跌幅更糟，也可能創下智慧手機時代以來，最慘的年度衰退紀錄。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/710827329_1046818541242832_3002791607229795651_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3RefgMF0p78Q7kNvwE4Ockc&_nc_oc=AdqXBDQAnLuIFnHx8TZ37Mx6bvd-1q8_8fW2GVwL7tCfdH3vLl6o3ptvn-xqERbRdQE&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Mmjlj7aO7NHVQ4nvfpxt6A&_nc_ss=7e120&oh=00_Af9gvM3aEy3FKcJbn8IJlZ5ObuM8FTXwIsfpADgFVihtOA&oe=6A2C1E62)
+![消費性電子進入深度衰退。市調機構 Counterpoint Research 預估，2026年全球手機出貨量將年減13.9%，降至10.8億支，不僅比先前預測的12.4%跌幅更糟，也可能創下智慧手機時代以來，最慘的年度衰退紀錄。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/710827329_1046818541242832_3002791607229795651_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3RefgMF0p78Q7kNvwHiRnQR&_nc_oc=AdpapyQ1937kwsmj_ZF8w4TUiYkVQJWoXIsvxTJn3KD-iQxlxKYLHRsHSzZbKXPpqqo&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=HUVUkHsMctvtnHXwXUAaIg&_nc_ss=7e120&oh=00_Af-tdv2YMLcgmYWAm346o0uFEBH4jrqih-jCFN7VBqzs-w&oe=6A2C56A2)
 消費性電子進入深度衰退。市調機構 Counterpoint Research 預估，2026年全球手機出貨量將年減13.9%，降至10.8億支，不僅比先前預測的12.4%跌幅更糟，也可能創下智慧手機時代以來，最慘的年度衰退紀錄。
 
 主因在於AI資料中心需求暴增，大量記憶體晶片產能，被高毛利的AI伺服器搶走，加上中東局勢升溫進一步干擾供應鏈，導致手機產業面臨前所未見的晶片短缺。

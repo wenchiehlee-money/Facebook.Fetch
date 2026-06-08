@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
 post_url: "https://www.facebook.com/FinGuider/posts/pfbid0W5z8K1iZrb126tvAFhi8MdH7wv2zFbPpR1PE5XKGKYQwtZs1dpNC7wrodNuxePdml"
 creation_time_utc: "2026-05-09T07:17:27+00:00"
-fetched_at_utc: "2026-06-08T06:59:00.549107+00:00"
+fetched_at_utc: "2026-06-08T07:24:00.578955+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/688720287_1441875801315896_7436507269361904434_n.jpg?stp=dst-jpg_s565x565_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=s1dbdD2C-I0Q7kNvwHetKqx&_nc_oc=Ado5oEUjgoM4aTBZ2JjDOzkLRG1HZqdveucMBELdzm0uZJQYr5XD-oOcsgXFmd9bgaM&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=9U3gpo1CB_-FzVd5DeRk8g&_nc_ss=7e120&oh=00_Af9rmpW_lqNikj29gDrocymtPlacrUsyk5BvrhVZ7zgWmw&oe=6A2C526C"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/688720287_1441875801315896_7436507269361904434_n.jpg?stp=dst-jpg_s565x565_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=s1dbdD2C-I0Q7kNvwErKZfr&_nc_oc=AdpjZ5uU1PtlTD0FW8y9J2MGxd_985PjsD2k2QDg8sUoA-JJSHFOkoOqsvmstvYPk5A&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=hxfPo4KhckYzF6ekGfu_Hg&_nc_ss=7e120&oh=00_Af9rGavhZYzD0U6BKUO0qBe4qPGQL-a0Jax-YypJqhsrAQ&oe=6A2C526C"
 feedback_id: "ZmVlZGJhY2s6MTQ0MTg3Nzc1MTMxNTcwMQ=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/FinGuider/posts/pfbid0W5z8K1iZrb126tvAFhi8MdH7wv2zFbPpR1PE5XKGKYQwtZs1dpNC7wrodNuxePdml
 
-![【量子成員再添一名，Quantinuum IPO 要來了】](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/688720287_1441875801315896_7436507269361904434_n.jpg?stp=dst-jpg_s565x565_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=s1dbdD2C-I0Q7kNvwHetKqx&_nc_oc=Ado5oEUjgoM4aTBZ2JjDOzkLRG1HZqdveucMBELdzm0uZJQYr5XD-oOcsgXFmd9bgaM&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=9U3gpo1CB_-FzVd5DeRk8g&_nc_ss=7e120&oh=00_Af9rmpW_lqNikj29gDrocymtPlacrUsyk5BvrhVZ7zgWmw&oe=6A2C526C)
+![【量子成員再添一名，Quantinuum IPO 要來了】](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/688720287_1441875801315896_7436507269361904434_n.jpg?stp=dst-jpg_s565x565_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=s1dbdD2C-I0Q7kNvwErKZfr&_nc_oc=AdpjZ5uU1PtlTD0FW8y9J2MGxd_985PjsD2k2QDg8sUoA-JJSHFOkoOqsvmstvYPk5A&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=hxfPo4KhckYzF6ekGfu_Hg&_nc_ss=7e120&oh=00_Af9rGavhZYzD0U6BKUO0qBe4qPGQL-a0Jax-YypJqhsrAQ&oe=6A2C526C)
 【量子成員再添一名，Quantinuum IPO 要來了】
 量子運算公司 Quantinuum 正式向 SEC 提交 IPO 申請，預計以代碼「 QNT 」在 Nasdaq 掛牌，主承銷商找來 J.P. Morgan 與 Morgan Stanley，背後股東還包括 Honeywell（HON） 、 輝達旗下 NVentures 等重量級名字。從公開 S-1 到首日交易，常見需數週，一些分析預估可能在 2026年中完成，市場傳出估值可能上看 150 億至 200 億美元，也讓這檔新股迅速成為市場焦點。
 ​

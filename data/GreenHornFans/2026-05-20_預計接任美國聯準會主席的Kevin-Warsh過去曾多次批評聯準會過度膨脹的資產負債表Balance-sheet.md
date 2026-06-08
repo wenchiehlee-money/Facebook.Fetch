@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
 post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0VXmYPE53z4C9HvHih4NZabJV1uTLbDRnxqJR1PqBgAFC92rUzb95aB5EyYF9PBSJl"
 creation_time_utc: "2026-05-20T23:33:03+00:00"
-fetched_at_utc: "2026-06-08T06:59:31.062169+00:00"
+fetched_at_utc: "2026-06-08T07:24:30.891930+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/701776973_1407148071218589_2952313124990077357_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tovfDp6k9v0Q7kNvwEBgNYr&_nc_oc=AdpGX9VlnxKTtWJBXcugY3P0ymsOGpo9Y9pUzmDx69fen_B-ZcmJD2VWB8560mjo5r4&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=7WFxkSkq7K5qr5BvnapWrA&_nc_ss=7e120&oh=00_Af9mV_3lwUEsbriA1WtGouvMCTJNbZLhAx3_v_q12r1Phg&oe=6A2C55BC"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/701776973_1407148071218589_2952313124990077357_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tovfDp6k9v0Q7kNvwEXgy8w&_nc_oc=AdpXzPSkFknWJ_hrxZ1gHVRaDG6SDQcHIEi1GpUY8UwQkT4KEfW403KKmCiLOcrcLik&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=-e9ulOhhXidBJrBnTbEHPA&_nc_ss=7e120&oh=00_Af9cVAdKEROIE0UGAOoMcrUkjbFLEePQyLDLKX-gczpTXA&oe=6A2C55BC"
 feedback_id: "ZmVlZGJhY2s6MTQwNzQ1MjY3MTE4ODEyOQ=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0VXmYPE53z4C9HvHih4NZabJV1uTLbDRnxqJR1PqBgAFC92rUzb95aB5EyYF9PBSJl
 
-![預計接任美國聯準會主席的Kevin Warsh過去曾多次批評聯準會過度膨脹的資產負債表(Balance sheet)。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/701776973_1407148071218589_2952313124990077357_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tovfDp6k9v0Q7kNvwEBgNYr&_nc_oc=AdpGX9VlnxKTtWJBXcugY3P0ymsOGpo9Y9pUzmDx69fen_B-ZcmJD2VWB8560mjo5r4&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=7WFxkSkq7K5qr5BvnapWrA&_nc_ss=7e120&oh=00_Af9mV_3lwUEsbriA1WtGouvMCTJNbZLhAx3_v_q12r1Phg&oe=6A2C55BC)
+![預計接任美國聯準會主席的Kevin Warsh過去曾多次批評聯準會過度膨脹的資產負債表(Balance sheet)。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/701776973_1407148071218589_2952313124990077357_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tovfDp6k9v0Q7kNvwEXgy8w&_nc_oc=AdpXzPSkFknWJ_hrxZ1gHVRaDG6SDQcHIEi1GpUY8UwQkT4KEfW403KKmCiLOcrcLik&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=-e9ulOhhXidBJrBnTbEHPA&_nc_ss=7e120&oh=00_Af9cVAdKEROIE0UGAOoMcrUkjbFLEePQyLDLKX-gczpTXA&oe=6A2C55BC)
 預計接任美國聯準會主席的Kevin Warsh過去曾多次批評聯準會過度膨脹的資產負債表(Balance sheet)。
 
 他不太喜歡聯準會過去採行俗稱QE的政策。執行QE時，聯準會會大舉從市場買進美國公債、房貸抵押債券等。造成聯準會持有大量債券，於是資產負債表擴大。

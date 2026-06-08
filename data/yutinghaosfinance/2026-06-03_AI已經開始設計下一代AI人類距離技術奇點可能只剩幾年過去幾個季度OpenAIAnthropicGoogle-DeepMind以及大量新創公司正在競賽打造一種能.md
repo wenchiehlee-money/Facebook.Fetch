@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/yutinghaosfinance"
 final_url: "https://www.facebook.com/yutinghaosfinance"
 post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid02VEHzELmrB9yPsS4UG3vNxswNtPGHavtWXQeArrYcKy8AZpEyBZr6TVZssUaLeui1l"
 creation_time_utc: "2026-06-03T12:53:37+00:00"
-fetched_at_utc: "2026-06-08T06:57:55.621853+00:00"
+fetched_at_utc: "2026-06-08T07:21:25.952162+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/710756902_1047948584463161_7631589359733902397_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gVcfm2vuWXYQ7kNvwEo0crM&_nc_oc=AdoHfmCJxyu_tE8k0I1awNvslINJmqTrKb2doDWQpPJIJlVmqD5asy0pDGNnODGNcg4&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=pyxiKnkMZ1QBLzNw_m6-2Q&_nc_ss=7e120&oh=00_Af-OBQXH9bv0UzNpwNxQOqT2ktxTDAHF19efut-4J0ydIQ&oe=6A2C3AC9"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/710756902_1047948584463161_7631589359733902397_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gVcfm2vuWXYQ7kNvwGpCSG1&_nc_oc=AdpoPfHX0TE0jff3IAkReG0WC0I6SQ9GZ83Xxw1Jl3adWOd_PVPnpkeVaVtoWS2Ggb0&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ztjHnd5nevzWRr24JRMg-Q&_nc_ss=7e120&oh=00_Af-qCo--qTG9F-JWfesM0oGHu1YQQ5lXg28D_psGR-t12g&oe=6A2C3AC9"
 feedback_id: "ZmVlZGJhY2s6MTA0Nzk0ODc3MTEyOTgwOQ=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid02VEHzELmrB9yPsS4UG3vNxswNtPGHavtWXQeArrYcKy8AZpEyBZr6TVZssUaLeui1l
 
-![AI已經開始設計下一代AI，人類距離技術奇點，可能只剩幾年。過去幾個季度，OpenAI、Anthropic、Google DeepMind以及大量新創公司，正在競賽打造一種能夠改進自己的AI系統。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/710756902_1047948584463161_7631589359733902397_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gVcfm2vuWXYQ7kNvwEo0crM&_nc_oc=AdoHfmCJxyu_tE8k0I1awNvslINJmqTrKb2doDWQpPJIJlVmqD5asy0pDGNnODGNcg4&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=pyxiKnkMZ1QBLzNw_m6-2Q&_nc_ss=7e120&oh=00_Af-OBQXH9bv0UzNpwNxQOqT2ktxTDAHF19efut-4J0ydIQ&oe=6A2C3AC9)
+![AI已經開始設計下一代AI，人類距離技術奇點，可能只剩幾年。過去幾個季度，OpenAI、Anthropic、Google DeepMind以及大量新創公司，正在競賽打造一種能夠改進自己的AI系統。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/710756902_1047948584463161_7631589359733902397_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gVcfm2vuWXYQ7kNvwGpCSG1&_nc_oc=AdpoPfHX0TE0jff3IAkReG0WC0I6SQ9GZ83Xxw1Jl3adWOd_PVPnpkeVaVtoWS2Ggb0&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ztjHnd5nevzWRr24JRMg-Q&_nc_ss=7e120&oh=00_Af-qCo--qTG9F-JWfesM0oGHu1YQQ5lXg28D_psGR-t12g&oe=6A2C3AC9)
 AI已經開始設計下一代AI，人類距離技術奇點，可能只剩幾年。過去幾個季度，OpenAI、Anthropic、Google DeepMind以及大量新創公司，正在競賽打造一種能夠改進自己的AI系統。
 
 這項技術被稱為遞迴式自我改進（Recursive Self-Improvement，RSI），簡單來說，就是AI不再只是回答問題，轉而能自行設計更強大的下一代AI。

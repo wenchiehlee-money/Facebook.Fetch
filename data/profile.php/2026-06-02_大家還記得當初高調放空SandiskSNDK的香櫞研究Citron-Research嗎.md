@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=61578106860333"
 final_url: "https://www.facebook.com/profile.php?id=61578106860333"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0Soxco8qcen6zKr4Zb7Quocg5UBuwwQAt7t1uHZfq5prx7Tvhr5rWXT9CdhxkSwrel&id=61578106860333"
 creation_time_utc: "2026-06-02T16:50:11+00:00"
-fetched_at_utc: "2026-06-08T07:02:11.242654+00:00"
+fetched_at_utc: "2026-06-08T07:33:22.963947+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/712503909_122203671674936895_4047344112249049202_n.jpg?stp=cp6_dst-jpg_s565x565_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=2ZJmpWuW3l0Q7kNvwEg3IN8&_nc_oc=Adoi57DRoNpc-B8Jw4lPWfiKX7F5a1Ljul7SOB0AhzDaKjFkD4goMinXYnhA1n9fy2s&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=Jsz0oTL7i0JGs9x0eLz6wg&_nc_ss=7e120&oh=00_Af9sS3U5L91fcc2CCBHAyGEl8FxnH9MFmq5aBRgbmDkSXg&oe=6A2C52BA"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/712503909_122203671674936895_4047344112249049202_n.jpg?stp=cp6_dst-jpg_s565x565_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=2ZJmpWuW3l0Q7kNvwHevP1A&_nc_oc=AdqE_hpmsJHe4zfM1Mt6wIj-3BSYbcB1coX-On4ne9EX43II1D0tTA4C24JUHYhRe4g&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=-wZABASUXDBR1lJcNFXaow&_nc_ss=7e120&oh=00_Af8nYHuWsqoh9g2BqR3J6-1obpOYBzOfL9ot01Ul3jiBpg&oe=6A2C52BA"
 feedback_id: "ZmVlZGJhY2s6MTIyMjAzNjcxNzg4OTM2ODk1"
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0Soxco8qcen6zKr4Zb7Quocg5UBuwwQAt7t1uHZfq5prx7Tvhr5rWXT9CdhxkSwrel&id=61578106860333
 
-![大家還記得當初高調放空Sandisk（SNDK）的香櫞研究（Citron Research）嗎？](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/712503909_122203671674936895_4047344112249049202_n.jpg?stp=cp6_dst-jpg_s565x565_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=2ZJmpWuW3l0Q7kNvwEg3IN8&_nc_oc=Adoi57DRoNpc-B8Jw4lPWfiKX7F5a1Ljul7SOB0AhzDaKjFkD4goMinXYnhA1n9fy2s&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=Jsz0oTL7i0JGs9x0eLz6wg&_nc_ss=7e120&oh=00_Af9sS3U5L91fcc2CCBHAyGEl8FxnH9MFmq5aBRgbmDkSXg&oe=6A2C52BA)
+![大家還記得當初高調放空Sandisk（SNDK）的香櫞研究（Citron Research）嗎？](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/712503909_122203671674936895_4047344112249049202_n.jpg?stp=cp6_dst-jpg_s565x565_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=2ZJmpWuW3l0Q7kNvwHevP1A&_nc_oc=AdqE_hpmsJHe4zfM1Mt6wIj-3BSYbcB1coX-On4ne9EX43II1D0tTA4C24JUHYhRe4g&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=-wZABASUXDBR1lJcNFXaow&_nc_ss=7e120&oh=00_Af8nYHuWsqoh9g2BqR3J6-1obpOYBzOfL9ot01Ul3jiBpg&oe=6A2C52BA)
 大家還記得當初高調放空Sandisk（SNDK）的香櫞研究（Citron Research）嗎？
 
 最近美國陪審團正式認定香櫞研究創辦人Andrew Left涉及證券欺詐與市場操縱罪名成立，13項指控有罪，最高面臨25年刑期。檢方指控的重點其實不是他看空股票，而是他透過社群媒體、研究報告與電視節目影響市場情緒後，私下進行與公開說法不一致的交易，從中獲利超過2,000萬美元。

@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
 post_url: "https://www.facebook.com/FinGuider/posts/pfbid0pmMFjUgsHM8CFHwq1VRe5MNfJkXp8yv246n8wXFNE19hrnV4d2iVSXV8VzpG9CZTl"
 creation_time_utc: "2026-05-15T23:45:28+00:00"
-fetched_at_utc: "2026-06-08T06:59:00.549107+00:00"
+fetched_at_utc: "2026-06-08T07:24:00.578955+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/699186847_1447912367378906_1861274317929937785_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Dx0qYQZqEusQ7kNvwF465rT&_nc_oc=AdpkEHiF4jtmxI4nF9oooMbyHyVjni5wE79ZqHMxyjAEN0MLOzLqWN2h1_FVrsNAuxo&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=X95_-bfRFxl9WNEPXRMuDA&_nc_ss=7e120&oh=00_Af-g7B3iPdPaDyfeKBgCZGhj1QrqJlzVtRWbCHKQx1wWVw&oe=6A2C2A0A"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/699186847_1447912367378906_1861274317929937785_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Dx0qYQZqEusQ7kNvwGazGtV&_nc_oc=AdpODZYXI_kgA_x3rd2OwyGb8c-XZqsvtqpdmR7zQQdwqZgoCLydA_rdlqKN9HNbwb8&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=jzcDNCzTB_Z_q_Bz-K6sqw&_nc_ss=7e120&oh=00_Af_ffkB9KsUClvW5aKumtkNq6BF7OTyU6m-E2cKCHXiz_Q&oe=6A2C2A0A"
 feedback_id: "ZmVlZGJhY2s6MTQ0NzkxMTgzNDA0NTYyNg=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/FinGuider/posts/pfbid0pmMFjUgsHM8CFHwq1VRe5MNfJkXp8yv246n8wXFNE19hrnV4d2iVSXV8VzpG9CZTl
 
-![【抄底王 David Tepper Q1 繼續看多記憶體，重新布局電力股！】](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/699186847_1447912367378906_1861274317929937785_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Dx0qYQZqEusQ7kNvwF465rT&_nc_oc=AdpkEHiF4jtmxI4nF9oooMbyHyVjni5wE79ZqHMxyjAEN0MLOzLqWN2h1_FVrsNAuxo&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=X95_-bfRFxl9WNEPXRMuDA&_nc_ss=7e120&oh=00_Af-g7B3iPdPaDyfeKBgCZGhj1QrqJlzVtRWbCHKQx1wWVw&oe=6A2C2A0A)
+![【抄底王 David Tepper Q1 繼續看多記憶體，重新布局電力股！】](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/699186847_1447912367378906_1861274317929937785_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Dx0qYQZqEusQ7kNvwGazGtV&_nc_oc=AdpODZYXI_kgA_x3rd2OwyGb8c-XZqsvtqpdmR7zQQdwqZgoCLydA_rdlqKN9HNbwb8&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=jzcDNCzTB_Z_q_Bz-K6sqw&_nc_ss=7e120&oh=00_Af_ffkB9KsUClvW5aKumtkNq6BF7OTyU6m-E2cKCHXiz_Q&oe=6A2C2A0A)
 【抄底王 David Tepper Q1 繼續看多記憶體，重新布局電力股！】
 最新的 #Appaloosa 13F 顯示 David Tepper 持續看好記憶體前景，不僅加碼了美光（MU）、EWY（南韓 ETF），還新開倉了 Sandisk（#SNDK）。此外，過去幾季遭到減碼的電力股 Vistra（VST）、 NRG Energy（NRG）也重新獲得青睞。
 ​

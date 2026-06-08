@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
 post_url: "https://www.facebook.com/FinGuider/posts/pfbid0VM4mS8U3AThDFqsdeQmotZVxyTDLXi8zZtJKs8bzRASdb9jcFj7pF7Fk37LY3ZB9l"
 creation_time_utc: "2026-05-19T09:18:00+00:00"
-fetched_at_utc: "2026-06-08T06:59:00.549107+00:00"
+fetched_at_utc: "2026-06-08T07:24:00.578955+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/701274216_1450735743763235_2995218808403245979_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cWPVgGSp7pQQ7kNvwEDxaUy&_nc_oc=AdoMFEiOA5cxRcYV9AiQWykZByMWUeaZq4L1rY0iMiUkVcHDdCoYQRGVtU4AyoGg6Hw&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=djCttprSBXDd03atibEnnA&_nc_ss=7e120&oh=00_Af9KzFGkPW4GjIpXRjeC1fWNIp0WUeDOo7543UrcDXlOGQ&oe=6A2C2098"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/701274216_1450735743763235_2995218808403245979_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cWPVgGSp7pQQ7kNvwFRcUpz&_nc_oc=Adob_8RjWnqnj7eXZXLspRSOy_86fg0RLUQtmyf_LB9etUBiz-l1YXxbSb1_qfS0qI0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=_phrtOEyz3U9yVXW7j2ahg&_nc_ss=7e120&oh=00_Af-VSVOhF2sK6Hq5bcig4h3rhuTquRdB8S2JWWtK5_b7Cg&oe=6A2C58D8"
 feedback_id: "ZmVlZGJhY2s6MTQ1MDczNTk2Mzc2MzIxMw=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/FinGuider/posts/pfbid0VM4mS8U3AThDFqsdeQmotZVxyTDLXi8zZtJKs8bzRASdb9jcFj7pF7Fk37LY3ZB9l
 
-![📌記憶體 ETF - Roundhill Memory ETF（#DRAM）已經成為有史以來成長最快的美股 ETF 之一，在 4/2 推出後約 30 多個交易日 AUM 就衝破 70 億美元，速度超越先前最快的比特幣 ETF（IBIT）。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/701274216_1450735743763235_2995218808403245979_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cWPVgGSp7pQQ7kNvwEDxaUy&_nc_oc=AdoMFEiOA5cxRcYV9AiQWykZByMWUeaZq4L1rY0iMiUkVcHDdCoYQRGVtU4AyoGg6Hw&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=djCttprSBXDd03atibEnnA&_nc_ss=7e120&oh=00_Af9KzFGkPW4GjIpXRjeC1fWNIp0WUeDOo7543UrcDXlOGQ&oe=6A2C2098)
+![📌記憶體 ETF - Roundhill Memory ETF（#DRAM）已經成為有史以來成長最快的美股 ETF 之一，在 4/2 推出後約 30 多個交易日 AUM 就衝破 70 億美元，速度超越先前最快的比特幣 ETF（IBIT）。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/701274216_1450735743763235_2995218808403245979_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cWPVgGSp7pQQ7kNvwFRcUpz&_nc_oc=Adob_8RjWnqnj7eXZXLspRSOy_86fg0RLUQtmyf_LB9etUBiz-l1YXxbSb1_qfS0qI0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=_phrtOEyz3U9yVXW7j2ahg&_nc_ss=7e120&oh=00_Af-VSVOhF2sK6Hq5bcig4h3rhuTquRdB8S2JWWtK5_b7Cg&oe=6A2C58D8)
 📌記憶體 ETF - Roundhill Memory ETF（#DRAM）已經成為有史以來成長最快的美股 ETF 之一，在 4/2 推出後約 30 多個交易日 AUM 就衝破 70 億美元，速度超越先前最快的比特幣 ETF（IBIT）。
 ​
 DRAM 直接鎖定記憶體晶片主題，正好踩中 AI 資料中心最缺貨的環節，除了 DRAM，也涵蓋 NAND、SSD、HDD、NOR Flash 與嵌入式記憶體公司。持股包含美光、Samsung、SK Hynix 等記憶體龍頭，某種程度上，這檔 ETF 更像是「全球記憶體三巨頭組合包」。

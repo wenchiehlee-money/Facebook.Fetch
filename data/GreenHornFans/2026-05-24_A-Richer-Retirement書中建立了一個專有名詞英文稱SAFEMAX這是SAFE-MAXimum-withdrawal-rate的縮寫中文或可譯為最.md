@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
 post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid032nYcerNpipFtiQDuaSbJxrT3n5E2nPPBKVHEjrBPeFz7oL9Jn9jdLXbUA4McACnPl"
 creation_time_utc: "2026-05-24T23:32:02+00:00"
-fetched_at_utc: "2026-06-08T06:59:31.062169+00:00"
+fetched_at_utc: "2026-06-08T07:24:30.891930+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/705464075_1410324134234316_3240451023329569261_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DCZglLapiLwQ7kNvwFhCV--&_nc_oc=Adp7jDqWHqXZ0c6rNjF4WuFhT6fp64qd-mPFKFXU6Zb2BQzHjouiKG4UHWLPVQ7vExg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=bWjXOTdox8-BQwOAhwKKrA&_nc_ss=7e120&oh=00_Af_5rie_-prSHs4CCZmhsfLRZhWUGm0GPH7f7vkTTGIkUw&oe=6A2C4AB1"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/705464075_1410324134234316_3240451023329569261_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DCZglLapiLwQ7kNvwFN3CVK&_nc_oc=AdruZ0cw9QPEseJWtWi11dDgKtn-2_v37d1bR4GhcE38uJgvbrPpN_0fXVHbkF9n9O4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=B3toqOldDlpc_ikFn0rObQ&_nc_ss=7e120&oh=00_Af_CNyNCgkmRzGHkdC5LAmbETPHYVxKD_v9uQAwxqFze6g&oe=6A2C4AB1"
 feedback_id: "ZmVlZGJhY2s6MTQxMDY3NTg5MDg2NTgwNw=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid032nYcerNpipFtiQDuaSbJxrT3n5E2nPPBKVHEjrBPeFz7oL9Jn9jdLXbUA4McACnPl
 
-![A Richer Retirement書中建立了一個專有名詞，英文稱SAFEMAX。這是SAFE MAXimum withdrawal rate的縮寫。中文或可譯為”最高安全提領率”。](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/705464075_1410324134234316_3240451023329569261_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DCZglLapiLwQ7kNvwFhCV--&_nc_oc=Adp7jDqWHqXZ0c6rNjF4WuFhT6fp64qd-mPFKFXU6Zb2BQzHjouiKG4UHWLPVQ7vExg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=bWjXOTdox8-BQwOAhwKKrA&_nc_ss=7e120&oh=00_Af_5rie_-prSHs4CCZmhsfLRZhWUGm0GPH7f7vkTTGIkUw&oe=6A2C4AB1)
+![A Richer Retirement書中建立了一個專有名詞，英文稱SAFEMAX。這是SAFE MAXimum withdrawal rate的縮寫。中文或可譯為”最高安全提領率”。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/705464075_1410324134234316_3240451023329569261_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DCZglLapiLwQ7kNvwFN3CVK&_nc_oc=AdruZ0cw9QPEseJWtWi11dDgKtn-2_v37d1bR4GhcE38uJgvbrPpN_0fXVHbkF9n9O4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=B3toqOldDlpc_ikFn0rObQ&_nc_ss=7e120&oh=00_Af_CNyNCgkmRzGHkdC5LAmbETPHYVxKD_v9uQAwxqFze6g&oe=6A2C4AB1)
 A Richer Retirement書中建立了一個專有名詞，英文稱SAFEMAX。這是SAFE MAXimum withdrawal rate的縮寫。中文或可譯為”最高安全提領率”。
 
 上一篇讀後感提到作者的計算方式。第一位退休者從1926年一月1日開始退休，第二位是從1926四月1日開始退休，下一位退休者都比前一位晚三個月退休。最後一位是在2013一月退休，總共349位退休者。

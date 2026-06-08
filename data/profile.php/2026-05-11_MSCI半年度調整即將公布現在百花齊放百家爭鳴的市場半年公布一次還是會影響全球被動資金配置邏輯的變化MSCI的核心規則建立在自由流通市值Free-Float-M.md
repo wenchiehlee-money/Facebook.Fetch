@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=61578106860333"
 final_url: "https://www.facebook.com/profile.php?id=61578106860333"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0E5bD68iTnaEUkbcWBPx93fFJtrw8653ALnz9hYTz6pKg1KSsmmq7izkvGMpVyUaDl&id=61578106860333"
 creation_time_utc: "2026-05-11T23:38:30+00:00"
-fetched_at_utc: "2026-06-08T07:02:11.242654+00:00"
+fetched_at_utc: "2026-06-08T07:33:22.963947+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/698572923_122199927128936895_7734959891345124848_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ggtZNW_2KlcQ7kNvwFd8JAI&_nc_oc=AdpRedTMIcPyGZCqBbwYvGwuWY-HLl5tq80CLRuwr-XpvaGuLKvctlRkmU6SPnYff7M&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=9pb6w1cWJbmTSfMMsCdVCQ&_nc_ss=7e120&oh=00_Af_w6aeOiiQKdp6q90QweTlDWz2QTmdwjsfGoEC3iXJ14Q&oe=6A2C317D"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/698572923_122199927128936895_7734959891345124848_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ggtZNW_2KlcQ7kNvwHDZbTv&_nc_oc=Adrdi87_N8DELD0FzZmWkJJtaa6oX08z2qpOkY_e9deFrtT5GwOFw3qfx2rN_67A1_E&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=xWjcQmLznuEzroysHqLtEg&_nc_ss=7e120&oh=00_Af-F-nHQyX14PeEJGg_12xgKJg_cYvULZUxwX_slkKLK3A&oe=6A2C317D"
 feedback_id: "ZmVlZGJhY2s6MTIyMTk5OTI3MTcwOTM2ODk1"
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0E5bD68iTnaEUkbcWBPx93fFJtrw8653ALnz9hYTz6pKg1KSsmmq7izkvGMpVyUaDl&id=61578106860333
 
-![MSCI半年度調整即將公布，現在百花齊放、百家爭鳴的市場，半年公布一次還是會影響全球被動資金配置邏輯的變化。MSCI的核心規則建立在自由流通市值（Free Float Market Cap）、流動性、外資可投資性與市值排名，因此影響權重的關鍵，除了企業總市值，更重要的是市場真正可交易的部位與外資參與程度。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/698572923_122199927128936895_7734959891345124848_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ggtZNW_2KlcQ7kNvwFd8JAI&_nc_oc=AdpRedTMIcPyGZCqBbwYvGwuWY-HLl5tq80CLRuwr-XpvaGuLKvctlRkmU6SPnYff7M&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=9pb6w1cWJbmTSfMMsCdVCQ&_nc_ss=7e120&oh=00_Af_w6aeOiiQKdp6q90QweTlDWz2QTmdwjsfGoEC3iXJ14Q&oe=6A2C317D)
+![MSCI半年度調整即將公布，現在百花齊放、百家爭鳴的市場，半年公布一次還是會影響全球被動資金配置邏輯的變化。MSCI的核心規則建立在自由流通市值（Free Float Market Cap）、流動性、外資可投資性與市值排名，因此影響權重的關鍵，除了企業總市值，更重要的是市場真正可交易的部位與外資參與程度。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/698572923_122199927128936895_7734959891345124848_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ggtZNW_2KlcQ7kNvwHDZbTv&_nc_oc=Adrdi87_N8DELD0FzZmWkJJtaa6oX08z2qpOkY_e9deFrtT5GwOFw3qfx2rN_67A1_E&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=xWjcQmLznuEzroysHqLtEg&_nc_ss=7e120&oh=00_Af-F-nHQyX14PeEJGg_12xgKJg_cYvULZUxwX_slkKLK3A&oe=6A2C317D)
 MSCI半年度調整即將公布，現在百花齊放、百家爭鳴的市場，半年公布一次還是會影響全球被動資金配置邏輯的變化。MSCI的核心規則建立在自由流通市值（Free Float Market Cap）、流動性、外資可投資性與市值排名，因此影響權重的關鍵，除了企業總市值，更重要的是市場真正可交易的部位與外資參與程度。
 
 統一與台新投顧出分析報告，此次皆預估台灣權重有機會小幅調升，因為台灣在AI資本支出周期中的產業位置持續提高。4月MSCI台灣指數上漲31.6%，明顯優於MSCI新興市場14.6%。台積電目前占MSCI新興市場權重13.29%，穩居第一大成分股，台達電與聯發科及鴻海也已進入前十大權值。這代表全球資金配置，正在持續往AI硬體、先進封裝、高速傳輸與半導體供應鏈集中。

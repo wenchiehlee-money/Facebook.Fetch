@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/yutinghaosfinance"
 final_url: "https://www.facebook.com/yutinghaosfinance"
 post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid02h2bztFwfLWETCRH7o1vPaqxLqDgUcpYq8M2jRxDKKPaPHjA5sbby1eGiKAmxaAVQl"
 creation_time_utc: "2026-06-03T12:46:20+00:00"
-fetched_at_utc: "2026-06-08T06:57:55.621853+00:00"
+fetched_at_utc: "2026-06-08T07:21:25.952162+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/710782139_1047942821130404_8849459466009300491_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zAPbHMj0Ox0Q7kNvwG6y96N&_nc_oc=AdqcgpPkj6jjhDBzD7KfmS5l1ZZNArI6jqMmGBGYPszEiuO8U08W3RpUineXqZVfco4&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=ccYs_vJ5UPxGLGRKl4nDIw&_nc_ss=7e120&oh=00_Af_92nqtdx_whO2TyVysqYVb3zg-YwPzaLVzCdYWDVkuuQ&oe=6A2C34ED"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/710782139_1047942821130404_8849459466009300491_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zAPbHMj0Ox0Q7kNvwHoUKhK&_nc_oc=Adr_olABGZoa_uLKb3kmRjtz47tcuMrmLcNmorXqb7rCVicYo3nQtkHWVXcRKx2Nupc&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=iaGbQgafJT2aaVSYNiqiuw&_nc_ss=7e120&oh=00_Af-8OCn3dC_JvF63FwBMzzS9mEiNgTdwRGr3FlNIh3BWbg&oe=6A2C34ED"
 feedback_id: "ZmVlZGJhY2s6MTA0Nzk0MjkyNDQ2MzcyNw=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid02h2bztFwfLWETCRH7o1vPaqxLqDgUcpYq8M2jRxDKKPaPHjA5sbby1eGiKAmxaAVQl
 
-![川普毫無避諱，任命房地產業出身的比爾普特（Bill Pulte）出任代理國家情報總監，引發華府震撼。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/710782139_1047942821130404_8849459466009300491_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zAPbHMj0Ox0Q7kNvwG6y96N&_nc_oc=AdqcgpPkj6jjhDBzD7KfmS5l1ZZNArI6jqMmGBGYPszEiuO8U08W3RpUineXqZVfco4&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=ccYs_vJ5UPxGLGRKl4nDIw&_nc_ss=7e120&oh=00_Af_92nqtdx_whO2TyVysqYVb3zg-YwPzaLVzCdYWDVkuuQ&oe=6A2C34ED)
+![川普毫無避諱，任命房地產業出身的比爾普特（Bill Pulte）出任代理國家情報總監，引發華府震撼。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/710782139_1047942821130404_8849459466009300491_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zAPbHMj0Ox0Q7kNvwHoUKhK&_nc_oc=Adr_olABGZoa_uLKb3kmRjtz47tcuMrmLcNmorXqb7rCVicYo3nQtkHWVXcRKx2Nupc&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=iaGbQgafJT2aaVSYNiqiuw&_nc_ss=7e120&oh=00_Af-8OCn3dC_JvF63FwBMzzS9mEiNgTdwRGr3FlNIh3BWbg&oe=6A2C34ED)
 川普毫無避諱，任命房地產業出身的比爾普特（Bill Pulte）出任代理國家情報總監，引發華府震撼。
 
 這個職位原本負責統籌CIA、NSA等18個情報機構，並在911事件後，成為美國國安體系最核心的位置之一，然而普特既沒有情報背景，也沒有軍事或外交經歷，過去最知名的身分，是美國第三大住宅建商普特集團創辦人家族後代，以及聯邦住房金融局局長。

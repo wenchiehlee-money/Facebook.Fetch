@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=61578106860333"
 final_url: "https://www.facebook.com/profile.php?id=61578106860333"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0PWWnjrnhDpNSWpvjsWHttq9pd1ih13mECj3XpwRWBMobXPhSr54Qh6MsQEWWjBAkl&id=61578106860333"
 creation_time_utc: "2026-05-20T22:37:50+00:00"
-fetched_at_utc: "2026-06-08T07:02:11.242654+00:00"
+fetched_at_utc: "2026-06-08T07:33:22.963947+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/703055725_122201305274936895_4018146964292103132_n.jpg?stp=cp6_dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3csujKHomkIQ7kNvwE2Oljs&_nc_oc=AdqdZ6BuNwycL3q47wGzL4eudnm-SgjiI6rLrIJrky2bcnvz9Kc0nUNsXsaSUAzC5zY&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=29WzJuzwWIG7Y_y5qwPlHA&_nc_ss=7e120&oh=00_Af9mPOdlomElDCsBcsOIyUVfZXdoLPWUMvzUKrSHpIRq4Q&oe=6A2C2282"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/703055725_122201305274936895_4018146964292103132_n.jpg?stp=cp6_dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3csujKHomkIQ7kNvwG2_q_4&_nc_oc=AdpcqbPCeZkI9LT-tOYYrfS74Qp9soY9LfO8TiuaM-FnOmppQqOZ5fkfm2BVGDoPMbQ&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=j3leALHiQt8mI56RA-m5tA&_nc_ss=7e120&oh=00_Af8Z2e7psZf4dkjcNfdC--jNVcKpK53ObTRUSVQGCwZTnw&oe=6A2C5AC2"
 feedback_id: "ZmVlZGJhY2s6MTIyMjAxMzA1MzgyOTM2ODk1"
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0PWWnjrnhDpNSWpvjsWHttq9pd1ih13mECj3XpwRWBMobXPhSr54Qh6MsQEWWjBAkl&id=61578106860333
 
-![昨天受邀到證交所，以「下一個十年投資關鍵字：AI之後是什麼？」為主題進行分享。這場演講，我其實不是單純談AI概念股，也不是只談GPU、HBM或CoWoS，而是從更大的角度，去看2026之後全球資本市場正在發生的結構性轉變。很多人現在還停留在「AI會不會泡沫」、「AI還能漲多久」的討論，但我認為市場真正低估的，是AI開始從虛擬世界走向實體世界後，整個全球資本支出的重新排列。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/703055725_122201305274936895_4018146964292103132_n.jpg?stp=cp6_dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3csujKHomkIQ7kNvwE2Oljs&_nc_oc=AdqdZ6BuNwycL3q47wGzL4eudnm-SgjiI6rLrIJrky2bcnvz9Kc0nUNsXsaSUAzC5zY&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=29WzJuzwWIG7Y_y5qwPlHA&_nc_ss=7e120&oh=00_Af9mPOdlomElDCsBcsOIyUVfZXdoLPWUMvzUKrSHpIRq4Q&oe=6A2C2282)
+![昨天受邀到證交所，以「下一個十年投資關鍵字：AI之後是什麼？」為主題進行分享。這場演講，我其實不是單純談AI概念股，也不是只談GPU、HBM或CoWoS，而是從更大的角度，去看2026之後全球資本市場正在發生的結構性轉變。很多人現在還停留在「AI會不會泡沫」、「AI還能漲多久」的討論，但我認為市場真正低估的，是AI開始從虛擬世界走向實體世界後，整個全球資本支出的重新排列。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/703055725_122201305274936895_4018146964292103132_n.jpg?stp=cp6_dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3csujKHomkIQ7kNvwG2_q_4&_nc_oc=AdpcqbPCeZkI9LT-tOYYrfS74Qp9soY9LfO8TiuaM-FnOmppQqOZ5fkfm2BVGDoPMbQ&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=j3leALHiQt8mI56RA-m5tA&_nc_ss=7e120&oh=00_Af8Z2e7psZf4dkjcNfdC--jNVcKpK53ObTRUSVQGCwZTnw&oe=6A2C5AC2)
 昨天受邀到證交所，以「下一個十年投資關鍵字：AI之後是什麼？」為主題進行分享。這場演講，我其實不是單純談AI概念股，也不是只談GPU、HBM或CoWoS，而是從更大的角度，去看2026之後全球資本市場正在發生的結構性轉變。很多人現在還停留在「AI會不會泡沫」、「AI還能漲多久」的討論，但我認為市場真正低估的，是AI開始從虛擬世界走向實體世界後，整個全球資本支出的重新排列。
 
 AI真正改變的從來不只是聊天機器人，而是整個世界的底層基礎建設。過去二十年，全球科技核心是流量、平台、軟體與生態系；未來十年開始，核心會逐漸轉向電力、能源、散熱、光通訊、資料傳輸、邊緣AI、機器人與實體基礎建設。

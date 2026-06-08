@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
 post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02jScT5K9qMBMUUqcLp8h9QmhW6ZgwtCo23Ptf9Ee4jCahjfYFwT1pzb5fdhsJKCrsl"
 creation_time_utc: "2026-06-06T22:56:01+00:00"
-fetched_at_utc: "2026-06-08T06:59:31.062169+00:00"
+fetched_at_utc: "2026-06-08T07:24:30.891930+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/716598880_1421875016412561_8523448928655761716_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fvQhYHz3MGMQ7kNvwE2r_dN&_nc_oc=AdqeONS0NCMWdqtggr31yY4KkaFd2yHz_w07WvnjhfxoNiL6VqA_b_F4h_uhI-GpeXo&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=ca_LpOJXyO3utIk5IhTlCA&_nc_ss=7e120&oh=00_Af9PcPSbRh6wq0BCgoTDgZMnQpGAZlpICSKyrt20QzfLSw&oe=6A2C3ABF"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/716598880_1421875016412561_8523448928655761716_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fvQhYHz3MGMQ7kNvwEwz7s8&_nc_oc=Ado_4NIUtN7QTO-Ffq6XgIkzxYuhzYRDSKlDl42Dr0Ap9k6cO98csabYSv4EwGUPRhw&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=rH3GVl_JPzY89kl61PQI9g&_nc_ss=7e120&oh=00_Af8w4Wa3CMIXklsUCYeQWc6VDSB7KiV9zpqIgWKbGiQiyQ&oe=6A2C3ABF"
 feedback_id: "ZmVlZGJhY2s6MTQyMTg3NjQ1NjQxMjQxNw=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02jScT5K9qMBMUUqcLp8h9QmhW6ZgwtCo23Ptf9Ee4jCahjfYFwT1pzb5fdhsJKCrsl
 
-![“How to Think About Money”書中有段關於股票與債券的討論，非常有趣。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/716598880_1421875016412561_8523448928655761716_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fvQhYHz3MGMQ7kNvwE2r_dN&_nc_oc=AdqeONS0NCMWdqtggr31yY4KkaFd2yHz_w07WvnjhfxoNiL6VqA_b_F4h_uhI-GpeXo&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=ca_LpOJXyO3utIk5IhTlCA&_nc_ss=7e120&oh=00_Af9PcPSbRh6wq0BCgoTDgZMnQpGAZlpICSKyrt20QzfLSw&oe=6A2C3ABF)
+![“How to Think About Money”書中有段關於股票與債券的討論，非常有趣。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/716598880_1421875016412561_8523448928655761716_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fvQhYHz3MGMQ7kNvwEwz7s8&_nc_oc=Ado_4NIUtN7QTO-Ffq6XgIkzxYuhzYRDSKlDl42Dr0Ap9k6cO98csabYSv4EwGUPRhw&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=rH3GVl_JPzY89kl61PQI9g&_nc_ss=7e120&oh=00_Af8w4Wa3CMIXklsUCYeQWc6VDSB7KiV9zpqIgWKbGiQiyQ&oe=6A2C3ABF)
 “How to Think About Money”書中有段關於股票與債券的討論，非常有趣。
 
 想想看，股票與債券這些金融資產代表什麼?

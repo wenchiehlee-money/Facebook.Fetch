@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
 post_url: "https://www.facebook.com/FinGuider/posts/pfbid02mt9XkjeegCURQWnbCobfLUxoWRDZ8Jo6FrZBYxcpESvevdggyYNi2xZomPT45sE6l"
 creation_time_utc: "2026-05-30T23:57:40+00:00"
-fetched_at_utc: "2026-06-08T06:59:00.549107+00:00"
+fetched_at_utc: "2026-06-08T07:24:00.578955+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/710745425_1461362349367241_4996172316734859350_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dyy-drkOACQQ7kNvwEk7Y2Q&_nc_oc=AdrHwbRsWJ5ZhGPon0DHKHi7LjWZT7ABVviRqIEtwjvMJtzhJqAJARzxSYnfnaxj9e8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=bG6RtlOIfdh4LfwmVZsQ6w&_nc_ss=7e120&oh=00_Af_0SQpe1irCZwfbPtZwBek1xeeVCZBuCPDG3xd0obdxZg&oe=6A2C4296"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/710745425_1461362349367241_4996172316734859350_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dyy-drkOACQQ7kNvwHCNVAr&_nc_oc=AdoHyQ0d33jjbmf3PS3EbTFKzROKIHoov6OgVw7-1KZLRhflLK9TzK2OvYgilT5WNVo&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=RuSc15lhu_MCqqypW3-BZA&_nc_ss=7e120&oh=00_Af98tQ5o7fktQsxURPaKV5tT3gz675WM5sJzq-sv0wFv0g&oe=6A2C4296"
 feedback_id: "ZmVlZGJhY2s6MTQ2MTM2MjcxMjcwMDUzOA=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/FinGuider/posts/pfbid02mt9XkjeegCURQWnbCobfLUxoWRDZ8Jo6FrZBYxcpESvevdggyYNi2xZomPT45sE6l
 
-![📿#Meta（META）計畫於明年春季開始測試一款「#AI吊墜」，藉此擴大可穿戴設備的路線圖，以扭轉硬體部門的虧損。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/710745425_1461362349367241_4996172316734859350_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dyy-drkOACQQ7kNvwEk7Y2Q&_nc_oc=AdrHwbRsWJ5ZhGPon0DHKHi7LjWZT7ABVviRqIEtwjvMJtzhJqAJARzxSYnfnaxj9e8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=bG6RtlOIfdh4LfwmVZsQ6w&_nc_ss=7e120&oh=00_Af_0SQpe1irCZwfbPtZwBek1xeeVCZBuCPDG3xd0obdxZg&oe=6A2C4296)
+![📿#Meta（META）計畫於明年春季開始測試一款「#AI吊墜」，藉此擴大可穿戴設備的路線圖，以扭轉硬體部門的虧損。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/710745425_1461362349367241_4996172316734859350_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dyy-drkOACQQ7kNvwHCNVAr&_nc_oc=AdoHyQ0d33jjbmf3PS3EbTFKzROKIHoov6OgVw7-1KZLRhflLK9TzK2OvYgilT5WNVo&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=RuSc15lhu_MCqqypW3-BZA&_nc_ss=7e120&oh=00_Af98tQ5o7fktQsxURPaKV5tT3gz675WM5sJzq-sv0wFv0g&oe=6A2C4296)
 📿#Meta（META）計畫於明年春季開始測試一款「#AI吊墜」，藉此擴大可穿戴設備的路線圖，以扭轉硬體部門的虧損。
 ​
 去年 Meta 收購了 AI 可穿戴裝置新創 Limitless，這家公司開發了一種可以錄音的 AI 吊墜，用戶可以別在衣服上或作為項鍊佩戴。不過《The Information》指出，內部備忘錄並未明確描述這款設備的詳細設計，只知道會搭載攝影機。

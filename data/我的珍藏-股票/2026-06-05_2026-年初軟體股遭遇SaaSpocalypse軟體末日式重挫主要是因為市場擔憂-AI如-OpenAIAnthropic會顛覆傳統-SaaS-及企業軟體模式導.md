@@ -6,7 +6,7 @@ source_page: "FinGuider \u7f8e\u80a1\u8cc7\u8a0a\u7db2"
 requested_url: "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL"
 post_url: "https://www.facebook.com/FinGuider/posts/pfbid049qMWS7XajYTH8iDjPPXxJKgcs8Rz4E19VPp6DrfrnwS4pQ9TdMg9HtMYcUTujjdl"
 creation_time_utc: ""
-fetched_at_utc: "2026-06-08T07:06:55.388569+00:00"
+fetched_at_utc: "2026-06-08T07:36:17.102476+00:00"
 source: "saved_list"
 ---
 

@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/yutinghaosfinance"
 final_url: "https://www.facebook.com/yutinghaosfinance"
 post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid02as3saiwXrciQh4g83H1ZKZ3vS8PQ6tsK1sYDkcaDkg9YXz5Sk5efg9u5EVTB7bAbl"
 creation_time_utc: "2026-05-30T14:01:28+00:00"
-fetched_at_utc: "2026-06-08T06:57:55.621853+00:00"
+fetched_at_utc: "2026-06-08T07:21:25.952162+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/710745380_1044221081502578_4747989142973617828_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eIl5Ce2bp9UQ7kNvwGsKdi-&_nc_oc=AdobWGtFcdAug_9XZlLFhvcfuAiiJXHF4cx-PNSD4juCOrps5tQD2zk1QNjClMxGta4&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=uIRIJbEZHWctGAWzjaBEcw&_nc_ss=7e120&oh=00_Af9gCF7gUrd0c3UBmMzsjZK8NFIY2XxglN-pFfWPrMUmeg&oe=6A2C55D1"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/710745380_1044221081502578_4747989142973617828_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eIl5Ce2bp9UQ7kNvwGVus0e&_nc_oc=AdqMdw-OlWQYRZHGkNr9sqoPT1O6aDrpOQvH0nz2gFZSHv9eYqWroNp6DZ1XUxKVcYA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=QMr9IGY26j74qJmZYel3FQ&_nc_ss=7e120&oh=00_Af9ol9NPsyfSU0p8c7ZeUZFhfe5LE-5IPBi5IMI8DFTCMg&oe=6A2C55D1"
 feedback_id: "ZmVlZGJhY2s6MTA0NDIyMTYyODE2OTE5MA=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid02as3saiwXrciQh4g83H1ZKZ3vS8PQ6tsK1sYDkcaDkg9YXz5Sk5efg9u5EVTB7bAbl
 
-![全球最大末日地堡社區，躲得過核戰卻躲不過人性。位於美國南達科他州的 Vivos xPoint，被稱為全球最大的末日生存社區。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/710745380_1044221081502578_4747989142973617828_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eIl5Ce2bp9UQ7kNvwGsKdi-&_nc_oc=AdobWGtFcdAug_9XZlLFhvcfuAiiJXHF4cx-PNSD4juCOrps5tQD2zk1QNjClMxGta4&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=uIRIJbEZHWctGAWzjaBEcw&_nc_ss=7e120&oh=00_Af9gCF7gUrd0c3UBmMzsjZK8NFIY2XxglN-pFfWPrMUmeg&oe=6A2C55D1)
+![全球最大末日地堡社區，躲得過核戰卻躲不過人性。位於美國南達科他州的 Vivos xPoint，被稱為全球最大的末日生存社區。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/710745380_1044221081502578_4747989142973617828_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eIl5Ce2bp9UQ7kNvwGVus0e&_nc_oc=AdqMdw-OlWQYRZHGkNr9sqoPT1O6aDrpOQvH0nz2gFZSHv9eYqWroNp6DZ1XUxKVcYA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=QMr9IGY26j74qJmZYel3FQ&_nc_ss=7e120&oh=00_Af9ol9NPsyfSU0p8c7ZeUZFhfe5LE-5IPBi5IMI8DFTCMg&oe=6A2C55D1)
 全球最大末日地堡社區，躲得過核戰卻躲不過人性。位於美國南達科他州的 Vivos xPoint，被稱為全球最大的末日生存社區。
 
 這座基地原本是冷戰時期的軍火儲存設施，後來被改造成數百座混凝土地堡，對外販售長期租約。

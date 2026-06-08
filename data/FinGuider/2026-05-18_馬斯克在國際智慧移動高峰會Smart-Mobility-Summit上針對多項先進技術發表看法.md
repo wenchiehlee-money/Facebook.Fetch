@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
 post_url: "https://www.facebook.com/FinGuider/posts/pfbid0nqQiMk5shkeqyJXQrmDCmXqrmndcD9zD2A3BGKwHbuPxQ7pEHTrSFUhhZU9AwUkJl"
 creation_time_utc: "2026-05-18T13:47:32+00:00"
-fetched_at_utc: "2026-06-08T06:59:00.549107+00:00"
+fetched_at_utc: "2026-06-08T07:24:00.578955+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/702244846_1450210360482440_6709914200670427436_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=y8TM9RQhfFIQ7kNvwF7rOlH&_nc_oc=AdqQWCuwGdp_6wUZgRKCyGGCK0jV9mMeEKlN-DpMGGpSfyfT0MuAMRvgZaH3bBZRyQc&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=a-tzKG-q65FKF3CUn6SjAw&_nc_ss=7e120&oh=00_Af8RnbCgf1YfYFYP29V5fcR31vvWpJDMHUbGLSif10YpXQ&oe=6A2C3BEB"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/702244846_1450210360482440_6709914200670427436_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=y8TM9RQhfFIQ7kNvwGOckbV&_nc_oc=Adri0SDQOShcHXNMgLMdiTExLHT2DFUl18LyFuPUoCM0Pv3lEps3dGUUtnOqt7JN7cY&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=vLHPGa56y5fQEDlkTw-AHA&_nc_ss=7e120&oh=00_Af_Suhn2NQ7hEBECs4FqYklTd1GCTAdn8r5JchYtsyjp9g&oe=6A2C3BEB"
 feedback_id: "ZmVlZGJhY2s6MTQ1MDIxMTIyMDQ4MjM1NA=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/FinGuider/posts/pfbid0nqQiMk5shkeqyJXQrmDCmXqrmndcD9zD2A3BGKwHbuPxQ7pEHTrSFUhhZU9AwUkJl
 
-![馬斯克在國際智慧移動高峰會（Smart Mobility Summit）上針對多項先進技術發表看法：](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/702244846_1450210360482440_6709914200670427436_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=y8TM9RQhfFIQ7kNvwF7rOlH&_nc_oc=AdqQWCuwGdp_6wUZgRKCyGGCK0jV9mMeEKlN-DpMGGpSfyfT0MuAMRvgZaH3bBZRyQc&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=a-tzKG-q65FKF3CUn6SjAw&_nc_ss=7e120&oh=00_Af8RnbCgf1YfYFYP29V5fcR31vvWpJDMHUbGLSif10YpXQ&oe=6A2C3BEB)
+![馬斯克在國際智慧移動高峰會（Smart Mobility Summit）上針對多項先進技術發表看法：](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/702244846_1450210360482440_6709914200670427436_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=y8TM9RQhfFIQ7kNvwGOckbV&_nc_oc=Adri0SDQOShcHXNMgLMdiTExLHT2DFUl18LyFuPUoCM0Pv3lEps3dGUUtnOqt7JN7cY&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=vLHPGa56y5fQEDlkTw-AHA&_nc_ss=7e120&oh=00_Af_Suhn2NQ7hEBECs4FqYklTd1GCTAdn8r5JchYtsyjp9g&oe=6A2C3BEB)
 馬斯克在國際智慧移動高峰會（Smart Mobility Summit）上針對多項先進技術發表看法：
 ​
 🔶全自動駕駛（FSD）

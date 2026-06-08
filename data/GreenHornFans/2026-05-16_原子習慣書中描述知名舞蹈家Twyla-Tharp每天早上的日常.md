@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
 post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0GhwNfcvy2FbRTBaKvGjkMzEE4fV6H7ZudoLgjmqSrZeBk6AW9RE7R337MxrwbbnKl"
 creation_time_utc: "2026-05-16T23:47:34+00:00"
-fetched_at_utc: "2026-06-08T06:59:31.062169+00:00"
+fetched_at_utc: "2026-06-08T07:24:30.891930+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/699492274_1404176731515723_828011033526951564_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ap2b9zRE0xsQ7kNvwGZEO1J&_nc_oc=AdoxCUYSrA6an50SV4iDKhv0yerBUpB8LmcutS9oQDniAQVW4JGgYY9ADC9K__AFpKA&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Ijq5ByNoyN2YrzDxl5k-1A&_nc_ss=7e120&oh=00_Af9zcWD9BnkBT6UM9G1KLaQ3ZAWHEf_o37nQEb1qPPh_YQ&oe=6A2C445D"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/699492274_1404176731515723_828011033526951564_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ap2b9zRE0xsQ7kNvwEv22aJ&_nc_oc=AdpT6Xo20j_r4hSqtgkcgBLMSkHkYVoxze8Zj5BXNwA6c0WBh7HKm9hirEevfOrw8EU&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=pKqggjraQSNJKlNVkZA2FQ&_nc_ss=7e120&oh=00_Af87ulfJSNo2O2DAZSzTaXwcWSzxTeIyHFgPJVWP_JvUUA&oe=6A2C445D"
 feedback_id: "ZmVlZGJhY2s6MTQwNDE3Njk0NDg0OTAzNQ=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0GhwNfcvy2FbRTBaKvGjkMzEE4fV6H7ZudoLgjmqSrZeBk6AW9RE7R337MxrwbbnKl
 
-![《原子習慣》書中描述知名舞蹈家Twyla Tharp每天早上的日常。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/699492274_1404176731515723_828011033526951564_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ap2b9zRE0xsQ7kNvwGZEO1J&_nc_oc=AdoxCUYSrA6an50SV4iDKhv0yerBUpB8LmcutS9oQDniAQVW4JGgYY9ADC9K__AFpKA&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Ijq5ByNoyN2YrzDxl5k-1A&_nc_ss=7e120&oh=00_Af9zcWD9BnkBT6UM9G1KLaQ3ZAWHEf_o37nQEb1qPPh_YQ&oe=6A2C445D)
+![《原子習慣》書中描述知名舞蹈家Twyla Tharp每天早上的日常。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/699492274_1404176731515723_828011033526951564_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ap2b9zRE0xsQ7kNvwEv22aJ&_nc_oc=AdpT6Xo20j_r4hSqtgkcgBLMSkHkYVoxze8Zj5BXNwA6c0WBh7HKm9hirEevfOrw8EU&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=pKqggjraQSNJKlNVkZA2FQ&_nc_ss=7e120&oh=00_Af87ulfJSNo2O2DAZSzTaXwcWSzxTeIyHFgPJVWP_JvUUA&oe=6A2C445D)
 《原子習慣》書中描述知名舞蹈家Twyla Tharp每天早上的日常。
 
 她早起，換裝完成後，離開住家，招一台計程車。跟司機說:”去某某健身房”。她就會在那個健身房完成一天開頭的兩小時運動。

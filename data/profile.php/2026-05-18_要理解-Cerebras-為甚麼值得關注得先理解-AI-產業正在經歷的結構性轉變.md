@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0NaEhV8ghpdoWzXGAtU7C2Tjz94ybpZu81EoiHTZKarrKGUhJN23VBY2eMjfDD4LEl&id=61573146584049"
 creation_time_utc: "2026-05-18T00:36:50+00:00"
-fetched_at_utc: "2026-06-08T07:01:42.458119+00:00"
+fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/700083682_122183085092771552_2322391118538902381_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=CF6H_zU0KfQQ7kNvwFWxH43&_nc_oc=Adrvx8-ks7ibSTODTMFNRAkyMESRIprHL3RnHV49eJQRz5xtVRA9gN6U3RO9_7y0twk&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=bADGq5nGnBwmRqfhB2UkTw&_nc_ss=7e120&oh=00_Af-7KXyzpjYLEGbnpecJZBgffJrCIVx7mKv5ZPwYEFU4YQ&oe=6A2C253E"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/700083682_122183085092771552_2322391118538902381_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=CF6H_zU0KfQQ7kNvwHV5di_&_nc_oc=AdrgIbJVYbowzrNgdWdcXiR8CnkJs5DSKIryg7pC93sVb56VeV8_khO7QVZLWqmyrww&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=GrlUhqOK6on7mqNUGL89Zw&_nc_ss=7e120&oh=00_Af8QUEo1Rz6Q1uJbps12MkLEYwwzZ18Xgl3vI869DE_f6A&oe=6A2C253E"
 feedback_id: "ZmVlZGJhY2s6MTIyMTgzMDg1MTE2NzcxNTUy"
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0NaEhV8ghpdoWzXGAtU7C2Tjz94ybpZu81EoiHTZKarrKGUhJN23VBY2eMjfDD4LEl&id=61573146584049
 
-![要理解 Cerebras 為甚麼值得關注，得先理解 AI 產業正在經歷的結構性轉變。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/700083682_122183085092771552_2322391118538902381_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=CF6H_zU0KfQQ7kNvwFWxH43&_nc_oc=Adrvx8-ks7ibSTODTMFNRAkyMESRIprHL3RnHV49eJQRz5xtVRA9gN6U3RO9_7y0twk&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=bADGq5nGnBwmRqfhB2UkTw&_nc_ss=7e120&oh=00_Af-7KXyzpjYLEGbnpecJZBgffJrCIVx7mKv5ZPwYEFU4YQ&oe=6A2C253E)
+![要理解 Cerebras 為甚麼值得關注，得先理解 AI 產業正在經歷的結構性轉變。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/700083682_122183085092771552_2322391118538902381_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=CF6H_zU0KfQQ7kNvwHV5di_&_nc_oc=AdrgIbJVYbowzrNgdWdcXiR8CnkJs5DSKIryg7pC93sVb56VeV8_khO7QVZLWqmyrww&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=GrlUhqOK6on7mqNUGL89Zw&_nc_ss=7e120&oh=00_Af8QUEo1Rz6Q1uJbps12MkLEYwwzZ18Xgl3vI869DE_f6A&oe=6A2C253E)
 要理解 Cerebras 為甚麼值得關注，得先理解 AI 產業正在經歷的結構性轉變。
 ​
 過去幾年，市場的焦點全部集中在「AI 訓練」：訓練 GPT 花了多少錢？動用了多少顆 GPU？算了幾個月？這些是科技頭條的常客。但訓練是一次性的建置成本，推論（Inference），才是持續性的營運成本。

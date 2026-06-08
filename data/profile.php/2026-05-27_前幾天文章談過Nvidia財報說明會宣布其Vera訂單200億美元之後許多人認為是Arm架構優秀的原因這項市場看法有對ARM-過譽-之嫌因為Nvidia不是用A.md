@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02EkMm5d7C5u3f3TzuvHt8tFWra13K17JwivZkZSL3me9yMiRHaH4yLxQPzrxqsWY6l&id=100054201473657"
 creation_time_utc: "2026-05-27T16:55:46+00:00"
-fetched_at_utc: "2026-06-08T07:02:48.938731+00:00"
+fetched_at_utc: "2026-06-08T07:33:36.899093+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/708518228_1516364290180272_7491001320366983682_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=QbFmnNemS2YQ7kNvwGYq-vq&_nc_oc=AdpEgdgGUaDU1JV_Wnghku4FOfSRwqz_oxArP7bue6pFqonMefMGlmep_yoiLNOd2b0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=hccpbjIkcPxGISm4iSy2Tw&_nc_ss=7e120&oh=00_Af-rAOvigK1ABrOyOpO4eBwQ7pAOaLJYQrGpwXHBSpq0aQ&oe=6A2C2D06"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/708518228_1516364290180272_7491001320366983682_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=QbFmnNemS2YQ7kNvwG8JM_b&_nc_oc=AdoReRhS2vBZO_I1spPrFCtgBNHqPGP_ImdVIVmKt-qs9NAo_dx1eE_AxpemOI7IFg0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=mRG2wH5pskgAbuJ004sOAA&_nc_ss=7e120&oh=00_Af-LadTQPwPzMkyReshbdBvvCcdxl7C5Zl2B2wyGIAb1Hw&oe=6A2C2D06"
 feedback_id: "ZmVlZGJhY2s6MTUxNjM2NTY2MzUxMzQ2OA=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02EkMm5d7C5u3f3TzuvHt8tFWra13K17JwivZkZSL3me9yMiRHaH4yLxQPzrxqsWY6l&id=100054201473657
 
-![前幾天文章談過，Nvidia財報說明會宣布其Vera訂單200億美元之後許多人認為是Arm架構優秀的原因，這項市場看法有對ARM "過譽" 之嫌，因為Nvidia不是用Arm標準核心如Neoverse，而是自研的Olympus，有可能是自研核心的優秀，以及產能供應優勢，今天這篇轉貼文評測了工程版Vera CPU，證明Nvidia Olympus核心的確相當優秀，是評測者評測過最佳的Arm ISA陣營CPU，作者提到一句話 "NVIDIA Vera 的效能遠勝於我們所見過的 Ampere Computing 或 Google Compute Engine 和 Microsoft Azure 等公有雲供應商的客製化 ARM 解決方案"](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/708518228_1516364290180272_7491001320366983682_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=QbFmnNemS2YQ7kNvwGYq-vq&_nc_oc=AdpEgdgGUaDU1JV_Wnghku4FOfSRwqz_oxArP7bue6pFqonMefMGlmep_yoiLNOd2b0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=hccpbjIkcPxGISm4iSy2Tw&_nc_ss=7e120&oh=00_Af-rAOvigK1ABrOyOpO4eBwQ7pAOaLJYQrGpwXHBSpq0aQ&oe=6A2C2D06)
+![前幾天文章談過，Nvidia財報說明會宣布其Vera訂單200億美元之後許多人認為是Arm架構優秀的原因，這項市場看法有對ARM "過譽" 之嫌，因為Nvidia不是用Arm標準核心如Neoverse，而是自研的Olympus，有可能是自研核心的優秀，以及產能供應優勢，今天這篇轉貼文評測了工程版Vera CPU，證明Nvidia Olympus核心的確相當優秀，是評測者評測過最佳的Arm ISA陣營CPU，作者提到一句話 "NVIDIA Vera 的效能遠勝於我們所見過的 Ampere Computing 或 Google Compute Engine 和 Microsoft Azure 等公有雲供應商的客製化 ARM 解決方案"](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/708518228_1516364290180272_7491001320366983682_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=QbFmnNemS2YQ7kNvwG8JM_b&_nc_oc=AdoReRhS2vBZO_I1spPrFCtgBNHqPGP_ImdVIVmKt-qs9NAo_dx1eE_AxpemOI7IFg0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=mRG2wH5pskgAbuJ004sOAA&_nc_ss=7e120&oh=00_Af-LadTQPwPzMkyReshbdBvvCcdxl7C5Zl2B2wyGIAb1Hw&oe=6A2C2D06)
 前幾天文章談過，Nvidia財報說明會宣布其Vera訂單200億美元之後許多人認為是Arm架構優秀的原因，這項市場看法有對ARM "過譽" 之嫌，因為Nvidia不是用Arm標準核心如Neoverse，而是自研的Olympus，有可能是自研核心的優秀，以及產能供應優勢，今天這篇轉貼文評測了工程版Vera CPU，證明Nvidia Olympus核心的確相當優秀，是評測者評測過最佳的Arm ISA陣營CPU，作者提到一句話 "NVIDIA Vera 的效能遠勝於我們所見過的 Ampere Computing 或 Google Compute Engine 和 Microsoft Azure 等公有雲供應商的客製化 ARM 解決方案"
 
 所以，Vera 200億美元訂單，在產品面，確實不是Arm CPU設計優秀的功勞，而是Vera自研CPU IP的功勞，Arm被市場 "過譽" 了，Vera遠勝其他使用Arm標準CPU核心CPU(包含Nvidia上一代的Grace CPU)

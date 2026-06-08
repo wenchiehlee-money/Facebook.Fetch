@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=61578106860333"
 final_url: "https://www.facebook.com/profile.php?id=61578106860333"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0QR3XsLpHmGLb8CSrfp1yww2HNvAds813k3CPSrbeAzmkk3N3Jr3rVB5gx5AcSseDl&id=61578106860333"
 creation_time_utc: "2026-05-19T00:36:58+00:00"
-fetched_at_utc: "2026-06-08T07:02:11.242654+00:00"
+fetched_at_utc: "2026-06-08T07:33:22.963947+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/700707858_122201032166936895_7719478270377296145_n.jpg?stp=cp6_dst-jpg_s565x565_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=efZesIDxfbYQ7kNvwEYgIbQ&_nc_oc=AdpVd-aoQTBtRZBCsexqQjUJpXflwEfjx2EiETO3pxf4cMakqaY-utVImcYhyPOZ668&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=qmSzV-sJYIS_STXrI4n4qA&_nc_ss=7e120&oh=00_Af_UARlk3AO7FW5I5pEHG7wtzGayJDIXdQghYcva03MjaA&oe=6A2C4ABC"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/700707858_122201032166936895_7719478270377296145_n.jpg?stp=cp6_dst-jpg_s565x565_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=efZesIDxfbYQ7kNvwGrGLqc&_nc_oc=AdomWbh0NoQpBndIuceU5I-60rLSMzKGvk3RxtWbcprnRWkt6vE_aRN6Awru4jdu5G0&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=1bTceewoX4E64l2E4xNcUg&_nc_ss=7e120&oh=00_Af9Jaunol0U7xppX0KPPMEO6jLBaHPMd-gloAwriYOexNA&oe=6A2C4ABC"
 feedback_id: "ZmVlZGJhY2s6MTIyMjAxMDMyMjAyOTM2ODk1"
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0QR3XsLpHmGLb8CSrfp1yww2HNvAds813k3CPSrbeAzmkk3N3Jr3rVB5gx5AcSseDl&id=61578106860333
 
-![摩根士丹利出具報告將2030年ABF供給缺口預估，從15%上修到22%。即使未來幾年全球持續擴產，高階ABF供給成長速度，仍追不上AI GPU、AI ASIC、Networking、Optical與AI Server需求增速。ABF產業開始進入長期供給偏緊週期，高階產品價格、毛利率與產能利用率同步往上。 ￼](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/700707858_122201032166936895_7719478270377296145_n.jpg?stp=cp6_dst-jpg_s565x565_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=efZesIDxfbYQ7kNvwEYgIbQ&_nc_oc=AdpVd-aoQTBtRZBCsexqQjUJpXflwEfjx2EiETO3pxf4cMakqaY-utVImcYhyPOZ668&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=qmSzV-sJYIS_STXrI4n4qA&_nc_ss=7e120&oh=00_Af_UARlk3AO7FW5I5pEHG7wtzGayJDIXdQghYcva03MjaA&oe=6A2C4ABC)
+![摩根士丹利出具報告將2030年ABF供給缺口預估，從15%上修到22%。即使未來幾年全球持續擴產，高階ABF供給成長速度，仍追不上AI GPU、AI ASIC、Networking、Optical與AI Server需求增速。ABF產業開始進入長期供給偏緊週期，高階產品價格、毛利率與產能利用率同步往上。 ￼](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/700707858_122201032166936895_7719478270377296145_n.jpg?stp=cp6_dst-jpg_s565x565_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=efZesIDxfbYQ7kNvwGrGLqc&_nc_oc=AdomWbh0NoQpBndIuceU5I-60rLSMzKGvk3RxtWbcprnRWkt6vE_aRN6Awru4jdu5G0&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=1bTceewoX4E64l2E4xNcUg&_nc_ss=7e120&oh=00_Af9Jaunol0U7xppX0KPPMEO6jLBaHPMd-gloAwriYOexNA&oe=6A2C4ABC)
 摩根士丹利出具報告將2030年ABF供給缺口預估，從15%上修到22%。即使未來幾年全球持續擴產，高階ABF供給成長速度，仍追不上AI GPU、AI ASIC、Networking、Optical與AI Server需求增速。ABF產業開始進入長期供給偏緊週期，高階產品價格、毛利率與產能利用率同步往上。 ￼
 
 MS同步上修AI ASIC需求模型。Google TPU、AWS Trainium、Meta ASIC、中國ASIC需求全部提高，Agentic AI帶動的CPU需求也開始納入模型。報告提到2030年AI GPU、AI ASIC與Networking相關ABF需求占比將接近75%，2015年PC與CPU占比則超過70%。ABF需求結構已經從消費性電子，轉向AI基礎設施。 ￼

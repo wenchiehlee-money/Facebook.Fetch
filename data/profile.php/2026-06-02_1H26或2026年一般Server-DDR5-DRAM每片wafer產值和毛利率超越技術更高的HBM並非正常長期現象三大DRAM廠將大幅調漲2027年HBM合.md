@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0Fa5tGeTy48DBajGrwNWhi4aov1X14MtKcCFjp7HKG9pYqzj37KDPYi3oU4TUqHznl&id=100054201473657"
 creation_time_utc: "2026-06-02T10:03:16+00:00"
-fetched_at_utc: "2026-06-08T07:02:48.938731+00:00"
+fetched_at_utc: "2026-06-08T07:33:36.899093+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/712864600_1521354709681230_5968647291137076173_n.jpg?stp=cp6_dst-jpg_p180x540_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Ul2dzQLwogYQ7kNvwEW0paM&_nc_oc=AdqJrzioVB-Qxz_Swj6LjE_BqQbNNtbHkuFTmioEZgVLP3vAif1jRIAnb-5tA6VfWlQ&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=r1rm5bSIEExO_U5kKiXpkg&_nc_ss=7e120&oh=00_Af-G-j8qsdqeyjxJQ9v5zgpKE1hmeapR40QtQ1FHDCVzgQ&oe=6A2C4F04"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/712864600_1521354709681230_5968647291137076173_n.jpg?stp=cp6_dst-jpg_p180x540_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Ul2dzQLwogYQ7kNvwGD8IOt&_nc_oc=AdrZ1wG0IKvBYvFcwiN6afNGtDg_FI72PtkWC_ZMsntX_l_cNg70OqIW1O7i92AzFtA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=X4zqINcpbz4zMypMOogA8w&_nc_ss=7e120&oh=00_Af_C3lnRD8yueXm5raOrPSSYpQpSXk4FJzRB4RhlUCUWXA&oe=6A2C4F04"
 feedback_id: "ZmVlZGJhY2s6MTUyMTM1NDczMzAxNDU2MQ=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0Fa5tGeTy48DBajGrwNWhi4aov1X14MtKcCFjp7HKG9pYqzj37KDPYi3oU4TUqHznl&id=100054201473657
 
-![1H26或2026年一般Server DDR5 DRAM每片wafer產值和毛利率超越技術更高的HBM，並非正常、長期現象，三大DRAM廠將大幅調漲2027年HBM合約價格，將"倍數"上漲](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/712864600_1521354709681230_5968647291137076173_n.jpg?stp=cp6_dst-jpg_p180x540_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Ul2dzQLwogYQ7kNvwEW0paM&_nc_oc=AdqJrzioVB-Qxz_Swj6LjE_BqQbNNtbHkuFTmioEZgVLP3vAif1jRIAnb-5tA6VfWlQ&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=r1rm5bSIEExO_U5kKiXpkg&_nc_ss=7e120&oh=00_Af-G-j8qsdqeyjxJQ9v5zgpKE1hmeapR40QtQ1FHDCVzgQ&oe=6A2C4F04)
+![1H26或2026年一般Server DDR5 DRAM每片wafer產值和毛利率超越技術更高的HBM，並非正常、長期現象，三大DRAM廠將大幅調漲2027年HBM合約價格，將"倍數"上漲](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/712864600_1521354709681230_5968647291137076173_n.jpg?stp=cp6_dst-jpg_p180x540_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Ul2dzQLwogYQ7kNvwGD8IOt&_nc_oc=AdrZ1wG0IKvBYvFcwiN6afNGtDg_FI72PtkWC_ZMsntX_l_cNg70OqIW1O7i92AzFtA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=X4zqINcpbz4zMypMOogA8w&_nc_ss=7e120&oh=00_Af_C3lnRD8yueXm5raOrPSSYpQpSXk4FJzRB4RhlUCUWXA&oe=6A2C4F04)
 1H26或2026年一般Server DDR5 DRAM每片wafer產值和毛利率超越技術更高的HBM，並非正常、長期現象，三大DRAM廠將大幅調漲2027年HBM合約價格，將"倍數"上漲
 
 ----------"TrendForce：DRAM持續供不應求使供應商握HBM定價主導權，預估2027年HBM合約價將倍數上漲

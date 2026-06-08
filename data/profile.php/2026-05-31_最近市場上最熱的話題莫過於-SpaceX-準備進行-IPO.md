@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02bmMwwoTaYhNiSY2QMXJem4DZhvFLFhAtYrquUx49RxQELHAjyyJBZ3hZ3gT1qknBl&id=61573146584049"
 creation_time_utc: "2026-05-31T12:29:22+00:00"
-fetched_at_utc: "2026-06-08T07:01:42.458119+00:00"
+fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/713725411_122184635876771552_6320506768968506761_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Qia15uzMQ4MQ7kNvwGOKZ_C&_nc_oc=Ado9XzLnHLLGRcR1qGJtnjsi2reybEaGk88IGyU6pNTyZLMLdQORzMnPOlTuokFMu8A&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=ieHizrpKB0Ult457ZeHhpw&_nc_ss=7e120&oh=00_Af_rMUZPuCqzJX4QcBKtaPzmkpR7QZhpALVK_XYOkBEqHg&oe=6A2C4A15"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/713725411_122184635876771552_6320506768968506761_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Qia15uzMQ4MQ7kNvwE-zsXR&_nc_oc=AdoLyTvfLRe9qLa9HaSzyeH7jEFGQEyMvs-EMZHMPzFltZWOQ8zB9SH_IKUX0YJYztY&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=6BNXoaulJwB8FYmTtM9iHA&_nc_ss=7e120&oh=00_Af-1MXcXckBYfZC9DKVsZPK2f63eueFROJzhHUc1NFEu4A&oe=6A2C4A15"
 feedback_id: "ZmVlZGJhY2s6MTIyMTg0NjM1OTEyNzcxNTUy"
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02bmMwwoTaYhNiSY2QMXJem4DZhvFLFhAtYrquUx49RxQELHAjyyJBZ3hZ3gT1qknBl&id=61573146584049
 
-![最近市場上最熱的話題，莫過於 SpaceX 準備進行 IPO。](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/713725411_122184635876771552_6320506768968506761_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Qia15uzMQ4MQ7kNvwGOKZ_C&_nc_oc=Ado9XzLnHLLGRcR1qGJtnjsi2reybEaGk88IGyU6pNTyZLMLdQORzMnPOlTuokFMu8A&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=ieHizrpKB0Ult457ZeHhpw&_nc_ss=7e120&oh=00_Af_rMUZPuCqzJX4QcBKtaPzmkpR7QZhpALVK_XYOkBEqHg&oe=6A2C4A15)
+![最近市場上最熱的話題，莫過於 SpaceX 準備進行 IPO。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/713725411_122184635876771552_6320506768968506761_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Qia15uzMQ4MQ7kNvwE-zsXR&_nc_oc=AdoLyTvfLRe9qLa9HaSzyeH7jEFGQEyMvs-EMZHMPzFltZWOQ8zB9SH_IKUX0YJYztY&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=6BNXoaulJwB8FYmTtM9iHA&_nc_ss=7e120&oh=00_Af-1MXcXckBYfZC9DKVsZPK2f63eueFROJzhHUc1NFEu4A&oe=6A2C4A15)
 最近市場上最熱的話題，莫過於 SpaceX 準備進行 IPO。
 ​
 但更讓人興奮的是隨之而來的猜測：Tesla 和 SpaceX 會不會合併？

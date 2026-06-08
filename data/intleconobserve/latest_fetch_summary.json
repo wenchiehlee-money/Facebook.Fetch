@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-06-08T07:02:59.557998+00:00",
+  "fetched_at_utc": "2026-06-08T07:33:48.947493+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,18 +9,22 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 0,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "checked_post_count": 1,
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1522246132593343"
+  ],
+  "new_markdown_files": [
+    "data/intleconobserve/2026-06-05_星期一可以看韓股熔斷2到3次了.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/intleconobserve",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 12 篇貼文。",
+    "本次已成功用公開 GraphQL 擷取到 15 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 12 篇貼文。"
+    "已依中文至少 80 字規則排除 14 篇貼文。"
   ]
 }

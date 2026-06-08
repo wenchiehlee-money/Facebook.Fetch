@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
 post_url: "https://www.facebook.com/FinGuider/posts/pfbid049qMWS7XajYTH8iDjPPXxJKgcs8Rz4E19VPp6DrfrnwS4pQ9TdMg9HtMYcUTujjdl"
 creation_time_utc: "2026-06-01T09:16:00+00:00"
-fetched_at_utc: "2026-06-08T06:59:00.549107+00:00"
+fetched_at_utc: "2026-06-08T07:24:00.578955+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/710755666_1462593569244119_5220643284233763750_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Znia3VzkKtAQ7kNvwEITh-a&_nc_oc=AdpjQirKed0PXS4625SIvFL_c7bACWxTAAOKQjbQhFPtO9jKbN7Fn0EnIcZb7BK5W4w&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=ZnPbpr9eIXnK2RHrspv6vg&_nc_ss=7e120&oh=00_Af8PCUyNzmRdzWqx481ACuY0QiStBaYGwFQFPya-LpRONg&oe=6A2C1F4C"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/710755666_1462593569244119_5220643284233763750_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Znia3VzkKtAQ7kNvwGqOOW3&_nc_oc=AdqbY7fh9PuIkkiu_k7ZRFMvAqB2WN_1Puzw4E3GmW9VqDv1EKGTb-7rKuZyn2Zp0-s&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=k3vOornbuuslVz8cHKYnvA&_nc_ss=7e120&oh=00_Af-ze67ycFZ0jUEHGjgTW1u3i603cznkM3nmLkGwnjRuwQ&oe=6A2C578C"
 feedback_id: "ZmVlZGJhY2s6MTQ2MjU5NDE3NTkxMDcyNQ=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/FinGuider/posts/pfbid049qMWS7XajYTH8iDjPPXxJKgcs8Rz4E19VPp6DrfrnwS4pQ9TdMg9HtMYcUTujjdl
 
-![🔍2026 年初軟體股遭遇「SaaSpocalypse」（軟體末日）式重挫，主要是因為市場擔憂 AI（如 OpenAI、Anthropic）會顛覆傳統 SaaS 及企業軟體模式，導致軟體行業 ETF #IGV 從高點大跌逾 -40%。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/710755666_1462593569244119_5220643284233763750_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Znia3VzkKtAQ7kNvwEITh-a&_nc_oc=AdpjQirKed0PXS4625SIvFL_c7bACWxTAAOKQjbQhFPtO9jKbN7Fn0EnIcZb7BK5W4w&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=ZnPbpr9eIXnK2RHrspv6vg&_nc_ss=7e120&oh=00_Af8PCUyNzmRdzWqx481ACuY0QiStBaYGwFQFPya-LpRONg&oe=6A2C1F4C)
+![🔍2026 年初軟體股遭遇「SaaSpocalypse」（軟體末日）式重挫，主要是因為市場擔憂 AI（如 OpenAI、Anthropic）會顛覆傳統 SaaS 及企業軟體模式，導致軟體行業 ETF #IGV 從高點大跌逾 -40%。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/710755666_1462593569244119_5220643284233763750_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Znia3VzkKtAQ7kNvwGqOOW3&_nc_oc=AdqbY7fh9PuIkkiu_k7ZRFMvAqB2WN_1Puzw4E3GmW9VqDv1EKGTb-7rKuZyn2Zp0-s&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=k3vOornbuuslVz8cHKYnvA&_nc_ss=7e120&oh=00_Af-ze67ycFZ0jUEHGjgTW1u3i603cznkM3nmLkGwnjRuwQ&oe=6A2C578C)
 🔍2026 年初軟體股遭遇「SaaSpocalypse」（軟體末日）式重挫，主要是因為市場擔憂 AI（如 OpenAI、Anthropic）會顛覆傳統 SaaS 及企業軟體模式，導致軟體行業 ETF #IGV 從高點大跌逾 -40%。
 ​
 最直接的衝擊是定價模式的根本轉變，從 Per-Seat 轉向 Usage-Based，客戶預算更不可預測，再加上企業嘗試透過 AI 自建功能，導致 SaaS 支出壓縮。

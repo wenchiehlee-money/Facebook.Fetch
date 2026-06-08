@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02Jqfwv29TRxs44EmXorXqLvNPeWAbAH3voLg9m9f2CrMq828fSczcTz6NSNDyg6WXl&id=61573146584049"
 creation_time_utc: "2026-05-19T12:47:12+00:00"
-fetched_at_utc: "2026-06-08T07:01:42.458119+00:00"
+fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/701705411_122183281388771552_7289721811932828236_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=a4a9YwHguLEQ7kNvwHAcqIE&_nc_oc=AdrxUrOqlD0xzYGBclwxZL9NpXNNTa7GM3D4ACFkUbQ8Tiztfvhq-wVP9d6Qq-OcKqw&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=bADGq5nGnBwmRqfhB2UkTw&_nc_ss=7e120&oh=00_Af_9QxT4At8BnDA3caSTmYSv_Xr3oBNJHuoLZkBDfDnqxQ&oe=6A2C2580"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/701705411_122183281388771552_7289721811932828236_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=a4a9YwHguLEQ7kNvwHMklEd&_nc_oc=AdqBYP1Foaj3hyz7DtdPq5C30YgH8N30MEUWUgUgVBqD5Ax5K8ajQjX7_mM8SLYIvbo&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=GrlUhqOK6on7mqNUGL89Zw&_nc_ss=7e120&oh=00_Af95MP0TIX3D9_2ieMRPFFKxatJ70gklvn_1JkojYXCKQg&oe=6A2C2580"
 feedback_id: "ZmVlZGJhY2s6MTIyMTgzMjgxNDEyNzcxNTUy"
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02Jqfwv29TRxs44EmXorXqLvNPeWAbAH3voLg9m9f2CrMq828fSczcTz6NSNDyg6WXl&id=61573146584049
 
-![最近，Situational Awareness 這隻對沖基金成為華爾街的熱議焦點。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/701705411_122183281388771552_7289721811932828236_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=a4a9YwHguLEQ7kNvwHAcqIE&_nc_oc=AdrxUrOqlD0xzYGBclwxZL9NpXNNTa7GM3D4ACFkUbQ8Tiztfvhq-wVP9d6Qq-OcKqw&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=bADGq5nGnBwmRqfhB2UkTw&_nc_ss=7e120&oh=00_Af_9QxT4At8BnDA3caSTmYSv_Xr3oBNJHuoLZkBDfDnqxQ&oe=6A2C2580)
+![最近，Situational Awareness 這隻對沖基金成為華爾街的熱議焦點。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/701705411_122183281388771552_7289721811932828236_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=a4a9YwHguLEQ7kNvwHMklEd&_nc_oc=AdqBYP1Foaj3hyz7DtdPq5C30YgH8N30MEUWUgUgVBqD5Ax5K8ajQjX7_mM8SLYIvbo&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=GrlUhqOK6on7mqNUGL89Zw&_nc_ss=7e120&oh=00_Af95MP0TIX3D9_2ieMRPFFKxatJ70gklvn_1JkojYXCKQg&oe=6A2C2580)
 最近，Situational Awareness 這隻對沖基金成為華爾街的熱議焦點。
 ​
 Leopold Aschenbrenner，這位年僅 20 多歲、前 OpenAI 核心成員，帶著他的基金在短短一個季度內將資產規模從 55 億美金狂飆到 136.8 億美金。

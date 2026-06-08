@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02EQNdTmdY2m5jtfeGFcrmNLn8UopXn631z18BP8rrS8Lc1vbo9rcx43AJvgxFUXj3l&id=61573146584049"
 creation_time_utc: "2026-05-17T03:05:35+00:00"
-fetched_at_utc: "2026-06-08T07:01:42.458119+00:00"
+fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/700461555_122182984082771552_2358563815354870017_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=42urgZ37iMAQ7kNvwEG1_W-&_nc_oc=AdpORZY5JsvksSQAjpFWOTS5QTAfAqqVq8Lz1wBi-fjGKC1pVVhYuQrcmQBPWKqC3Fs&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=UHx722WKTA2NCap4Z6tbhg&_nc_ss=7e120&oh=00_Af8Be6AO6FNKV3oI7eIETXKHKwl9zDKn8SNZ8mO8ry-gow&oe=6A2C4E31"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/700461555_122182984082771552_2358563815354870017_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=42urgZ37iMAQ7kNvwH_RUCc&_nc_oc=Adrsz-WwnWPw22_PVk4RNtnCx0dQ4iPn6NCZyKAk6Ofs7B97d11LoiKM_MmXQ1zWWYc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=17gyyOcj6F3FKDmCKEiYOg&_nc_ss=7e120&oh=00_Af-908KfbdtAjjLraHp6HLeSyyLS5vVCti5a2CpszRcXdw&oe=6A2C4E31"
 feedback_id: "ZmVlZGJhY2s6MTIyMTgyOTg0MTEyNzcxNTUy"
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02EQNdTmdY2m5jtfeGFcrmNLn8UopXn631z18BP8rrS8Lc1vbo9rcx43AJvgxFUXj3l&id=61573146584049
 
-![Trump和習近平握手、拍照、吃國宴，Trump說習近平是「偉大的領導人」，習近平邀請Trump明年秋天回訪。波音拿到了兩百架飛機的訂單，一票科技大佬跟著去北京露臉。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/700461555_122182984082771552_2358563815354870017_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=42urgZ37iMAQ7kNvwEG1_W-&_nc_oc=AdpORZY5JsvksSQAjpFWOTS5QTAfAqqVq8Lz1wBi-fjGKC1pVVhYuQrcmQBPWKqC3Fs&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=UHx722WKTA2NCap4Z6tbhg&_nc_ss=7e120&oh=00_Af8Be6AO6FNKV3oI7eIETXKHKwl9zDKn8SNZ8mO8ry-gow&oe=6A2C4E31)
+![Trump和習近平握手、拍照、吃國宴，Trump說習近平是「偉大的領導人」，習近平邀請Trump明年秋天回訪。波音拿到了兩百架飛機的訂單，一票科技大佬跟著去北京露臉。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/700461555_122182984082771552_2358563815354870017_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=42urgZ37iMAQ7kNvwH_RUCc&_nc_oc=Adrsz-WwnWPw22_PVk4RNtnCx0dQ4iPn6NCZyKAk6Ofs7B97d11LoiKM_MmXQ1zWWYc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=17gyyOcj6F3FKDmCKEiYOg&_nc_ss=7e120&oh=00_Af-908KfbdtAjjLraHp6HLeSyyLS5vVCti5a2CpszRcXdw&oe=6A2C4E31)
 Trump和習近平握手、拍照、吃國宴，Trump說習近平是「偉大的領導人」，習近平邀請Trump明年秋天回訪。波音拿到了兩百架飛機的訂單，一票科技大佬跟著去北京露臉。
 ​
 聽起來不錯對吧？

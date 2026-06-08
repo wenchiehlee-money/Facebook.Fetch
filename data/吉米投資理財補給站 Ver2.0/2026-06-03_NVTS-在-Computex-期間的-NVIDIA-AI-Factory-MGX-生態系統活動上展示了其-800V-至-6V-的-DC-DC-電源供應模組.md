@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
 final_url: "https://www.facebook.com/profile.php?id=61565088683715"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0MuU4bBkiFRR92sna5EPj5YMFbojBZpabvJAt8ELNqng7wrpUd6oVGGQ1E3dmmiddl&id=61565088683715"
 creation_time_utc: "2026-06-03T13:21:37+00:00"
-fetched_at_utc: "2026-06-08T07:04:41.132596+00:00"
+fetched_at_utc: "2026-06-08T07:34:20.879581+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/710040019_122217118874502956_1071735238198586914_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PEhstHsaIXsQ7kNvwHWvJLt&_nc_oc=Adr17nhs9r6AmXQVLesfgG9rUXhLCztwOyKOA6mVOzjffvI8SgZieBG49yzGpQHs8Is&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=uHyEK5cFfwmXttF0oJ3QBQ&_nc_ss=7e120&oh=00_Af9rno8J1IVRTDf161yVeX5GraEk2Shvs0-N88I0uEckeg&oe=6A2C5176"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/710040019_122217118874502956_1071735238198586914_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PEhstHsaIXsQ7kNvwEhrvOC&_nc_oc=Adr56Pbw9xo1TDJcjzr8wzBJIVK3aKq1wnd5T8Rb4PY-5cWu5au62fSUKjbZch2IRLM&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=8KkTTXNdjFgNnQPQXddVRA&_nc_ss=7e120&oh=00_Af9gS5oXNdkkYuJRrYQGxjVVvFeME8zSacBRrYPIy5hVoA&oe=6A2C5176"
 feedback_id: "ZmVlZGJhY2s6MTIyMjE3MTE5NzMyNTAyOTU2"
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0MuU4bBkiFRR92sna5EPj5YMFbojBZpabvJAt8ELNqng7wrpUd6oVGGQ1E3dmmiddl&id=61565088683715
 
-![$NVTS 在 Computex 期間的 NVIDIA AI Factory MGX 生態系統活動上，展示了其 800V 至 6V 的 DC-DC 電源供應模組。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/710040019_122217118874502956_1071735238198586914_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PEhstHsaIXsQ7kNvwHWvJLt&_nc_oc=Adr17nhs9r6AmXQVLesfgG9rUXhLCztwOyKOA6mVOzjffvI8SgZieBG49yzGpQHs8Is&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=uHyEK5cFfwmXttF0oJ3QBQ&_nc_ss=7e120&oh=00_Af9rno8J1IVRTDf161yVeX5GraEk2Shvs0-N88I0uEckeg&oe=6A2C5176)
+![$NVTS 在 Computex 期間的 NVIDIA AI Factory MGX 生態系統活動上，展示了其 800V 至 6V 的 DC-DC 電源供應模組。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/710040019_122217118874502956_1071735238198586914_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PEhstHsaIXsQ7kNvwEhrvOC&_nc_oc=Adr56Pbw9xo1TDJcjzr8wzBJIVK3aKq1wnd5T8Rb4PY-5cWu5au62fSUKjbZch2IRLM&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=8KkTTXNdjFgNnQPQXddVRA&_nc_ss=7e120&oh=00_Af9gS5oXNdkkYuJRrYQGxjVVvFeME8zSacBRrYPIy5hVoA&oe=6A2C5176)
 $NVTS 在 Computex 期間的 NVIDIA AI Factory MGX 生態系統活動上，展示了其 800V 至 6V 的 DC-DC 電源供應模組。
 
 該電路板使用了 16 個 GaNFast FET 元件，目標為實現 97.5%的峰值效率、1 MHz 的切換頻率，以及 2100 W/in³的功率密度。

@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/eric.lin77"
 final_url: "https://www.facebook.com/eric.lin77"
 post_url: "https://www.facebook.com/eric.lin77/posts/pfbid0Lwsxk2bRhytSd22mufrJdpVDvB1PkfyiXnwywGawSTq7EWuXdiRzPxn8QumcEFeCl"
 creation_time_utc: "2026-05-28T04:14:27+00:00"
-fetched_at_utc: "2026-06-08T07:06:49.596226+00:00"
+fetched_at_utc: "2026-06-08T07:36:07.624979+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/710755584_27523042660614124_2455283623011515731_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JOFW4D4ITCAQ7kNvwG4tvnn&_nc_oc=Adr5YJAszuucqlvLHtq6Jjlm43oGy3H-cgYOaT-BSs2zdd_HzIEG7-yrw1NBe8f4Fy8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=OsWfeLeDNPgQd7gtEgyJgA&_nc_ss=7e120&oh=00_Af_SIE6K-ZJtSU1UbjSQsZ3RTA-mU1-80Gt3C1H0f0Y1SQ&oe=6A2C3531"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/710755584_27523042660614124_2455283623011515731_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JOFW4D4ITCAQ7kNvwGF9OlW&_nc_oc=Adpj93QjV2ho9FH7Gdc9pAJPwxSxpfOzTPz4mrRxnxj9IYAVpE-u4YeMgL-fcRFBkYc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=dcylE43wjLE7kBFo1vJ9xA&_nc_ss=7e120&oh=00_Af9W8yaVOD41intH1CpuXvhb-Z0Vryqd_Mkb1UXTcvyzJA&oe=6A2C3531"
 feedback_id: "ZmVlZGJhY2s6Mjc1MjMwNzA5MTA2MTEyOTk="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/eric.lin77/posts/pfbid0Lwsxk2bRhytSd22mufrJdpVDvB1PkfyiXnwywGawSTq7EWuXdiRzPxn8QumcEFeCl
 
-![〔輝達自研Olympus核心架構：資料中心壓過x86與標準ARM，下一步跨進消費端〕](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/710755584_27523042660614124_2455283623011515731_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JOFW4D4ITCAQ7kNvwG4tvnn&_nc_oc=Adr5YJAszuucqlvLHtq6Jjlm43oGy3H-cgYOaT-BSs2zdd_HzIEG7-yrw1NBe8f4Fy8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=OsWfeLeDNPgQd7gtEgyJgA&_nc_ss=7e120&oh=00_Af_SIE6K-ZJtSU1UbjSQsZ3RTA-mU1-80Gt3C1H0f0Y1SQ&oe=6A2C3531)
+![〔輝達自研Olympus核心架構：資料中心壓過x86與標準ARM，下一步跨進消費端〕](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/710755584_27523042660614124_2455283623011515731_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JOFW4D4ITCAQ7kNvwGF9OlW&_nc_oc=Adpj93QjV2ho9FH7Gdc9pAJPwxSxpfOzTPz4mrRxnxj9IYAVpE-u4YeMgL-fcRFBkYc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=dcylE43wjLE7kBFo1vJ9xA&_nc_ss=7e120&oh=00_Af9W8yaVOD41intH1CpuXvhb-Z0Vryqd_Mkb1UXTcvyzJA&oe=6A2C3531)
 〔輝達自研Olympus核心架構：資料中心壓過x86與標準ARM，下一步跨進消費端〕
 
 Phoronix拿到工程版的輝達（Nvidia）Vera CPU，跑完一輪基準測試後給的結論很直接：這是它測過效能最強的ARM資料中心處理器，純CPU工作負載贏過超微（AMD）的EPYC Turin、英特爾（Intel）的Xeon Granite Rapids，世代效能的幾何平均提升1.63倍。

@@ -6,7 +6,7 @@ source_page: "\u5de5\u5546\u6642\u5831"
 requested_url: "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL"
 post_url: "https://www.facebook.com/ctee.fans/posts/pfbid037XY6ZAoLMdn2w64gXw789GyCsGrVfnxCv6R8x3GahARC1pRD7MTpwMfcMzT2cU3Vl"
 creation_time_utc: ""
-fetched_at_utc: "2026-06-08T07:06:55.388693+00:00"
+fetched_at_utc: "2026-06-08T07:36:17.102563+00:00"
 source: "saved_list"
 ---
 

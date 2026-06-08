@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
 post_url: "https://www.facebook.com/FinGuider/posts/pfbid0RZ7iTxRwRspFoD1sREZxJKaZ1BDhY7AW8Yb5dsNR6hYqLmjqVmqhs6SqgAuuXfAKl"
 creation_time_utc: "2026-06-03T01:16:59+00:00"
-fetched_at_utc: "2026-06-08T06:59:00.549107+00:00"
+fetched_at_utc: "2026-06-08T07:24:00.578955+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/712085707_1464263645743778_485775723269343653_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eyhiCf3P5DAQ7kNvwEMWj0h&_nc_oc=Ado5V7jMgXCX2WjyRyDuuKo0QBCZezrlpqd3mid2nbPv13lhpsv8SXhLlSlNJsikrdo&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=YghOiIN3gt-RU69Z7viRFA&_nc_ss=7e120&oh=00_Af_EEnjtSQSbiAsXiRpGyx9x1XrefIIk9Qec8mpn7QmBLA&oe=6A2C2C43"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/712085707_1464263645743778_485775723269343653_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eyhiCf3P5DAQ7kNvwF1IvsB&_nc_oc=AdolQb23V2YhZ5A8zWiE3zX2iXCeclsjw6D3AJiB3lwasRn4tjROhtR1ip4IDVyleNY&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=zXKiLl_WWggPjnWCtgJbLA&_nc_ss=7e120&oh=00_Af8weEWR3XzojLubqmey-kmclcklnCN_uWsOA0pR_zWbsQ&oe=6A2C2C43"
 feedback_id: "ZmVlZGJhY2s6MTQ2NDI2MzcyNTc0Mzc3MA=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/FinGuider/posts/pfbid0RZ7iTxRwRspFoD1sREZxJKaZ1BDhY7AW8Yb5dsNR6hYqLmjqVmqhs6SqgAuuXfAKl
 
-![🚀《路透社》報導，#SpaceX（SPCX）計劃透過 IPO 發行 5.556 億股股票，每股定價 135 美元，藉此籌集 750 億，估值達到 1.75 兆美元。](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/712085707_1464263645743778_485775723269343653_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eyhiCf3P5DAQ7kNvwEMWj0h&_nc_oc=Ado5V7jMgXCX2WjyRyDuuKo0QBCZezrlpqd3mid2nbPv13lhpsv8SXhLlSlNJsikrdo&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=YghOiIN3gt-RU69Z7viRFA&_nc_ss=7e120&oh=00_Af_EEnjtSQSbiAsXiRpGyx9x1XrefIIk9Qec8mpn7QmBLA&oe=6A2C2C43)
+![🚀《路透社》報導，#SpaceX（SPCX）計劃透過 IPO 發行 5.556 億股股票，每股定價 135 美元，藉此籌集 750 億，估值達到 1.75 兆美元。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/712085707_1464263645743778_485775723269343653_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eyhiCf3P5DAQ7kNvwF1IvsB&_nc_oc=AdolQb23V2YhZ5A8zWiE3zX2iXCeclsjw6D3AJiB3lwasRn4tjROhtR1ip4IDVyleNY&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=zXKiLl_WWggPjnWCtgJbLA&_nc_ss=7e120&oh=00_Af8weEWR3XzojLubqmey-kmclcklnCN_uWsOA0pR_zWbsQ&oe=6A2C2C43)
 🚀《路透社》報導，#SpaceX（SPCX）計劃透過 IPO 發行 5.556 億股股票，每股定價 135 美元，藉此籌集 750 億，估值達到 1.75 兆美元。
 ​
 《彭博》指出，SpaceX 預計在週三下午提交新版招股書，正式啟動 IPO 定價流程，路演（Roadshow）將於週四展開，通常具體的發行價格要到上市前一天才會確定。
