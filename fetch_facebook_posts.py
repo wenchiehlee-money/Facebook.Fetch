@@ -18,6 +18,10 @@ from urllib import error, parse, request
 
 DEFAULT_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 PUBLIC_TIMELINE_DOC_ID = "36112944778351266"
+
+
+class FacebookAuthError(Exception):
+    pass
 PUBLIC_TIMELINE_QUERY_NAME = "ProfileCometTimelineFeedRefetchQuery"
 JSON_SCRIPT_RE = re.compile(
     r'<script\s+type="application/json"[^>]*>(.*?)</script>',
@@ -376,6 +380,9 @@ def fetch_public_timeline_parts(html_text: str, count: int, cursor: str | None =
             parts.append(json.loads(line))
         except json.JSONDecodeError:
             continue
+    for part in parts:
+        if isinstance(part, dict) and part.get("error") == 1357001:
+            raise FacebookAuthError("Facebook cookie expired (error 1357001 — 請登入以繼續)")
     return parts
 
 
@@ -940,7 +947,11 @@ def main() -> int:
         print(f"Fetch failed: {exc}", file=sys.stderr)
         return 1
 
-    payload = build_output_payload(args.url, result, args.count, months_back=args.months_back, cookie=cookie, fb_dtsg=fb_dtsg)
+    try:
+        payload = build_output_payload(args.url, result, args.count, months_back=args.months_back, cookie=cookie, fb_dtsg=fb_dtsg)
+    except FacebookAuthError as exc:
+        print(f"AUTH_ERROR: {exc}", file=sys.stderr)
+        return 2
     page_title = args.page_name or payload.get("page", {}).get("title") or parse.urlsplit(args.url).path.strip("/") or "Facebook Page"
     posts_dir = data_dir / slugify_text(page_title, limit=120, separator=" ")
     new_markdown_files, new_post_ids, removed_markdown_files = write_post_markdown_files(posts_dir, payload)
