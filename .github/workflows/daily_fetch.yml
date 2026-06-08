@@ -2,6 +2,11 @@ name: Daily Facebook Fetch
 
 on:
   workflow_dispatch:
+    inputs:
+      months_back:
+        description: '回溯月數（0 = 僅抓最新；1 = 抓近 30 天，用於補資料）'
+        required: false
+        default: '0'
   schedule:
     - cron: '10 1 * * *'
 
@@ -38,10 +43,18 @@ jobs:
           while IFS=$'\t' read -r url page_name; do
             [[ "$url" =~ ^#.*$ || -z "$url" ]] && continue
             echo "::group::Fetching $url"
-            if [[ -n "$page_name" ]]; then
-              python3 fetch_facebook_posts.py "$url" --count 20 --cookie "$FB_COOKIE" --fb-dtsg "$FB_DTSG" --page-name "$page_name"
+            months_back_arg="${{ github.event.inputs.months_back || '0' }}"
+            if [ "$months_back_arg" != "0" ]; then
+              count_arg=50
+              extra_args="--months-back $months_back_arg"
             else
-              python3 fetch_facebook_posts.py "$url" --count 20 --cookie "$FB_COOKIE" --fb-dtsg "$FB_DTSG"
+              count_arg=20
+              extra_args=""
+            fi
+            if [[ -n "$page_name" ]]; then
+              python3 fetch_facebook_posts.py "$url" --count $count_arg --cookie "$FB_COOKIE" --fb-dtsg "$FB_DTSG" --page-name "$page_name" $extra_args
+            else
+              python3 fetch_facebook_posts.py "$url" --count $count_arg --cookie "$FB_COOKIE" --fb-dtsg "$FB_DTSG" $extra_args
             fi
             ec=$?
             if [ $ec -eq 2 ]; then
