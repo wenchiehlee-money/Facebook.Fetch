@@ -5,11 +5,11 @@
 <!-- AUTO-GENERATED:POSTS START -->
 ## 自動更新清單
 
-Updated: 2026-06-07 13:47 CST
+Updated: 2026-06-08 14:02 CST
 
 ### [FinGuider 美股資訊網](data/FinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2/index.md) (已收錄: 291) - 6.2 萬位追蹤者
 
-### [Fomo研究院](data/Fomo%E7%A0%94%E7%A9%B6%E9%99%A2/index.md) (已收錄: 329) - 10.6 萬位追蹤者
+### [Fomo研究院](data/Fomo%E7%A0%94%E7%A9%B6%E9%99%A2/index.md) (已收錄: 329) - 10.7 萬位追蹤者
 
 ### [IEObserve 國際經濟觀察](data/IEObserve%20%E5%9C%8B%E9%9A%9B%E7%B6%93%E6%BF%9F%E8%A7%80%E5%AF%9F/index.md) (已收錄: 55) - 31.2 萬位追蹤者
 
@@ -42,6 +42,36 @@ Updated: 2026-06-07 13:47 CST
 ### [行銷資料科學](data/%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8/index.md) (已收錄: 97) - 2.0 萬位追蹤者
 
 <!-- AUTO-GENERATED:POSTS END -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
