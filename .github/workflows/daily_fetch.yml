@@ -20,6 +20,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.REPO_FILE_SYNC_WENCHIEHLEE_INVESTMENT1 }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
