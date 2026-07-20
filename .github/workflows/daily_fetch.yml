@@ -129,5 +129,5 @@ jobs:
       - name: Trigger sync to biztrends.TW
         if: steps.detect.outputs.new_post_count != '0'
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.REPO_FILE_SYNC_WENCHIEHLEE_MONEY1 }}
         run: gh workflow run sync-to-biztrends.yml
