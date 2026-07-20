@@ -28,106 +28,12 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Reset new post counts
-        run: |
-          # Reset new_post_count to 0 in all summary files to avoid false positives from previous commits
-          python3 -c "import json, glob; [json.dump({**json.load(open(f, encoding='utf-8')), 'new_post_count': 0}, open(f, 'w', encoding='utf-8'), ensure_ascii=False, indent=2) for f in glob.glob('data/*/latest_fetch_summary.json')]"
-
-      - name: Fetch saved lists
-        env:
-          FB_COOKIE: ${{ secrets.FB_COOKIE }}
-        run: |
-          # Saved lists require login cookie — fetches first page (10 items) reliably
-          # Pagination is browser-only; daily run catches newly saved items at top of list
-          saved_lists=(
-            "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL"
-          )
-          for url in "${saved_lists[@]}"; do
-            echo "::group::Fetching saved list $url"
-            python3 fetch_saved_list.py "$url" --cookie "$FB_COOKIE" || echo "Warning: Failed to fetch saved list $url"
-            echo "::endgroup::"
-          done
-
-      - name: Run daily fetch
+      - name: Run daily fetch pipeline
         env:
           FB_COOKIE: ${{ secrets.FB_COOKIE }}
           FB_DTSG: ${{ secrets.FB_DTSG }}
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          # Read URLs from data/fetch_urls.txt
-          # Format: URL [TAB page_name]  — page_name is used as folder name override
-          auth_failed=0
-          while IFS=$'\t' read -r url page_name; do
-            [[ "$url" =~ ^#.*$ || -z "$url" ]] && continue
-            echo "::group::Fetching $url"
-            months_back_arg="${{ github.event.inputs.months_back || '0' }}"
-            if [ "$months_back_arg" != "0" ]; then
-              count_arg=50
-              extra_args="--months-back $months_back_arg"
-            else
-              count_arg=20
-              extra_args=""
-            fi
-            if [[ -n "$page_name" ]]; then
-              python3 fetch_facebook_posts.py "$url" --count $count_arg --cookie "$FB_COOKIE" --fb-dtsg "$FB_DTSG" --page-name "$page_name" $extra_args
-            else
-              python3 fetch_facebook_posts.py "$url" --count $count_arg --cookie "$FB_COOKIE" --fb-dtsg "$FB_DTSG" $extra_args
-            fi
-            ec=$?
-            if [ $ec -eq 2 ]; then
-              auth_failed=1
-              echo "::warning::Cookie expired for $url (exit 2)"
-            elif [ $ec -ne 0 ]; then
-              echo "Warning: Failed to fetch $url (exit $ec)"
-            fi
-            echo "::endgroup::"
-          done < data/fetch_urls.txt
-          if [ $auth_failed -eq 1 ]; then
-            existing=$(gh issue list --state open --search "FB_COOKIE expired" --json number --jq '.[0].number' 2>/dev/null || echo "")
-            if [ -z "$existing" ]; then
-              gh issue create \
-                --title "FB_COOKIE expired — daily fetch blocked" \
-                --body "The GitHub secret \`FB_COOKIE\` has expired (Facebook error 1357001: 登入以繼續).\n\nRun \`python tools/update_fb_cookie.py\` locally to refresh the cookie and re-trigger the workflow."
-            fi
-            exit 1
-          fi
-
-      - name: Rebuild README
-        run: python3 scripts/rebuild_readme.py
-
-      - name: Update fetch CSV
-        run: python3 scripts/update_fetch_csv.py
-
-      - name: Detect new posts
-        id: detect
-        run: |
-          # Sum up new_post_count from all summary files
-          total_new=$(python3 -c "import json, glob; print(sum(json.load(open(f, encoding='utf-8')).get('new_post_count', 0) for f in glob.glob('data/*/latest_fetch_summary.json')))")
-          echo "Total new posts: $total_new"
-          echo "new_post_count=$total_new" >> "$GITHUB_OUTPUT"
-
-      - name: Commit and push
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add README.md raw_facebook_fetch.csv
-          # Stage post data only if there are new posts
-          if [ "${{ steps.detect.outputs.new_post_count }}" != "0" ]; then
-            git add data/
-          fi
-          if ! git diff --cached --quiet; then
-            if [ "${{ steps.detect.outputs.new_post_count }}" != "0" ]; then
-              git commit -m "Daily fetch: added $count new posts" -m "Automated fetch from Facebook pages."
-            else
-              git commit -m "chore: refresh facebook fetch metadata"
-            fi
-            git push origin HEAD:main
-          fi
-        env:
-          count: ${{ steps.detect.outputs.new_post_count }}
-
-      - name: Trigger sync to biztrends.TW
-        if: steps.detect.outputs.new_post_count != '0'
-        env:
           GH_TOKEN: ${{ secrets.REPO_FILE_SYNC_WENCHIEHLEE_MONEY1 }}
-        run: gh workflow run sync-to-biztrends.yml
+        run: |
+          python3 scripts/run_daily_fetch.py \
+            --months-back "${{ github.event.inputs.months_back || '0' }}" \
+            --commit --trigger-sync --create-issue
