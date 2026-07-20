@@ -6,18 +6,18 @@
 # entries WITHOUT an explicit page_name will collide into the same
 # "data/profile.php" folder, mixing unrelated pages' posts together.
 # One URL per line, lines starting with # are comments
-https://www.facebook.com/dextermchang	dextermchang
+https://www.facebook.com/dextermchang	大會計師 張明輝
 https://www.facebook.com/yutinghaosfinance	游庭皓的財經皓角
-https://www.facebook.com/MarketingDataScienceTMR	MarketingDataScienceTMR
-https://www.facebook.com/FinGuider	FinGuider
-https://www.facebook.com/GreenHornFans	GreenHornFans
-https://www.facebook.com/stocksardine	stocksardine
-https://www.facebook.com/raikk6	raikk6
+https://www.facebook.com/MarketingDataScienceTMR	行銷資料科學
+https://www.facebook.com/FinGuider	FinGuider 美股資訊網
+https://www.facebook.com/GreenHornFans	綠角財經筆記
+https://www.facebook.com/stocksardine	股魚
+https://www.facebook.com/raikk6	美股探路客
 https://www.facebook.com/profile.php?id=61573146584049	Fomo研究院
-https://www.facebook.com/ForexStrategist	ForexStrategist
+https://www.facebook.com/ForexStrategist	李其展的外匯交易致勝兵法
 https://www.facebook.com/profile.php?id=61578106860333	萬鈞法人視野 WJ Capital Perspective
 https://www.facebook.com/profile.php?id=100054201473657	Richard只談基本面-Richards Research Blog
-https://www.facebook.com/intleconobserve	intleconobserve
+https://www.facebook.com/intleconobserve	IEObserve 國際經濟觀察
 https://www.facebook.com/profile.php?id=61565088683715	吉米投資理財補給站 Ver2.0
 https://www.facebook.com/profile.php?id=61564607679559	美股老司機 3.0
 https://www.facebook.com/eric.lin77	eric.lin77
