@@ -33,7 +33,7 @@ from pathlib import Path
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
 sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
+REPO_ROOT = Path(__file__).resolve().parents[3]
 FETCH_URLS_FILE = REPO_ROOT / "data" / "fetch_urls.txt"
 SAVED_LISTS = [
     "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL",
@@ -186,8 +186,8 @@ def create_expired_cookie_issue() -> None:
             "--title", "FB_COOKIE expired — daily fetch blocked",
             "--body",
             "The GitHub secret `FB_COOKIE` has expired (Facebook error 1357001: "
-            "登入以繼續).\n\nRun `python tools/update_fb_cookie.py` locally to refresh "
-            "the cookie and re-trigger the workflow.",
+            "登入以繼續).\n\nRun `python skills/skill-facebook-fetch/scripts/update_fb_cookie.py` "
+            "locally to refresh the cookie and re-trigger the workflow.",
         ],
         cwd=REPO_ROOT, check=False,
     )

@@ -14,7 +14,7 @@ Primary method — Chrome DevTools MCP (must be run from Claude Code):
     3. mcp__chrome-devtools__get_network_request(reqid=<doc>)
        →  read "cookie" from Request Headers
        →  read fb_dtsg from a POST request URL param (fb_dtsg=...) or body
-    4. python tools/update_fb_cookie.py --cookie "..." --fb-dtsg "..."
+    4. python skills/skill-facebook-fetch/scripts/update_fb_cookie.py --cookie "..." --fb-dtsg "..."
 
 Fallback — Cookie-Editor Chrome extension JSON export (manual):
   If MCP is unavailable, export cookies manually and place the JSON file in
@@ -22,10 +22,10 @@ Fallback — Cookie-Editor Chrome extension JSON export (manual):
 
 Usage:
   # MCP-assisted (Claude Code provides cookie via --cookie flag):
-  python tools/update_fb_cookie.py --cookie "<raw cookie string>" [--fb-dtsg "<token>"]
+  python skills/skill-facebook-fetch/scripts/update_fb_cookie.py --cookie "<raw cookie string>" [--fb-dtsg "<token>"]
 
   # Manual fallback (Cookie-Editor JSON in Downloads):
-  python tools/update_fb_cookie.py
+  python skills/skill-facebook-fetch/scripts/update_fb_cookie.py
 """
 
 from __future__ import annotations
@@ -54,7 +54,7 @@ MCP_INSTRUCTIONS = """
   此腳本需透過 Claude Code + Chrome DevTools MCP 取得 cookie。
 
   請在 Claude Code 對話中輸入：
-      python tools/update_fb_cookie.py
+      python skills/skill-facebook-fetch/scripts/update_fb_cookie.py
 
   Claude 會自動執行以下流程：
     1. 導航至 https://www.facebook.com（若未登入請先登入）

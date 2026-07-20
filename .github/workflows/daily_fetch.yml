@@ -34,6 +34,6 @@ jobs:
           FB_DTSG: ${{ secrets.FB_DTSG }}
           GH_TOKEN: ${{ secrets.REPO_FILE_SYNC_WENCHIEHLEE_MONEY1 }}
         run: |
-          python3 scripts/run_daily_fetch.py \
+          python3 skills/skill-facebook-fetch/scripts/run_daily_fetch.py \
             --months-back "${{ github.event.inputs.months_back || '0' }}" \
             --commit --trigger-sync --create-issue
