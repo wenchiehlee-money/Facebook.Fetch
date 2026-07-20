@@ -33,6 +33,21 @@ jobs:
           # Reset new_post_count to 0 in all summary files to avoid false positives from previous commits
           python3 -c "import json, glob; [json.dump({**json.load(open(f, encoding='utf-8')), 'new_post_count': 0}, open(f, 'w', encoding='utf-8'), ensure_ascii=False, indent=2) for f in glob.glob('data/*/latest_fetch_summary.json')]"
 
+      - name: Fetch saved lists
+        env:
+          FB_COOKIE: ${{ secrets.FB_COOKIE }}
+        run: |
+          # Saved lists require login cookie — fetches first page (10 items) reliably
+          # Pagination is browser-only; daily run catches newly saved items at top of list
+          saved_lists=(
+            "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL"
+          )
+          for url in "${saved_lists[@]}"; do
+            echo "::group::Fetching saved list $url"
+            python3 fetch_saved_list.py "$url" --cookie "$FB_COOKIE" || echo "Warning: Failed to fetch saved list $url"
+            echo "::endgroup::"
+          done
+
       - name: Run daily fetch
         env:
           FB_COOKIE: ${{ secrets.FB_COOKIE }}
@@ -76,21 +91,6 @@ jobs:
             fi
             exit 1
           fi
-
-      - name: Fetch saved lists
-        env:
-          FB_COOKIE: ${{ secrets.FB_COOKIE }}
-        run: |
-          # Saved lists require login cookie — fetches first page (10 items) reliably
-          # Pagination is browser-only; daily run catches newly saved items at top of list
-          saved_lists=(
-            "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL"
-          )
-          for url in "${saved_lists[@]}"; do
-            echo "::group::Fetching saved list $url"
-            python3 fetch_saved_list.py "$url" --cookie "$FB_COOKIE" || echo "Warning: Failed to fetch saved list $url"
-            echo "::endgroup::"
-          done
 
       - name: Rebuild README
         run: python3 scripts/rebuild_readme.py
