@@ -4,22 +4,22 @@ title: "本文計算從2008年七月初到2025年底，對Vanguard全球股市ET
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid08BYWi9FEHo7tMmvokKeh9dce1ncCqoJwngRYCBSTJRpWoDzG8BrNAxY8rnH4aXtbl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid07sz6SgZ9qhmqyCSwpbaRfPyAPhmug4S4UP3yZwqYYG7qeNSY9W9jF7dB1WTDvcPvl"
 creation_time_utc: "2026-05-06T23:28:09+00:00"
-fetched_at_utc: "2026-06-08T07:24:30.891930+00:00"
+fetched_at_utc: "2026-07-20T12:52:21.689884+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/689911820_1395670222366374_1392478448124708089_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iAs0LX5F0ycQ7kNvwHcUK7m&_nc_oc=Adp9E2c764D1bzct9TWVfljMtgKr9_0bDyuUGJCfKafpOP9GVRRTE3Qy9VZpFl8waqo&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=b3ZETz3l5h9noX1MC8Chyg&_nc_ss=7e120&oh=00_Af8Q6V5pslX66QhkM5YtI50AbPVQSzLTRb0zHlhKlnGIMA&oe=6A2C4EC9"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/689911820_1395670222366374_1392478448124708089_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=U7Ss7R5vew0Q7kNvwEh4AF9&_nc_oc=AdrilK67qoNDuI2i2C4WDi3TfI7BnJ_XRg3UqAoA51YQHOT_vrty7AwVY00qV92J2fM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=_b7omwSwBUEcK8H9b0NBhw&_nc_ss=7e120&oh=00_AQDqe_Kz7vLPcMcZPj2ihFk_XfOCFNKXyD2OD3iP_jv_Vg&oe=6A63E609"
 feedback_id: "ZmVlZGJhY2s6MTM5NTk3OTE1OTAwMjE0Nw=="
 page_canonical_url: ""
 ---
 
 # 本文計算從2008年七月初到2025年底，對Vanguard全球股市ETF，Vanguard Total World Stock ETF (美股代號VT)，定期投資的成果。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid08BYWi9FEHo7tMmvokKeh9dce1ncCqoJwngRYCBSTJRpWoDzG8BrNAxY8rnH4aXtbl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid07sz6SgZ9qhmqyCSwpbaRfPyAPhmug4S4UP3yZwqYYG7qeNSY9W9jF7dB1WTDvcPvl
 
-![本文計算從2008年七月初到2025年底，對Vanguard全球股市ETF，Vanguard Total World Stock ETF (美股代號VT)，定期投資的成果。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/689911820_1395670222366374_1392478448124708089_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iAs0LX5F0ycQ7kNvwHcUK7m&_nc_oc=Adp9E2c764D1bzct9TWVfljMtgKr9_0bDyuUGJCfKafpOP9GVRRTE3Qy9VZpFl8waqo&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=b3ZETz3l5h9noX1MC8Chyg&_nc_ss=7e120&oh=00_Af8Q6V5pslX66QhkM5YtI50AbPVQSzLTRb0zHlhKlnGIMA&oe=6A2C4EC9)
+![本文計算從2008年七月初到2025年底，對Vanguard全球股市ETF，Vanguard Total World Stock ETF (美股代號VT)，定期投資的成果。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/689911820_1395670222366374_1392478448124708089_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=U7Ss7R5vew0Q7kNvwEh4AF9&_nc_oc=AdrilK67qoNDuI2i2C4WDi3TfI7BnJ_XRg3UqAoA51YQHOT_vrty7AwVY00qV92J2fM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=_b7omwSwBUEcK8H9b0NBhw&_nc_ss=7e120&oh=00_AQDqe_Kz7vLPcMcZPj2ihFk_XfOCFNKXyD2OD3iP_jv_Vg&oe=6A63E609)
 本文計算從2008年七月初到2025年底，對Vanguard全球股市ETF，Vanguard Total World Stock ETF (美股代號VT)，定期投資的成果。
 
 (從2008七月開始計算，因為VT在2008年六月成立)

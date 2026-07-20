@@ -4,22 +4,22 @@ title: "⚡Jane Street 計劃自行籌資並興建資料中心，以滿足日益
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid027GaNadJNbnaVpmUyQ1DHDSHRsPFcKhgMSEsn8MUMoYJLiw5EZo2vaZEfmLXGDBXCl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid03RNmPzywJQF9WdYrNYpYYWpK4nE7uwvyPpMQk9h36GDLxMbfcSuAYkAaqTweoKExl"
 creation_time_utc: "2026-06-05T02:37:15+00:00"
-fetched_at_utc: "2026-06-08T07:24:00.578955+00:00"
+fetched_at_utc: "2026-07-20T12:47:38.432258+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/714855677_1466274098876066_2499976090421421303_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TWP_NSNBQd8Q7kNvwELfhxZ&_nc_oc=AdqAHDyyhgr__tjESM8ul72pckgEZ9DvE8c7HRKUu-kAlgRjO95kGBRbqGekv5ZLQ9o&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Be7XihVWGLhuknH7db7Htw&_nc_ss=7e120&oh=00_Af-L_cNXgzkeQ1HfbAUk0dTS8lK9_q-TX44Oz2_bPcUVnw&oe=6A2C3AE6"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/714855677_1466274098876066_2499976090421421303_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zNipGjHpB6IQ7kNvwGc3jyN&_nc_oc=AdqsAzDgBO-fMKdygexeVTxTO3LDwvsUdicQVnQQlww17_gg_h-u1rur1du8pnS3tBk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=EGBUdXbUzy2YdtyC9GYkcg&_nc_ss=7e120&oh=00_AQB3kKhpu0_5YURfWz6gCgiV_b3ylKifI-GlpSjl_BZpbQ&oe=6A63D226"
 feedback_id: "ZmVlZGJhY2s6MTQ2NjI3NDI5ODg3NjA0Ng=="
 page_canonical_url: ""
 ---
 
 # ⚡Jane Street 計劃自行籌資並興建資料中心，以滿足日益增長的運算需求。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid027GaNadJNbnaVpmUyQ1DHDSHRsPFcKhgMSEsn8MUMoYJLiw5EZo2vaZEfmLXGDBXCl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid03RNmPzywJQF9WdYrNYpYYWpK4nE7uwvyPpMQk9h36GDLxMbfcSuAYkAaqTweoKExl
 
-![⚡Jane Street 計劃自行籌資並興建資料中心，以滿足日益增長的運算需求。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/714855677_1466274098876066_2499976090421421303_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TWP_NSNBQd8Q7kNvwELfhxZ&_nc_oc=AdqAHDyyhgr__tjESM8ul72pckgEZ9DvE8c7HRKUu-kAlgRjO95kGBRbqGekv5ZLQ9o&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Be7XihVWGLhuknH7db7Htw&_nc_ss=7e120&oh=00_Af-L_cNXgzkeQ1HfbAUk0dTS8lK9_q-TX44Oz2_bPcUVnw&oe=6A2C3AE6)
+![⚡Jane Street 計劃自行籌資並興建資料中心，以滿足日益增長的運算需求。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/714855677_1466274098876066_2499976090421421303_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zNipGjHpB6IQ7kNvwGc3jyN&_nc_oc=AdqsAzDgBO-fMKdygexeVTxTO3LDwvsUdicQVnQQlww17_gg_h-u1rur1du8pnS3tBk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=EGBUdXbUzy2YdtyC9GYkcg&_nc_ss=7e120&oh=00_AQB3kKhpu0_5YURfWz6gCgiV_b3ylKifI-GlpSjl_BZpbQ&oe=6A63D226)
 ⚡Jane Street 計劃自行籌資並興建資料中心，以滿足日益增長的運算需求。
 ​
 《彭博》報導，Jane Street 已跟科技、加密貨幣、金融業的公司洽談過這項計劃，不過判仍處於早期階段，據傳將爭取 100～200 兆瓦的算力，不過確切容量與地點尚未確定。

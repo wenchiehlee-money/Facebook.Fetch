@@ -4,22 +4,22 @@ title: "今天 AI 圈最熱的話題，莫過於 OpenAI 終於丟出的 ChatGPT 
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02dgRpFv2NhPp3Hs7NCiQYxJXhZXiYWsfUj8KxtmKqans2xnjNKN8ZfwpJQLoCdXy6l&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02drpvZ6uW4wGp99NYapsCmDQ4jaYmqmvCsntz9C9qacUQqMdf4YyVSeswHbN3XfCRl&id=61573146584049"
 creation_time_utc: "2026-04-22T10:45:18+00:00"
-fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
+fetched_at_utc: "2026-07-20T12:57:19.783956+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/676819528_122180132900771552_5985380190048266102_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zSJg96yWwHYQ7kNvwHurQ91&_nc_oc=Adqinaoz3KI9lyt3yUfK3mLNM672uffEOitRTZ5VHXoRxxaduJcO3JTYTZQYZI7XaiI&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=M0fV6FCGjALQpeDTmJMQ9g&_nc_ss=7e120&oh=00_Af8TKkh2eEoDaHgmL2zuyfCxq_PkIKNtACMoG8aUpUk4sw&oe=6A2C2689"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/676819528_122180132900771552_5985380190048266102_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=YVdTncDbt4QQ7kNvwGSPQqJ&_nc_oc=AdpDD9TdAcI6FpQjwJ4UK5DwB36CLtVOgJbl0en3OMLkO8XHBvC8HZLxcVhTyvt6_fc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=IUzpTjJRvU7TfM34oiL4Xw&_nc_ss=7e120&oh=00_AQAcOtnegEA_j-XQpYBe8JMf0-O4yfkuoJF-GfDBS_jJrw&oe=6A63F609"
 feedback_id: "ZmVlZGJhY2s6MTIyMTgwMTMyOTI0NzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 今天 AI 圈最熱的話題，莫過於 OpenAI 終於丟出的 ChatGPT Images 2.0。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02dgRpFv2NhPp3Hs7NCiQYxJXhZXiYWsfUj8KxtmKqans2xnjNKN8ZfwpJQLoCdXy6l&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02drpvZ6uW4wGp99NYapsCmDQ4jaYmqmvCsntz9C9qacUQqMdf4YyVSeswHbN3XfCRl&id=61573146584049
 
-![今天 AI 圈最熱的話題，莫過於 OpenAI 終於丟出的 ChatGPT Images 2.0。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/676819528_122180132900771552_5985380190048266102_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zSJg96yWwHYQ7kNvwHurQ91&_nc_oc=Adqinaoz3KI9lyt3yUfK3mLNM672uffEOitRTZ5VHXoRxxaduJcO3JTYTZQYZI7XaiI&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=M0fV6FCGjALQpeDTmJMQ9g&_nc_ss=7e120&oh=00_Af8TKkh2eEoDaHgmL2zuyfCxq_PkIKNtACMoG8aUpUk4sw&oe=6A2C2689)
+![今天 AI 圈最熱的話題，莫過於 OpenAI 終於丟出的 ChatGPT Images 2.0。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/676819528_122180132900771552_5985380190048266102_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=YVdTncDbt4QQ7kNvwGSPQqJ&_nc_oc=AdpDD9TdAcI6FpQjwJ4UK5DwB36CLtVOgJbl0en3OMLkO8XHBvC8HZLxcVhTyvt6_fc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=IUzpTjJRvU7TfM34oiL4Xw&_nc_ss=7e120&oh=00_AQAcOtnegEA_j-XQpYBe8JMf0-O4yfkuoJF-GfDBS_jJrw&oe=6A63F609)
 今天 AI 圈最熱的話題，莫過於 OpenAI 終於丟出的 ChatGPT Images 2.0。
 ​
 說實話，過去這半年，市場上「OpenAI 要完了」或是「OpenAI 領先優勢不再」的聲音其實沒斷過。

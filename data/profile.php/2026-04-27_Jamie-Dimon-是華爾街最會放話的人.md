@@ -4,22 +4,22 @@ title: "Jamie Dimon 是華爾街最會放話的人。"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid029JJdF6uRPEE54bV2w4cUp4bHmC33y1UVxmyKTTiokn1YrDRSLe97YmfGMpFNJfk3l&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid029UhjYHnYkfNVuHLhGPu2TfPUC22EQTP5kAevE6yJNK9VxpsCstbWoYhTeDj8Kfg5l&id=61573146584049"
 creation_time_utc: "2026-04-27T00:39:33+00:00"
-fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
+fetched_at_utc: "2026-07-20T12:57:19.783956+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/679134962_122180636888771552_2905495187830152627_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=CICQAPDEGR0Q7kNvwFWDWmO&_nc_oc=AdqJrX-MMBk6C1Td78CunpVUwMF8oQGU8pdhjLHmgmKaE06-zOG00oRY-V96lZIU2uI&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Cdr0lcf7GYl6owmH36OHzQ&_nc_ss=7e120&oh=00_Af8mn-jXV-UbyuV7R9xywkCOVKrrHhM6zC-5LmIi6Mw59w&oe=6A2C2EA3"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/679134962_122180636888771552_2905495187830152627_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=JfKpo2K_zGIQ7kNvwFVFXsB&_nc_oc=AdoNdzfAtBw8APiVjB4uT4LWUhTIuFDVq7feAw6a3K74Z-0_K-PMDxiek25u3wynzG4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Sie0hGDLFEiinEsHlkLpdA&_nc_ss=7e120&oh=00_AQDaVMTlUfIKKVaBKVWTTToY-DATl-S6i18XN5H8CIFmRQ&oe=6A63FE23"
 feedback_id: "ZmVlZGJhY2s6MTIyMTgwNjM2OTEyNzcxNTUy"
 page_canonical_url: ""
 ---
 
 # Jamie Dimon 是華爾街最會放話的人。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid029JJdF6uRPEE54bV2w4cUp4bHmC33y1UVxmyKTTiokn1YrDRSLe97YmfGMpFNJfk3l&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid029UhjYHnYkfNVuHLhGPu2TfPUC22EQTP5kAevE6yJNK9VxpsCstbWoYhTeDj8Kfg5l&id=61573146584049
 
-![Jamie Dimon 是華爾街最會放話的人。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/679134962_122180636888771552_2905495187830152627_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=CICQAPDEGR0Q7kNvwFWDWmO&_nc_oc=AdqJrX-MMBk6C1Td78CunpVUwMF8oQGU8pdhjLHmgmKaE06-zOG00oRY-V96lZIU2uI&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Cdr0lcf7GYl6owmH36OHzQ&_nc_ss=7e120&oh=00_Af8mn-jXV-UbyuV7R9xywkCOVKrrHhM6zC-5LmIi6Mw59w&oe=6A2C2EA3)
+![Jamie Dimon 是華爾街最會放話的人。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/679134962_122180636888771552_2905495187830152627_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=JfKpo2K_zGIQ7kNvwFVFXsB&_nc_oc=AdoNdzfAtBw8APiVjB4uT4LWUhTIuFDVq7feAw6a3K74Z-0_K-PMDxiek25u3wynzG4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Sie0hGDLFEiinEsHlkLpdA&_nc_ss=7e120&oh=00_AQDaVMTlUfIKKVaBKVWTTToY-DATl-S6i18XN5H8CIFmRQ&oe=6A63FE23)
 Jamie Dimon 是華爾街最會放話的人。
 ​
 這半年來，他在不同的場合中，不斷對私募信貸市場開砲：

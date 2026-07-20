@@ -4,22 +4,22 @@ title: "近年來有些投資朋友的美國股市部位是VTI+QQQ，或是VOO+Q
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02a1aVAv3dJmvVfPG95LifBL4SSCGFNEAe8C725HWr9QfS3h9GhQZFAfeHKF8w76BFl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02Zi24uTMYrRxmuRukcjPbb2g2phcByVxXfpc7Dg2YTSB7CHd9QCBRiqEEgxNCmKtSl"
 creation_time_utc: "2026-05-04T23:32:03+00:00"
-fetched_at_utc: "2026-06-08T07:24:30.891930+00:00"
+fetched_at_utc: "2026-07-20T12:52:21.689884+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/690631466_1394162365850493_2506013149619195755_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WVIqAJ8y6ScQ7kNvwGO--_P&_nc_oc=AdpR2x45btQh0zj7pPrhJfUrn4tuQQ4cb_-xjeJiyiyFHELDjMX_OdgRw6KyZ36Hb2A&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=H6ciGQmtGRJxsCNoMf4jCw&_nc_ss=7e120&oh=00_Af8KF4FubjP3DqLInSr2eUAsTuC3lvDdMahN4vHTZTSSCA&oe=6A2C3DE0"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/690631466_1394162365850493_2506013149619195755_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=njyRYSZ2Y00Q7kNvwHjBipi&_nc_oc=Adp1WNUidQCwT-7s3JQZmEDjWRF5LD9Wc8_EJY8GMhTW6PCtolhNGk3fIpvXNXKpBjM&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=WUGM-knyr4CVWazvHN_M7A&_nc_ss=7e120&oh=00_AQCUdUCG0baJwENqzpMrjZXoyAz303QAWfCcN0UU_19C_A&oe=6A63D520"
 feedback_id: "ZmVlZGJhY2s6MTM5NDQ1MzQzNTgyMTM4Ng=="
 page_canonical_url: ""
 ---
 
 # 近年來有些投資朋友的美國股市部位是VTI+QQQ，或是VOO+QQQ。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02a1aVAv3dJmvVfPG95LifBL4SSCGFNEAe8C725HWr9QfS3h9GhQZFAfeHKF8w76BFl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02Zi24uTMYrRxmuRukcjPbb2g2phcByVxXfpc7Dg2YTSB7CHd9QCBRiqEEgxNCmKtSl
 
-![近年來有些投資朋友的美國股市部位是VTI+QQQ，或是VOO+QQQ。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/690631466_1394162365850493_2506013149619195755_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WVIqAJ8y6ScQ7kNvwGO--_P&_nc_oc=AdpR2x45btQh0zj7pPrhJfUrn4tuQQ4cb_-xjeJiyiyFHELDjMX_OdgRw6KyZ36Hb2A&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=H6ciGQmtGRJxsCNoMf4jCw&_nc_ss=7e120&oh=00_Af8KF4FubjP3DqLInSr2eUAsTuC3lvDdMahN4vHTZTSSCA&oe=6A2C3DE0)
+![近年來有些投資朋友的美國股市部位是VTI+QQQ，或是VOO+QQQ。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/690631466_1394162365850493_2506013149619195755_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=njyRYSZ2Y00Q7kNvwHjBipi&_nc_oc=Adp1WNUidQCwT-7s3JQZmEDjWRF5LD9Wc8_EJY8GMhTW6PCtolhNGk3fIpvXNXKpBjM&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=WUGM-knyr4CVWazvHN_M7A&_nc_ss=7e120&oh=00_AQCUdUCG0baJwENqzpMrjZXoyAz303QAWfCcN0UU_19C_A&oe=6A63D520)
 近年來有些投資朋友的美國股市部位是VTI+QQQ，或是VOO+QQQ。
 
 理由很明顯。QQQ近年來績效大好。其偏重科技類股的投資組合，剛好參與到這一波AI領軍的投資風潮。

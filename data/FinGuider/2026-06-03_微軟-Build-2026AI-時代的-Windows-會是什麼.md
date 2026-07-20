@@ -4,22 +4,22 @@ title: "【微軟 Build 2026：AI 時代的 Windows 會是什麼？】"
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid0BoZ9qsbqYgMnWooiLzzZ3B4SnSGdbWqJkJixDyHzjbpYx5M7gjK7ZwJoyBTPEj4Vl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0ByxG94UxvByQCZ64JMyNZsHe89FDEPzdPtFF14FmjALWJiUDNY8CvjhLhqYt2W8Kl"
 creation_time_utc: "2026-06-03T04:16:02+00:00"
-fetched_at_utc: "2026-06-08T07:24:00.578955+00:00"
+fetched_at_utc: "2026-07-20T12:47:38.432258+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/710756346_1464391445730998_3092775573574328382_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UA6MUxERwagQ7kNvwEIYVE1&_nc_oc=AdoNh_chqJwVXXQs2s9Kisq63Fb6AX1G2lj3HvLQajC5SxzWf-c3_hWP2dd_Jzs6Eho&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=tKmiFS17UBfzqzhltNqAwA&_nc_ss=7e120&oh=00_Af_Ht1ShvaVYGq1smJWShPlkl72hkkZDnC38FFITlxuJsg&oe=6A2C4ACB"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/710756346_1464391445730998_3092775573574328382_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=crEjQfEiVhAQ7kNvwFwA3BV&_nc_oc=Adq7s2yMZDTpyJbX4I0HW8UObhfZZ74PEHF_jq3wyli8d_mT7nx5MhVVe9rbiKZDW-k&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=EowjfTUxsxRRrvNpCFxNWw&_nc_ss=7e120&oh=00_AQAW-lWO1KTpmz_EIeh_AUQQPKboGTt8LWAR_5JVGnzpMw&oe=6A63E20B"
 feedback_id: "ZmVlZGJhY2s6MTQ2NDM5MTY1MjM5NzY0NA=="
 page_canonical_url: ""
 ---
 
 # 【微軟 Build 2026：AI 時代的 Windows 會是什麼？】
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid0BoZ9qsbqYgMnWooiLzzZ3B4SnSGdbWqJkJixDyHzjbpYx5M7gjK7ZwJoyBTPEj4Vl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0ByxG94UxvByQCZ64JMyNZsHe89FDEPzdPtFF14FmjALWJiUDNY8CvjhLhqYt2W8Kl
 
-![【微軟 Build 2026：AI 時代的 Windows 會是什麼？】](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/710756346_1464391445730998_3092775573574328382_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UA6MUxERwagQ7kNvwEIYVE1&_nc_oc=AdoNh_chqJwVXXQs2s9Kisq63Fb6AX1G2lj3HvLQajC5SxzWf-c3_hWP2dd_Jzs6Eho&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=tKmiFS17UBfzqzhltNqAwA&_nc_ss=7e120&oh=00_Af_Ht1ShvaVYGq1smJWShPlkl72hkkZDnC38FFITlxuJsg&oe=6A2C4ACB)
+![【微軟 Build 2026：AI 時代的 Windows 會是什麼？】](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/710756346_1464391445730998_3092775573574328382_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=crEjQfEiVhAQ7kNvwFwA3BV&_nc_oc=Adq7s2yMZDTpyJbX4I0HW8UObhfZZ74PEHF_jq3wyli8d_mT7nx5MhVVe9rbiKZDW-k&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=EowjfTUxsxRRrvNpCFxNWw&_nc_ss=7e120&oh=00_AQAW-lWO1KTpmz_EIeh_AUQQPKboGTt8LWAR_5JVGnzpMw&oe=6A63E20B)
 【微軟 Build 2026：AI 時代的 Windows 會是什麼？】
 微軟（#MSFT）在年度開發者大會 #Build 上發布了一系列重量級產品和技術，包含專為 AI 開發設計的硬體、Microsoft AI（MAI）系列模型、Microsoft IQ 智慧層，以及新一代量子運算晶片，反映出微軟正致力於提供從雲端到邊緣的全棧式開發平台。
 ​

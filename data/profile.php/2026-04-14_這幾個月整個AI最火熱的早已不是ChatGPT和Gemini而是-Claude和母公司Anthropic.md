@@ -4,22 +4,22 @@ title: "這幾個月，整個AI最火熱的早已不是ChatGPT和Gemini，而是
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02aLMy1mrrz1Vqvfzyy8GMdLMqUa6poUaqFELx3Gy6kXZEuMUH8NfFMtTuAKCsndXKl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02aWm5JxjzMgy1bBUuhJFFS6G5gMjP3Zz3gDbjzrDZR2GGGCCfVkr4cGKCTqCf8eVPl&id=61573146584049"
 creation_time_utc: "2026-04-14T09:50:16+00:00"
-fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
+fetched_at_utc: "2026-07-20T12:57:19.783956+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/669520249_122179128050771552_153231461961860617_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=yCQhqHu2QcwQ7kNvwHjJcL7&_nc_oc=AdpfEsP3AxhT1LIwN2OhGKI48P0vMr7X8kljucfkCQgRV47h-duY6d4AaiusBzUwjC0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=xevIrVUaVXkJrN-Zj01DEw&_nc_ss=7e120&oh=00_Af9vNsUQ28NNPj_7jwxdVDGt_YSHy2d_tXpLU_NHHZcttQ&oe=6A2C2CEC"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/669520249_122179128050771552_153231461961860617_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=s7uhLGLTREQQ7kNvwEyG39h&_nc_oc=Adq0uyHo9oWJbzK4LavsYTIKgMaKnBVQIZGPEeudcS-CSXKqdp5x59DOxejP3ULRDa0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=6KedJtESvfUcBDN4-NL4-w&_nc_ss=7e120&oh=00_AQDCiytxCQHptYjHB_wyiG_E07kteel9TRnW9CVOggQHCg&oe=6A63FC6C"
 feedback_id: "ZmVlZGJhY2s6MTIyMTc5MTI4MDc0NzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 這幾個月，整個AI最火熱的早已不是ChatGPT和Gemini，而是 Claude和母公司Anthropic。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02aLMy1mrrz1Vqvfzyy8GMdLMqUa6poUaqFELx3Gy6kXZEuMUH8NfFMtTuAKCsndXKl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02aWm5JxjzMgy1bBUuhJFFS6G5gMjP3Zz3gDbjzrDZR2GGGCCfVkr4cGKCTqCf8eVPl&id=61573146584049
 
-![這幾個月，整個AI最火熱的早已不是ChatGPT和Gemini，而是 Claude和母公司Anthropic。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/669520249_122179128050771552_153231461961860617_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=yCQhqHu2QcwQ7kNvwHjJcL7&_nc_oc=AdpfEsP3AxhT1LIwN2OhGKI48P0vMr7X8kljucfkCQgRV47h-duY6d4AaiusBzUwjC0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=xevIrVUaVXkJrN-Zj01DEw&_nc_ss=7e120&oh=00_Af9vNsUQ28NNPj_7jwxdVDGt_YSHy2d_tXpLU_NHHZcttQ&oe=6A2C2CEC)
+![這幾個月，整個AI最火熱的早已不是ChatGPT和Gemini，而是 Claude和母公司Anthropic。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/669520249_122179128050771552_153231461961860617_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=s7uhLGLTREQQ7kNvwEyG39h&_nc_oc=Adq0uyHo9oWJbzK4LavsYTIKgMaKnBVQIZGPEeudcS-CSXKqdp5x59DOxejP3ULRDa0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=6KedJtESvfUcBDN4-NL4-w&_nc_ss=7e120&oh=00_AQDCiytxCQHptYjHB_wyiG_E07kteel9TRnW9CVOggQHCg&oe=6A63FC6C)
 這幾個月，整個AI最火熱的早已不是ChatGPT和Gemini，而是 Claude和母公司Anthropic。
 ​
 為什麼？因為根據最新流出的數據，Anthropic 的年化經常性收入（ARR）已經突破 300 億美元，正式超車 OpenAI 的 250 億美元，成為全球營收最高的 AI 獨角獸。

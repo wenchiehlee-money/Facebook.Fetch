@@ -4,22 +4,22 @@ title: "「做盡一切必要的，但做得越少越好（Do as much as needed,
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02QD93g2eh9AJPqMdTqEiy27VakqvHog1L1UQiuFmmXxG7yiZSBHtvfYGXNSAkW4P5l&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02QPY9yDXpWoh52r4VrYrZu9VVy2jcBo4an3jCzZbaicnoj6BE8nVCZKyEVfDpk5mQl&id=61573146584049"
 creation_time_utc: "2026-04-16T04:35:00+00:00"
-fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
+fetched_at_utc: "2026-07-20T12:57:19.783956+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/671381472_122179308272771552_1264351241427646258_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=a2b4xDY_lzYQ7kNvwFHsLao&_nc_oc=AdpkGiTzC5Q8zZE2jBjDktg1bVs4X4YXfQAbgN2AWPWy-ut_W51ZM7tjIaiwsfQOomM&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=RNWhMZhXG400g-x3RmZr8A&_nc_ss=7e120&oh=00_Af8yoUpaQeCEGVY6cMgVTwZxDXPUcT_g6zPnCrgNwXQMCQ&oe=6A2C3FF5"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/671381472_122179308272771552_1264351241427646258_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=IFXRSKml5jkQ7kNvwEP_6Hh&_nc_oc=AdrMha8B5EPt5IHdVYbqmPYdQiDbGcBqGbNucJBrUcHbPktaiO8_LT4DgR4C5fLsLp0&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ZJO4X731KT2o8Aoy8aAXiA&_nc_ss=7e120&oh=00_AQAW4sl0MfJRqGiatKrJYxqz0tHA8765_-BeNkH9mlG8Dw&oe=6A63D735"
 feedback_id: "ZmVlZGJhY2s6MTIyMTc5MzA4Mjk2NzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 「做盡一切必要的，但做得越少越好（Do as much as needed, as little as possible）。」
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02QD93g2eh9AJPqMdTqEiy27VakqvHog1L1UQiuFmmXxG7yiZSBHtvfYGXNSAkW4P5l&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02QPY9yDXpWoh52r4VrYrZu9VVy2jcBo4an3jCzZbaicnoj6BE8nVCZKyEVfDpk5mQl&id=61573146584049
 
-![「做盡一切必要的，但做得越少越好（Do as much as needed, as little as possible）。」](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/671381472_122179308272771552_1264351241427646258_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=a2b4xDY_lzYQ7kNvwFHsLao&_nc_oc=AdpkGiTzC5Q8zZE2jBjDktg1bVs4X4YXfQAbgN2AWPWy-ut_W51ZM7tjIaiwsfQOomM&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=RNWhMZhXG400g-x3RmZr8A&_nc_ss=7e120&oh=00_Af8yoUpaQeCEGVY6cMgVTwZxDXPUcT_g6zPnCrgNwXQMCQ&oe=6A2C3FF5)
+![「做盡一切必要的，但做得越少越好（Do as much as needed, as little as possible）。」](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/671381472_122179308272771552_1264351241427646258_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=IFXRSKml5jkQ7kNvwEP_6Hh&_nc_oc=AdrMha8B5EPt5IHdVYbqmPYdQiDbGcBqGbNucJBrUcHbPktaiO8_LT4DgR4C5fLsLp0&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ZJO4X731KT2o8Aoy8aAXiA&_nc_ss=7e120&oh=00_AQAW4sl0MfJRqGiatKrJYxqz0tHA8765_-BeNkH9mlG8Dw&oe=6A63D735)
 「做盡一切必要的，但做得越少越好（Do as much as needed, as little as possible）。」
 ​
 黃仁勳近日接受了著名播客 Dwarkesh Patel 長達兩小時的深度採訪，說出了以上的宗旨。

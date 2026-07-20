@@ -4,12 +4,12 @@ title: "Mercury Research公佈1Q26 AMD CPU市占率，整理一下:"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0R4cVZ4Sm8BqDhbGs4SV4mmz1zH1HQRRo5zamjedkGheB3EnGvefxiLXX8rkH1vq3l&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0Qm45Hbkgfyv2et7AjCMDdmLxVmZUc2s9WfBmQW3BvKRByniCAB1vxqAeMHr4Bwy4l&id=100054201473657"
 creation_time_utc: "2026-05-14T16:36:34+00:00"
-fetched_at_utc: "2026-06-08T07:02:48.938731+00:00"
+fetched_at_utc: "2026-07-20T13:02:55.617710+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0R4cVZ4Sm8BqDhbGs4SV4mmz1zH1HQRRo5zamjedkGheB3EnGvefxiLXX8rkH1vq3l&id=100054201473657"
+attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0Qm45Hbkgfyv2et7AjCMDdmLxVmZUc2s9WfBmQW3BvKRByniCAB1vxqAeMHr4Bwy4l&id=100054201473657"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTUwNTQ4NjE5NzkzNDc0OA=="
 page_canonical_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # Mercury Research公佈1Q26 AMD CPU市占率，整理一下:
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0R4cVZ4Sm8BqDhbGs4SV4mmz1zH1HQRRo5zamjedkGheB3EnGvefxiLXX8rkH1vq3l&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0Qm45Hbkgfyv2et7AjCMDdmLxVmZUc2s9WfBmQW3BvKRByniCAB1vxqAeMHr4Bwy4l&id=100054201473657
 Mercury Research公佈1Q26 AMD CPU市占率，整理一下:
 
 Server x86 CPU數量: 33.2% from 28.8%

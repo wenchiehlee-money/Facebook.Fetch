@@ -4,22 +4,22 @@ title: "微軟（Microsoft）和OpenAI的故事，可以拍一套矽谷的狗血
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0ZDPBiQh82zdirygUxqCRHknffH435XRHS2qeVLZ5XY19cqhdf1MnVgGWdSJUn64Pl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0YupmSx13an4y4rYfxNLcXNZnEpdcvNUPTERkXvrKmipbPhAuMZpczUdhLQ3SFCaZl&id=61573146584049"
 creation_time_utc: "2026-03-22T04:28:34+00:00"
-fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
+fetched_at_utc: "2026-07-20T12:57:19.783956+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/656619588_122176506608771552_9054717178512802100_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=917BATcRr_sQ7kNvwGzLYNW&_nc_oc=AdqNFwEQZFfITue8Dw4ghDiiut8py2H2l2hGnEn8BqtVaYfM3EHxECey93--M9b6UEQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Yn908acr1ThS4O0nHcCgwg&_nc_ss=7e120&oh=00_Af8AWYmdmmK5Zi2aQgrAzL2HKrO2TkZCs7OHCWKhYJlhrQ&oe=6A2C5783"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/656619588_122176506608771552_9054717178512802100_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=1jRQ4AjDes4Q7kNvwEvxfOs&_nc_oc=AdrRr3k3yd7bXRVR-g-gBAldX724S5R_2x47hfmNaB2KWbAFqCZtsAabHusx9LFTmT4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qbQVyxTAmEFZGDnU-5Aqkw&_nc_ss=7e120&oh=00_AQBV5UM50mkWIy7VmVRELGsGNBEbJ8HfCp6Zz90tHEd2gA&oe=6A63EEC3"
 feedback_id: "ZmVlZGJhY2s6MTIyMTc2NTA2NjMyNzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 微軟（Microsoft）和OpenAI的故事，可以拍一套矽谷的狗血劇。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0ZDPBiQh82zdirygUxqCRHknffH435XRHS2qeVLZ5XY19cqhdf1MnVgGWdSJUn64Pl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0YupmSx13an4y4rYfxNLcXNZnEpdcvNUPTERkXvrKmipbPhAuMZpczUdhLQ3SFCaZl&id=61573146584049
 
-![微軟（Microsoft）和OpenAI的故事，可以拍一套矽谷的狗血劇。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/656619588_122176506608771552_9054717178512802100_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=917BATcRr_sQ7kNvwGzLYNW&_nc_oc=AdqNFwEQZFfITue8Dw4ghDiiut8py2H2l2hGnEn8BqtVaYfM3EHxECey93--M9b6UEQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Yn908acr1ThS4O0nHcCgwg&_nc_ss=7e120&oh=00_Af8AWYmdmmK5Zi2aQgrAzL2HKrO2TkZCs7OHCWKhYJlhrQ&oe=6A2C5783)
+![微軟（Microsoft）和OpenAI的故事，可以拍一套矽谷的狗血劇。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/656619588_122176506608771552_9054717178512802100_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=1jRQ4AjDes4Q7kNvwEvxfOs&_nc_oc=AdrRr3k3yd7bXRVR-g-gBAldX724S5R_2x47hfmNaB2KWbAFqCZtsAabHusx9LFTmT4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qbQVyxTAmEFZGDnU-5Aqkw&_nc_ss=7e120&oh=00_AQBV5UM50mkWIy7VmVRELGsGNBEbJ8HfCp6Zz90tHEd2gA&oe=6A63EEC3)
 微軟（Microsoft）和OpenAI的故事，可以拍一套矽谷的狗血劇。
 ​
 故事要從 2019 年說起。那時的 OpenAI 還是個燒錢的非營利組織，微軟像是個眼光獨到的「早期投資人」，豪擲十億美金定下盟約。當時的協議很簡單：我給你錢和算力，你給我技術和獨家。

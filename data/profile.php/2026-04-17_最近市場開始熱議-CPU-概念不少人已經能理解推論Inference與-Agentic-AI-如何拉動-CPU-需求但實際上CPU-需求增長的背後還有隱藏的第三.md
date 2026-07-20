@@ -4,22 +4,22 @@ title: "最近市場開始熱議 CPU 概念，不少人已經能理解推論（I
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0Ecpna6a1JJW9Kt4TXGxs3k2GDA2ehWLxbnEBsnw4xYfzHUvKB5MgVXnKuSir6muLl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0EoDtsHT8fu6ZSLx997E46NYj8agTYN2kYxLjhfXgrKovkY5gsgyp7DSKsBiUYuAnl&id=61573146584049"
 creation_time_utc: "2026-04-17T11:03:50+00:00"
-fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
+fetched_at_utc: "2026-07-20T12:57:19.783956+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/674206867_122179448540771552_8262779597373761029_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=tZ03JbGAkvsQ7kNvwGBKiOq&_nc_oc=Adr2jCHQgJtToz1mS1MN2zb7NbQ78KkubHHAZD6mT2vZ5SloEXQ-CJVlKWAjM23gbdQ&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=UH6hd756uWIgbsAKbvKm1w&_nc_ss=7e120&oh=00_Af85KOgRP_N3zcDT-8-FoUkNBPTdoGRN5N_TsF9HPz7vHQ&oe=6A2C5BD1"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/674206867_122179448540771552_8262779597373761029_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ZCShcxL_slgQ7kNvwFTj30D&_nc_oc=AdokummNPFk6K_qwmb9-NU-9yVnJjTW3FI_-VyFi8DvrsDF6oTa7M1lD486lsNKkzQk&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=VvNwNiz761IQD0_wGw1wOg&_nc_ss=7e120&oh=00_AQCpv0rl0PKmap2Z2gk8VZFqtTG1zyDggBmLgSpp6wKywg&oe=6A63F311"
 feedback_id: "ZmVlZGJhY2s6MTIyMTc5NDQ4NTY0NzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 最近市場開始熱議 CPU 概念，不少人已經能理解推論（Inference）與 Agentic AI 如何拉動 CPU 需求。但實際上，CPU 需求增長的背後還有隱藏的「第三股力量」。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0Ecpna6a1JJW9Kt4TXGxs3k2GDA2ehWLxbnEBsnw4xYfzHUvKB5MgVXnKuSir6muLl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0EoDtsHT8fu6ZSLx997E46NYj8agTYN2kYxLjhfXgrKovkY5gsgyp7DSKsBiUYuAnl&id=61573146584049
 
-![最近市場開始熱議 CPU 概念，不少人已經能理解推論（Inference）與 Agentic AI 如何拉動 CPU 需求。但實際上，CPU 需求增長的背後還有隱藏的「第三股力量」。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/674206867_122179448540771552_8262779597373761029_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=tZ03JbGAkvsQ7kNvwGBKiOq&_nc_oc=Adr2jCHQgJtToz1mS1MN2zb7NbQ78KkubHHAZD6mT2vZ5SloEXQ-CJVlKWAjM23gbdQ&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=UH6hd756uWIgbsAKbvKm1w&_nc_ss=7e120&oh=00_Af85KOgRP_N3zcDT-8-FoUkNBPTdoGRN5N_TsF9HPz7vHQ&oe=6A2C5BD1)
+![最近市場開始熱議 CPU 概念，不少人已經能理解推論（Inference）與 Agentic AI 如何拉動 CPU 需求。但實際上，CPU 需求增長的背後還有隱藏的「第三股力量」。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/674206867_122179448540771552_8262779597373761029_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ZCShcxL_slgQ7kNvwFTj30D&_nc_oc=AdokummNPFk6K_qwmb9-NU-9yVnJjTW3FI_-VyFi8DvrsDF6oTa7M1lD486lsNKkzQk&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=VvNwNiz761IQD0_wGw1wOg&_nc_ss=7e120&oh=00_AQCpv0rl0PKmap2Z2gk8VZFqtTG1zyDggBmLgSpp6wKywg&oe=6A63F311)
 最近市場開始熱議 CPU 概念，不少人已經能理解推論（Inference）與 Agentic AI 如何拉動 CPU 需求。但實際上，CPU 需求增長的背後還有隱藏的「第三股力量」。
 ​
 這股力量所產生的需求，與前兩者有本質上的不同。

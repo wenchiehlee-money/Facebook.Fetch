@@ -4,9 +4,9 @@ title: "Agentic AI興起Server CPU需求加量(additional)市場誰加最多?"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02F9QGrPMdyJ3jhiueYmP5X3dw3PGMAGGLkew6D3j6nvEqFe3PNneBrgsGwLEZpKE1l&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02EqqravfZX1nfDmU8JmgGsHwA4zGgi239Fhr2kvjf6X2iWNxYaN7mbUtLouWXS6XBl&id=100054201473657"
 creation_time_utc: "2026-05-09T13:15:42+00:00"
-fetched_at_utc: "2026-06-08T07:02:48.938731+00:00"
+fetched_at_utc: "2026-07-20T13:02:55.617710+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # Agentic AI興起Server CPU需求加量(additional)市場誰加最多?
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02F9QGrPMdyJ3jhiueYmP5X3dw3PGMAGGLkew6D3j6nvEqFe3PNneBrgsGwLEZpKE1l&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02EqqravfZX1nfDmU8JmgGsHwA4zGgi239Fhr2kvjf6X2iWNxYaN7mbUtLouWXS6XBl&id=100054201473657
 Agentic AI興起Server CPU需求加量(additional)市場誰加最多?
 
 AMD: 我市佔率竄起

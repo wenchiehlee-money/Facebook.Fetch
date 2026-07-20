@@ -4,22 +4,22 @@ title: "【#CrowdStrike 財報優於預期期，盤後卻大跌 -11%？】"
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid0ufWonpWSu1UWbJif5oDiG2csJsxYb9e4jZ2XjJSCbNZCqw3CTT9M1WkTCh2PVJ85l"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0uquv61PaGdgZSCunhJWSk9ENrGjen17BE3Y5fmukyiv9N2f5DGagvkXTQJsgcW8ql"
 creation_time_utc: "2026-06-04T06:45:41+00:00"
-fetched_at_utc: "2026-06-08T07:24:00.578955+00:00"
+fetched_at_utc: "2026-07-20T12:47:38.432258+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/713950802_1465505308952945_1573162664275294277_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=M7wFYrQ8SUQQ7kNvwEpRz6S&_nc_oc=AdpFcG7EQ1XBmVlNcqTtdScl1dyRiyjB1Hlq8-dMwWPXNA6uS5t82uqcUIDbz788fHM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=IluOVWNTqdXowRLSpHwYwQ&_nc_ss=7e120&oh=00_Af89H1tEXBUcRBK10JWrCyPR6qW765oyw69zd-50kb6COg&oe=6A2C43F8"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/713950802_1465505308952945_1573162664275294277_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CLPQJq_Alu0Q7kNvwF8jdJR&_nc_oc=AdrzIicIrYhrR7FXVL_m1LL4kBj8kIk-ruzvS_P0Yuj_5GO94yrvbnn2Lhh7XlieZ_o&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=m2wDmllvSq1gEnZG26Q8Ww&_nc_ss=7e120&oh=00_AQDmQZiVe9F8PLmgicjFg_YUVHkjP_twaSNPpiOduvwDqw&oe=6A63DB38"
 feedback_id: "ZmVlZGJhY2s6MTQ2NTUwNTY4MjI4NjI0MQ=="
 page_canonical_url: ""
 ---
 
 # 【#CrowdStrike 財報優於預期期，盤後卻大跌 -11%？】
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid0ufWonpWSu1UWbJif5oDiG2csJsxYb9e4jZ2XjJSCbNZCqw3CTT9M1WkTCh2PVJ85l
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0uquv61PaGdgZSCunhJWSk9ENrGjen17BE3Y5fmukyiv9N2f5DGagvkXTQJsgcW8ql
 
-![【#CrowdStrike 財報優於預期期，盤後卻大跌 -11%？】](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/713950802_1465505308952945_1573162664275294277_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=M7wFYrQ8SUQQ7kNvwEpRz6S&_nc_oc=AdpFcG7EQ1XBmVlNcqTtdScl1dyRiyjB1Hlq8-dMwWPXNA6uS5t82uqcUIDbz788fHM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=IluOVWNTqdXowRLSpHwYwQ&_nc_ss=7e120&oh=00_Af89H1tEXBUcRBK10JWrCyPR6qW765oyw69zd-50kb6COg&oe=6A2C43F8)
+![【#CrowdStrike 財報優於預期期，盤後卻大跌 -11%？】](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/713950802_1465505308952945_1573162664275294277_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CLPQJq_Alu0Q7kNvwF8jdJR&_nc_oc=AdrzIicIrYhrR7FXVL_m1LL4kBj8kIk-ruzvS_P0Yuj_5GO94yrvbnn2Lhh7XlieZ_o&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=m2wDmllvSq1gEnZG26Q8Ww&_nc_ss=7e120&oh=00_AQDmQZiVe9F8PLmgicjFg_YUVHkjP_twaSNPpiOduvwDqw&oe=6A63DB38)
 【#CrowdStrike 財報優於預期期，盤後卻大跌 -11%？】
 ​
 雲端資安龍頭 CrowdStrike（#CRWD）最新 Q1 財報繳出了一份漂亮的成績單：

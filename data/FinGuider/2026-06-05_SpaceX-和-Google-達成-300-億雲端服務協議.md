@@ -4,22 +4,22 @@ title: "【#SpaceX 和 #Google 達成 300 億雲端服務協議】"
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid09rjwQWxeYPxFhtAYVDv6tZNjzqxujT5Q74GUjigWZp1N2nERwaYFNfGmJGjS4dVBl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid02DQdEKjCPwZsNSPvXX5MtwrQgVauNgQLPqpifxKjinrUo6ry3Wt6SXGvPrb54CcDgl"
 creation_time_utc: "2026-06-05T22:30:53+00:00"
-fetched_at_utc: "2026-06-08T07:24:00.578955+00:00"
+fetched_at_utc: "2026-07-20T12:47:38.432258+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/716070356_1467126748790801_102448515735382322_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wplgEcxTIy0Q7kNvwFOhMd_&_nc_oc=Adrp8GhwN1Y5AIMUx8eXFz9cwMTwIfpAfpphYUjfWqGAN6QrBTy0TOwqGHO_UzcZHNM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=snIIumoQZisbDU0v6gy5mg&_nc_ss=7e120&oh=00_Af91nzIXU8fHJOXfEWb4RrWxP-72IfKjRsMmEE5LGxluHA&oe=6A2C4DC8"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/716070356_1467126748790801_102448515735382322_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6FItsfNVu_UQ7kNvwEDyNF4&_nc_oc=AdoY0mgXDi9rrDIojeidy9wHYTF_zcCQTzVuT34ZEyNyekaQxFqDN6mVD4cEVp4X6r0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=DxdkR_KKzW86sb78r9DUjg&_nc_ss=7e120&oh=00_AQCC-AdkqY9BbvUuXY-PKBqX0--mZFcAvtTgZqi9Pge4Cg&oe=6A63E508"
 feedback_id: "ZmVlZGJhY2s6MTQ2NzEyNTEyNTQ1NzYzMA=="
 page_canonical_url: ""
 ---
 
 # 【#SpaceX 和 #Google 達成 300 億雲端服務協議】
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid09rjwQWxeYPxFhtAYVDv6tZNjzqxujT5Q74GUjigWZp1N2nERwaYFNfGmJGjS4dVBl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid02DQdEKjCPwZsNSPvXX5MtwrQgVauNgQLPqpifxKjinrUo6ry3Wt6SXGvPrb54CcDgl
 
-![【#SpaceX 和 #Google 達成 300 億雲端服務協議】](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/716070356_1467126748790801_102448515735382322_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wplgEcxTIy0Q7kNvwFOhMd_&_nc_oc=Adrp8GhwN1Y5AIMUx8eXFz9cwMTwIfpAfpphYUjfWqGAN6QrBTy0TOwqGHO_UzcZHNM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=snIIumoQZisbDU0v6gy5mg&_nc_ss=7e120&oh=00_Af91nzIXU8fHJOXfEWb4RrWxP-72IfKjRsMmEE5LGxluHA&oe=6A2C4DC8)
+![【#SpaceX 和 #Google 達成 300 億雲端服務協議】](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/716070356_1467126748790801_102448515735382322_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6FItsfNVu_UQ7kNvwEDyNF4&_nc_oc=AdoY0mgXDi9rrDIojeidy9wHYTF_zcCQTzVuT34ZEyNyekaQxFqDN6mVD4cEVp4X6r0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=DxdkR_KKzW86sb78r9DUjg&_nc_ss=7e120&oh=00_AQCC-AdkqY9BbvUuXY-PKBqX0--mZFcAvtTgZqi9Pge4Cg&oe=6A63E508)
 【#SpaceX 和 #Google 達成 300 億雲端服務協議】
 ​
 📌根據週五提交的監管文件，Google（GOOGL）同意在 2026 年 10 月到 2029 年 6 月間，每月向 SpaceX 支付 9.2 億美元，租用約 11 萬顆 NVIDIA GPU，以及 SpaceX 資料中心內的 CPU、記憶體和其他系統。

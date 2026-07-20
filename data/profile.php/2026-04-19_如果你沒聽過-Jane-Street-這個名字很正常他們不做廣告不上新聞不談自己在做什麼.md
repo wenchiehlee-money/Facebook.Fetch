@@ -4,22 +4,22 @@ title: "如果你沒聽過 Jane Street 這個名字，很正常。他們不做�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0vzj5S777FjQBmeeVHuqdozznDN9yAYisyKnBA1sVpE6TfixkciZQwfqrUuUXGDpql&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0wB8BjHzEdD7iFQJEdFMZXzwn7Qm27nFjKHC1Vo9MZiBwhev1Suk1rpBXMxk8Kci8l&id=61573146584049"
 creation_time_utc: "2026-04-19T11:02:37+00:00"
-fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
+fetched_at_utc: "2026-07-20T12:57:19.783956+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/678201515_122179721954771552_8632630062624825448_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=MAhWX885X-gQ7kNvwGL5CA1&_nc_oc=AdoMMhQdYYk10RwMAjadSILGC1k3U6IQJYmjsUrLCMxj0N1NmggUwvR-LOsIaFW1rZM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=zqjEPnE-oc1ChL8WlESvDg&_nc_ss=7e120&oh=00_Af_tLaELmfSkeCox5k_cq7LdqgKjV5CVjtB6TcB7wl0HFQ&oe=6A2C368B"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/678201515_122179721954771552_8632630062624825448_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=yLMHCz0sYJAQ7kNvwFJc0BI&_nc_oc=AdoQ4JyPwBEo_goVfW7pOxet1gSNDyQC84Y9j1I7CnmKAfv1W6_ZBFvQPZkTXJhuUCA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4e8rXdUq3lqNbMmwMoQ0vQ&_nc_ss=7e120&oh=00_AQCW0ZkABqM_xEEMY0wMwr7o0QgF1liFnT2o60iWrkk5jQ&oe=6A64060B"
 feedback_id: "ZmVlZGJhY2s6MTIyMTc5NzIxOTg0NzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 如果你沒聽過 Jane Street 這個名字，很正常。他們不做廣告、不上新聞、不談自己在做什麼。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0vzj5S777FjQBmeeVHuqdozznDN9yAYisyKnBA1sVpE6TfixkciZQwfqrUuUXGDpql&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0wB8BjHzEdD7iFQJEdFMZXzwn7Qm27nFjKHC1Vo9MZiBwhev1Suk1rpBXMxk8Kci8l&id=61573146584049
 
-![如果你沒聽過 Jane Street 這個名字，很正常。他們不做廣告、不上新聞、不談自己在做什麼。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/678201515_122179721954771552_8632630062624825448_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=MAhWX885X-gQ7kNvwGL5CA1&_nc_oc=AdoMMhQdYYk10RwMAjadSILGC1k3U6IQJYmjsUrLCMxj0N1NmggUwvR-LOsIaFW1rZM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=zqjEPnE-oc1ChL8WlESvDg&_nc_ss=7e120&oh=00_Af_tLaELmfSkeCox5k_cq7LdqgKjV5CVjtB6TcB7wl0HFQ&oe=6A2C368B)
+![如果你沒聽過 Jane Street 這個名字，很正常。他們不做廣告、不上新聞、不談自己在做什麼。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/678201515_122179721954771552_8632630062624825448_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=yLMHCz0sYJAQ7kNvwFJc0BI&_nc_oc=AdoQ4JyPwBEo_goVfW7pOxet1gSNDyQC84Y9j1I7CnmKAfv1W6_ZBFvQPZkTXJhuUCA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4e8rXdUq3lqNbMmwMoQ0vQ&_nc_ss=7e120&oh=00_AQCW0ZkABqM_xEEMY0wMwr7o0QgF1liFnT2o60iWrkk5jQ&oe=6A64060B)
 如果你沒聽過 Jane Street 這個名字，很正常。他們不做廣告、不上新聞、不談自己在做什麼。
 ​
 但在華爾街，他們是食物鏈頂端的存在。一家量化交易公司，員工大概兩千多人，交易收入據報導超過數百億美元。每個員工平均創造的收入，大概是 Google 的十倍。

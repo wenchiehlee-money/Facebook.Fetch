@@ -4,22 +4,22 @@ title: "本文計算與呈現對投資亞太已開發股市的Vanguard FTSE Paci
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0cpXBDkedhtiPb5wwENdkq3Hgvkz9bMT1f9xvmCHnYCckb2k9i1HaDW4CGfCawikcl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0czvHWwXm5JDDpeDvpJ4shLFWMEB4UbN7h1jB9nQ8suwNVj4XCtb21XsgWSpZYFb3l"
 creation_time_utc: "2026-05-21T23:32:05+00:00"
-fetched_at_utc: "2026-06-08T07:24:30.891930+00:00"
+fetched_at_utc: "2026-07-20T12:52:21.689884+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/705729293_1407915714475158_7435140103404505161_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9rZ8kc93iu0Q7kNvwF7B6Ys&_nc_oc=AdrodWB7zATlfGs74GXWcwrNhKxGjyKDoe2z6mBnAVve90_4gPiU4DMnpn5URB3gk1A&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=-e9ulOhhXidBJrBnTbEHPA&_nc_ss=7e120&oh=00_Af8iPYHxafjc5wwPeTdrO1XjYtyAXnTe-qCxRkM3Au-Gkg&oe=6A2C4CB3"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/705729293_1407915714475158_7435140103404505161_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dYeulIDfPI4Q7kNvwFwh_LO&_nc_oc=AdpbrP0uBd3kbWfTyf9W1m6y-JOn4ztF14uCJLtMWWi5mMGlf-zBh7QEl9iODXK7C2A&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=3JbC3JQL55cH1J9KfLbyDA&_nc_ss=7e120&oh=00_AQDfvHVftJRL3eejL_pWl-WAuGxuu_m6IKd1y12XcaFxNQ&oe=6A63E3F3"
 feedback_id: "ZmVlZGJhY2s6MTQwODI1NjU4NDQ0MTA3MQ=="
 page_canonical_url: ""
 ---
 
 # 本文計算與呈現對投資亞太已開發股市的Vanguard FTSE Pacific ETF (美股代號:VPL)定期定額投資的成果。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0cpXBDkedhtiPb5wwENdkq3Hgvkz9bMT1f9xvmCHnYCckb2k9i1HaDW4CGfCawikcl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0czvHWwXm5JDDpeDvpJ4shLFWMEB4UbN7h1jB9nQ8suwNVj4XCtb21XsgWSpZYFb3l
 
-![本文計算與呈現對投資亞太已開發股市的Vanguard FTSE Pacific ETF (美股代號:VPL)定期定額投資的成果。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/705729293_1407915714475158_7435140103404505161_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9rZ8kc93iu0Q7kNvwF7B6Ys&_nc_oc=AdrodWB7zATlfGs74GXWcwrNhKxGjyKDoe2z6mBnAVve90_4gPiU4DMnpn5URB3gk1A&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=-e9ulOhhXidBJrBnTbEHPA&_nc_ss=7e120&oh=00_Af8iPYHxafjc5wwPeTdrO1XjYtyAXnTe-qCxRkM3Au-Gkg&oe=6A2C4CB3)
+![本文計算與呈現對投資亞太已開發股市的Vanguard FTSE Pacific ETF (美股代號:VPL)定期定額投資的成果。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/705729293_1407915714475158_7435140103404505161_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dYeulIDfPI4Q7kNvwFwh_LO&_nc_oc=AdpbrP0uBd3kbWfTyf9W1m6y-JOn4ztF14uCJLtMWWi5mMGlf-zBh7QEl9iODXK7C2A&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=3JbC3JQL55cH1J9KfLbyDA&_nc_ss=7e120&oh=00_AQDfvHVftJRL3eejL_pWl-WAuGxuu_m6IKd1y12XcaFxNQ&oe=6A63E3F3)
 本文計算與呈現對投資亞太已開發股市的Vanguard FTSE Pacific ETF (美股代號:VPL)定期定額投資的成果。
 
 投入方式是從2007年1月到2025年12月，共19年，分別在每年的一、四、七、十月，每季定期投入。

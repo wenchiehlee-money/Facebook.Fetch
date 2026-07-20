@@ -4,22 +4,22 @@ title: "你或許聽過，有不少人會將 Cloudflare 稱為「邊緣 AI（Edg
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid031YuPXuGfiFrGzVBDv8mrnQ6Yddm7AWcVcd2QtA49XYK9xP1vWFFzNEfaXMrcbUYbl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid031FLyGSabFsyLeeGEnMNdV7cEky4T1n2y1zdkLbLQzMyDBbebEdd3ANgDDxJnAMvRl&id=61573146584049"
 creation_time_utc: "2026-05-13T10:46:57+00:00"
-fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
+fetched_at_utc: "2026-07-20T12:57:19.783956+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/696726697_122182562144771552_4255433303980203184_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=aBObLxqjbh0Q7kNvwEolcnT&_nc_oc=AdqADF1YkKtNCL6GSPxpoubRBa6urHdVuWgfGqXY9Ho7RUsr791DxI08Wp_vF7mm9RA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=vg-yYfwzrcXGO7CAkSLW7w&_nc_ss=7e120&oh=00_Af8KIhQN8qW2I3DcYeIswyeKrnIgqr5I36PhlfflpdNDmg&oe=6A2C4486"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/696726697_122182562144771552_4255433303980203184_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zrKkGjM9eq0Q7kNvwEqipWi&_nc_oc=AdoKkODabt7ROrMFqhgbz0XcjEgwZyKVFLPafOH1lRAdemOw4Sg122Blot21ILSSb7I&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=T4iQpYeUqbX6AAOXkoHWfA&_nc_ss=7e120&oh=00_AQBPMDIBAI1nr-4HERv7FuMeuu-TxLSiLZKwf_s1ShFhAQ&oe=6A63DBC6"
 feedback_id: "ZmVlZGJhY2s6MTIyMTgyNTYyMTY4NzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 你或許聽過，有不少人會將 Cloudflare 稱為「邊緣 AI（Edge AI）的贏家」。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid031YuPXuGfiFrGzVBDv8mrnQ6Yddm7AWcVcd2QtA49XYK9xP1vWFFzNEfaXMrcbUYbl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid031FLyGSabFsyLeeGEnMNdV7cEky4T1n2y1zdkLbLQzMyDBbebEdd3ANgDDxJnAMvRl&id=61573146584049
 
-![你或許聽過，有不少人會將 Cloudflare 稱為「邊緣 AI（Edge AI）的贏家」。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/696726697_122182562144771552_4255433303980203184_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=aBObLxqjbh0Q7kNvwEolcnT&_nc_oc=AdqADF1YkKtNCL6GSPxpoubRBa6urHdVuWgfGqXY9Ho7RUsr791DxI08Wp_vF7mm9RA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=vg-yYfwzrcXGO7CAkSLW7w&_nc_ss=7e120&oh=00_Af8KIhQN8qW2I3DcYeIswyeKrnIgqr5I36PhlfflpdNDmg&oe=6A2C4486)
+![你或許聽過，有不少人會將 Cloudflare 稱為「邊緣 AI（Edge AI）的贏家」。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/696726697_122182562144771552_4255433303980203184_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zrKkGjM9eq0Q7kNvwEqipWi&_nc_oc=AdoKkODabt7ROrMFqhgbz0XcjEgwZyKVFLPafOH1lRAdemOw4Sg122Blot21ILSSb7I&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=T4iQpYeUqbX6AAOXkoHWfA&_nc_ss=7e120&oh=00_AQBPMDIBAI1nr-4HERv7FuMeuu-TxLSiLZKwf_s1ShFhAQ&oe=6A63DBC6)
 你或許聽過，有不少人會將 Cloudflare 稱為「邊緣 AI（Edge AI）的贏家」。
 ​
 但如果你去詢問不同的人，你會得到截然不同的答案：有人說它是一家「資安公司（Cybersecurity）」，有人把它歸類為「網路基礎設施（Network Infrastructure）」，而 Cloudflare 官方則將自己定義為「連線雲（Connectivity Cloud）」。

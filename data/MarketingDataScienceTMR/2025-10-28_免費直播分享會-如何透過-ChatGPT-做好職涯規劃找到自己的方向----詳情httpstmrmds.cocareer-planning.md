@@ -4,22 +4,22 @@ title: "[免費直播分享會] 如何透過 ChatGPT 做好職涯規劃？找到
 page_title: ""
 requested_url: "https://www.facebook.com/MarketingDataScienceTMR"
 final_url: "https://www.facebook.com/MarketingDataScienceTMR"
-post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0RD8ar6xHNorexjGdnwGG4MScv3zib3u3PczvanVgV8JsaT7vpVk3QRVtmSScZb4jl"
+post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0RPXh9HqQkQSbotmA8ydRb85kAMTqnr1JaYgu1mWPUMjzVMXAvPHQAt6sQQLkXHqTl"
 creation_time_utc: "2025-10-28T06:58:34+00:00"
-fetched_at_utc: "2026-06-08T07:22:13.449864+00:00"
+fetched_at_utc: "2026-07-20T12:46:13.851741+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/574235072_1128539606056350_5679946078762172198_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=a4yN3VLpbUgQ7kNvwHdsE9a&_nc_oc=AdoZcsxiSNnJOkCILel1u671vZJ7Ed4JgW_2TsBqsyGS-1GfrFOpGy9uOaFo4_mXLdg&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=L8tfHx7ItANEL2upKOahaQ&_nc_ss=7e120&oh=00_Af9gakGlHKtQ0m69MP_6NBTV2WsgbVqwT51Y1LE2K0xvPw&oe=6A2C59E3"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/574235072_1128539606056350_5679946078762172198_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yRnGL9PmkCgQ7kNvwFeuUDJ&_nc_oc=Ado3dCbCb6D9xiLW4wCtPKhRzxQwxwsV2w2TzM7q8J48YxT0O0gmUkqWtdqxKr5PFX0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=oKoMLzZbomQKKUtjcmCHBA&_nc_ss=7e120&oh=00_AQBCL6kmUIV-IO5TYOG3TTeyt9fud-KdvEtjLX8TLp4h0A&oe=6A63F123"
 feedback_id: "ZmVlZGJhY2s6MTEyODU0MDA0MjcyMjk3Mw=="
 page_canonical_url: ""
 ---
 
 # [免費直播分享會] 如何透過 ChatGPT 做好職涯規劃？找到自己的方向 - 👉 詳情：https://tmrmds.co/career-planning/
 
-原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0RD8ar6xHNorexjGdnwGG4MScv3zib3u3PczvanVgV8JsaT7vpVk3QRVtmSScZb4jl
+原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0RPXh9HqQkQSbotmA8ydRb85kAMTqnr1JaYgu1mWPUMjzVMXAvPHQAt6sQQLkXHqTl
 
-![[免費直播分享會] 如何透過 ChatGPT 做好職涯規劃？找到自己的方向 - 👉 詳情：https://tmrmds.co/career-planning/](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/574235072_1128539606056350_5679946078762172198_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=a4yN3VLpbUgQ7kNvwHdsE9a&_nc_oc=AdoZcsxiSNnJOkCILel1u671vZJ7Ed4JgW_2TsBqsyGS-1GfrFOpGy9uOaFo4_mXLdg&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=L8tfHx7ItANEL2upKOahaQ&_nc_ss=7e120&oh=00_Af9gakGlHKtQ0m69MP_6NBTV2WsgbVqwT51Y1LE2K0xvPw&oe=6A2C59E3)
+![[免費直播分享會] 如何透過 ChatGPT 做好職涯規劃？找到自己的方向 - 👉 詳情：https://tmrmds.co/career-planning/](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/574235072_1128539606056350_5679946078762172198_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yRnGL9PmkCgQ7kNvwFeuUDJ&_nc_oc=Ado3dCbCb6D9xiLW4wCtPKhRzxQwxwsV2w2TzM7q8J48YxT0O0gmUkqWtdqxKr5PFX0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=oKoMLzZbomQKKUtjcmCHBA&_nc_ss=7e120&oh=00_AQBCL6kmUIV-IO5TYOG3TTeyt9fud-KdvEtjLX8TLp4h0A&oe=6A63F123)
 [免費直播分享會] 如何透過 ChatGPT 做好職涯規劃？找到自己的方向 - 👉 詳情：https://tmrmds.co/career-planning/
 各位夥伴好！我們的最新直播來囉~ 🔥
 

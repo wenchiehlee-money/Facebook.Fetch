@@ -4,22 +4,22 @@ title: "“Your Journey to Financial Freedom”書中對於財務狀況有個明
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid029ecnSoHW4RbFYTdr29S3mg1EHmjPHUdCeyYXfTdmB4dJHhc12GsVh3yg4YTmVShbl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid06HNhppYGam8e8uqCSWgwTJVuspA6NRzF3iZPBMzPaARqaYCa6newYdX7ZjDgPZuYl"
 creation_time_utc: "2026-06-02T08:25:07+00:00"
-fetched_at_utc: "2026-06-08T07:24:30.891930+00:00"
+fetched_at_utc: "2026-07-20T12:52:21.689884+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/713804487_1417768046823258_9060995566423098416_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PLgU-XUljdMQ7kNvwFXd_Nc&_nc_oc=AdqDr2_W3iSSH0_nl7znBLdVfkpOzb9XrdCXFC5UAzrFUexJmu7wTo8i0uwZusAvto8&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=rFYANQDZyYPhnsiaJWJskA&_nc_ss=7e120&oh=00_Af_2cl5aje033j-2T-2yYg9Nj56ClghnMu2RmloM_zYgMg&oe=6A2C3CBE"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/713804487_1417768046823258_9060995566423098416_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ow7ldecxfesQ7kNvwF43z0M&_nc_oc=Adp-le3xsKIFPx73tPKiCCwkdPV7e6Tg4FXmwuagPMUqE0wDWrkveJU5Zx3ssXxa0JI&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=soLmWHOzjlz62MWS8uh4Fg&_nc_ss=7e120&oh=00_AQAhQv7Dbx6qvCRntM7T5WFucgZJpOJQVjF77ZFcQ6ccuQ&oe=6A63D3FE"
 feedback_id: "ZmVlZGJhY2s6MTQxNzc2ODI1MzQ4OTkwNA=="
 page_canonical_url: ""
 ---
 
 # “Your Journey to Financial Freedom”書中對於財務狀況有個明確的描述方式。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid029ecnSoHW4RbFYTdr29S3mg1EHmjPHUdCeyYXfTdmB4dJHhc12GsVh3yg4YTmVShbl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid06HNhppYGam8e8uqCSWgwTJVuspA6NRzF3iZPBMzPaARqaYCa6newYdX7ZjDgPZuYl
 
-![“Your Journey to Financial Freedom”書中對於財務狀況有個明確的描述方式。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/713804487_1417768046823258_9060995566423098416_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PLgU-XUljdMQ7kNvwFXd_Nc&_nc_oc=AdqDr2_W3iSSH0_nl7znBLdVfkpOzb9XrdCXFC5UAzrFUexJmu7wTo8i0uwZusAvto8&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=rFYANQDZyYPhnsiaJWJskA&_nc_ss=7e120&oh=00_Af_2cl5aje033j-2T-2yYg9Nj56ClghnMu2RmloM_zYgMg&oe=6A2C3CBE)
+![“Your Journey to Financial Freedom”書中對於財務狀況有個明確的描述方式。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/713804487_1417768046823258_9060995566423098416_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ow7ldecxfesQ7kNvwF43z0M&_nc_oc=Adp-le3xsKIFPx73tPKiCCwkdPV7e6Tg4FXmwuagPMUqE0wDWrkveJU5Zx3ssXxa0JI&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=soLmWHOzjlz62MWS8uh4Fg&_nc_ss=7e120&oh=00_AQAhQv7Dbx6qvCRntM7T5WFucgZJpOJQVjF77ZFcQ6ccuQ&oe=6A63D3FE)
 “Your Journey to Financial Freedom”書中對於財務狀況有個明確的描述方式。
 
 一個人有收入，有支出。收入減去支出，作者稱其為Gap，差額。

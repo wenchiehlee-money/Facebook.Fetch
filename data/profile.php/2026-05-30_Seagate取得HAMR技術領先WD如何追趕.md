@@ -4,12 +4,12 @@ title: "Seagate取得HAMR技術領先，WD如何追趕?"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02bbRZYbRBuUjWrxc4GcT23xo7dmMj8SvdcaVg6bZxEH12TtnsCujcqfRfjP4H1Fipl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02bmpfqnJKGwg7bYzc3d3Mj1hVpfJW6KeCzGUx1n1MQZhvrP4m9seQvuAuR9dSdZ4il&id=100054201473657"
 creation_time_utc: "2026-05-30T13:03:37+00:00"
-fetched_at_utc: "2026-06-08T07:33:36.899093+00:00"
+fetched_at_utc: "2026-07-20T13:02:55.617710+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02bbRZYbRBuUjWrxc4GcT23xo7dmMj8SvdcaVg6bZxEH12TtnsCujcqfRfjP4H1Fipl&id=100054201473657"
+attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02bmpfqnJKGwg7bYzc3d3Mj1hVpfJW6KeCzGUx1n1MQZhvrP4m9seQvuAuR9dSdZ4il&id=100054201473657"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTUxODc5MTczMzI3MDg2MQ=="
 page_canonical_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # Seagate取得HAMR技術領先，WD如何追趕?
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02bbRZYbRBuUjWrxc4GcT23xo7dmMj8SvdcaVg6bZxEH12TtnsCujcqfRfjP4H1Fipl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02bmpfqnJKGwg7bYzc3d3Mj1hVpfJW6KeCzGUx1n1MQZhvrP4m9seQvuAuR9dSdZ4il&id=100054201473657
 Seagate取得HAMR技術領先，WD如何追趕?
 (1)高頻寬硬碟技術（High Bandwidth Drive Technology）
 (2)雙樞軸技術（Dual Pivot Technology）

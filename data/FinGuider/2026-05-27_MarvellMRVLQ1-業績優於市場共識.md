@@ -4,22 +4,22 @@ title: "#Marvell（#MRVL）Q1 業績優於市場共識："
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid02dBpFxpHRTrXDhdSj13LMKcLfiG6wBF6PG4Z2wRTg5UvCwynqhfoAm8jbkKFfCgjul"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0ZLcenBxzASpeb7ZuZtQujkAKAMGt3WNBsYcEXvmUnBp3XVvooN7bsNRF4c4Yun9Rl"
 creation_time_utc: "2026-05-27T22:33:51+00:00"
-fetched_at_utc: "2026-06-08T07:24:00.578955+00:00"
+fetched_at_utc: "2026-07-20T12:47:38.432258+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/708630889_1458589569644519_5959876965773629964_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=z57pz6zYjqMQ7kNvwEd5hAC&_nc_oc=AdrZh7HS1bB6OVwe1rMnKUnZj1p7HVwgjOJG8lFof17EqDiffixi2EvzgvgTrMYM_zE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=rM14586aZSzYSTpWtnvk5g&_nc_ss=7e120&oh=00_Af-Wv5O9xSe66FwxEfbyd6rfvwPhCUZFnr-2wUmfGLhDVA&oe=6A2C508A"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/708630889_1458589569644519_5959876965773629964_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=W4MG8HBhU10Q7kNvwHNR0lf&_nc_oc=Adr-v3SJHfh8Div3ZCxX3VIAqiAitaXHq5_1V2lm7qlqAjNzKLF39DB5VWgxUDv0W38&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=raGViut3jTU8iwI5ndaVUA&_nc_ss=7e120&oh=00_AQCF3-SRfy5j4c-FCnk4xGqe6EZnJDF9T_RPd2N4Ir03sQ&oe=6A63E7CA"
 feedback_id: "ZmVlZGJhY2s6MTQ1ODU4OTY0OTY0NDUxMQ=="
 page_canonical_url: ""
 ---
 
 # #Marvell（#MRVL）Q1 業績優於市場共識：
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid02dBpFxpHRTrXDhdSj13LMKcLfiG6wBF6PG4Z2wRTg5UvCwynqhfoAm8jbkKFfCgjul
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0ZLcenBxzASpeb7ZuZtQujkAKAMGt3WNBsYcEXvmUnBp3XVvooN7bsNRF4c4Yun9Rl
 
-![#Marvell（#MRVL）Q1 業績優於市場共識：](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/708630889_1458589569644519_5959876965773629964_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=z57pz6zYjqMQ7kNvwEd5hAC&_nc_oc=AdrZh7HS1bB6OVwe1rMnKUnZj1p7HVwgjOJG8lFof17EqDiffixi2EvzgvgTrMYM_zE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=rM14586aZSzYSTpWtnvk5g&_nc_ss=7e120&oh=00_Af-Wv5O9xSe66FwxEfbyd6rfvwPhCUZFnr-2wUmfGLhDVA&oe=6A2C508A)
+![#Marvell（#MRVL）Q1 業績優於市場共識：](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/708630889_1458589569644519_5959876965773629964_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=W4MG8HBhU10Q7kNvwHNR0lf&_nc_oc=Adr-v3SJHfh8Div3ZCxX3VIAqiAitaXHq5_1V2lm7qlqAjNzKLF39DB5VWgxUDv0W38&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=raGViut3jTU8iwI5ndaVUA&_nc_ss=7e120&oh=00_AQCF3-SRfy5j4c-FCnk4xGqe6EZnJDF9T_RPd2N4Ir03sQ&oe=6A63E7CA)
 #Marvell（#MRVL）Q1 業績優於市場共識：
 🟢營收：24.18 億美元、年增 28%（v.s. 24.08 億）
 🟢EPS：0.8 美元（v.s. 0.79 美元）

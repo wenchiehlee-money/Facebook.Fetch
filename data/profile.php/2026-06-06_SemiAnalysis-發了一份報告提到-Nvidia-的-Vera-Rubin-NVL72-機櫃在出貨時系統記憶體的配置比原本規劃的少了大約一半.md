@@ -4,22 +4,22 @@ title: "SemiAnalysis 發了一份報告，提到 Nvidia 的 Vera Rubin NVL72 機
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02A79zU3gjewaDqs5FqBdYk4ju4S4f6VrBuczWLEvWYeNRvMRpQjV1qXzfKwSQdejDl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid06juur4wWBHAk9kvQ3gFF9AyiqJisrrBTWVjW1cNCtd2WdEumv8JM45bx7g4DuZTHl&id=61573146584049"
 creation_time_utc: "2026-06-06T13:37:46+00:00"
-fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
+fetched_at_utc: "2026-07-20T12:57:19.783956+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/718792655_122185255838771552_1788820813699013763_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=50SyKJCqnGgQ7kNvwECB9dG&_nc_oc=Adq9trNy8VJDEJ7qvSw4lCjb3byt2s7YHmPu8B2zmPnHDNQ50_hH7wuaKHDEbemS0j0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=kyV-4qaSJ6EyYSv-EaxJvg&_nc_ss=7e120&oh=00_Af-02GnzYZsYSGu0ccOMukS-5JBJxPEzNTb_TNncDANjOg&oe=6A2C3BDF"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/718792655_122185255838771552_1788820813699013763_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fKnxDWiBiokQ7kNvwGxNR4Q&_nc_oc=AdpsfJxh5ALSMiKRBT0NxdA3lk65_D5hvoJsOkXXgwCSYEPmEx2UxxgYzNp9xZOd0wk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=NQC0akr2sMp7hVk9HOUZgw&_nc_ss=7e120&oh=00_AQAL-LeDETnAnv1pfjMfUzjTXpccE5_ZVh9RzSSCx979EQ&oe=6A63D31F"
 feedback_id: "ZmVlZGJhY2s6MTIyMTg1MjU1OTIyNzcxNTUy"
 page_canonical_url: ""
 ---
 
 # SemiAnalysis 發了一份報告，提到 Nvidia 的 Vera Rubin NVL72 機櫃在出貨時，系統記憶體的配置比原本規劃的少了大約一半。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02A79zU3gjewaDqs5FqBdYk4ju4S4f6VrBuczWLEvWYeNRvMRpQjV1qXzfKwSQdejDl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid06juur4wWBHAk9kvQ3gFF9AyiqJisrrBTWVjW1cNCtd2WdEumv8JM45bx7g4DuZTHl&id=61573146584049
 
-![SemiAnalysis 發了一份報告，提到 Nvidia 的 Vera Rubin NVL72 機櫃在出貨時，系統記憶體的配置比原本規劃的少了大約一半。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/718792655_122185255838771552_1788820813699013763_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=50SyKJCqnGgQ7kNvwECB9dG&_nc_oc=Adq9trNy8VJDEJ7qvSw4lCjb3byt2s7YHmPu8B2zmPnHDNQ50_hH7wuaKHDEbemS0j0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=kyV-4qaSJ6EyYSv-EaxJvg&_nc_ss=7e120&oh=00_Af-02GnzYZsYSGu0ccOMukS-5JBJxPEzNTb_TNncDANjOg&oe=6A2C3BDF)
+![SemiAnalysis 發了一份報告，提到 Nvidia 的 Vera Rubin NVL72 機櫃在出貨時，系統記憶體的配置比原本規劃的少了大約一半。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/718792655_122185255838771552_1788820813699013763_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fKnxDWiBiokQ7kNvwGxNR4Q&_nc_oc=AdpsfJxh5ALSMiKRBT0NxdA3lk65_D5hvoJsOkXXgwCSYEPmEx2UxxgYzNp9xZOd0wk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=NQC0akr2sMp7hVk9HOUZgw&_nc_ss=7e120&oh=00_AQAL-LeDETnAnv1pfjMfUzjTXpccE5_ZVh9RzSSCx979EQ&oe=6A63D31F)
 SemiAnalysis 發了一份報告，提到 Nvidia 的 Vera Rubin NVL72 機櫃在出貨時，系統記憶體的配置比原本規劃的少了大約一半。
 ​
 很快地，市場上就出現了鋪天蓋地的熊市鬼故事：「Nvidia將記憶體需求砍半！」、「記憶體大廠的超級週期要終結了！」

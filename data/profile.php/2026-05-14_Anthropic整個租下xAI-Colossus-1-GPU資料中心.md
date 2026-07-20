@@ -4,9 +4,9 @@ title: "Anthropic整個租下xAI Colossus 1 GPU資料中心"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid03g6UGxQmmobXVKgcRvYR5ExrAdJEVsLfFerrj66AnjUjHagEXZeMPwprVXyzZRK3l&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid03rVaa9Hu9Ljs2oqNm9vaZx2GxPs9oLCtKbWqfPvCa58EDckgWBBTpxqFqDUuvdxTl&id=100054201473657"
 creation_time_utc: "2026-05-14T07:05:13+00:00"
-fetched_at_utc: "2026-06-08T07:02:48.938731+00:00"
+fetched_at_utc: "2026-07-20T13:02:55.617710+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # Anthropic整個租下xAI Colossus 1 GPU資料中心
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid03g6UGxQmmobXVKgcRvYR5ExrAdJEVsLfFerrj66AnjUjHagEXZeMPwprVXyzZRK3l&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid03rVaa9Hu9Ljs2oqNm9vaZx2GxPs9oLCtKbWqfPvCa58EDckgWBBTpxqFqDUuvdxTl&id=100054201473657
 Anthropic整個租下xAI Colossus 1 GPU資料中心
 
 這件事可以當負面消息，表示xAI沒市場GPU算力產能閒置，表示市場不知道還有多少閒置算力

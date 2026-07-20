@@ -4,22 +4,22 @@ title: "在混亂的時勢中，橡樹資本（Oaktree Capital）創辦人 Howar
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0S9JLidJVrFzDgg7Jz7Y11MXAcLnoN7MarQV5EsstrTPG95Yt3mL1W4cvkFbAHaa3l&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0SKhT1pBdDiNoEs19V3owEEYi9nEQ3wxBoxc2ndq5QyZbzNiFdExmchNHJpcP1d6Kl&id=61573146584049"
 creation_time_utc: "2026-03-20T09:50:31+00:00"
-fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
+fetched_at_utc: "2026-07-20T12:57:19.783956+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/654422957_122176289516771552_7908653354284644824_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Bd_KKYGz3JwQ7kNvwEXMIrh&_nc_oc=AdpZTgbCFW6-WmJ1Z6fqBL8EwpFCDhXli3CMvrR1EGJ4q3VZcE4hQF_Ali9wV5MTJHc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=x8UW4frKQIWprPfzo_YMXA&_nc_ss=7e120&oh=00_Af-I-ITgjscN_9HZtq6XdisBwVrJefcKwLnC7Ru4w8g_0Q&oe=6A2C56E9"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/654422957_122176289516771552_7908653354284644824_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=MLEukEjUc_EQ7kNvwEa7O8I&_nc_oc=Ado79-8B3q0FSL-isejxooGIA7EaVLO7zl1Z4rGVpmC66veB9DsJfoIWZ34y6_8Po68&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=h30PgclJRpYbCaJONkGtYQ&_nc_ss=7e120&oh=00_AQBJ3x3wRpN25VkZnfI7MHJCIV1XgGmkDm5Jc9hh5GU3YA&oe=6A63EE29"
 feedback_id: "ZmVlZGJhY2s6MTIyMTc2Mjg5NTQ2NzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 在混亂的時勢中，橡樹資本（Oaktree Capital）創辦人 Howard Marks 最近接受了一次訪談。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0S9JLidJVrFzDgg7Jz7Y11MXAcLnoN7MarQV5EsstrTPG95Yt3mL1W4cvkFbAHaa3l&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0SKhT1pBdDiNoEs19V3owEEYi9nEQ3wxBoxc2ndq5QyZbzNiFdExmchNHJpcP1d6Kl&id=61573146584049
 
-![在混亂的時勢中，橡樹資本（Oaktree Capital）創辦人 Howard Marks 最近接受了一次訪談。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/654422957_122176289516771552_7908653354284644824_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Bd_KKYGz3JwQ7kNvwEXMIrh&_nc_oc=AdpZTgbCFW6-WmJ1Z6fqBL8EwpFCDhXli3CMvrR1EGJ4q3VZcE4hQF_Ali9wV5MTJHc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=x8UW4frKQIWprPfzo_YMXA&_nc_ss=7e120&oh=00_Af-I-ITgjscN_9HZtq6XdisBwVrJefcKwLnC7Ru4w8g_0Q&oe=6A2C56E9)
+![在混亂的時勢中，橡樹資本（Oaktree Capital）創辦人 Howard Marks 最近接受了一次訪談。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/654422957_122176289516771552_7908653354284644824_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=MLEukEjUc_EQ7kNvwEa7O8I&_nc_oc=Ado79-8B3q0FSL-isejxooGIA7EaVLO7zl1Z4rGVpmC66veB9DsJfoIWZ34y6_8Po68&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=h30PgclJRpYbCaJONkGtYQ&_nc_ss=7e120&oh=00_AQBJ3x3wRpN25VkZnfI7MHJCIV1XgGmkDm5Jc9hh5GU3YA&oe=6A63EE29)
 在混亂的時勢中，橡樹資本（Oaktree Capital）創辦人 Howard Marks 最近接受了一次訪談。
 ​
 我挑選了其中的核心重點，並結合我的一些觀察與大家分享。

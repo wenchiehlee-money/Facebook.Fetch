@@ -4,22 +4,22 @@ title: "「我們可能會攻打Kharg Island，可能不會，我們有很多選
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0rWv2JixApoaatSBgS6cFkRQxgXeC1RtyvdyebntzrziVc4AYy3DFv6JxVd6E2UJFl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0rDMc3GG6NYNbFzJ4f5BscMiv3dZkt65YG2zX9t3gZVMvkNU2i3tU7XbrQ4ubKtaxl&id=61573146584049"
 creation_time_utc: "2026-03-31T10:13:38+00:00"
-fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
+fetched_at_utc: "2026-07-20T12:57:19.783956+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/659169713_122177525366771552_5469706454269211566_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=5rRdjCzVNMcQ7kNvwFD54oY&_nc_oc=Adp-4PMaSeRcad7nUG3ihpGWPn97Vgq6UmlxTx7c1wWxu2KM3jsoMCJzNTsl_6pBI3g&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=bw_UKgzmkeVb29WA32iZ2w&_nc_ss=7e120&oh=00_Af-FQOFt6uKWy4zLwaZXdZDq6hHTP35LSVIIwuflxmSaoA&oe=6A2C3E4B"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/659169713_122177525366771552_5469706454269211566_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=mxNvFfxDt4UQ7kNvwFGC-w0&_nc_oc=AdoG_oenm4FzWkJRQZxfA1fn1b6upvmymTTjct4YF7IgVuUumz3WgK9CUrYZkjE3RLA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Yw_qTuhxlbp8WlPdTAjj0g&_nc_ss=7e120&oh=00_AQCr8DlAfPFo_Uysdt-YAIARgC2ikdZSPFtO90_9oBnMoA&oe=6A63D58B"
 feedback_id: "ZmVlZGJhY2s6MTIyMTc3NTI1MzkwNzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 「我們可能會攻打Kharg Island，可能不會，我們有很多選擇。」，Trump昨天說到。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0rWv2JixApoaatSBgS6cFkRQxgXeC1RtyvdyebntzrziVc4AYy3DFv6JxVd6E2UJFl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0rDMc3GG6NYNbFzJ4f5BscMiv3dZkt65YG2zX9t3gZVMvkNU2i3tU7XbrQ4ubKtaxl&id=61573146584049
 
-![「我們可能會攻打Kharg Island，可能不會，我們有很多選擇。」，Trump昨天說到。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/659169713_122177525366771552_5469706454269211566_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=5rRdjCzVNMcQ7kNvwFD54oY&_nc_oc=Adp-4PMaSeRcad7nUG3ihpGWPn97Vgq6UmlxTx7c1wWxu2KM3jsoMCJzNTsl_6pBI3g&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=bw_UKgzmkeVb29WA32iZ2w&_nc_ss=7e120&oh=00_Af-FQOFt6uKWy4zLwaZXdZDq6hHTP35LSVIIwuflxmSaoA&oe=6A2C3E4B)
+![「我們可能會攻打Kharg Island，可能不會，我們有很多選擇。」，Trump昨天說到。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/659169713_122177525366771552_5469706454269211566_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=mxNvFfxDt4UQ7kNvwFGC-w0&_nc_oc=AdoG_oenm4FzWkJRQZxfA1fn1b6upvmymTTjct4YF7IgVuUumz3WgK9CUrYZkjE3RLA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Yw_qTuhxlbp8WlPdTAjj0g&_nc_ss=7e120&oh=00_AQCr8DlAfPFo_Uysdt-YAIARgC2ikdZSPFtO90_9oBnMoA&oe=6A63D58B)
 「我們可能會攻打Kharg Island，可能不會，我們有很多選擇。」，Trump昨天說到。
 ​
 Kharg Island (哈格島/哈爾克島)，這個名字最近被提起的次數非常多，但究竟它的重要性在哪？

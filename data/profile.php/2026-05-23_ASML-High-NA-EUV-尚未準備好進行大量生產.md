@@ -4,9 +4,9 @@ title: "----------\"ASML High-NA EUV 尚未準備好進行大量生產"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0ZcRhVAwZvYjMN1zHTiJE19qEVaJx4kS9zGRecAUEYwiCnzRakiza4nZYxfgQBaZql&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0ZJsHDiFVUB8JcC7N6taRVKo73f7fyJAdY6AuqUgDvXDEkyhfWgHcQAkP4oTkYhz3l&id=100054201473657"
 creation_time_utc: "2026-05-23T11:30:46+00:00"
-fetched_at_utc: "2026-06-08T07:02:48.938731+00:00"
+fetched_at_utc: "2026-07-20T13:02:55.617710+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # ----------"ASML High-NA EUV 尚未準備好進行大量生產
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0ZcRhVAwZvYjMN1zHTiJE19qEVaJx4kS9zGRecAUEYwiCnzRakiza4nZYxfgQBaZql&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0ZJsHDiFVUB8JcC7N6taRVKo73f7fyJAdY6AuqUgDvXDEkyhfWgHcQAkP4oTkYhz3l&id=100054201473657
 ----------"ASML High-NA EUV 尚未準備好進行大量生產
 ......
 產業最大的轉變之一是鑄造客戶現在在製程技術決策中擁有發言權，這要歸功於台積電。台積電的協作商業模式讓主要客戶能直接參與製造路線圖。我與台積電的主要客戶交談，鑑於當前的經濟與製造風險，他們尚未準備好接受高NA極限效應。

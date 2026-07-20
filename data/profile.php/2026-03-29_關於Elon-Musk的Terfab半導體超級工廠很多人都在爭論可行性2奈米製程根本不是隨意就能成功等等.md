@@ -4,22 +4,22 @@ title: "關於Elon Musk的Terfab半導體超級工廠，很多人都在爭論可
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0tBTU97n3Lpk3kWo3REbfGtx2Su6rXp4iq3KfAbVkAzza3g7hhPfeDWRdrkgmNo6il&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0tMraSJfAiHH7JLzDZ47rUsvqjkYVvhTNdbhiPV7p35C8EwuRrhGPveeB7ctbzrNFl&id=61573146584049"
 creation_time_utc: "2026-03-29T10:53:56+00:00"
-fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
+fetched_at_utc: "2026-07-20T12:57:19.783956+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/659730266_122177316278771552_6695948338403633023_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=TCYaMJvuC4gQ7kNvwG2thwN&_nc_oc=AdrOrFoj_UCIjztI2Mn4M-eX3jaS6f9lyhzJf2bTkFWZNx3wpjaDfohDob2kZtbUC5w&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=E9CRK-93aq11Dcdzjg8koQ&_nc_ss=7e120&oh=00_Af_Vb7iHiQK4GzQ2WjHfkirjbRrrAuY2XC1Kt104nzb8xw&oe=6A2C5172"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/659730266_122177316278771552_6695948338403633023_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=QiA4950z2nEQ7kNvwG_eORS&_nc_oc=AdoEmAFG4zXDidEdMk3jD3aYnNXMWpEyx2yqUByUmA4eg5Y-H1PLkCWUra1MXfxhUzA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=-k2nHZqIw7akTiKKchfE3Q&_nc_ss=7e120&oh=00_AQCA10ml2QCJrmYu4W9AJDweRuhAbBxrAQzsAg4COJFDtA&oe=6A63E8B2"
 feedback_id: "ZmVlZGJhY2s6MTIyMTc3MzE2MzAyNzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 關於Elon Musk的Terfab半導體超級工廠，很多人都在爭論可行性，2奈米製程根本不是隨意就能成功等等。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0tBTU97n3Lpk3kWo3REbfGtx2Su6rXp4iq3KfAbVkAzza3g7hhPfeDWRdrkgmNo6il&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0tMraSJfAiHH7JLzDZ47rUsvqjkYVvhTNdbhiPV7p35C8EwuRrhGPveeB7ctbzrNFl&id=61573146584049
 
-![關於Elon Musk的Terfab半導體超級工廠，很多人都在爭論可行性，2奈米製程根本不是隨意就能成功等等。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/659730266_122177316278771552_6695948338403633023_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=TCYaMJvuC4gQ7kNvwG2thwN&_nc_oc=AdrOrFoj_UCIjztI2Mn4M-eX3jaS6f9lyhzJf2bTkFWZNx3wpjaDfohDob2kZtbUC5w&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=E9CRK-93aq11Dcdzjg8koQ&_nc_ss=7e120&oh=00_Af_Vb7iHiQK4GzQ2WjHfkirjbRrrAuY2XC1Kt104nzb8xw&oe=6A2C5172)
+![關於Elon Musk的Terfab半導體超級工廠，很多人都在爭論可行性，2奈米製程根本不是隨意就能成功等等。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/659730266_122177316278771552_6695948338403633023_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=QiA4950z2nEQ7kNvwG_eORS&_nc_oc=AdoEmAFG4zXDidEdMk3jD3aYnNXMWpEyx2yqUByUmA4eg5Y-H1PLkCWUra1MXfxhUzA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=-k2nHZqIw7akTiKKchfE3Q&_nc_ss=7e120&oh=00_AQCA10ml2QCJrmYu4W9AJDweRuhAbBxrAQzsAg4COJFDtA&oe=6A63E8B2)
 關於Elon Musk的Terfab半導體超級工廠，很多人都在爭論可行性，2奈米製程根本不是隨意就能成功等等。
 ​
 但作為投資者，我們不需要跟著群眾的情緒起伏，而是應該思考問題的本質。

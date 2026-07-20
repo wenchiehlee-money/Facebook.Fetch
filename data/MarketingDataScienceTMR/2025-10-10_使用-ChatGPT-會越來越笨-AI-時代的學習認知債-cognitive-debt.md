@@ -4,22 +4,22 @@ title: "【使用 #ChatGPT 會越來越笨😱？ AI 時代的學習認知債（
 page_title: ""
 requested_url: "https://www.facebook.com/MarketingDataScienceTMR"
 final_url: "https://www.facebook.com/MarketingDataScienceTMR"
-post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid032Vj9he9XkVBshX5sYhCYbCWd462VEPGRzAZgVHJ1hAEbsM3hNjj9jfyUUbTwmurjl"
+post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid032CAjSBTTJGReTtbadWkDYKq1MKo5gdBQ3NAyhyTVr3szXSN3ud2Z3aEanCUXigGhl"
 creation_time_utc: "2025-10-10T12:00:33+00:00"
-fetched_at_utc: "2026-06-08T07:22:13.449864+00:00"
+fetched_at_utc: "2026-07-20T12:46:13.851741+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/558869591_1112897547620556_7585989633685793924_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=x8WUd96OuTkQ7kNvwHeUkpJ&_nc_oc=AdoQkUUzZZV4H3eTHVm9P79fBG_Sjczc5EBDXo4e3t8_PDgm_VYJtb9mXou4duuxQMw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=3bR7bINYoF6bbE9gJ_AE4A&_nc_ss=7e120&oh=00_Af-9pyFXjK6uK9PH4cUDgVt-mzhxjpkRfS4OggDRmQGdpA&oe=6A2C47C8"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/558869591_1112897547620556_7585989633685793924_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KSGI_N8Qfj0Q7kNvwEFuHH8&_nc_oc=AdpyAMjA4P8VXOL3gt-c49QxhlrvkITrFvgWR7bStcJuPHzCB9gkBqzZkQEYZmGPItU&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=j0hgo9hdCTjk3Si6GkjB7Q&_nc_ss=7e120&oh=00_AQDidBfqB1-FGVQUXXpxB0OrHRGaFFyxLjDndM-nTatYjw&oe=6A63DF08"
 feedback_id: "ZmVlZGJhY2s6MTExMjg5ODkzNzYyMDQxNw=="
 page_canonical_url: ""
 ---
 
 # 【使用 #ChatGPT 會越來越笨😱？ AI 時代的學習認知債（ cognitive debt ）】
 
-原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid032Vj9he9XkVBshX5sYhCYbCWd462VEPGRzAZgVHJ1hAEbsM3hNjj9jfyUUbTwmurjl
+原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid032CAjSBTTJGReTtbadWkDYKq1MKo5gdBQ3NAyhyTVr3szXSN3ud2Z3aEanCUXigGhl
 
-![【使用 #ChatGPT 會越來越笨😱？ AI 時代的學習認知債（ cognitive debt ）】](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/558869591_1112897547620556_7585989633685793924_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=x8WUd96OuTkQ7kNvwHeUkpJ&_nc_oc=AdoQkUUzZZV4H3eTHVm9P79fBG_Sjczc5EBDXo4e3t8_PDgm_VYJtb9mXou4duuxQMw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=3bR7bINYoF6bbE9gJ_AE4A&_nc_ss=7e120&oh=00_Af-9pyFXjK6uK9PH4cUDgVt-mzhxjpkRfS4OggDRmQGdpA&oe=6A2C47C8)
+![【使用 #ChatGPT 會越來越笨😱？ AI 時代的學習認知債（ cognitive debt ）】](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/558869591_1112897547620556_7585989633685793924_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KSGI_N8Qfj0Q7kNvwEFuHH8&_nc_oc=AdpyAMjA4P8VXOL3gt-c49QxhlrvkITrFvgWR7bStcJuPHzCB9gkBqzZkQEYZmGPItU&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=j0hgo9hdCTjk3Si6GkjB7Q&_nc_ss=7e120&oh=00_AQDidBfqB1-FGVQUXXpxB0OrHRGaFFyxLjDndM-nTatYjw&oe=6A63DF08)
 【使用 #ChatGPT 會越來越笨😱？ AI 時代的學習認知債（ cognitive debt ）】
 最近麻省理工學院發表的一篇論文〈你的大腦與 ChatGPT ：在使用 AI 助理進行作文寫作時的認知債累積〉（ Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task ），揭示了這股潮流背後的「認知債」（ cognitive debt ）：一種看似便利卻可能削弱長期學習力的隱憂⛈️。
 

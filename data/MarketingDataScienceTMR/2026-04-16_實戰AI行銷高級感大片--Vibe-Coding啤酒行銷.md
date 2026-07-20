@@ -4,9 +4,9 @@ title: "實戰AI行銷高級感大片 & Vibe Coding：啤酒行銷"
 page_title: ""
 requested_url: "https://www.facebook.com/MarketingDataScienceTMR"
 final_url: "https://www.facebook.com/MarketingDataScienceTMR"
-post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0Ppkd6wUA6d9kcLFNAxz7C3WL8iiFhBBrhZkd62D2DHwgDWpkzFS2cPPBgpqEpNewl"
+post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0Q19jQ8MHU2cdECgQHtBgFnU4UKVpxa8Nxp6eHEK7sTWHJdbqgd8iSrKNgTCgQZJ5l"
 creation_time_utc: "2026-04-16T07:01:20+00:00"
-fetched_at_utc: "2026-06-08T07:22:13.449864+00:00"
+fetched_at_utc: "2026-07-20T12:46:13.851741+00:00"
 source: "public_graphql"
 attachment_type: "GenericAttachmentMedia"
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 實戰AI行銷高級感大片 & Vibe Coding：啤酒行銷
 
-原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0Ppkd6wUA6d9kcLFNAxz7C3WL8iiFhBBrhZkd62D2DHwgDWpkzFS2cPPBgpqEpNewl
+原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0Q19jQ8MHU2cdECgQHtBgFnU4UKVpxa8Nxp6eHEK7sTWHJdbqgd8iSrKNgTCgQZJ5l
 實戰AI行銷高級感大片 & Vibe Coding：啤酒行銷
 歡迎參考我們直播分享會： https://youtube.com/live/t_l_HFelr0s
 

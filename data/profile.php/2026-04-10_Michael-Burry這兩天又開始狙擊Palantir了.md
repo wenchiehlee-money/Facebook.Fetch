@@ -4,22 +4,22 @@ title: "Michael Burry這兩天又開始狙擊Palantir了。"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid023NjGwWWSjPV92tkAAMtpD3B1vuJqM9x4rjzjb5Zip4XNyb6sjmoJYuTWprr66v52l&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid037Qa6RNKPxQnqAMiXo8K6VEbkBXcwwUcmscnzUBjBCpyhc2f8vtvAxqrqXdeu5GF5l&id=61573146584049"
 creation_time_utc: "2026-04-10T10:07:11+00:00"
-fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
+fetched_at_utc: "2026-07-20T12:57:19.783956+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/668492971_122178694898771552_4324223621344062299_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3Hp2EEG_jQ0Q7kNvwF5ojEw&_nc_oc=AdqXQSp9Wh94kL9a67Lm4lm8HHNihSYz3cwV6QpUWhcl5l8Y0iPoYcGsA7LwK6eHGps&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ImZUDCP8aFmnljipBjNIsw&_nc_ss=7e120&oh=00_Af-llT2f3DQ47p7KNX3MMX-upNFBFzZWqIhaFMShXHp-ow&oe=6A2C2B13"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/668492971_122178694898771552_4324223621344062299_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zPW8g24kTCwQ7kNvwHoDIdP&_nc_oc=Adordn4L89LvF6tG-8iOD6Pw95OCuahmbb3tSnpiTdb-D9IuVV67CsMMTkJJKq8IPrM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=mcP_xZNCSN0TCPGDtanPDw&_nc_ss=7e120&oh=00_AQCVQh1I0BpNubfaQKbk_RPqlkxiC9QxN5aOsJFkNzh1eA&oe=6A63FA93"
 feedback_id: "ZmVlZGJhY2s6MTIyMTc4Njk0OTI4NzcxNTUy"
 page_canonical_url: ""
 ---
 
 # Michael Burry這兩天又開始狙擊Palantir了。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid023NjGwWWSjPV92tkAAMtpD3B1vuJqM9x4rjzjb5Zip4XNyb6sjmoJYuTWprr66v52l&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid037Qa6RNKPxQnqAMiXo8K6VEbkBXcwwUcmscnzUBjBCpyhc2f8vtvAxqrqXdeu5GF5l&id=61573146584049
 
-![Michael Burry這兩天又開始狙擊Palantir了。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/668492971_122178694898771552_4324223621344062299_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3Hp2EEG_jQ0Q7kNvwF5ojEw&_nc_oc=AdqXQSp9Wh94kL9a67Lm4lm8HHNihSYz3cwV6QpUWhcl5l8Y0iPoYcGsA7LwK6eHGps&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ImZUDCP8aFmnljipBjNIsw&_nc_ss=7e120&oh=00_Af-llT2f3DQ47p7KNX3MMX-upNFBFzZWqIhaFMShXHp-ow&oe=6A2C2B13)
+![Michael Burry這兩天又開始狙擊Palantir了。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/668492971_122178694898771552_4324223621344062299_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zPW8g24kTCwQ7kNvwHoDIdP&_nc_oc=Adordn4L89LvF6tG-8iOD6Pw95OCuahmbb3tSnpiTdb-D9IuVV67CsMMTkJJKq8IPrM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=mcP_xZNCSN0TCPGDtanPDw&_nc_ss=7e120&oh=00_AQCVQh1I0BpNubfaQKbk_RPqlkxiC9QxN5aOsJFkNzh1eA&oe=6A63FA93)
 Michael Burry這兩天又開始狙擊Palantir了。
 ​
 在他一則旋即刪除的推文中，Burry表示：「Anthropic正在吞噬Palantir的午餐。」（Anthropic is eating Palantir's lunch.）此話一出，Palantir股價應聲下挫。

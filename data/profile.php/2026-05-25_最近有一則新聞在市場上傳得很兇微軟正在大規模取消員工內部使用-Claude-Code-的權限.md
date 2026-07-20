@@ -4,22 +4,22 @@ title: "最近有一則新聞在市場上傳得很兇：微軟正在大規模取
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0D3diVdj6GXu9C7Feu61yWkWLcSroJvyx6BWApd4DZc4xwK6zzxfbpVoj1HysRHMLl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0Ck5JEB31pM2UcFAyTHjwMFVma8xgrqAtKMbMrudC76RLkqFD6K8gBz5Lo2RcmjZTl&id=61573146584049"
 creation_time_utc: "2026-05-25T12:07:02+00:00"
-fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
+fetched_at_utc: "2026-07-20T12:57:19.783956+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/705968904_122183978906771552_297583885428531863_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=GCxLSs9B4h0Q7kNvwFproLg&_nc_oc=AdryQX2n52Db6KhQDWuwDQRrQXgN52EVZeMzx79rESo2miz1G-1vUjryfRJAed2lKus&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=zyZJCAQWk_j3AYXctrgYvQ&_nc_ss=7e120&oh=00_Af_PeKQBlSfOtTR67tfhNdFkM3GnVcj_LFN0Tovwai9LMw&oe=6A2C37FF"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/705968904_122183978906771552_297583885428531863_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=5tXVeYLf9SIQ7kNvwGEkV0l&_nc_oc=AdpyD4bQfWKDj-dUKUsvfmSB0zL7lHFRcqrvnDhKllOdplhFg01hNlf73XqcXkU24IQ&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=cttbwMJuZFZsbVrjAftKAg&_nc_ss=7e120&oh=00_AQBobgEc_BhL9BK8CNTOsvmD-1OP9PZpld-AoUDf4EkwXg&oe=6A64077F"
 feedback_id: "ZmVlZGJhY2s6MTIyMTgzOTc4OTMwNzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 最近有一則新聞在市場上傳得很兇：微軟正在大規模取消員工內部使用 Claude Code 的權限。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0D3diVdj6GXu9C7Feu61yWkWLcSroJvyx6BWApd4DZc4xwK6zzxfbpVoj1HysRHMLl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0Ck5JEB31pM2UcFAyTHjwMFVma8xgrqAtKMbMrudC76RLkqFD6K8gBz5Lo2RcmjZTl&id=61573146584049
 
-![最近有一則新聞在市場上傳得很兇：微軟正在大規模取消員工內部使用 Claude Code 的權限。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/705968904_122183978906771552_297583885428531863_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=GCxLSs9B4h0Q7kNvwFproLg&_nc_oc=AdryQX2n52Db6KhQDWuwDQRrQXgN52EVZeMzx79rESo2miz1G-1vUjryfRJAed2lKus&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=zyZJCAQWk_j3AYXctrgYvQ&_nc_ss=7e120&oh=00_Af_PeKQBlSfOtTR67tfhNdFkM3GnVcj_LFN0Tovwai9LMw&oe=6A2C37FF)
+![最近有一則新聞在市場上傳得很兇：微軟正在大規模取消員工內部使用 Claude Code 的權限。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/705968904_122183978906771552_297583885428531863_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=5tXVeYLf9SIQ7kNvwGEkV0l&_nc_oc=AdpyD4bQfWKDj-dUKUsvfmSB0zL7lHFRcqrvnDhKllOdplhFg01hNlf73XqcXkU24IQ&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=cttbwMJuZFZsbVrjAftKAg&_nc_ss=7e120&oh=00_AQBobgEc_BhL9BK8CNTOsvmD-1OP9PZpld-AoUDf4EkwXg&oe=6A64077F)
 最近有一則新聞在市場上傳得很兇：微軟正在大規模取消員工內部使用 Claude Code 的權限。
 ​
 「看吧！連微軟這種萬億級巨頭都嫌貴、用不起了，AI 泡沫果然要破了！」，你可能會立刻得出這個結論。

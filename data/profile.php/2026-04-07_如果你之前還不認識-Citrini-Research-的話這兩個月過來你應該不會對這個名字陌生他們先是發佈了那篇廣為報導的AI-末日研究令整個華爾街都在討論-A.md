@@ -4,22 +4,22 @@ title: "如果你之前還不認識 Citrini Research 的話，這兩個月過來
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0X6jtpp8DUdXHQbvYmx5Bgmp7gxiXCce5BYtG2PVwXEMfRqvPH6TkmEg6JX7BqNtXl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0XH91811LrAbUDmdJtT9qPf3HTmQ8HY5De7UubpbZiD4PAy4j1FJ4ZYQt9wnhoNBal&id=61573146584049"
 creation_time_utc: "2026-04-07T05:03:41+00:00"
-fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
+fetched_at_utc: "2026-07-20T12:57:19.783956+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/667302272_122178319364771552_6046943532195811356_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=nbekauvxOaUQ7kNvwGtwHba&_nc_oc=AdpVva2_LpAcPYEZiXdz28w4GaP3-Qv0XfipVF2JMsCcrTAM8iMXaFmN34rB8FEK2U0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=rU8w5tMDrCtu3VHNPHBftw&_nc_ss=7e120&oh=00_Af9gy2pe0fRxKu50W-6YQHHG3mhZgH9yvNy33582pcjC3A&oe=6A2C2F67"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/667302272_122178319364771552_6046943532195811356_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=m32IHceyv38Q7kNvwHOXVp5&_nc_oc=AdoIC48ijO41XGdKvVFyqI-wpXDa8cCyK8xzVm24PFi49U1lHldrj44TOuW0yKhREf8&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Od_J6Uq7zBVzq8qzzd9wZw&_nc_ss=7e120&oh=00_AQBz0flSZwC4dvhtccGnelo_a9GACwziwyJnHhjSr36oUQ&oe=6A63FEE7"
 feedback_id: "ZmVlZGJhY2s6MTIyMTc4MzE5Mzg4NzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 如果你之前還不認識 Citrini Research 的話，這兩個月過來，你應該不會對這個名字陌生。他們先是發佈了那篇廣為報導的「AI 末日研究」，令整個華爾街都在討論 AI 會否令大部份人失業。然後就在昨天，他們發佈了一篇最新研究，再次引起極大討論。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0X6jtpp8DUdXHQbvYmx5Bgmp7gxiXCce5BYtG2PVwXEMfRqvPH6TkmEg6JX7BqNtXl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0XH91811LrAbUDmdJtT9qPf3HTmQ8HY5De7UubpbZiD4PAy4j1FJ4ZYQt9wnhoNBal&id=61573146584049
 
-![如果你之前還不認識 Citrini Research 的話，這兩個月過來，你應該不會對這個名字陌生。他們先是發佈了那篇廣為報導的「AI 末日研究」，令整個華爾街都在討論 AI 會否令大部份人失業。然後就在昨天，他們發佈了一篇最新研究，再次引起極大討論。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/667302272_122178319364771552_6046943532195811356_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=nbekauvxOaUQ7kNvwGtwHba&_nc_oc=AdpVva2_LpAcPYEZiXdz28w4GaP3-Qv0XfipVF2JMsCcrTAM8iMXaFmN34rB8FEK2U0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=rU8w5tMDrCtu3VHNPHBftw&_nc_ss=7e120&oh=00_Af9gy2pe0fRxKu50W-6YQHHG3mhZgH9yvNy33582pcjC3A&oe=6A2C2F67)
+![如果你之前還不認識 Citrini Research 的話，這兩個月過來，你應該不會對這個名字陌生。他們先是發佈了那篇廣為報導的「AI 末日研究」，令整個華爾街都在討論 AI 會否令大部份人失業。然後就在昨天，他們發佈了一篇最新研究，再次引起極大討論。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/667302272_122178319364771552_6046943532195811356_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=m32IHceyv38Q7kNvwHOXVp5&_nc_oc=AdoIC48ijO41XGdKvVFyqI-wpXDa8cCyK8xzVm24PFi49U1lHldrj44TOuW0yKhREf8&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Od_J6Uq7zBVzq8qzzd9wZw&_nc_ss=7e120&oh=00_AQBz0flSZwC4dvhtccGnelo_a9GACwziwyJnHhjSr36oUQ&oe=6A63FEE7)
 如果你之前還不認識 Citrini Research 的話，這兩個月過來，你應該不會對這個名字陌生。他們先是發佈了那篇廣為報導的「AI 末日研究」，令整個華爾街都在討論 AI 會否令大部份人失業。然後就在昨天，他們發佈了一篇最新研究，再次引起極大討論。
 ​
 簡單來說，他們認為現在所有人都看錯了，市場賴以為生的航運數據根本不準。

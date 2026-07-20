@@ -4,22 +4,22 @@ title: "----------\"根據Counterpoint Research最新發布的《智慧型手機
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02thGcjzHFWyPXAvstR7gvPKsvjBpSYD7VnpdxRK2nJHyXuroEWQa2KNdXXCHeNcQNl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02tsfj3BANtXCZNL9VhYnXt2tVw9a9ZnhCp1QQNdcjQ617qezSSAMMFRpoy9ZLpLpwl&id=100054201473657"
 creation_time_utc: "2026-05-14T10:36:19+00:00"
-fetched_at_utc: "2026-06-08T07:02:48.938731+00:00"
+fetched_at_utc: "2026-07-20T13:02:55.617710+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/696851386_1505242441292457_7487084845079741774_n.jpg?stp=cp6_dst-jpg_s640x640_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=9xquQShjkxcQ7kNvwGrRYhT&_nc_oc=Ado5_RM1AcRY7SUtEhsBQo7simS3SyBxleNlunPGJzRZOFW6iqQs36SbUJWNKXwwbt4&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=qPotzinSU-neWue2l73UEA&_nc_ss=7e120&oh=00_Af_QtWjttbv1P7OAEflfIJBtpoN0SuHRVIXkSoD8VlAgnw&oe=6A2C37DE"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/696851386_1505242441292457_7487084845079741774_n.jpg?stp=cp6_dst-jpg_s640x640_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=woGKxb1exckQ7kNvwHRlt-D&_nc_oc=AdostrTRlJoOhM7U8dnr8tXTGSTTETGSlcnk46UvLjQNfitgYDybKdoaNRByNhDWgZA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=bWy8KazJCBOHllBH6akRDA&_nc_ss=7e120&oh=00_AQBus_evuUwGE-HJY5TQPuvFYbFEXDySRMPNqhFBWY9sMQ&oe=6A64075E"
 feedback_id: "ZmVlZGJhY2s6MTUwNTI0MjQ3MTI5MjQ1NA=="
 page_canonical_url: ""
 ---
 
 # ----------"根據Counterpoint Research最新發布的《智慧型手機SoC人工智慧策略報告》， 到2025年底，具備智慧代理AI功能的SoC出貨量滲透率將達到4%，這表明市場仍處於早期採用階段。 聯發科率先透過天璣9400系列晶片實現智慧代理AI功能的商業化，隨後高通也推出了驍龍8 Elite Gen 5和驍龍8 Gen 5平台。這標誌著智慧型手機人工智慧 新周期的開始，  設備的功能正從AI助理逐漸轉向自主、情境感知的AI體驗。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02thGcjzHFWyPXAvstR7gvPKsvjBpSYD7VnpdxRK2nJHyXuroEWQa2KNdXXCHeNcQNl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02tsfj3BANtXCZNL9VhYnXt2tVw9a9ZnhCp1QQNdcjQ617qezSSAMMFRpoy9ZLpLpwl&id=100054201473657
 
-![----------"根據Counterpoint Research最新發布的《智慧型手機SoC人工智慧策略報告》， 到2025年底，具備智慧代理AI功能的SoC出貨量滲透率將達到4%，這表明市場仍處於早期採用階段。 聯發科率先透過天璣9400系列晶片實現智慧代理AI功能的商業化，隨後高通也推出了驍龍8 Elite Gen 5和驍龍8 Gen 5平台。這標誌著智慧型手機人工智慧 新周期的開始，  設備的功能正從AI助理逐漸轉向自主、情境感知的AI體驗。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/696851386_1505242441292457_7487084845079741774_n.jpg?stp=cp6_dst-jpg_s640x640_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=9xquQShjkxcQ7kNvwGrRYhT&_nc_oc=Ado5_RM1AcRY7SUtEhsBQo7simS3SyBxleNlunPGJzRZOFW6iqQs36SbUJWNKXwwbt4&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=qPotzinSU-neWue2l73UEA&_nc_ss=7e120&oh=00_Af_QtWjttbv1P7OAEflfIJBtpoN0SuHRVIXkSoD8VlAgnw&oe=6A2C37DE)
+![----------"根據Counterpoint Research最新發布的《智慧型手機SoC人工智慧策略報告》， 到2025年底，具備智慧代理AI功能的SoC出貨量滲透率將達到4%，這表明市場仍處於早期採用階段。 聯發科率先透過天璣9400系列晶片實現智慧代理AI功能的商業化，隨後高通也推出了驍龍8 Elite Gen 5和驍龍8 Gen 5平台。這標誌著智慧型手機人工智慧 新周期的開始，  設備的功能正從AI助理逐漸轉向自主、情境感知的AI體驗。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/696851386_1505242441292457_7487084845079741774_n.jpg?stp=cp6_dst-jpg_s640x640_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=woGKxb1exckQ7kNvwHRlt-D&_nc_oc=AdostrTRlJoOhM7U8dnr8tXTGSTTETGSlcnk46UvLjQNfitgYDybKdoaNRByNhDWgZA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=bWy8KazJCBOHllBH6akRDA&_nc_ss=7e120&oh=00_AQBus_evuUwGE-HJY5TQPuvFYbFEXDySRMPNqhFBWY9sMQ&oe=6A64075E)
 ----------"根據Counterpoint Research最新發布的《智慧型手機SoC人工智慧策略報告》， 到2025年底，具備智慧代理AI功能的SoC出貨量滲透率將達到4%，這表明市場仍處於早期採用階段。 聯發科率先透過天璣9400系列晶片實現智慧代理AI功能的商業化，隨後高通也推出了驍龍8 Elite Gen 5和驍龍8 Gen 5平台。這標誌著智慧型手機人工智慧 新周期的開始，  設備的功能正從AI助理逐漸轉向自主、情境感知的AI體驗。  
 
 智慧型代理智慧型手機能夠運作人工智慧系統，這些系統可以自主理解情境、規劃行動、做出決策，並代表使用者執行多步驟任務。從技術角度來看，這些智慧型手機需要高效能的NPU、TPU或支援INT2/INT4的神經網路引擎、更快的 記憶體 頻寬、先進的快取架構、近運算處理或記憶體處理（PIM）、先進的製程製程（4nm及以下）、增強的 混合邊緣雲端編排連接性 以及持續的電源效率，以支援即時智慧代理工作負載。 

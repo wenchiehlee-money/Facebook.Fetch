@@ -4,22 +4,22 @@ title: "Cloudflare 執行長 Matthew Prince 幾天前在《華爾街日報》發
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid07zBku4kfjsq9T25xb7nY9VnLTpeMTF8Mq6pStc4MQ3umx3NsJ5a6ovZQJVpAeMARl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid08AasCFdo7QkGWXBaGhd6EqNQNo8FhvWpPGgdBqon5b3nN7WSD1KkphWKJXd8WYgal&id=61573146584049"
 creation_time_utc: "2026-05-24T08:15:02+00:00"
-fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
+fetched_at_utc: "2026-07-20T12:57:19.783956+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/706297512_122183844836771552_2611283064840927047_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=rm1yWd2WLH8Q7kNvwGiVJXs&_nc_oc=AdrXUfQZLgloOyIZ2CHNFuZShQteulQxLEEm4iQc2QocNI4B8zlpIY5grL34_ZjBCWE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=zyZJCAQWk_j3AYXctrgYvQ&_nc_ss=7e120&oh=00_Af-s3sAbddj0tT7tO-wJmrG0jdETC6EOkumyyzV9_JmoHQ&oe=6A2C392D"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/706297512_122183844836771552_2611283064840927047_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=01se4yGj-woQ7kNvwE_0oB6&_nc_oc=AdpTPl81aGvObcCZs3Zpyhgz6PfAcdfj9BGByn1ylQIADt_eEflqNkTMdjDqth9MOGA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cttbwMJuZFZsbVrjAftKAg&_nc_ss=7e120&oh=00_AQBaiTd7IwJfYozk7P5GEkJIVF7i7Qt7XfMssiLTYD903Q&oe=6A6408AD"
 feedback_id: "ZmVlZGJhY2s6MTIyMTgzODQ0ODYwNzcxNTUy"
 page_canonical_url: ""
 ---
 
 # Cloudflare 執行長 Matthew Prince 幾天前在《華爾街日報》發了一篇專欄，標題很直白：「在 AI 時代，我如何選擇誰會被裁？」
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid07zBku4kfjsq9T25xb7nY9VnLTpeMTF8Mq6pStc4MQ3umx3NsJ5a6ovZQJVpAeMARl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid08AasCFdo7QkGWXBaGhd6EqNQNo8FhvWpPGgdBqon5b3nN7WSD1KkphWKJXd8WYgal&id=61573146584049
 
-![Cloudflare 執行長 Matthew Prince 幾天前在《華爾街日報》發了一篇專欄，標題很直白：「在 AI 時代，我如何選擇誰會被裁？」](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/706297512_122183844836771552_2611283064840927047_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=rm1yWd2WLH8Q7kNvwGiVJXs&_nc_oc=AdrXUfQZLgloOyIZ2CHNFuZShQteulQxLEEm4iQc2QocNI4B8zlpIY5grL34_ZjBCWE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=zyZJCAQWk_j3AYXctrgYvQ&_nc_ss=7e120&oh=00_Af-s3sAbddj0tT7tO-wJmrG0jdETC6EOkumyyzV9_JmoHQ&oe=6A2C392D)
+![Cloudflare 執行長 Matthew Prince 幾天前在《華爾街日報》發了一篇專欄，標題很直白：「在 AI 時代，我如何選擇誰會被裁？」](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/706297512_122183844836771552_2611283064840927047_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=01se4yGj-woQ7kNvwE_0oB6&_nc_oc=AdpTPl81aGvObcCZs3Zpyhgz6PfAcdfj9BGByn1ylQIADt_eEflqNkTMdjDqth9MOGA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cttbwMJuZFZsbVrjAftKAg&_nc_ss=7e120&oh=00_AQBaiTd7IwJfYozk7P5GEkJIVF7i7Qt7XfMssiLTYD903Q&oe=6A6408AD)
 Cloudflare 執行長 Matthew Prince 幾天前在《華爾街日報》發了一篇專欄，標題很直白：「在 AI 時代，我如何選擇誰會被裁？」
 ​
 他開門見山：公司剛創下營收成長紀錄、自由現金流強勁、全球客戶數創新高。然後，他裁掉了五分之一的員工。

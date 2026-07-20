@@ -4,12 +4,12 @@ title: "📌Uber（#UBER）開始限制員工使用 AI 工具的額度，藉此�
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid0gbpDtiA5sUfm5h1GKFc9MukKnJyWnfECmeNLTHcq2nuJPYRTYhvAo2JbGutUZrN6l"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0gnDLBu3DF1LgG8v4VQQKYUGVSbzYXqBTySLXuCgfvqCewdNDBPU6N9Rt8fouTcGGl"
 creation_time_utc: "2026-06-03T09:16:00+00:00"
-fetched_at_utc: "2026-06-08T07:24:00.578955+00:00"
+fetched_at_utc: "2026-07-20T12:47:38.432258+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/FinGuider/posts/pfbid0gbpDtiA5sUfm5h1GKFc9MukKnJyWnfECmeNLTHcq2nuJPYRTYhvAo2JbGutUZrN6l"
+attachment_url: "https://www.facebook.com/FinGuider/posts/pfbid0gnDLBu3DF1LgG8v4VQQKYUGVSbzYXqBTySLXuCgfvqCewdNDBPU6N9Rt8fouTcGGl"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTQ2NDU0NzA2NTcxNTQzNg=="
 page_canonical_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 📌Uber（#UBER）開始限制員工使用 AI 工具的額度，藉此控制早已超支的 AI 預算，員工可透過儀表板查看自己的使用情況，若有特殊業務需求則可申請額外的額度。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid0gbpDtiA5sUfm5h1GKFc9MukKnJyWnfECmeNLTHcq2nuJPYRTYhvAo2JbGutUZrN6l
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0gnDLBu3DF1LgG8v4VQQKYUGVSbzYXqBTySLXuCgfvqCewdNDBPU6N9Rt8fouTcGGl
 📌Uber（#UBER）開始限制員工使用 AI 工具的額度，藉此控制早已超支的 AI 預算，員工可透過儀表板查看自己的使用情況，若有特殊業務需求則可申請額外的額度。
 ​
 先前 Uber 曾鼓勵員工大量使用 AI 工具，甚至透過排行榜來比較不同團隊與員工的 AI 使用量，希望加速將 AI 技術導入開發與營運流程中。

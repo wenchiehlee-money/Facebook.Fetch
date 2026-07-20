@@ -4,22 +4,22 @@ title: "SK Hynix Group意外的只有成長45% QoQ、掉市佔"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02JmjwZxcfrAJ7fEjruJGwwY9dK6gvzzuuwiM1mpZPHYvp1PNBKy9KrQXy2nxM9a4zl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02Jx93s9VoDm4HoC2A4F2wudpcB9QcEg7wTqtXfca7GkwSR2ymRn42aucB63yj8H3Ql&id=100054201473657"
 creation_time_utc: "2026-05-26T05:41:36+00:00"
-fetched_at_utc: "2026-06-08T07:33:36.899093+00:00"
+fetched_at_utc: "2026-07-20T13:02:55.617710+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/707946693_1515085316974836_7863400201727744400_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OusPTyyaUmkQ7kNvwEZ4O5o&_nc_oc=AdoT8unuarOImhN7sKGzJVt6hCYDgomSt0WfIg0oQUxS7QUthI8pShkV_NJjpiPS_RE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=BntPM_2Z5WqZheOIPofjpw&_nc_ss=7e120&oh=00_Af-_m5tWs06Uhn8QYThUtIuTJbijfNX7j0LdqyD3MXNdPw&oe=6A2C3791"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/707946693_1515085316974836_7863400201727744400_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BP949r0iwWYQ7kNvwHYYixL&_nc_oc=AdpWI2NCtuMaNlaKzeRV2KgAfeCC8V59flimBY-HNyvTUvsAcgFW89Tq0JadEaEYVFo&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qYeOHT4qiLbbVXQnD2mFdw&_nc_ss=7e120&oh=00_AQAJ3txtnEOuAAzQRPmh4BpjuoXNBJQoL3lTp519iEkk-w&oe=6A640711"
 feedback_id: "ZmVlZGJhY2s6MTUxNTA4OTUzMzY0MTA4MQ=="
 page_canonical_url: ""
 ---
 
 # SK Hynix Group意外的只有成長45% QoQ、掉市佔
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02JmjwZxcfrAJ7fEjruJGwwY9dK6gvzzuuwiM1mpZPHYvp1PNBKy9KrQXy2nxM9a4zl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02Jx93s9VoDm4HoC2A4F2wudpcB9QcEg7wTqtXfca7GkwSR2ymRn42aucB63yj8H3Ql&id=100054201473657
 
-![SK Hynix Group意外的只有成長45% QoQ、掉市佔](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/707946693_1515085316974836_7863400201727744400_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OusPTyyaUmkQ7kNvwEZ4O5o&_nc_oc=AdoT8unuarOImhN7sKGzJVt6hCYDgomSt0WfIg0oQUxS7QUthI8pShkV_NJjpiPS_RE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=BntPM_2Z5WqZheOIPofjpw&_nc_ss=7e120&oh=00_Af-_m5tWs06Uhn8QYThUtIuTJbijfNX7j0LdqyD3MXNdPw&oe=6A2C3791)
+![SK Hynix Group意外的只有成長45% QoQ、掉市佔](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/707946693_1515085316974836_7863400201727744400_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BP949r0iwWYQ7kNvwHYYixL&_nc_oc=AdpWI2NCtuMaNlaKzeRV2KgAfeCC8V59flimBY-HNyvTUvsAcgFW89Tq0JadEaEYVFo&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qYeOHT4qiLbbVXQnD2mFdw&_nc_ss=7e120&oh=00_AQAJ3txtnEOuAAzQRPmh4BpjuoXNBJQoL3lTp519iEkk-w&oe=6A640711)
 SK Hynix Group意外的只有成長45% QoQ、掉市佔
 Sandisk趁缺貨良機，積極認證拉高資料中心eSSD比重，單季成長為三倍(+200%)
 PC/手機需求下滑，但Server需求填補缺口

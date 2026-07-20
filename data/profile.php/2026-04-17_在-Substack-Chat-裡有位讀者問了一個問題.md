@@ -4,9 +4,9 @@ title: "在 Substack Chat 裡，有位讀者問了一個問題："
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid05gBiCPhCdZ4XvC3ZiYvrJKzAQZNHBp1gGNbPkuPrEWwKApGLv8MrsCStvbHqeG9Ql&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid05NdHvw18BMyaXzhkuiDSKa7m5RdqqzPsioo7uoxniyJMaidc9tGGNMqZDSTmLzGWl&id=61573146584049"
 creation_time_utc: "2026-04-17T00:27:48+00:00"
-fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
+fetched_at_utc: "2026-07-20T12:57:19.783956+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 在 Substack Chat 裡，有位讀者問了一個問題：
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid05gBiCPhCdZ4XvC3ZiYvrJKzAQZNHBp1gGNbPkuPrEWwKApGLv8MrsCStvbHqeG9Ql&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid05NdHvw18BMyaXzhkuiDSKa7m5RdqqzPsioo7uoxniyJMaidc9tGGNMqZDSTmLzGWl&id=61573146584049
 在 Substack Chat 裡，有位讀者問了一個問題：
 ​
 「科技巨頭如 Google、Nvidia 幾年前應該就預見了 CPU 對推理的重要性，為什麼沒有提前佈局產能？是 AI 需求太驚人，還是大家都在摸著石頭過河？」

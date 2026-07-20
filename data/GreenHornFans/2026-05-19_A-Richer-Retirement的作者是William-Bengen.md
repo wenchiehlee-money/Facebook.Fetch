@@ -4,22 +4,22 @@ title: "A Richer Retirement的作者是William Bengen。"
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02aAeFNyL2CcG4uVAyVzZqVaL5rsXzaTdMqYe7hwEXkJayz9BjsjXatU6c1iFyw721l"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02aM3MgAD9a1jZpuvwCpimUTuJEetEh43b8DLejfy7CSfuw5K3WAU5RTbQ6N6dN9Vpl"
 creation_time_utc: "2026-05-19T23:33:03+00:00"
-fetched_at_utc: "2026-06-08T07:24:30.891930+00:00"
+fetched_at_utc: "2026-07-20T12:52:21.689884+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/701216980_1406293864637343_9159803328309221951_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=v-zfuupQrvIQ7kNvwFWFbUe&_nc_oc=AdpgfYlfyX6Fm0lQQvKuzAoCbH1WO5SR3TWOhvKoCoHTMf0Ws_bUhrk_JJwsVJ0-OdM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=-e9ulOhhXidBJrBnTbEHPA&_nc_ss=7e120&oh=00_Af9jXuSe7EvEskhDqmcpOya-PY_4qLEjNHscS9tX2dLLIA&oe=6A2C2CFB"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/701216980_1406293864637343_9159803328309221951_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-WJIINGYaroQ7kNvwG3cL2E&_nc_oc=AdpB6JuMv2Q5QqtEFisp8fzx1nY5dXXEsx42dcnPrXrE3bjQS4iQ-sSxIsiGckddXyg&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=3JbC3JQL55cH1J9KfLbyDA&_nc_ss=7e120&oh=00_AQCPrcDM6xioxtteh02xW1VllOSSWIGoOOPwgSDfPSvQqA&oe=6A63FC7B"
 feedback_id: "ZmVlZGJhY2s6MTQwNjYyMzE4NzkzNzc0NA=="
 page_canonical_url: ""
 ---
 
 # A Richer Retirement的作者是William Bengen。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02aAeFNyL2CcG4uVAyVzZqVaL5rsXzaTdMqYe7hwEXkJayz9BjsjXatU6c1iFyw721l
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02aM3MgAD9a1jZpuvwCpimUTuJEetEh43b8DLejfy7CSfuw5K3WAU5RTbQ6N6dN9Vpl
 
-![A Richer Retirement的作者是William Bengen。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/701216980_1406293864637343_9159803328309221951_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=v-zfuupQrvIQ7kNvwFWFbUe&_nc_oc=AdpgfYlfyX6Fm0lQQvKuzAoCbH1WO5SR3TWOhvKoCoHTMf0Ws_bUhrk_JJwsVJ0-OdM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=-e9ulOhhXidBJrBnTbEHPA&_nc_ss=7e120&oh=00_Af9jXuSe7EvEskhDqmcpOya-PY_4qLEjNHscS9tX2dLLIA&oe=6A2C2CFB)
+![A Richer Retirement的作者是William Bengen。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/701216980_1406293864637343_9159803328309221951_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-WJIINGYaroQ7kNvwG3cL2E&_nc_oc=AdpB6JuMv2Q5QqtEFisp8fzx1nY5dXXEsx42dcnPrXrE3bjQS4iQ-sSxIsiGckddXyg&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=3JbC3JQL55cH1J9KfLbyDA&_nc_ss=7e120&oh=00_AQCPrcDM6xioxtteh02xW1VllOSSWIGoOOPwgSDfPSvQqA&oe=6A63FC7B)
 A Richer Retirement的作者是William Bengen。
 
 這個名字在投資界是如雷貫耳，他就是4%安全退休提領率的始祖。

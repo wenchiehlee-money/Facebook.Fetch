@@ -4,22 +4,22 @@ title: "星期五，市場風雲突變，基本上呈現了過去的贏家全線
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0puKdF39KDGRMLkNd4MXwPZ77wwBZ8vHnNeaStVBcQBhdrExAxyAqc7M6fmJZmhyxl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02tTCvAFP4cPyRpbKNZ4uF9sEjpXs9WJYLvNhyhSoUjyWg4VzNt2p5x89i78gfwdurl&id=61573146584049"
 creation_time_utc: "2026-06-06T07:41:00+00:00"
-fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
+fetched_at_utc: "2026-07-20T12:57:19.783956+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/716610771_122185232522771552_6328320739164431031_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qLRVjTxVSSgQ7kNvwG5H4g4&_nc_oc=Adq9qEsBxPxsKKYWffIYhyXL1OtOdbMkU8GXgwGy7FLo6oYcISUu8gc6ZKS3i79oi64&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=kyV-4qaSJ6EyYSv-EaxJvg&_nc_ss=7e120&oh=00_Af9GNidjiZ7ezDWzfOiugQ1MP6zskpiPr3H6s-gDvBA0EQ&oe=6A2C360F"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/716610771_122185232522771552_6328320739164431031_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xdCKDOU_uO4Q7kNvwEQyLTj&_nc_oc=Adqd_RR40fNql4ys-plic2pnIDS7PX_vdWbKmC9Re828-XrQOUX4CIiKriUPqO4EIRE&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=NQC0akr2sMp7hVk9HOUZgw&_nc_ss=7e120&oh=00_AQDevg40h4S3aUudN6alv_T8s3NVNhB8PJTRKVdP7U1gFw&oe=6A64058F"
 feedback_id: "ZmVlZGJhY2s6MTIyMTg1MjMzMzUwNzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 星期五，市場風雲突變，基本上呈現了過去的贏家全線下挫的態勢。這種下跌是典型的「Beta 式下跌」，高 Beta 的標的跌幅深一些，低 Beta 的則相對抗跌。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0puKdF39KDGRMLkNd4MXwPZ77wwBZ8vHnNeaStVBcQBhdrExAxyAqc7M6fmJZmhyxl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02tTCvAFP4cPyRpbKNZ4uF9sEjpXs9WJYLvNhyhSoUjyWg4VzNt2p5x89i78gfwdurl&id=61573146584049
 
-![星期五，市場風雲突變，基本上呈現了過去的贏家全線下挫的態勢。這種下跌是典型的「Beta 式下跌」，高 Beta 的標的跌幅深一些，低 Beta 的則相對抗跌。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/716610771_122185232522771552_6328320739164431031_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qLRVjTxVSSgQ7kNvwG5H4g4&_nc_oc=Adq9qEsBxPxsKKYWffIYhyXL1OtOdbMkU8GXgwGy7FLo6oYcISUu8gc6ZKS3i79oi64&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=kyV-4qaSJ6EyYSv-EaxJvg&_nc_ss=7e120&oh=00_Af9GNidjiZ7ezDWzfOiugQ1MP6zskpiPr3H6s-gDvBA0EQ&oe=6A2C360F)
+![星期五，市場風雲突變，基本上呈現了過去的贏家全線下挫的態勢。這種下跌是典型的「Beta 式下跌」，高 Beta 的標的跌幅深一些，低 Beta 的則相對抗跌。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/716610771_122185232522771552_6328320739164431031_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xdCKDOU_uO4Q7kNvwEQyLTj&_nc_oc=Adqd_RR40fNql4ys-plic2pnIDS7PX_vdWbKmC9Re828-XrQOUX4CIiKriUPqO4EIRE&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=NQC0akr2sMp7hVk9HOUZgw&_nc_ss=7e120&oh=00_AQDevg40h4S3aUudN6alv_T8s3NVNhB8PJTRKVdP7U1gFw&oe=6A64058F)
 星期五，市場風雲突變，基本上呈現了過去的贏家全線下挫的態勢。這種下跌是典型的「Beta 式下跌」，高 Beta 的標的跌幅深一些，低 Beta 的則相對抗跌。
 ​
 這種「無差別下跌」顯然是由宏觀因素驅動的。由於非農就業數據異常強勁，市場情緒迅速轉向，開始對年底可能發生的「加息」進行定價。

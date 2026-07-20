@@ -4,22 +4,22 @@ title: "First Eagle Global Fund是一支長青基金，經理人Jean-Marie Eveil
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid058d8ZpaLLCtmP6QeWyRvWKbNNJ8s3bqy3PcETXvHeqg5b9JTYYXT9B6DCYdxQBpcl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid05K2Es1TThtyxVqQPNHgQHCaQuArrvRbkfLozNPrN9iknU6qYEMUZxcgRNNTSpJjnl"
 creation_time_utc: "2026-05-29T23:29:33+00:00"
-fetched_at_utc: "2026-06-08T07:24:30.891930+00:00"
+fetched_at_utc: "2026-07-20T12:52:21.689884+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/712116186_1414807620452634_955853981384345575_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_Ezrgp2w160Q7kNvwF_2Lya&_nc_oc=AdrqVJHOk_zhfeTA-W-Ayegukq10GizYToAJyVR6tmrlaXHJEfRhJ5MpZx4MagCMaNM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZDB52lyg66AeI17PGL6zaA&_nc_ss=7e120&oh=00_Af-ro2uita88IftyygNfnDWDIbg0GMyH70mSudX6JxD5KQ&oe=6A2C525D"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/712116186_1414807620452634_955853981384345575_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_EaZf8qhyMwQ7kNvwHPAW8i&_nc_oc=AdpTyMZU2Nwb7SpT1k3DbqFHsNkPpKheVk0Ohjey8RUY0jYBJf_XbP3p_TyC6Vxzfuo&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=79-1cr6oxP8nR63XvR9R4Q&_nc_ss=7e120&oh=00_AQBr5rhkT0GWkOAG0sBt8l5yip9jkkuNVjfKutY3zdv52g&oe=6A63E99D"
 feedback_id: "ZmVlZGJhY2s6MTQxNDgwODE2Mzc4NTkxMw=="
 page_canonical_url: ""
 ---
 
 # First Eagle Global Fund是一支長青基金，經理人Jean-Marie Eveillard得到許多晨星獎項。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid058d8ZpaLLCtmP6QeWyRvWKbNNJ8s3bqy3PcETXvHeqg5b9JTYYXT9B6DCYdxQBpcl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid05K2Es1TThtyxVqQPNHgQHCaQuArrvRbkfLozNPrN9iknU6qYEMUZxcgRNNTSpJjnl
 
-![First Eagle Global Fund是一支長青基金，經理人Jean-Marie Eveillard得到許多晨星獎項。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/712116186_1414807620452634_955853981384345575_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_Ezrgp2w160Q7kNvwF_2Lya&_nc_oc=AdrqVJHOk_zhfeTA-W-Ayegukq10GizYToAJyVR6tmrlaXHJEfRhJ5MpZx4MagCMaNM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZDB52lyg66AeI17PGL6zaA&_nc_ss=7e120&oh=00_Af-ro2uita88IftyygNfnDWDIbg0GMyH70mSudX6JxD5KQ&oe=6A2C525D)
+![First Eagle Global Fund是一支長青基金，經理人Jean-Marie Eveillard得到許多晨星獎項。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/712116186_1414807620452634_955853981384345575_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_EaZf8qhyMwQ7kNvwHPAW8i&_nc_oc=AdpTyMZU2Nwb7SpT1k3DbqFHsNkPpKheVk0Ohjey8RUY0jYBJf_XbP3p_TyC6Vxzfuo&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=79-1cr6oxP8nR63XvR9R4Q&_nc_ss=7e120&oh=00_AQBr5rhkT0GWkOAG0sBt8l5yip9jkkuNVjfKutY3zdv52g&oe=6A63E99D)
 First Eagle Global Fund是一支長青基金，經理人Jean-Marie Eveillard得到許多晨星獎項。
 
 但事情不是一直如此平順。"Richer, Wiser, Happier"書中提到他在90年代的經歷。

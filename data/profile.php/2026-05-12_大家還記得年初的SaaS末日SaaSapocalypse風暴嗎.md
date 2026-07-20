@@ -4,22 +4,22 @@ title: "大家還記得年初的「SaaS末日」（SaaSapocalypse）風暴嗎？
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0usdsr5eL7GhVgRPDkoJzgvAw9nsf6umK5twV42pRfov4ZN49kXmqznPCNmR2fpWil&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0ua5TacxFf3n3i153mLbDsrE5PZz3bRq8aLGwgRR52JviabVHxL8jJMmVLFNE8L87l&id=61573146584049"
 creation_time_utc: "2026-05-12T11:46:45+00:00"
-fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
+fetched_at_utc: "2026-07-20T12:57:19.783956+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/693965467_122182438364771552_803605026198974491_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_dHD_3piBdoQ7kNvwEtixNb&_nc_oc=Adr8SeIocMB96I0j-_R5HUGEU_FjLBnKosh2E73jlBH-DqIyo0w9K_JX0XssdMZsRME&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=vg-yYfwzrcXGO7CAkSLW7w&_nc_ss=7e120&oh=00_Af-hgUFXktElQfMvM6JP1SRCfk_8X-6oLvNMmrOYMVfAgg&oe=6A2C4288"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/693965467_122182438364771552_803605026198974491_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ggnrnX9G0C0Q7kNvwF0XOla&_nc_oc=Ado8CxUv3xpOafbxrcsnhqoUrRiMaVVdBuQQj6g3EeHjbvuy_ttAkCnaA2Hv5G6rF-s&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=T4iQpYeUqbX6AAOXkoHWfA&_nc_ss=7e120&oh=00_AQAw9AIbHk2IbosqrNXXdelUr0rugmlR3hIf7JGYkRLZTA&oe=6A63D9C8"
 feedback_id: "ZmVlZGJhY2s6MTIyMTgyNDM4Mzg4NzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 大家還記得年初的「SaaS末日」（SaaSapocalypse）風暴嗎？
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0usdsr5eL7GhVgRPDkoJzgvAw9nsf6umK5twV42pRfov4ZN49kXmqznPCNmR2fpWil&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0ua5TacxFf3n3i153mLbDsrE5PZz3bRq8aLGwgRR52JviabVHxL8jJMmVLFNE8L87l&id=61573146584049
 
-![大家還記得年初的「SaaS末日」（SaaSapocalypse）風暴嗎？](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/693965467_122182438364771552_803605026198974491_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_dHD_3piBdoQ7kNvwEtixNb&_nc_oc=Adr8SeIocMB96I0j-_R5HUGEU_FjLBnKosh2E73jlBH-DqIyo0w9K_JX0XssdMZsRME&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=vg-yYfwzrcXGO7CAkSLW7w&_nc_ss=7e120&oh=00_Af-hgUFXktElQfMvM6JP1SRCfk_8X-6oLvNMmrOYMVfAgg&oe=6A2C4288)
+![大家還記得年初的「SaaS末日」（SaaSapocalypse）風暴嗎？](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/693965467_122182438364771552_803605026198974491_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ggnrnX9G0C0Q7kNvwF0XOla&_nc_oc=Ado8CxUv3xpOafbxrcsnhqoUrRiMaVVdBuQQj6g3EeHjbvuy_ttAkCnaA2Hv5G6rF-s&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=T4iQpYeUqbX6AAOXkoHWfA&_nc_ss=7e120&oh=00_AQAw9AIbHk2IbosqrNXXdelUr0rugmlR3hIf7JGYkRLZTA&oe=6A63D9C8)
 大家還記得年初的「SaaS末日」（SaaSapocalypse）風暴嗎？
 ​
 當時哀鴻遍野，市場像瘋了一樣無差別拋售，彷彿只要名字帶有「軟體」兩個字的公司，都註定要被 AI 代理人（AI Agents）送進墳墓。

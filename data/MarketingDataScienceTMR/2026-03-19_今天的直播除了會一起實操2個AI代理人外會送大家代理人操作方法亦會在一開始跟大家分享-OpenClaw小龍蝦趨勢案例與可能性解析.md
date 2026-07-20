@@ -4,22 +4,22 @@ title: "今天的直播除了會一起實操2個AI代理人外（會送大家代
 page_title: ""
 requested_url: "https://www.facebook.com/MarketingDataScienceTMR"
 final_url: "https://www.facebook.com/MarketingDataScienceTMR"
-post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0ZBJqSZMQQ3YbTLrtKHG95uZ9e6MeQgnUPJaptgEK1yqeJ8PrMemoRTFG5E2Q1VjQl"
+post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0YskRB6fKwkHNzirF4xyFXBYgx7bEftpuKsqSy4VsSuLhXFhbnChYxVSeHcrYyyMgl"
 creation_time_utc: "2026-03-19T05:05:19+00:00"
-fetched_at_utc: "2026-06-08T07:22:13.449864+00:00"
+fetched_at_utc: "2026-07-20T12:46:13.851741+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/654754593_1235612572015719_4171040504265614083_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=I5qDqgWJMrUQ7kNvwGkuE_z&_nc_oc=AdpDFwM_prNjR-LXtGa7viLLZx7qgLIExmeGjjlsjaAUCwKFUfe4NXKAaojM9KTznNs&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Z-uA1yOW_cgNyI6g6sJQmw&_nc_ss=7e120&oh=00_Af9ugnORQ4eCHS1O8gUohRJKDaq_a7wegw34U69SDZJG9Q&oe=6A2C4BC5"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/654754593_1235612572015719_4171040504265614083_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=md04QkiaKSsQ7kNvwFAIxaJ&_nc_oc=AdrpBwCM8x4vfiNGB_2vNi-sUhkAPqZZoqr46k51ppgpy_9G4D_Lj-EA5qjjS0CGElU&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=bZE1KqmINRO5qDtjQ1sfvg&_nc_ss=7e120&oh=00_AQCtvAIGghOTNW_Qcrj-LstadhT_21fO3PnNrIvAaw4aDQ&oe=6A63E305"
 feedback_id: "ZmVlZGJhY2s6MTIzNTYxMjc3ODY4MjM2NQ=="
 page_canonical_url: ""
 ---
 
 # 今天的直播除了會一起實操2個AI代理人外（會送大家代理人操作方法），亦會在一開始跟大家分享 OpenClaw（小龍蝦）趨勢、案例與可能性解析
 
-原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0ZBJqSZMQQ3YbTLrtKHG95uZ9e6MeQgnUPJaptgEK1yqeJ8PrMemoRTFG5E2Q1VjQl
+原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0YskRB6fKwkHNzirF4xyFXBYgx7bEftpuKsqSy4VsSuLhXFhbnChYxVSeHcrYyyMgl
 
-![今天的直播除了會一起實操2個AI代理人外（會送大家代理人操作方法），亦會在一開始跟大家分享 OpenClaw（小龍蝦）趨勢、案例與可能性解析](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/654754593_1235612572015719_4171040504265614083_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=I5qDqgWJMrUQ7kNvwGkuE_z&_nc_oc=AdpDFwM_prNjR-LXtGa7viLLZx7qgLIExmeGjjlsjaAUCwKFUfe4NXKAaojM9KTznNs&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Z-uA1yOW_cgNyI6g6sJQmw&_nc_ss=7e120&oh=00_Af9ugnORQ4eCHS1O8gUohRJKDaq_a7wegw34U69SDZJG9Q&oe=6A2C4BC5)
+![今天的直播除了會一起實操2個AI代理人外（會送大家代理人操作方法），亦會在一開始跟大家分享 OpenClaw（小龍蝦）趨勢、案例與可能性解析](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/654754593_1235612572015719_4171040504265614083_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=md04QkiaKSsQ7kNvwFAIxaJ&_nc_oc=AdrpBwCM8x4vfiNGB_2vNi-sUhkAPqZZoqr46k51ppgpy_9G4D_Lj-EA5qjjS0CGElU&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=bZE1KqmINRO5qDtjQ1sfvg&_nc_ss=7e120&oh=00_AQCtvAIGghOTNW_Qcrj-LstadhT_21fO3PnNrIvAaw4aDQ&oe=6A63E305)
 今天的直播除了會一起實操2個AI代理人外（會送大家代理人操作方法），亦會在一開始跟大家分享 OpenClaw（小龍蝦）趨勢、案例與可能性解析
 
 相關的案件包含：

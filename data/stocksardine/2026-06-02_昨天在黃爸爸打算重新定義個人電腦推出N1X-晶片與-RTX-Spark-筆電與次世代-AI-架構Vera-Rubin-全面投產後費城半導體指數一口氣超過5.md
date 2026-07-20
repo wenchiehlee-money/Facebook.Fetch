@@ -4,12 +4,12 @@ title: "昨天在黃爸爸打算重新定義個人電腦推出「N1X 晶片與 R
 page_title: ""
 requested_url: "https://www.facebook.com/stocksardine"
 final_url: "https://www.facebook.com/stocksardine"
-post_url: "https://www.facebook.com/stocksardine/posts/pfbid02PbySQmdGCzoMFXsGS9gZfSykj3qiGNy6u6c1vnR4UuhfXuYisENCYdGtBKZiA7eBl"
+post_url: "https://www.facebook.com/stocksardine/posts/pfbid0LEjMnnt2jGB5UDnstdKZmRHsdF8SG7qoC8pCF1NAb7Xowg44D2iUALfRxL7tZBrjl"
 creation_time_utc: "2026-06-02T22:59:47+00:00"
-fetched_at_utc: "2026-06-08T07:24:48.772747+00:00"
+fetched_at_utc: "2026-07-20T12:54:29.949228+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/stocksardine/posts/pfbid02PbySQmdGCzoMFXsGS9gZfSykj3qiGNy6u6c1vnR4UuhfXuYisENCYdGtBKZiA7eBl"
+attachment_url: "https://www.facebook.com/stocksardine/posts/pfbid0LEjMnnt2jGB5UDnstdKZmRHsdF8SG7qoC8pCF1NAb7Xowg44D2iUALfRxL7tZBrjl"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTQ0OTc1MjUwMDUyNDE2OA=="
 page_canonical_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 昨天在黃爸爸打算重新定義個人電腦推出「N1X 晶片與 RTX Spark 筆電」與「次世代 AI 架構：Vera Rubin 全面投產」後，費城半導體指數一口氣📈超過5%
 
-原文連結: https://www.facebook.com/stocksardine/posts/pfbid02PbySQmdGCzoMFXsGS9gZfSykj3qiGNy6u6c1vnR4UuhfXuYisENCYdGtBKZiA7eBl
+原文連結: https://www.facebook.com/stocksardine/posts/pfbid0LEjMnnt2jGB5UDnstdKZmRHsdF8SG7qoC8pCF1NAb7Xowg44D2iUALfRxL7tZBrjl
 昨天在黃爸爸打算重新定義個人電腦推出「N1X 晶片與 RTX Spark 筆電」與「次世代 AI 架構：Vera Rubin 全面投產」後，費城半導體指數一口氣📈超過5%
 .
 台股兩大權值股 台積電 & 鴻海 ADR 也跟進上漲超過2%以上。台指期夜盤也一口氣飛躍46600點

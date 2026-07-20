@@ -4,22 +4,22 @@ title: "【#Snowflake 搶攻企業 AI，大手筆綁定 AWS】"
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid02nsNeLw8Z99siKz6ihy3rojtTW8wC6keoQm9X7Hx9tTdRg2FvYggWf5PrJqab8nt5l"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid02o3mke81gWfRsgavGHxfWAZUixSKRuz2ji9GVPbBEYoiDLteZZ93ttXiTdRE7dG3il"
 creation_time_utc: "2026-05-28T03:06:47+00:00"
-fetched_at_utc: "2026-06-08T07:24:00.578955+00:00"
+fetched_at_utc: "2026-07-20T12:47:38.432258+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/710755735_1458759876294155_971015848413642958_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qOITDMXeukkQ7kNvwHYpWA8&_nc_oc=AdpSoX15nQ6vPzZ4mamj_lBnq6Zn7vrvfqMzR1mh4rk8vRCDgImWeTgl__mQpy3b8mo&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=rM14586aZSzYSTpWtnvk5g&_nc_ss=7e120&oh=00_Af9iQ5DZqxH6PmpNshAb73cnrmAhUcXT70qWxdObPBX-WA&oe=6A2C3750"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/710755735_1458759876294155_971015848413642958_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EkabqWlwf4sQ7kNvwF_Jvkc&_nc_oc=Ado3e3Y5cnBYxng_TgaVmtSavpyLPrt6R08NhgzHue7dSDbLd4F6pdiXm68TA1j7oss&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=2bwr1ljzxr6dAfDVWkifVQ&_nc_ss=7e120&oh=00_AQDlvv0_hX7EnJmFPzAISb9DIYlyxoHoY4VZ-AEcbTscdg&oe=6A6406D0"
 feedback_id: "ZmVlZGJhY2s6MTQ1ODc2OTE3Mjk1OTg5Mg=="
 page_canonical_url: ""
 ---
 
 # 【#Snowflake 搶攻企業 AI，大手筆綁定 AWS】
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid02nsNeLw8Z99siKz6ihy3rojtTW8wC6keoQm9X7Hx9tTdRg2FvYggWf5PrJqab8nt5l
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid02o3mke81gWfRsgavGHxfWAZUixSKRuz2ji9GVPbBEYoiDLteZZ93ttXiTdRE7dG3il
 
-![【#Snowflake 搶攻企業 AI，大手筆綁定 AWS】](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/710755735_1458759876294155_971015848413642958_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qOITDMXeukkQ7kNvwHYpWA8&_nc_oc=AdpSoX15nQ6vPzZ4mamj_lBnq6Zn7vrvfqMzR1mh4rk8vRCDgImWeTgl__mQpy3b8mo&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=rM14586aZSzYSTpWtnvk5g&_nc_ss=7e120&oh=00_Af9iQ5DZqxH6PmpNshAb73cnrmAhUcXT70qWxdObPBX-WA&oe=6A2C3750)
+![【#Snowflake 搶攻企業 AI，大手筆綁定 AWS】](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/710755735_1458759876294155_971015848413642958_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EkabqWlwf4sQ7kNvwF_Jvkc&_nc_oc=Ado3e3Y5cnBYxng_TgaVmtSavpyLPrt6R08NhgzHue7dSDbLd4F6pdiXm68TA1j7oss&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=2bwr1ljzxr6dAfDVWkifVQ&_nc_ss=7e120&oh=00_AQDlvv0_hX7EnJmFPzAISb9DIYlyxoHoY4VZ-AEcbTscdg&oe=6A6406D0)
 【#Snowflake 搶攻企業 AI，大手筆綁定 AWS】
 ​
 Snowflake（#SNOW）最新一季財報公布後，股價盤後一度大漲 +37％。這次不只是財測上修，更代表企業 AI 支出開始從「試驗階段」逐漸走向正式部署。

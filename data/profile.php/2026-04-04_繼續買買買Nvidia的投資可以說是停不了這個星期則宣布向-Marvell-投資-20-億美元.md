@@ -4,22 +4,22 @@ title: "繼續買買買，Nvidia的投資可以說是停不了，這個星期則
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0YxkRrVCRUSg7aFHGmyJYkWpbgv2eQxBSySjAzAB2si2TkHUEmBXSXajjZyNoxG29l&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0Z99Y9g5Yqw1uvYqhWkPt2PhDq5aWTuhCjrmQBHxagv8uHU5JP2GEuU7uCpjf73Skl&id=61573146584049"
 creation_time_utc: "2026-04-04T05:06:29+00:00"
-fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
+fetched_at_utc: "2026-07-20T12:57:19.783956+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/662066479_122177944478771552_8741222200276190042_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=SYLETFxHfVQQ7kNvwF-E6Yy&_nc_oc=Adq1s_tOM8twOpgd0BSqo1rSAsWLu6s0f3UMUlhavpGZDQ_unBRsx4xgffQqtm-WRGk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=WXqb2Bls4dH3HZ87WDRPpg&_nc_ss=7e120&oh=00_Af9iWO12NMMNc16AW49-OH8GQCB5FX8uq0WB5cBwGn6GBA&oe=6A2C2B1D"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/662066479_122177944478771552_8741222200276190042_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=YkeLm7bGLT4Q7kNvwG2Ziw4&_nc_oc=Adro0PqprfYwUCOZtWvYQEoaNxIZOXwKEW6BQYhXAZ71l-dyjINtaLfgmu57uHK4Hak&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=w8qVftPGyt2Efnm1dOBvJg&_nc_ss=7e120&oh=00_AQAuGjvagCUYaspE0l-sQn3d2xFs7mz9BQQT5bHARsJmTA&oe=6A63FA9D"
 feedback_id: "ZmVlZGJhY2s6MTIyMTc3OTQ0NTAyNzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 繼續買買買，Nvidia的投資可以說是停不了，這個星期則宣布向 Marvell 投資 20 億美元。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0YxkRrVCRUSg7aFHGmyJYkWpbgv2eQxBSySjAzAB2si2TkHUEmBXSXajjZyNoxG29l&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0Z99Y9g5Yqw1uvYqhWkPt2PhDq5aWTuhCjrmQBHxagv8uHU5JP2GEuU7uCpjf73Skl&id=61573146584049
 
-![繼續買買買，Nvidia的投資可以說是停不了，這個星期則宣布向 Marvell 投資 20 億美元。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/662066479_122177944478771552_8741222200276190042_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=SYLETFxHfVQQ7kNvwF-E6Yy&_nc_oc=Adq1s_tOM8twOpgd0BSqo1rSAsWLu6s0f3UMUlhavpGZDQ_unBRsx4xgffQqtm-WRGk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=WXqb2Bls4dH3HZ87WDRPpg&_nc_ss=7e120&oh=00_Af9iWO12NMMNc16AW49-OH8GQCB5FX8uq0WB5cBwGn6GBA&oe=6A2C2B1D)
+![繼續買買買，Nvidia的投資可以說是停不了，這個星期則宣布向 Marvell 投資 20 億美元。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/662066479_122177944478771552_8741222200276190042_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=YkeLm7bGLT4Q7kNvwG2Ziw4&_nc_oc=Adro0PqprfYwUCOZtWvYQEoaNxIZOXwKEW6BQYhXAZ71l-dyjINtaLfgmu57uHK4Hak&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=w8qVftPGyt2Efnm1dOBvJg&_nc_ss=7e120&oh=00_AQAuGjvagCUYaspE0l-sQn3d2xFs7mz9BQQT5bHARsJmTA&oe=6A63FA9D)
 繼續買買買，Nvidia的投資可以說是停不了，這個星期則宣布向 Marvell 投資 20 億美元。
 ​
 不過，這並非收購案，Nvidia 沒有買下 Marvell 的控制權，只是透過可轉換優先股取得了一個策略性的股權位置（最初可轉換為約 2180 萬股 Marvell 普通股）。

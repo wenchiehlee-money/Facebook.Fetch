@@ -4,9 +4,9 @@ title: "截至目前為主，已經有Nvidia、Samsung、Micron、SanDisk、Kiox
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02KGgW1fcwsMr8iNPcnhvJGS7BGq8512gksPcRPfHsKMysbokWbXDbrZjERobgYqjgl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02KT5cJrW5EsGhZQtxKB4HHwHfbYp7HwLNJsuN7xYRmeepUvS7t14dTNLf5HMMA12Gl&id=100054201473657"
 creation_time_utc: "2026-05-24T10:14:08+00:00"
-fetched_at_utc: "2026-06-08T07:33:36.899093+00:00"
+fetched_at_utc: "2026-07-20T13:02:55.617710+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 截至目前為主，已經有Nvidia、Samsung、Micron、SanDisk、Kioxia各大廠商(只缺SK Hynix尚未看到)，已經針對KV cache特別推出KV Cache專門設計的機架平台或SSD(都是TLC)產品，或者公開說明過KV cache造成SSD需求大增，或者兩者都有(又推KV cache SSD又公開說明SSD需求因KV cache大增)，或不只一次
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02KGgW1fcwsMr8iNPcnhvJGS7BGq8512gksPcRPfHsKMysbokWbXDbrZjERobgYqjgl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02KT5cJrW5EsGhZQtxKB4HHwHfbYp7HwLNJsuN7xYRmeepUvS7t14dTNLf5HMMA12Gl&id=100054201473657
 截至目前為主，已經有Nvidia、Samsung、Micron、SanDisk、Kioxia各大廠商(只缺SK Hynix尚未看到)，已經針對KV cache特別推出KV Cache專門設計的機架平台或SSD(都是TLC)產品，或者公開說明過KV cache造成SSD需求大增，或者兩者都有(又推KV cache SSD又公開說明SSD需求因KV cache大增)，或不只一次
 
 其中DRAM+NAND三大廠中有兩家，本身DRAM和NAND產品都有，卻提到KV cache受惠的是SSD

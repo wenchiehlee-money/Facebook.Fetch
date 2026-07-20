@@ -4,22 +4,22 @@ title: "【當行銷遇上 Transformer：#AI 不只會寫文案，更會預測�
 page_title: ""
 requested_url: "https://www.facebook.com/MarketingDataScienceTMR"
 final_url: "https://www.facebook.com/MarketingDataScienceTMR"
-post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid024tkev6TtqXQ41FyUpVYvpAnTrNeepoYQWPKCPr6QoHNy1uk4EVzR2VwWExtieHZcl"
+post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid02559mDHM2D9Y2q6hzHcNq4eeJFfkGVzg6jfsYgKZBmghcRGcBamdgp9mnfgt16XMGl"
 creation_time_utc: "2026-04-26T14:00:52+00:00"
-fetched_at_utc: "2026-06-08T07:22:13.449864+00:00"
+fetched_at_utc: "2026-07-20T12:46:13.851741+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/676822862_1261529482757361_8795569937195854018_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Bj0NYguqCUgQ7kNvwHnzrPR&_nc_oc=AdpSAXw0I4Bfu9SX4YR3gTKNkGBmThDOpqz7cjhq5f_9N64qQMN9t5pVMBbkDy66E7s&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=HHHOC5adQZCAB1lvh6fYdw&_nc_ss=7e120&oh=00_Af9IdvUixB_D3UYIZlXtkPSL99Ffp-upiV8jdTQWYvEauQ&oe=6A2C371C"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/676822862_1261529482757361_8795569937195854018_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-eI_W5DgcgAQ7kNvwE7YGLx&_nc_oc=Adrn_0MG49XA3ZdNyE1FV-KwUgNiNWy9j52fRSQKNsv6YrgiwMq25w8q1RC7WEVLd5I&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=LhoFuvVbBWzR9AB-kg59Cg&_nc_ss=7e120&oh=00_AQCoESSRVpxBEkGd0Kzirw-g67hH7fUlP8HGckcIovvOTg&oe=6A64069C"
 feedback_id: "ZmVlZGJhY2s6MTI2NTU3NzQ1MjM1MjU2NA=="
 page_canonical_url: ""
 ---
 
 # 【當行銷遇上 Transformer：#AI 不只會寫文案，更會預測誰快要下單】
 
-原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid024tkev6TtqXQ41FyUpVYvpAnTrNeepoYQWPKCPr6QoHNy1uk4EVzR2VwWExtieHZcl
+原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid02559mDHM2D9Y2q6hzHcNq4eeJFfkGVzg6jfsYgKZBmghcRGcBamdgp9mnfgt16XMGl
 
-![【當行銷遇上 Transformer：#AI 不只會寫文案，更會預測誰快要下單】](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/676822862_1261529482757361_8795569937195854018_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Bj0NYguqCUgQ7kNvwHnzrPR&_nc_oc=AdpSAXw0I4Bfu9SX4YR3gTKNkGBmThDOpqz7cjhq5f_9N64qQMN9t5pVMBbkDy66E7s&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=HHHOC5adQZCAB1lvh6fYdw&_nc_ss=7e120&oh=00_Af9IdvUixB_D3UYIZlXtkPSL99Ffp-upiV8jdTQWYvEauQ&oe=6A2C371C)
+![【當行銷遇上 Transformer：#AI 不只會寫文案，更會預測誰快要下單】](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/676822862_1261529482757361_8795569937195854018_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-eI_W5DgcgAQ7kNvwE7YGLx&_nc_oc=Adrn_0MG49XA3ZdNyE1FV-KwUgNiNWy9j52fRSQKNsv6YrgiwMq25w8q1RC7WEVLd5I&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=LhoFuvVbBWzR9AB-kg59Cg&_nc_ss=7e120&oh=00_AQCoESSRVpxBEkGd0Kzirw-g67hH7fUlP8HGckcIovvOTg&oe=6A64069C)
 【當行銷遇上 Transformer：#AI 不只會寫文案，更會預測誰快要下單】
 這幾年談到 AI，很多企業最先想到的，往往還是寫文案、做圖片、建置客服機器人🤖。
 

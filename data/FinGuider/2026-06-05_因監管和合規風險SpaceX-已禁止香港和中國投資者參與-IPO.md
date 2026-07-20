@@ -4,22 +4,22 @@ title: "🚫因監管和合規風險，#SpaceX 已禁止香港和中國投資者
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid0iFowwcvt4tGjv6xr1RPopLtMuxSsSkKcf784EhCXCc3iGJCFmR5srByqcUQbkpo7l"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0iSD4Eop1SSpFyBbEHfk58UxvbpJouajqCR5oqM2jd4QcNViUfr9RwijnKELdcHo8l"
 creation_time_utc: "2026-06-05T11:58:21+00:00"
-fetched_at_utc: "2026-06-08T07:24:00.578955+00:00"
+fetched_at_utc: "2026-07-20T12:47:38.432258+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/715516496_1466675878835888_2957963394130742322_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=X3w6AJMX6Y4Q7kNvwF_tuKE&_nc_oc=Adpzx7FKhv8wHPFLrv_Kc-GmwWbEaVA57c9919axcEv3UfnmSrhObxlEhEpBmstGfpU&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=snIIumoQZisbDU0v6gy5mg&_nc_ss=7e120&oh=00_Af-_uFnsEXl-s34SQALyaBi1_mfbHELFrCBC_3S63lVp_A&oe=6A2C44E1"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/715516496_1466675878835888_2957963394130742322_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iR_6HWccAQEQ7kNvwGozqn-&_nc_oc=AdpcYYWdlSRY-Q9qn3UY8DKCi6MQ08I7rkWIMQ5286JjcDGQlqIlKhKv4AZRtgHGz0E&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=EGBUdXbUzy2YdtyC9GYkcg&_nc_ss=7e120&oh=00_AQDvG0gtBg1-z4griN3DHumMtYw9NDwI_L-nWY3DPSXL6Q&oe=6A63DC21"
 feedback_id: "ZmVlZGJhY2s6MTQ2NjY3NjAzMjE2OTIwNg=="
 page_canonical_url: ""
 ---
 
 # 🚫因監管和合規風險，#SpaceX 已禁止香港和中國投資者參與 IPO。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid0iFowwcvt4tGjv6xr1RPopLtMuxSsSkKcf784EhCXCc3iGJCFmR5srByqcUQbkpo7l
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0iSD4Eop1SSpFyBbEHfk58UxvbpJouajqCR5oqM2jd4QcNViUfr9RwijnKELdcHo8l
 
-![🚫因監管和合規風險，#SpaceX 已禁止香港和中國投資者參與 IPO。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/715516496_1466675878835888_2957963394130742322_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=X3w6AJMX6Y4Q7kNvwF_tuKE&_nc_oc=Adpzx7FKhv8wHPFLrv_Kc-GmwWbEaVA57c9919axcEv3UfnmSrhObxlEhEpBmstGfpU&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=snIIumoQZisbDU0v6gy5mg&_nc_ss=7e120&oh=00_Af-_uFnsEXl-s34SQALyaBi1_mfbHELFrCBC_3S63lVp_A&oe=6A2C44E1)
+![🚫因監管和合規風險，#SpaceX 已禁止香港和中國投資者參與 IPO。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/715516496_1466675878835888_2957963394130742322_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iR_6HWccAQEQ7kNvwGozqn-&_nc_oc=AdpcYYWdlSRY-Q9qn3UY8DKCi6MQ08I7rkWIMQ5286JjcDGQlqIlKhKv4AZRtgHGz0E&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=EGBUdXbUzy2YdtyC9GYkcg&_nc_ss=7e120&oh=00_AQDvG0gtBg1-z4griN3DHumMtYw9NDwI_L-nWY3DPSXL6Q&oe=6A63DC21)
 🚫因監管和合規風險，#SpaceX 已禁止香港和中國投資者參與 IPO。
 
 《彭博》報導，參與 SpaceX IPO 的華爾街承銷商已被告知，不得接受來香港和中國投資者下單，理由是美國限制關鍵技術的出口。

@@ -4,9 +4,9 @@ title: "----------\"根據顯示產業 6 日的消息，蘋果將於本月內確
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0jZvuC7ctypUNEJA1Kn3BDodvkKwa3hAXVf63ug3b5BkgSkm8owVNJh6QQsNx6Hnsl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0jkL1VJW2MJbVhohu777HDgjSTE9FGURwUR9Ho4TgidiDWkZY8tfGn7Ecss8eiMEhl&id=100054201473657"
 creation_time_utc: "2026-05-09T12:09:32+00:00"
-fetched_at_utc: "2026-06-08T07:02:48.938731+00:00"
+fetched_at_utc: "2026-07-20T13:02:55.617710+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # ----------"根據顯示產業 6 日的消息，蘋果將於本月內確認 iPhone 18 Pro 與 Pro Max 的 OLED 面板認證結果。Samsung Display 和 LG Display 很可能佔據了該機型大部分的 OLED 面板體積。BOE 透過為 iPhone 17 Pro 提供 OLED 面板提升了外界期待，但據說它不會獲得 iPhone 18 高階機型的體積。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0jZvuC7ctypUNEJA1Kn3BDodvkKwa3hAXVf63ug3b5BkgSkm8owVNJh6QQsNx6Hnsl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0jkL1VJW2MJbVhohu777HDgjSTE9FGURwUR9Ho4TgidiDWkZY8tfGn7Ecss8eiMEhl&id=100054201473657
 ----------"根據顯示產業 6 日的消息，蘋果將於本月內確認 iPhone 18 Pro 與 Pro Max 的 OLED 面板認證結果。Samsung Display 和 LG Display 很可能佔據了該機型大部分的 OLED 面板體積。BOE 透過為 iPhone 17 Pro 提供 OLED 面板提升了外界期待，但據說它不會獲得 iPhone 18 高階機型的體積。
 
 蘋果排除BOE參與iPhone 18 Pro與Pro Max的OLED面板供應商，原因在於技術不足。特別是LTPO Plus（+）技術，其規格高於低溫多晶氧化物（LTPO），被提及。與三星顯示器和LG顯示器相比，品質與良率都偏低。蘋果不會下訂單（PO），除非已取得足夠數量。若零件採購中斷，銷售無法及時完成。這也是為什麼BOE供應蘋果一些翻新（維修和翻新）產品，這些產品對確保供應並不重要。

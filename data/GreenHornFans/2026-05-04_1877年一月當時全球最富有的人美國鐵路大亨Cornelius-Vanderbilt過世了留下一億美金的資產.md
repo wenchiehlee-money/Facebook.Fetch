@@ -4,22 +4,22 @@ title: "1877年一月，當時全球最富有的人，美國鐵路大亨Corneliu
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02BbDL7kR9D8T6KPzToZZMk7mnK6EqAQiXHZefN6J6rrWTc7uho2TdRRRsgKskBBvGl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid08DyFVmfujQ6RKp7tx98nvwf7nDWSbSVWeXVGYZQKZDsxGkhcRyXKUXk8ksBZtgtml"
 creation_time_utc: "2026-05-04T13:16:06+00:00"
-fetched_at_utc: "2026-06-08T07:24:30.891930+00:00"
+fetched_at_utc: "2026-07-20T12:52:21.689884+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/689349302_1394118782521518_2081947244155232159_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=pxLbWem5bskQ7kNvwE1WriU&_nc_oc=AdpruAciy90TE_FWHFGVwFaXurWDLiNhLFGEBFergc1Ntc1keFEm3qFOf8jTVwCFBGA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=H6ciGQmtGRJxsCNoMf4jCw&_nc_ss=7e120&oh=00_Af_iwefNGoBF9ZIQn0nVqU8snhnSeg5ZpC4LgU2SUQd5Nw&oe=6A2C5579"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/689349302_1394118782521518_2081947244155232159_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XOiq1P_6f2cQ7kNvwGKGkLJ&_nc_oc=AdoEvl2BLY2zdBQOAlz1bPlukUi0hZkhJJ5p-uBzvJwl3PWHcM5tYndAN1twrsqEyg4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=WUGM-knyr4CVWazvHN_M7A&_nc_ss=7e120&oh=00_AQAAnbmeEar3lQ5bVa18hu7bzmiPSrfaK2ofRC4Rqe8XvQ&oe=6A63ECB9"
 feedback_id: "ZmVlZGJhY2s6MTM5NDEyMjI5OTE4NzgzMw=="
 page_canonical_url: ""
 ---
 
 # 1877年一月，當時全球最富有的人，美國鐵路大亨Cornelius Vanderbilt過世了，留下一億美金的資產
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02BbDL7kR9D8T6KPzToZZMk7mnK6EqAQiXHZefN6J6rrWTc7uho2TdRRRsgKskBBvGl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid08DyFVmfujQ6RKp7tx98nvwf7nDWSbSVWeXVGYZQKZDsxGkhcRyXKUXk8ksBZtgtml
 
-![1877年一月，當時全球最富有的人，美國鐵路大亨Cornelius Vanderbilt過世了，留下一億美金的資產](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/689349302_1394118782521518_2081947244155232159_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=pxLbWem5bskQ7kNvwE1WriU&_nc_oc=AdpruAciy90TE_FWHFGVwFaXurWDLiNhLFGEBFergc1Ntc1keFEm3qFOf8jTVwCFBGA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=H6ciGQmtGRJxsCNoMf4jCw&_nc_ss=7e120&oh=00_Af_iwefNGoBF9ZIQn0nVqU8snhnSeg5ZpC4LgU2SUQd5Nw&oe=6A2C5579)
+![1877年一月，當時全球最富有的人，美國鐵路大亨Cornelius Vanderbilt過世了，留下一億美金的資產](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/689349302_1394118782521518_2081947244155232159_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XOiq1P_6f2cQ7kNvwGKGkLJ&_nc_oc=AdoEvl2BLY2zdBQOAlz1bPlukUi0hZkhJJ5p-uBzvJwl3PWHcM5tYndAN1twrsqEyg4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=WUGM-knyr4CVWazvHN_M7A&_nc_ss=7e120&oh=00_AQAAnbmeEar3lQ5bVa18hu7bzmiPSrfaK2ofRC4Rqe8XvQ&oe=6A63ECB9)
 1877年一月，當時全球最富有的人，美國鐵路大亨Cornelius Vanderbilt過世了，留下一億美金的資產 
 他認為假如將資產平分給子女，資產最後會愈來愈分散
 所以他將其中9500萬，留給兒子William Vanderbilt

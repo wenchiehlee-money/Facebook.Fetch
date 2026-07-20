@@ -4,9 +4,9 @@ title: "單一GW的 AI 工廠可能需要高達 25 exabytes的Flash memory，才
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0SbQBmq3XtaUzbZmNbEZ4a8u3wXrHQiHDiEnVqqiN2Ro8yptEc8isAM8LeFtWDuNbl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02WdF1FgrV7XWR3wjHWjWwnY8d7Qew9wWKKaEkv8kEcDp85fq6aHgwirVgnFPX4pHHl&id=100054201473657"
 creation_time_utc: "2026-05-19T14:05:34+00:00"
-fetched_at_utc: "2026-06-08T07:02:48.938731+00:00"
+fetched_at_utc: "2026-07-20T13:02:55.617710+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 單一GW的 AI 工廠可能需要高達 25 exabytes的Flash memory，才能達到最佳效率， GPU只是一部分，KV cache節省大量GPU運算
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0SbQBmq3XtaUzbZmNbEZ4a8u3wXrHQiHDiEnVqqiN2Ro8yptEc8isAM8LeFtWDuNbl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02WdF1FgrV7XWR3wjHWjWwnY8d7Qew9wWKKaEkv8kEcDp85fq6aHgwirVgnFPX4pHHl&id=100054201473657
 單一GW的 AI 工廠可能需要高達 25 exabytes的Flash memory，才能達到最佳效率， GPU只是一部分，KV cache節省大量GPU運算
 
 ----------Nvidia和Solidigm(Hynix group)會談"Storage for the AI Factory Era

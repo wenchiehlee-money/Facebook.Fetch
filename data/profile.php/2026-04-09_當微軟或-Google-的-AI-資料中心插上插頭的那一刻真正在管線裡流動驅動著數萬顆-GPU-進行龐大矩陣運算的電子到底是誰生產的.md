@@ -4,22 +4,22 @@ title: "當微軟或 Google 的 AI 資料中心插上插頭的那一刻，真正
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02uCYBLJYrKcCezfWffGZeukTrmAtGAmZLy9B9Vh4uHnfPzt91Vu3vqjp5DvbhTSHjl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02uNwHdVRyh3sHDoogA3RutZfsdncc3hvD8Q5FgAwm4YycLm6LvbpeN1mAHiRhNkW8l&id=61573146584049"
 creation_time_utc: "2026-04-09T10:40:03+00:00"
-fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
+fetched_at_utc: "2026-07-20T12:57:19.783956+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/668173303_122178584186771552_3902295691599695479_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=0lUqjQwpz-kQ7kNvwFHbix2&_nc_oc=AdpClQUMh4I-mrVB0AgaVil-DSKvY-pQbm7CgBkJhk-8WNiejCLyVnafiaUf4WP5tDA&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ImZUDCP8aFmnljipBjNIsw&_nc_ss=7e120&oh=00_Af99hlFtdcDW4YnuA17mxrhMm2OYmufL2hm8d8hzR9TcWQ&oe=6A2C5633"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/668173303_122178584186771552_3902295691599695479_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=dCaRB3RLvmkQ7kNvwHIRTvv&_nc_oc=AdqqZksv97x62TiPiwI5DOhNnT2y5SBT9RZVF0vQ4U9jkta2QQxyd9A4qARaC7LF6eU&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=mcP_xZNCSN0TCPGDtanPDw&_nc_ss=7e120&oh=00_AQD3xzX6WwbXe24cjZZJlpIcHez8AuBvNVww5iboAjN9Gg&oe=6A63ED73"
 feedback_id: "ZmVlZGJhY2s6MTIyMTc4NTg0MjEwNzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 當微軟或 Google 的 AI 資料中心插上插頭的那一刻，真正在管線裡流動、驅動著數萬顆 GPU 進行龐大矩陣運算的「電子」，到底是誰生產的？
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02uCYBLJYrKcCezfWffGZeukTrmAtGAmZLy9B9Vh4uHnfPzt91Vu3vqjp5DvbhTSHjl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02uNwHdVRyh3sHDoogA3RutZfsdncc3hvD8Q5FgAwm4YycLm6LvbpeN1mAHiRhNkW8l&id=61573146584049
 
-![當微軟或 Google 的 AI 資料中心插上插頭的那一刻，真正在管線裡流動、驅動著數萬顆 GPU 進行龐大矩陣運算的「電子」，到底是誰生產的？](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/668173303_122178584186771552_3902295691599695479_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=0lUqjQwpz-kQ7kNvwFHbix2&_nc_oc=AdpClQUMh4I-mrVB0AgaVil-DSKvY-pQbm7CgBkJhk-8WNiejCLyVnafiaUf4WP5tDA&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ImZUDCP8aFmnljipBjNIsw&_nc_ss=7e120&oh=00_Af99hlFtdcDW4YnuA17mxrhMm2OYmufL2hm8d8hzR9TcWQ&oe=6A2C5633)
+![當微軟或 Google 的 AI 資料中心插上插頭的那一刻，真正在管線裡流動、驅動著數萬顆 GPU 進行龐大矩陣運算的「電子」，到底是誰生產的？](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/668173303_122178584186771552_3902295691599695479_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=dCaRB3RLvmkQ7kNvwHIRTvv&_nc_oc=AdqqZksv97x62TiPiwI5DOhNnT2y5SBT9RZVF0vQ4U9jkta2QQxyd9A4qARaC7LF6eU&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=mcP_xZNCSN0TCPGDtanPDw&_nc_ss=7e120&oh=00_AQD3xzX6WwbXe24cjZZJlpIcHez8AuBvNVww5iboAjN9Gg&oe=6A63ED73)
 當微軟或 Google 的 AI 資料中心插上插頭的那一刻，真正在管線裡流動、驅動著數萬顆 GPU 進行龐大矩陣運算的「電子」，到底是誰生產的？
 ​
 答案當然是「電力公司」。但在美國，「電力公司」，這四個字，比你想的複雜得多。

@@ -4,9 +4,9 @@ title: "直覺想法，Google TPU黑石Neocloud，搶到誰的市佔最多？不
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0hW8JFng8ZJLQ4fVbXfckdpKPwT9RYMwDu5ivcbGFJKQDArsXkgnBiL9VcqbTw9Frl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0hgXQYyZFvpqqRgeixSM8jAPHMsetvDKuPCdCQwAMCKrf6q5hUiaeTDxZsgmxoV5zl&id=100054201473657"
 creation_time_utc: "2026-05-20T06:14:59+00:00"
-fetched_at_utc: "2026-06-08T07:02:48.938731+00:00"
+fetched_at_utc: "2026-07-20T13:02:55.617710+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 直覺想法，Google TPU黑石Neocloud，搶到誰的市佔最多？不是現有Neocloud業者，雖然他們都有Neocloud這個字
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0hW8JFng8ZJLQ4fVbXfckdpKPwT9RYMwDu5ivcbGFJKQDArsXkgnBiL9VcqbTw9Frl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0hgXQYyZFvpqqRgeixSM8jAPHMsetvDKuPCdCQwAMCKrf6q5hUiaeTDxZsgmxoV5zl&id=100054201473657
 直覺想法，Google TPU黑石Neocloud，搶到誰的市佔最多？不是現有Neocloud業者，雖然他們都有Neocloud這個字
 
 1.是Google Cloud GCP

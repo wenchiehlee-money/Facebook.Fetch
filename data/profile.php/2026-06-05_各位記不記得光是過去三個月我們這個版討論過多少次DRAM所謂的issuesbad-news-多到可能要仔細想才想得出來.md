@@ -4,9 +4,9 @@ title: "各位記不記得，光是過去三個月、我們這個版，討論過
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02GJTVL4QMq3t55NbkSg4AtKEYD4GGkNH7GHwtaExWZyRYW2MEQyV4ZVpQSK7GUPAbl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02GUrbdFHVCVxPzsTrGgvWXxhrJci9BhzP3d5C8x1h39b1PBKKzz3RHTyA38sboxccl&id=100054201473657"
 creation_time_utc: "2026-06-05T04:26:14+00:00"
-fetched_at_utc: "2026-06-08T07:33:36.899093+00:00"
+fetched_at_utc: "2026-07-20T13:02:55.617710+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 各位記不記得，光是過去三個月、我們這個版，討論過多少次DRAM所謂的issues、bad news? 多到可能要仔細想才想得出來
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02GJTVL4QMq3t55NbkSg4AtKEYD4GGkNH7GHwtaExWZyRYW2MEQyV4ZVpQSK7GUPAbl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02GUrbdFHVCVxPzsTrGgvWXxhrJci9BhzP3d5C8x1h39b1PBKKzz3RHTyA38sboxccl&id=100054201473657
 各位記不記得，光是過去三個月、我們這個版，討論過多少次DRAM所謂的issues、bad news? 多到可能要仔細想才想得出來
 
 1. 3月現貨價先不漲然後下跌然後重挫

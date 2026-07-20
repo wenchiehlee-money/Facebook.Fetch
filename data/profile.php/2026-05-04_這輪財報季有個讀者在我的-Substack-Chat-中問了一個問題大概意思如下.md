@@ -4,22 +4,22 @@ title: "這輪財報季，有個讀者在我的 Substack Chat 中問了一個問
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02c69TDtuv4mF9nJqFV9zwwANTBgmcV2s8S23C8GnGiE9SGUWvZbrTs1SYbpDQm8CTl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02cGYZX5o3SBbz9RKYY6xaPJGxfsbNhjmtPDxcHQb6BgN3woXmsqecW1EZTggkKaHol&id=61573146584049"
 creation_time_utc: "2026-05-04T14:13:04+00:00"
-fetched_at_utc: "2026-06-08T07:29:31.000044+00:00"
+fetched_at_utc: "2026-07-20T12:57:19.783956+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/686946194_122181477248771552_3026850059000764658_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=q-2XZ3zcPlgQ7kNvwGJPNYH&_nc_oc=AdqE8TMNSXKxHxjiFmiJwjyHmYLd_voigYvVRMZ45z3sJ9s6LdUhFE10raVRBU2qV-g&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=PqOeBiVevX8QtGuWQWwenw&_nc_ss=7e120&oh=00_Af8E28mofCh6QX44Wt1KYagLSXF_RD415HP89jYM4BBkLQ&oe=6A2C3119"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/686946194_122181477248771552_3026850059000764658_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=jUG76jwhJ7EQ7kNvwF9bM4v&_nc_oc=AdpaUhwgtbBjU8MZquktBq9Q82GedgLMMFJfO1kp6_V53rNnoRbm4-JOmioByjFQfu0&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=pFPqa4KCzb_zzFQLCn3odg&_nc_ss=7e120&oh=00_AQCS3XEn7zJ3yco_S5t2066XAo2RehrD-HAf3jdANvyPhg&oe=6A640099"
 feedback_id: "ZmVlZGJhY2s6MTIyMTgxNDc3MjcyNzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 這輪財報季，有個讀者在我的 Substack Chat 中問了一個問題，大概意思如下：
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02c69TDtuv4mF9nJqFV9zwwANTBgmcV2s8S23C8GnGiE9SGUWvZbrTs1SYbpDQm8CTl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02cGYZX5o3SBbz9RKYY6xaPJGxfsbNhjmtPDxcHQb6BgN3woXmsqecW1EZTggkKaHol&id=61573146584049
 
-![這輪財報季，有個讀者在我的 Substack Chat 中問了一個問題，大概意思如下：](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/686946194_122181477248771552_3026850059000764658_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=q-2XZ3zcPlgQ7kNvwGJPNYH&_nc_oc=AdqE8TMNSXKxHxjiFmiJwjyHmYLd_voigYvVRMZ45z3sJ9s6LdUhFE10raVRBU2qV-g&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=PqOeBiVevX8QtGuWQWwenw&_nc_ss=7e120&oh=00_Af8E28mofCh6QX44Wt1KYagLSXF_RD415HP89jYM4BBkLQ&oe=6A2C3119)
+![這輪財報季，有個讀者在我的 Substack Chat 中問了一個問題，大概意思如下：](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/686946194_122181477248771552_3026850059000764658_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=jUG76jwhJ7EQ7kNvwF9bM4v&_nc_oc=AdpaUhwgtbBjU8MZquktBq9Q82GedgLMMFJfO1kp6_V53rNnoRbm4-JOmioByjFQfu0&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=pFPqa4KCzb_zzFQLCn3odg&_nc_ss=7e120&oh=00_AQCS3XEn7zJ3yco_S5t2066XAo2RehrD-HAf3jdANvyPhg&oe=6A640099)
 這輪財報季，有個讀者在我的 Substack Chat 中問了一個問題，大概意思如下：
 ​
 「財報數據究竟應該如何看，華爾街是怎樣決定何時拉升或拋售某隻股票的？」
