@@ -51,3 +51,11 @@ page_canonical_url: ""
 
 👀 點我觀看原文：https://bit.ly/43KwIwI
 ✏️ 作者：羅凱揚（台科大企管系博士）、鍾皓軒（臺灣行銷研究有限公司創辦人）
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FMarketingDataScienceTMR%2F2025-03-17_InternetInternet--AIAI.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2FMarketingDataScienceTMR%2F2025-03-17_InternetInternet--AIAI.md&period=)

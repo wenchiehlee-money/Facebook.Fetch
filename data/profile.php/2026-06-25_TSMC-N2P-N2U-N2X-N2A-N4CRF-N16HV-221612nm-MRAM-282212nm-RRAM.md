@@ -77,3 +77,11 @@ N4CRF是目前最先进的RF CMOS技术。与N6 RF+相比，N4CRF可为智能手
 ......"
 
 https://www.eet-china.com/news/202606256088.html
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=TSM%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=TSM&file_path=data%2Fprofile.php%2F2026-06-25_TSMC-N2P-N2U-N2X-N2A-N4CRF-N16HV-221612nm-MRAM-282212nm-RRAM.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=TSM%20%20%E8%B2%A1%E5%A0%B1%E6%A8%99%E8%A8%98&symbol=TSM&file_path=data%2Fprofile.php%2F2026-06-25_TSMC-N2P-N2U-N2X-N2A-N4CRF-N16HV-221612nm-MRAM-282212nm-RRAM.md&period=)

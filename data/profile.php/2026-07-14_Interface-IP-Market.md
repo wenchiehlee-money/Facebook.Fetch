@@ -32,3 +32,11 @@ Cadence 已穩固成為主要挑戰者，市場佔有率提升至 17%，並在 D
 這個「前五名」圖則突顯了真正的營收戰場所在：USB、PCIe、DDR、SerDes/D2D 以及 MIPI。這五個協議家族合計預計到2030年將帶來43.56億美元的總價值。在此類別中，晶片對晶片（Chip-to-Chip，D2D）是成長最快的例外，年複合成長率達23.7%，晶片組分割成為超大規模企業的首要架構決策。"
 
 https://semiwiki.com/ip/370809-consolidation-and-competition-who-is-winning-the-4-5-billion-interface-ip-race/
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fprofile.php%2F2026-07-14_Interface-IP-Market.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fprofile.php%2F2026-07-14_Interface-IP-Market.md&period=)

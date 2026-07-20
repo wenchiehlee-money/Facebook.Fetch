@@ -65,3 +65,11 @@ Corning Glass Bridge
 如今，玻璃凭高平整度、尺寸稳定性好、热膨胀系数可调、低介电损耗等优势，成了高端AI载板、先进封装的热门候选。英特尔2023年就抛出面向下一代先进封装的玻璃基板技术，称玻璃基板有助于实现更高互连密度，支撑其2030年单封装1万亿晶体管的目标；三星电机今年4月被曝出已向苹果送半导体玻璃基板样品；台积电近期也公布了玻璃基板开发计划，押注CoWoS之后的下一代载板；今年5月英伟达与康宁签多年战略合作，康宁把美国光连接产能拉到10倍、光纤产能扩50%，支撑GB200/GB300机房的Scale-Up/Scale-Out光互连……这些企业的战略布局与合作，已经证明玻璃基板将是整个先进封装、光电子行业的材料换挡点。"
 
 https://www.eet-china.com/news/202606262863.html
+
+
+---
+[📌 新增貼文至TAIEX.TW比對](https://github.com/wenchiehlee-money/TAIEX.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fprofile.php%2F2026-06-26_Corning-Glass-Bridge.md&period=)
+
+
+---
+[📌 新增貼文至biztrends.TW比對](https://github.com/wenchiehlee-money/biztrends.TW/issues/new?template=earnings_tag.yml&title=%E8%B2%BC%E6%96%87%E6%A8%99%E8%A8%98&symbol=&file_path=data%2Fprofile.php%2F2026-06-26_Corning-Glass-Bridge.md&period=)
