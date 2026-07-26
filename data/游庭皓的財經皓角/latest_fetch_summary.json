@@ -1,13 +1,13 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-06-05T07:11:04.604897+00:00",
+  "fetched_at_utc": "2026-07-26T06:43:40.214534+00:00",
   "page": {
-    "title": "游庭皓的財經皓角",
-    "description": "游庭皓的財經皓角. 354,162 likes · 171,079 talking about this. 分享數據",
-    "canonical_url": "https://www.facebook.com/yutinghaosfinance",
-    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/322128965_1214062385868658_8215444431924818366_n.jpg?stp=dst-jpg_tt6&cstp=mx1366x2048&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=3ab345&_nc_ohc=TDbpbijHa9EQ7kNvwELE6Cf&_nc_oc=AdqEmKHxKCnE89lHwBrx5tBPVw6tiqN2Y0vFWC-T6k5hbhCsBfKjCMi7BFACRew3aYQ&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&_nc_gid=2q-ipxkwkRWvnyxqDkmk7w&_nc_ss=7e20f&oh=00_Af-SUUaHrXssJEMAFJbmuiHb9p5NPr13ayhVP2nico86LA&oe=6A283599",
-    "follower_count": "35.4 萬位追蹤者"
+    "title": null,
+    "description": null,
+    "canonical_url": null,
+    "image": null,
+    "follower_count": null
   },
   "checked_post_count": 0,
   "new_post_count": 0,
@@ -20,6 +20,7 @@
     "本次公開 GraphQL 沒有回貼文，已退回 HTML 解析。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 80 字規則排除 2 篇貼文。"
   ]
 }

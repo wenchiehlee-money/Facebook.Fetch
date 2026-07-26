@@ -1,13 +1,13 @@
 {
   "requested_url": "https://www.facebook.com/ForexStrategist",
   "final_url": "https://www.facebook.com/ForexStrategist",
-  "fetched_at_utc": "2026-06-05T07:11:27.462584+00:00",
+  "fetched_at_utc": "2026-07-26T06:44:05.055170+00:00",
   "page": {
-    "title": "李其展的外匯交易致勝兵法",
-    "description": "李其展的外匯交易致勝兵法. 123,968 likes · 25,492 talking about this. 專業全球財經資訊分析與實戰操作，有超過15年以上的操作經驗，提供投資朋友總體經濟與金融商品趨勢分享，歐付寶ID:2468415",
-    "canonical_url": "https://www.facebook.com/ForexStrategist",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/462681606_9001631999849345_2255825574613174911_n.jpg?stp=dst-jpg_tt6&cstp=mx267x267&ctp=s267x267&_nc_cat=107&ccb=1-7&_nc_sid=3ab345&_nc_ohc=z7C4ZZ_HaVAQ7kNvwH3hGt5&_nc_oc=AdquJc4yYu_FC9fqMqyKHiAxGGcrl802IkNiuvi7GPUyHHNpzpJ4lX6Uz8lFcVIyFVE&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YcZapfth9MpnAcbqj4Y8Pw&_nc_ss=7e20f&oh=00_Af9Wt4rsvTSNH7J1JXuJ9d0fbZrY6HDP3SpodCHSr2FgJQ&oe=6A2854EA",
-    "follower_count": "12.4 萬位追蹤者"
+    "title": null,
+    "description": null,
+    "canonical_url": null,
+    "image": null,
+    "follower_count": null
   },
   "checked_post_count": 0,
   "new_post_count": 0,
@@ -20,6 +20,7 @@
     "本次公開 GraphQL 沒有回貼文，已退回 HTML 解析。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 80 字規則排除 2 篇貼文。"
   ]
 }

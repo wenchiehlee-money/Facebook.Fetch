@@ -1,13 +1,13 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "final_url": "https://www.facebook.com/people/Richard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards-Research-Blog/100054201473657/",
-  "fetched_at_utc": "2026-06-05T07:11:35.080147+00:00",
+  "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
+  "fetched_at_utc": "2026-07-26T06:44:10.491180+00:00",
   "page": {
-    "title": "Richard只談基本面-Richard's Research Blog",
-    "description": "Richard只談基本面-Richard's Research Blog. 44,192 likes · 1,594 talking about this. 內容: 科技產業研究、科技新聞分析、公司基本研究、選擇性轉貼公開資訊\n(基本面定義:和企業獲利有關的稱為基本面，不包含股票投資)",
-    "canonical_url": "https://www.facebook.com/people/Richard%E5%8F%AA%E8%AB%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-Richards-Research-Blog/100054201473657/",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/305654190_614468207036556_770408953886381464_n.jpg?stp=dst-jpg_tt6&cstp=mx1229x1229&ctp=s720x720&_nc_cat=111&ccb=1-7&_nc_sid=3ab345&_nc_ohc=ygLFOW87yAwQ7kNvwG0T2pA&_nc_oc=AdqmvbC_Sxhz_RdWpexWVJVIIQPpAx9siY6lG2VEtKMCtR53_SiGTpw9MkAYihd4TqM&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&_nc_gid=UhqFmiPjaD3JlfTU4mNBqA&_nc_ss=7e20f&oh=00_Af_SiU3ubFejWegRLWPEF2uRZwouwBa2XE59wFz-nsm-cA&oe=6A285CDC",
-    "follower_count": "4.4 萬位追蹤者"
+    "title": null,
+    "description": null,
+    "canonical_url": null,
+    "image": null,
+    "follower_count": null
   },
   "checked_post_count": 0,
   "new_post_count": 0,
@@ -20,6 +20,7 @@
     "本次公開 GraphQL 沒有回貼文，已退回 HTML 解析。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 80 字規則排除 2 篇貼文。"
   ]
 }

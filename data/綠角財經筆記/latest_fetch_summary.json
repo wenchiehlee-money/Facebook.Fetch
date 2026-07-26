@@ -1,13 +1,13 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-06-05T07:11:14.098708+00:00",
+  "fetched_at_utc": "2026-07-26T06:43:51.346818+00:00",
   "page": {
-    "title": "綠角財經筆記",
-    "description": "綠角財經筆記. 353,705 likes · 9,573 talking about this. 綠角財經筆記是一個專注於指數化投資概念、指數型基金、ETF、資產配置與美國券商的專頁與部落格",
-    "canonical_url": "https://www.facebook.com/GreenHornFans",
-    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/307376701_528924472374291_3977316822350127665_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1820&ctp=s720x720&_nc_cat=106&ccb=1-7&_nc_sid=3ab345&_nc_ohc=QrbMEYBjD-sQ7kNvwEErnqT&_nc_oc=Ado3aCGmL34hzghMCI5eVtuc1rR1MncUxqBcljDVAJ8zOuZg5MeksdyleemdONGEZgg&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&_nc_gid=hGMr4KPKzYEvwzKgxFGJJA&_nc_ss=7e20f&oh=00_Af_udmnCqH1eb1nCtQDcoXHuO43DaXrXW3BbphTcqkT-fw&oe=6A285898",
-    "follower_count": "35.4 萬位追蹤者"
+    "title": null,
+    "description": null,
+    "canonical_url": null,
+    "image": null,
+    "follower_count": null
   },
   "checked_post_count": 0,
   "new_post_count": 0,
@@ -20,6 +20,7 @@
     "本次公開 GraphQL 沒有回貼文，已退回 HTML 解析。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 80 字規則排除 2 篇貼文。"
   ]
 }

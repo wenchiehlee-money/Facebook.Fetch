@@ -1,13 +1,13 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-06-05T07:11:17.098338+00:00",
+  "fetched_at_utc": "2026-07-26T06:43:54.944638+00:00",
   "page": {
-    "title": "股魚",
-    "description": "股魚. 241,472 likes · 14,635 talking about this. 東森理財達人秀-存股DEBUG主講者\n用數字解析企業價值，篩選好企業",
-    "canonical_url": "https://www.facebook.com/stocksardine",
-    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/257800201_7306959842663545_6847336204499776900_n.jpg?stp=dst-jpg_tt6&cstp=mx1365x1364&ctp=s720x720&_nc_cat=106&ccb=1-7&_nc_sid=3ab345&_nc_ohc=9fGPeQF2PRAQ7kNvwGEtLHP&_nc_oc=Adqcz2Um71TgQD83VMHv4moUq0S_5wv9Kxm6VRKcxVPkLeR78Wqn5eDO_ETLvVQBWP0&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&_nc_gid=IyXFqdW1NLxba43Kw0mr-Q&_nc_ss=7e20f&oh=00_Af_4uXhnj0CcD_3EOad-PiMaOw324QFOxGVn3XQZG49rrg&oe=6A2830CC",
-    "follower_count": "24.1 萬位追蹤者"
+    "title": null,
+    "description": null,
+    "canonical_url": null,
+    "image": null,
+    "follower_count": null
   },
   "checked_post_count": 0,
   "new_post_count": 0,
@@ -20,6 +20,7 @@
     "本次公開 GraphQL 沒有回貼文，已退回 HTML 解析。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 80 字規則排除 2 篇貼文。"
   ]
 }

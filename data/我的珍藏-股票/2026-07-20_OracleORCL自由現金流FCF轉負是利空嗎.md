@@ -4,16 +4,16 @@ title: "📈 Oracle（ORCL）自由現金流（FCF）轉負，是利空嗎？"
 page_title: "股票"
 source_page: "\u5409\u7c73\u6295\u8cc7\u7406\u8ca1\u88dc\u7d66\u7ad9 Ver2.0"
 requested_url: "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02yDWPDmDmYk5MVrmF7DbCZcy8qfUne9nCRDyriKrMLrqyUPrUBCH5kGwHFicgzj2Jl&id=61565088683715"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0uKZBiK3w4X3bGESDbUZQxrNoGB9qXK9XB8Uvd9MenRsuWuM7wbYXbqS6eN2gNh77l&id=61565088683715"
 creation_time_utc: ""
-fetched_at_utc: "2026-07-20T12:40:55.125064+00:00"
+fetched_at_utc: "2026-07-26T06:43:34.135876+00:00"
 source: "saved_list"
 ---
 
 # 📈 Oracle（ORCL）自由現金流（FCF）轉負，是利空嗎？
 
 來源：\u5409\u7c73\u6295\u8cc7\u7406\u8ca1\u88dc\u7d66\u7ad9 Ver2.0
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02yDWPDmDmYk5MVrmF7DbCZcy8qfUne9nCRDyriKrMLrqyUPrUBCH5kGwHFicgzj2Jl&id=61565088683715
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0uKZBiK3w4X3bGESDbUZQxrNoGB9qXK9XB8Uvd9MenRsuWuM7wbYXbqS6eN2gNh77l&id=61565088683715
 📈 Oracle（ORCL）自由現金流（FCF）轉負，是利空嗎？
 很多人看到 Oracle 近幾年 FCF 下滑甚至轉負，就認為公司是不是出了問題。
 

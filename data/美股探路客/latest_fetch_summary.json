@@ -1,13 +1,13 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-06-05T07:11:20.084263+00:00",
+  "fetched_at_utc": "2026-07-26T06:43:58.647340+00:00",
   "page": {
-    "title": "美股探路客",
-    "description": "美股探路客. 55,046 likes · 6,758 talking about this. 沒有Line群、絕不會私訊加好友或邀請加入任何群組‼️\n❖ 著作：「選對賽道、報酬暴衝」\n❖ PressPlay專欄🔗 https://pressplay.cc/p/raikk6\n❖ 個人社群帳號🔗 https://linktr.ee/raikk6\n❖ 合作邀約📧 raikk6@gmail.com...",
-    "canonical_url": "https://www.facebook.com/raikk6",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/592118546_1266396988867569_2260905525198705713_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x2048&ctp=s720x720&_nc_cat=111&ccb=1-7&_nc_sid=3ab345&_nc_ohc=goC9OeJpAHAQ7kNvwEIVCv5&_nc_oc=AdrpwM9LtmVgF2tFkvIw77ddCqxpjKsKjy2vz32nh6KZaXNzhDY5HmggMSwO51fpg8g&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&_nc_gid=H6XFMDcE1CQh88DG_jMvrw&_nc_ss=7e20f&oh=00_Af-0CRuQbNkUneT0IqJMb530e9-JmcDiYFUMupJKCmxd0A&oe=6A2851D7",
-    "follower_count": "5.5 萬位追蹤者"
+    "title": null,
+    "description": null,
+    "canonical_url": null,
+    "image": null,
+    "follower_count": null
   },
   "checked_post_count": 0,
   "new_post_count": 0,
@@ -20,6 +20,7 @@
     "本次公開 GraphQL 沒有回貼文，已退回 HTML 解析。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 80 字規則排除 2 篇貼文。"
   ]
 }

@@ -1,13 +1,13 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-06-05T07:11:38.010376+00:00",
+  "fetched_at_utc": "2026-07-26T06:44:14.114248+00:00",
   "page": {
-    "title": "IEObserve 國際經濟觀察",
-    "description": "IEObserve 國際經濟觀察. 311,979 likes · 58,086 talking about this. 興趣是分享國際政經、股市、科技和商業趨勢見聞（非權威專家)，永遠的新知學習者\n\n有廣告合作推廣需求，可以填寫這個表：https://ieobserv.com/ads\n或來信 ieo@ieobserve.com",
-    "canonical_url": "https://www.facebook.com/intleconobserve",
-    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/218664943_353125559505412_1016617056246478268_n.jpg?stp=dst-jpg_tt6&cstp=mx1000x1000&ctp=s720x720&_nc_cat=110&ccb=1-7&_nc_sid=3ab345&_nc_ohc=1nuA58hVgdYQ7kNvwHo3l_e&_nc_oc=AdqIoIlwy8WNzWLdWDpaglFCln1A3d8BqtxJZ0x67bWetr9hxpkRnl0pPAVAk0MxJdY&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&_nc_gid=k7PasavEadQpnAeRh1xqGQ&_nc_ss=7e20f&oh=00_Af9vH_9Nr-t_Zg8Ic_UCWVuJxvbS6Y1T1VNA4wOWAqTcww&oe=6A2849A5",
-    "follower_count": "31.2 萬位追蹤者"
+    "title": null,
+    "description": null,
+    "canonical_url": null,
+    "image": null,
+    "follower_count": null
   },
   "checked_post_count": 0,
   "new_post_count": 0,
@@ -20,6 +20,7 @@
     "本次公開 GraphQL 沒有回貼文，已退回 HTML 解析。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 80 字規則排除 2 篇貼文。"
   ]
 }
