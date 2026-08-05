@@ -5,7 +5,7 @@
 <!-- AUTO-GENERATED:POSTS START -->
 ## 自動更新清單
 
-Updated: 2026-08-04 12:21 CST
+Updated: 2026-08-05 12:19 CST
 
 ### [FinGuider 美股資訊網](data/FinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2/index.md) (已收錄: 421)
 
@@ -21,7 +21,7 @@ Updated: 2026-08-04 12:21 CST
 
 ### [大會計師 張明輝](data/%E5%A4%A7%E6%9C%83%E8%A8%88%E5%B8%AB%20%E5%BC%B5%E6%98%8E%E8%BC%9D/index.md) (已收錄: 148)
 
-### [我的珍藏-股票](data/%E6%88%91%E7%9A%84%E7%8F%8D%E8%97%8F-%E8%82%A1%E7%A5%A8/index.md) (已收錄: 52)
+### [我的珍藏-股票](data/%E6%88%91%E7%9A%84%E7%8F%8D%E8%97%8F-%E8%82%A1%E7%A5%A8/index.md) (已收錄: 53)
 
 ### [李其展的外匯交易致勝兵法](data/%E6%9D%8E%E5%85%B6%E5%B1%95%E7%9A%84%E5%A4%96%E5%8C%AF%E4%BA%A4%E6%98%93%E8%87%B4%E5%8B%9D%E5%85%B5%E6%B3%95/index.md) (已收錄: 600)
 
@@ -40,6 +40,38 @@ Updated: 2026-08-04 12:21 CST
 ### [行銷資料科學](data/%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8/index.md) (已收錄: 293)
 
 <!-- AUTO-GENERATED:POSTS END -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

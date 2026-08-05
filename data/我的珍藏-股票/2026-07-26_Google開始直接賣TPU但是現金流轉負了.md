@@ -4,16 +4,16 @@ title: "Google開始直接賣TPU，但是現金流轉負了！"
 page_title: "股票"
 source_page: "JC \u8ca1\u7d93\u89c0\u9ede"
 requested_url: "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL"
-post_url: "https://www.facebook.com/JCInsightgroup/posts/pfbid08R7qF9SwDYzBsbMPnWpNZqTyi4Wj2fhEBFqEBTLY9PADxoYFMWSX1uLDWk7j6kZKl"
+post_url: "https://www.facebook.com/JCInsightgroup/posts/pfbid02CGZYRpNm4w9uZgomvVrorSRWthzBnb5QrAAp2ik3XxdQTDyCEpnofLFU22jFXbDHl"
 creation_time_utc: ""
-fetched_at_utc: "2026-08-04T04:20:44.199326+00:00"
+fetched_at_utc: "2026-08-05T04:19:22.419887+00:00"
 source: "saved_list"
 ---
 
 # Google開始直接賣TPU，但是現金流轉負了！
 
 來源：JC \u8ca1\u7d93\u89c0\u9ede
-原文連結: https://www.facebook.com/JCInsightgroup/posts/pfbid08R7qF9SwDYzBsbMPnWpNZqTyi4Wj2fhEBFqEBTLY9PADxoYFMWSX1uLDWk7j6kZKl
+原文連結: https://www.facebook.com/JCInsightgroup/posts/pfbid02CGZYRpNm4w9uZgomvVrorSRWthzBnb5QrAAp2ik3XxdQTDyCEpnofLFU22jFXbDHl
 Google開始直接賣TPU，但是現金流轉負了！
 
 Alphabet公布了一份強、但是壓力也非常明顯的財報。
