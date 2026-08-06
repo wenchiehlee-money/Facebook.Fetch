@@ -1,11 +1,14 @@
 # Facebook 貼文索引
 
 - 頁面: 
-- 抓取時間: 2026-08-05T04:19:33.355452+00:00
-- 已收錄貼文數量: 290
+- 抓取時間: 2026-08-06T03:56:23.200338+00:00
+- 已收錄貼文數量: 293
 
 ## 文章列表
 
+- `2026-08-06` [《活出自己的節奏》的作者是成大電機李忠憲教授。](2026-08-06_活出自己的節奏的作者是成大電機李忠憲教授.md)
+- `2026-08-04` [投資界常用報酬率與風險的角度來衡量一個投資方式的成果，資產配置也常這樣被衡量，但資產配置這個投資做法，其實有更多的好處與優勢。](2026-08-04_投資界常用報酬率與風險的角度來衡量一個投資方式的成果資產配置也常這樣被衡量但資產配置這個投資做法其實有更多的好處與優勢.md)
+- `2026-08-04` [之前已經分享我用嘉信VISA金融卡在日本提款的經驗，本文分享我用Firstrade的VISA金融卡，在日本ATM的提款經驗。](2026-08-04_之前已經分享我用嘉信VISA金融卡在日本提款的經驗本文分享我用Firstrade的VISA金融卡在日本ATM的提款經驗.md)
 - `2026-07-19` [美國晨星發表一篇標題是The Number One Way Americans are Becoming Millionaires的文章。或許可譯為”最多美國人成為百萬富翁的方式”。](2026-07-19_美國晨星發表一篇標題是The-Number-One-Way-Americans-are-Becoming-Millionaires的文章或許可譯為最多美國人成為.md)
 - `2026-07-19` [本文繼續分析討論我在 Investment Company Factbook 看到的重要資料。](2026-07-19_本文繼續分析討論我在-Investment-Company-Factbook-看到的重要資料.md)
 - `2026-07-17` [美國晨星個人理才總監Christine Benz寫了標題為The Keys to Financial Success Are Incredibly Mundane的一篇文章。真是直指重點。](2026-07-17_美國晨星個人理才總監Christine-Benz寫了標題為The-Keys-to-Financial-Success-Are-Incredibly-Mundan.md)

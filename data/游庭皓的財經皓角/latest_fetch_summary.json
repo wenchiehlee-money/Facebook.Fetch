@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-08-05T04:19:26.286105+00:00",
+  "fetched_at_utc": "2026-08-06T03:56:09.568967+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,18 +9,25 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 0,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "checked_post_count": 3,
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1804603870952623",
+    "1112928061298546",
+    "1112927234631962"
+  ],
+  "new_markdown_files": [
+    "data/游庭皓的財經皓角/2026-08-06_202686四雙軋行情還-能維持多久川普民調創低-通航有解早晨財經速解讀.md",
+    "data/游庭皓的財經皓角/2026-08-05_根據警政署數據今年上半年兒少被害總人數達1萬491人12歲以下兒童前三大被害類型依序為一般傷害30.54駕駛過失15.00及性交猥褻10.86兒童最常面臨的是身.md",
+    "data/游庭皓的財經皓角/2026-08-05_市場過去最擔心的是科技巨頭投入數千億美元發展AI究竟何時才能賺回成本如今華爾街逐漸形成共識真正能讓AI投資產生回報的核心並不是聊天機器人訂閱或廣告而是雲端運算.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次公開 GraphQL 沒有回貼文，已退回 HTML 解析。",
+    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 2 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

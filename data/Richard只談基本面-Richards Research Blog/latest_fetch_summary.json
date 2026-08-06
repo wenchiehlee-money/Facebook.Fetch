@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-08-05T04:19:46.765978+00:00",
+  "fetched_at_utc": "2026-08-06T03:56:48.012265+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,18 +9,24 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 0,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "checked_post_count": 2,
+  "new_post_count": 2,
+  "new_post_ids": [
+    "1576403387509695",
+    "1575955220887845"
+  ],
+  "new_markdown_files": [
+    "data/Richard只談基本面-Richards Research Blog/2026-08-05_AMD財報會議中有兩點是個人有興趣的.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-08-05_今年memory廠商努力在做的事情就是挖東牆PC手機補西牆Server挖到後來發現東牆快垮掉了姿態似乎有點放軟3Q26漲價幅度mobile-DRAM漲幅最低畢竟.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次公開 GraphQL 沒有回貼文，已退回 HTML 解析。",
+    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 2 篇貼文。"
+    "已依中文至少 80 字規則排除 1 篇貼文。"
   ]
 }
