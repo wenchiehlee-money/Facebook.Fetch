@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-08-06T03:56:35.704820+00:00",
+  "fetched_at_utc": "2026-08-06T04:22:39.627709+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,17 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
-  "new_post_ids": [
-    "122192423696771552",
-    "122192290634771552",
-    "122192165900771552"
-  ],
-  "new_markdown_files": [
-    "data/Fomo研究院/2026-08-04_前幾天接了一個採訪聊到因為-Situational-Awareness-被強制清算我說我認為這波應該算是階段性見底了.md",
-    "data/Fomo研究院/2026-08-03_最近身邊不少人開始討論是不是該買進一些雲端巨頭的股票了因為它們的財報看起來確實不錯.md",
-    "data/Fomo研究院/2026-08-02_過去一年大家一直在問一個問題企業花大價錢買了-AI-軟件到底有沒有在用.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",
   "notes": [

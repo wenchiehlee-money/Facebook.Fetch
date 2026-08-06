@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-08-06T03:56:48.012265+00:00",
+  "fetched_at_utc": "2026-08-06T04:22:50.606463+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "1576403387509695",
-    "1575955220887845"
-  ],
-  "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-08-05_AMD財報會議中有兩點是個人有興趣的.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-08-05_今年memory廠商努力在做的事情就是挖東牆PC手機補西牆Server挖到後來發現東牆快垮掉了姿態似乎有點放軟3Q26漲價幅度mobile-DRAM漲幅最低畢竟.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",
   "notes": [

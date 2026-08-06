@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/ForexStrategist",
   "final_url": "https://www.facebook.com/ForexStrategist",
-  "fetched_at_utc": "2026-08-06T03:56:40.520815+00:00",
+  "fetched_at_utc": "2026-08-06T04:22:44.098691+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1629945378490934",
-    "1629899778495494",
-    "1629542338531238"
+    "1630026011816204"
   ],
   "new_markdown_files": [
-    "data/李其展的外匯交易致勝兵法/2026-08-06_SK海力士與三星領跌韓國股市跌幅擴大到5.md",
-    "data/李其展的外匯交易致勝兵法/2026-08-06_美股壓回帶動日韓股市開盤下跌日經跌1.4韓國跌2.md",
-    "data/李其展的外匯交易致勝兵法/2026-08-05_黃金上漲超過150美元突破4240創近一個半月新高.md"
+    "data/李其展的外匯交易致勝兵法/2026-08-06_台幣早盤續升觸及32.2美元回落影響還是外資又在續買.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/李其展的外匯交易致勝兵法",

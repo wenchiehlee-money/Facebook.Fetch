@@ -1,16 +1,10 @@
 {
   "requested_url": "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL",
-  "fetched_at_utc": "2026-08-06T03:56:02.045184+00:00",
+  "fetched_at_utc": "2026-08-06T04:22:10.168940+00:00",
   "list_title": "股票",
   "total_items": 10,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "10227123120304118",
-    "10227122905658752"
-  ],
-  "new_markdown_files": [
-    "data/我的珍藏-股票/2026-08-06_高盛開源-25-年量化-SDKgs-quant-專業金融工具包.md",
-    "data/我的珍藏-股票/2026-08-06_快閃記憶體大廠-SanDiskSNDKFY2026Q4-財報擊敗市場共識但財測不如預期盤後下跌約--5.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "posts_directory": "data/我的珍藏-股票"
 }

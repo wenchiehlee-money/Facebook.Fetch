@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-08-06T03:57:00.337671+00:00",
+  "fetched_at_utc": "2026-08-06T04:23:00.959040+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "122197697264486922",
-    "122197689938486922",
-    "122197679762486922"
+    "122197720934486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-08-05_805.md",
-    "data/美股老司機 3.0/2026-08-05_財報-SNDK.md",
-    "data/美股老司機 3.0/2026-08-05_記錄.md"
+    "data/美股老司機 3.0/2026-08-06_把你的全部身家砸進一場圍繞著財報發布的激進賭局然後祈禱它能如願以償大賺一筆.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

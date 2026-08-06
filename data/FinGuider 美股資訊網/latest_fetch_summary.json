@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-08-06T03:56:18.746759+00:00",
+  "fetched_at_utc": "2026-08-06T04:22:24.936015+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,17 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
-  "new_post_ids": [
-    "1521778136658995",
-    "1521244513379024",
-    "1521061860063956"
-  ],
-  "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-08-05_快閃記憶體大廠-SanDiskSNDKFY2026Q4-財報擊敗市場共識但財測不如預期盤後下跌約--5.md",
-    "data/FinGuider 美股資訊網/2026-08-05_高速傳輸晶片大廠-Astera-LabsALAB財報與財測皆優於分析師預期不過盤前波動不大.md",
-    "data/FinGuider 美股資訊網/2026-08-05_超微AMD公布-Q2-營收年增-50-至-115.4-億美元優於分析師預期的-112.8-億Non-GAAP-EPS-報-1.66-美元高於市場預期的-1.62.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",
   "notes": [

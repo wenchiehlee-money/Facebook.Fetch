@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-08-06T03:56:09.568967+00:00",
+  "fetched_at_utc": "2026-08-06T04:22:17.270767+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,17 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
-  "new_post_ids": [
-    "1804603870952623",
-    "1112928061298546",
-    "1112927234631962"
-  ],
-  "new_markdown_files": [
-    "data/游庭皓的財經皓角/2026-08-06_202686四雙軋行情還-能維持多久川普民調創低-通航有解早晨財經速解讀.md",
-    "data/游庭皓的財經皓角/2026-08-05_根據警政署數據今年上半年兒少被害總人數達1萬491人12歲以下兒童前三大被害類型依序為一般傷害30.54駕駛過失15.00及性交猥褻10.86兒童最常面臨的是身.md",
-    "data/游庭皓的財經皓角/2026-08-05_市場過去最擔心的是科技巨頭投入數千億美元發展AI究竟何時才能賺回成本如今華爾街逐漸形成共識真正能讓AI投資產生回報的核心並不是聊天機器人訂閱或廣告而是雲端運算.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",
   "notes": [

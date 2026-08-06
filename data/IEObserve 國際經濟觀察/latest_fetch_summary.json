@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-08-06T03:56:52.788249+00:00",
+  "fetched_at_utc": "2026-08-06T04:22:54.557084+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "1573332030818086",
-    "1573097627508193"
-  ],
-  "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-08-05_SanDisk最新一季財報營收89.7億美元季增51毛利率衝上84.6EPS-39.25美元全部高於財測增量約三分之二來自漲價三分之一來自出貨增加NAND供應吃.md",
-    "data/IEObserve 國際經濟觀察/2026-08-05_WowGoogle的Jeff-Dean要離職了.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",
   "notes": [

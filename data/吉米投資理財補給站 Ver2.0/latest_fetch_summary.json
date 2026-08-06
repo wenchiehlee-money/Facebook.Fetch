@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-08-06T03:56:56.636277+00:00",
+  "fetched_at_utc": "2026-08-06T04:22:57.625349+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "122223705446502956",
-    "122223703868502956"
-  ],
-  "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-08-06_Marvell-推出-PCIe-Gen6-NVMe-SSD-控制器瞄準-AI-資料中心下一代儲存架構.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-08-06_SanDisk執行長談獲利與產業循環.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",
   "notes": [

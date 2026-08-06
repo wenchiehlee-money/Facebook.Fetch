@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
 post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02ap8nBbTUH5bx9pN2HxUBJ4bcYS72ZeFc9iDEh2ZQ4kbyrevLXJ8ePvVSHb7Xe7aUl"
 creation_time_utc: "2026-08-04T23:25:14+00:00"
-fetched_at_utc: "2026-08-06T03:56:23.200338+00:00"
+fetched_at_utc: "2026-08-06T04:22:28.782087+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/764065655_1470772074856188_107608603354879138_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9e9rR-61LE0Q7kNvwHCsDqd&_nc_oc=Adr1dkCsgtQq_MkCXqJo8n9EbHdGQ5CLdaoewiOnGV2RB48jBip9PHzzHkDN-3nXUEI&_nc_zt=23&_nc_ht=scontent-sea1-1.xx&_nc_gid=fyonP--MIn5dIvwZ7iWObQ&_nc_ss=7e120&oh=00_AQEc1RJh8crMkEnH5Jd2YMXrIkTM6ymfVNfvv8xYacXjZA&oe=6A79DAFC"
+image_url: "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/764065655_1470772074856188_107608603354879138_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9e9rR-61LE0Q7kNvwEXygf5&_nc_oc=Adqq8uqq1cFAjpoNuwTiiVxewJlu9Ixst6W1r5PfrnNJBKHHySjWUoVOG6SaH8Wo-U8&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=wHsH4Fi93XRQCH34QIBk4A&_nc_ss=7e120&oh=00_AQF8ICKVWGxJYmmdhwBl84YVZEfj0901A22LFM57I9JEJA&oe=6A79DAFC"
 feedback_id: "ZmVlZGJhY2s6MTQ3MDc3MzYxMTUyMjcwMQ=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02ap8nBbTUH5bx9pN2HxUBJ4bcYS72ZeFc9iDEh2ZQ4kbyrevLXJ8ePvVSHb7Xe7aUl
 
-![之前已經分享我用嘉信VISA金融卡在日本提款的經驗，本文分享我用Firstrade的VISA金融卡，在日本ATM的提款經驗。](https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/764065655_1470772074856188_107608603354879138_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9e9rR-61LE0Q7kNvwHCsDqd&_nc_oc=Adr1dkCsgtQq_MkCXqJo8n9EbHdGQ5CLdaoewiOnGV2RB48jBip9PHzzHkDN-3nXUEI&_nc_zt=23&_nc_ht=scontent-sea1-1.xx&_nc_gid=fyonP--MIn5dIvwZ7iWObQ&_nc_ss=7e120&oh=00_AQEc1RJh8crMkEnH5Jd2YMXrIkTM6ymfVNfvv8xYacXjZA&oe=6A79DAFC)
+![之前已經分享我用嘉信VISA金融卡在日本提款的經驗，本文分享我用Firstrade的VISA金融卡，在日本ATM的提款經驗。](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/764065655_1470772074856188_107608603354879138_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9e9rR-61LE0Q7kNvwEXygf5&_nc_oc=Adqq8uqq1cFAjpoNuwTiiVxewJlu9Ixst6W1r5PfrnNJBKHHySjWUoVOG6SaH8Wo-U8&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=wHsH4Fi93XRQCH34QIBk4A&_nc_ss=7e120&oh=00_AQF8ICKVWGxJYmmdhwBl84YVZEfj0901A22LFM57I9JEJA&oe=6A79DAFC)
 之前已經分享我用嘉信VISA金融卡在日本提款的經驗，本文分享我用Firstrade的VISA金融卡，在日本ATM的提款經驗。
 
 使用超商7-Eleven內的7 Bank提款機。
