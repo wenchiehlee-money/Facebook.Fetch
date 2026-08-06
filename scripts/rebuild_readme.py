@@ -49,9 +49,51 @@ def posts_by_date(posts_dir):
     return by_date
 
 
+TITLE_RE = re.compile(r'^title:\s*"((?:[^"\\]|\\.)*)"', re.MULTILINE)
+
+reports_dir = Path('data/reports')
+
+
+def extract_title(post_path):
+    try:
+        text = post_path.read_text(encoding='utf-8')
+    except OSError:
+        return post_path.stem
+    match = TITLE_RE.search(text)
+    if not match:
+        return post_path.stem
+    return match.group(1).replace('\\"', '"').replace('\\\\', '\\')
+
+
+def write_daily_report(date_str, group_dirs, all_by_date):
+    lines = [f'# {date_str} 貼文彙整', '']
+    any_post = False
+    for d in group_dirs:
+        filenames = all_by_date[d.name].get(date_str)
+        if not filenames:
+            continue
+        any_post = True
+        lines.append(f'## {d.name}')
+        lines.append('')
+        for fname in filenames:
+            title = extract_title(d / fname)
+            link_path = parse.quote((Path('..') / d.name / fname).as_posix(), safe='/')
+            lines.append(f'- [{title}]({link_path})')
+        lines.append('')
+    if not any_post:
+        lines.append('（當日無新貼文）')
+        lines.append('')
+    reports_dir.mkdir(parents=True, exist_ok=True)
+    (reports_dir / f'{date_str}.md').write_text('\n'.join(lines), encoding='utf-8', newline='\n')
+
+
 def build_weekly_table(group_dirs, today_utc):
     dates = [(today_utc - timedelta(days=i)).strftime('%Y-%m-%d') for i in range(7)]
-    header_cells = [d[5:].replace('-', '/') for d in dates]
+    all_by_date = {d.name: posts_by_date(d) for d in group_dirs}
+    for date_str in dates:
+        write_daily_report(date_str, group_dirs, all_by_date)
+
+    header_cells = [f'[{d[5:].replace("-", "/")}](data/reports/{d}.md)' for d in dates]
     lines = [
         '## 報告彙整（近 7 天）',
         '',
@@ -59,7 +101,7 @@ def build_weekly_table(group_dirs, today_utc):
         '|  :---: | ' + ' | '.join([':---:'] * len(dates)) + ' |',
     ]
     for d in group_dirs:
-        by_date = posts_by_date(d)
+        by_date = all_by_date[d.name]
         cells = []
         for date_str in dates:
             filenames = by_date.get(date_str)
