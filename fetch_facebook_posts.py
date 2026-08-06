@@ -487,6 +487,9 @@ def extract_graphql_post_records(html_text: str, count: int, months_back: int = 
     cutoff_ts: int | None = None
     if months_back > 0:
         cutoff_ts = int((datetime.now(timezone.utc) - timedelta(days=30 * months_back)).timestamp())
+    else:
+        # months_back=0 means "only fetch the currently available first page" (see --months-back help).
+        max_pages = 1
 
     records: list[dict[str, Any]] = []
     cursor: str | None = None
