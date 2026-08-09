@@ -81,8 +81,9 @@ FB_COOKIE / FB_DTSG 省略 `--cookie`/`--fb-dtsg` 時會自動從環境變數或
    python skills/skill-facebook-fetch/scripts/update_fb_cookie.py --cookie "<cookie 字串>" --fb-dtsg "<fb_dtsg>"
    ```
    此腳本會更新 GitHub Secrets `FB_COOKIE`、`FB_DTSG` 並自動觸發 `daily_fetch.yml`。
-   （若不在 Claude Code / MCP 環境，腳本支援 Cookie-Editor 擴充套件匯出 JSON 的備援流程，
-   直接執行 `python skills/skill-facebook-fetch/scripts/update_fb_cookie.py` 不帶參數即可。）
+   （若本機 Chrome 有以 `--remote-debugging-port=9222` 啟動，
+   直接執行 `python skills/skill-facebook-fetch/scripts/update_fb_cookie.py` 不帶參數，
+   腳本會自動透過 CDP WebSocket 擷取 cookie/fb_dtsg，不需要 MCP。）
 
 ## 已知問題與排查
 

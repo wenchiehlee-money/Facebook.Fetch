@@ -21,10 +21,6 @@ Secondary method — Chrome CDP WebSocket (Automatic local run):
   automatically connect to it via WebSocket, retrieve cookies, evaluate fb_dtsg
   CSRF token, update GitHub secrets, and trigger the fetch workflow.
 
-Fallback — Cookie-Editor Chrome extension JSON export (manual):
-  If both automatic methods fail, export cookies manually and place the JSON
-  file in the Downloads folder. The script will detect and import it automatically.
-
 Usage:
   # Fully Automatic (requires Chrome running with --remote-debugging-port=9222):
   python skills/skill-facebook-fetch/scripts/update_fb_cookie.py
@@ -40,44 +36,16 @@ import io
 import json
 import subprocess
 import sys
-import time
 import urllib.request
-import webbrowser
-from pathlib import Path
 
 if hasattr(sys.stdout, "buffer") and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
     sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
 
 
-FACEBOOK_URL = "https://www.facebook.com"
-DOWNLOADS_DIR = Path.home() / "Downloads"
-WATCH_TIMEOUT_SECONDS = 180
-COOKIE_EDITOR_STORE_URL = "https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm"
-
 CDP_INSTRUCTIONS = """
 ══════════════════════════════════════════════════════════════════════
   正在偵測本機 Chrome 遠端偵錯埠 (localhost:9222)...
-══════════════════════════════════════════════════════════════════════
-"""
-
-EXTENSION_INSTRUCTIONS = """
-══════════════════════════════════════════════════════════════════════
-  備用方案：Cookie-Editor 擴充套件
-
-  【首次設定】（只需做一次）
-  Chrome 正在開啟 Cookie-Editor 安裝頁面...
-  點「加到 Chrome」安裝
-
-  【每次更新 cookie 的步驟】
-  Step 1. 在 Chrome 確認已登入 Facebook（https://www.facebook.com）
-  Step 2. 點工具列的 Cookie-Editor 圖示（餅乾圖案）
-          → 點右上角的「Export」按鈕（向上箭頭）
-          → 選「Export as JSON」
-          → 儲存到 Downloads 資料夾（使用預設檔名即可）
-
-  腳本正在自動偵測 Downloads 資料夾中的匯出檔案...
-  （最多等待 180 秒，匯出後自動繼續）
 ══════════════════════════════════════════════════════════════════════
 """
 
@@ -184,96 +152,6 @@ def try_auto_extract_via_cdp() -> tuple[str, str] | None:
 
 
 # ---------------------------------------------------------------------------
-# Cookie-Editor fallback
-# ---------------------------------------------------------------------------
-
-def _parse_cookie_editor_json(path: Path) -> dict[str, str] | None:
-    try:
-        data = json.loads(path.read_text(encoding="utf-8"))
-    except Exception:
-        return None
-    if not isinstance(data, list) or not data:
-        return None
-    if "name" not in data[0] or "value" not in data[0]:
-        return None
-    return {
-        c["name"]: c["value"]
-        for c in data
-        if "facebook.com" in c.get("domain", "")
-    } or None
-
-
-def _find_recent_cookie_export(after_time: float) -> dict[str, str] | None:
-    if not DOWNLOADS_DIR.exists():
-        return None
-    for f in DOWNLOADS_DIR.glob("*.json"):
-        try:
-            if f.stat().st_mtime > after_time:
-                result = _parse_cookie_editor_json(f)
-                if result and ("c_user" in result or "xs" in result):
-                    print(f"  找到匯出檔案: {f.name}")
-                    return result
-        except Exception:
-            continue
-    return None
-
-
-def _get_cookies_via_extension_export() -> str:
-    print(EXTENSION_INSTRUCTIONS)
-    start_time = time.time()
-
-    recent = _find_recent_cookie_export(start_time - 300)
-    if recent and "c_user" in recent and "xs" in recent:
-        print("  偵測到最近的匯出檔案，直接使用。")
-        return "; ".join(f"{k}={v}" for k, v in recent.items())
-
-    webbrowser.open(FACEBOOK_URL)
-    time.sleep(1)
-    webbrowser.open(COOKIE_EDITOR_STORE_URL)
-
-    print(f"  等待 Downloads 資料夾出現 JSON 匯出檔案（最多 {WATCH_TIMEOUT_SECONDS} 秒）...")
-    print("  （匯出後按 Enter 可跳過倒數）")
-
-    import threading
-    result_holder: list[dict[str, str] | None] = [None]
-    stop_event = threading.Event()
-
-    def watcher() -> None:
-        deadline = time.time() + WATCH_TIMEOUT_SECONDS
-        while time.time() < deadline and not stop_event.is_set():
-            found = _find_recent_cookie_export(start_time)
-            if found:
-                result_holder[0] = found
-                stop_event.set()
-                return
-            time.sleep(1)
-
-    t = threading.Thread(target=watcher, daemon=True)
-    t.start()
-    try:
-        input()
-        stop_event.set()
-    except (EOFError, KeyboardInterrupt):
-        stop_event.set()
-    t.join(timeout=2)
-
-    if result_holder[0] is None:
-        result_holder[0] = _find_recent_cookie_export(start_time)
-
-    result_dict = result_holder[0]
-    if not result_dict:
-        print("\n未偵測到匯出檔案。請確認 Cookie-Editor 已安裝並完成匯出。")
-        return ""
-    if "c_user" not in result_dict or "xs" not in result_dict:
-        print(f"警告：匯出的 cookie 有 {len(result_dict)} 個，但缺少 c_user 或 xs。")
-        confirm = input("仍要繼續更新 GitHub secret？(y/N): ").strip().lower()
-        if confirm != "y":
-            return ""
-
-    return "; ".join(f"{k}={v}" for k, v in result_dict.items())
-
-
-# ---------------------------------------------------------------------------
 # GitHub secret & workflow
 # ---------------------------------------------------------------------------
 
@@ -373,18 +251,16 @@ def main() -> int:
         # MCP flow: cookie provided directly by arguments
         return _apply(args.cookie, args.fb_dtsg)
 
-    # 1. 優先嘗試自動從 localhost:9222 偵錯瀏覽器中擷取
+    # 優先嘗試自動從 localhost:9222 偵錯瀏覽器中擷取
     cdp_result = try_auto_extract_via_cdp()
     if cdp_result:
         cookie, fb_dtsg = cdp_result
         return _apply(cookie, fb_dtsg)
 
-    # 2. 自動擷取失敗，退回到傳統的 Cookie-Editor 檔案匯出方案
-    print("\n  自動擷取失敗，將啟動備用方案 (Cookie-Editor JSON)...")
-    cookie = _get_cookies_via_extension_export()
-    if not cookie:
-        return 1
-    return _apply(cookie, None)
+    print("\n  自動擷取失敗。請改用 Chrome DevTools MCP 流程"
+          "（見 SKILL.md「更新 Cookie 流程」）取得 cookie/fb_dtsg，"
+          "再帶 --cookie/--fb-dtsg 參數執行本腳本。")
+    return 1
 
 
 if __name__ == "__main__":
