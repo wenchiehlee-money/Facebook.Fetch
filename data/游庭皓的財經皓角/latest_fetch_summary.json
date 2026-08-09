@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-08-06T04:22:17.270767+00:00",
+  "fetched_at_utc": "2026-08-09T06:01:40.480251+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,17 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1115779484346737",
+    "1115777737680245",
+    "1115775521013800"
+  ],
+  "new_markdown_files": [
+    "data/游庭皓的財經皓角/2026-08-08_擒賊先擒王打蛇打七寸烏克蘭最近持續把攻擊重點放在俄羅斯能源設施大舉打擊俄羅斯賴以為生的外匯收入最新無人機攻擊波及伊爾斯基與塞茲蘭兩座煉油廠.md",
+    "data/游庭皓的財經皓角/2026-08-08_記憶體價格逐漸往下游端轉嫁小米已率先調高主力機種售價旗下Xiaomi-17系列每支上漲300至500元人民幣約調漲一成平價REDMI系列也調漲約300元.md",
+    "data/游庭皓的財經皓角/2026-08-08_開放權重模型正快速改變AI市場麥肯錫調查已有63的企業同時使用開放與封閉模型美國用戶透過OpenRouter使用的權杖中每週超過30流向中國開放模型.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",
   "notes": [

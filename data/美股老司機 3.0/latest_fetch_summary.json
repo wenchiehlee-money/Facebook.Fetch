@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-08-06T04:23:00.959040+00:00",
+  "fetched_at_utc": "2026-08-09T06:02:26.228320+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "122197720934486922"
+    "122198066540486922",
+    "122198057162486922",
+    "122198048498486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-08-06_把你的全部身家砸進一場圍繞著財報發布的激進賭局然後祈禱它能如願以償大賺一筆.md"
+    "data/美股老司機 3.0/2026-08-09_Michael-Burry-最新的持倉調整.md",
+    "data/美股老司機 3.0/2026-08-08_未來5年預期年化銷售成長率.md",
+    "data/美股老司機 3.0/2026-08-08_根據-Berkshire-Hathaway-最新公布的-2026-年Q2-財報其現金與短期美國國債儲備確實自Q1-末的-3974-億美元-歷史高點降至-3655.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-08-06T04:22:39.627709+00:00",
+  "fetched_at_utc": "2026-08-09T06:02:03.350313+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,17 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 3,
+  "new_post_ids": [
+    "122192980856771552",
+    "122192884490771552",
+    "122192774600771552"
+  ],
+  "new_markdown_files": [
+    "data/Fomo研究院/2026-08-09_Palantir-股價年初到上週跌了大概-30.md",
+    "data/Fomo研究院/2026-08-08_在平靜之下有不少人開始感到不安為甚麼跌了這麼多市場還不來個-V-型反彈.md",
+    "data/Fomo研究院/2026-08-07_2021-年Musk-說-Optimus-原型機明年就會出來.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",
   "notes": [

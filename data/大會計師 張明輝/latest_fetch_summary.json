@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/dextermchang",
   "final_url": "https://www.facebook.com/dextermchang",
-  "fetched_at_utc": "2026-08-06T04:22:12.968393+00:00",
+  "fetched_at_utc": "2026-08-09T06:01:37.038638+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,15 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 2,
+  "new_post_ids": [
+    "122134905009207208",
+    "122134703625207208"
+  ],
+  "new_markdown_files": [
+    "data/大會計師 張明輝/2026-08-09_看懂稀釋每股盈餘的意義.md",
+    "data/大會計師 張明輝/2026-08-07_不要掉入合併報表的陷阱用-緯創-舉例給你聽.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/大會計師 張明輝",
   "notes": [

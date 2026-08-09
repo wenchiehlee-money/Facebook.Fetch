@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-08-06T04:22:54.557084+00:00",
+  "fetched_at_utc": "2026-08-09T06:02:18.604501+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,10 +9,14 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "checked_post_count": 1,
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1576062527211703"
+  ],
+  "new_markdown_files": [
+    "data/IEObserve 國際經濟觀察/2026-08-09_寬魚的月營收報告其實蠻有趣的每個月都會講因為辦了什麼演唱會或活動所以跟去年同期比是增加還是減少如果同期剛好有別的演唱會強過今年就會被拿來比較只是這次剛好是王心凌.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",
   "notes": [
@@ -21,6 +25,6 @@
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 1 篇貼文。"
+    "已依中文至少 80 字規則排除 2 篇貼文。"
   ]
 }
