@@ -131,7 +131,7 @@ generated = '\n'.join(lines)
 weekly_generated = build_weekly_table(group_dirs, today_utc)
 
 readme_path = Path('README.md')
-text = readme_path.read_text(encoding='utf-8', newline='\n')
+text = readme_path.read_text(encoding='utf-8')
 
 start_marker = '<!-- AUTO-GENERATED:POSTS START -->'
 end_marker = '<!-- AUTO-GENERATED:POSTS END -->'
