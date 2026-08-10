@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-08-09T06:01:56.791242+00:00",
+  "fetched_at_utc": "2026-08-10T03:16:21.292722+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 1,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1508007728031978"
-  ],
-  "new_markdown_files": [
-    "data/股魚/2026-08-06_交易分析系統-線上版--新增真實績效日曆按每天實際持股計算損益.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",
   "notes": [

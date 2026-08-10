@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-08-09T06:02:14.974837+00:00",
+  "fetched_at_utc": "2026-08-10T03:16:36.744578+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1579087757241258",
-    "1579076333909067",
-    "1578982143918486"
+    "1579839340499433",
+    "1579768960506471",
+    "1579763613840339"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-08-08_根據Counterpoint-Research禁令似乎是一記七傷拳.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-08-08_這篇不是新聞是把上週Trend-Force和Semianalysis兩篇有關Rubil-Ultra-HBM降規的資訊歸納統合整理在有限的HBM產能供應瓶頸下-H.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-08-08_WSTS上修了2026全球半導體營收從上一版9750億美元到1.5兆美元上修不意外因為民間調研早就陸續上修了公協會組織的SIAWSTS比較穩定謹慎定期看到202.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-08-09_AMD上週併購的Taalas是一家什麼樣的公司-很瘋狂將模型權重製造在foundry-wafer最後幾層Mask-ROM製程中目前主流作法是把模型權重是放在HB.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-08-09_理想狀況下整個-KV-快取都儲存在-GPU-或-AI-加速器旁邊的-HBM這樣可以減少物理距離並降低延遲HBM-約三分之一的容量通常保留給-KV-快取而神經網路.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-08-09_新的-zHBM-提供一種新的記憶體架構將-HBM-垂直堆疊於-AI-加速器上方而非目前將-HBM-堆疊置於處理器旁三星希望這麼做以減少資料在-AI-處理器與記憶.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",

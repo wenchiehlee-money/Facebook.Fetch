@@ -6,7 +6,7 @@ source_page: "JC \u8ca1\u7d93\u89c0\u9ede"
 requested_url: "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL"
 post_url: "https://www.facebook.com/JCInsightgroup/posts/pfbid02CQD4QBQVFZpmQDJAzAMLc6nSj4bJvHf8kLN1q4yaYbA3ZnrGSorkTmYvRHh2D8v1l"
 creation_time_utc: ""
-fetched_at_utc: "2026-08-09T06:01:33.417879+00:00"
+fetched_at_utc: "2026-08-10T03:16:03.013121+00:00"
 source: "saved_list"
 ---
 

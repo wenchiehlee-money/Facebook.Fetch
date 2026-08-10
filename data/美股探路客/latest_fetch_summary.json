@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-08-09T06:02:00.161965+00:00",
+  "fetched_at_utc": "2026-08-10T03:16:24.431270+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1478468967660369",
-    "1477950271045572",
-    "1477640167743249"
+    "1478771400963459"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-08-09_知名KOL發表對記憶體短期偏空的看法與原因結果是引來攻擊.md",
-    "data/美股探路客/2026-08-08_Market-Vane--Bullish指標市場看多比例指標上週創下1997年夏天以來最高紀錄的79.md",
-    "data/美股探路客/2026-08-08_Situational-Awareness少年股神爆倉後投資4億美金到一家新創半導體製造技術公司Source-Foundry目前估值50億美元.md"
+    "data/美股探路客/2026-08-09_美股財經週報-2026.8.9.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

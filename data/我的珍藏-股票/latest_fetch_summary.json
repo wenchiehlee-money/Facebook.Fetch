@@ -1,14 +1,18 @@
 {
   "requested_url": "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL",
-  "fetched_at_utc": "2026-08-09T06:01:33.412303+00:00",
+  "fetched_at_utc": "2026-08-10T03:16:03.007105+00:00",
   "list_title": "股票",
   "total_items": 10,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "10227132615941503"
+    "10227156986270746",
+    "10227156957310022",
+    "10227150614031444"
   ],
   "new_markdown_files": [
-    "data/我的珍藏-股票/2026-08-09_反彈沒量過不了前高.md"
+    "data/我的珍藏-股票/2026-08-10_這是高盛最新預估AI-雲端巨頭的自由現金流轉正回升的時間點比之前分享金融時報引述的市場預測還要晚一點.md",
+    "data/我的珍藏-股票/2026-08-10_CSP雲端巨頭-Capex擴張-現金流收回速度整理.md",
+    "data/我的珍藏-股票/2026-08-10_AI需求還很強.md"
   ],
   "posts_directory": "data/我的珍藏-股票"
 }

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-08-09T06:01:48.371146+00:00",
+  "fetched_at_utc": "2026-08-10T03:16:14.739482+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,17 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
-  "new_post_ids": [
-    "1524525736384235",
-    "1523209493182526",
-    "1522872746549534"
-  ],
-  "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-08-09_下週財報焦點涵蓋-AI-基礎建設光通訊太空與消費首先CoreWeaveCRWVNebiusNBIS-兩大-NeoCloud-同步揭露業績市場將檢視高速擴張下能否.md",
-    "data/FinGuider 美股資訊網/2026-08-07_美國-7-月非農就業減少-2.3-萬人遠低於市場預期的新增-8.5-萬.md",
-    "data/FinGuider 美股資訊網/2026-08-07_OpenAI-備受期待的新裝置外型獨特並配備可增添生命感的活動零件售價可能超過-300-美元.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",
   "notes": [

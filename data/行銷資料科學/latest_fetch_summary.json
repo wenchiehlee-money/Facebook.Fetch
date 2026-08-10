@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-08-09T06:01:44.909940+00:00",
+  "fetched_at_utc": "2026-08-10T03:16:11.916822+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "1349793007264341",
-    "1349714897272152"
-  ],
-  "new_markdown_files": [
-    "data/行銷資料科學/2026-08-07_這個-Dashboard我一行程式都沒寫.md",
-    "data/行銷資料科學/2026-08-07_有獎勵金的-AI-培訓計畫餐飲暨服務業青年-AI-實戰養成班今晚直播說明會.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",
   "notes": [

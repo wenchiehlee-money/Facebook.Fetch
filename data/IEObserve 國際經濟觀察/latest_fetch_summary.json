@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-08-09T06:02:18.604501+00:00",
+  "fetched_at_utc": "2026-08-10T03:16:40.024523+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,13 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 1,
-  "new_post_count": 1,
+  "checked_post_count": 2,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1576062527211703"
+    "1576425973842025",
+    "1576211177196838"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-08-09_寬魚的月營收報告其實蠻有趣的每個月都會講因為辦了什麼演唱會或活動所以跟去年同期比是增加還是減少如果同期剛好有別的演唱會強過今年就會被拿來比較只是這次剛好是王心凌.md"
+    "data/IEObserve 國際經濟觀察/2026-08-09_現在前沿模型公司的最新LLM行銷起手式都是出來喊說我的新模型有夠危險我需要時間微調一下安全控制再放出去.md",
+    "data/IEObserve 國際經濟觀察/2026-08-09_Jeff-Dean在YC活動上的分享內容談論AI產業現況與未來發展其實也是預示了他在自己從google出走後的新創公司-Discovery-Loop想要做什麼.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",
@@ -25,6 +27,6 @@
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 2 篇貼文。"
+    "已依中文至少 80 字規則排除 1 篇貼文。"
   ]
 }
