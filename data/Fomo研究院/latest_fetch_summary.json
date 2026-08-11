@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-08-10T03:16:27.335316+00:00",
+  "fetched_at_utc": "2026-08-11T03:08:35.168327+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122193012674771552"
+    "122193123620771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-08-09_Jeff-Dean在-Google-的二十七年裡換了十八次桌子.md"
+    "data/Fomo研究院/2026-08-10_整個記憶體產業突然間都在近期集體大幅加速回購.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

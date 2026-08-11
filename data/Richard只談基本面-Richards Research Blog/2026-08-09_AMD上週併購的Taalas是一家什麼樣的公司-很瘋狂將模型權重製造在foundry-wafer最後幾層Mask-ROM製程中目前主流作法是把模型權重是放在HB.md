@@ -4,22 +4,22 @@ title: "AMD上週併購的Taalas是一家什麼樣的公司? 很瘋狂，將模�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0qZUJxHe1u1qK9YjQFsj69mKwiWMYREmpcTzqkwAFXufTjD5f34cBh9Am3yLtAFyGl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02tvxVaJzdvkUFaoHdrMyRVATVWyP67krUfCdBDtwMBGRssoS9BakQghcy2a7p3ZoMl&id=100054201473657"
 creation_time_utc: "2026-08-09T15:01:17+00:00"
-fetched_at_utc: "2026-08-10T03:16:36.744578+00:00"
+fetched_at_utc: "2026-08-11T03:08:46.229563+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/768310339_1579830677166966_4833733986724555306_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TxPZ1AN1IvIQ7kNvwF_YmIv&_nc_oc=AdrP6bCf09BowaZl9bbsAh64nkw-GCqEA0HsLecPc3GPPCebkBN4-RxOOk2F8KUHCoQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=l_8h6nqylc7Hu5P2Ns2OSQ&_nc_ss=7e120&oh=00_AQGgtz1dUafwOqfneU-TBLV4WlFpa7VQJHR0otIH45JFaw&oe=6A7EFC52"
+image_url: "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/768310339_1579830677166966_4833733986724555306_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TxPZ1AN1IvIQ7kNvwHlc2kX&_nc_oc=AdrgeehD1syf_pFu7wSZnsVe0OVPCsPo6XpMxrqmA1v8UYtnvWXpRNyPrIfEwUQ5xko&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=mlMG4P-gwrojzMFuxjxtqA&_nc_ss=7e120&oh=00_AQEtrXHbR9vEuHttFysHDPp7eXl6RK5LEZicTMStC4CaBQ&oe=6A804DD2"
 feedback_id: "ZmVlZGJhY2s6MTU3OTgzOTM0MDQ5OTQzMw=="
 page_canonical_url: ""
 ---
 
 # AMD上週併購的Taalas是一家什麼樣的公司? 很瘋狂，將模型權重製造在foundry wafer最後幾層Mask ROM製程中，目前主流作法是把模型權重是放在HBM中，少數新創如Cerebras和Groq放在SRAM中，但是SRAM太貴太小放不了大模型，要串聯很多很多顆XPU才行，Taalas把晶片很大部分做了Mask ROM和SRAM，模型權重固定(不能改)製造成晶片的一部分，如附圖
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0qZUJxHe1u1qK9YjQFsj69mKwiWMYREmpcTzqkwAFXufTjD5f34cBh9Am3yLtAFyGl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02tvxVaJzdvkUFaoHdrMyRVATVWyP67krUfCdBDtwMBGRssoS9BakQghcy2a7p3ZoMl&id=100054201473657
 
-![AMD上週併購的Taalas是一家什麼樣的公司? 很瘋狂，將模型權重製造在foundry wafer最後幾層Mask ROM製程中，目前主流作法是把模型權重是放在HBM中，少數新創如Cerebras和Groq放在SRAM中，但是SRAM太貴太小放不了大模型，要串聯很多很多顆XPU才行，Taalas把晶片很大部分做了Mask ROM和SRAM，模型權重固定(不能改)製造成晶片的一部分，如附圖](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/768310339_1579830677166966_4833733986724555306_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TxPZ1AN1IvIQ7kNvwF_YmIv&_nc_oc=AdrP6bCf09BowaZl9bbsAh64nkw-GCqEA0HsLecPc3GPPCebkBN4-RxOOk2F8KUHCoQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=l_8h6nqylc7Hu5P2Ns2OSQ&_nc_ss=7e120&oh=00_AQGgtz1dUafwOqfneU-TBLV4WlFpa7VQJHR0otIH45JFaw&oe=6A7EFC52)
+![AMD上週併購的Taalas是一家什麼樣的公司? 很瘋狂，將模型權重製造在foundry wafer最後幾層Mask ROM製程中，目前主流作法是把模型權重是放在HBM中，少數新創如Cerebras和Groq放在SRAM中，但是SRAM太貴太小放不了大模型，要串聯很多很多顆XPU才行，Taalas把晶片很大部分做了Mask ROM和SRAM，模型權重固定(不能改)製造成晶片的一部分，如附圖](https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/768310339_1579830677166966_4833733986724555306_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TxPZ1AN1IvIQ7kNvwHlc2kX&_nc_oc=AdrgeehD1syf_pFu7wSZnsVe0OVPCsPo6XpMxrqmA1v8UYtnvWXpRNyPrIfEwUQ5xko&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=mlMG4P-gwrojzMFuxjxtqA&_nc_ss=7e120&oh=00_AQEtrXHbR9vEuHttFysHDPp7eXl6RK5LEZicTMStC4CaBQ&oe=6A804DD2)
 AMD上週併購的Taalas是一家什麼樣的公司? 很瘋狂，將模型權重製造在foundry wafer最後幾層Mask ROM製程中，目前主流作法是把模型權重是放在HBM中，少數新創如Cerebras和Groq放在SRAM中，但是SRAM太貴太小放不了大模型，要串聯很多很多顆XPU才行，Taalas把晶片很大部分做了Mask ROM和SRAM，模型權重固定(不能改)製造成晶片的一部分，如附圖
 
 1. 晶片內MASK ROM和SRAM，MASK ROM存權重(燒死)、SRAM處理KV cache

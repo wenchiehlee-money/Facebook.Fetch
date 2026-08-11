@@ -1,11 +1,13 @@
 # Facebook 貼文索引
 
 - 頁面: 
-- 抓取時間: 2026-08-10T03:16:17.965373+00:00
-- 已收錄貼文數量: 297
+- 抓取時間: 2026-08-11T03:08:14.850493+00:00
+- 已收錄貼文數量: 299
 
 ## 文章列表
 
+- `2026-08-11` [元大台灣價值高息ETF，台股代號00940，於2024年3月18日成立。同年4月1日掛牌。](2026-08-11_元大台灣價值高息ETF台股代號00940於2024年3月18日成立同年4月1日掛牌.md)
+- `2026-08-10` [\"二十一世紀資本論\"從第一章就帶領讀者瞭解國家與個人財富的定義與由來。](2026-08-10_二十一世紀資本論從第一章就帶領讀者瞭解國家與個人財富的定義與由來.md)
 - `2026-08-10` [Vanguard富時已開發市場ETF，英文全名 Vanguard FTSE Developed Market ETF ，美股代號VEA，於2007年七月20日成立。追蹤FTSE Developed All Cap ex US Index。](2026-08-10_Vanguard富時已開發市場ETF英文全名-Vanguard-FTSE-Developed-Market-ETF-美股代號VEA於2007年七月20日成立追蹤.md)
 - `2026-08-09` [晨星專欄作家John Rekenthaler在一篇名為 With Investment Yield, Denominators Also Matter的文章，討論配息資產的”本金”狀態，對於配息金額的重要性。](2026-08-09_晨星專欄作家John-Rekenthaler在一篇名為-With-Investment-Yield-Denominators-Also-Matter的文章討論配.md)
 - `2026-08-08` [《刷新你的金錢腦》(Your Journey to Financial Freedom)書中在討論財務目標前，作者先討論”人生目標”。](2026-08-08_刷新你的金錢腦Your-Journey-to-Financial-Freedom書中在討論財務目標前作者先討論人生目標.md)

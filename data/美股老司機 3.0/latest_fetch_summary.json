@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-08-10T03:16:46.359230+00:00",
+  "fetched_at_utc": "2026-08-11T03:09:04.671022+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122198152328486922",
-    "122198146382486922",
-    "122198143178486922"
+    "122198244716486922",
+    "122198221508486922",
+    "122198219834486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-08-09_大神巴菲特早年接受訪問的片段.md",
-    "data/美股老司機 3.0/2026-08-09_研究及等待.md",
-    "data/美股老司機 3.0/2026-08-09_有趣的知識.md"
+    "data/美股老司機 3.0/2026-08-10_810.md",
+    "data/美股老司機 3.0/2026-08-10_資安股.md",
+    "data/美股老司機 3.0/2026-08-10_投資初心.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

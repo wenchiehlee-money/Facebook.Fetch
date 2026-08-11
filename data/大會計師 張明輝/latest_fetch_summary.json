@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/dextermchang",
   "final_url": "https://www.facebook.com/dextermchang",
-  "fetched_at_utc": "2026-08-10T03:16:05.358459+00:00",
+  "fetched_at_utc": "2026-08-11T03:07:44.456452+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122135014017207208"
+    "122135113149207208"
   ],
   "new_markdown_files": [
-    "data/大會計師 張明輝/2026-08-10_用一個日本歷史傳說看懂三種投資人都有自己的贏法.md"
+    "data/大會計師 張明輝/2026-08-11_輝達-市值一度被蘋果超車黃仁勳正在用-AI生態系-破解本益比難題.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/大會計師 張明輝",

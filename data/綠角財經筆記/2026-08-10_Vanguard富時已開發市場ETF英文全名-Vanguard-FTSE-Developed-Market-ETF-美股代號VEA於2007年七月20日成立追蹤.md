@@ -4,22 +4,22 @@ title: "Vanguard富時已開發市場ETF，英文全名 Vanguard FTSE Developed 
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02eYoxH6gwCTcj7YXG3oQrGSqkw6sYGcuUsUrP29Gxe9afP6jdhL2TDuM2sf31wg1rl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0b1AmMw4aML2KELvW2eR8id6aN984bcPVQ5y8xTTpNEUCtZfugiFVd7b2WyruVCgel"
 creation_time_utc: "2026-08-10T00:49:46+00:00"
-fetched_at_utc: "2026-08-10T03:16:17.965373+00:00"
+fetched_at_utc: "2026-08-11T03:08:14.850493+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/772235096_1475046611095401_4866801776245927462_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7tuPdEwJBeIQ7kNvwHURy0n&_nc_oc=Adoc8kfinaXfAY6-gebN1TjjHxrfbNLf62WqPaU0CC-uQeXG2ne6HBYj12kxM7io3ak&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=4zLiVfRif9DzO-CH3mrpEw&_nc_ss=7e120&oh=00_AQFk0CJ9dJTlUjt19_fR7flgmtmLvTv1gt4ZYXL3ew5lBg&oe=6A7F21A3"
+image_url: "https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/772235096_1475046611095401_4866801776245927462_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7tuPdEwJBeIQ7kNvwH2G5Sp&_nc_oc=Adr92p4Tjf2S9ndVTLUBnuGdxIVkcsANY5fqPpio7nex2uDoTG60mplUZdvmKokQKqs&_nc_zt=23&_nc_ht=scontent-sea1-1.xx&_nc_gid=oAYzx2lKhYLWXpBiioG94A&_nc_ss=7e120&oh=00_AQGX-rIghGrEncEiY2k3RHEXHpGf4_ArieKuyy0W76zgog&oe=6A807323"
 feedback_id: "ZmVlZGJhY2s6MTQ3NTA0NzcxNDQyODYyNA=="
 page_canonical_url: ""
 ---
 
 # Vanguard富時已開發市場ETF，英文全名 Vanguard FTSE Developed Market ETF ，美股代號VEA，於2007年七月20日成立。追蹤FTSE Developed All Cap ex US Index。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02eYoxH6gwCTcj7YXG3oQrGSqkw6sYGcuUsUrP29Gxe9afP6jdhL2TDuM2sf31wg1rl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0b1AmMw4aML2KELvW2eR8id6aN984bcPVQ5y8xTTpNEUCtZfugiFVd7b2WyruVCgel
 
-![Vanguard富時已開發市場ETF，英文全名 Vanguard FTSE Developed Market ETF ，美股代號VEA，於2007年七月20日成立。追蹤FTSE Developed All Cap ex US Index。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/772235096_1475046611095401_4866801776245927462_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7tuPdEwJBeIQ7kNvwHURy0n&_nc_oc=Adoc8kfinaXfAY6-gebN1TjjHxrfbNLf62WqPaU0CC-uQeXG2ne6HBYj12kxM7io3ak&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=4zLiVfRif9DzO-CH3mrpEw&_nc_ss=7e120&oh=00_AQFk0CJ9dJTlUjt19_fR7flgmtmLvTv1gt4ZYXL3ew5lBg&oe=6A7F21A3)
+![Vanguard富時已開發市場ETF，英文全名 Vanguard FTSE Developed Market ETF ，美股代號VEA，於2007年七月20日成立。追蹤FTSE Developed All Cap ex US Index。](https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/772235096_1475046611095401_4866801776245927462_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7tuPdEwJBeIQ7kNvwH2G5Sp&_nc_oc=Adr92p4Tjf2S9ndVTLUBnuGdxIVkcsANY5fqPpio7nex2uDoTG60mplUZdvmKokQKqs&_nc_zt=23&_nc_ht=scontent-sea1-1.xx&_nc_gid=oAYzx2lKhYLWXpBiioG94A&_nc_ss=7e120&oh=00_AQGX-rIghGrEncEiY2k3RHEXHpGf4_ArieKuyy0W76zgog&oe=6A807323)
 Vanguard富時已開發市場ETF，英文全名 Vanguard FTSE Developed Market ETF ，美股代號VEA，於2007年七月20日成立。追蹤FTSE Developed All Cap ex US Index。
 
 VEA投資美國以外的全球已開發市場，共持有3868支證券。歐洲:亞太:北美的相對比重是49:40:11。

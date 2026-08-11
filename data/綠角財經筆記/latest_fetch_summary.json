@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-08-10T03:16:17.965373+00:00",
+  "fetched_at_utc": "2026-08-11T03:08:14.850493+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1475047714428624"
+    "1475857821014280",
+    "1475268581073204"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-08-10_Vanguard富時已開發市場ETF英文全名-Vanguard-FTSE-Developed-Market-ETF-美股代號VEA於2007年七月20日成立追蹤.md"
+    "data/綠角財經筆記/2026-08-11_元大台灣價值高息ETF台股代號00940於2024年3月18日成立同年4月1日掛牌.md",
+    "data/綠角財經筆記/2026-08-10_二十一世紀資本論從第一章就帶領讀者瞭解國家與個人財富的定義與由來.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

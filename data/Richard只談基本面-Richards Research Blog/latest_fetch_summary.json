@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-08-10T03:16:36.744578+00:00",
+  "fetched_at_utc": "2026-08-11T03:08:46.229563+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,17 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
-  "new_post_ids": [
-    "1579839340499433",
-    "1579768960506471",
-    "1579763613840339"
-  ],
-  "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-08-09_AMD上週併購的Taalas是一家什麼樣的公司-很瘋狂將模型權重製造在foundry-wafer最後幾層Mask-ROM製程中目前主流作法是把模型權重是放在HB.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-08-09_理想狀況下整個-KV-快取都儲存在-GPU-或-AI-加速器旁邊的-HBM這樣可以減少物理距離並降低延遲HBM-約三分之一的容量通常保留給-KV-快取而神經網路.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-08-09_新的-zHBM-提供一種新的記憶體架構將-HBM-垂直堆疊於-AI-加速器上方而非目前將-HBM-堆疊置於處理器旁三星希望這麼做以減少資料在-AI-處理器與記憶.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",
   "notes": [

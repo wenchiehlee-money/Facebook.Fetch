@@ -4,12 +4,12 @@ title: "------------\"新的 zHBM 提供一種新的記憶體架構，將 HBM �
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02sdiBxChibnjXrMbUmBz5yQSGq4VvZeWgqb3pjd9vLVjr9hg9kzAbSB6nrD7xXLYHl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0p651335MkXGnsyhLkfkmJoyiGXBAV8z4RGmjvZ6D66iHSGRsaz4RcfzCfGPMCKGLl&id=100054201473657"
 creation_time_utc: "2026-08-09T13:14:44+00:00"
-fetched_at_utc: "2026-08-10T03:16:36.744578+00:00"
+fetched_at_utc: "2026-08-11T03:08:46.229563+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02sdiBxChibnjXrMbUmBz5yQSGq4VvZeWgqb3pjd9vLVjr9hg9kzAbSB6nrD7xXLYHl&id=100054201473657"
+attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0p651335MkXGnsyhLkfkmJoyiGXBAV8z4RGmjvZ6D66iHSGRsaz4RcfzCfGPMCKGLl&id=100054201473657"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTU3OTc2MzYxMzg0MDMzOQ=="
 page_canonical_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # ------------"新的 zHBM 提供一種新的記憶體架構，將 HBM 垂直堆疊於 AI 加速器上方，而非目前將 HBM 堆疊置於處理器旁。三星希望這麼做，以減少資料在 AI 處理器與記憶體之間的傳輸距離，從而提升頻寬並提升能源效率。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02sdiBxChibnjXrMbUmBz5yQSGq4VvZeWgqb3pjd9vLVjr9hg9kzAbSB6nrD7xXLYHl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0p651335MkXGnsyhLkfkmJoyiGXBAV8z4RGmjvZ6D66iHSGRsaz4RcfzCfGPMCKGLl&id=100054201473657
 ------------"新的 zHBM 提供一種新的記憶體架構，將 HBM 垂直堆疊於 AI 加速器上方，而非目前將 HBM 堆疊置於處理器旁。三星希望這麼做，以減少資料在 AI 處理器與記憶體之間的傳輸距離，從而提升頻寬並提升能源效率。
 
 zHBM
