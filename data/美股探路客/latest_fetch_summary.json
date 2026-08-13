@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-08-12T03:27:40.309625+00:00",
+  "fetched_at_utc": "2026-08-13T03:30:57.355277+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,13 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 1,
-  "new_post_count": 1,
+  "checked_post_count": 2,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1480178727489393"
+    "1481659860674613",
+    "1481429377364328"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-08-11_全球燃氣輪機發電機訂單創紀錄上季訂單高達38GW季增29年增712031年交貨的價格是2025年的3倍.md"
+    "data/美股探路客/2026-08-12_420億美元的10年期國債拍賣利率4.683創下2007年金融海嘯以來最高紀錄10年期國債利率從開盤的下跌回升.md",
+    "data/美股探路客/2026-08-12_Nebius財報法說讓Bloom-Energy股價大漲10.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",
@@ -25,6 +27,6 @@
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 2 篇貼文。"
+    "已依中文至少 80 字規則排除 1 篇貼文。"
   ]
 }

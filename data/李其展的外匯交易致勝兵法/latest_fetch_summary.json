@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/ForexStrategist",
   "final_url": "https://www.facebook.com/ForexStrategist",
-  "fetched_at_utc": "2026-08-12T03:27:53.459509+00:00",
+  "fetched_at_utc": "2026-08-13T03:31:04.152153+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1635193721299433",
-    "1635138441304961",
-    "1634750821343723"
+    "1636081354544003",
+    "1636021231216682",
+    "1635565051262300"
   ],
   "new_markdown_files": [
-    "data/李其展的外匯交易致勝兵法/2026-08-12_黃金回測4360有撐亞洲早盤再度衝擊4400整數關卡.md",
-    "data/李其展的外匯交易致勝兵法/2026-08-12_日韓股市開盤續漲韓國漲幅拉大至2.2.md",
-    "data/李其展的外匯交易致勝兵法/2026-08-11_美股震盪回穩那斯達克稍微抖費半反攻小漲1.5.md"
+    "data/李其展的外匯交易致勝兵法/2026-08-13_台幣早盤續升觸及32.163觸及近一個月高點外資快回來吧.md",
+    "data/李其展的外匯交易致勝兵法/2026-08-13_日韓股市開盤續強日經指數漲1.5台積電ADR漲1.68.md",
+    "data/李其展的外匯交易致勝兵法/2026-08-12_美國CPI稍有回落黃金先跳水後走高來到4435.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/李其展的外匯交易致勝兵法",

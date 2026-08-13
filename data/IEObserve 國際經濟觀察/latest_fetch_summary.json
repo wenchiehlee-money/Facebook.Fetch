@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-08-12T03:28:09.746577+00:00",
+  "fetched_at_utc": "2026-08-13T03:31:13.546247+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,15 +9,13 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 2,
+  "checked_post_count": 1,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1578468023637820",
-    "1578374153647207"
+    "1579323046885651"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-08-12_SpaceX執行長Elon-Musk在內部演講中說明StarlinkStar-ShieldStarship與AI三大業務線的最新進展同時分享了對AI與人類未來關.md",
-    "data/IEObserve 國際經濟觀察/2026-08-11_Nvidia-算力neocloud-親兒子-CoreWeave-Q2的營收年增112至25.7億積壓訂單年增246至1040億營業利益1.28億Q3預估營收34.md"
+    "data/IEObserve 國際經濟觀察/2026-08-13_AI-光通訊現在最大的問題是產能跟不上需求.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",
@@ -27,6 +25,6 @@
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 1 篇貼文。"
+    "已依中文至少 80 字規則排除 2 篇貼文。"
   ]
 }

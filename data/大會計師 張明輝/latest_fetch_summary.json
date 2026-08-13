@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/dextermchang",
   "final_url": "https://www.facebook.com/dextermchang",
-  "fetched_at_utc": "2026-08-12T03:27:10.996743+00:00",
+  "fetched_at_utc": "2026-08-13T03:30:37.529420+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122135236023207208"
+    "122135334627207208"
   ],
   "new_markdown_files": [
-    "data/大會計師 張明輝/2026-08-12_台積電-今年營收多少其實你已經可以心裡有底.md"
+    "data/大會計師 張明輝/2026-08-13_用一條平凡的滑軌川湖-讓AI巨頭都離不開我認為關鍵在於專注做好一件事.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/大會計師 張明輝",

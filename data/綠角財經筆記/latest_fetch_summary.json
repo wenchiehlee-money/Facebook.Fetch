@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-08-12T03:27:27.431815+00:00",
+  "fetched_at_utc": "2026-08-13T03:30:51.109927+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1476695444263851",
-    "1476188220981240"
+    "1477555584177837"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-08-12_台股在七月出現較為明顯的下跌追蹤台灣50指數的0050從七月13日的每股106元到七月30日的93.5元下跌11.8.md",
-    "data/綠角財經筆記/2026-08-11_反智一書在開始就舉了一個令人毛骨悚然的例子西元897年新上任的教皇德範六世把已過世教皇福慕Formosus的屍身挖出來審判亡者不會替自己辯駁不意外的福慕被判有罪.md"
+    "data/綠角財經筆記/2026-08-13_綠角感言.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

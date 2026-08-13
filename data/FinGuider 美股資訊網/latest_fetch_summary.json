@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-08-12T03:27:23.302240+00:00",
+  "fetched_at_utc": "2026-08-13T03:30:47.728121+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1527262622777213",
-    "1526596302843845",
-    "1526668572836618"
+    "1528334152670060",
+    "1527630142740461",
+    "1527626479407494"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-08-11_AI-雲端運算新創-CoreWeaveCRWV交出了一份穩健的財報營收持續翻倍成長積壓訂單突破千億美元儘管資料中心擴張與利息費用依然造成沉重負擔但各項獲利指標皆.md",
-    "data/FinGuider 美股資訊網/2026-08-11_美股-ETF-趨勢週報.md",
-    "data/FinGuider 美股資訊網/2026-08-11_NetflixNFLX昨日宣布-20262027-年度-Upfront-廣告預售活動圓滿落幕公司與所有主要代理商達成了合作協議廣告承諾金額幾乎翻了一倍符合公司預.md"
+    "data/FinGuider 美股資訊網/2026-08-13_Michael-Burry-在-247-美元加碼放空-NebiusNBIS他先前已在-86-正式揭露做空-Nebius入場價約-212-美元採取直接做空股票的方.md",
+    "data/FinGuider 美股資訊網/2026-08-12_全球最大主權基金首度揭露-SpaceX-持股.md",
+    "data/FinGuider 美股資訊網/2026-08-12_美超微SMCI公布-FY2026Q4-營收年增-93-至-111.2-億美元低於華爾街預測的-116-億不過調整後-EPS-報-1.7-美元遠優於市場共識的-0.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",
