@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/eric.lin77",
   "final_url": "https://www.facebook.com/eric.lin77",
-  "fetched_at_utc": "2026-08-13T03:31:22.682948+00:00",
+  "fetched_at_utc": "2026-08-14T03:28:22.864418+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,10 +9,14 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 0,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "checked_post_count": 1,
+  "new_post_count": 1,
+  "new_post_ids": [
+    "28464541806464200"
+  ],
+  "new_markdown_files": [
+    "data/eric.lin77/2026-08-14_中壢李姓選民又在那邊一邊做太久應該換另一邊做做看了白飯吃太多就會想要換吃屎的白痴太多.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/eric.lin77",
   "notes": [
@@ -21,6 +25,6 @@
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 3 篇貼文。"
+    "已依中文至少 80 字規則排除 2 篇貼文。"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-08-13T03:31:16.502191+00:00",
+  "fetched_at_utc": "2026-08-14T03:28:14.367684+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 2,
   "new_post_count": 2,
   "new_post_ids": [
-    "122224435874502956",
-    "122224429670502956"
+    "122224607984502956",
+    "122224532822502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-08-12_NBISVineland-電力方案落地AI-Data-Center-建置進入最後階段.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-08-12_NEBIUSNBIS2026-年第二季財報重點.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-08-14_日股二刀流-康樂股漲---日股筆記-的攻守配置績效衝上-130你也想讓資產配置全方位升級嗎.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-08-13_快訊Michael-Burry-公布最新持倉變動.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",

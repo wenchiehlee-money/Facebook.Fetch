@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-08-13T03:30:47.728121+00:00",
+  "fetched_at_utc": "2026-08-14T03:27:36.009078+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,17 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 2,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1528334152670060",
-    "1527630142740461",
-    "1527626479407494"
+    "1529273562576119",
+    "1528541159316026"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-08-13_Michael-Burry-在-247-美元加碼放空-NebiusNBIS他先前已在-86-正式揭露做空-Nebius入場價約-212-美元採取直接做空股票的方.md",
-    "data/FinGuider 美股資訊網/2026-08-12_全球最大主權基金首度揭露-SpaceX-持股.md",
-    "data/FinGuider 美股資訊網/2026-08-12_美超微SMCI公布-FY2026Q4-營收年增-93-至-111.2-億美元低於華爾街預測的-116-億不過調整後-EPS-報-1.7-美元遠優於市場共識的-0.md"
+    "data/FinGuider 美股資訊網/2026-08-14_SanDiskSNDK週四舉辦了投資者日管理層強調正透過技術擴產效率AI-資料中心結構性需求以及多年期的新商業模式NBM把過去高度循環的-NAND-產業改造成高.md",
+    "data/FinGuider 美股資訊網/2026-08-13_史上最大-IPO-要換人了.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",
@@ -28,6 +26,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 80 字規則排除 1 篇貼文。"
   ]
 }

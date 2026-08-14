@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-08-13T03:31:00.790784+00:00",
+  "fetched_at_utc": "2026-08-14T03:27:53.352991+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122193353090771552"
+    "122193481730771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-08-12_NVIDIA-是一家賣-GPU-的硬體公司.md"
+    "data/Fomo研究院/2026-08-13_想像一下你是一家跨國巨頭的-CEO.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

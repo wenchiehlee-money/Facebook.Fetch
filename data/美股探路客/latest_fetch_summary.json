@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-08-13T03:30:57.355277+00:00",
+  "fetched_at_utc": "2026-08-14T03:27:49.622774+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 2,
   "new_post_count": 2,
   "new_post_ids": [
-    "1481659860674613",
-    "1481429377364328"
+    "1482385447268721",
+    "1482323383941594"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-08-12_420億美元的10年期國債拍賣利率4.683創下2007年金融海嘯以來最高紀錄10年期國債利率從開盤的下跌回升.md",
-    "data/美股探路客/2026-08-12_Nebius財報法說讓Bloom-Energy股價大漲10.md"
+    "data/美股探路客/2026-08-13_SpaceX股價的走勢也太經典了碰到上市以來的AVWAP就掉頭向下也就是上市以來所有投資人的成交量加權平均成本.md",
+    "data/美股探路客/2026-08-13_7月PPI年增4.7月增0.0分別低於預期的4.90.2.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",
