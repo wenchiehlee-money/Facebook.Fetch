@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/ForexStrategist",
   "final_url": "https://www.facebook.com/ForexStrategist",
-  "fetched_at_utc": "2026-08-14T03:27:58.152659+00:00",
+  "fetched_at_utc": "2026-08-15T02:17:35.235582+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1636987524453386",
-    "1636909127794559",
-    "1636630347822437"
+    "1637403887745083",
+    "1637318191086986",
+    "1637118341106971"
   ],
   "new_markdown_files": [
-    "data/李其展的外匯交易致勝兵法/2026-08-14_台幣強升接近32外資要加大力道了嗎.md",
-    "data/李其展的外匯交易致勝兵法/2026-08-14_日韓股市開盤續漲日經上漲1.4台積電ADR小漲0.32.md",
-    "data/李其展的外匯交易致勝兵法/2026-08-13_SP500再創歷史新高後壓回今天穩定收紅就好.md"
+    "data/李其展的外匯交易致勝兵法/2026-08-14_美股開盤震盪走低但跌幅不大費半跌至近三日低點.md",
+    "data/李其展的外匯交易致勝兵法/2026-08-14_美國零售銷售表現糟糕日幣竟然升值了.md",
+    "data/李其展的外匯交易致勝兵法/2026-08-14_外資買超453億台股還跌是誰賣的.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/李其展的外匯交易致勝兵法",

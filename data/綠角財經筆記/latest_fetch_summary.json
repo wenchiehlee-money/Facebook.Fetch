@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-08-14T03:27:40.540601+00:00",
+  "fetched_at_utc": "2026-08-15T02:17:21.293426+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1478370214096374",
-    "1477956034137792"
+    "1479150904018305"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-08-14_綠角感言.md",
-    "data/綠角財經筆記/2026-08-13_富足討論到社會內部機制的有效性.md"
+    "data/綠角財經筆記/2026-08-15_花錢的藝術-The-Art-of-Spending-Money作者Morgan-Housel提到人花錢一般有兩個目的.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

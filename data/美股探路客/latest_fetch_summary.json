@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-08-14T03:27:49.622774+00:00",
+  "fetched_at_utc": "2026-08-15T02:17:28.043452+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,21 +9,19 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 2,
+  "checked_post_count": 1,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1482385447268721",
-    "1482323383941594"
+    "1483085833865349"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-08-13_SpaceX股價的走勢也太經典了碰到上市以來的AVWAP就掉頭向下也就是上市以來所有投資人的成交量加權平均成本.md",
-    "data/美股探路客/2026-08-13_7月PPI年增4.7月增0.0分別低於預期的4.90.2.md"
+    "data/美股探路客/2026-08-14_Applied-Materials-AMAT財報指引都超越預期盤後股價下跌5.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
+    "本次已成功用公開 GraphQL 擷取到 2 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",

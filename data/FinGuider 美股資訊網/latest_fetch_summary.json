@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-08-14T03:27:36.009078+00:00",
+  "fetched_at_utc": "2026-08-15T02:17:17.639944+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,15 +9,17 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 2,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1529273562576119",
-    "1528541159316026"
+    "1530074912495984",
+    "1530038562499619",
+    "1530005892502886"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-08-14_SanDiskSNDK週四舉辦了投資者日管理層強調正透過技術擴產效率AI-資料中心結構性需求以及多年期的新商業模式NBM把過去高度循環的-NAND-產業改造成高.md",
-    "data/FinGuider 美股資訊網/2026-08-13_史上最大-IPO-要換人了.md"
+    "data/FinGuider 美股資訊網/2026-08-15_最新提交的-輝達13F-報告顯示第一大持股仍是英特爾INTC投組比重達-47.3另外-Q2-新開倉了-SpaceXSPCX投組比重約-33.1直接空降第二大持股.md",
+    "data/FinGuider 美股資訊網/2026-08-14_抄底王-David-Tepper-Q2-持股揭露記憶體獲利了結加碼台積電Meta.md",
+    "data/FinGuider 美股資訊網/2026-08-14_Greg-Abel-接棒後的-波克夏-在-Q2-明顯加大投資力道本季總共加碼-7-支股票新開倉-1-家公司並減碼了-6-支股票清倉-1-家公司顯然在巴菲特卸任.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",
@@ -26,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

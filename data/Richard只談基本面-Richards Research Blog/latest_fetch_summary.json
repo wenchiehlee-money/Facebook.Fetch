@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-08-14T03:28:05.851428+00:00",
+  "fetched_at_utc": "2026-08-15T02:17:41.687393+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1583005570182810"
-  ],
-  "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-08-13_記憶體大漲衝擊手機新機市場延長使用週期維修和翻新機部分和二手機市場重疊面板出貨量首次超越新機面板出貨量.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",
   "notes": [

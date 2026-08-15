@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-08-14T03:27:31.497153+00:00",
+  "fetched_at_utc": "2026-08-15T02:17:14.385113+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1355079460069029"
+    "1355641056679536"
   ],
   "new_markdown_files": [
-    "data/行銷資料科學/2026-08-13_AI能見度4P.md"
+    "data/行銷資料科學/2026-08-14_這份問卷手動整理可能要-1-個月.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",

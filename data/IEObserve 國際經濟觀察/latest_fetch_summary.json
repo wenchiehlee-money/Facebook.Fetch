@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-08-14T03:28:10.618975+00:00",
+  "fetched_at_utc": "2026-08-15T02:17:44.919057+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,17 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 2,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1580141246803831",
-    "1580074710143818",
-    "1579608786857077"
+    "1580370940114195",
+    "1580330410118248"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-08-14_SanDisk-投資者日對未來最大的押注很清楚AI-推論正在把-NAND-從儲存設備變成-AI-基礎建設裡不可缺的記憶體層-公司預期-FY2028FY2030.md",
-    "data/IEObserve 國際經濟觀察/2026-08-13_半導體設備大廠-AMAT-應用材料最新一季最重要的訊息是-AI-帶動的半導體投資正在從技術升級進一步走向大規模產能擴張先進邏輯DRAM-與先進封裝同步成長客戶開.md",
-    "data/IEObserve 國際經濟觀察/2026-08-13_Glassdoor-2026-最佳CEO科技巨頭只有-Nvidia-老黃上榜在第一名.md"
+    "data/IEObserve 國際經濟觀察/2026-08-14_過去在Intel我們錯過了行動運算這波大浪潮後來又錯過了雲端AI所以從現在開始我不會再錯過任何一波大浪潮了.md",
+    "data/IEObserve 國際經濟觀察/2026-08-14_Musk-公開了-X-的-For-You-timeline-權重可以一窺平台重視哪些訊號如果你支持這個內容按讚其實很弱分享回覆追蹤作者才是真正高權重互動.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",
@@ -28,6 +26,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 80 字規則排除 1 篇貼文。"
   ]
 }
