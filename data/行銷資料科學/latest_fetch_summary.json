@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-08-15T02:17:14.385113+00:00",
+  "fetched_at_utc": "2026-08-16T02:24:42.182616+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1355641056679536"
+    "1356784106565231"
   ],
   "new_markdown_files": [
-    "data/行銷資料科學/2026-08-14_這份問卷手動整理可能要-1-個月.md"
+    "data/行銷資料科學/2026-08-15_生成式-AI-的四大應用方向.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",

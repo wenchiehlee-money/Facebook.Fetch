@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-08-15T02:17:17.639944+00:00",
+  "fetched_at_utc": "2026-08-16T02:24:45.373230+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1530074912495984",
-    "1530038562499619",
-    "1530005892502886"
+    "1531023005734508",
+    "1530424215794387"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-08-15_最新提交的-輝達13F-報告顯示第一大持股仍是英特爾INTC投組比重達-47.3另外-Q2-新開倉了-SpaceXSPCX投組比重約-33.1直接空降第二大持股.md",
-    "data/FinGuider 美股資訊網/2026-08-14_抄底王-David-Tepper-Q2-持股揭露記憶體獲利了結加碼台積電Meta.md",
-    "data/FinGuider 美股資訊網/2026-08-14_Greg-Abel-接棒後的-波克夏-在-Q2-明顯加大投資力道本季總共加碼-7-支股票新開倉-1-家公司並減碼了-6-支股票清倉-1-家公司顯然在巴菲特卸任.md"
+    "data/FinGuider 美股資訊網/2026-08-16_下週財報聚焦在消費動能與中國-AI-進展目前美國經濟呈現通膨仍高就業轉弱的組合大型零售商的業績正好成為觀察消費的重要指標.md",
+    "data/FinGuider 美股資訊網/2026-08-15_避險基金大咖-Bill-Ackman-的潘興廣場Pershing-SquareQ2-加碼了-5-間公司新開倉-5-支股票並削減了-3-支股票清倉-1-家公司這是.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

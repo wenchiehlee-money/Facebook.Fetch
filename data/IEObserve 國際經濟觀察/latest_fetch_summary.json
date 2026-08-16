@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-08-15T02:17:44.919057+00:00",
+  "fetched_at_utc": "2026-08-16T02:25:12.149877+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 2,
   "new_post_count": 2,
   "new_post_ids": [
-    "1580370940114195",
-    "1580330410118248"
+    "1581118590039430",
+    "1581003150050974"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-08-14_過去在Intel我們錯過了行動運算這波大浪潮後來又錯過了雲端AI所以從現在開始我不會再錯過任何一波大浪潮了.md",
-    "data/IEObserve 國際經濟觀察/2026-08-14_Musk-公開了-X-的-For-You-timeline-權重可以一窺平台重視哪些訊號如果你支持這個內容按讚其實很弱分享回覆追蹤作者才是真正高權重互動.md"
+    "data/IEObserve 國際經濟觀察/2026-08-15_AI到底是不是泡沫要看終端變現Antrhopic-即便各種爭議Q2的營收還是衝到了115億Q1是47.3億美元年增至少14倍而且營業利益還轉正.md",
+    "data/IEObserve 國際經濟觀察/2026-08-15_在韓國的SK-Hynix廠區SK集團會長崔泰源談記憶體現況與展望也談到了晶片通膨的問題.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",
