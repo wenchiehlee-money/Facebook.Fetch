@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-08-16T02:24:45.373230+00:00",
+  "fetched_at_utc": "2026-08-17T02:23:07.625665+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "1531023005734508",
-    "1530424215794387"
-  ],
-  "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-08-16_下週財報聚焦在消費動能與中國-AI-進展目前美國經濟呈現通膨仍高就業轉弱的組合大型零售商的業績正好成為觀察消費的重要指標.md",
-    "data/FinGuider 美股資訊網/2026-08-15_避險基金大咖-Bill-Ackman-的潘興廣場Pershing-SquareQ2-加碼了-5-間公司新開倉-5-支股票並削減了-3-支股票清倉-1-家公司這是.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",
   "notes": [

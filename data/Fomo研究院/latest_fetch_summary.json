@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-08-16T02:24:58.277110+00:00",
+  "fetched_at_utc": "2026-08-17T02:23:18.882051+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "122193720248771552",
-    "122193694964771552"
+    "122193811118771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-08-15_銀行最怕的噩夢是這樣的借了幾百億給一家-AI-公司蓋數據中心三年後公司倒了.md",
-    "data/Fomo研究院/2026-08-15_好講一個新嘗試.md"
+    "data/Fomo研究院/2026-08-16_記憶體產業有一個困擾了它四十年的毒癮.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

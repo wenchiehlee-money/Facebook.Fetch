@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-08-16T02:25:12.149877+00:00",
+  "fetched_at_utc": "2026-08-17T02:23:31.274225+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,15 +9,17 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 2,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1581118590039430",
-    "1581003150050974"
+    "1582706959880593",
+    "1582350669916222",
+    "1582259876591968"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-08-15_AI到底是不是泡沫要看終端變現Antrhopic-即便各種爭議Q2的營收還是衝到了115億Q1是47.3億美元年增至少14倍而且營業利益還轉正.md",
-    "data/IEObserve 國際經濟觀察/2026-08-15_在韓國的SK-Hynix廠區SK集團會長崔泰源談記憶體現況與展望也談到了晶片通膨的問題.md"
+    "data/IEObserve 國際經濟觀察/2026-08-17_阿川說自己跟三胖關係很好下令要縮減美韓軍演.md",
+    "data/IEObserve 國際經濟觀察/2026-08-16_中國有了自己的邪典電影牛來讓我想到當年去電影院看台北物語那個奇妙的觀影體驗爛到一定程度就會變成一種集體群嘲的文化活動.md",
+    "data/IEObserve 國際經濟觀察/2026-08-16_一個有趣的趨勢美國年輕人越來越多人喜歡打麻將結果真的要打美國牌了.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",
@@ -26,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }
