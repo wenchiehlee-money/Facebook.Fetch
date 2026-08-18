@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-08-17T02:23:33.765547+00:00",
+  "fetched_at_utc": "2026-08-18T02:19:33.767615+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122224866674502956",
-    "122224860416502956",
-    "122224859174502956"
+    "122225027642502956",
+    "122224991984502956",
+    "122224990226502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-08-16_聯準會到年底不升息明年也不升.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-08-16_慧榮科技-SIMO真正的成長故事不只是-AI而是儲存控制器全面升級.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-08-16_HIMX真正的轉折點不是顯示-IC-復甦而是-CPO-能否在-2027-年放量.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-08-17_InP基板告急AI光通訊掀起上游材料爭奪戰.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-08-17_AI-資料中心正在重新定義燃氣輪機產業.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-08-17_美國不希望-Apple-採用中國記憶體全球-Memory-Super-Cycle-又多一個催化劑.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",

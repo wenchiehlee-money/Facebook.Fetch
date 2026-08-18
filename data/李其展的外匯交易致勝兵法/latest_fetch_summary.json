@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/ForexStrategist",
   "final_url": "https://www.facebook.com/ForexStrategist",
-  "fetched_at_utc": "2026-08-17T02:23:22.047729+00:00",
+  "fetched_at_utc": "2026-08-18T02:19:20.063452+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1639735570845248",
-    "1639693020849503",
-    "1639169100901895"
+    "1640624767422995",
+    "1640570680761737",
+    "1640320510786754"
   ],
   "new_markdown_files": [
-    "data/李其展的外匯交易致勝兵法/2026-08-17_黃金亞洲盤一早突破4400大關先求站穩再續攻.md",
-    "data/李其展的外匯交易致勝兵法/2026-08-17_日股無懼美股小跌開盤上漲0.5韓國今天休市喔.md",
-    "data/李其展的外匯交易致勝兵法/2026-08-16_SP500再創新高那斯達克與費半何時跟上.md"
+    "data/李其展的外匯交易致勝兵法/2026-08-18_台灣長天期美國公債ETF為什麼連續跳水美國政策加台幣升值雙重打擊.md",
+    "data/李其展的外匯交易致勝兵法/2026-08-18_美伊諒解備忘錄將正式失效布蘭特原油衝破90美元大關.md",
+    "data/李其展的外匯交易致勝兵法/2026-08-17_高速傳輸光通訊與記憶體續攻費半漲幅收斂但還漲2.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/李其展的外匯交易致勝兵法",
