@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-08-18T02:19:16.777993+00:00",
+  "fetched_at_utc": "2026-08-19T02:21:52.090990+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "122193962432771552",
-    "122193919322771552"
-  ],
-  "new_markdown_files": [
-    "data/Fomo研究院/2026-08-17_未來的某一天Anthropic-可能會成為全球唯一的私營企業剩下的就只有各國政府.md",
-    "data/Fomo研究院/2026-08-17_AMD-是做-CPU-和-GPU-的Broadcom-是做-ASIC-的Google-的-TPU-一直是-Broadcom-設計的.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",
   "notes": [

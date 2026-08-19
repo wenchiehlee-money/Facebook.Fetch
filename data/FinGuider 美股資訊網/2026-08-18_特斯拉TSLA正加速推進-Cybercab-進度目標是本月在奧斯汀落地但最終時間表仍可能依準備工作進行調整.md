@@ -4,22 +4,22 @@ title: "🚗特斯拉（#TSLA）正加速推進 #Cybercab 進度，目標是本�
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid0aiaAf1TdxLUusL1NWsA2ZV25nste84kKbkFrE9T9fziupyzMzubJGBivG41vFbfcl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid02e64MH2pFz52uwdPhye93YKWSog1GQig1vYj8Ud8iVD7XAgjUnac4EL6fQvGE74QTl"
 creation_time_utc: "2026-08-18T01:45:18+00:00"
-fetched_at_utc: "2026-08-18T02:19:04.682148+00:00"
+fetched_at_utc: "2026-08-19T02:21:39.068286+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/775347705_1532931708876971_3743500883369571196_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NUVfzNWc2wsQ7kNvwGEnrs4&_nc_oc=AdqfPjvODvFmnmnx85L4tg_r_sV8DhoPxoBheDK-Nhs9vrWgp6qC8GS3JE_p4Z-e9xI&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=QfFDo3AVez0p2pMcB4iWcA&_nc_ss=7e120&oh=00_AQEdgH1BFg-zk7zWsuVlD755VwZJF1C9eXFltp2R4SuX5g&oe=6A89AD7E"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/775347705_1532931708876971_3743500883369571196_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NUVfzNWc2wsQ7kNvwHV93YB&_nc_oc=Adp3QBRWJLBI3qaN8EjJB7-g4v051OB4jIipWnGKyYnQeCY56b7y1OLsuIi0kSzwut0&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=l_gWxrg-ACdD126S8Ye8ag&_nc_ss=7e120&oh=00_AQFZj1F3NeW_3OH204cLypTh-MSegUWRF0A1-9azMdRqQQ&oe=6A8AFEFE"
 feedback_id: "ZmVlZGJhY2s6MTUzMjkzMTgyMjIxMDI5Mw=="
 page_canonical_url: ""
 ---
 
 # 🚗特斯拉（#TSLA）正加速推進 #Cybercab 進度，目標是本月在奧斯汀落地，但最終時間表仍可能依準備工作進行調整。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid0aiaAf1TdxLUusL1NWsA2ZV25nste84kKbkFrE9T9fziupyzMzubJGBivG41vFbfcl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid02e64MH2pFz52uwdPhye93YKWSog1GQig1vYj8Ud8iVD7XAgjUnac4EL6fQvGE74QTl
 
-![🚗特斯拉（#TSLA）正加速推進 #Cybercab 進度，目標是本月在奧斯汀落地，但最終時間表仍可能依準備工作進行調整。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/775347705_1532931708876971_3743500883369571196_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NUVfzNWc2wsQ7kNvwGEnrs4&_nc_oc=AdqfPjvODvFmnmnx85L4tg_r_sV8DhoPxoBheDK-Nhs9vrWgp6qC8GS3JE_p4Z-e9xI&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=QfFDo3AVez0p2pMcB4iWcA&_nc_ss=7e120&oh=00_AQEdgH1BFg-zk7zWsuVlD755VwZJF1C9eXFltp2R4SuX5g&oe=6A89AD7E)
+![🚗特斯拉（#TSLA）正加速推進 #Cybercab 進度，目標是本月在奧斯汀落地，但最終時間表仍可能依準備工作進行調整。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/775347705_1532931708876971_3743500883369571196_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NUVfzNWc2wsQ7kNvwHV93YB&_nc_oc=Adp3QBRWJLBI3qaN8EjJB7-g4v051OB4jIipWnGKyYnQeCY56b7y1OLsuIi0kSzwut0&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=l_gWxrg-ACdD126S8Ye8ag&_nc_ss=7e120&oh=00_AQFZj1F3NeW_3OH204cLypTh-MSegUWRF0A1-9azMdRqQQ&oe=6A8AFEFE)
 🚗特斯拉（#TSLA）正加速推進 #Cybercab 進度，目標是本月在奧斯汀落地，但最終時間表仍可能依準備工作進行調整。
 ​
 這款沒有方向盤、沒有剎車踏板的 Robotaxi 專用車將分兩階段推出，首先在公共道路上向特斯拉員工提供乘車服務，數天後再正式併入面向大眾 Robotaxi 服務。

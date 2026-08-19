@@ -4,22 +4,22 @@ title: "Apple 正式向美國法院起訴 OpenAI、AI 硬體公司 io Products�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61578106860333"
 final_url: "https://www.facebook.com/profile.php?id=61578106860333"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0YbPEHdkxbJVdzCFvj93dBxMULaxdf6e5c8tqEXgsVH4ztHt9aBTcLYJbCkk1nMAJl&id=61578106860333"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02cSpwUJgnSraGZLxXgU6nr8NSXNCFki1yCFwQpAfHFKcZPM9EfVP3nrnzfHkCfq43l&id=61578106860333"
 creation_time_utc: "2026-07-11T01:21:12+00:00"
-fetched_at_utc: "2026-08-18T02:19:23.521769+00:00"
+fetched_at_utc: "2026-08-19T02:21:58.283822+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/744537362_122210108432936895_5264378053816392621_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=hzFlLfUL-LcQ7kNvwEG0d60&_nc_oc=AdqVSh88b_77BzGcu6aylaPxEtRJjEMbqv3OgAgIKteC8fbuNaG8Xm4xYR7jS3GypL8&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=_5-2Ji94vqHe7-37vW0hrw&_nc_ss=7e120&oh=00_AQF9u_bG3EF9xKeX_Z8zUjQz_Ic5qwOpd6iLo7DkszVJLw&oe=6A89996A"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/744537362_122210108432936895_5264378053816392621_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=hzFlLfUL-LcQ7kNvwH8cQIk&_nc_oc=AdoQ1aHqtrKBHTkczssonOYtYT0UCftRfZEdhov5hXKH7_BIUQnSq7fjmSjytdIkJvw&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=l0PA2T411Jap6IOedhE20A&_nc_ss=7e120&oh=00_AQEQzqo_MuWc5nW_9dQIv4OKb26_nuJFdlwFY5MfxnKCAg&oe=6A8AEAEA"
 feedback_id: "ZmVlZGJhY2s6MTIyMjEwMTA4NDc0OTM2ODk1"
 page_canonical_url: ""
 ---
 
 # Apple 正式向美國法院起訴 OpenAI、AI 硬體公司 io Products，以及多位前 Apple 高階主管，指控涉及竊取商業機密，包括產品設計、供應鏈、生產流程等核心技術，並要求法院禁止使用相關技術、銷毀涉密資料，甚至要求相關 AI 硬體重新設計。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0YbPEHdkxbJVdzCFvj93dBxMULaxdf6e5c8tqEXgsVH4ztHt9aBTcLYJbCkk1nMAJl&id=61578106860333
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02cSpwUJgnSraGZLxXgU6nr8NSXNCFki1yCFwQpAfHFKcZPM9EfVP3nrnzfHkCfq43l&id=61578106860333
 
-![Apple 正式向美國法院起訴 OpenAI、AI 硬體公司 io Products，以及多位前 Apple 高階主管，指控涉及竊取商業機密，包括產品設計、供應鏈、生產流程等核心技術，並要求法院禁止使用相關技術、銷毀涉密資料，甚至要求相關 AI 硬體重新設計。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/744537362_122210108432936895_5264378053816392621_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=hzFlLfUL-LcQ7kNvwEG0d60&_nc_oc=AdqVSh88b_77BzGcu6aylaPxEtRJjEMbqv3OgAgIKteC8fbuNaG8Xm4xYR7jS3GypL8&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=_5-2Ji94vqHe7-37vW0hrw&_nc_ss=7e120&oh=00_AQF9u_bG3EF9xKeX_Z8zUjQz_Ic5qwOpd6iLo7DkszVJLw&oe=6A89996A)
+![Apple 正式向美國法院起訴 OpenAI、AI 硬體公司 io Products，以及多位前 Apple 高階主管，指控涉及竊取商業機密，包括產品設計、供應鏈、生產流程等核心技術，並要求法院禁止使用相關技術、銷毀涉密資料，甚至要求相關 AI 硬體重新設計。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/744537362_122210108432936895_5264378053816392621_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=hzFlLfUL-LcQ7kNvwH8cQIk&_nc_oc=AdoQ1aHqtrKBHTkczssonOYtYT0UCftRfZEdhov5hXKH7_BIUQnSq7fjmSjytdIkJvw&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=l0PA2T411Jap6IOedhE20A&_nc_ss=7e120&oh=00_AQEQzqo_MuWc5nW_9dQIv4OKb26_nuJFdlwFY5MfxnKCAg&oe=6A8AEAEA)
 Apple 正式向美國法院起訴 OpenAI、AI 硬體公司 io Products，以及多位前 Apple 高階主管，指控涉及竊取商業機密，包括產品設計、供應鏈、生產流程等核心技術，並要求法院禁止使用相關技術、銷毀涉密資料，甚至要求相關 AI 硬體重新設計。
 
 這起新聞除了法律攻防，我看到另一個值得思考的訊號。Apple 為什麼選擇在現在提告？如果 OpenAI 的 AI 硬體仍然只是停留在概念階段，距離產品上市還有好幾年，我不認為 Apple 會投入如此高規格的法律資源。商業機密訴訟最大的目的，往往不是求償，而是在產品真正進入市場前，盡可能阻止競爭對手利用被認為涉及機密的技術。換句話說，Apple 的動作，某種程度也反映出它認為 OpenAI 的 AI Device 已經開始接近產品化。

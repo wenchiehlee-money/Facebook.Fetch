@@ -4,22 +4,22 @@ title: "AMD 是做 CPU 和 GPU 的，Broadcom 是做 ASIC 的，Google 的 TPU �
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid027KthXaRyXo6mu5NsmFP6zE5hvkFs9yHhjc7Za1L2imZtDBNw2JngNEJ8gAcWmNASl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid03nFWcQocgSZx4m4FF1su6biCbKzZ7QTMGnXAbcWjKiHwLVCPUJNExdV7f8PkCH8Bl&id=61573146584049"
 creation_time_utc: "2026-08-17T03:49:28+00:00"
-fetched_at_utc: "2026-08-18T02:19:16.777993+00:00"
+fetched_at_utc: "2026-08-19T02:21:52.090990+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/775777926_122193919142771552_8285900434683596960_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iEe-pp2kVyQQ7kNvwH0g9fY&_nc_oc=AdqFOS52_dbjH5nBQrQHPwQd0V7bxQUpybh4ikL7QrBISarLC3T7HGE915qzY8Kla_U&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=yTPr7CYfN8hO31lFvg8WyA&_nc_ss=7e120&oh=00_AQH45xqSsfkgrmJF7FlLNhny5MtZcZccDD3tj5vkTrJSeQ&oe=6A89AB56"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/775777926_122193919142771552_8285900434683596960_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iEe-pp2kVyQQ7kNvwGBS6Mw&_nc_oc=AdpRTNkw4IKEznAllv0FKgrD2nMJgupXz9-rMmWCgIO9GJwHJ6gGJwML6BtjbtggSM4&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=MbLoevgX1IYcvcIH0_OCxA&_nc_ss=7e120&oh=00_AQF2IJmZa2jlcw3nGeRSddwRDcSC8BKkcR9Vz4BU2cXz2w&oe=6A8AFCD6"
 feedback_id: "ZmVlZGJhY2s6MTIyMTkzOTE5MzIyNzcxNTUy"
 page_canonical_url: ""
 ---
 
 # AMD 是做 CPU 和 GPU 的，Broadcom 是做 ASIC 的，Google 的 TPU 一直是 Broadcom 設計的。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid027KthXaRyXo6mu5NsmFP6zE5hvkFs9yHhjc7Za1L2imZtDBNw2JngNEJ8gAcWmNASl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid03nFWcQocgSZx4m4FF1su6biCbKzZ7QTMGnXAbcWjKiHwLVCPUJNExdV7f8PkCH8Bl&id=61573146584049
 
-![AMD 是做 CPU 和 GPU 的，Broadcom 是做 ASIC 的，Google 的 TPU 一直是 Broadcom 設計的。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/775777926_122193919142771552_8285900434683596960_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iEe-pp2kVyQQ7kNvwH0g9fY&_nc_oc=AdqFOS52_dbjH5nBQrQHPwQd0V7bxQUpybh4ikL7QrBISarLC3T7HGE915qzY8Kla_U&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=yTPr7CYfN8hO31lFvg8WyA&_nc_ss=7e120&oh=00_AQH45xqSsfkgrmJF7FlLNhny5MtZcZccDD3tj5vkTrJSeQ&oe=6A89AB56)
+![AMD 是做 CPU 和 GPU 的，Broadcom 是做 ASIC 的，Google 的 TPU 一直是 Broadcom 設計的。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/775777926_122193919142771552_8285900434683596960_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iEe-pp2kVyQQ7kNvwGBS6Mw&_nc_oc=AdpRTNkw4IKEznAllv0FKgrD2nMJgupXz9-rMmWCgIO9GJwHJ6gGJwML6BtjbtggSM4&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=MbLoevgX1IYcvcIH0_OCxA&_nc_ss=7e120&oh=00_AQF2IJmZa2jlcw3nGeRSddwRDcSC8BKkcR9Vz4BU2cXz2w&oe=6A8AFCD6)
 AMD 是做 CPU 和 GPU 的，Broadcom 是做 ASIC 的，Google 的 TPU 一直是 Broadcom 設計的。
 ​
 但根據SemiAnalysis最新報導，Google 正在與 AMD 洽談，讓 AMD 參與未來 TPU（v10）的設計。

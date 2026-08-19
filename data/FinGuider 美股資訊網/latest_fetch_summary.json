@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-08-18T02:19:04.682148+00:00",
+  "fetched_at_utc": "2026-08-19T02:21:39.068286+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 3,
   "new_post_count": 2,
   "new_post_ids": [
-    "1532931822210293",
-    "1532209962282479"
+    "1533827735454035",
+    "1532985175538291"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-08-18_特斯拉TSLA正加速推進-Cybercab-進度目標是本月在奧斯汀落地但最終時間表仍可能依準備工作進行調整.md",
-    "data/FinGuider 美股資訊網/2026-08-17_817821-美股投資看什麼.md"
+    "data/FinGuider 美股資訊網/2026-08-19_OpenAI-營收暴雷成長動能遠低於-Anthropic.md",
+    "data/FinGuider 美股資訊網/2026-08-18_美股-ETF-趨勢週報.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",
