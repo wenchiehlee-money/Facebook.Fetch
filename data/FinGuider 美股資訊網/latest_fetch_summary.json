@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-08-19T02:21:39.068286+00:00",
+  "fetched_at_utc": "2026-08-20T02:20:53.437898+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1533827735454035",
-    "1532985175538291"
+    "1534361848733957"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-08-19_OpenAI-營收暴雷成長動能遠低於-Anthropic.md",
-    "data/FinGuider 美股資訊網/2026-08-18_美股-ETF-趨勢週報.md"
+    "data/FinGuider 美股資訊網/2026-08-19_Marvell-與-Google-擴大-AI-晶片合作.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-08-19T02:22:04.016499+00:00",
+  "fetched_at_utc": "2026-08-20T02:21:20.431656+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 1,
   "new_post_count": 1,
   "new_post_ids": [
-    "1583948746423081"
+    "1584732289678060"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-08-18_中國消費電子巨頭小米受到記憶體等關鍵零組件成本大幅上升和行業競爭加劇影響營收和獲利毛利率淨利率都在下滑.md"
+    "data/IEObserve 國際經濟觀察/2026-08-19_Moderna在黑色素瘤皮膚癌疫苗大型試驗傳出好消息盤前噴了100.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

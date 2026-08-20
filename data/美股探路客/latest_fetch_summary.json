@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-08-19T02:21:49.542551+00:00",
+  "fetched_at_utc": "2026-08-20T02:21:04.463820+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,10 +9,16 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 0,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "checked_post_count": 2,
+  "new_post_count": 2,
+  "new_post_ids": [
+    "1487860503387882",
+    "1487760520064547"
+  ],
+  "new_markdown_files": [
+    "data/美股探路客/2026-08-19_貝森特出手抑制長債利率宣布9月9日開始將長天期債券102030年期回購規模自每次20億擴大至40億.md",
+    "data/美股探路客/2026-08-19_眾所周知的莫德納MRNA盤前飆升超過60黑色素瘤皮膚癌疫苗三期臨床試驗成功合作的Merck也上漲近6.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",
   "notes": [
@@ -21,6 +27,6 @@
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 3 篇貼文。"
+    "已依中文至少 80 字規則排除 1 篇貼文。"
   ]
 }
