@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/eric.lin77",
   "final_url": "https://www.facebook.com/eric.lin77",
-  "fetched_at_utc": "2026-08-20T02:21:29.527500+00:00",
+  "fetched_at_utc": "2026-08-21T02:35:13.508018+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 1,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "28539180592333654"
-  ],
-  "new_markdown_files": [
-    "data/eric.lin77/2026-08-19_副署還是附署字典翻完就以為自己懂法理了抓著同音異字自慰完全掩蓋不了麥克風這個白癡對憲政運作機制毫無概念的無知.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/eric.lin77",
   "notes": [

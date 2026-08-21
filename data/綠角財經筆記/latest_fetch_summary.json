@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-08-20T02:20:57.065209+00:00",
+  "fetched_at_utc": "2026-08-21T02:34:42.099714+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 3,
   "new_post_count": 2,
   "new_post_ids": [
-    "1483491766917552",
-    "1482833256983403"
+    "1484367796829949",
+    "1483739116892817"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-08-20_歷史上知名的宗教法庭由教宗格列高利九世Pope-Gregory-IX於1231年設立專門負責用來調查與審判與教會立場不同的異端邪說.md",
-    "data/綠角財經筆記/2026-08-19_今年年初有位讀者朋友在綠角財經筆記臉書專頁留下這樣的回應.md"
+    "data/綠角財經筆記/2026-08-21_綠角感言.md",
+    "data/綠角財經筆記/2026-08-20_美國晨星在2020疫情全球股市下跌後發表文章統計再平衡的長期成果.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

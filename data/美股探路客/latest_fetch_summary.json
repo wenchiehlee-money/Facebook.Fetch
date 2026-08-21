@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-08-20T02:21:04.463820+00:00",
+  "fetched_at_utc": "2026-08-21T02:34:48.672558+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1487860503387882",
-    "1487760520064547"
+    "1488761363297796"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-08-19_貝森特出手抑制長債利率宣布9月9日開始將長天期債券102030年期回購規模自每次20億擴大至40億.md",
-    "data/美股探路客/2026-08-19_眾所周知的莫德納MRNA盤前飆升超過60黑色素瘤皮膚癌疫苗三期臨床試驗成功合作的Merck也上漲近6.md"
+    "data/美股探路客/2026-08-20_Walmart銷售不如預期引發美國消費承壓經濟成長放緩擔憂盤前下跌近6拖累美股期指下跌.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

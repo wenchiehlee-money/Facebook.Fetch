@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-08-20T02:20:53.437898+00:00",
+  "fetched_at_utc": "2026-08-21T02:34:38.908618+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1534361848733957"
+    "1535573178612824",
+    "1535229461980529",
+    "1534873835349425"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-08-19_Marvell-與-Google-擴大-AI-晶片合作.md"
+    "data/FinGuider 美股資訊網/2026-08-20_博通AVGO正與貸款機構洽談一筆超過-600-億美元的-AI-晶片融資案協助包括-Anthropic-在內的-AI-公司更快取得晶片與關鍵基礎設施.md",
+    "data/FinGuider 美股資訊網/2026-08-20_沃爾瑪WMT盤前公布了-Q2-財報營收年增-6-至-1879.4-億美元優於市場預期的-1867.7-億調整後-EPS-報-0.81-美元高於預期的-0.74.md",
+    "data/FinGuider 美股資訊網/2026-08-20_內幕交易再現長債-ETF-淨流入提前爆量.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

@@ -4,22 +4,22 @@ title: "歷史上知名的宗教法庭，由教宗格列高利九世(Pope Gregor
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02JkMwvfaAYEWP6wsDQzJCbvDrBDrujr9UC2iQtDF9TGvMj7DSnmA1FSxGw1VyjV7yl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0FCim1Vwoh12taMwCzB7czamEhsX8aKGDE8zfnBuvLfZWE9SB84csd5HNcgN4bDc9l"
 creation_time_utc: "2026-08-20T01:00:07+00:00"
-fetched_at_utc: "2026-08-20T02:20:57.065209+00:00"
+fetched_at_utc: "2026-08-21T02:34:42.099714+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/777396791_1483489026917826_5333083750413094224_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=y8DGHUrv7LsQ7kNvwGN1hkD&_nc_oc=Adp51VmnXXdWMlEkmKUS3Qm6AV2P0wnlcEXGXV6YN1_Smu8ojztdBV5IqRnZ6D7rnIw&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=597jZoAPzgBrQZYRGjg94g&_nc_ss=7e120&oh=00_AQHHVf5lqQKxJPWT5y1QVMnNOZTYelnttoVOi6bzkFHvJA&oe=6A8C33BC"
+image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/777396791_1483489026917826_5333083750413094224_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=y8DGHUrv7LsQ7kNvwEU6UNA&_nc_oc=AdrhrDsNzoWKVByHDcngMevf1NnGJBYBV3oSfINIPbxMFhBHnhz8dtZCb-MFSzq-K5o&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=OejogRFMq6zrh-NSLantvw&_nc_ss=7e120&oh=00_AQGALmv-x6VMNMZ2xgrR2rp56P31LseTcfXNbq71D9Tamg&oe=6A8D853C"
 feedback_id: "ZmVlZGJhY2s6MTQ4MzQ5MTc2NjkxNzU1Mg=="
 page_canonical_url: ""
 ---
 
 # 歷史上知名的宗教法庭，由教宗格列高利九世(Pope Gregory IX)於1231年設立。專門負責用來調查與審判與教會立場不同的異端邪說。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02JkMwvfaAYEWP6wsDQzJCbvDrBDrujr9UC2iQtDF9TGvMj7DSnmA1FSxGw1VyjV7yl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0FCim1Vwoh12taMwCzB7czamEhsX8aKGDE8zfnBuvLfZWE9SB84csd5HNcgN4bDc9l
 
-![歷史上知名的宗教法庭，由教宗格列高利九世(Pope Gregory IX)於1231年設立。專門負責用來調查與審判與教會立場不同的異端邪說。](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/777396791_1483489026917826_5333083750413094224_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=y8DGHUrv7LsQ7kNvwGN1hkD&_nc_oc=Adp51VmnXXdWMlEkmKUS3Qm6AV2P0wnlcEXGXV6YN1_Smu8ojztdBV5IqRnZ6D7rnIw&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=597jZoAPzgBrQZYRGjg94g&_nc_ss=7e120&oh=00_AQHHVf5lqQKxJPWT5y1QVMnNOZTYelnttoVOi6bzkFHvJA&oe=6A8C33BC)
+![歷史上知名的宗教法庭，由教宗格列高利九世(Pope Gregory IX)於1231年設立。專門負責用來調查與審判與教會立場不同的異端邪說。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/777396791_1483489026917826_5333083750413094224_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=y8DGHUrv7LsQ7kNvwEU6UNA&_nc_oc=AdrhrDsNzoWKVByHDcngMevf1NnGJBYBV3oSfINIPbxMFhBHnhz8dtZCb-MFSzq-K5o&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=OejogRFMq6zrh-NSLantvw&_nc_ss=7e120&oh=00_AQGALmv-x6VMNMZ2xgrR2rp56P31LseTcfXNbq71D9Tamg&oe=6A8D853C)
 歷史上知名的宗教法庭，由教宗格列高利九世(Pope Gregory IX)於1231年設立。專門負責用來調查與審判與教會立場不同的異端邪說。
 
 到了今天，雖然人們已有宗教上的自由，但在投資界，一種類型的氛圍，形成了投資界的審判法庭。
