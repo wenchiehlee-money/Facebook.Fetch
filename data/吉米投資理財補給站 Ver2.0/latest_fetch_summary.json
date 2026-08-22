@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-08-21T02:35:07.473615+00:00",
+  "fetched_at_utc": "2026-08-22T02:19:59.458782+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 2,
   "new_post_count": 2,
   "new_post_ids": [
-    "122225346890502956",
-    "122225288342502956"
+    "122225480066502956",
+    "122225462552502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-08-20_NVIDIA--AMD-GPU運算核心HBM靠-HBM-提供超高記憶體頻寬.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-08-20_Tesla真正的重點已從賣車轉向AIRobotaxiOptimus.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-08-21_英飛凌InfineonAI電力電網升級的雙重受惠者.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-08-21_志聖今年上半年合併營收50.44億元年增8.92稅後純益11.06億元年增209.4.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",

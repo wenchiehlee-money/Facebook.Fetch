@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-08-21T02:34:45.373276+00:00",
+  "fetched_at_utc": "2026-08-22T02:19:30.645381+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1520598553439562"
-  ],
-  "new_markdown_files": [
-    "data/股魚/2026-08-20_昨天上節目講解InP-磷化銦的缺貨潮的關係.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",
   "notes": [

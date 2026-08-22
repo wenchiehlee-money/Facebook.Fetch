@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-08-21T02:34:42.099714+00:00",
+  "fetched_at_utc": "2026-08-22T02:19:25.902835+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 3,
   "new_post_count": 2,
   "new_post_ids": [
-    "1484367796829949",
-    "1483739116892817"
+    "1485130963420299",
+    "1484603290139733"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-08-21_綠角感言.md",
-    "data/綠角財經筆記/2026-08-20_美國晨星在2020疫情全球股市下跌後發表文章統計再平衡的長期成果.md"
+    "data/綠角財經筆記/2026-08-21_現代人的生活節奏是什麼.md",
+    "data/綠角財經筆記/2026-08-21_致富心態的作者Morgan-Housel年輕時曾在豪華飯店當泊車小弟他停過各種豪華車種法拉利藍寶基尼...md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

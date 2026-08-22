@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-08-21T02:34:51.349455+00:00",
+  "fetched_at_utc": "2026-08-22T02:19:38.548738+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "122194357934771552",
-    "122194303832771552"
-  ],
-  "new_markdown_files": [
-    "data/Fomo研究院/2026-08-20_利潤是意見現金是事實Cash-is-a-fact-profit-is-an-opinion.md",
-    "data/Fomo研究院/2026-08-20_Meta-可能會被罰款-1.4兆美元這是很多財經的標題.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",
   "notes": [

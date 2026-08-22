@@ -4,9 +4,9 @@ title: "我覺得這兩年來討論Cerebras的正反兩方人士，為何沒有�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0wpiAFeqqQX7mVzbMk6kyXLpuduPaiGxGaxDWQZgdDFLZDhyGHFWfrXC3gtMdsdVul&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid031CCLsgCTSKULi8tQMxFG2bcQPAgUbLuJLLi6qC1wbWQnNAXtpjvYGqFerUQDhepxl&id=100054201473657"
 creation_time_utc: "2026-08-20T14:55:55+00:00"
-fetched_at_utc: "2026-08-21T02:35:01.246796+00:00"
+fetched_at_utc: "2026-08-22T02:19:51.026184+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 我覺得這兩年來討論Cerebras的正反兩方人士，為何沒有交集? 可能是因為他們兩方都以為Cerebras用SRAM取代HBM和DRAM(昨天木頭姊是在講這個嗎? 沒看全文不知道)
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0wpiAFeqqQX7mVzbMk6kyXLpuduPaiGxGaxDWQZgdDFLZDhyGHFWfrXC3gtMdsdVul&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid031CCLsgCTSKULi8tQMxFG2bcQPAgUbLuJLLi6qC1wbWQnNAXtpjvYGqFerUQDhepxl&id=100054201473657
 我覺得這兩年來討論Cerebras的正反兩方人士，為何沒有交集? 可能是因為他們兩方都以為Cerebras用SRAM取代HBM和DRAM(昨天木頭姊是在講這個嗎? 沒看全文不知道)
 
 Cerebras並沒有只用SRAM，而是同時用了極大量的DRAM和Flash，放在MemoryX
