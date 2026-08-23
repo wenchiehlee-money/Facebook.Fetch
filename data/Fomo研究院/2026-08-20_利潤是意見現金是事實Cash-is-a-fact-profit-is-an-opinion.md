@@ -4,22 +4,22 @@ title: "「利潤是意見，現金是事實。」(Cash is a fact, profit is an 
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid026Kgj6xzhkLDW497MQ9SZhsyEWPoKeSQeBcTH57ZLsR3w5ra7VAut86jJeibF1VGZl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02n3YBoNLu5QZiPR9BqEixEM2oC3Q1jRd1CAwE9dtqs8RRNB4gifeUPMWTotjiDZgl&id=61573146584049"
 creation_time_utc: "2026-08-20T13:09:23+00:00"
-fetched_at_utc: "2026-08-22T02:19:38.548738+00:00"
+fetched_at_utc: "2026-08-23T02:35:19.517041+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/782310454_122194357802771552_748517264378460181_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EKcICrl3BAgQ7kNvwH7VgXI&_nc_oc=AdqyGSINVYUJB8hfzet46hX7Gbblj8JjpC3ivVIhVZXxeEI580gkR5BYZRcZlHv1uuY&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Aw9TQvq2u9eyFij1I2aMAw&_nc_ss=7e120&oh=00_AQGMJYhToSDIkh9K8h0w0uY0I0I3zevrQAV3FKHqM4JaYA&oe=6A8EF2B4"
+image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/782310454_122194357802771552_748517264378460181_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EKcICrl3BAgQ7kNvwEGchqD&_nc_oc=AdpiUWQQk2ecCOGgdpGEf2BwQ7EmU98PlXmziQuGfGlsUyMdimWjd1WpzjzV114YnwY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=ZHaCbTM27KeprVSW9MQ3lQ&_nc_ss=7e120&oh=00_AQHvXjAHSPPlo7ixkRZbwKmc_lxcGMwhZRtpMleruLgFfw&oe=6A904434"
 feedback_id: "ZmVlZGJhY2s6MTIyMTk0MzU3OTM0NzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 「利潤是意見，現金是事實。」(Cash is a fact, profit is an opinion)
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid026Kgj6xzhkLDW497MQ9SZhsyEWPoKeSQeBcTH57ZLsR3w5ra7VAut86jJeibF1VGZl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02n3YBoNLu5QZiPR9BqEixEM2oC3Q1jRd1CAwE9dtqs8RRNB4gifeUPMWTotjiDZgl&id=61573146584049
 
-![「利潤是意見，現金是事實。」(Cash is a fact, profit is an opinion)](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/782310454_122194357802771552_748517264378460181_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EKcICrl3BAgQ7kNvwH7VgXI&_nc_oc=AdqyGSINVYUJB8hfzet46hX7Gbblj8JjpC3ivVIhVZXxeEI580gkR5BYZRcZlHv1uuY&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Aw9TQvq2u9eyFij1I2aMAw&_nc_ss=7e120&oh=00_AQGMJYhToSDIkh9K8h0w0uY0I0I3zevrQAV3FKHqM4JaYA&oe=6A8EF2B4)
+![「利潤是意見，現金是事實。」(Cash is a fact, profit is an opinion)](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/782310454_122194357802771552_748517264378460181_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EKcICrl3BAgQ7kNvwEGchqD&_nc_oc=AdpiUWQQk2ecCOGgdpGEf2BwQ7EmU98PlXmziQuGfGlsUyMdimWjd1WpzjzV114YnwY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=ZHaCbTM27KeprVSW9MQ3lQ&_nc_ss=7e120&oh=00_AQHvXjAHSPPlo7ixkRZbwKmc_lxcGMwhZRtpMleruLgFfw&oe=6A904434)
 「利潤是意見，現金是事實。」(Cash is a fact, profit is an opinion)
 ​
 這是著名經濟學家Alfred Rappaport的一句名言。

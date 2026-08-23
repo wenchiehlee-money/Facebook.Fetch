@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-08-22T02:20:03.184321+00:00",
+  "fetched_at_utc": "2026-08-23T02:35:40.440408+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 2,
   "new_post_count": 2,
   "new_post_ids": [
-    "122199804344486922",
-    "122199801182486922"
+    "122199940526486922",
+    "122199936164486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-08-22_投資小故事.md",
-    "data/美股老司機 3.0/2026-08-22_821.md"
+    "data/美股老司機 3.0/2026-08-23_軟體產業在-AI-浪潮下面臨的信貸風險結構.md",
+    "data/美股老司機 3.0/2026-08-23_大型主動型共同基金相在各-AI-概念股上的持股偏離度與持股變動趨勢.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

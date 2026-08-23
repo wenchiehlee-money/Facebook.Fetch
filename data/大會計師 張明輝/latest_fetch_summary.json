@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/dextermchang",
   "final_url": "https://www.facebook.com/dextermchang",
-  "fetched_at_utc": "2026-08-22T02:19:07.954269+00:00",
+  "fetched_at_utc": "2026-08-23T02:34:53.484435+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "122136552243207208"
+  ],
+  "new_markdown_files": [
+    "data/大會計師 張明輝/2026-08-23_現金流量表-太複雜一定要化繁為簡.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/大會計師 張明輝",
   "notes": [

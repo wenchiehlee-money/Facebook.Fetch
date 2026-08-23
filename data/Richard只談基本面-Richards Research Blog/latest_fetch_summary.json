@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-08-22T02:19:51.026184+00:00",
+  "fetched_at_utc": "2026-08-23T02:35:30.314372+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,17 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1591240079359359",
+    "1591224219360945",
+    "1591182982698402"
+  ],
+  "new_markdown_files": [
+    "data/Richard只談基本面-Richards Research Blog/2026-08-22_真正的-Memory-至少要具备三个核心特征.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-08-22_强化学习之父Sutton最新访谈合成数据是巨大错误大模型只完成了四分之一的智能.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-08-22_Synergy-Research-Group-的新數據發現全球只有-20-個州或都會市場佔了超大規模資料中心容量的-60.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",
   "notes": [
