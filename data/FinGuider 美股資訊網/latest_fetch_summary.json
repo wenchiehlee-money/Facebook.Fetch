@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-08-23T02:35:05.574997+00:00",
+  "fetched_at_utc": "2026-08-23T07:41:19.569882+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1536168718553270"
-  ],
-  "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-08-23_下週財報圍繞-AI-與消費雙主線隨著費半遭遇季線反壓輝達NVDA可能又是全村的希望近期傳出中國逐步放寬-H200-進口限制因此除了-BlackwellRubin.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",
   "notes": [

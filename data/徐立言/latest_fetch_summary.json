@@ -1,0 +1,33 @@
+{
+  "requested_url": "https://www.facebook.com/hsulylab",
+  "final_url": "https://www.facebook.com/hsulylab",
+  "fetched_at_utc": "2026-08-23T07:42:09.353081+00:00",
+  "page": {
+    "title": null,
+    "description": null,
+    "canonical_url": null,
+    "image": null,
+    "follower_count": null
+  },
+  "checked_post_count": 3,
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1349763400655144",
+    "1349363797361771",
+    "1349322294032588"
+  ],
+  "new_markdown_files": [
+    "data/徐立言/2026-08-23_我們每天都在驚嘆人工智慧生成的文字圖像有多麼不可思議彷彿只要有足夠數量的頂級晶片科技的烏托邦就會自動降臨但當你我也沉浸在這種算力即一切的共識中時有沒有想過一個殘.md",
+    "data/徐立言/2026-08-22_你是否也曾相信只要一個國家擁有發行全球儲備貨幣的權力其債務規模就可以無限擴張而只要科技巨頭的算力故事足夠宏大名義資產的持有者就永遠不需要擔心實質購買力的萎縮.md",
+    "data/徐立言/2026-08-22_你是否也理所當然地認為機票價格持續攀升純粹只是因為通貨膨脹或者是航空公司的常規操作當我們習慣性地按下確認付款的按鈕時往往忽略了帳單背後那股正在重塑整個行業的龐大.md"
+  ],
+  "removed_markdown_files": [],
+  "posts_directory": "data/徐立言",
+  "notes": [
+    "Facebook 公開頁面的 HTML 結構很常變動。",
+    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
+    "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
+    "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+  ]
+}

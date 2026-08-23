@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-08-23T02:35:09.159208+00:00",
+  "fetched_at_utc": "2026-08-23T07:41:23.960745+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "1485962570003805",
-    "1485486633384732"
-  ],
-  "new_markdown_files": [
-    "data/綠角財經筆記/2026-08-23_Arizona-State-University財金系Hendrik-Bessembinder教授在2017發表的一篇標題Do-Stocks-Outperfor.md",
-    "data/綠角財經筆記/2026-08-22_今天陰雨但參加者全數到場.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",
   "notes": [

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-08-23T02:35:19.517041+00:00",
+  "fetched_at_utc": "2026-08-23T07:41:36.931482+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122194569122771552"
+    "122194652240771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-08-22_美國又在印鈔撒錢QE了嗎.md"
+    "data/Fomo研究院/2026-08-23_前陣子美國財政部為了救長債利率搞出回購規模翻倍的操作結果市場兩天就看穿這招沒用利率立刻彈回.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

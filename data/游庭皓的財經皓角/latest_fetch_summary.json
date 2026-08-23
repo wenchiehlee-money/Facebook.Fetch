@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-08-23T02:34:57.611470+00:00",
+  "fetched_at_utc": "2026-08-23T07:41:10.243114+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,17 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
-  "new_post_ids": [
-    "1128496293075056",
-    "1128495133075172",
-    "1128493893075296"
-  ],
-  "new_markdown_files": [
-    "data/游庭皓的財經皓角/2026-08-22_二十年前通用汽車在美國的銷量大約是豐田的兩倍但到了2026年前7個月兩家公司都已賣出約150萬輛車差距只剩10多萬輛豐田甚至可能很快正式超車.md",
-    "data/游庭皓的財經皓角/2026-08-22_兆元交易量變常態行政院通過116年度中央政府總預算明年證交稅直接編到6415億元創歷史新高比今年預算2501億元增加3914億元年增接近1.6倍.md",
-    "data/游庭皓的財經皓角/2026-08-22_台灣外銷逼近千億美元7月外銷訂單達979億美元再創歷年單月新高年增率高達61.9單月接單規模已經逼近1000億美元大關累計今年1至7月外銷訂單達6020.3億美.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",
   "notes": [

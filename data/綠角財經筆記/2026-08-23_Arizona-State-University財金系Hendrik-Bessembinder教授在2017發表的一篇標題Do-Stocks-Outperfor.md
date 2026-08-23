@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
 post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0ybNNPsDHbP13Cq6nxEqqEV6msroXvWfnCwQA9WMYucgm8PJGCXDhuoJYyYEzm2esl"
 creation_time_utc: "2026-08-23T00:35:57+00:00"
-fetched_at_utc: "2026-08-23T02:35:09.159208+00:00"
+fetched_at_utc: "2026-08-23T07:41:23.960745+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/780580746_1485962436670485_33027738206061667_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=reOoxogVqhQQ7kNvwHMGgTf&_nc_oc=AdpMYjy1i3AV0BKmfonlpT9dtES98L_kzOCuXf2NnVP3QfP5VgrRmoRJA5t7p6WKRHM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=arRHRBqQ3qcu_rKuD08cAw&_nc_ss=7e120&oh=00_AQFM1h7wP7Df4z60UPS6j25RTN7rfWrqmvzMiCrskiK0Ew&oe=6A903758"
+image_url: "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/780580746_1485962436670485_33027738206061667_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=reOoxogVqhQQ7kNvwEbWzk3&_nc_oc=Adq0vAbPTg9Q8JG7mrz_6SbVw5TNzszly5AKCkdA5OYFPLpxcG7tQrLYeiawqAiSVco&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&_nc_gid=7z7EIQNIHaEF8Kx3-gLAkQ&_nc_ss=7e120&oh=00_AQFhpUmXr7n0a9RF1eRl9NJXzdlW1GdrtgM6QJ1pFIRxTw&oe=6A906F98"
 feedback_id: "ZmVlZGJhY2s6MTQ4NTk2MjU3MDAwMzgwNQ=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0ybNNPsDHbP13Cq6nxEqqEV6msroXvWfnCwQA9WMYucgm8PJGCXDhuoJYyYEzm2esl
 
-![Arizona State University財金系Hendrik Bessembinder教授，在2017發表的一篇標題"Do Stocks Outperform Treasury Bills"的文章。標題中譯是”股票是否贏過公債”。](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/780580746_1485962436670485_33027738206061667_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=reOoxogVqhQQ7kNvwHMGgTf&_nc_oc=AdpMYjy1i3AV0BKmfonlpT9dtES98L_kzOCuXf2NnVP3QfP5VgrRmoRJA5t7p6WKRHM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=arRHRBqQ3qcu_rKuD08cAw&_nc_ss=7e120&oh=00_AQFM1h7wP7Df4z60UPS6j25RTN7rfWrqmvzMiCrskiK0Ew&oe=6A903758)
+![Arizona State University財金系Hendrik Bessembinder教授，在2017發表的一篇標題"Do Stocks Outperform Treasury Bills"的文章。標題中譯是”股票是否贏過公債”。](https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/780580746_1485962436670485_33027738206061667_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=reOoxogVqhQQ7kNvwEbWzk3&_nc_oc=Adq0vAbPTg9Q8JG7mrz_6SbVw5TNzszly5AKCkdA5OYFPLpxcG7tQrLYeiawqAiSVco&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&_nc_gid=7z7EIQNIHaEF8Kx3-gLAkQ&_nc_ss=7e120&oh=00_AQFhpUmXr7n0a9RF1eRl9NJXzdlW1GdrtgM6QJ1pFIRxTw&oe=6A906F98)
 Arizona State University財金系Hendrik Bessembinder教授，在2017發表的一篇標題"Do Stocks Outperform Treasury Bills"的文章。標題中譯是”股票是否贏過公債”。
 
 我們通常會覺得，這還用問嗎?當然是股票贏啊。看完這篇文章的重點結論，你很可能會有不同的想法。
