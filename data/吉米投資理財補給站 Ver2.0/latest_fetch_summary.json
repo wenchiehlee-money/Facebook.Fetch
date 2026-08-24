@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-08-23T07:41:58.387418+00:00",
+  "fetched_at_utc": "2026-08-24T02:26:27.349537+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 1,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "122225729288502956"
+  ],
+  "new_markdown_files": [
+    "data/吉米投資理財補給站 Ver2.0/2026-08-23_美光台灣董事長HBM只是起點AI正在全面改變Memory產業.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",
   "notes": [

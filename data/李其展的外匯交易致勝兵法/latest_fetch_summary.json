@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/ForexStrategist",
   "final_url": "https://www.facebook.com/ForexStrategist",
-  "fetched_at_utc": "2026-08-23T07:41:42.206438+00:00",
+  "fetched_at_utc": "2026-08-24T02:26:14.380841+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1645181296967342"
+    "1645864236899048",
+    "1645396190279186"
   ],
   "new_markdown_files": [
-    "data/李其展的外匯交易致勝兵法/2026-08-23_美元指數被財政部擴大回購打擊創近3個月新低在99下方整理.md"
+    "data/李其展的外匯交易致勝兵法/2026-08-24_日韓股市開盤後小幅走低韓國跌1.7台積電ADR漲0.71.md",
+    "data/李其展的外匯交易致勝兵法/2026-08-23_黃金週五衝破4630本週三跟五挑戰更上一層樓.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/李其展的外匯交易致勝兵法",

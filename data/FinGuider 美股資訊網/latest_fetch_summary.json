@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-08-23T07:41:19.569882+00:00",
+  "fetched_at_utc": "2026-08-24T02:25:55.888295+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1538333945003414"
+  ],
+  "new_markdown_files": [
+    "data/FinGuider 美股資訊網/2026-08-23_美國政府擬放行蘋果AAPL採購中國記憶體預計在-9-月川習會後達成正式協議.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",
   "notes": [

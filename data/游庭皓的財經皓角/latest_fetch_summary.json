@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-08-23T07:41:10.243114+00:00",
+  "fetched_at_utc": "2026-08-24T02:25:48.782964+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,17 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1267637018724486",
+    "1129315946326424",
+    "1129314636326555"
+  ],
+  "new_markdown_files": [
+    "data/游庭皓的財經皓角/2026-08-24_2026824一美債救不動-黃金-比特幣先起飛關稅戰再起-最後誰買單早晨財經速解讀.md",
+    "data/游庭皓的財經皓角/2026-08-23_飛向宇宙浩瀚無垠太空競賽開始爭奪月球標準時間人類準備重返月球後第一個必須解決的問題就是月球現在幾點.md",
+    "data/游庭皓的財經皓角/2026-08-23_美國1州抵1國加州經濟規模直逼全球前5大.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",
   "notes": [

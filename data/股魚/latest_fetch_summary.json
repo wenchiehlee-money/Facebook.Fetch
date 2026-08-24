@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-08-23T07:41:28.511419+00:00",
+  "fetched_at_utc": "2026-08-24T02:26:03.529309+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1524226056410145"
+  ],
+  "new_markdown_files": [
+    "data/股魚/2026-08-24_主動式ETF可以達成月配息的效果嗎-當然可以囉.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",
   "notes": [

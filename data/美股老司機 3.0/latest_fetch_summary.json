@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-08-23T07:42:01.465240+00:00",
+  "fetched_at_utc": "2026-08-24T02:26:30.598425+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,15 +9,17 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 2,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "122199973736486922",
-    "122199961232486922"
+    "122200068314486922",
+    "122200049894486922",
+    "122200045712486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-08-23_1.6T-光收發器AI-網絡的核心關鍵組件.md",
-    "data/美股老司機 3.0/2026-08-23_詳細解說資料中心機架.md"
+    "data/美股老司機 3.0/2026-08-23_分享.md",
+    "data/美股老司機 3.0/2026-08-23_2010-年-同時向-QQQ-與-TQQQ-各投入-10-萬元截至-2026-年QQQ-最終增長至約-155-萬元15.5-倍而-TQQQ-增長至約-2400.md",
+    "data/美股老司機 3.0/2026-08-23_股票價格時常會跌到極其荒謬的低位絕大多數股票在某個時期都會出現非常離譜的低價.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",
@@ -26,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

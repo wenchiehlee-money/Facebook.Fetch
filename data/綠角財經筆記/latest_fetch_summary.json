@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-08-23T07:41:23.960745+00:00",
+  "fetched_at_utc": "2026-08-24T02:25:59.314334+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1486496263283769"
+  ],
+  "new_markdown_files": [
+    "data/綠角財經筆記/2026-08-23_今天順利完成台中全新債券啟示錄.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",
   "notes": [

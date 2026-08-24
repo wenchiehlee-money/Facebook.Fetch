@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
 post_url: "https://www.facebook.com/FinGuider/posts/pfbid0Vix6wR28dj8fNNPXhctTTvngH4NPxybYNmJUE5VcAomda9ZvdRZptKwTqQAZa5Jvl"
 creation_time_utc: "2026-08-23T01:55:01+00:00"
-fetched_at_utc: "2026-08-23T07:41:19.569882+00:00"
+fetched_at_utc: "2026-08-24T02:25:55.888295+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/780841143_1536168461886629_4848527457375587650_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SAUgCcEi8L4Q7kNvwFJFr0X&_nc_oc=Ado8XIdl2gaB6suqQRyXhFS2PRb4v_o0t4oTZrwlZWe6DHDiJN_oXCCLUVUIvlqdtbs&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&_nc_gid=mjTfvx7UXvhFXsS1xr0xxA&_nc_ss=7e120&oh=00_AQE-JORfIra4v8hDjaN_VUD8YTSH6ftM1ezIQ2FQfnEpVA&oe=6A908AE9"
+image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/780841143_1536168461886629_4848527457375587650_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SAUgCcEi8L4Q7kNvwEvxN12&_nc_oc=Adq1PQXD3DqZyqUE20urap5a3priSltyNJt4qDslV--qrMwxk98kC3LBt4Hy1SuarrQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=gm0Dh2fiMsYx3lWF755JbA&_nc_ss=7e120&oh=00_AQGpQHTGh4TE53ebEoDm0KdsqVKYFCT8ad8dC9-Yx3LLjg&oe=6A916BE9"
 feedback_id: "ZmVlZGJhY2s6MTUzNjE2ODcxODU1MzI3MA=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/FinGuider/posts/pfbid0Vix6wR28dj8fNNPXhctTTvngH4NPxybYNmJUE5VcAomda9ZvdRZptKwTqQAZa5Jvl
 
-![📌下週財報圍繞 AI 與消費雙主線。隨著費半遭遇季線反壓，輝達（#NVDA）可能又是全村的希望，近期傳出中國逐步放寬 H200 進口限制，因此除了 Blackwell、Rubin 與 AI 伺服器需求，中國市場能否重新貢獻營收也會成為焦點。](https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/780841143_1536168461886629_4848527457375587650_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SAUgCcEi8L4Q7kNvwFJFr0X&_nc_oc=Ado8XIdl2gaB6suqQRyXhFS2PRb4v_o0t4oTZrwlZWe6DHDiJN_oXCCLUVUIvlqdtbs&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&_nc_gid=mjTfvx7UXvhFXsS1xr0xxA&_nc_ss=7e120&oh=00_AQE-JORfIra4v8hDjaN_VUD8YTSH6ftM1ezIQ2FQfnEpVA&oe=6A908AE9)
+![📌下週財報圍繞 AI 與消費雙主線。隨著費半遭遇季線反壓，輝達（#NVDA）可能又是全村的希望，近期傳出中國逐步放寬 H200 進口限制，因此除了 Blackwell、Rubin 與 AI 伺服器需求，中國市場能否重新貢獻營收也會成為焦點。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/780841143_1536168461886629_4848527457375587650_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SAUgCcEi8L4Q7kNvwEvxN12&_nc_oc=Adq1PQXD3DqZyqUE20urap5a3priSltyNJt4qDslV--qrMwxk98kC3LBt4Hy1SuarrQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=gm0Dh2fiMsYx3lWF755JbA&_nc_ss=7e120&oh=00_AQGpQHTGh4TE53ebEoDm0KdsqVKYFCT8ad8dC9-Yx3LLjg&oe=6A916BE9)
 📌下週財報圍繞 AI 與消費雙主線。隨著費半遭遇季線反壓，輝達（#NVDA）可能又是全村的希望，近期傳出中國逐步放寬 H200 進口限制，因此除了 Blackwell、Rubin 與 AI 伺服器需求，中國市場能否重新貢獻營收也會成為焦點。
 ​
 AI 基礎建設方面還有 Marvell（#MRVL），公司近期宣布與 Google 擴大客製化晶片合作，財報除了要關注資料中心與光通訊需求，更要確認雲端客戶的 ASIC 訂單何時能真正轉為營收與獲利。
