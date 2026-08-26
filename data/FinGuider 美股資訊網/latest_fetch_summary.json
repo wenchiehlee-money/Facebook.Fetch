@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-08-24T02:25:55.888295+00:00",
+  "fetched_at_utc": "2026-08-26T07:52:23.779734+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,13 +9,17 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 1,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1538333945003414"
+    "1540360631467412",
+    "1539570241546451",
+    "1539436664893142"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-08-23_美國政府擬放行蘋果AAPL採購中國記憶體預計在-9-月川習會後達成正式協議.md"
+    "data/FinGuider 美股資訊網/2026-08-26_OpenAI-公布了首款自研-AI-晶片-Jalapeo-的測試數據每瓦運算效率與回應延遲均優於輝達NVDAGB200GB300不過並未與最新一代-Vera-R.md",
+    "data/FinGuider 美股資訊網/2026-08-25_美股-ETF-趨勢週報.md",
+    "data/FinGuider 美股資訊網/2026-08-25_輝達NVDA週一宣布針對互動式-AI-推理的-Groq-3-LPX-正式全面投產主打超低延遲-Token-生成生成速度最高可達到最新競爭對手的-4-倍Nebiu.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",
@@ -24,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

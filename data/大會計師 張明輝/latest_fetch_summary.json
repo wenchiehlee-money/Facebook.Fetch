@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/dextermchang",
   "final_url": "https://www.facebook.com/dextermchang",
-  "fetched_at_utc": "2026-08-24T02:25:45.376744+00:00",
+  "fetched_at_utc": "2026-08-26T07:52:14.335658+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "122136668631207208"
+    "122136890931207208",
+    "122136778797207208"
   ],
   "new_markdown_files": [
-    "data/大會計師 張明輝/2026-08-24_四大CSP都是-先收後付型-公司很了不起.md"
+    "data/大會計師 張明輝/2026-08-26_台積電-自由現金流量非常豐沛.md",
+    "data/大會計師 張明輝/2026-08-25_輝達的最大對手不是AMD是-四大CSP與華爾街5000億美元融資平台背後藏著一個關鍵數字.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/大會計師 張明輝",

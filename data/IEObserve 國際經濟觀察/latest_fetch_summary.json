@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-08-24T02:26:24.286609+00:00",
+  "fetched_at_utc": "2026-08-26T07:52:50.781968+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 1,
   "new_post_count": 1,
   "new_post_ids": [
-    "1588014956016460"
+    "1589889909162298"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-08-23_Nvidia也要漲客戶AI伺服器的售價15了.md"
+    "data/IEObserve 國際經濟觀察/2026-08-25_蘋果趕在iPhone發布前直接宣布了新的M6-Mac-Mini起價-899鎂.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

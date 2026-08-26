@@ -1,11 +1,14 @@
 # Facebook 貼文索引
 
 - 頁面: 
-- 抓取時間: 2026-08-24T02:25:59.314334+00:00
-- 已收錄貼文數量: 321
+- 抓取時間: 2026-08-26T07:52:27.224508+00:00
+- 已收錄貼文數量: 324
 
 ## 文章列表
 
+- `2026-08-26` [美國晨星每年發表的Diversification Landscape，是一個定期檢視資產配置成果，與資產類別間相關性的報告。很有參考價值。](2026-08-26_美國晨星每年發表的Diversification-Landscape是一個定期檢視資產配置成果與資產類別間相關性的報告很有參考價值.md)
+- `2026-08-25` [Young Money的作者是Jack Raines。](2026-08-25_Young-Money的作者是Jack-Raines.md)
+- `2026-08-24` [How Not to Invest的作者是Barry Ritholtz。他是Ritholtz Wealth Management創辦人。](2026-08-24_How-Not-to-Invest的作者是Barry-Ritholtz他是Ritholtz-Wealth-Management創辦人.md)
 - `2026-08-23` [今天順利完成台中《全新債券啟示錄》](2026-08-23_今天順利完成台中全新債券啟示錄.md)
 - `2026-08-23` [Arizona State University財金系Hendrik Bessembinder教授，在2017發表的一篇標題\"Do Stocks Outperform Treasury Bills\"的文章。標題中譯是”股票是否贏過公債”。](2026-08-23_Arizona-State-University財金系Hendrik-Bessembinder教授在2017發表的一篇標題Do-Stocks-Outperfor.md)
 - `2026-08-22` [今天陰雨，但參加者全數到場](2026-08-22_今天陰雨但參加者全數到場.md)

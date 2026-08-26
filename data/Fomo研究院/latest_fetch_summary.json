@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-08-24T02:26:10.226332+00:00",
+  "fetched_at_utc": "2026-08-26T07:52:36.762296+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "122194815206771552"
+  ],
+  "new_markdown_files": [
+    "data/Fomo研究院/2026-08-24_過去十年Ray-Dalio-始終在重複同一個警告美國的債務發展正在重演歷史上的經典結局.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",
   "notes": [

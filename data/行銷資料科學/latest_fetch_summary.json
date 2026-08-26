@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-08-24T02:25:52.549752+00:00",
+  "fetched_at_utc": "2026-08-26T07:52:20.542995+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,15 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 2,
+  "new_post_ids": [
+    "1365606522349656",
+    "1363910322519276"
+  ],
+  "new_markdown_files": [
+    "data/行銷資料科學/2026-08-26_免費-AI-培訓最高-5-萬元學習獎勵金最後一場線上說明會.md",
+    "data/行銷資料科學/2026-08-24_免費數發部-Vibe-Coding--AI-實戰班.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",
   "notes": [

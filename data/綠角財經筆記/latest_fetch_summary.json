@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-08-24T02:25:59.314334+00:00",
+  "fetched_at_utc": "2026-08-26T07:52:27.224508+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1486496263283769"
+    "1488501426416586",
+    "1487665939833468",
+    "1487056916561037"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-08-23_今天順利完成台中全新債券啟示錄.md"
+    "data/綠角財經筆記/2026-08-26_美國晨星每年發表的Diversification-Landscape是一個定期檢視資產配置成果與資產類別間相關性的報告很有參考價值.md",
+    "data/綠角財經筆記/2026-08-25_Young-Money的作者是Jack-Raines.md",
+    "data/綠角財經筆記/2026-08-24_How-Not-to-Invest的作者是Barry-Ritholtz他是Ritholtz-Wealth-Management創辦人.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",
