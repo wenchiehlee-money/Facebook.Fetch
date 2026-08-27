@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61589343187385",
   "final_url": "https://www.facebook.com/profile.php?id=61589343187385",
-  "fetched_at_utc": "2026-08-26T07:53:06.761278+00:00",
+  "fetched_at_utc": "2026-08-27T11:09:12.899721+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 1,
   "new_post_count": 1,
   "new_post_ids": [
-    "122120682405311439"
+    "122120867361311439"
   ],
   "new_markdown_files": [
-    "data/首席經濟學家情勒中心/2026-08-26_我個人超喜歡Lawrys的食物.md"
+    "data/首席經濟學家情勒中心/2026-08-27_不要小看方丈的決心跟哈巴狗的哈巴功力.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/首席經濟學家情勒中心",

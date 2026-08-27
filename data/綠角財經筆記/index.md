@@ -1,12 +1,15 @@
 # Facebook 貼文索引
 
 - 頁面: 
-- 抓取時間: 2026-08-26T07:52:27.224508+00:00
-- 已收錄貼文數量: 324
+- 抓取時間: 2026-08-27T11:08:31.120900+00:00
+- 已收錄貼文數量: 327
 
 ## 文章列表
 
+- `2026-08-27` [《跟達爾文學投資》作者用一個假想故事解釋複利的特性。。](2026-08-27_跟達爾文學投資作者用一個假想故事解釋複利的特性.md)
+- `2026-08-27` [Vanguard富時全球股市美國除外ETF，英文全名Vanguard FTSE All-World ex-US ETF，美股代號VEU，於2007年三月2日成立。](2026-08-27_Vanguard富時全球股市美國除外ETF英文全名Vanguard-FTSE-All-World-ex-US-ETF美股代號VEU於2007年三月2日成立.md)
 - `2026-08-26` [美國晨星每年發表的Diversification Landscape，是一個定期檢視資產配置成果，與資產類別間相關性的報告。很有參考價值。](2026-08-26_美國晨星每年發表的Diversification-Landscape是一個定期檢視資產配置成果與資產類別間相關性的報告很有參考價值.md)
+- `2026-08-26` [柏格先生是Vanguard第一任執行長，在1996柏格退休後，接任的第二任執行者，是Jack Brennan。](2026-08-26_柏格先生是Vanguard第一任執行長在1996柏格退休後接任的第二任執行者是Jack-Brennan.md)
 - `2026-08-25` [Young Money的作者是Jack Raines。](2026-08-25_Young-Money的作者是Jack-Raines.md)
 - `2026-08-24` [How Not to Invest的作者是Barry Ritholtz。他是Ritholtz Wealth Management創辦人。](2026-08-24_How-Not-to-Invest的作者是Barry-Ritholtz他是Ritholtz-Wealth-Management創辦人.md)
 - `2026-08-23` [今天順利完成台中《全新債券啟示錄》](2026-08-23_今天順利完成台中全新債券啟示錄.md)

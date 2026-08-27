@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-08-26T07:52:33.695800+00:00",
+  "fetched_at_utc": "2026-08-27T11:08:38.762624+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,17 +9,13 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 1,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1494164222757510",
-    "1493151969525402",
-    "1493133436193922"
+    "1494903849350214"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-08-26_Nvidia-財報前瞻華爾街預測平均值.md",
-    "data/美股探路客/2026-08-25_阿貝對沖基金時期的導師創奇基金經理Druckenmiller在華爾街日報撰文直指貝森特擴大回購長債抑制長債殖利率的措施是與市場做對終將失敗.md",
-    "data/美股探路客/2026-08-25_在美女主持人邱沁宜-的-宜起自由Bar-Podcast分享了自己從學校工作創投到創業的歷程以及一些個人體悟人生是由一系列的選擇構成的結果很難預料享受過程才更值得.md"
+    "data/美股探路客/2026-08-27_Nvidia-財報法說最大亮點在-CFO-表示客戶需求加速翻倍但受制於產能因此預期-FY2028-CY2027-營收成長-70遠遠超過華爾街預期的-45.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",
@@ -28,6 +24,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 80 字規則排除 2 篇貼文。"
   ]
 }

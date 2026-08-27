@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-08-26T07:52:56.967249+00:00",
+  "fetched_at_utc": "2026-08-27T11:09:02.728923+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 2,
   "new_post_count": 2,
   "new_post_ids": [
-    "122200342562486922",
-    "122200330946486922"
+    "122200494182486922",
+    "122200483838486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-08-26_CBRS-增加信念.md",
-    "data/美股老司機 3.0/2026-08-26_投資小故事.md"
+    "data/美股老司機 3.0/2026-08-27_蛛絲馬跡.md",
+    "data/美股老司機 3.0/2026-08-27_沒用的數據.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

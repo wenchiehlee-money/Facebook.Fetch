@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-08-26T07:52:50.781968+00:00",
+  "fetched_at_utc": "2026-08-27T11:08:56.417753+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,13 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 1,
-  "new_post_count": 1,
+  "checked_post_count": 2,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1589889909162298"
+    "1591317452352877",
+    "1591094872375135"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-08-25_蘋果趕在iPhone發布前直接宣布了新的M6-Mac-Mini起價-899鎂.md"
+    "data/IEObserve 國際經濟觀察/2026-08-27_這季-CrowdStrike-一直強調所謂的Mythos-momentAnthropic-曾利用-Claude-Mythos-Preview-在大量重要軟體中找.md",
+    "data/IEObserve 國際經濟觀察/2026-08-26_以Nvidia這種體量每季營收增速竟然還在加速是十分可怕這季的電話財報會議很精彩回應了大部分市場對Nvidia的質疑包含循環融資客戶ASIC競爭以及hypers.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",
@@ -25,6 +27,6 @@
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 2 篇貼文。"
+    "已依中文至少 80 字規則排除 1 篇貼文。"
   ]
 }

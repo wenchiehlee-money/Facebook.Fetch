@@ -4,22 +4,22 @@ title: "【免費｜數發部 Vibe Coding × AI 實戰班】"
 page_title: ""
 requested_url: "https://www.facebook.com/MarketingDataScienceTMR"
 final_url: "https://www.facebook.com/MarketingDataScienceTMR"
-post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0rF8AV2gRN6xuZvKze8VBGqresV2Sjoa5soyXCcq4Fd6iAw2pFXfr7HLtJpmHWERNl"
+post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid02v6ZsfhcFDWRSPRjyQ6cGKRrq8EPwac8gLFGcLEkvQY3981jYmTPVweV16ZvjwuEZl"
 creation_time_utc: "2026-08-24T03:36:37+00:00"
-fetched_at_utc: "2026-08-26T07:52:20.542995+00:00"
+fetched_at_utc: "2026-08-27T11:08:23.556561+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/780771636_1363907599186215_1925328326031127590_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CUXNMpOhVHcQ7kNvwFxD6ih&_nc_oc=Ado0PqiED6Ug3-fOD9aJpuDFHAm3QF9SkUNCgjZPeJ8tmZZVwn9SK_RNf304Y1kwVog&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=cCdm9IOfLCzW-9xvC-c5bg&_nc_ss=7e120&oh=00_AQFIW6icYJ-cJLBrstLS6Z8bleA_AA5ozsGt5VEoaeR8UA&oe=6A945C64"
+image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/780771636_1363907599186215_1925328326031127590_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DxKL9x7nHwsQ7kNvwF-XaRr&_nc_oc=AdrXMOLSuKGFNul4XxYZ8IqgY6M0bRG4th4KZ6g1w1l-cQyVhCmZvVLXlXdv4sMi8sA&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=ua8RkhicHPTJKiTZRJJo7A&_nc_ss=7e120&oh=00_AQEfM66dorSWhD52d8yvX0jv487KRmjzjttmo_FPQKx2QA&oe=6A95E624"
 feedback_id: "ZmVlZGJhY2s6MTM2MzkxMDMyMjUxOTI3Ng=="
 page_canonical_url: ""
 ---
 
 # 【免費｜數發部 Vibe Coding × AI 實戰班】
 
-原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0rF8AV2gRN6xuZvKze8VBGqresV2Sjoa5soyXCcq4Fd6iAw2pFXfr7HLtJpmHWERNl
+原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid02v6ZsfhcFDWRSPRjyQ6cGKRrq8EPwac8gLFGcLEkvQY3981jYmTPVweV16ZvjwuEZl
 
-![【免費｜數發部 Vibe Coding × AI 實戰班】](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/780771636_1363907599186215_1925328326031127590_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CUXNMpOhVHcQ7kNvwFxD6ih&_nc_oc=Ado0PqiED6Ug3-fOD9aJpuDFHAm3QF9SkUNCgjZPeJ8tmZZVwn9SK_RNf304Y1kwVog&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=cCdm9IOfLCzW-9xvC-c5bg&_nc_ss=7e120&oh=00_AQFIW6icYJ-cJLBrstLS6Z8bleA_AA5ozsGt5VEoaeR8UA&oe=6A945C64)
+![【免費｜數發部 Vibe Coding × AI 實戰班】](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/780771636_1363907599186215_1925328326031127590_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DxKL9x7nHwsQ7kNvwF-XaRr&_nc_oc=AdrXMOLSuKGFNul4XxYZ8IqgY6M0bRG4th4KZ6g1w1l-cQyVhCmZvVLXlXdv4sMi8sA&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=ua8RkhicHPTJKiTZRJJo7A&_nc_ss=7e120&oh=00_AQEfM66dorSWhD52d8yvX0jv487KRmjzjttmo_FPQKx2QA&oe=6A95E624)
 【免費｜數發部 Vibe Coding × AI 實戰班】
 👉 報名連結：https://seminars.tca.org.tw/D19f00180.aspx
 
