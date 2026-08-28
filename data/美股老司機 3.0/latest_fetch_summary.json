@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-08-27T11:09:02.728923+00:00",
+  "fetched_at_utc": "2026-08-28T12:41:22.620358+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 2,
   "new_post_count": 2,
   "new_post_ids": [
-    "122200494182486922",
-    "122200483838486922"
+    "122200668626486922",
+    "122200660052486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-08-27_蛛絲馬跡.md",
-    "data/美股老司機 3.0/2026-08-27_沒用的數據.md"
+    "data/美股老司機 3.0/2026-08-28_摩根大通對美國人形機器人市場在-2026E-至-2030E-年間的需求量與產能預估.md",
+    "data/美股老司機 3.0/2026-08-28_資料中心-NAND-位元需求.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

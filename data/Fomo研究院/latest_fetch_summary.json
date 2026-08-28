@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-08-27T11:08:41.771335+00:00",
+  "fetched_at_utc": "2026-08-28T12:40:54.766625+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "122195168768771552",
-    "122195060834771552"
+    "122195251682771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-08-27_NVIDIA-財報出來後我滑了一圈發現大家講的幾乎都是同一句話.md",
-    "data/Fomo研究院/2026-08-26_過去一週加密市場從長時間的沉寂中突然醒來.md"
+    "data/Fomo研究院/2026-08-28_1992-年-9-月的倫敦一個-29-歲的交易員看出英國把自己逼進死角.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

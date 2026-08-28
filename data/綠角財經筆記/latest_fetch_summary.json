@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-08-27T11:08:31.120900+00:00",
+  "fetched_at_utc": "2026-08-28T12:40:43.934731+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1489568199643242",
-    "1489300759669986",
-    "1488827243050671"
+    "1490392932894102",
+    "1490186596248069"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-08-27_跟達爾文學投資作者用一個假想故事解釋複利的特性.md",
-    "data/綠角財經筆記/2026-08-27_Vanguard富時全球股市美國除外ETF英文全名Vanguard-FTSE-All-World-ex-US-ETF美股代號VEU於2007年三月2日成立.md",
-    "data/綠角財經筆記/2026-08-26_柏格先生是Vanguard第一任執行長在1996柏格退休後接任的第二任執行者是Jack-Brennan.md"
+    "data/綠角財經筆記/2026-08-28_Google搜尋綠角-VFINX.md",
+    "data/綠角財經筆記/2026-08-28_晨星每年發表的Mind-the-Gap報告詳細整理了各種投資工具投資者報酬與標的報酬的差異這個差異就是報告標題中Gap.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

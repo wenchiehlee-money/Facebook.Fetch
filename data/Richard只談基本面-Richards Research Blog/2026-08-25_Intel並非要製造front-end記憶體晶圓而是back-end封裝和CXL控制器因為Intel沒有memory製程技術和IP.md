@@ -4,22 +4,22 @@ title: "Intel並非要製造front-end記憶體晶圓，而是back-end封裝和CX
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0So2EUErKHmxBNNduE3MzE7VfR9JWidTVzVhgVx1WbMdCneQALEJmbb7hu152mhyMl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02WeTweun99EPBN4oj54qVydCyS5HCjFMU8d1qQiwdXpySxgFatiQWTaszw2DHLjeul&id=100054201473657"
 creation_time_utc: "2026-08-25T15:26:18+00:00"
-fetched_at_utc: "2026-08-27T11:08:52.764622+00:00"
+fetched_at_utc: "2026-08-28T12:41:05.720002+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/786287929_1593783185771715_5119250653921662423_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=J71e82E6gSAQ7kNvwFXXA6h&_nc_oc=AdoGJ6E6-KbucQraHjgcfXwkKxoQt6LGbC5w-E4vclJWC41owXYbYpY7CHcvcH3yJ6w&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=tukE0XNe3RaqExhDAuN5eA&_nc_ss=7e120&oh=00_AQGIcHZ-4R1jCVLUlMW4dsECaMM7SKERJaw_JUyF24Cu6w&oe=6A95F3E3"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/786287929_1593783185771715_5119250653921662423_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=J71e82E6gSAQ7kNvwH-eCN0&_nc_oc=AdqbvQWhtejVlpf_AlZWQDD1KYZ-MWI-DC7rT7C_VStJ9sMgWkYgg9ThACfKfnMPjao&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=HJEOd6oYxS-ocFAX6Dhg4Q&_nc_ss=7e120&oh=00_AQEOv51lYpEX19jmuwaWTKA7mQNw-MR7jRF6--i3Wuad5w&oe=6A974563"
 feedback_id: "ZmVlZGJhY2s6MTU5Mzc4Mzg1OTEwNDk4MQ=="
 page_canonical_url: ""
 ---
 
 # Intel並非要製造front-end記憶體晶圓，而是back-end封裝和CXL控制器，因為Intel沒有memory製程技術和IP
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0So2EUErKHmxBNNduE3MzE7VfR9JWidTVzVhgVx1WbMdCneQALEJmbb7hu152mhyMl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02WeTweun99EPBN4oj54qVydCyS5HCjFMU8d1qQiwdXpySxgFatiQWTaszw2DHLjeul&id=100054201473657
 
-![Intel並非要製造front-end記憶體晶圓，而是back-end封裝和CXL控制器，因為Intel沒有memory製程技術和IP](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/786287929_1593783185771715_5119250653921662423_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=J71e82E6gSAQ7kNvwFXXA6h&_nc_oc=AdoGJ6E6-KbucQraHjgcfXwkKxoQt6LGbC5w-E4vclJWC41owXYbYpY7CHcvcH3yJ6w&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=tukE0XNe3RaqExhDAuN5eA&_nc_ss=7e120&oh=00_AQGIcHZ-4R1jCVLUlMW4dsECaMM7SKERJaw_JUyF24Cu6w&oe=6A95F3E3)
+![Intel並非要製造front-end記憶體晶圓，而是back-end封裝和CXL控制器，因為Intel沒有memory製程技術和IP](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/786287929_1593783185771715_5119250653921662423_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=J71e82E6gSAQ7kNvwH-eCN0&_nc_oc=AdqbvQWhtejVlpf_AlZWQDD1KYZ-MWI-DC7rT7C_VStJ9sMgWkYgg9ThACfKfnMPjao&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=HJEOd6oYxS-ocFAX6Dhg4Q&_nc_ss=7e120&oh=00_AQEOv51lYpEX19jmuwaWTKA7mQNw-MR7jRF6--i3Wuad5w&oe=6A974563)
 Intel並非要製造front-end記憶體晶圓，而是back-end封裝和CXL控制器，因為Intel沒有memory製程技術和IP
 
 ------------"1. 英特爾的記憶運用：整合勝過製造
