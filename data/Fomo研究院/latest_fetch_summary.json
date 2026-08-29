@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-08-28T12:40:54.766625+00:00",
+  "fetched_at_utc": "2026-08-29T07:48:43.898431+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122195251682771552"
+    "122195364632771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-08-28_1992-年-9-月的倫敦一個-29-歲的交易員看出英國把自己逼進死角.md"
+    "data/Fomo研究院/2026-08-29_千呼萬喚始出來.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61589343187385",
   "final_url": "https://www.facebook.com/profile.php?id=61589343187385",
-  "fetched_at_utc": "2026-08-28T12:41:33.547449+00:00",
+  "fetched_at_utc": "2026-08-29T07:49:18.337424+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,14 +9,10 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 1,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "122120959335311439"
-  ],
-  "new_markdown_files": [
-    "data/首席經濟學家情勒中心/2026-08-28_要對費沙人有信心不到黃河心不死不見棺材不掉淚帝國強國費沙等邊三角形的國際關係教育養成了一堆投機仔而且還是以科技供應鏈最多.md"
-  ],
+  "checked_post_count": 0,
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/首席經濟學家情勒中心",
   "notes": [
@@ -25,6 +21,6 @@
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 2 篇貼文。"
+    "已依中文至少 80 字規則排除 3 篇貼文。"
   ]
 }

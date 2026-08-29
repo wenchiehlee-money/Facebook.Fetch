@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-08-28T12:40:43.934731+00:00",
+  "fetched_at_utc": "2026-08-29T07:48:33.426671+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1490392932894102",
-    "1490186596248069"
+    "1491050236161705"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-08-28_Google搜尋綠角-VFINX.md",
-    "data/綠角財經筆記/2026-08-28_晨星每年發表的Mind-the-Gap報告詳細整理了各種投資工具投資者報酬與標的報酬的差異這個差異就是報告標題中Gap.md"
+    "data/綠角財經筆記/2026-08-29_義大利樂透每兩週抽獎一次下注者可以在1到90這90個數字下注抽獎在義大利各地共十個城市進行每個城市抽出五個數字.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

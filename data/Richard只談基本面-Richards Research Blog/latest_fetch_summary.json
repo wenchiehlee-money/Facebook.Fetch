@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-08-28T12:41:05.720002+00:00",
+  "fetched_at_utc": "2026-08-29T07:48:54.332429+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1595341905615843"
+    "1596492155500818",
+    "1596405745509459"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-08-27_Cerebras-CS-6計畫3D-Stack-DRAM.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-08-28_1.XPUASIC數量成長很快即將追上GPU但因GPU-ASP高很多營收還是GPU高出一截.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-08-28_去年紙上談兵寫過幾篇Nvidia自創的NVFP4資料精度格式改良自產業標準的MXFP4終於在實務上看到NVFP4發揮Nvidia的競爭力所在最新的開源Qwen.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",

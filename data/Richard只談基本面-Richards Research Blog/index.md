@@ -1,11 +1,13 @@
 # Facebook 貼文索引
 
 - 頁面: 
-- 抓取時間: 2026-08-28T12:41:05.720002+00:00
-- 已收錄貼文數量: 155
+- 抓取時間: 2026-08-29T07:48:54.332429+00:00
+- 已收錄貼文數量: 157
 
 ## 文章列表
 
+- `2026-08-28` [去年紙上談兵寫過幾篇Nvidia自創的NVFP4資料精度格式(改良自產業標準的MXFP4)，終於在實務上看到NVFP4發揮Nvidia的競爭力所在，最新的開源Qwen 3.8 Flash-Next模型，使用NVFP4，要發揮模型其FP4精度量化效能，必須使用具備原生NVFP4的Blackwell晶片，別家晶片或NV上代Hopper都不行只能改用FP8變體](2026-08-28_去年紙上談兵寫過幾篇Nvidia自創的NVFP4資料精度格式改良自產業標準的MXFP4終於在實務上看到NVFP4發揮Nvidia的競爭力所在最新的開源Qwen.md)
+- `2026-08-28` [1.XPU/ASIC數量成長很快即將追上GPU，但因GPU ASP高很多，營收還是GPU高出一截](2026-08-28_1.XPUASIC數量成長很快即將追上GPU但因GPU-ASP高很多營收還是GPU高出一截.md)
 - `2026-08-27` [Cerebras CS-6計畫3D Stack DRAM](2026-08-27_Cerebras-CS-6計畫3D-Stack-DRAM.md)
 - `2026-08-25` [Intel並非要製造front-end記憶體晶圓，而是back-end封裝和CXL控制器，因為Intel沒有memory製程技術和IP](2026-08-25_Intel並非要製造front-end記憶體晶圓而是back-end封裝和CXL控制器因為Intel沒有memory製程技術和IP.md)
 - `2026-08-25` [2027 HBM價格預期上漲70~140%，因為年度合約今年沒漲](2026-08-25_2027-HBM價格預期上漲70140因為年度合約今年沒漲.md)

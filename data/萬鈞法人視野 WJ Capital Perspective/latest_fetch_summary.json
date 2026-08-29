@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61578106860333",
   "final_url": "https://www.facebook.com/profile.php?id=61578106860333",
-  "fetched_at_utc": "2026-08-28T12:41:02.377669+00:00",
+  "fetched_at_utc": "2026-08-29T07:48:51.199273+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "122218655906936895"
+  ],
+  "new_markdown_files": [
+    "data/萬鈞法人視野 WJ Capital Perspective/2026-08-28_以前做基金經理人的時候管理的是百億的資產.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/萬鈞法人視野 WJ Capital Perspective",
   "notes": [
