@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61589343187385",
   "final_url": "https://www.facebook.com/profile.php?id=61589343187385",
-  "fetched_at_utc": "2026-08-29T07:49:18.337424+00:00",
+  "fetched_at_utc": "2026-08-30T06:32:33.763994+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,10 +9,16 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 0,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "checked_post_count": 2,
+  "new_post_count": 2,
+  "new_post_ids": [
+    "122121158181311439",
+    "122121143127311439"
+  ],
+  "new_markdown_files": [
+    "data/首席經濟學家情勒中心/2026-08-30_我不覺得是真的.md",
+    "data/首席經濟學家情勒中心/2026-08-30_我的看法也是我還是不覺得九月就會升畢竟就業一路爛底消費類股一片頹勢要在這裡堅持升息的鑄幣局委員多數都是書生意氣你幹尚書大人的可不能意氣用事但是安撫書生們是必要的.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/首席經濟學家情勒中心",
   "notes": [
@@ -21,6 +27,6 @@
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 3 篇貼文。"
+    "已依中文至少 80 字規則排除 1 篇貼文。"
   ]
 }

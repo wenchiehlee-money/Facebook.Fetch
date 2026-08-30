@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-08-29T07:49:05.108688+00:00",
+  "fetched_at_utc": "2026-08-30T06:32:15.257182+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 2,
   "new_post_count": 2,
   "new_post_ids": [
-    "122200847708486922",
-    "122200840970486922"
+    "122200954874486922",
+    "122200953296486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-08-29_週五晚輕鬆.md",
-    "data/美股老司機 3.0/2026-08-29_K線圖與技術指標記錄的是歷史價格與市場情緒只能提供進出場的時機參考卻無法反映企業的內在價值與長期競爭壁壘僅看圖表是無法選出能帶來獲利的股票.md"
+    "data/美股老司機 3.0/2026-08-30_德國政府通過國家資料中心戰略並由數位部長-Karsten-Wildberger明確示警隨著生成式-AI-需求爆發德國正陷入嚴重的算力缺口與數位主權風險.md",
+    "data/美股老司機 3.0/2026-08-30_AI-收入.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

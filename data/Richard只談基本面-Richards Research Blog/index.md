@@ -1,11 +1,14 @@
 # Facebook 貼文索引
 
 - 頁面: 
-- 抓取時間: 2026-08-29T07:48:54.332429+00:00
-- 已收錄貼文數量: 157
+- 抓取時間: 2026-08-30T06:31:53.662955+00:00
+- 已收錄貼文數量: 160
 
 ## 文章列表
 
+- `2026-08-29` [SambaNova強調模型頻寬利用率(MBU)，除此之外，其各種規格、技術、架構，以2026年的標準來說是出奇的老舊，HBM2e、傳統慢速Ethernet當Scale Up Network(並非新的ESUN)，而且每套SN50系統還必須和Nvidia的H200搭配使用(連這個也不更換到B200?)，不知道Intel是要如何和SambaNova合作?](2026-08-29_SambaNova強調模型頻寬利用率MBU除此之外其各種規格技術架構以2026年的標準來說是出奇的老舊HBM2e傳統慢速Ethernet當Scale-Up-Ne.md)
+- `2026-08-29` [HBF擴增十幾倍VRAM容量以解決HBM不足? 每單位GB成本大幅降低?......除了直覺的超大GPU package內容量規格之外，以往力推的NAND廠商SanDisk和SK Hynix發表的數據都是在實驗室模擬的performance，Oxmiq則是將HBF的實用性用真實生產階段的推理引擎vLLM為模擬基礎，研究得出的HBF的改善、可用性，比NAND廠商認為、宣稱得更為狹窄，認為HBF只有在頻寬需求低的情況下才會勝出，例如以小批量和長上下文稀疏的KV為MoE](2026-08-29_HBF擴增十幾倍VRAM容量以解決HBM不足-每單位GB成本大幅降低......除了直覺的超大GPU-package內容量規格之外以往力推的NAND廠商SanD.md)
+- `2026-08-29` [Google TPU v8](2026-08-29_Google-TPU-v8.md)
 - `2026-08-28` [去年紙上談兵寫過幾篇Nvidia自創的NVFP4資料精度格式(改良自產業標準的MXFP4)，終於在實務上看到NVFP4發揮Nvidia的競爭力所在，最新的開源Qwen 3.8 Flash-Next模型，使用NVFP4，要發揮模型其FP4精度量化效能，必須使用具備原生NVFP4的Blackwell晶片，別家晶片或NV上代Hopper都不行只能改用FP8變體](2026-08-28_去年紙上談兵寫過幾篇Nvidia自創的NVFP4資料精度格式改良自產業標準的MXFP4終於在實務上看到NVFP4發揮Nvidia的競爭力所在最新的開源Qwen.md)
 - `2026-08-28` [1.XPU/ASIC數量成長很快即將追上GPU，但因GPU ASP高很多，營收還是GPU高出一截](2026-08-28_1.XPUASIC數量成長很快即將追上GPU但因GPU-ASP高很多營收還是GPU高出一截.md)
 - `2026-08-27` [Cerebras CS-6計畫3D Stack DRAM](2026-08-27_Cerebras-CS-6計畫3D-Stack-DRAM.md)

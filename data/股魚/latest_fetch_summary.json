@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-08-29T07:48:37.084197+00:00",
+  "fetched_at_utc": "2026-08-30T06:31:33.160362+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 1,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1529427865889964"
+  ],
+  "new_markdown_files": [
+    "data/股魚/2026-08-29_國發會最新人口預估資料說了個大實話2026年新出生人口數直接修正預估到9.4萬.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",
   "notes": [

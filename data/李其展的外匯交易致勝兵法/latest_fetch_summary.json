@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/ForexStrategist",
   "final_url": "https://www.facebook.com/ForexStrategist",
-  "fetched_at_utc": "2026-08-29T07:48:47.932657+00:00",
+  "fetched_at_utc": "2026-08-30T06:31:46.428703+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1650391269779678",
-    "1650288043123334",
-    "1649891276496344"
+    "1651170339701771",
+    "1650600309758774"
   ],
   "new_markdown_files": [
-    "data/李其展的外匯交易致勝兵法/2026-08-29_川普喊話取得委內瑞拉大量原油控制權油價可能因此大跌嗎.md",
-    "data/李其展的外匯交易致勝兵法/2026-08-29_美元指數成為華許談話受益者短線拉高破99.7創近兩週新高.md",
-    "data/李其展的外匯交易致勝兵法/2026-08-28_華許談話結束後費半跌幅擴大到2.8市場看法重點整理.md"
+    "data/李其展的外匯交易致勝兵法/2026-08-30_金價週五回落近150美元怎麼判斷拉回給買點還是轉弱壓力浮現.md",
+    "data/李其展的外匯交易致勝兵法/2026-08-29_日本政府祭出史上單月最大規模干預日幣還是貶回160.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/李其展的外匯交易致勝兵法",

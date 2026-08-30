@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-08-29T07:48:54.332429+00:00",
+  "fetched_at_utc": "2026-08-30T06:31:53.662955+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1596492155500818",
-    "1596405745509459"
+    "1597241012092599",
+    "1597044982112202",
+    "1597026322114068"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-08-28_1.XPUASIC數量成長很快即將追上GPU但因GPU-ASP高很多營收還是GPU高出一截.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-08-28_去年紙上談兵寫過幾篇Nvidia自創的NVFP4資料精度格式改良自產業標準的MXFP4終於在實務上看到NVFP4發揮Nvidia的競爭力所在最新的開源Qwen.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-08-29_HBF擴增十幾倍VRAM容量以解決HBM不足-每單位GB成本大幅降低......除了直覺的超大GPU-package內容量規格之外以往力推的NAND廠商SanD.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-08-29_Google-TPU-v8.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-08-29_SambaNova強調模型頻寬利用率MBU除此之外其各種規格技術架構以2026年的標準來說是出奇的老舊HBM2e傳統慢速Ethernet當Scale-Up-Ne.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",

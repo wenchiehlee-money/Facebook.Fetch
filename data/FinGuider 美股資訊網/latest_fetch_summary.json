@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-08-29T07:48:29.865041+00:00",
+  "fetched_at_utc": "2026-08-30T06:31:24.424979+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1543039627866179"
-  ],
-  "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-08-28_川普宣布美國已跟委內瑞拉達成史上最大的石油協議並強調美國納稅人無需付出任何代價.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",
   "notes": [

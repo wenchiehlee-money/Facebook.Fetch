@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/dextermchang",
   "final_url": "https://www.facebook.com/dextermchang",
-  "fetched_at_utc": "2026-08-29T07:48:18.631931+00:00",
+  "fetched_at_utc": "2026-08-30T06:31:10.618421+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "122137367961207208"
+  ],
+  "new_markdown_files": [
+    "data/大會計師 張明輝/2026-08-30_為什麼電子通路商這類型公司錢賺得慢.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/大會計師 張明輝",
   "notes": [
