@@ -4,12 +4,12 @@ title: "HBF擴增十幾倍VRAM容量以解決HBM不足? 每單位GB成本大幅�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0ifzXQH69b4XzmGZDJNUKARA4ktjZYPAqFpAvVwKNnMyxMbTP8fgfDPQAQk2VDJHQl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02nXSEax1ySeSeQAUCYK1mMheDBQNGWNJFs5XHxeB6iKnBZFmQacyejGrWGVeApRvml&id=100054201473657"
 creation_time_utc: "2026-08-29T15:44:29+00:00"
-fetched_at_utc: "2026-08-30T06:31:53.662955+00:00"
+fetched_at_utc: "2026-08-31T06:57:01.393173+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0ifzXQH69b4XzmGZDJNUKARA4ktjZYPAqFpAvVwKNnMyxMbTP8fgfDPQAQk2VDJHQl&id=100054201473657"
+attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02nXSEax1ySeSeQAUCYK1mMheDBQNGWNJFs5XHxeB6iKnBZFmQacyejGrWGVeApRvml&id=100054201473657"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTU5NzI0MTAxMjA5MjU5OQ=="
 page_canonical_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # HBF擴增十幾倍VRAM容量以解決HBM不足? 每單位GB成本大幅降低?......除了直覺的超大GPU package內容量規格之外，以往力推的NAND廠商SanDisk和SK Hynix發表的數據都是在實驗室模擬的performance，Oxmiq則是將HBF的實用性用真實生產階段的推理引擎vLLM為模擬基礎，研究得出的HBF的改善、可用性，比NAND廠商認為、宣稱得更為狹窄，認為HBF只有在頻寬需求低的情況下才會勝出，例如以小批量和長上下文稀疏的KV為MoE
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0ifzXQH69b4XzmGZDJNUKARA4ktjZYPAqFpAvVwKNnMyxMbTP8fgfDPQAQk2VDJHQl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02nXSEax1ySeSeQAUCYK1mMheDBQNGWNJFs5XHxeB6iKnBZFmQacyejGrWGVeApRvml&id=100054201473657
 HBF擴增十幾倍VRAM容量以解決HBM不足? 每單位GB成本大幅降低?......除了直覺的超大GPU package內容量規格之外，以往力推的NAND廠商SanDisk和SK Hynix發表的數據都是在實驗室模擬的performance，Oxmiq則是將HBF的實用性用真實生產階段的推理引擎vLLM為模擬基礎，研究得出的HBF的改善、可用性，比NAND廠商認為、宣稱得更為狹窄，認為HBF只有在頻寬需求低的情況下才會勝出，例如以小批量和長上下文稀疏的KV為MoE
 
 上次說到Nvidia至今不積極支援HBF是其成功率低於50%的原因，或許這是因也是果? 因為實用性比宣稱的狹窄，所以Nvidia沒有全力支持?

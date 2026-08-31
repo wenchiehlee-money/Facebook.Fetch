@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/ForexStrategist",
   "final_url": "https://www.facebook.com/ForexStrategist",
-  "fetched_at_utc": "2026-08-30T06:31:46.428703+00:00",
+  "fetched_at_utc": "2026-08-31T06:56:54.714226+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1651170339701771",
-    "1650600309758774"
+    "1652041639614641",
+    "1651974276288044",
+    "1651919762960162"
   ],
   "new_markdown_files": [
-    "data/李其展的外匯交易致勝兵法/2026-08-30_金價週五回落近150美元怎麼判斷拉回給買點還是轉弱壓力浮現.md",
-    "data/李其展的外匯交易致勝兵法/2026-08-29_日本政府祭出史上單月最大規模干預日幣還是貶回160.md"
+    "data/李其展的外匯交易致勝兵法/2026-08-31_台股最後一盤拉抬148點終場下跌202點作收.md",
+    "data/李其展的外匯交易致勝兵法/2026-08-31_黃金一早回測4400整數支撐區短暫跌破後迅速拉起來.md",
+    "data/李其展的外匯交易致勝兵法/2026-08-31_台股震盪但台幣表現不差短線先穩下來消化利空.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/李其展的外匯交易致勝兵法",

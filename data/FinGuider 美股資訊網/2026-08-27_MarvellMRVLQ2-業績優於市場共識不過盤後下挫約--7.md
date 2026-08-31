@@ -4,22 +4,22 @@ title: "#Marvell（#MRVL）Q2 業績優於市場共識，不過盤後下挫約 -
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid02HQ4gYePAeqToDmdJd7hdjsSBsZJspDrRtCDpYFkkd6iKC89w7hBQdMQuWopH92j1l"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0DrRVdUkooV8m6UoaAPSdRkMQZE48vbs743T691F7Jh3twLNQHcNZJKfsELPubc8Ql"
 creation_time_utc: "2026-08-27T23:02:44+00:00"
-fetched_at_utc: "2026-08-30T06:31:24.424979+00:00"
+fetched_at_utc: "2026-08-31T06:56:35.365261+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/788690038_1542097984627010_6747594819183116870_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=u7roRkoGnOAQ7kNvwGXg9P5&_nc_oc=Ado3orQ77YAzEzfRZnzVNvemJ8DcnY20BcoiHHRq_K4EGZnFl70q9WZKRu0ENXj8dxg&_nc_zt=23&_nc_ht=scontent-sea1-1.xx&_nc_gid=7cHIi30AsmQWfCD2rTbzvA&_nc_ss=7e120&oh=00_AQJ8CEDq0MpEVo9VrvjDoF_ti06hOocJUNByqN3jI0TanA&oe=6A99B860"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/788690038_1542097984627010_6747594819183116870_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=u7roRkoGnOAQ7kNvwEhFGIU&_nc_oc=Adq_m0DtWPvyj2ssSNFNDEbfDPCYU3JmAZ1nd89JaEgVyV84vrSLSEIPhpMRqm5k1G8&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=-nrU1DtmDK06tIjMCT4D9Q&_nc_ss=7e120&oh=00_AQIP0wmF3sicvCkwjF0lostjIivEuVbmFfrxZjE0_xJtJg&oe=6A9B09E0"
 feedback_id: "ZmVlZGJhY2s6MTU0MjA5ODY0Nzk2MDI3Nw=="
 page_canonical_url: ""
 ---
 
 # #Marvell（#MRVL）Q2 業績優於市場共識，不過盤後下挫約 -7%：
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid02HQ4gYePAeqToDmdJd7hdjsSBsZJspDrRtCDpYFkkd6iKC89w7hBQdMQuWopH92j1l
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0DrRVdUkooV8m6UoaAPSdRkMQZE48vbs743T691F7Jh3twLNQHcNZJKfsELPubc8Ql
 
-![#Marvell（#MRVL）Q2 業績優於市場共識，不過盤後下挫約 -7%：](https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/788690038_1542097984627010_6747594819183116870_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=u7roRkoGnOAQ7kNvwGXg9P5&_nc_oc=Ado3orQ77YAzEzfRZnzVNvemJ8DcnY20BcoiHHRq_K4EGZnFl70q9WZKRu0ENXj8dxg&_nc_zt=23&_nc_ht=scontent-sea1-1.xx&_nc_gid=7cHIi30AsmQWfCD2rTbzvA&_nc_ss=7e120&oh=00_AQJ8CEDq0MpEVo9VrvjDoF_ti06hOocJUNByqN3jI0TanA&oe=6A99B860)
+![#Marvell（#MRVL）Q2 業績優於市場共識，不過盤後下挫約 -7%：](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/788690038_1542097984627010_6747594819183116870_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=u7roRkoGnOAQ7kNvwEhFGIU&_nc_oc=Adq_m0DtWPvyj2ssSNFNDEbfDPCYU3JmAZ1nd89JaEgVyV84vrSLSEIPhpMRqm5k1G8&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=-nrU1DtmDK06tIjMCT4D9Q&_nc_ss=7e120&oh=00_AQIP0wmF3sicvCkwjF0lostjIivEuVbmFfrxZjE0_xJtJg&oe=6A9B09E0)
 #Marvell（#MRVL）Q2 業績優於市場共識，不過盤後下挫約 -7%：
 🟢營收：27.39 億美元、年增 37%（v.s. 27.2 億）
 🟢EPS：0.94 美元（v.s. 0.93 美元）

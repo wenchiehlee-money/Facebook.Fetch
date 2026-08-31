@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-08-30T06:31:20.058512+00:00",
+  "fetched_at_utc": "2026-08-31T06:56:31.472242+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,10 +9,14 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "checked_post_count": 3,
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1369718415271800"
+  ],
+  "new_markdown_files": [
+    "data/行銷資料科學/2026-08-31_最近許多企業都在談AI轉型作法不外乎買一套AI工具導入一個模型再辦幾場教育訓練似乎這樣就算完成AI轉型.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",
   "notes": [
@@ -20,7 +24,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

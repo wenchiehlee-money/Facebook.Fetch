@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-08-30T06:32:15.257182+00:00",
+  "fetched_at_utc": "2026-08-31T06:57:12.273878+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 2,
   "new_post_count": 2,
   "new_post_ids": [
-    "122200954874486922",
-    "122200953296486922"
+    "122201093858486922",
+    "122201078474486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-08-30_德國政府通過國家資料中心戰略並由數位部長-Karsten-Wildberger明確示警隨著生成式-AI-需求爆發德國正陷入嚴重的算力缺口與數位主權風險.md",
-    "data/美股老司機 3.0/2026-08-30_AI-收入.md"
+    "data/美股老司機 3.0/2026-08-31_Pre-Markets.md",
+    "data/美股老司機 3.0/2026-08-31_9月.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",
