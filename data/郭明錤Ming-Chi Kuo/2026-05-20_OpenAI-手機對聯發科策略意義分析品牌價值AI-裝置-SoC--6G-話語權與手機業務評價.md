@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=61573992511738"
 final_url: "https://www.facebook.com/profile.php?id=61573992511738"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02BQEMBcqBUNnvSj734vzrLhBinkMPZeevJzPMA1UxoCquy3qhUZuL6Dzge6HYRo6Hl&id=61573992511738"
 creation_time_utc: "2026-05-20T16:12:37+00:00"
-fetched_at_utc: "2026-09-01T05:11:00.744929+00:00"
+fetched_at_utc: "2026-09-01T05:14:30.289792+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent.ftpe21-1.fna.fbcdn.net/v/t39.30808-6/704914435_122180338472799750_8180131899578414159_n.jpg?stp=cp6_dst-jpg_s1080x2048_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hUgLsR1LS50Q7kNvwG0tNQa&_nc_oc=AdpJnySk9omYc3XK2lv9Rdb0XUW_NN49sQvrlXXRgJF9H7CCPNmUrcg2lhkrIJPSJ1U&_nc_zt=23&_nc_ht=scontent.ftpe21-1.fna&_nc_gid=hx9ZOgkGcBVz1ZP3bFOCJg&_nc_ss=78120&oh=00_AQJu2mKx9m6-sqzD51KTV_AnFfTEb6r6Z_dO4RjM8te58Q&oe=6A9C46E3"
+image_url: "https://scontent.ftpe21-1.fna.fbcdn.net/v/t39.30808-6/704914435_122180338472799750_8180131899578414159_n.jpg?stp=cp6_dst-jpg_s1080x2048_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hUgLsR1LS50Q7kNvwG0tNQa&_nc_oc=AdpJnySk9omYc3XK2lv9Rdb0XUW_NN49sQvrlXXRgJF9H7CCPNmUrcg2lhkrIJPSJ1U&_nc_zt=23&_nc_ht=scontent.ftpe21-1.fna&_nc_gid=3r0zMLvh054xusAt9954nA&_nc_ss=78120&oh=00_AQKQjmODBRqONy2BHbsmikMjOGnQO-InNPQpuskYwLf2pQ&oe=6A9C46E3"
 feedback_id: "ZmVlZGJhY2s6MTIyMTgwMzQyMjk0Nzk5NzUw"
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02BQEMBcqBUNnvSj734vzrLhBinkMPZeevJzPMA1UxoCquy3qhUZuL6Dzge6HYRo6Hl&id=61573992511738
 
-![【 OpenAI 手機對聯發科策略意義分析：品牌價值、AI 裝置 SoC & 6G 話語權與手機業務評價 】](https://scontent.ftpe21-1.fna.fbcdn.net/v/t39.30808-6/704914435_122180338472799750_8180131899578414159_n.jpg?stp=cp6_dst-jpg_s1080x2048_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hUgLsR1LS50Q7kNvwG0tNQa&_nc_oc=AdpJnySk9omYc3XK2lv9Rdb0XUW_NN49sQvrlXXRgJF9H7CCPNmUrcg2lhkrIJPSJ1U&_nc_zt=23&_nc_ht=scontent.ftpe21-1.fna&_nc_gid=hx9ZOgkGcBVz1ZP3bFOCJg&_nc_ss=78120&oh=00_AQJu2mKx9m6-sqzD51KTV_AnFfTEb6r6Z_dO4RjM8te58Q&oe=6A9C46E3)
+![【 OpenAI 手機對聯發科策略意義分析：品牌價值、AI 裝置 SoC & 6G 話語權與手機業務評價 】](https://scontent.ftpe21-1.fna.fbcdn.net/v/t39.30808-6/704914435_122180338472799750_8180131899578414159_n.jpg?stp=cp6_dst-jpg_s1080x2048_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hUgLsR1LS50Q7kNvwG0tNQa&_nc_oc=AdpJnySk9omYc3XK2lv9Rdb0XUW_NN49sQvrlXXRgJF9H7CCPNmUrcg2lhkrIJPSJ1U&_nc_zt=23&_nc_ht=scontent.ftpe21-1.fna&_nc_gid=3r0zMLvh054xusAt9954nA&_nc_ss=78120&oh=00_AQKQjmODBRqONy2BHbsmikMjOGnQO-InNPQpuskYwLf2pQ&oe=6A9C46E3)
 【 OpenAI 手機對聯發科策略意義分析：品牌價值、AI 裝置 SoC & 6G 話語權與手機業務評價 】
 
 OpenAI 與聯發科合作 AI 手機，無論此產品成功與否，對聯發科的手機業務都意義重大。單就此合作本身，就有助於聯發科強化品牌價值、掌握 AI agent 手機 SoC 開發能力並提升 6G 話語權、重新評價（re-rating）手機業務並有利於股價趨勢。

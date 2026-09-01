@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=61573992511738"
 final_url: "https://www.facebook.com/profile.php?id=61573992511738"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid034tFfpxo2xRpmkiFMH8NYS7dXXuSSVjL1xkExAyUy9XfYqcsoxrqvTtXpeFPHf8mhl&id=61573992511738"
 creation_time_utc: "2026-05-28T00:44:35+00:00"
-fetched_at_utc: "2026-09-01T05:11:00.744929+00:00"
+fetched_at_utc: "2026-09-01T05:14:30.289792+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent.ftpe21-1.fna.fbcdn.net/v/t39.30808-6/708866765_122181081932799750_8565384384391815093_n.jpg?stp=cp6_dst-jpg_s1080x2048_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GQ8ivgk8PkoQ7kNvwG86ENd&_nc_oc=AdqEnAFRLwvm-qEXffzZqUflc536jgf15mUyK4_6ZxmbGF1Dh_15cVX8AfkzInKr9cI&_nc_zt=23&_nc_ht=scontent.ftpe21-1.fna&_nc_gid=s9yi2rmxfDetFtBuutfTTw&_nc_ss=78120&oh=00_AQKZUUoyhg63WTjL2Ryve54SWTEFp2Z5vsKvRj463G85IQ&oe=6A9C323C"
+image_url: "https://scontent.ftpe21-1.fna.fbcdn.net/v/t39.30808-6/708866765_122181081932799750_8565384384391815093_n.jpg?stp=cp6_dst-jpg_s1080x2048_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GQ8ivgk8PkoQ7kNvwG86ENd&_nc_oc=AdqEnAFRLwvm-qEXffzZqUflc536jgf15mUyK4_6ZxmbGF1Dh_15cVX8AfkzInKr9cI&_nc_zt=23&_nc_ht=scontent.ftpe21-1.fna&_nc_gid=y_DXDqlmrXbNieIsgg_DPw&_nc_ss=78120&oh=00_AQKCcsqPBNft3Cgs9lLedJ1gywpEySks31uOnRNpVVzIcA&oe=6A9C323C"
 feedback_id: "ZmVlZGJhY2s6MTIyMTgxMDgzNzg2Nzk5NzUw"
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid034tFfpxo2xRpmkiFMH8NYS7dXXuSSVjL1xkExAyUy9XfYqcsoxrqvTtXpeFPHf8mhl&id=61573992511738
 
-![【 聯發科可能是 Elon Musk 打造 Terafab 的關鍵拼圖 】](https://scontent.ftpe21-1.fna.fbcdn.net/v/t39.30808-6/708866765_122181081932799750_8565384384391815093_n.jpg?stp=cp6_dst-jpg_s1080x2048_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GQ8ivgk8PkoQ7kNvwG86ENd&_nc_oc=AdqEnAFRLwvm-qEXffzZqUflc536jgf15mUyK4_6ZxmbGF1Dh_15cVX8AfkzInKr9cI&_nc_zt=23&_nc_ht=scontent.ftpe21-1.fna&_nc_gid=s9yi2rmxfDetFtBuutfTTw&_nc_ss=78120&oh=00_AQKZUUoyhg63WTjL2Ryve54SWTEFp2Z5vsKvRj463G85IQ&oe=6A9C323C)
+![【 聯發科可能是 Elon Musk 打造 Terafab 的關鍵拼圖 】](https://scontent.ftpe21-1.fna.fbcdn.net/v/t39.30808-6/708866765_122181081932799750_8565384384391815093_n.jpg?stp=cp6_dst-jpg_s1080x2048_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GQ8ivgk8PkoQ7kNvwG86ENd&_nc_oc=AdqEnAFRLwvm-qEXffzZqUflc536jgf15mUyK4_6ZxmbGF1Dh_15cVX8AfkzInKr9cI&_nc_zt=23&_nc_ht=scontent.ftpe21-1.fna&_nc_gid=y_DXDqlmrXbNieIsgg_DPw&_nc_ss=78120&oh=00_AQKCcsqPBNft3Cgs9lLedJ1gywpEySks31uOnRNpVVzIcA&oe=6A9C323C)
 【 聯發科可能是 Elon Musk 打造 Terafab 的關鍵拼圖 】
 
 我最新的產業調查顯示，在數家客製化 ASIC 廠商中，聯發科較有可能成為 Terafab 的策略合作對象。聯發科將全面支援 Intel 14A 先進製程與先進封裝的導入與生產，預計自 2028 年開始小量生產 Musk 的 IC 設計團隊所需晶片。

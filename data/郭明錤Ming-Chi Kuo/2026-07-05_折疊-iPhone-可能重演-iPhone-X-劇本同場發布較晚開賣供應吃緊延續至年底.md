@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=61573992511738"
 final_url: "https://www.facebook.com/profile.php?id=61573992511738"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0MwGBSmUP8nz7D4fGFY9Pjc8ZmubSSkfTcqHtTUTg5T33JZKHsZV5eXgiDZEgFbsTl&id=61573992511738"
 creation_time_utc: "2026-07-05T14:07:49+00:00"
-fetched_at_utc: "2026-09-01T05:11:00.744929+00:00"
+fetched_at_utc: "2026-09-01T05:14:30.289792+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent.ftpe21-1.fna.fbcdn.net/v/t39.30808-6/740215297_122185171016799750_8877040754107579707_n.jpg?stp=cp6_dst-jpg_s1080x2048_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=AdZogyQd50AQ7kNvwEji_8s&_nc_oc=AdqKahxx2Iiz9y6s2P1zUJlALgfeTjKvKjZGqyVUWGZrCPazk2x7lkdPwIz3bxmOlQE&_nc_zt=23&_nc_ht=scontent.ftpe21-1.fna&_nc_gid=WAD7oad1Yg3x0d-gAByOWg&_nc_ss=78120&oh=00_AQJr8O2fpOdbnahXEmSP1243wt8UACeM7f7FVAmVPk-bXQ&oe=6A9C30ED"
+image_url: "https://scontent.ftpe21-1.fna.fbcdn.net/v/t39.30808-6/740215297_122185171016799750_8877040754107579707_n.jpg?stp=cp6_dst-jpg_s1080x2048_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=AdZogyQd50AQ7kNvwEji_8s&_nc_oc=AdqKahxx2Iiz9y6s2P1zUJlALgfeTjKvKjZGqyVUWGZrCPazk2x7lkdPwIz3bxmOlQE&_nc_zt=23&_nc_ht=scontent.ftpe21-1.fna&_nc_gid=1eNtibi8dpS8uRWKejtVyw&_nc_ss=78120&oh=00_AQKGCLecMyAw8nZ-5y-2I6efhphOWiLlYtSG3OItsZN3KQ&oe=6A9C30ED"
 feedback_id: "ZmVlZGJhY2s6MTIyMTg1MTcxNTYyNzk5NzUw"
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0MwGBSmUP8nz7D4fGFY9Pjc8ZmubSSkfTcqHtTUTg5T33JZKHsZV5eXgiDZEgFbsTl&id=61573992511738
 
-![折疊 iPhone 可能重演 iPhone X 劇本：同場發布、較晚開賣，供應吃緊延續至年底](https://scontent.ftpe21-1.fna.fbcdn.net/v/t39.30808-6/740215297_122185171016799750_8877040754107579707_n.jpg?stp=cp6_dst-jpg_s1080x2048_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=AdZogyQd50AQ7kNvwEji_8s&_nc_oc=AdqKahxx2Iiz9y6s2P1zUJlALgfeTjKvKjZGqyVUWGZrCPazk2x7lkdPwIz3bxmOlQE&_nc_zt=23&_nc_ht=scontent.ftpe21-1.fna&_nc_gid=WAD7oad1Yg3x0d-gAByOWg&_nc_ss=78120&oh=00_AQJr8O2fpOdbnahXEmSP1243wt8UACeM7f7FVAmVPk-bXQ&oe=6A9C30ED)
+![折疊 iPhone 可能重演 iPhone X 劇本：同場發布、較晚開賣，供應吃緊延續至年底](https://scontent.ftpe21-1.fna.fbcdn.net/v/t39.30808-6/740215297_122185171016799750_8877040754107579707_n.jpg?stp=cp6_dst-jpg_s1080x2048_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=AdZogyQd50AQ7kNvwEji_8s&_nc_oc=AdqKahxx2Iiz9y6s2P1zUJlALgfeTjKvKjZGqyVUWGZrCPazk2x7lkdPwIz3bxmOlQE&_nc_zt=23&_nc_ht=scontent.ftpe21-1.fna&_nc_gid=1eNtibi8dpS8uRWKejtVyw&_nc_ss=78120&oh=00_AQKGCLecMyAw8nZ-5y-2I6efhphOWiLlYtSG3OItsZN3KQ&oe=6A9C30ED)
 折疊 iPhone 可能重演 iPhone X 劇本：同場發布、較晚開賣，供應吃緊延續至年底
 
 ▍我最新的產業調查指出，折疊 iPhone 在 2H26 的組裝出貨量約 700‒800 萬部，當中 3Q26 出貨量為 50‒100 萬部（佔比約 10%）。相較之下，iPhone 18 Pro / Pro Max 在 3Q26 的預估總出貨量約 2,000‒2,200 萬部，顯著高於折疊 iPhone 並已達 9 月正式發售的備貨要求。
