@@ -5,7 +5,7 @@
 <!-- AUTO-GENERATED:POSTS START -->
 ## 自動更新清單
 
-Updated: 2026-09-01 13:02 CST
+Updated: 2026-09-01 13:11 CST
 
 ### [FinGuider 美股資訊網](data/FinGuider%20%E7%BE%8E%E8%82%A1%E8%B3%87%E8%A8%8A%E7%B6%B2/index.md) (已收錄: 474)
 
@@ -41,11 +41,13 @@ Updated: 2026-09-01 13:02 CST
 
 ### [行銷資料科學](data/%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8/index.md) (已收錄: 312)
 
-### [郭明錤Ming-Chi Kuo](data/%E9%83%AD%E6%98%8E%E9%8C%A4Ming-Chi%20Kuo/index.md) (已收錄: 9)
+### [郭明錤Ming-Chi Kuo](data/%E9%83%AD%E6%98%8E%E9%8C%A4Ming-Chi%20Kuo/index.md) (已收錄: 30)
 
 ### [首席經濟學家情勒中心](data/%E9%A6%96%E5%B8%AD%E7%B6%93%E6%BF%9F%E5%AD%B8%E5%AE%B6%E6%83%85%E5%8B%92%E4%B8%AD%E5%BF%83/index.md) (已收錄: 45)
 
 <!-- AUTO-GENERATED:POSTS END -->
+
+
 
 
 
