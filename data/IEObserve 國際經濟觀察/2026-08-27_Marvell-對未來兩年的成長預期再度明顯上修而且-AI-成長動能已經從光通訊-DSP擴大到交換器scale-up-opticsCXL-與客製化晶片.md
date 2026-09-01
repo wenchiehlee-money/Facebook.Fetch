@@ -4,22 +4,22 @@ title: "Marvell 對未來兩年的成長預期再度明顯上修，而且 AI 成
 page_title: ""
 requested_url: "https://www.facebook.com/intleconobserve"
 final_url: "https://www.facebook.com/intleconobserve"
-post_url: "https://www.facebook.com/intleconobserve/posts/pfbid02kTdZLv9uVvzkTwVpAYJzoq6g3UQmbvF1k5Q4V4dmsdzxPU2bPNmARbuZWUNNWDXjl"
+post_url: "https://www.facebook.com/intleconobserve/posts/pfbid0gjqN8cFoqN3WYgnJn682rjZTXPJZGKxp7j4jNYx6QGntGzwpV1QVX26ZYbnnfrwKl"
 creation_time_utc: "2026-08-27T23:21:35+00:00"
-fetched_at_utc: "2026-08-28T12:41:09.529154+00:00"
+fetched_at_utc: "2026-09-01T04:43:32.511067+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/784427303_1591907778960511_4346464714258444641_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kbKq1EleCRgQ7kNvwEUEouY&_nc_oc=Adorzk1tdojO_QKO7xMJZFX1px0dDBZB-sPKTQWa_9CU3cAzVPrizEucz_YyY4p148E&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=2fV3RKb5x35bgTxdKCLAvA&_nc_ss=7e120&oh=00_AQEw-dadyC9A4Iu8ZtwY3R6etk0HtaYTMUgOLyYUZN65rA&oe=6A975A2F"
+image_url: "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/784427303_1591907778960511_4346464714258444641_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=IQ2ZmqpBK1EQ7kNvwHAg716&_nc_oc=AdohsVN5J9XKuU8e_RP0o6jGsenHF-Vaf-S3bhcL_buKSqD7Ees27JTkJyGQRA-lgpU&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=sCfX4lG-KQhgiotOqKs47A&_nc_ss=7e120&oh=00_AQI-2Kp-EGbByhqk4xD1bhfH7QKLE_MwgHDPZxQplUmvOg&oe=6A9C2FAF"
 feedback_id: "ZmVlZGJhY2s6MTU5MTkxNDA0NTYyNjU1MQ=="
 page_canonical_url: ""
 ---
 
 # Marvell 對未來兩年的成長預期再度明顯上修，而且 AI 成長動能已經從光通訊 DSP，擴大到交換器、scale-up optics、CXL 與客製化晶片。
 
-原文連結: https://www.facebook.com/intleconobserve/posts/pfbid02kTdZLv9uVvzkTwVpAYJzoq6g3UQmbvF1k5Q4V4dmsdzxPU2bPNmARbuZWUNNWDXjl
+原文連結: https://www.facebook.com/intleconobserve/posts/pfbid0gjqN8cFoqN3WYgnJn682rjZTXPJZGKxp7j4jNYx6QGntGzwpV1QVX26ZYbnnfrwKl
 
-![Marvell 對未來兩年的成長預期再度明顯上修，而且 AI 成長動能已經從光通訊 DSP，擴大到交換器、scale-up optics、CXL 與客製化晶片。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/784427303_1591907778960511_4346464714258444641_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kbKq1EleCRgQ7kNvwEUEouY&_nc_oc=Adorzk1tdojO_QKO7xMJZFX1px0dDBZB-sPKTQWa_9CU3cAzVPrizEucz_YyY4p148E&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=2fV3RKb5x35bgTxdKCLAvA&_nc_ss=7e120&oh=00_AQEw-dadyC9A4Iu8ZtwY3R6etk0HtaYTMUgOLyYUZN65rA&oe=6A975A2F)
+![Marvell 對未來兩年的成長預期再度明顯上修，而且 AI 成長動能已經從光通訊 DSP，擴大到交換器、scale-up optics、CXL 與客製化晶片。](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/784427303_1591907778960511_4346464714258444641_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=IQ2ZmqpBK1EQ7kNvwHAg716&_nc_oc=AdohsVN5J9XKuU8e_RP0o6jGsenHF-Vaf-S3bhcL_buKSqD7Ees27JTkJyGQRA-lgpU&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=sCfX4lG-KQhgiotOqKs47A&_nc_ss=7e120&oh=00_AQI-2Kp-EGbByhqk4xD1bhfH7QKLE_MwgHDPZxQplUmvOg&oe=6A9C2FAF)
 Marvell 對未來兩年的成長預期再度明顯上修，而且 AI 成長動能已經從光通訊 DSP，擴大到交換器、scale-up optics、CXL 與客製化晶片。
 
 $MRVL #未來成長主要來自三條線

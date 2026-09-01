@@ -4,22 +4,22 @@ title: "半導體設備大廠 AMAT 應用材料最新一季最重要的訊息，
 page_title: ""
 requested_url: "https://www.facebook.com/intleconobserve"
 final_url: "https://www.facebook.com/intleconobserve"
-post_url: "https://www.facebook.com/intleconobserve/posts/pfbid035gf8WgqwCjx1j46KxzeRQDG5EXrpFwv4wThcHLSH9aHPTXxcMbP3VmF1NqE4cBGHl"
+post_url: "https://www.facebook.com/intleconobserve/posts/pfbid035Z8fYM7uHxez7eVcj9YJH7bJnyJCbRcAejrf5vx8pQxveCfhyk28tau1p38FK9rCl"
 creation_time_utc: "2026-08-13T23:55:18+00:00"
-fetched_at_utc: "2026-08-14T03:28:10.618975+00:00"
+fetched_at_utc: "2026-09-01T04:43:32.511067+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/774407296_1580070370144252_8381255209783991626_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=RgZDUy8RfZQQ7kNvwGeqduR&_nc_oc=AdqPG4-DXfCIPJBlEX6P2lcD69AZT2oTq27FnqYMOIh4TF_FB4p4q4joO6s1uuhugjE&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=TOcyBzu203GGWeN4uQYclA&_nc_ss=7e120&oh=00_AQFLhcsWpvQ9bdkmtThT1gCELH5ya4SlLif-gjcY7tdD3A&oe=6A845530"
+image_url: "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/774407296_1580070370144252_8381255209783991626_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=IV32mzfhh_cQ7kNvwFSa1ti&_nc_oc=AdrgPA6V7ca3bmMh9LMNIHi3cmwVTHMbOW_2jBl-qO2IGGl3JjGtSkV-19ITKlAcDPQ&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=tXRXjj_ImWWZEBiYzBbyNQ&_nc_ss=7e120&oh=00_AQIotvXEXRxeUXtNQfkUtLy6SPAYZWQnZsDE5XvfgAFjhQ&oe=6A9C1030"
 feedback_id: "ZmVlZGJhY2s6MTU4MDA3NDcxMDE0MzgxOA=="
 page_canonical_url: ""
 ---
 
 # 半導體設備大廠 AMAT 應用材料最新一季最重要的訊息，是 AI 帶動的半導體投資正在從技術升級進一步走向大規模產能擴張。先進邏輯、DRAM 與先進封裝同步成長，客戶開始提供長達八季的滾動需求預測，部分產能討論甚至延伸到 2030 年。AMAT 因此再次上修 2026 年成長預期，並開始擴充自己與供應鏈的製造能力。
 
-原文連結: https://www.facebook.com/intleconobserve/posts/pfbid035gf8WgqwCjx1j46KxzeRQDG5EXrpFwv4wThcHLSH9aHPTXxcMbP3VmF1NqE4cBGHl
+原文連結: https://www.facebook.com/intleconobserve/posts/pfbid035Z8fYM7uHxez7eVcj9YJH7bJnyJCbRcAejrf5vx8pQxveCfhyk28tau1p38FK9rCl
 
-![半導體設備大廠 AMAT 應用材料最新一季最重要的訊息，是 AI 帶動的半導體投資正在從技術升級進一步走向大規模產能擴張。先進邏輯、DRAM 與先進封裝同步成長，客戶開始提供長達八季的滾動需求預測，部分產能討論甚至延伸到 2030 年。AMAT 因此再次上修 2026 年成長預期，並開始擴充自己與供應鏈的製造能力。](https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/774407296_1580070370144252_8381255209783991626_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=RgZDUy8RfZQQ7kNvwGeqduR&_nc_oc=AdqPG4-DXfCIPJBlEX6P2lcD69AZT2oTq27FnqYMOIh4TF_FB4p4q4joO6s1uuhugjE&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=TOcyBzu203GGWeN4uQYclA&_nc_ss=7e120&oh=00_AQFLhcsWpvQ9bdkmtThT1gCELH5ya4SlLif-gjcY7tdD3A&oe=6A845530)
+![半導體設備大廠 AMAT 應用材料最新一季最重要的訊息，是 AI 帶動的半導體投資正在從技術升級進一步走向大規模產能擴張。先進邏輯、DRAM 與先進封裝同步成長，客戶開始提供長達八季的滾動需求預測，部分產能討論甚至延伸到 2030 年。AMAT 因此再次上修 2026 年成長預期，並開始擴充自己與供應鏈的製造能力。](https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/774407296_1580070370144252_8381255209783991626_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=IV32mzfhh_cQ7kNvwFSa1ti&_nc_oc=AdrgPA6V7ca3bmMh9LMNIHi3cmwVTHMbOW_2jBl-qO2IGGl3JjGtSkV-19ITKlAcDPQ&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=tXRXjj_ImWWZEBiYzBbyNQ&_nc_ss=7e120&oh=00_AQIotvXEXRxeUXtNQfkUtLy6SPAYZWQnZsDE5XvfgAFjhQ&oe=6A9C1030)
 半導體設備大廠 AMAT 應用材料最新一季最重要的訊息，是 AI 帶動的半導體投資正在從技術升級進一步走向大規模產能擴張。先進邏輯、DRAM 與先進封裝同步成長，客戶開始提供長達八季的滾動需求預測，部分產能討論甚至延伸到 2030 年。AMAT 因此再次上修 2026 年成長預期，並開始擴充自己與供應鏈的製造能力。
 
 最新一季營收年增25%至91億美元創新高，毛利率提升至50.4%，EPS 達 3.50 美元，年增 41%。AMAT 預估下一季營收約 102.5 億美元 ±5 億美元，年增 51%；EPS 約 4.02 美元 ±0.20 美元，年增 85%。

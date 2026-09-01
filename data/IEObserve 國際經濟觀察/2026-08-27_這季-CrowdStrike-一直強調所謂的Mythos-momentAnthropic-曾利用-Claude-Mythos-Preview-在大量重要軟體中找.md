@@ -4,22 +4,22 @@ title: "這季 CrowdStrike 一直強調所謂的「Mythos moment」。Anthropic 
 page_title: ""
 requested_url: "https://www.facebook.com/intleconobserve"
 final_url: "https://www.facebook.com/intleconobserve"
-post_url: "https://www.facebook.com/intleconobserve/posts/pfbid0RrrUbiW6pVE6hRFMnu2s3KHnyvYE3xowmxCbXeMtt5NbobQtP1cr79rTBHyGYz6Tl"
+post_url: "https://www.facebook.com/intleconobserve/posts/pfbid02VMzBC6tT2m4LBAdWw5tgmAoH8CmU6piyy45CYwdwL95RibbsrJVyTFvtVnwG7mkYl"
 creation_time_utc: "2026-08-27T06:38:25+00:00"
-fetched_at_utc: "2026-08-27T11:08:56.417753+00:00"
+fetched_at_utc: "2026-09-01T04:43:32.511067+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/778985415_1591314422353180_5484502652178266155_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iWRUOsfY63UQ7kNvwGhRU3L&_nc_oc=AdqlOPYJv5JyHRqdJT_QS-F5JwYbtrBVALiDv46RZlXb1LPlbAN7yDPcwyr1n1gA224&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=I1AEoL1LLuOi5efd4PyF7w&_nc_ss=7e120&oh=00_AQFutdug9yNiC1QLthXax31xnySkDJC7WMw-dzYXrujYGg&oe=6A95ED8F"
+image_url: "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/778985415_1591314422353180_5484502652178266155_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Wlcgkrmha94Q7kNvwHLtlFr&_nc_oc=AdpqhbnaRPIkNPuoLKhjdTXqnxwMS2i7daR5hV3jEgAH_aCMPsNeDdHnR32kZ_pzLJs&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=aXS1Y6BGya7SKjtdQEX1nw&_nc_ss=7e120&oh=00_AQIaDaexAkjhHmpUAr0eBX5BkIj8vfb6nX3nohl6RIyuOA&oe=6A9C148F"
 feedback_id: "ZmVlZGJhY2s6MTU5MTMxNzQ1MjM1Mjg3Nw=="
 page_canonical_url: ""
 ---
 
 # 這季 CrowdStrike 一直強調所謂的「Mythos moment」。Anthropic 曾利用 Claude Mythos Preview 在大量重要軟體中找出超過 1 萬個高風險或嚴重漏洞，讓市場看到一個新的現實：AI 可以大幅提高找漏洞、產生 exploit 與發動攻擊的速度，但企業修補漏洞的速度並沒有同步提高。
 
-原文連結: https://www.facebook.com/intleconobserve/posts/pfbid0RrrUbiW6pVE6hRFMnu2s3KHnyvYE3xowmxCbXeMtt5NbobQtP1cr79rTBHyGYz6Tl
+原文連結: https://www.facebook.com/intleconobserve/posts/pfbid02VMzBC6tT2m4LBAdWw5tgmAoH8CmU6piyy45CYwdwL95RibbsrJVyTFvtVnwG7mkYl
 
-![這季 CrowdStrike 一直強調所謂的「Mythos moment」。Anthropic 曾利用 Claude Mythos Preview 在大量重要軟體中找出超過 1 萬個高風險或嚴重漏洞，讓市場看到一個新的現實：AI 可以大幅提高找漏洞、產生 exploit 與發動攻擊的速度，但企業修補漏洞的速度並沒有同步提高。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/778985415_1591314422353180_5484502652178266155_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iWRUOsfY63UQ7kNvwGhRU3L&_nc_oc=AdqlOPYJv5JyHRqdJT_QS-F5JwYbtrBVALiDv46RZlXb1LPlbAN7yDPcwyr1n1gA224&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=I1AEoL1LLuOi5efd4PyF7w&_nc_ss=7e120&oh=00_AQFutdug9yNiC1QLthXax31xnySkDJC7WMw-dzYXrujYGg&oe=6A95ED8F)
+![這季 CrowdStrike 一直強調所謂的「Mythos moment」。Anthropic 曾利用 Claude Mythos Preview 在大量重要軟體中找出超過 1 萬個高風險或嚴重漏洞，讓市場看到一個新的現實：AI 可以大幅提高找漏洞、產生 exploit 與發動攻擊的速度，但企業修補漏洞的速度並沒有同步提高。](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/778985415_1591314422353180_5484502652178266155_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Wlcgkrmha94Q7kNvwHLtlFr&_nc_oc=AdpqhbnaRPIkNPuoLKhjdTXqnxwMS2i7daR5hV3jEgAH_aCMPsNeDdHnR32kZ_pzLJs&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=aXS1Y6BGya7SKjtdQEX1nw&_nc_ss=7e120&oh=00_AQIaDaexAkjhHmpUAr0eBX5BkIj8vfb6nX3nohl6RIyuOA&oe=6A9C148F)
 這季 CrowdStrike 一直強調所謂的「Mythos moment」。Anthropic 曾利用 Claude Mythos Preview 在大量重要軟體中找出超過 1 萬個高風險或嚴重漏洞，讓市場看到一個新的現實：AI 可以大幅提高找漏洞、產生 exploit 與發動攻擊的速度，但企業修補漏洞的速度並沒有同步提高。
 
 CrowdStrike 認為，這開始改變企業資安預算的定位。

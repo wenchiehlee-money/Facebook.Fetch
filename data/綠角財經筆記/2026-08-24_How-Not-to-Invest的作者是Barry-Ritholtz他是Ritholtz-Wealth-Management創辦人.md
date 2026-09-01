@@ -4,22 +4,22 @@ title: "How Not to Invest的作者是Barry Ritholtz。他是Ritholtz Wealth Mana
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid07ZLAJYqdEES4tAC4v69eb3QCo61t5Thm5xtDnyGfGdCkFEqQis57QWyicgSxtnhkl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02B4TrtwDySV3zKFANzNoygkeKvR2bYznkRqVMafcCNyRiLkAATWrm3Y3xCbiZMhwYl"
 creation_time_utc: "2026-08-24T08:21:47+00:00"
-fetched_at_utc: "2026-08-26T07:52:27.224508+00:00"
+fetched_at_utc: "2026-09-01T04:40:33.930105+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/786052516_1487055369894525_5777350286634406012_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OQOTLiJIJ00Q7kNvwGJWJ3G&_nc_oc=AdpaN0-NVsYVV6p9mk_ykMul6nvCkeIGEPDmu2x2CXrCKwkzx5Y3bOZCsvtAnkQj8uQ&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=WsieXesLBydqde5GrWZw5A&_nc_ss=7e120&oh=00_AQHYVC86pwBqCuBCrstdfWUfX5ftMK1AJLlVwMOnhYlg4w&oe=6A946813"
+image_url: "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/786052516_1487055369894525_5777350286634406012_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6OhYPImQvb0Q7kNvwETJ5mS&_nc_oc=Adqtgk6hkk87o6rycIY5K3oiC0TaJndJ7yXcsSZCoRFtB6ZxUWUg7FoxesV_eCQuzls&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=vCwAk0ikrQ1aboHFdzYIhw&_nc_ss=7e120&oh=00_AQKxIwqT-i1a8PSD4BpBiqXEhnFOg8KoMiEseDdRS9Veqg&oe=6A9C18D3"
 feedback_id: "ZmVlZGJhY2s6MTQ4NzA1NjkxNjU2MTAzNw=="
 page_canonical_url: ""
 ---
 
 # How Not to Invest的作者是Barry Ritholtz。他是Ritholtz Wealth Management創辦人。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid07ZLAJYqdEES4tAC4v69eb3QCo61t5Thm5xtDnyGfGdCkFEqQis57QWyicgSxtnhkl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02B4TrtwDySV3zKFANzNoygkeKvR2bYznkRqVMafcCNyRiLkAATWrm3Y3xCbiZMhwYl
 
-![How Not to Invest的作者是Barry Ritholtz。他是Ritholtz Wealth Management創辦人。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/786052516_1487055369894525_5777350286634406012_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OQOTLiJIJ00Q7kNvwGJWJ3G&_nc_oc=AdpaN0-NVsYVV6p9mk_ykMul6nvCkeIGEPDmu2x2CXrCKwkzx5Y3bOZCsvtAnkQj8uQ&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=WsieXesLBydqde5GrWZw5A&_nc_ss=7e120&oh=00_AQHYVC86pwBqCuBCrstdfWUfX5ftMK1AJLlVwMOnhYlg4w&oe=6A946813)
+![How Not to Invest的作者是Barry Ritholtz。他是Ritholtz Wealth Management創辦人。](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/786052516_1487055369894525_5777350286634406012_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6OhYPImQvb0Q7kNvwETJ5mS&_nc_oc=Adqtgk6hkk87o6rycIY5K3oiC0TaJndJ7yXcsSZCoRFtB6ZxUWUg7FoxesV_eCQuzls&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=vCwAk0ikrQ1aboHFdzYIhw&_nc_ss=7e120&oh=00_AQKxIwqT-i1a8PSD4BpBiqXEhnFOg8KoMiEseDdRS9Veqg&oe=6A9C18D3)
 How Not to Invest的作者是Barry Ritholtz。他是Ritholtz Wealth Management創辦人。
 
 這本書的書名值得多想一下。為什麼不是”How to invest”，而是How not to invest”?

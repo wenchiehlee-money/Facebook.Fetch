@@ -4,22 +4,22 @@ title: "2023年AI Server需求開始爆發以來，新型態AI Server ODM的毛�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0bjzHZKMLuGUmcHxEuc7tb3K9VBQd5TXu8VA7K5QST5vcoYZc3fYyAdaRdDNVFTDAl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02fj5WiMJtwKf1nmsgi3vHyFCLkcce12xz1vvBxzfFCzdY162SUVK2XNpko6tmf1bEl&id=100054201473657"
 creation_time_utc: "2026-08-25T10:20:00+00:00"
-fetched_at_utc: "2026-08-27T11:08:52.764622+00:00"
+fetched_at_utc: "2026-09-01T04:42:39.947356+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/785281559_1593583145791719_4084360680683424691_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jV9roYIUgiQQ7kNvwFLHa70&_nc_oc=AdrQd2TrGoH8tWTVSe-WrUqyh5cT3wxmGYV0JLxFcpGHvXWGIcp6ELrjXsnzBP46OoU&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=tukE0XNe3RaqExhDAuN5eA&_nc_ss=7e120&oh=00_AQFbdcwdJPR9MnExFs4ebGR6bdLqXkdN8ULZ7By7KruVQw&oe=6A95EA93"
+image_url: "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/785281559_1593583145791719_4084360680683424691_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=f9OfuaQ_vGUQ7kNvwHMGqjC&_nc_oc=AdoKrAm94Hux5JHOFiK6Oo3nxhnZI28wK2lHodcsnmmOTctrHknpbKrRxFO0kUtG-zo&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=GMT5Xzgdert-PWj-qDKVnw&_nc_ss=7e120&oh=00_AQJVUUuIuiERON0ZfnBKIQ2Ck-V_pcclDoQG3vYjMkoVmw&oe=6A9C1193"
 feedback_id: "ZmVlZGJhY2s6MTU5MzU4MzM5MjQ1ODM2MQ=="
 page_canonical_url: ""
 ---
 
 # 2023年AI Server需求開始爆發以來，新型態AI Server ODM的毛利率總是讓人關心+擔心，當時很合理，因為AI Server比general Server價格貴20X，營收大增之下，低毛利率的ODM產業到底能賺多少錢不好估計，2024年開始AI Server從8卡GPU的HGX NVL8，大幅改架構為72顆GPU一櫃的GB NVL72，出售單位從Server box大改為Rack，價格又貴了很多倍，營收大增之下，低毛利率的ODM產業到底能賺多少錢不好估計，關心+擔心，還是很應該，2025~2026年GB200到GB300陸續量產，AI Server ODM財報出來連續多季獲利都不錯，確實有賺到錢，2H26 Oberon NVL72架構大方向，繼續沿用到Rubin VR200 NVL72，同樣的BOM"結構"(BOM當然不一樣是說大結構)，同樣的議價標案和議價方法，總獲利或毛利金額的能見度、掌握度，和2023、2024年相比，理應大幅提升，但因為是低毛利率產業，"毛利率展望"，還是讓人擔心.......其實有幾點已經不同
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0bjzHZKMLuGUmcHxEuc7tb3K9VBQd5TXu8VA7K5QST5vcoYZc3fYyAdaRdDNVFTDAl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02fj5WiMJtwKf1nmsgi3vHyFCLkcce12xz1vvBxzfFCzdY162SUVK2XNpko6tmf1bEl&id=100054201473657
 
-![2023年AI Server需求開始爆發以來，新型態AI Server ODM的毛利率總是讓人關心+擔心，當時很合理，因為AI Server比general Server價格貴20X，營收大增之下，低毛利率的ODM產業到底能賺多少錢不好估計，2024年開始AI Server從8卡GPU的HGX NVL8，大幅改架構為72顆GPU一櫃的GB NVL72，出售單位從Server box大改為Rack，價格又貴了很多倍，營收大增之下，低毛利率的ODM產業到底能賺多少錢不好估計，關心+擔心，還是很應該，2025~2026年GB200到GB300陸續量產，AI Server ODM財報出來連續多季獲利都不錯，確實有賺到錢，2H26 Oberon NVL72架構大方向，繼續沿用到Rubin VR200 NVL72，同樣的BOM"結構"(BOM當然不一樣是說大結構)，同樣的議價標案和議價方法，總獲利或毛利金額的能見度、掌握度，和2023、2024年相比，理應大幅提升，但因為是低毛利率產業，"毛利率展望"，還是讓人擔心.......其實有幾點已經不同](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/785281559_1593583145791719_4084360680683424691_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jV9roYIUgiQQ7kNvwFLHa70&_nc_oc=AdrQd2TrGoH8tWTVSe-WrUqyh5cT3wxmGYV0JLxFcpGHvXWGIcp6ELrjXsnzBP46OoU&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=tukE0XNe3RaqExhDAuN5eA&_nc_ss=7e120&oh=00_AQFbdcwdJPR9MnExFs4ebGR6bdLqXkdN8ULZ7By7KruVQw&oe=6A95EA93)
+![2023年AI Server需求開始爆發以來，新型態AI Server ODM的毛利率總是讓人關心+擔心，當時很合理，因為AI Server比general Server價格貴20X，營收大增之下，低毛利率的ODM產業到底能賺多少錢不好估計，2024年開始AI Server從8卡GPU的HGX NVL8，大幅改架構為72顆GPU一櫃的GB NVL72，出售單位從Server box大改為Rack，價格又貴了很多倍，營收大增之下，低毛利率的ODM產業到底能賺多少錢不好估計，關心+擔心，還是很應該，2025~2026年GB200到GB300陸續量產，AI Server ODM財報出來連續多季獲利都不錯，確實有賺到錢，2H26 Oberon NVL72架構大方向，繼續沿用到Rubin VR200 NVL72，同樣的BOM"結構"(BOM當然不一樣是說大結構)，同樣的議價標案和議價方法，總獲利或毛利金額的能見度、掌握度，和2023、2024年相比，理應大幅提升，但因為是低毛利率產業，"毛利率展望"，還是讓人擔心.......其實有幾點已經不同](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/785281559_1593583145791719_4084360680683424691_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=f9OfuaQ_vGUQ7kNvwHMGqjC&_nc_oc=AdoKrAm94Hux5JHOFiK6Oo3nxhnZI28wK2lHodcsnmmOTctrHknpbKrRxFO0kUtG-zo&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=GMT5Xzgdert-PWj-qDKVnw&_nc_ss=7e120&oh=00_AQJVUUuIuiERON0ZfnBKIQ2Ck-V_pcclDoQG3vYjMkoVmw&oe=6A9C1193)
 2023年AI Server需求開始爆發以來，新型態AI Server ODM的毛利率總是讓人關心+擔心，當時很合理，因為AI Server比general Server價格貴20X，營收大增之下，低毛利率的ODM產業到底能賺多少錢不好估計，2024年開始AI Server從8卡GPU的HGX NVL8，大幅改架構為72顆GPU一櫃的GB NVL72，出售單位從Server box大改為Rack，價格又貴了很多倍，營收大增之下，低毛利率的ODM產業到底能賺多少錢不好估計，關心+擔心，還是很應該，2025~2026年GB200到GB300陸續量產，AI Server ODM財報出來連續多季獲利都不錯，確實有賺到錢，2H26 Oberon NVL72架構大方向，繼續沿用到Rubin VR200 NVL72，同樣的BOM"結構"(BOM當然不一樣是說大結構)，同樣的議價標案和議價方法，總獲利或毛利金額的能見度、掌握度，和2023、2024年相比，理應大幅提升，但因為是低毛利率產業，"毛利率展望"，還是讓人擔心.......其實有幾點已經不同
 
 1. Oberon機架大架構從Blackwell、Blackwell Ultra、Rubin、Rubin Ultra將沿用四代六年，到2028年量產的Rubin Ultra還是主力架構，細部每代都有改，大架構沒變，設計/研發/工程，ODM無論是報價經驗、成本經驗，已經比第一代掌握度高很多，有過去實績可參考，"毛利金額"、"總獲利"的風險大為降低

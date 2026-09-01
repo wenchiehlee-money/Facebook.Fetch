@@ -4,22 +4,22 @@ title: "【抄底王 David Tepper Q2 持股揭露：記憶體獲利了結，加�
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid02VSteQp8zVwTvJ1uj65hZxddseXEimSUyo8WQciAPQnHUWurtQgQfJhQykXGwNrDFl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0RwszpT4LZUcZNK2a47ikBQKohZZ8WzsJBdsPv4tbUWsQKrzdcFa7pmrG5mwiHszGl"
 creation_time_utc: "2026-08-14T23:08:01+00:00"
-fetched_at_utc: "2026-08-15T02:17:17.639944+00:00"
+fetched_at_utc: "2026-09-01T04:40:16.343391+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/774896063_1530038445832964_1837971134281904427_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dCp_kbDqbqAQ7kNvwFKa2yR&_nc_oc=AdqTE1u2_Vo7ZsVeQ285RLoGUSokoGc3KRWSBzqLvJA0zn2Y86tq-6MoC_VsDnvUuJ0&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=gziPcNKlWDN2j-fdDKxWJg&_nc_ss=7e120&oh=00_AQFY6kza_D_zAto33jXcSQB7T8QUZXxt91ZBdAUMKFPutg&oe=6A85B5C8"
+image_url: "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/774896063_1530038445832964_1837971134281904427_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=frNnszKS9SAQ7kNvwE99Whu&_nc_oc=Adr_y7j83L7ub63_cuCrjDVjnPZhBLVvHusuUUNkS5_Gal33RteXSDSoH62VRpmGTSU&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=HDcOnbbuNX9lRieH4qE3DA&_nc_ss=7e120&oh=00_AQL8SsrQSqNWsr9DwRmu72DxYr5K8ETuaYzxVbDBFb-7wg&oe=6A9C1F48"
 feedback_id: "ZmVlZGJhY2s6MTUzMDAzODU2MjQ5OTYxOQ=="
 page_canonical_url: ""
 ---
 
 # 【抄底王 David Tepper Q2 持股揭露：記憶體獲利了結，加碼台積電、Meta！】
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid02VSteQp8zVwTvJ1uj65hZxddseXEimSUyo8WQciAPQnHUWurtQgQfJhQykXGwNrDFl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0RwszpT4LZUcZNK2a47ikBQKohZZ8WzsJBdsPv4tbUWsQKrzdcFa7pmrG5mwiHszGl
 
-![【抄底王 David Tepper Q2 持股揭露：記憶體獲利了結，加碼台積電、Meta！】](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/774896063_1530038445832964_1837971134281904427_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dCp_kbDqbqAQ7kNvwFKa2yR&_nc_oc=AdqTE1u2_Vo7ZsVeQ285RLoGUSokoGc3KRWSBzqLvJA0zn2Y86tq-6MoC_VsDnvUuJ0&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=gziPcNKlWDN2j-fdDKxWJg&_nc_ss=7e120&oh=00_AQFY6kza_D_zAto33jXcSQB7T8QUZXxt91ZBdAUMKFPutg&oe=6A85B5C8)
+![【抄底王 David Tepper Q2 持股揭露：記憶體獲利了結，加碼台積電、Meta！】](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/774896063_1530038445832964_1837971134281904427_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=frNnszKS9SAQ7kNvwE99Whu&_nc_oc=Adr_y7j83L7ub63_cuCrjDVjnPZhBLVvHusuUUNkS5_Gal33RteXSDSoH62VRpmGTSU&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=HDcOnbbuNX9lRieH4qE3DA&_nc_ss=7e120&oh=00_AQL8SsrQSqNWsr9DwRmu72DxYr5K8ETuaYzxVbDBFb-7wg&oe=6A9C1F48)
 【抄底王 David Tepper Q2 持股揭露：記憶體獲利了結，加碼台積電、Meta！】
 最新的 #Appaloosa 13F 顯示，雖然 Q2 減碼了不少科技股，但受惠半導體類股 Q2 強勢大漲，科技股在整體投組中的權重反而進一步提升。
 ​

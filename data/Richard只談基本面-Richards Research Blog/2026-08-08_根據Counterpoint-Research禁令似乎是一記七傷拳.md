@@ -4,9 +4,9 @@ title: "根據Counterpoint Research，禁令似乎是一記七傷拳"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02CxKJwmJEC5oL5faRxfcYN3VndvDQrWqkpBiGtX9BXG1LeTrPbF6M755HidsL1D1vl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid09QoB2cyZcq6kBLSf72yaLVYQRpV3JDYvzpRVc7tgtZwkXgB4yUJw1X531icxFPwBl&id=100054201473657"
 creation_time_utc: "2026-08-08T17:24:09+00:00"
-fetched_at_utc: "2026-08-09T06:02:14.974837+00:00"
+fetched_at_utc: "2026-09-01T04:42:39.947356+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 根據Counterpoint Research，禁令似乎是一記七傷拳
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02CxKJwmJEC5oL5faRxfcYN3VndvDQrWqkpBiGtX9BXG1LeTrPbF6M755HidsL1D1vl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid09QoB2cyZcq6kBLSf72yaLVYQRpV3JDYvzpRVc7tgtZwkXgB4yUJw1X531icxFPwBl&id=100054201473657
 根據Counterpoint Research，禁令似乎是一記七傷拳
 -----------"Innolight、Coherent、Lumentum：在聯邦通訊委員會（FCC）擬議中禁止中國收發機的提案中，誰贏誰輸？
 ......

@@ -4,9 +4,9 @@ title: "前幾天接了一個採訪，聊到因為 Situational Awareness 被強�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0iR1vbkahhKtd4XGbNw4Vm5EBNAwGUbyk2QyXSqABMMBfuq4QW9TLb722skpRoZ6al&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0i4py1VLvLPgC156UnBovfbRs4SX3Kvvv2ogVBEVygkCJ1DkxXq469QSqjK4SkdUyl&id=61573146584049"
 creation_time_utc: "2026-08-04T12:40:58+00:00"
-fetched_at_utc: "2026-08-06T04:22:39.627709+00:00"
+fetched_at_utc: "2026-09-01T04:41:25.294115+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 前幾天接了一個採訪，聊到因為 Situational Awareness 被強制清算，我說我認為這波應該算是「階段性見底」了。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0iR1vbkahhKtd4XGbNw4Vm5EBNAwGUbyk2QyXSqABMMBfuq4QW9TLb722skpRoZ6al&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0i4py1VLvLPgC156UnBovfbRs4SX3Kvvv2ogVBEVygkCJ1DkxXq469QSqjK4SkdUyl&id=61573146584049
 前幾天接了一個採訪，聊到因為 Situational Awareness 被強制清算，我說我認為這波應該算是「階段性見底」了。
 ​
 結果在採訪影片下面，有人留言說，「階段性見底」根本是廢話。他覺得「階段性」可能是一個月、一年，甚至更久，這樣說跟沒說一樣。

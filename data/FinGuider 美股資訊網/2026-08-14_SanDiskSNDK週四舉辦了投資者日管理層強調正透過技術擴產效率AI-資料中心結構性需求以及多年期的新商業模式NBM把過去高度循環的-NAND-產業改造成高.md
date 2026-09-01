@@ -4,22 +4,22 @@ title: "SanDisk（#SNDK）週四舉辦了投資者日，管理層強調正透過
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid0xT5FFG3yqdDuUVSzDs5FeVXE6dATca8mP3BxCykwZuHf9M32WQLRJXpXnvd3bMmtl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0xoWJqZu9kappF8TUntkEQAghBfNacWqxFvdKK5WD8Z3DVEfMhM7obXXP9Pm7Gusql"
 creation_time_utc: "2026-08-14T03:17:02+00:00"
-fetched_at_utc: "2026-08-14T03:27:36.009078+00:00"
+fetched_at_utc: "2026-09-01T04:40:16.343391+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/774469273_1529271745909634_3176323644341004647_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7NBvh-QcTPQQ7kNvwHVGI-l&_nc_oc=AdqFQW6Ba0TMryTvh9UtuLuD6vCH3p1FBkIUiJWMYbcJqwedpcO_gQc9Pk7ie6EE0-0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=iqhZEhB2JEvNe_jn9jSEAw&_nc_ss=7e120&oh=00_AQFq5tCFML5LXbLmdIIsWNaFn0meSaEicbY75sHayFpkRw&oe=6A84565B"
+image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/774469273_1529271745909634_3176323644341004647_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NFz_vw6FByIQ7kNvwHhKyCT&_nc_oc=AdpEq7LyA5RZwEr5q-nQVqfDdaSUBlY1hIeKUvgc9XDXPgzAGa2wx9zR1p-dWqnM4hw&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=9pytT7G3wAnF71DnnJOkgA&_nc_ss=7e120&oh=00_AQLr0sx5cJu3PnzZ2K14gR3Wksj_FIlxCUK4oYe5WUSCVQ&oe=6A9C115B"
 feedback_id: "ZmVlZGJhY2s6MTUyOTI3MzU2MjU3NjExOQ=="
 page_canonical_url: ""
 ---
 
 # SanDisk（#SNDK）週四舉辦了投資者日，管理層強調正透過技術擴產效率、AI 資料中心結構性需求，以及多年期的新商業模式（NBM），把過去高度循環的 NAND 產業，改造成高毛利、高現金流、高可預測性的商業模式，並給出了樂觀的 FY2028～2030 財務目標。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid0xT5FFG3yqdDuUVSzDs5FeVXE6dATca8mP3BxCykwZuHf9M32WQLRJXpXnvd3bMmtl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0xoWJqZu9kappF8TUntkEQAghBfNacWqxFvdKK5WD8Z3DVEfMhM7obXXP9Pm7Gusql
 
-![SanDisk（#SNDK）週四舉辦了投資者日，管理層強調正透過技術擴產效率、AI 資料中心結構性需求，以及多年期的新商業模式（NBM），把過去高度循環的 NAND 產業，改造成高毛利、高現金流、高可預測性的商業模式，並給出了樂觀的 FY2028～2030 財務目標。](https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/774469273_1529271745909634_3176323644341004647_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7NBvh-QcTPQQ7kNvwHVGI-l&_nc_oc=AdqFQW6Ba0TMryTvh9UtuLuD6vCH3p1FBkIUiJWMYbcJqwedpcO_gQc9Pk7ie6EE0-0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=iqhZEhB2JEvNe_jn9jSEAw&_nc_ss=7e120&oh=00_AQFq5tCFML5LXbLmdIIsWNaFn0meSaEicbY75sHayFpkRw&oe=6A84565B)
+![SanDisk（#SNDK）週四舉辦了投資者日，管理層強調正透過技術擴產效率、AI 資料中心結構性需求，以及多年期的新商業模式（NBM），把過去高度循環的 NAND 產業，改造成高毛利、高現金流、高可預測性的商業模式，並給出了樂觀的 FY2028～2030 財務目標。](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/774469273_1529271745909634_3176323644341004647_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NFz_vw6FByIQ7kNvwHhKyCT&_nc_oc=AdpEq7LyA5RZwEr5q-nQVqfDdaSUBlY1hIeKUvgc9XDXPgzAGa2wx9zR1p-dWqnM4hw&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=9pytT7G3wAnF71DnnJOkgA&_nc_ss=7e120&oh=00_AQLr0sx5cJu3PnzZ2K14gR3Wksj_FIlxCUK4oYe5WUSCVQ&oe=6A9C115B)
 SanDisk（#SNDK）週四舉辦了投資者日，管理層強調正透過技術擴產效率、AI 資料中心結構性需求，以及多年期的新商業模式（NBM），把過去高度循環的 NAND 產業，改造成高毛利、高現金流、高可預測性的商業模式，並給出了樂觀的 FY2028～2030 財務目標。
 ​
 ​

@@ -4,22 +4,22 @@ title: "以Nvidia這種體量，每季營收增速竟然還在加速是十分可
 page_title: ""
 requested_url: "https://www.facebook.com/intleconobserve"
 final_url: "https://www.facebook.com/intleconobserve"
-post_url: "https://www.facebook.com/intleconobserve/posts/pfbid02DrJybsuNFK3aTa63PkuzTxTPLjzn4tW1h4tX3kckmvnd1Hr8AqfTA3ZJeSrgd7RHl"
+post_url: "https://www.facebook.com/intleconobserve/posts/pfbid02DVzy1bMtcDr5hxNsPPeheDgopbPmSipACAiS8sxZi84nN56Du5zovgxsLperMJaml"
 creation_time_utc: "2026-08-26T23:27:49+00:00"
-fetched_at_utc: "2026-08-27T11:08:56.417753+00:00"
+fetched_at_utc: "2026-09-01T04:43:32.511067+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/786167191_1591092962375326_354234008749238243_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VcgXggXAEzsQ7kNvwE072Ag&_nc_oc=Ado_e5qo9rhnTCJCHb6fXiJKKlNfrML7jAIfKle6tM6-9X-tb_FsV5P29EmXfIv2F-A&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=I1AEoL1LLuOi5efd4PyF7w&_nc_ss=7e120&oh=00_AQGm1bpuGiDPo8rsFX1kawVR3WhxRy3h6E3M-OpYp5vGxA&oe=6A95DE90"
+image_url: "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/786167191_1591092962375326_354234008749238243_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WnOw34KU8KQQ7kNvwEebcQs&_nc_oc=Ado2QoG3B-V8Oy3W6GyFzW5l2TUDubGrdg7UYQ06yKNuRFjA5bq92S0BnZ_wx6mgTrw&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=AXJJAbFi74Aim2WkOehi0g&_nc_ss=7e120&oh=00_AQLlGiBjzELPYFn1xXrgufcPWAz6DytBiXrAo5njAONgaw&oe=6A9C3DD0"
 feedback_id: "ZmVlZGJhY2s6MTU5MTA5NDg3MjM3NTEzNQ=="
 page_canonical_url: ""
 ---
 
 # 以Nvidia這種體量，每季營收增速竟然還在加速是十分可怕。這季的電話財報會議很精彩，回應了大部分市場對Nvidia的質疑，包含循環融資、客戶ASIC競爭以及hyperscaler 資本支出到達極限的問題。
 
-原文連結: https://www.facebook.com/intleconobserve/posts/pfbid02DrJybsuNFK3aTa63PkuzTxTPLjzn4tW1h4tX3kckmvnd1Hr8AqfTA3ZJeSrgd7RHl
+原文連結: https://www.facebook.com/intleconobserve/posts/pfbid02DVzy1bMtcDr5hxNsPPeheDgopbPmSipACAiS8sxZi84nN56Du5zovgxsLperMJaml
 
-![以Nvidia這種體量，每季營收增速竟然還在加速是十分可怕。這季的電話財報會議很精彩，回應了大部分市場對Nvidia的質疑，包含循環融資、客戶ASIC競爭以及hyperscaler 資本支出到達極限的問題。](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/786167191_1591092962375326_354234008749238243_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VcgXggXAEzsQ7kNvwE072Ag&_nc_oc=Ado_e5qo9rhnTCJCHb6fXiJKKlNfrML7jAIfKle6tM6-9X-tb_FsV5P29EmXfIv2F-A&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=I1AEoL1LLuOi5efd4PyF7w&_nc_ss=7e120&oh=00_AQGm1bpuGiDPo8rsFX1kawVR3WhxRy3h6E3M-OpYp5vGxA&oe=6A95DE90)
+![以Nvidia這種體量，每季營收增速竟然還在加速是十分可怕。這季的電話財報會議很精彩，回應了大部分市場對Nvidia的質疑，包含循環融資、客戶ASIC競爭以及hyperscaler 資本支出到達極限的問題。](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/786167191_1591092962375326_354234008749238243_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WnOw34KU8KQQ7kNvwEebcQs&_nc_oc=Ado2QoG3B-V8Oy3W6GyFzW5l2TUDubGrdg7UYQ06yKNuRFjA5bq92S0BnZ_wx6mgTrw&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=AXJJAbFi74Aim2WkOehi0g&_nc_ss=7e120&oh=00_AQLlGiBjzELPYFn1xXrgufcPWAz6DytBiXrAo5njAONgaw&oe=6A9C3DD0)
 以Nvidia這種體量，每季營收增速竟然還在加速是十分可怕。這季的電話財報會議很精彩，回應了大部分市場對Nvidia的質疑，包含循環融資、客戶ASIC競爭以及hyperscaler 資本支出到達極限的問題。
 
 這季 $NVDA 營收962億美元，年增106%，Data Center年增117%，而且已經連續四季年增率加速。更誇張的是，NVIDIA罕見提前預告2027年營收仍可成長約70%，而且黃仁勳直接說，這不是需求上限，而是供應上限，客戶需求其實接近翻倍。

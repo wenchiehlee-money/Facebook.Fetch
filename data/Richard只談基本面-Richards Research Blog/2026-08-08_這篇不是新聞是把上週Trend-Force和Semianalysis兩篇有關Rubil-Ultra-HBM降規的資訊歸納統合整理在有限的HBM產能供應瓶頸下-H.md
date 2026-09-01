@@ -4,9 +4,9 @@ title: "這篇不是新聞，是把上週Trend Force和Semianalysis兩篇有關R
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid04JH7fKgRugNytsVUjHHDL5ahHtc2SisUq4DoVrHGff6VRJLkWLrtx7fVa3SnRMMul&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid027ftMHNLkDH6i58VwnCVy6UsxVAz63yPahsQrC5HdYokbMEswMsubpAfMph6tyc9dl&id=100054201473657"
 creation_time_utc: "2026-08-08T17:05:44+00:00"
-fetched_at_utc: "2026-08-09T06:02:14.974837+00:00"
+fetched_at_utc: "2026-09-01T04:42:39.947356+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 這篇不是新聞，是把上週Trend Force和Semianalysis兩篇有關Rubil Ultra HBM降規的資訊歸納統合整理，在有限的HBM產能供應瓶頸下， HBM降規可增加50%的GPU出貨量
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid04JH7fKgRugNytsVUjHHDL5ahHtc2SisUq4DoVrHGff6VRJLkWLrtx7fVa3SnRMMul&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid027ftMHNLkDH6i58VwnCVy6UsxVAz63yPahsQrC5HdYokbMEswMsubpAfMph6tyc9dl&id=100054201473657
 這篇不是新聞，是把上週Trend Force和Semianalysis兩篇有關Rubil Ultra HBM降規的資訊歸納統合整理，在有限的HBM產能供應瓶頸下， HBM降規可增加50%的GPU出貨量
 
 ------------"不过，SemiAnalysis的分析指出，容量下降未必伴随带宽等比例下滑。由于Rubin Ultra的HBM堆栈数量仍为8颗，同代HBM4的接口位宽保持不变，英伟达可通过提升单引脚传输速率来实现带宽的小幅增长，预计实际出货带宽将从约20TB/s提升至21TB/s。

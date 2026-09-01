@@ -4,22 +4,22 @@ title: "🚗 Tesla：真正的重點已從「賣車」轉向「AI＋Robotaxi＋O
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
 final_url: "https://www.facebook.com/profile.php?id=61565088683715"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02yT4rxmg3venfJ2rgo2wy8QeDvxMXb1oMaDijXXtENsC8sfa4haijSAr4a7ttLF3Pl&id=61565088683715"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0uzZhhBqQdPLnusVN61qCrJcdwcBeoN9eu9d2Rcx9ph2FyFH1iBdT3QgZAmy3BKt2l&id=61565088683715"
 creation_time_utc: "2026-08-20T02:48:04+00:00"
-fetched_at_utc: "2026-08-21T02:35:07.473615+00:00"
+fetched_at_utc: "2026-09-01T04:44:49.974389+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/778627058_122225288264502956_428416693867538325_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TA9gkmw5S3IQ7kNvwGSBLGD&_nc_oc=AdpALPToYfsS32txj2Pq0ZjJ_aRhMp_4SAUBsLS6ZHFZhIHNqvPxpEAig84PcYw4IXE&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=ti2YGu85WrT60b31ZAVHaQ&_nc_ss=7e120&oh=00_AQHtHKd6mK5HyiEH3eD78FxoU2-2hsQGyqkoVo9n_n2K_A&oe=6A8DA5B7"
+image_url: "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/778627058_122225288264502956_428416693867538325_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=09qfzMYdCj4Q7kNvwEhgKkO&_nc_oc=AdreCCeYIsqNun7sbiCWJhJLuz5khcmdBl1UKoytyY8IMUHD8xmuc1taUZ4qaojrxcg&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=E7jbNg_-p9L321nLyLEjXQ&_nc_ss=7e120&oh=00_AQIXIBY8wzDcREBmgD5xJrl66G99vPnffz9Q3P46Sp_HDQ&oe=6A9C2637"
 feedback_id: "ZmVlZGJhY2s6MTIyMjI1Mjg4MzQyNTAyOTU2"
 page_canonical_url: ""
 ---
 
 # 🚗 Tesla：真正的重點已從「賣車」轉向「AI＋Robotaxi＋Optimus」
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02yT4rxmg3venfJ2rgo2wy8QeDvxMXb1oMaDijXXtENsC8sfa4haijSAr4a7ttLF3Pl&id=61565088683715
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0uzZhhBqQdPLnusVN61qCrJcdwcBeoN9eu9d2Rcx9ph2FyFH1iBdT3QgZAmy3BKt2l&id=61565088683715
 
-![🚗 Tesla：真正的重點已從「賣車」轉向「AI＋Robotaxi＋Optimus」](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/778627058_122225288264502956_428416693867538325_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TA9gkmw5S3IQ7kNvwGSBLGD&_nc_oc=AdpALPToYfsS32txj2Pq0ZjJ_aRhMp_4SAUBsLS6ZHFZhIHNqvPxpEAig84PcYw4IXE&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=ti2YGu85WrT60b31ZAVHaQ&_nc_ss=7e120&oh=00_AQHtHKd6mK5HyiEH3eD78FxoU2-2hsQGyqkoVo9n_n2K_A&oe=6A8DA5B7)
+![🚗 Tesla：真正的重點已從「賣車」轉向「AI＋Robotaxi＋Optimus」](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/778627058_122225288264502956_428416693867538325_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=09qfzMYdCj4Q7kNvwEhgKkO&_nc_oc=AdreCCeYIsqNun7sbiCWJhJLuz5khcmdBl1UKoytyY8IMUHD8xmuc1taUZ4qaojrxcg&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=E7jbNg_-p9L321nLyLEjXQ&_nc_ss=7e120&oh=00_AQIXIBY8wzDcREBmgD5xJrl66G99vPnffz9Q3P46Sp_HDQ&oe=6A9C2637)
 🚗 Tesla：真正的重點已從「賣車」轉向「AI＋Robotaxi＋Optimus」
 🏭 ① 製造能力仍是特斯拉的重要護城河
 特斯拉真正值得注意的不只是電動車，而是製造方式本身正在重新設計。一體式壓鑄、並行製造，以及 Cybercab 的「拆箱式製造」，目的都是降低零件數量、機器人數量與總裝複雜度。Cybercab 如果能順利量產，這套製造能力可能成為未來 Robotaxi 擴張的重要基礎。

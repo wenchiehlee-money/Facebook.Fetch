@@ -4,22 +4,22 @@ title: "AI 雲端運算新創 CoreWeave（#CRWV）交出了一份穩健的財報
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid02fK9gZrPdo6h5R418GgmfrLUcqBZ77K4zFMGA3C38M4drZtYPzvEX6RCYqZAr5xtvl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid02f1UDJNPs4t1bpCKbeZEjQ3Vefv9cP29LERZ86mcEWpPQK2rDAMYXTTBYsBJbfLael"
 creation_time_utc: "2026-08-11T22:22:48+00:00"
-fetched_at_utc: "2026-08-12T03:27:23.302240+00:00"
+fetched_at_utc: "2026-09-01T04:40:16.343391+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/772138439_1527262076110601_2699625394311316230_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wNtTwozoFv0Q7kNvwFHOivG&_nc_oc=Adp-u96ts5p8cuk-yz9GepiqUh1Xsao4GQrc3-COSWYhlAlkvzIQZT69OP3z7mQcs6k&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=95W0ftiMz0hhC5py1_Dt7A&_nc_ss=7e120&oh=00_AQECt0BQ6dBKDswlYf2vVEIrs3Ed4OKyoQ7PupOILLV73g&oe=6A81BD7E"
+image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/772138439_1527262076110601_2699625394311316230_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wOTOsRgBRl0Q7kNvwEOIPrr&_nc_oc=Ado7WnG7yNwYv2WEm0d7VH-bqiEB1kHJA4f7QTn2fqcKy0sEtOt2SAq7bov2ep8BC2A&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=_IaslMeFgzhyWH6BZAILoA&_nc_ss=7e120&oh=00_AQLAfi-m7jlE1FJjpO7SyPW0788adyezCJy99Ww0XQZWow&oe=6A9C1B7E"
 feedback_id: "ZmVlZGJhY2s6MTUyNzI2MjYyMjc3NzIxMw=="
 page_canonical_url: ""
 ---
 
 # AI 雲端運算新創 CoreWeave（#CRWV）交出了一份穩健的財報：營收持續翻倍成長、積壓訂單突破千億美元，儘管資料中心擴張與利息費用依然造成沉重負擔，但各項獲利指標皆優於預期，另外 CoreWeave 還全面調升了 2026 年指引，激勵盤後暴漲約 +13%。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid02fK9gZrPdo6h5R418GgmfrLUcqBZ77K4zFMGA3C38M4drZtYPzvEX6RCYqZAr5xtvl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid02f1UDJNPs4t1bpCKbeZEjQ3Vefv9cP29LERZ86mcEWpPQK2rDAMYXTTBYsBJbfLael
 
-![AI 雲端運算新創 CoreWeave（#CRWV）交出了一份穩健的財報：營收持續翻倍成長、積壓訂單突破千億美元，儘管資料中心擴張與利息費用依然造成沉重負擔，但各項獲利指標皆優於預期，另外 CoreWeave 還全面調升了 2026 年指引，激勵盤後暴漲約 +13%。](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/772138439_1527262076110601_2699625394311316230_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wNtTwozoFv0Q7kNvwFHOivG&_nc_oc=Adp-u96ts5p8cuk-yz9GepiqUh1Xsao4GQrc3-COSWYhlAlkvzIQZT69OP3z7mQcs6k&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=95W0ftiMz0hhC5py1_Dt7A&_nc_ss=7e120&oh=00_AQECt0BQ6dBKDswlYf2vVEIrs3Ed4OKyoQ7PupOILLV73g&oe=6A81BD7E)
+![AI 雲端運算新創 CoreWeave（#CRWV）交出了一份穩健的財報：營收持續翻倍成長、積壓訂單突破千億美元，儘管資料中心擴張與利息費用依然造成沉重負擔，但各項獲利指標皆優於預期，另外 CoreWeave 還全面調升了 2026 年指引，激勵盤後暴漲約 +13%。](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/772138439_1527262076110601_2699625394311316230_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wOTOsRgBRl0Q7kNvwEOIPrr&_nc_oc=Ado7WnG7yNwYv2WEm0d7VH-bqiEB1kHJA4f7QTn2fqcKy0sEtOt2SAq7bov2ep8BC2A&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=_IaslMeFgzhyWH6BZAILoA&_nc_ss=7e120&oh=00_AQLAfi-m7jlE1FJjpO7SyPW0788adyezCJy99Ww0XQZWow&oe=6A9C1B7E)
 AI 雲端運算新創 CoreWeave（#CRWV）交出了一份穩健的財報：營收持續翻倍成長、積壓訂單突破千億美元，儘管資料中心擴張與利息費用依然造成沉重負擔，但各項獲利指標皆優於預期，另外 CoreWeave 還全面調升了 2026 年指引，激勵盤後暴漲約 +13%。
 ​
 ☁Q2 財報優於預期

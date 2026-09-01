@@ -1,10 +1,14 @@
 {
   "requested_url": "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL",
-  "fetched_at_utc": "2026-08-31T06:56:20.482967+00:00",
+  "fetched_at_utc": "2026-09-01T04:37:51.868064+00:00",
   "list_title": "股票",
   "total_items": 10,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "10227352093508305"
+  ],
+  "new_markdown_files": [
+    "data/我的珍藏-股票/2026-09-01_我們從小被教育負債是不好的必須量入為出並盡快還清因此我們理所當然地認為國家的債務也總有一天會被妥善解決但如果這個被普遍接受的常識從一開始就是個美麗的誤會呢當你打.md"
+  ],
   "posts_directory": "data/我的珍藏-股票"
 }

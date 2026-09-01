@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-08-31T06:56:50.796792+00:00",
+  "fetched_at_utc": "2026-09-01T04:41:25.294115+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,15 +9,19 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "checked_post_count": 27,
+  "new_post_count": 1,
+  "new_post_ids": [
+    "122192628746771552"
+  ],
+  "new_markdown_files": [
+    "data/Fomo研究院/2026-08-06_先說清楚我最新一期關於機器人的深入分析如果你期待的是一個具體的股票代碼一個明天就能買進的標的那可能會讓你失望.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
+    "本次已成功用公開 GraphQL 擷取到 27 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"

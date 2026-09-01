@@ -4,22 +4,22 @@ title: "\"致富心態\"的作者Morgan Housel年輕時曾在豪華飯店當泊�
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid08tecidMTUTjEpxWUG2gP12m6tj8eDkBbV4xgJB1X2ftJVUDMvfN2sRWMymCTYbfhl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid08yneND9B2JvxPiuXPdWr99YQHrEPtN1BfAdUYfK3x6SttEVwmjyDJwpByLyMk7abl"
 creation_time_utc: "2026-08-21T09:16:43+00:00"
-fetched_at_utc: "2026-08-22T02:19:25.902835+00:00"
+fetched_at_utc: "2026-09-01T04:40:33.930105+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/778835588_1484603133473082_5946443236875516712_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=guKDaskw334Q7kNvwFnHHEJ&_nc_oc=Adoa-isMNFyL9uGzdkSNIHVQ7-cLPtrbe_h4L2Ii16ITGjy9CoFnRNY0t2yQEPbqHB4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=yaN7tttXfbZtV2kGijPS8w&_nc_ss=7e120&oh=00_AQHpUn2m_Oy8EFIXy1Rr9lu4pPm_exZgNHMWwe7t0tqe-w&oe=6A8EEA57"
+image_url: "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/778835588_1484603133473082_5946443236875516712_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Gw0nq7X5mpAQ7kNvwHOFYWq&_nc_oc=AdpB_kQ3B8D5gsjWoHgye9ngq2Nt1OaJWi-H_VgjAIxwf8-xfmf_R_f5oAc5VaKyxFw&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=hge63evFHthlJST9Y3kbpA&_nc_ss=7e120&oh=00_AQJFqDMtLPXE4pwudLCvJpV8eTZlbEZzTppPLT6QT2K--Q&oe=6A9C1957"
 feedback_id: "ZmVlZGJhY2s6MTQ4NDYwMzI5MDEzOTczMw=="
 page_canonical_url: ""
 ---
 
 # "致富心態"的作者Morgan Housel年輕時曾在豪華飯店當泊車小弟。他停過各種豪華車種，法拉利、藍寶基尼…..。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid08tecidMTUTjEpxWUG2gP12m6tj8eDkBbV4xgJB1X2ftJVUDMvfN2sRWMymCTYbfhl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid08yneND9B2JvxPiuXPdWr99YQHrEPtN1BfAdUYfK3x6SttEVwmjyDJwpByLyMk7abl
 
-!["致富心態"的作者Morgan Housel年輕時曾在豪華飯店當泊車小弟。他停過各種豪華車種，法拉利、藍寶基尼…..。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/778835588_1484603133473082_5946443236875516712_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=guKDaskw334Q7kNvwFnHHEJ&_nc_oc=Adoa-isMNFyL9uGzdkSNIHVQ7-cLPtrbe_h4L2Ii16ITGjy9CoFnRNY0t2yQEPbqHB4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=yaN7tttXfbZtV2kGijPS8w&_nc_ss=7e120&oh=00_AQHpUn2m_Oy8EFIXy1Rr9lu4pPm_exZgNHMWwe7t0tqe-w&oe=6A8EEA57)
+!["致富心態"的作者Morgan Housel年輕時曾在豪華飯店當泊車小弟。他停過各種豪華車種，法拉利、藍寶基尼…..。](https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/778835588_1484603133473082_5946443236875516712_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Gw0nq7X5mpAQ7kNvwHOFYWq&_nc_oc=AdpB_kQ3B8D5gsjWoHgye9ngq2Nt1OaJWi-H_VgjAIxwf8-xfmf_R_f5oAc5VaKyxFw&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=hge63evFHthlJST9Y3kbpA&_nc_ss=7e120&oh=00_AQJFqDMtLPXE4pwudLCvJpV8eTZlbEZzTppPLT6QT2K--Q&oe=6A9C1957)
 "致富心態"的作者Morgan Housel年輕時曾在豪華飯店當泊車小弟。他停過各種豪華車種，法拉利、藍寶基尼…..。
 
 回憶起來，作者當時常想:”假如我也有這樣一台好車就好了。”

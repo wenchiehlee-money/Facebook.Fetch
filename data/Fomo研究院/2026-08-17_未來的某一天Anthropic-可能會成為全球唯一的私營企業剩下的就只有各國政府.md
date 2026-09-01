@@ -4,22 +4,22 @@ title: "「未來的某一天，Anthropic 可能會成為全球唯一的私營�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02mR76tkoWZE7MyZykCsbXYMxFH6QDqRBamMdwUHg7cGVNBFgkJddAXF9QR694mPKkl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02mWF8YLbE6yQVPmLb8BfMRSvadMsuQ5y7tcX7tw7d5R5te4HvJPzcrbYVqPCasGh5l&id=61573146584049"
 creation_time_utc: "2026-08-17T11:03:52+00:00"
-fetched_at_utc: "2026-08-22T02:19:38.548738+00:00"
+fetched_at_utc: "2026-09-01T04:41:25.294115+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/774924867_122193962306771552_2624305572446974141_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=POLhEv1l2JsQ7kNvwFUS5tp&_nc_oc=Adrw6r8ZJq9BEZ6B3iKi2Ya2buHiuz5ITs8ZgumgnVwwu9r25UcmY_IjWQ_dPl7p2ho&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Aw9TQvq2u9eyFij1I2aMAw&_nc_ss=7e120&oh=00_AQHabOex9wJ9yJ2HMeLiY31HcdYlk8UTyTDwz-0ZEOS2sw&oe=6A8EE8FC"
+image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/774924867_122193962306771552_2624305572446974141_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WCGtzXgVoBsQ7kNvwEB0Nxu&_nc_oc=AdpGt4v8x13xH_qtvu6zruXNn3dKZ_drkDU98frqjZ5lXMQtnxE3C5t9shmCXjwfg9Q&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=iC1nAXkraZ-ooba2VwgWjg&_nc_ss=7e120&oh=00_AQL1lrNCq1cpE2wNIoekpvo3YJKLlPexccPxbJdSvnJk4g&oe=6A9C17FC"
 feedback_id: "ZmVlZGJhY2s6MTIyMTkzOTYyNDMyNzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 「未來的某一天，Anthropic 可能會成為全球唯一的私營企業，剩下的就只有各國政府。」
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02mR76tkoWZE7MyZykCsbXYMxFH6QDqRBamMdwUHg7cGVNBFgkJddAXF9QR694mPKkl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02mWF8YLbE6yQVPmLb8BfMRSvadMsuQ5y7tcX7tw7d5R5te4HvJPzcrbYVqPCasGh5l&id=61573146584049
 
-![「未來的某一天，Anthropic 可能會成為全球唯一的私營企業，剩下的就只有各國政府。」](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/774924867_122193962306771552_2624305572446974141_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=POLhEv1l2JsQ7kNvwFUS5tp&_nc_oc=Adrw6r8ZJq9BEZ6B3iKi2Ya2buHiuz5ITs8ZgumgnVwwu9r25UcmY_IjWQ_dPl7p2ho&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Aw9TQvq2u9eyFij1I2aMAw&_nc_ss=7e120&oh=00_AQHabOex9wJ9yJ2HMeLiY31HcdYlk8UTyTDwz-0ZEOS2sw&oe=6A8EE8FC)
+![「未來的某一天，Anthropic 可能會成為全球唯一的私營企業，剩下的就只有各國政府。」](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/774924867_122193962306771552_2624305572446974141_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WCGtzXgVoBsQ7kNvwEB0Nxu&_nc_oc=AdpGt4v8x13xH_qtvu6zruXNn3dKZ_drkDU98frqjZ5lXMQtnxE3C5t9shmCXjwfg9Q&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=iC1nAXkraZ-ooba2VwgWjg&_nc_ss=7e120&oh=00_AQL1lrNCq1cpE2wNIoekpvo3YJKLlPexccPxbJdSvnJk4g&oe=6A9C17FC)
 「未來的某一天，Anthropic 可能會成為全球唯一的私營企業，剩下的就只有各國政府。」
 ​
 知名投資人 Gavin Baker 在 All-In Podcast 上表示，他從多個可靠管道獲悉，Anthropic CEO Dario Amodei 曾在內部說過這句話。

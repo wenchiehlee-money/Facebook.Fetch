@@ -4,22 +4,22 @@ title: "在韓國的SK Hynix廠區，SK集團會長崔泰源談記憶體現況�
 page_title: ""
 requested_url: "https://www.facebook.com/intleconobserve"
 final_url: "https://www.facebook.com/intleconobserve"
-post_url: "https://www.facebook.com/intleconobserve/posts/pfbid035WPjxsYDmyjuY3q2VbMDNELP6yCsJBjijEESfBRrdfYgBwbUZN6bS7F6xXgSHTeol"
+post_url: "https://www.facebook.com/intleconobserve/posts/pfbid03554kj2Wis2MD7RbnUe8ca58rXTGSnk5AT5dYBDDKumAZ2WvZGWJLuBijJgPYbaJ5l"
 creation_time_utc: "2026-08-15T02:24:52+00:00"
-fetched_at_utc: "2026-08-16T02:25:12.149877+00:00"
+fetched_at_utc: "2026-09-01T04:43:32.511067+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/773339205_1580992506718705_9093259856830378344_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Rckpjrl9HiMQ7kNvwEPXkTi&_nc_oc=AdrslIA61dzpgc0_6nSJX0BAtrkUBmjcQU4Iv8uAqmBY_K-GCM7a0XRCoKWO6AtjqaA&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=pQ_RhXy3YmMOnaXMZz_P-A&_nc_ss=7e120&oh=00_AQETLb7DwZVwXCuf6D6S-bM9HVF2_AOh29pZsHyJ_awVqA&oe=6A86E069"
+image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/773339205_1580992506718705_9093259856830378344_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sX3NQi451JUQ7kNvwGTXQmq&_nc_oc=AdoTlapXPZy8038lLkjnJy1fqOEwCwS9feVKctEQLPRAJ2dspRqHmiFyRuWV_g9HY8Q&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=X4j2pisMDXzElSg1Rxu9iA&_nc_ss=7e120&oh=00_AQJZnLdJQu02XQ-mle7N-Kc91sA6y6rlqkrr0J4MkXy7tQ&oe=6A9C30A9"
 feedback_id: "ZmVlZGJhY2s6MTU4MTAwMzE1MDA1MDk3NA=="
 page_canonical_url: ""
 ---
 
 # 在韓國的SK Hynix廠區，SK集團會長崔泰源談記憶體現況與展望，也談到了晶片通膨的問題
 
-原文連結: https://www.facebook.com/intleconobserve/posts/pfbid035WPjxsYDmyjuY3q2VbMDNELP6yCsJBjijEESfBRrdfYgBwbUZN6bS7F6xXgSHTeol
+原文連結: https://www.facebook.com/intleconobserve/posts/pfbid03554kj2Wis2MD7RbnUe8ca58rXTGSnk5AT5dYBDDKumAZ2WvZGWJLuBijJgPYbaJ5l
 
-![在韓國的SK Hynix廠區，SK集團會長崔泰源談記憶體現況與展望，也談到了晶片通膨的問題](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/773339205_1580992506718705_9093259856830378344_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Rckpjrl9HiMQ7kNvwEPXkTi&_nc_oc=AdrslIA61dzpgc0_6nSJX0BAtrkUBmjcQU4Iv8uAqmBY_K-GCM7a0XRCoKWO6AtjqaA&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=pQ_RhXy3YmMOnaXMZz_P-A&_nc_ss=7e120&oh=00_AQETLb7DwZVwXCuf6D6S-bM9HVF2_AOh29pZsHyJ_awVqA&oe=6A86E069)
+![在韓國的SK Hynix廠區，SK集團會長崔泰源談記憶體現況與展望，也談到了晶片通膨的問題](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/773339205_1580992506718705_9093259856830378344_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sX3NQi451JUQ7kNvwGTXQmq&_nc_oc=AdoTlapXPZy8038lLkjnJy1fqOEwCwS9feVKctEQLPRAJ2dspRqHmiFyRuWV_g9HY8Q&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=X4j2pisMDXzElSg1Rxu9iA&_nc_ss=7e120&oh=00_AQJZnLdJQu02XQ-mle7N-Kc91sA6y6rlqkrr0J4MkXy7tQ&oe=6A9C30A9)
 在韓國的SK Hynix廠區，SK集團會長崔泰源談記憶體現況與展望，也談到了晶片通膨的問題
 
 「現在是AI時代，人們需要大量記憶體，AI也一樣。」他說。「我認為現在的AI就像個小孩子，才四歲。但隨著它成長，它會需要更多功能、需要大量經驗與知識，而這些知識必須儲存在某個地方，就像人類一樣。」

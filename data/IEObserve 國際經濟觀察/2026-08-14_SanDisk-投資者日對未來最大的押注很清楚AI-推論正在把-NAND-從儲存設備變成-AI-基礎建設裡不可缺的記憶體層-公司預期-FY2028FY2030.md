@@ -4,22 +4,22 @@ title: "SanDisk 投資者日對未來最大的押注很清楚：AI 推論正在�
 page_title: ""
 requested_url: "https://www.facebook.com/intleconobserve"
 final_url: "https://www.facebook.com/intleconobserve"
-post_url: "https://www.facebook.com/intleconobserve/posts/pfbid0b3MXKh5NSMa6unUvf48vRENWqdPT9PfKg51UCPgnqWBHv5vhh9PEJGTxrnW7vrY2l"
+post_url: "https://www.facebook.com/intleconobserve/posts/pfbid0auq4MMMLXXhgop4MNw3qwX8xzJFf6i8CFFX6cWMsyoJPi7BqWJKt7FyDduqKQwUEl"
 creation_time_utc: "2026-08-14T02:07:44+00:00"
-fetched_at_utc: "2026-08-14T03:28:10.618975+00:00"
+fetched_at_utc: "2026-09-01T04:43:32.511067+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/773450445_1580141193470503_145554296022994242_n.jpg?stp=cp6_dst-jpg_s640x640_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xI6E83UIMVEQ7kNvwF0y9aC&_nc_oc=AdoRv6lKMVSVfAQVWA47sqdTeKDwtPm1rtQDldSRAo1rsESLapFl0qp8xVD65S4kBEQ&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=TOcyBzu203GGWeN4uQYclA&_nc_ss=7e120&oh=00_AQEaw6tYzfPY2qGtZvDkc58YnVbId79-bwE8DLTTtE4HnQ&oe=6A844C3C"
+image_url: "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/773450445_1580141193470503_145554296022994242_n.jpg?stp=cp6_dst-jpg_s640x640_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=z24bjKbfHyAQ7kNvwHef0ZK&_nc_oc=AdpN_kRm-n-gH0ztVV2ejS081ZwOt-kwmD5g1OLW9gXMIENp37126NGSQcYYeGkuyRI&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=tXRXjj_ImWWZEBiYzBbyNQ&_nc_ss=7e120&oh=00_AQLIp3XfA0LiPDwp2bxxUYBEEBPP0Wh4Lzfi6pXyDUnNKA&oe=6A9C3F7C"
 feedback_id: "ZmVlZGJhY2s6MTU4MDE0MTI0NjgwMzgzMQ=="
 page_canonical_url: ""
 ---
 
 # SanDisk 投資者日對未來最大的押注很清楚：AI 推論正在把 NAND 從儲存設備，變成 AI 基礎建設裡不可缺的記憶體層。 公司預期 FY2028～FY2030 營收維持mid to high teens成長、毛利率約 80%、營業利益率約 75%、自由現金流率約 50%，而且這還完全沒把 HBF 營收算進去。
 
-原文連結: https://www.facebook.com/intleconobserve/posts/pfbid0b3MXKh5NSMa6unUvf48vRENWqdPT9PfKg51UCPgnqWBHv5vhh9PEJGTxrnW7vrY2l
+原文連結: https://www.facebook.com/intleconobserve/posts/pfbid0auq4MMMLXXhgop4MNw3qwX8xzJFf6i8CFFX6cWMsyoJPi7BqWJKt7FyDduqKQwUEl
 
-![SanDisk 投資者日對未來最大的押注很清楚：AI 推論正在把 NAND 從儲存設備，變成 AI 基礎建設裡不可缺的記憶體層。 公司預期 FY2028～FY2030 營收維持mid to high teens成長、毛利率約 80%、營業利益率約 75%、自由現金流率約 50%，而且這還完全沒把 HBF 營收算進去。](https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/773450445_1580141193470503_145554296022994242_n.jpg?stp=cp6_dst-jpg_s640x640_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xI6E83UIMVEQ7kNvwF0y9aC&_nc_oc=AdoRv6lKMVSVfAQVWA47sqdTeKDwtPm1rtQDldSRAo1rsESLapFl0qp8xVD65S4kBEQ&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=TOcyBzu203GGWeN4uQYclA&_nc_ss=7e120&oh=00_AQEaw6tYzfPY2qGtZvDkc58YnVbId79-bwE8DLTTtE4HnQ&oe=6A844C3C)
+![SanDisk 投資者日對未來最大的押注很清楚：AI 推論正在把 NAND 從儲存設備，變成 AI 基礎建設裡不可缺的記憶體層。 公司預期 FY2028～FY2030 營收維持mid to high teens成長、毛利率約 80%、營業利益率約 75%、自由現金流率約 50%，而且這還完全沒把 HBF 營收算進去。](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/773450445_1580141193470503_145554296022994242_n.jpg?stp=cp6_dst-jpg_s640x640_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=z24bjKbfHyAQ7kNvwHef0ZK&_nc_oc=AdpN_kRm-n-gH0ztVV2ejS081ZwOt-kwmD5g1OLW9gXMIENp37126NGSQcYYeGkuyRI&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=tXRXjj_ImWWZEBiYzBbyNQ&_nc_ss=7e120&oh=00_AQLIp3XfA0LiPDwp2bxxUYBEEBPP0Wh4Lzfi6pXyDUnNKA&oe=6A9C3F7C)
 SanDisk 投資者日對未來最大的押注很清楚：AI 推論正在把 NAND 從儲存設備，變成 AI 基礎建設裡不可缺的記憶體層。 公司預期 FY2028～FY2030 營收維持mid to high teens成長、毛利率約 80%、營業利益率約 75%、自由現金流率約 50%，而且這還完全沒把 HBF 營收算進去。
 
 背後有三個核心：

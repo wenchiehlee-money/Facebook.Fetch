@@ -4,22 +4,22 @@ title: "美國晨星每年發表的Diversification Landscape，是一個定期�
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02sYG2PF3CeiY7PENA1sjGHJb9xCGtQCJdsKCgCKnZ3hedotdq1mcsTTDi7yu8cFDBl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02sVkY4ToC1rtbUayjDsi2gFqjnAqqv1Nqjoczx5PosdWzsxJv4RYyVMZHuMd3GySWl"
 creation_time_utc: "2026-08-26T00:59:08+00:00"
-fetched_at_utc: "2026-08-26T07:52:27.224508+00:00"
+fetched_at_utc: "2026-09-01T04:40:33.930105+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/786492855_1488500599750002_8300684402961279004_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3l9As29tpy4Q7kNvwF0E3Sn&_nc_oc=AdotUYQKdWv5UF5M1T6FL3tR5XeenzqhyFcXI4yUB6RWL6GllfbOaErE4Di2v6oXoQc&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=WsieXesLBydqde5GrWZw5A&_nc_ss=7e120&oh=00_AQGaD5HvuWCrOm1kbxRBmdtIAnuyOIJN4bfcxZ90CKS-Tg&oe=6A947A0C"
+image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/786492855_1488500599750002_8300684402961279004_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ys8cRzCGddEQ7kNvwHb40kd&_nc_oc=AdpJmRg6K_WMor-JzYDipD8hcjE_1EGowphQCIFai59Cs6nlZS1RJSXjDi0divYwuZw&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=s8EJZWNJE9NShHU4q9IUog&_nc_ss=7e120&oh=00_AQKva6KVOESgHkeYF1IotRaXubok8QGYPbmIapTXVyAXVw&oe=6A9C2ACC"
 feedback_id: "ZmVlZGJhY2s6MTQ4ODUwMTQyNjQxNjU4Ng=="
 page_canonical_url: ""
 ---
 
 # 美國晨星每年發表的Diversification Landscape，是一個定期檢視資產配置成果，與資產類別間相關性的報告。很有參考價值。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02sYG2PF3CeiY7PENA1sjGHJb9xCGtQCJdsKCgCKnZ3hedotdq1mcsTTDi7yu8cFDBl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02sVkY4ToC1rtbUayjDsi2gFqjnAqqv1Nqjoczx5PosdWzsxJv4RYyVMZHuMd3GySWl
 
-![美國晨星每年發表的Diversification Landscape，是一個定期檢視資產配置成果，與資產類別間相關性的報告。很有參考價值。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/786492855_1488500599750002_8300684402961279004_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3l9As29tpy4Q7kNvwF0E3Sn&_nc_oc=AdotUYQKdWv5UF5M1T6FL3tR5XeenzqhyFcXI4yUB6RWL6GllfbOaErE4Di2v6oXoQc&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=WsieXesLBydqde5GrWZw5A&_nc_ss=7e120&oh=00_AQGaD5HvuWCrOm1kbxRBmdtIAnuyOIJN4bfcxZ90CKS-Tg&oe=6A947A0C)
+![美國晨星每年發表的Diversification Landscape，是一個定期檢視資產配置成果，與資產類別間相關性的報告。很有參考價值。](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/786492855_1488500599750002_8300684402961279004_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ys8cRzCGddEQ7kNvwHb40kd&_nc_oc=AdpJmRg6K_WMor-JzYDipD8hcjE_1EGowphQCIFai59Cs6nlZS1RJSXjDi0divYwuZw&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=s8EJZWNJE9NShHU4q9IUog&_nc_ss=7e120&oh=00_AQKva6KVOESgHkeYF1IotRaXubok8QGYPbmIapTXVyAXVw&oe=6A9C2ACC)
 美國晨星每年發表的Diversification Landscape，是一個定期檢視資產配置成果，與資產類別間相關性的報告。很有參考價值。
 
 報告中，晨星使用一個囊括11種資產的投資組合。基本上也是股債比60:40。使用的資產類別與比率可見原文中的表格。
