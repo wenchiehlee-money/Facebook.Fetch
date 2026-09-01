@@ -81,9 +81,42 @@ FB_COOKIE / FB_DTSG 省略 `--cookie`/`--fb-dtsg` 時會自動從環境變數或
    python skills/skill-facebook-fetch/scripts/update_fb_cookie.py --cookie "<cookie 字串>" --fb-dtsg "<fb_dtsg>"
    ```
    此腳本會更新 GitHub Secrets `FB_COOKIE`、`FB_DTSG` 並自動觸發 `daily_fetch.yml`。
-   （若本機 Chrome 有以 `--remote-debugging-port=9222` 啟動，
-   直接執行 `python skills/skill-facebook-fetch/scripts/update_fb_cookie.py` 不帶參數，
-   腳本會自動透過 CDP WebSocket 擷取 cookie/fb_dtsg，不需要 MCP。）
+   跑完後務必把新值同步寫回本機 `.env`（`run_daily_fetch.py`/`fetch_facebook_posts.py`
+   省略 `--cookie`/`--fb-dtsg` 時是讀 `.env`，GitHub Secret 更新了不代表本機 `.env` 也跟著換新）。
+
+### CDP WebSocket 自動擷取（免 MCP，優先走這條）
+
+若 `mcp__chrome-devtools__*` 這個 session 連不上（`ToolSearch` 回報 `CONNECT_TIMEOUT`；
+MCP 連線只在 session 啟動時建立一次，這個 session 內重試沒用，需要重啟 Claude Code
+才會重新握手），改用本機 Chrome DevTools Protocol：
+
+**重要（Chrome 136+ 的變更）：** 直接用使用者「預設 profile」啟動 Chrome 並帶
+`--remote-debugging-port=9222` 現在會被**靜默忽略**（安全機制，防止遠端調試劫持真實登入
+profile）——`curl http://127.0.0.1:9222/json` 會連不上，且不會有任何錯誤訊息，容易誤判成
+「埠沒生效」。必須改用**獨立 `--user-data-dir`** 才能讓偵錯埠生效：
+
+```bash
+# Windows / PowerShell：先確認沒有既有 chrome.exe 用同一個 user-data-dir（不用先關掉使用者原本的 Chrome，
+# 因為這裡用的是全新獨立 profile 目錄，兩者不衝突）
+powershell -Command "New-Item -ItemType Directory -Force -Path 'C:\Users\WJLEE\AppData\Local\Temp\claude-chrome-debug-profile' | Out-Null; Start-Process 'C:\Program Files\Google\Chrome\Application\chrome.exe' -ArgumentList '--remote-debugging-port=9222','--user-data-dir=C:\Users\WJLEE\AppData\Local\Temp\claude-chrome-debug-profile','https://www.facebook.com'"
+```
+
+這會開一個全新、乾淨的 Chrome 視窗（獨立 profile，不影響使用者原本登入的 Chrome）。
+使用者需要在**這個新視窗**裡手動登入一次 Facebook（帳密/2FA 一律由使用者自己輸入，
+不要代為操作）。登入完成後：
+
+```bash
+curl -s -m 3 -o /dev/null -w "http_code=%{http_code}\n" http://127.0.0.1:9222/json
+# 200 才代表偵錯埠生效；000 代表還沒 ready 或又被忽略了，稍等或重新確認 user-data-dir 參數有帶到
+```
+
+確認 200 之後，執行不帶參數的 `update_fb_cookie.py`，它會自動透過 CDP WebSocket
+擷取 cookie/fb_dtsg、更新 GitHub Secrets、觸發 `daily_fetch.yml`：
+```bash
+python skills/skill-facebook-fetch/scripts/update_fb_cookie.py
+```
+跑完一樣要手動把新的 cookie/fb_dtsg 同步寫回 `.env`（腳本目前只更新 GitHub Secret，
+不會自動改本機 `.env`）。
 
 ## 已知問題與排查
 

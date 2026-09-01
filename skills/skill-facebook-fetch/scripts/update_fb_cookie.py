@@ -21,12 +21,29 @@ Secondary method — Chrome CDP WebSocket (Automatic local run):
   automatically connect to it via WebSocket, retrieve cookies, evaluate fb_dtsg
   CSRF token, update GitHub secrets, and trigger the fetch workflow.
 
+  IMPORTANT (Chrome 136+): launching Chrome with --remote-debugging-port on the
+  user's DEFAULT profile is silently ignored (security hardening against remote
+  debugging hijack of a real logged-in profile) — port 9222 will just refuse
+  connections with no error. You must launch with a dedicated --user-data-dir:
+
+    Start-Process chrome.exe -ArgumentList \
+      '--remote-debugging-port=9222', \
+      '--user-data-dir=<some empty temp dir>', \
+      'https://www.facebook.com'
+
+  Then log into Facebook manually in that fresh window before running this script.
+
 Usage:
-  # Fully Automatic (requires Chrome running with --remote-debugging-port=9222):
+  # Fully Automatic (requires Chrome running with --remote-debugging-port=9222
+  # AND a dedicated --user-data-dir, see above):
   python skills/skill-facebook-fetch/scripts/update_fb_cookie.py
 
   # MCP-assisted / CLI argument:
   python skills/skill-facebook-fetch/scripts/update_fb_cookie.py --cookie "<raw cookie>" [--fb-dtsg "<token>"]
+
+Note: this script only updates the GitHub Secrets (FB_COOKIE/FB_DTSG) and
+triggers daily_fetch.yml. It does NOT touch the local .env — if you also run
+fetches locally, update .env's FB_COOKIE/FB_DTSG by hand after this runs.
 """
 
 from __future__ import annotations
@@ -257,7 +274,10 @@ def main() -> int:
         cookie, fb_dtsg = cdp_result
         return _apply(cookie, fb_dtsg)
 
-    print("\n  自動擷取失敗。請改用 Chrome DevTools MCP 流程"
+    print("\n  自動擷取失敗。注意：Chrome 136+ 用「預設 profile」開 "
+          "--remote-debugging-port=9222 會被靜默忽略（不會報錯，埠就是連不上）。"
+          "請改用獨立 --user-data-dir 重開 Chrome 並登入 Facebook 後再試一次，"
+          "或改走 Chrome DevTools MCP 流程"
           "（見 SKILL.md「更新 Cookie 流程」）取得 cookie/fb_dtsg，"
           "再帶 --cookie/--fb-dtsg 參數執行本腳本。")
     return 1
