@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/dextermchang",
   "final_url": "https://www.facebook.com/dextermchang",
-  "fetched_at_utc": "2026-09-01T04:38:01.985558+00:00",
+  "fetched_at_utc": "2026-09-01T06:12:25.134832+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,21 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 26,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "122137611867207208",
-    "122134260411207208"
-  ],
-  "new_markdown_files": [
-    "data/大會計師 張明輝/2026-09-01_輝達-明年營收可能暴增70但運算主機櫃數量卻未必依此比例增加最驚人的是70以上的高毛利率還守得住.md",
-    "data/大會計師 張明輝/2026-08-03_高明的溝通術微軟-財務長用一句話讓股價應聲大漲.md"
-  ],
+  "checked_post_count": 3,
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/大會計師 張明輝",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 26 篇貼文。",
+    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
