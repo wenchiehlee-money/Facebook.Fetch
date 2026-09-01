@@ -1,0 +1,45 @@
+{
+  "requested_url": "https://www.facebook.com/profile.php?id=61573992511738",
+  "final_url": "https://www.facebook.com/profile.php?id=61573992511738",
+  "fetched_at_utc": "2026-09-01T04:55:29.532839+00:00",
+  "page": {
+    "title": null,
+    "description": null,
+    "canonical_url": null,
+    "image": null,
+    "follower_count": null
+  },
+  "checked_post_count": 9,
+  "new_post_count": 9,
+  "new_post_ids": [
+    "122191332200799750",
+    "122191286378799750",
+    "122188953632799750",
+    "122186398604799750",
+    "122186300924799750",
+    "122186198858799750",
+    "122185316810799750",
+    "122185194992799750",
+    "122185171562799750"
+  ],
+  "new_markdown_files": [
+    "data\\郭明錤Ming-Chi Kuo\\2026-09-01_聯發科最新公告宣布深化與-Nvidia-的長期合作其中反覆出現的rack-scale正是理解這份公告的關鍵也直接驗證了我兩個多月前研究的核心判斷.md",
+    "data\\郭明錤Ming-Chi Kuo\\2026-08-31_正當市場認為-Rubin-CPX-已被-Nvidia-從產品藍圖中移除之際我最新的產業調查顯示Nvidia-已重啟-Rubin-CPX預計於-1Q27-開始生產.md",
+    "data\\郭明錤Ming-Chi Kuo\\2026-08-10_市場近期傳聞台積電因-DRAM-供應緊張囤積約-10-億美元的-Apple-2nm-處理器半成品傳聞稱為處理器晶圓無法封裝並以台積電-2Q26-法說提到庫存天數.md",
+    "data\\郭明錤Ming-Chi Kuo\\2026-07-17_簡要評論台積電-Q2-2026-法說中關於-CoPoS-的部分截圖自逐字稿魔鬼都在細節中.md",
+    "data\\郭明錤Ming-Chi Kuo\\2026-07-16_在瞬息萬變的科技產業有沒有什麼產業調查數據即便經過半年不更新仍能比市場共識更貼近公司展望這很少見但以下是一個經得起考驗且多少帶點運氣成分的例子.md",
+    "data\\郭明錤Ming-Chi Kuo\\2026-07-15_我較少公開預測股價趨勢產業研究與股價預測是完全不同的兩回事一個近期少見的例子是我在-WWDC26-前指出正向看待-Apple-在-2H26-股價趨勢且...無論.md",
+    "data\\郭明錤Ming-Chi Kuo\\2026-07-07_Goldman-Sachs-在-7-月-6-日發布調升-Nittobo-評等到買進的報告其中一個核心理由是保守看待台積電的玻璃核心載板glass-core-su.md",
+    "data\\郭明錤Ming-Chi Kuo\\2026-07-05_在本訪談中Amazon-硬體主管-Panos-Panay-提到該公司正在為部分自家裝置設計自研晶片end-to-end-silicon且目前仍向其他公司外購晶片.md",
+    "data\\郭明錤Ming-Chi Kuo\\2026-07-05_折疊-iPhone-可能重演-iPhone-X-劇本同場發布較晚開賣供應吃緊延續至年底.md"
+  ],
+  "removed_markdown_files": [],
+  "posts_directory": "data\\郭明錤Ming-Chi Kuo",
+  "notes": [
+    "Facebook 公開頁面的 HTML 結構很常變動。",
+    "本次已成功用公開 GraphQL 擷取到 9 篇貼文。",
+    "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
+    "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+  ]
+}
