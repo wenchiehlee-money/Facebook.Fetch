@@ -4,22 +4,22 @@ title: "🚀 $NBIS：Vineland 電力方案落地，AI Data Center 建置進入�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
 final_url: "https://www.facebook.com/profile.php?id=61565088683715"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0D6Wajbe6Hntaoe4HrzrXV8WXeUg4h4mDBbBBpBYvcg31zvoJi8Ed1meThDi2X11Gl&id=61565088683715"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02GpRpwvqtEYkFEBnyHN8TLgg1XoyBZXGYwgcRXaNSWmRGrgkcfBEjKSMAWUKrenjxl&id=61565088683715"
 creation_time_utc: "2026-08-12T13:40:30+00:00"
-fetched_at_utc: "2026-08-13T03:31:16.502191+00:00"
+fetched_at_utc: "2026-09-01T04:44:49.974389+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/765929388_122224436246502956_825320060301924648_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ViItL0mQCpIQ7kNvwFtTkw7&_nc_oc=Adrs1RAbXUKjzkq2v1QuCLCIi1nIAhxFa7LtZJh7KLaRLpgrtx2e0TB2TvgCyyRhTSM&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=7pDcydJ0wI_w-FaaWNPhSA&_nc_ss=7e120&oh=00_AQGIO0IsWLTzDaUdJYargWIGLtVNrnhWGBfFe3DyfR--Bw&oe=6A830386"
+image_url: "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/765929388_122224436246502956_825320060301924648_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3mAXpfNQ3CQQ7kNvwHBnh13&_nc_oc=AdqGboVGWJzg6S3H3hnxXI8HQXVgX1nFg_bS1IjR2haXqzNy1koDPM2m9L2rOurC5rQ&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=_mFKmZyxXj-8zgo5l-Vo2w&_nc_ss=7e120&oh=00_AQL3dWFAAty4OoIhlZotfLEVYO00lFKJ1cLe39OVxfZnPA&oe=6A9C1006"
 feedback_id: "ZmVlZGJhY2s6MTIyMjI0NDM1ODc0NTAyOTU2"
 page_canonical_url: ""
 ---
 
 # 🚀 $NBIS：Vineland 電力方案落地，AI Data Center 建置進入最後階段
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0D6Wajbe6Hntaoe4HrzrXV8WXeUg4h4mDBbBBpBYvcg31zvoJi8Ed1meThDi2X11Gl&id=61565088683715
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02GpRpwvqtEYkFEBnyHN8TLgg1XoyBZXGYwgcRXaNSWmRGrgkcfBEjKSMAWUKrenjxl&id=61565088683715
 
-![🚀 $NBIS：Vineland 電力方案落地，AI Data Center 建置進入最後階段](https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/765929388_122224436246502956_825320060301924648_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ViItL0mQCpIQ7kNvwFtTkw7&_nc_oc=Adrs1RAbXUKjzkq2v1QuCLCIi1nIAhxFa7LtZJh7KLaRLpgrtx2e0TB2TvgCyyRhTSM&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=7pDcydJ0wI_w-FaaWNPhSA&_nc_ss=7e120&oh=00_AQGIO0IsWLTzDaUdJYargWIGLtVNrnhWGBfFe3DyfR--Bw&oe=6A830386)
+![🚀 $NBIS：Vineland 電力方案落地，AI Data Center 建置進入最後階段](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/765929388_122224436246502956_825320060301924648_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3mAXpfNQ3CQQ7kNvwHBnh13&_nc_oc=AdqGboVGWJzg6S3H3hnxXI8HQXVgX1nFg_bS1IjR2haXqzNy1koDPM2m9L2rOurC5rQ&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=_mFKmZyxXj-8zgo5l-Vo2w&_nc_ss=7e120&oh=00_AQL3dWFAAty4OoIhlZotfLEVYO00lFKJ1cLe39OVxfZnPA&oe=6A9C1006)
 🚀 $NBIS：Vineland 電力方案落地，AI Data Center 建置進入最後階段
 ⚡ Bloom 解決電力瓶頸，且預計不影響時程
 NBIS Vineland 專案已改採 Bloom Energy 的現場燃料電池供電，核心意義不是單純更換電力供應商，而是透過 on-site power 降低對傳統電網供電與擴建的依賴，直接處理 AI Data Center 最關鍵的「電力取得」問題。

@@ -4,22 +4,22 @@ title: "《花錢的藝術》 (The Art of Spending Money)作者Morgan Housel提�
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0GB53vfYuh4vNHSRexVncCLFaWpjvFrGUy9UbyDzoH8bdhrJhU8u1znT3kqY5jDGhl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0GDhbFU6cbwsBcj7pV1oaNSNNHnxDfHTPSvhrujRMgv37wVzTorP4HdaEtTM3DX2tl"
 creation_time_utc: "2026-08-15T00:45:31+00:00"
-fetched_at_utc: "2026-08-16T02:24:48.603166+00:00"
+fetched_at_utc: "2026-09-01T04:40:33.930105+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/773624348_1479150787351650_1206552163410520129_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0uJYqb-9fCoQ7kNvwG3u0wE&_nc_oc=AdrnLwgPtJdvZ1kedytetXL615jzPjW6bxAj7TyDnycOVBIn1FlMtb3yv-nqOcF7deE&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=PDtaqnq4WWsJKhjHSthB3A&_nc_ss=7e120&oh=00_AQFKtyoXWgpS9KUKPMdR3gImEmG_cQx8Yp3OTVRDAvpJ6g&oe=6A86DCDD"
+image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/773624348_1479150787351650_1206552163410520129_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=RyL1vyp5uP8Q7kNvwExqxZ3&_nc_oc=AdpxiaTSZPtoSMSgZqAv_1DThcgKB4tJxSZQa7t7gUhOKRXIxIooTLKYtThVV9wEgTg&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=oCNc-Z6QNIaCpLbMYWzKew&_nc_ss=7e120&oh=00_AQKpLnmFe4zgD14U51f5G3_nuC-pfZ5JdL5pQnAZ3iGxVQ&oe=6A9C2D1D"
 feedback_id: "ZmVlZGJhY2s6MTQ3OTE1MDkwNDAxODMwNQ=="
 page_canonical_url: ""
 ---
 
 # 《花錢的藝術》 (The Art of Spending Money)作者Morgan Housel提到，人花錢一般有兩個目的，
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0GB53vfYuh4vNHSRexVncCLFaWpjvFrGUy9UbyDzoH8bdhrJhU8u1znT3kqY5jDGhl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0GDhbFU6cbwsBcj7pV1oaNSNNHnxDfHTPSvhrujRMgv37wVzTorP4HdaEtTM3DX2tl
 
-![《花錢的藝術》 (The Art of Spending Money)作者Morgan Housel提到，人花錢一般有兩個目的，](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/773624348_1479150787351650_1206552163410520129_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0uJYqb-9fCoQ7kNvwG3u0wE&_nc_oc=AdrnLwgPtJdvZ1kedytetXL615jzPjW6bxAj7TyDnycOVBIn1FlMtb3yv-nqOcF7deE&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=PDtaqnq4WWsJKhjHSthB3A&_nc_ss=7e120&oh=00_AQFKtyoXWgpS9KUKPMdR3gImEmG_cQx8Yp3OTVRDAvpJ6g&oe=6A86DCDD)
+![《花錢的藝術》 (The Art of Spending Money)作者Morgan Housel提到，人花錢一般有兩個目的，](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/773624348_1479150787351650_1206552163410520129_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=RyL1vyp5uP8Q7kNvwExqxZ3&_nc_oc=AdpxiaTSZPtoSMSgZqAv_1DThcgKB4tJxSZQa7t7gUhOKRXIxIooTLKYtThVV9wEgTg&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=oCNc-Z6QNIaCpLbMYWzKew&_nc_ss=7e120&oh=00_AQKpLnmFe4zgD14U51f5G3_nuC-pfZ5JdL5pQnAZ3iGxVQ&oe=6A9C2D1D)
 《花錢的藝術》 (The Art of Spending Money)作者Morgan Housel提到，人花錢一般有兩個目的，
 
 第一是為自己帶來某種方便或用途(Utility)。第二是向旁人釋放訊號。

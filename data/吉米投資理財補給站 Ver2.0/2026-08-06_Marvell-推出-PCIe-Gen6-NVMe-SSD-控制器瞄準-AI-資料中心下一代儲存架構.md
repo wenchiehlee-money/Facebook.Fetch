@@ -4,22 +4,22 @@ title: "🚀Marvell 推出 PCIe Gen6 NVMe SSD 控制器，瞄準 AI 資料中心
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
 final_url: "https://www.facebook.com/profile.php?id=61565088683715"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02n4fX1JMmShJGipzVA4XtLwAY82GjsL2QqH8FE9G8wRWwqqGbzEaoTX6jFQhGhbxnl&id=61565088683715"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02miUZR37z5f8ZpXC3EwPzcve8335n3QCZpTCPr4z5ttYuFjRNhqRs9t1TPnEsJoXgl&id=61565088683715"
 creation_time_utc: "2026-08-06T01:09:39+00:00"
-fetched_at_utc: "2026-08-06T04:22:57.625349+00:00"
+fetched_at_utc: "2026-09-01T04:44:49.974389+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/763145219_122223705296502956_1701238365916425015_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-YkXF4x8uDkQ7kNvwFuGodi&_nc_oc=AdpLx7sK2Tsd-uUYipfIX9BM3vTMrVm15BhXaQLIWO4AZpPI6j-cZW0RSlwyLQi22tU&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=O3MiQWF0s1P_l_phZid-4A&_nc_ss=7e120&oh=00_AQFTLRdk7DGm9qSOKTkVmPrE-Z3SaPcadCuRjcaGZrRFxw&oe=6A79FA46"
+image_url: "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/763145219_122223705296502956_1701238365916425015_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KyjP5jy0tYAQ7kNvwF7P4vk&_nc_oc=AdouNR_Js9Jhec10qDvRO-ngeXNi6uBg7CwgcSNnoanUjHCGlj1qW7YHcknOFpYko6o&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=XVdw6ewf6cDTVuEvJf62Ow&_nc_ss=7e120&oh=00_AQLAi-uQ5ujUzid-JsPvPUWD2JAJM7gt_o_t10HvFoS52A&oe=6A9C4146"
 feedback_id: "ZmVlZGJhY2s6MTIyMjIzNzA1NDQ2NTAyOTU2"
 page_canonical_url: ""
 ---
 
 # 🚀Marvell 推出 PCIe Gen6 NVMe SSD 控制器，瞄準 AI 資料中心下一代儲存架構
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02n4fX1JMmShJGipzVA4XtLwAY82GjsL2QqH8FE9G8wRWwqqGbzEaoTX6jFQhGhbxnl&id=61565088683715
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02miUZR37z5f8ZpXC3EwPzcve8335n3QCZpTCPr4z5ttYuFjRNhqRs9t1TPnEsJoXgl&id=61565088683715
 
-![🚀Marvell 推出 PCIe Gen6 NVMe SSD 控制器，瞄準 AI 資料中心下一代儲存架構](https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/763145219_122223705296502956_1701238365916425015_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-YkXF4x8uDkQ7kNvwFuGodi&_nc_oc=AdpLx7sK2Tsd-uUYipfIX9BM3vTMrVm15BhXaQLIWO4AZpPI6j-cZW0RSlwyLQi22tU&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=O3MiQWF0s1P_l_phZid-4A&_nc_ss=7e120&oh=00_AQFTLRdk7DGm9qSOKTkVmPrE-Z3SaPcadCuRjcaGZrRFxw&oe=6A79FA46)
+![🚀Marvell 推出 PCIe Gen6 NVMe SSD 控制器，瞄準 AI 資料中心下一代儲存架構](https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/763145219_122223705296502956_1701238365916425015_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KyjP5jy0tYAQ7kNvwF7P4vk&_nc_oc=AdouNR_Js9Jhec10qDvRO-ngeXNi6uBg7CwgcSNnoanUjHCGlj1qW7YHcknOFpYko6o&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=XVdw6ewf6cDTVuEvJf62Ow&_nc_ss=7e120&oh=00_AQLAi-uQ5ujUzid-JsPvPUWD2JAJM7gt_o_t10HvFoS52A&oe=6A9C4146)
 🚀Marvell 推出 PCIe Gen6 NVMe SSD 控制器，瞄準 AI 資料中心下一代儲存架構
 🧠 AI 正從「GPU記憶體中心」走向「分層記憶體架構」
 Marvell 強調，未來 AI 系統不再只依賴 GPU 內建 HBM，而是採用分層記憶體架構（HBM／DRAM／NVMe SSD）。NVMe SSD 將成為高容量層級，可擴充至數十甚至數百 TB，單位成本遠低於 HBM 與 DRAM，因此在大型模型與巨量資料集場景中重要性快速提升。

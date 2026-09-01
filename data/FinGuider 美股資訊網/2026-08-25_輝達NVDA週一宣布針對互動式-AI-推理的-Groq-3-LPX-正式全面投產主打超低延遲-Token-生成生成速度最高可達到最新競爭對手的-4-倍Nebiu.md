@@ -4,22 +4,22 @@ title: "📌輝達（#NVDA）週一宣布，針對互動式 AI 推理的 #Groq 3
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid08fYdxUz1GWkiZm57c1j4WweY5JmYyWZgwWQGjhvAFhUmjAFKvysbtZhSZFKfiMMfl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid08d39dhjzdkHPEY14Nhy7Czpd2dFGqtFcYQaGubsqfuYwdsKx9ryJvuFR2wFkt9Y5l"
 creation_time_utc: "2026-08-25T02:41:51+00:00"
-fetched_at_utc: "2026-08-26T07:52:23.779734+00:00"
+fetched_at_utc: "2026-09-01T04:40:16.343391+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/786268041_1539434071560068_5983353742126727547_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=v1apbIewUhcQ7kNvwEQDhs-&_nc_oc=AdqZWXDmUHVV-3TPF304szPudqXdjkfXFO5P40gHqf0ecTVw5Ld2CGlybZTNJYFx9ZY&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=5hGYTg-wNgoikw2VmpuHYg&_nc_ss=7e120&oh=00_AQG8mExnrmr38BLlDxMuYnwoqblhz6SLNrE1xogwumidig&oe=6A945BA3"
+image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/786268041_1539434071560068_5983353742126727547_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NqtgYoPbqa8Q7kNvwEvdGO3&_nc_oc=Ado6MPlzqtVcFZtLNl6Hn3EhCnKu1tEe_3uJHZ8ppLACPXscePd3xRw90T46XuYl9Ow&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=yNE_C2EXBe9y2wvNuv0Wmw&_nc_ss=7e120&oh=00_AQJlTnShP2iJmRmEXQmqhOZuREgrZTLa1hU9P4va2WKeaA&oe=6A9C44A3"
 feedback_id: "ZmVlZGJhY2s6MTUzOTQzNjY2NDg5MzE0Mg=="
 page_canonical_url: ""
 ---
 
 # 📌輝達（#NVDA）週一宣布，針對互動式 AI 推理的 #Groq 3 LPX 正式全面投產，主打超低延遲 Token 生成，生成速度最高可達到最新競爭對手的 4 倍，Nebius（NBIS）成為首家採用 Groq 3 LPX 的 AI 雲端服務商。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid08fYdxUz1GWkiZm57c1j4WweY5JmYyWZgwWQGjhvAFhUmjAFKvysbtZhSZFKfiMMfl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid08d39dhjzdkHPEY14Nhy7Czpd2dFGqtFcYQaGubsqfuYwdsKx9ryJvuFR2wFkt9Y5l
 
-![📌輝達（#NVDA）週一宣布，針對互動式 AI 推理的 #Groq 3 LPX 正式全面投產，主打超低延遲 Token 生成，生成速度最高可達到最新競爭對手的 4 倍，Nebius（NBIS）成為首家採用 Groq 3 LPX 的 AI 雲端服務商。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/786268041_1539434071560068_5983353742126727547_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=v1apbIewUhcQ7kNvwEQDhs-&_nc_oc=AdqZWXDmUHVV-3TPF304szPudqXdjkfXFO5P40gHqf0ecTVw5Ld2CGlybZTNJYFx9ZY&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=5hGYTg-wNgoikw2VmpuHYg&_nc_ss=7e120&oh=00_AQG8mExnrmr38BLlDxMuYnwoqblhz6SLNrE1xogwumidig&oe=6A945BA3)
+![📌輝達（#NVDA）週一宣布，針對互動式 AI 推理的 #Groq 3 LPX 正式全面投產，主打超低延遲 Token 生成，生成速度最高可達到最新競爭對手的 4 倍，Nebius（NBIS）成為首家採用 Groq 3 LPX 的 AI 雲端服務商。](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/786268041_1539434071560068_5983353742126727547_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NqtgYoPbqa8Q7kNvwEvdGO3&_nc_oc=Ado6MPlzqtVcFZtLNl6Hn3EhCnKu1tEe_3uJHZ8ppLACPXscePd3xRw90T46XuYl9Ow&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=yNE_C2EXBe9y2wvNuv0Wmw&_nc_ss=7e120&oh=00_AQJlTnShP2iJmRmEXQmqhOZuREgrZTLa1hU9P4va2WKeaA&oe=6A9C44A3)
 📌輝達（#NVDA）週一宣布，針對互動式 AI 推理的 #Groq 3 LPX 正式全面投產，主打超低延遲 Token 生成，生成速度最高可達到最新競爭對手的 4 倍，Nebius（NBIS）成為首家採用 Groq 3 LPX 的 AI 雲端服務商。
 ​
 輝達指出，AI 代理的任務往往不再是「一問一答」，AI 代理需要讀取文件、調用工具、執行程式、檢查結果，再根據結果繼續推理，可能循環數百甚至數千個步驟。

@@ -4,22 +4,22 @@ title: "Salesforce（#CRM）Q2 繳出了亮眼的成績單，AI 訂單、使用�
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid0ADePe9vGrMEVo2tGAxcuPzCSsNRnay1kZiG5uQd43jphi6YSySykiRdembt68F1Pl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid02ECjcoBsptSSHw4vaV89EK6CC1dwkAhqTMcM3V4wy2ro8jfq4VMMxzdHrNg2fNBVsl"
 creation_time_utc: "2026-08-27T08:06:01+00:00"
-fetched_at_utc: "2026-08-27T11:08:27.277807+00:00"
+fetched_at_utc: "2026-09-01T04:40:16.343391+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/786141089_1541466361356839_1230744096125724896_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NwyBbEmy1ecQ7kNvwFmPAOO&_nc_oc=AdoOROgHcptWcx2ip0-Cck-UzNdw-nLKLrNpwvI8EBM2PCLnCf3BwawKMev1mdJY5RY&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=VBxkpssMBX4ZDnzahIDPfQ&_nc_ss=7e120&oh=00_AQHzt-TuirFiyqrBa9JFNBnMNbZHCHsYhLRXR8TiO7HhVw&oe=6A95D3A5"
+image_url: "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/786141089_1541466361356839_1230744096125724896_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=r_hdCSvrAjUQ7kNvwFgyrNt&_nc_oc=AdrN_q6wJCfrSTA9ezr8Ln6syptmbguLMBLBim9njLuv_gTaJUris98txr1oR9iIIsY&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=lQk8cswIQWDLZZ-G5V8YfQ&_nc_ss=7e120&oh=00_AQLCi1pbB7hQbWOBpZAAj-6mL05MkIFpxCiJ0UeCRekQiQ&oe=6A9C32E5"
 feedback_id: "ZmVlZGJhY2s6MTU0MTQ2NjgyODAyMzQ1OQ=="
 page_canonical_url: ""
 ---
 
 # Salesforce（#CRM）Q2 繳出了亮眼的成績單，AI 訂單、使用量與客戶都在擴張，讓 CEO 非常有信心的喊出「這不是 SaaSpocalypse」，並調升了 FY2027 全年營收與獲利指引，激勵盤前大漲約 +13%。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid0ADePe9vGrMEVo2tGAxcuPzCSsNRnay1kZiG5uQd43jphi6YSySykiRdembt68F1Pl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid02ECjcoBsptSSHw4vaV89EK6CC1dwkAhqTMcM3V4wy2ro8jfq4VMMxzdHrNg2fNBVsl
 
-![Salesforce（#CRM）Q2 繳出了亮眼的成績單，AI 訂單、使用量與客戶都在擴張，讓 CEO 非常有信心的喊出「這不是 SaaSpocalypse」，並調升了 FY2027 全年營收與獲利指引，激勵盤前大漲約 +13%。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/786141089_1541466361356839_1230744096125724896_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NwyBbEmy1ecQ7kNvwFmPAOO&_nc_oc=AdoOROgHcptWcx2ip0-Cck-UzNdw-nLKLrNpwvI8EBM2PCLnCf3BwawKMev1mdJY5RY&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=VBxkpssMBX4ZDnzahIDPfQ&_nc_ss=7e120&oh=00_AQHzt-TuirFiyqrBa9JFNBnMNbZHCHsYhLRXR8TiO7HhVw&oe=6A95D3A5)
+![Salesforce（#CRM）Q2 繳出了亮眼的成績單，AI 訂單、使用量與客戶都在擴張，讓 CEO 非常有信心的喊出「這不是 SaaSpocalypse」，並調升了 FY2027 全年營收與獲利指引，激勵盤前大漲約 +13%。](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/786141089_1541466361356839_1230744096125724896_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=r_hdCSvrAjUQ7kNvwFgyrNt&_nc_oc=AdrN_q6wJCfrSTA9ezr8Ln6syptmbguLMBLBim9njLuv_gTaJUris98txr1oR9iIIsY&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=lQk8cswIQWDLZZ-G5V8YfQ&_nc_ss=7e120&oh=00_AQLCi1pbB7hQbWOBpZAAj-6mL05MkIFpxCiJ0UeCRekQiQ&oe=6A9C32E5)
 Salesforce（#CRM）Q2 繳出了亮眼的成績單，AI 訂單、使用量與客戶都在擴張，讓 CEO 非常有信心的喊出「這不是 SaaSpocalypse」，並調升了 FY2027 全年營收與獲利指引，激勵盤前大漲約 +13%。
 ​
 📌Salesforce 營收年成長 11% 至 113.5 億美元，優於於分析師預期的 113.2 億，連續三季實現雙位數成長，其中 Agentforce Apps 營收年增 8% 至 71.9 億美元，Data 360、Headless Platform 與其他營收年增 20% 至 36.2 億。

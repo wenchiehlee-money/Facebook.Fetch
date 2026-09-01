@@ -4,12 +4,12 @@ title: "SambaNova強調模型頻寬利用率(MBU)，除此之外，其各種規�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid033NZGZkToo4xCY9kY9x5Q6uQnEY2oKw1oYHVEpoRiXVd68REZUUx2omPBu4Au2XVFl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid033CQGGcC4yce41MFbMLH7wQMSCvQJiVMW18NcuWXBvzDWm8J3ByU96fzS1ML1N1aVl&id=100054201473657"
 creation_time_utc: "2026-08-29T10:26:31+00:00"
-fetched_at_utc: "2026-08-30T06:31:53.662955+00:00"
+fetched_at_utc: "2026-09-01T04:42:39.947356+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid033NZGZkToo4xCY9kY9x5Q6uQnEY2oKw1oYHVEpoRiXVd68REZUUx2omPBu4Au2XVFl&id=100054201473657"
+attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid033CQGGcC4yce41MFbMLH7wQMSCvQJiVMW18NcuWXBvzDWm8J3ByU96fzS1ML1N1aVl&id=100054201473657"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTU5NzAyNjMyMjExNDA2OA=="
 page_canonical_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # SambaNova強調模型頻寬利用率(MBU)，除此之外，其各種規格、技術、架構，以2026年的標準來說是出奇的老舊，HBM2e、傳統慢速Ethernet當Scale Up Network(並非新的ESUN)，而且每套SN50系統還必須和Nvidia的H200搭配使用(連這個也不更換到B200?)，不知道Intel是要如何和SambaNova合作?
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid033NZGZkToo4xCY9kY9x5Q6uQnEY2oKw1oYHVEpoRiXVd68REZUUx2omPBu4Au2XVFl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid033CQGGcC4yce41MFbMLH7wQMSCvQJiVMW18NcuWXBvzDWm8J3ByU96fzS1ML1N1aVl&id=100054201473657
 SambaNova強調模型頻寬利用率(MBU)，除此之外，其各種規格、技術、架構，以2026年的標準來說是出奇的老舊，HBM2e、傳統慢速Ethernet當Scale Up Network(並非新的ESUN)，而且每套SN50系統還必須和Nvidia的H200搭配使用(連這個也不更換到B200?)，不知道Intel是要如何和SambaNova合作? 
 
 ------------"頻寬利用率常被誤解。SambaNova 正在說明他們在這次演講中的意義。簡言之，他們談論的不是HBM頻寬的使用量，而是模型頻寬利用率（MBU）模型。具體來說，這些數據中有多少比例用於快取資料或處理資料使用。

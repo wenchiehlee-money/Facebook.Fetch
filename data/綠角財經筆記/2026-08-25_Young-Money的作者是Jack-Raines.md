@@ -4,22 +4,22 @@ title: "Young Money的作者是Jack Raines。"
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid035NyN2PAxQFBbA6ZqiuWeDMesBo7M6jx9KqmNtQ4axyL2vqsZpjRosGxjpdcWkMVul"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid035LTshbvwmBoyEpxdMPRGdwTarhv7FqeSbjAK5BCNivT7jj1deQCYE5jxYgTnqqAql"
 creation_time_utc: "2026-08-25T01:02:39+00:00"
-fetched_at_utc: "2026-08-26T07:52:27.224508+00:00"
+fetched_at_utc: "2026-09-01T04:40:33.930105+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/783899157_1487665603166835_7815981864101920286_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BmQOkJ7zSFwQ7kNvwG_opDX&_nc_oc=AdqMTHVSTLMs6xdEwrPcGIw5m0bSjTb84q5hozFeYVMrzAqJ_DOa4QPZ0PfVhETeTFk&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=WsieXesLBydqde5GrWZw5A&_nc_ss=7e120&oh=00_AQEdT6Y3zxzxuLw7BEqVQESdvKM1fK6cjwoX8amZMtp_9g&oe=6A946D49"
+image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/783899157_1487665603166835_7815981864101920286_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=28BM0EkY8zsQ7kNvwHuDmfr&_nc_oc=Adoq6TqlhtUKM2-vT81JT9d5r38BbNJN2Bo7UUaRet9Mfspnrj8whCBvvYgIBP_gNKA&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=vCwAk0ikrQ1aboHFdzYIhw&_nc_ss=7e120&oh=00_AQLOg0YehZ9eXJHFwaR7YWJ4AOCdVaI_D7y-Nw0psjtPDg&oe=6A9C1E09"
 feedback_id: "ZmVlZGJhY2s6MTQ4NzY2NTkzOTgzMzQ2OA=="
 page_canonical_url: ""
 ---
 
 # Young Money的作者是Jack Raines。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid035NyN2PAxQFBbA6ZqiuWeDMesBo7M6jx9KqmNtQ4axyL2vqsZpjRosGxjpdcWkMVul
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid035LTshbvwmBoyEpxdMPRGdwTarhv7FqeSbjAK5BCNivT7jj1deQCYE5jxYgTnqqAql
 
-![Young Money的作者是Jack Raines。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/783899157_1487665603166835_7815981864101920286_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BmQOkJ7zSFwQ7kNvwG_opDX&_nc_oc=AdqMTHVSTLMs6xdEwrPcGIw5m0bSjTb84q5hozFeYVMrzAqJ_DOa4QPZ0PfVhETeTFk&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=WsieXesLBydqde5GrWZw5A&_nc_ss=7e120&oh=00_AQEdT6Y3zxzxuLw7BEqVQESdvKM1fK6cjwoX8amZMtp_9g&oe=6A946D49)
+![Young Money的作者是Jack Raines。](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/783899157_1487665603166835_7815981864101920286_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=28BM0EkY8zsQ7kNvwHuDmfr&_nc_oc=Adoq6TqlhtUKM2-vT81JT9d5r38BbNJN2Bo7UUaRet9Mfspnrj8whCBvvYgIBP_gNKA&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=vCwAk0ikrQ1aboHFdzYIhw&_nc_ss=7e120&oh=00_AQLOg0YehZ9eXJHFwaR7YWJ4AOCdVaI_D7y-Nw0psjtPDg&oe=6A9C1E09)
 Young Money的作者是Jack Raines。
 
 書名中雖有Money一詞，但不是只有討論年輕時的財務問題。而是在二十幾歲這個人生階段，很可能要面對的問題。譬如是否該繼續念更高的學位，還是就業。是否要跟現在的伴侶結婚。這期間其實會有一些形塑之後人生的重大決定。

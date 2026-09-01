@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-08-31T06:56:39.473300+00:00",
+  "fetched_at_utc": "2026-09-01T04:40:33.930105+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,21 +9,27 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 2,
+  "checked_post_count": 48,
+  "new_post_count": 5,
   "new_post_ids": [
-    "1492640342669361",
-    "1492112396055489"
+    "1493434295923299",
+    "1492911375975591",
+    "1486907393242656",
+    "1469954531604609",
+    "1469115655021830"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-08-30_今天八月31日對全球指數化投資人是個特別的日子在50年前的今年人類史上第一支可供一般投資人使用的指數型基金Vanguard-500-Index-Fund發行了.md",
-    "data/綠角財經筆記/2026-08-30_投資債券何必呢很貼切的表達許多投資人對債券的感覺.md"
+    "data/綠角財經筆記/2026-08-31_近期台股重大事件當屬上週五828上市公司欣興電子因涉及進口中國產半成品在台灣加工後改以標示台灣製造出口而遭檢調調查.md",
+    "data/綠角財經筆記/2026-08-31_2019一月Vanguard創辦者與指數型基金之父柏格先生去世時美國新聞報導指出他是死於食道癌.md",
+    "data/綠角財經筆記/2026-08-24_退休財務的核心問題就是要如何利用金融資產帶來長期與穩健的現金流.md",
+    "data/綠角財經筆記/2026-08-04_最常用來衡量台灣股市表現的指標是加權股價指數這個指數有自1970以來的資料.md",
+    "data/綠角財經筆記/2026-08-03_美國晨星近期發表了一篇文章呈現資產配置在2026的效果.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
+    "本次已成功用公開 GraphQL 擷取到 48 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"

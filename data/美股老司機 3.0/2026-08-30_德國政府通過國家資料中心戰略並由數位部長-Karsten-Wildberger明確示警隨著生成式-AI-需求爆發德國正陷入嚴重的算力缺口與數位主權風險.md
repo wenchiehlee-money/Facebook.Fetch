@@ -4,12 +4,12 @@ title: "德國政府通過《國家資料中心戰略》，並由數位部長 Ka
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61564607679559"
 final_url: "https://www.facebook.com/profile.php?id=61564607679559"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0UiCXuVjHjCYRKwmw5KkHGc13XQR6NM4YKA5dZPzqSWSjpbPydtNUVrixyZNMjoiil&id=61564607679559"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0UY3XcMTYud7CAksciXNuhFXD47MncnArHdvBtoJKpBibAECTcKqB98XhAasTwKJVl&id=61564607679559"
 creation_time_utc: "2026-08-30T02:07:40+00:00"
-fetched_at_utc: "2026-08-30T06:32:15.257182+00:00"
+fetched_at_utc: "2026-09-01T04:46:24.679888+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0UiCXuVjHjCYRKwmw5KkHGc13XQR6NM4YKA5dZPzqSWSjpbPydtNUVrixyZNMjoiil&id=61564607679559"
+attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0UY3XcMTYud7CAksciXNuhFXD47MncnArHdvBtoJKpBibAECTcKqB98XhAasTwKJVl&id=61564607679559"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTIyMjAwOTU0ODc0NDg2OTIy"
 page_canonical_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 德國政府通過《國家資料中心戰略》，並由數位部長 Karsten Wildberger明確示警：隨著生成式 AI 需求爆發，德國正陷入嚴重的算力缺口與數位主權風險。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0UiCXuVjHjCYRKwmw5KkHGc13XQR6NM4YKA5dZPzqSWSjpbPydtNUVrixyZNMjoiil&id=61564607679559
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0UY3XcMTYud7CAksciXNuhFXD47MncnArHdvBtoJKpBibAECTcKqB98XhAasTwKJVl&id=61564607679559
 德國政府通過《國家資料中心戰略》，並由數位部長 Karsten Wildberger明確示警：隨著生成式 AI 需求爆發，德國正陷入嚴重的算力缺口與數位主權風險。
 
 德國目前約有 15% 的資料中心容量用於 AI（約 530 MW），除了與中美兩國存在極大差距外，大部分運算資源還高度依賴外國雲端巨頭如 AWS，Microsoft，Google。

@@ -4,12 +4,12 @@ title: "📌高速傳輸晶片大廠 Astera Labs（#ALAB）財報與財測皆優
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid0M1JFYetHya3B5U4MUu8mNvWLXW55h7BVs2xDR2EoNTVcvbUV6VjK9npQzrmfEqEBl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0M94pX3DiS8cdhprzkWeMt9DPrETdHCr9oogeckMHEvcnRqQK5bWcBgSmi6bzQVF4l"
 creation_time_utc: "2026-08-05T09:15:41+00:00"
-fetched_at_utc: "2026-08-06T04:22:24.936015+00:00"
+fetched_at_utc: "2026-09-01T04:40:16.343391+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/FinGuider/posts/pfbid0M1JFYetHya3B5U4MUu8mNvWLXW55h7BVs2xDR2EoNTVcvbUV6VjK9npQzrmfEqEBl"
+attachment_url: "https://www.facebook.com/FinGuider/posts/pfbid0M94pX3DiS8cdhprzkWeMt9DPrETdHCr9oogeckMHEvcnRqQK5bWcBgSmi6bzQVF4l"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTUyMTI0NDUxMzM3OTAyNA=="
 page_canonical_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 📌高速傳輸晶片大廠 Astera Labs（#ALAB）財報與財測皆優於分析師預期，不過盤前波動不大。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid0M1JFYetHya3B5U4MUu8mNvWLXW55h7BVs2xDR2EoNTVcvbUV6VjK9npQzrmfEqEBl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0M94pX3DiS8cdhprzkWeMt9DPrETdHCr9oogeckMHEvcnRqQK5bWcBgSmi6bzQVF4l
 📌高速傳輸晶片大廠 Astera Labs（#ALAB）財報與財測皆優於分析師預期，不過盤前波動不大。
 🟢營收：3.92 億美元（YoY +104%）v.s. 3.61 億
 🟢EPS：0.8 美元（YoY +82%）v.s. 0.69 美元

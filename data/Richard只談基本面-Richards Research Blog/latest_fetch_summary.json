@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-08-31T06:57:01.393173+00:00",
+  "fetched_at_utc": "2026-09-01T04:42:39.947356+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,21 +9,38 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 1,
+  "checked_post_count": 33,
+  "new_post_count": 9,
   "new_post_ids": [
-    "1598053135344720"
+    "1591014012715299",
+    "1590990812717619",
+    "1590987739384593",
+    "1578083984008302",
+    "1575249574291743",
+    "1574641837685850",
+    "1574618364354864",
+    "1574373764379324",
+    "1573513097798724"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-08-30_Meta-的路線圖預計將推出四代加速器MTIA-300400450-和-500MTIA-400-特別被視為-Meta-的重大發展因為它引入了-FP4-支援可擴展.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-08-22_Scale-IN-近三個月出現的新名詞繼Scale-Up-Scale-Out-Scale-Across之後.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-08-22_大腦AI小腦動作.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-08-22_要理解CPO的重要性需要先了解传统光模块的局限当前数据中心中光模块如400G800G1.6T光模块通常以可插拔形式安装在交换机端口上通过铜缆与交换机芯片连接这种.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-08-07_一年前第一名現在還是第一名2Q26毛利率87超過最強的IC設計業超過大缺貨時的memory業其實是超過所有半導體業而且折舊成本比重低非資本密集而且不是循環型產業.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-08-04_1.Nvidia之前將Vera-SOCAMM-LPDDR5X容量減半現在又研究將Rubin-Ultra不是Rubin哦HBM規格不同方案的降規此外其他CSP和S.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-08-03_1.-18層寶塔都要懂.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-08-03_7月底Nvidia揭露更多Vera-CPU的細節和Benchmark評測數據整體而言和AMD及Intel-CPU比較Vera單執行緒較強總吞吐量較弱即使和現有的.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-08-03_在X上看到幾次這個估計HBMDRAM佔Hyperscaler-CAPEX比例的截圖轉貼有許多疑問例如.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-08-02_開放權種模型進步有助於企業本地AI推論擴展或者混合模型-雲端閉源大模型本地或雲端開源大模型本地開源小模型今年開源模型的能力可能已達影響企業決策的臨界點.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
+    "本次已成功用公開 GraphQL 擷取到 42 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 80 字規則排除 9 篇貼文。"
   ]
 }

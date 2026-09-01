@@ -4,9 +4,9 @@ title: "去年紙上談兵寫過幾篇Nvidia自創的NVFP4資料精度格式(改
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0nsrjmbmnoC9QSLRT164zLnohdJhUKwqvcLfGbhnVDpB136LxfLqkB4FS2KaXFdQ1l&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02rZ9Sf8RsqAdQnQmh3DxBwsTqHdQ9TQWY1ApuwXVsBLSM2z57zPnG68uLobi6SzUsl&id=100054201473657"
 creation_time_utc: "2026-08-28T15:54:07+00:00"
-fetched_at_utc: "2026-08-29T07:48:54.332429+00:00"
+fetched_at_utc: "2026-09-01T04:42:39.947356+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 去年紙上談兵寫過幾篇Nvidia自創的NVFP4資料精度格式(改良自產業標準的MXFP4)，終於在實務上看到NVFP4發揮Nvidia的競爭力所在，最新的開源Qwen 3.8 Flash-Next模型，使用NVFP4，要發揮模型其FP4精度量化效能，必須使用具備原生NVFP4的Blackwell晶片，別家晶片或NV上代Hopper都不行只能改用FP8變體
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0nsrjmbmnoC9QSLRT164zLnohdJhUKwqvcLfGbhnVDpB136LxfLqkB4FS2KaXFdQ1l&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02rZ9Sf8RsqAdQnQmh3DxBwsTqHdQ9TQWY1ApuwXVsBLSM2z57zPnG68uLobi6SzUsl&id=100054201473657
 去年紙上談兵寫過幾篇Nvidia自創的NVFP4資料精度格式(改良自產業標準的MXFP4)，終於在實務上看到NVFP4發揮Nvidia的競爭力所在，最新的開源Qwen 3.8 Flash-Next模型，使用NVFP4，要發揮模型其FP4精度量化效能，必須使用具備原生NVFP4的Blackwell晶片，別家晶片或NV上代Hopper都不行只能改用FP8變體
 
 -----------------------------------------------------------

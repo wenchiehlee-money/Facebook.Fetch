@@ -4,22 +4,22 @@ title: "柏格先生是Vanguard第一任執行長，在1996柏格退休後，接
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02STFgiLLwpenAs7z2MuZf6Kid2f2NexCMrB8oShrAiDjtj7Lr75w457raL6eWWNFgl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0P3G1mXkKA5sheUDroyKpsuPNVAQ3q7QqZWCZkijAWXCB6Dpyn4xbMxJDvqwtLgnul"
 creation_time_utc: "2026-08-26T10:49:12+00:00"
-fetched_at_utc: "2026-08-27T11:08:31.120900+00:00"
+fetched_at_utc: "2026-09-01T04:40:33.930105+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/786778356_1488825313050864_601172549607745724_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HAmou0p_WvEQ7kNvwGecq0m&_nc_oc=AdqOYwDmi0Z2m0x-RJQO89F2LDyxg5tpAM_fpLhItLXnWNiR2A6zzh7Av_NXREdaZYc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=rdlzIpybLjfdNsCw3aU62g&_nc_ss=7e120&oh=00_AQH_eyqyVnEn_mrl110WxLLasDCIhJsTwWSgJFUryTy6qA&oe=6A95D5BC"
+image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/786778356_1488825313050864_601172549607745724_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CbAAcExdpCAQ7kNvwEIyNFO&_nc_oc=Adr6_5bGM27NAyCAUfW-Wm8BVhzCDC05i-SO9dWZnGjkk_LDpTw8olO5zMDAUtRgNkI&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=s8EJZWNJE9NShHU4q9IUog&_nc_ss=7e120&oh=00_AQITLLbvH_QFrBEHDN9zzL8p833CpnB-5_pFlGwUIi4o1g&oe=6A9C34FC"
 feedback_id: "ZmVlZGJhY2s6MTQ4ODgyNzI0MzA1MDY3MQ=="
 page_canonical_url: ""
 ---
 
 # 柏格先生是Vanguard第一任執行長，在1996柏格退休後，接任的第二任執行者，是Jack Brennan。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02STFgiLLwpenAs7z2MuZf6Kid2f2NexCMrB8oShrAiDjtj7Lr75w457raL6eWWNFgl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0P3G1mXkKA5sheUDroyKpsuPNVAQ3q7QqZWCZkijAWXCB6Dpyn4xbMxJDvqwtLgnul
 
-![柏格先生是Vanguard第一任執行長，在1996柏格退休後，接任的第二任執行者，是Jack Brennan。](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/786778356_1488825313050864_601172549607745724_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HAmou0p_WvEQ7kNvwGecq0m&_nc_oc=AdqOYwDmi0Z2m0x-RJQO89F2LDyxg5tpAM_fpLhItLXnWNiR2A6zzh7Av_NXREdaZYc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=rdlzIpybLjfdNsCw3aU62g&_nc_ss=7e120&oh=00_AQH_eyqyVnEn_mrl110WxLLasDCIhJsTwWSgJFUryTy6qA&oe=6A95D5BC)
+![柏格先生是Vanguard第一任執行長，在1996柏格退休後，接任的第二任執行者，是Jack Brennan。](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/786778356_1488825313050864_601172549607745724_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CbAAcExdpCAQ7kNvwEIyNFO&_nc_oc=Adr6_5bGM27NAyCAUfW-Wm8BVhzCDC05i-SO9dWZnGjkk_LDpTw8olO5zMDAUtRgNkI&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=s8EJZWNJE9NShHU4q9IUog&_nc_ss=7e120&oh=00_AQITLLbvH_QFrBEHDN9zzL8p833CpnB-5_pFlGwUIi4o1g&oe=6A9C34FC)
 柏格先生是Vanguard第一任執行長，在1996柏格退休後，接任的第二任執行者，是Jack Brennan。
 
 相對於柏格，Brennan先生相對低調，但在Vanguard發展史上，他成功完成承先啟後的工作，Vanguard ETF就是在他任內開始發行。

@@ -4,22 +4,22 @@ title: "阿貝對沖基金時期的導師、創奇基金經理Druckenmiller在�
 page_title: ""
 requested_url: "https://www.facebook.com/raikk6"
 final_url: "https://www.facebook.com/raikk6"
-post_url: "https://www.facebook.com/raikk6/posts/pfbid08cVHEorKGxLAyvLntr15P6R2ZLfcXZaZtvTUnC51DJix9E788BJB7chGNXvYFZ7Ul"
+post_url: "https://www.facebook.com/raikk6/posts/pfbid08Zynv2cJdw8tDNumj9Mbjmn88KLTFPUHCyEX1xNcX1ho9A4s8pqxjcoaBaEQW2iml"
 creation_time_utc: "2026-08-25T04:19:32+00:00"
-fetched_at_utc: "2026-08-26T07:52:33.695800+00:00"
+fetched_at_utc: "2026-09-01T04:41:15.798430+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/786492843_1493151389525460_9219841028432850709_n.jpg?stp=cp6_dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ff3Xvb0jTrQQ7kNvwGgKEmS&_nc_oc=AdqzoG55oPXLTbur6TXcUx_PU4yHrxJGGHMPaR9NPJJAyF4CjElRwM0Nf2Vf_IMhkak&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=cD3IhCG4iqiKad1_RfSmKA&_nc_ss=7e120&oh=00_AQGIjlcz8y2fps_rNrHmW25qEKP2XEXcoeyGcCxdnjSJlg&oe=6A9484AE"
+image_url: "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/786492843_1493151389525460_9219841028432850709_n.jpg?stp=cp6_dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=N13rBDOFuasQ7kNvwF_dlja&_nc_oc=AdoKO-8eE2jgVTvv0lWpSFQIMj9SvxMHbY89ndRIq2jxIqFALPCPuRQrLQOCKcL5kUA&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=W28nhOdp6olNJp1BQDCGCw&_nc_ss=7e120&oh=00_AQLJceWJfFXOxr8jopWlL2FsKnSkDFzpn4gsVA-KCfPuhg&oe=6A9C356E"
 feedback_id: "ZmVlZGJhY2s6MTQ5MzE1MTk2OTUyNTQwMg=="
 page_canonical_url: ""
 ---
 
 # 阿貝對沖基金時期的導師、創奇基金經理Druckenmiller在華爾街日報撰文直指貝森特擴大回購長債、抑制長債殖利率的措施，是與市場做對、終將失敗
 
-原文連結: https://www.facebook.com/raikk6/posts/pfbid08cVHEorKGxLAyvLntr15P6R2ZLfcXZaZtvTUnC51DJix9E788BJB7chGNXvYFZ7Ul
+原文連結: https://www.facebook.com/raikk6/posts/pfbid08Zynv2cJdw8tDNumj9Mbjmn88KLTFPUHCyEX1xNcX1ho9A4s8pqxjcoaBaEQW2iml
 
-![阿貝對沖基金時期的導師、創奇基金經理Druckenmiller在華爾街日報撰文直指貝森特擴大回購長債、抑制長債殖利率的措施，是與市場做對、終將失敗](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/786492843_1493151389525460_9219841028432850709_n.jpg?stp=cp6_dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ff3Xvb0jTrQQ7kNvwGgKEmS&_nc_oc=AdqzoG55oPXLTbur6TXcUx_PU4yHrxJGGHMPaR9NPJJAyF4CjElRwM0Nf2Vf_IMhkak&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=cD3IhCG4iqiKad1_RfSmKA&_nc_ss=7e120&oh=00_AQGIjlcz8y2fps_rNrHmW25qEKP2XEXcoeyGcCxdnjSJlg&oe=6A9484AE)
+![阿貝對沖基金時期的導師、創奇基金經理Druckenmiller在華爾街日報撰文直指貝森特擴大回購長債、抑制長債殖利率的措施，是與市場做對、終將失敗](https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/786492843_1493151389525460_9219841028432850709_n.jpg?stp=cp6_dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=N13rBDOFuasQ7kNvwF_dlja&_nc_oc=AdoKO-8eE2jgVTvv0lWpSFQIMj9SvxMHbY89ndRIq2jxIqFALPCPuRQrLQOCKcL5kUA&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=W28nhOdp6olNJp1BQDCGCw&_nc_ss=7e120&oh=00_AQLJceWJfFXOxr8jopWlL2FsKnSkDFzpn4gsVA-KCfPuhg&oe=6A9C356E)
 阿貝對沖基金時期的導師、創奇基金經理Druckenmiller在華爾街日報撰文直指貝森特擴大回購長債、抑制長債殖利率的措施，是與市場做對、終將失敗
 
 長債利率反應寶貴的市場訊息、美國僅存的財政紀律約束機制，是傳遞訊息給決策者的重要管道

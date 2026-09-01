@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-08-31T06:56:35.365261+00:00",
+  "fetched_at_utc": "2026-09-01T04:40:16.343391+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,17 +9,44 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "checked_post_count": 52,
+  "new_post_count": 12,
+  "new_post_ids": [
+    "1545822974254511",
+    "1545289004307908",
+    "1545095457660596",
+    "1538789028291239",
+    "1538714121632063",
+    "1527406816096127",
+    "1520963470073795",
+    "1520843420085800",
+    "1520182630151879",
+    "1520191476817661",
+    "1519931996843609",
+    "1519284350241707"
+  ],
+  "new_markdown_files": [
+    "data/FinGuider 美股資訊網/2026-09-01_OpenAI-廣告業務的年化營收已達到-10-億美元公司強調這是多元化商業模式的最佳證明.md",
+    "data/FinGuider 美股資訊網/2026-08-31_輝達NVDA向聯發科2454.TW投資-35-億美元可轉債形式深化長期合作關係共同建構從邊緣到雲端運算的-AI-平台.md",
+    "data/FinGuider 美股資訊網/2026-08-31_83194-美股投資看什麼.md",
+    "data/FinGuider 美股資訊網/2026-08-24_川普-6-月投資布局一次看.md",
+    "data/FinGuider 美股資訊網/2026-08-24_824828-美股投資看什麼.md",
+    "data/FinGuider 美股資訊網/2026-08-12_AI-算力真的要變成商品了.md",
+    "data/FinGuider 美股資訊網/2026-08-05_美國對中國科技供應鏈的防線正在從晶片本身往上游材料資料中心零組件一路拉長.md",
+    "data/FinGuider 美股資訊網/2026-08-04_SpaceXSPCX公布-Q2-營收年增-92-至-78.1-億美元超越市場預期的-68.2-億EPS-虧損-0.09-美元優於分析師預期的虧損-0.26-美元.md",
+    "data/FinGuider 美股資訊網/2026-08-04_美股-ETF-趨勢週報.md",
+    "data/FinGuider 美股資訊網/2026-08-04_SpaceXSPCX將於-84-盤後發布上市後第一份財報讓投資人更詳細了解公司的經營狀況預計將成為下一輪多空博弈的關鍵華爾街預期營收約-68.2-億EPS-大約.md",
+    "data/FinGuider 美股資訊網/2026-08-03_PalantirPLTR盤後公布-Q2-財報營收年增-93-至-19.35-億美元優於預期的-18-億EPS-報-0.41-美元高於市場預期的-0.35-美元營.md",
+    "data/FinGuider 美股資訊網/2026-08-03_8387-美股投資看什麼.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
+    "本次已成功用公開 GraphQL 擷取到 56 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 80 字規則排除 4 篇貼文。"
   ]
 }

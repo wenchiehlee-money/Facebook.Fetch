@@ -4,22 +4,22 @@ title: "🚨 美國不希望 Apple 採用中國記憶體，全球 Memory Super C
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
 final_url: "https://www.facebook.com/profile.php?id=61565088683715"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid031gG75ay2q83dsC6k42R2xqdgiAtFa3wmDta9Hdt4eV9mDWgt8xr8Rx7N2nN5wnuTl&id=61565088683715"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid031u3ehXnUZTtmEg9t3e7hq3AA8pF281poGe6i1oxQD35BCzJNMVAsmckFDTDngxCxl&id=61565088683715"
 creation_time_utc: "2026-08-17T14:15:40+00:00"
-fetched_at_utc: "2026-08-18T02:19:33.767615+00:00"
+fetched_at_utc: "2026-09-01T04:44:49.974389+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/774173103_122224990136502956_6859612391203223087_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ITG5cHQ9DYEQ7kNvwH3AEIg&_nc_oc=Adq0h96Tg--OArFYZVzop16qhkybxPqzX47rH6CiCuRezcrKy2xn70kthdYP4WmyqXU&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=0LNXE3BesysN1D4HOxiJfw&_nc_ss=7e120&oh=00_AQErQnkIgkIKgN0FrWMv6oNFcGT-aSFiPiOr0sD_25BWRQ&oe=6A898E4A"
+image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/774173103_122224990136502956_6859612391203223087_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GiIFWodYZ1MQ7kNvwF_uOpT&_nc_oc=AdqfkQnGAt7O1NdrP1hXjZGQv9Lk9XhsO66BNVbSeXmOJJvbRwjbwoxtz8M3Ns5yhGI&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=K7vkCE4ZW9WuAcI2X2jYkA&_nc_ss=7e120&oh=00_AQIGSBc2Hyh3JpNtNrdbF8bv-0Ctq94KgfHn8-VgM7raAA&oe=6A9C3B8A"
 feedback_id: "ZmVlZGJhY2s6MTIyMjI0OTkwMjI2NTAyOTU2"
 page_canonical_url: ""
 ---
 
 # 🚨 美國不希望 Apple 採用中國記憶體，全球 Memory Super Cycle 又多一個催化劑
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid031gG75ay2q83dsC6k42R2xqdgiAtFa3wmDta9Hdt4eV9mDWgt8xr8Rx7N2nN5wnuTl&id=61565088683715
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid031u3ehXnUZTtmEg9t3e7hq3AA8pF281poGe6i1oxQD35BCzJNMVAsmckFDTDngxCxl&id=61565088683715
 
-![🚨 美國不希望 Apple 採用中國記憶體，全球 Memory Super Cycle 又多一個催化劑](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/774173103_122224990136502956_6859612391203223087_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ITG5cHQ9DYEQ7kNvwH3AEIg&_nc_oc=Adq0h96Tg--OArFYZVzop16qhkybxPqzX47rH6CiCuRezcrKy2xn70kthdYP4WmyqXU&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=0LNXE3BesysN1D4HOxiJfw&_nc_ss=7e120&oh=00_AQErQnkIgkIKgN0FrWMv6oNFcGT-aSFiPiOr0sD_25BWRQ&oe=6A898E4A)
+![🚨 美國不希望 Apple 採用中國記憶體，全球 Memory Super Cycle 又多一個催化劑](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/774173103_122224990136502956_6859612391203223087_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GiIFWodYZ1MQ7kNvwF_uOpT&_nc_oc=AdqfkQnGAt7O1NdrP1hXjZGQv9Lk9XhsO66BNVbSeXmOJJvbRwjbwoxtz8M3Ns5yhGI&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=K7vkCE4ZW9WuAcI2X2jYkA&_nc_ss=7e120&oh=00_AQIGSBc2Hyh3JpNtNrdbF8bv-0Ctq94KgfHn8-VgM7raAA&oe=6A9C3B8A)
 🚨 美國不希望 Apple 採用中國記憶體，全球 Memory Super Cycle 又多一個催化劑
 美國商務部長盧特尼克近日公開表示，川普政府不希望 Apple 採用中國製記憶體。若後續政策進一步收緊，美國科技大廠的記憶體供應可能更加集中在非中國供應商。
 

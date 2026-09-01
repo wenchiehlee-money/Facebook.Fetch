@@ -4,22 +4,22 @@ title: "Cerebras CS-6計畫3D Stack DRAM"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid035x4ikjR549gbTU8dT7Duxz7EfL3SVYXz9ooUVL428rQL6txhg29CG2Xzzz2aD1qVl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid022EGXYRWyPG2dhMsGmHGjunSrquY4uLiyGtgLTShp7FzXz5h6EEKpVVZckmdcFmsjl&id=100054201473657"
 creation_time_utc: "2026-08-27T12:05:33+00:00"
-fetched_at_utc: "2026-08-29T07:48:54.332429+00:00"
+fetched_at_utc: "2026-09-01T04:42:39.947356+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/788171613_1595341785615855_8440134704820308487_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rb4jVZ7EQKYQ7kNvwH4mOGe&_nc_oc=Adq5MxFRYRXoLYzybNKksCvSPHiHoyFsVubcJFe0WP5ie9GKT5sTokFHdF0ncFWD8N8&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=lCDnAwdXZcbCvcUMVk4G9w&_nc_ss=7e120&oh=00_AQLL-EXjh3cfE7KpT6hMbXa76tPnPN_Wv-Ut-egU4DxVsw&oe=6A98560C"
+image_url: "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/788171613_1595341785615855_8440134704820308487_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JjDyCIQtxiwQ7kNvwEzLQgR&_nc_oc=Adr-Dyx37OfSXCaMY2Z_8W2UMZyPdXTq2xAUjrdPgpkbIiJ0BSKM4VOQsh23Wc5GiCo&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=BdOvuZ_Y-k5HS7FWvDDz6Q&_nc_ss=7e120&oh=00_AQImHsFJ7CnU-3lMQYYU9Aq6bn_W-ZvC1p-ZdGfxra4XQw&oe=6A9C124C"
 feedback_id: "ZmVlZGJhY2s6MTU5NTM0MTkwNTYxNTg0Mw=="
 page_canonical_url: ""
 ---
 
 # Cerebras CS-6計畫3D Stack DRAM
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid035x4ikjR549gbTU8dT7Duxz7EfL3SVYXz9ooUVL428rQL6txhg29CG2Xzzz2aD1qVl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid022EGXYRWyPG2dhMsGmHGjunSrquY4uLiyGtgLTShp7FzXz5h6EEKpVVZckmdcFmsjl&id=100054201473657
 
-![Cerebras CS-6計畫3D Stack DRAM](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/788171613_1595341785615855_8440134704820308487_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rb4jVZ7EQKYQ7kNvwH4mOGe&_nc_oc=Adq5MxFRYRXoLYzybNKksCvSPHiHoyFsVubcJFe0WP5ie9GKT5sTokFHdF0ncFWD8N8&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=lCDnAwdXZcbCvcUMVk4G9w&_nc_ss=7e120&oh=00_AQLL-EXjh3cfE7KpT6hMbXa76tPnPN_Wv-Ut-egU4DxVsw&oe=6A98560C)
+![Cerebras CS-6計畫3D Stack DRAM](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/788171613_1595341785615855_8440134704820308487_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JjDyCIQtxiwQ7kNvwEzLQgR&_nc_oc=Adr-Dyx37OfSXCaMY2Z_8W2UMZyPdXTq2xAUjrdPgpkbIiJ0BSKM4VOQsh23Wc5GiCo&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=BdOvuZ_Y-k5HS7FWvDDz6Q&_nc_ss=7e120&oh=00_AQImHsFJ7CnU-3lMQYYU9Aq6bn_W-ZvC1p-ZdGfxra4XQw&oe=6A9C124C)
 Cerebras CS-6計畫3D Stack DRAM
 
 上週討論到，Cerebras並非只用SRAM，運作大參數模型的時候，SRAM太小不夠，參數權重是儲存在集群中的x86 server上的數TB等級DRAM主記憶體上，或者是旁邊一整箱的MemoryX專屬記憶體內(DRAM+Flash)，

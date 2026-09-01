@@ -4,12 +4,12 @@ title: "Google TPU v8"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0239Lv9ggLjeESw98sQbLpiNZzdsPs9HY8omuHLhVjmK5tTkZ1j5uXjsKHYagoAgRAl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid036Wq6mi2xmCQgy7HqPYVPT4YdPnu9Vkq5ryVSLJmUPKUfhsozG1wKGsgD7oFY6PAJl&id=100054201473657"
 creation_time_utc: "2026-08-29T10:57:15+00:00"
-fetched_at_utc: "2026-08-31T06:57:01.393173+00:00"
+fetched_at_utc: "2026-09-01T04:42:39.947356+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0239Lv9ggLjeESw98sQbLpiNZzdsPs9HY8omuHLhVjmK5tTkZ1j5uXjsKHYagoAgRAl&id=100054201473657"
+attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid036Wq6mi2xmCQgy7HqPYVPT4YdPnu9Vkq5ryVSLJmUPKUfhsozG1wKGsgD7oFY6PAJl&id=100054201473657"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTU5NzA0NDk4MjExMjIwMg=="
 page_canonical_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # Google TPU v8
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0239Lv9ggLjeESw98sQbLpiNZzdsPs9HY8omuHLhVjmK5tTkZ1j5uXjsKHYagoAgRAl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid036Wq6mi2xmCQgy7HqPYVPT4YdPnu9Vkq5ryVSLJmUPKUfhsozG1wKGsgD7oFY6PAJl&id=100054201473657
 Google TPU v8
 
 1. CPU從x86改為自己的Axion Arm CPU ASIC

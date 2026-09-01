@@ -4,22 +4,22 @@ title: "今天，八月31日，對全球指數化投資人是個特別的日子�
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0DXkKjb4FDPvRvUndyfjKUsJZ1q3fW49hndzNXBA4aCiQdaDvqPD26a66pMrDuYRZl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02GuEWMcQsF4PoVp48hjyQ29BZSaUgM9vXoYfaxaNc67doipXMMZdr5yKTEB4qTsYnl"
 creation_time_utc: "2026-08-30T23:34:02+00:00"
-fetched_at_utc: "2026-08-31T06:56:39.473300+00:00"
+fetched_at_utc: "2026-09-01T04:40:33.930105+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/788705153_1492339222699473_7790196349548128769_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=x0dUmO6HFjYQ7kNvwFxO5gM&_nc_oc=AdpUNd8mZDAT8DncFccanIurhPhw9W2W0inZxJkSCrm143-fcF9bSgNjUcpCvTntjIs&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qlOHY0PhCmZmjIuJCLwqVw&_nc_ss=7e120&oh=00_AQJphZMMadhurRgk-ydPCBeMH60HcXqAF1F92Vov7fV6Jg&oe=6A9B0845"
+image_url: "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/788705153_1492339222699473_7790196349548128769_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=x0dUmO6HFjYQ7kNvwEvHNME&_nc_oc=Adr4A8QXijORkNBErfGWhOCysEyRpbaQbPfj-CEW1KA3S7_QZZIyVFK64mDJximOYkw&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=SNN7x4GZyUl92Dd2EKeTjA&_nc_ss=7e120&oh=00_AQJXh-WZlrmDy8lAsCaROwTZt7NVgUiuvzYdn2i0Y6boPw&oe=6A9C2185"
 feedback_id: "ZmVlZGJhY2s6MTQ5MjY0MDM0MjY2OTM2MQ=="
 page_canonical_url: ""
 ---
 
 # 今天，八月31日，對全球指數化投資人是個特別的日子。在50年前的今年，人類史上第一支可供一般投資人使用的指數型基金，Vanguard 500 Index Fund發行了。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0DXkKjb4FDPvRvUndyfjKUsJZ1q3fW49hndzNXBA4aCiQdaDvqPD26a66pMrDuYRZl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02GuEWMcQsF4PoVp48hjyQ29BZSaUgM9vXoYfaxaNc67doipXMMZdr5yKTEB4qTsYnl
 
-![今天，八月31日，對全球指數化投資人是個特別的日子。在50年前的今年，人類史上第一支可供一般投資人使用的指數型基金，Vanguard 500 Index Fund發行了。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/788705153_1492339222699473_7790196349548128769_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=x0dUmO6HFjYQ7kNvwFxO5gM&_nc_oc=AdpUNd8mZDAT8DncFccanIurhPhw9W2W0inZxJkSCrm143-fcF9bSgNjUcpCvTntjIs&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qlOHY0PhCmZmjIuJCLwqVw&_nc_ss=7e120&oh=00_AQJphZMMadhurRgk-ydPCBeMH60HcXqAF1F92Vov7fV6Jg&oe=6A9B0845)
+![今天，八月31日，對全球指數化投資人是個特別的日子。在50年前的今年，人類史上第一支可供一般投資人使用的指數型基金，Vanguard 500 Index Fund發行了。](https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/788705153_1492339222699473_7790196349548128769_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=x0dUmO6HFjYQ7kNvwEvHNME&_nc_oc=Adr4A8QXijORkNBErfGWhOCysEyRpbaQbPfj-CEW1KA3S7_QZZIyVFK64mDJximOYkw&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=SNN7x4GZyUl92Dd2EKeTjA&_nc_ss=7e120&oh=00_AQJXh-WZlrmDy8lAsCaROwTZt7NVgUiuvzYdn2i0Y6boPw&oe=6A9C2185)
 今天，八月31日，對全球指數化投資人是個特別的日子。在50年前的今年，人類史上第一支可供一般投資人使用的指數型基金，Vanguard 500 Index Fund發行了。
 
 這支基金的代號是VFINX，是Vanguard First Index Fund的縮寫。它不僅是Vanguard成立後發行的第一支基金，也是全球第一支可以讓一般投資人使用的指數化投資工具。

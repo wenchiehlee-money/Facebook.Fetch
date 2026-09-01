@@ -4,22 +4,22 @@ title: "Jeff Dean在YC活動上的分享內容，談論AI產業現況與未來�
 page_title: ""
 requested_url: "https://www.facebook.com/intleconobserve"
 final_url: "https://www.facebook.com/intleconobserve"
-post_url: "https://www.facebook.com/intleconobserve/posts/pfbid0em3RBnUkmWsQmNtUPdG4F7PLEQurEA76xFL11tqssT3u6JfzrdoW5sHzCVRMVeAYl"
+post_url: "https://www.facebook.com/intleconobserve/posts/pfbid0emAUBonT3c4dzz8uCybZqMmqjicSXR3je47Swf7AnFqt1F86TWemoj38g6DGqNjhl"
 creation_time_utc: "2026-08-09T09:46:51+00:00"
-fetched_at_utc: "2026-08-10T03:16:40.024523+00:00"
+fetched_at_utc: "2026-09-01T04:43:32.511067+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/769131109_1576210387196917_9063165717850721_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=oAev9ThdlHAQ7kNvwFP40-h&_nc_oc=Adrc5Wp1lumZQ8ZwGpbLamw_wAdx6XiupEVyUcKwf5T7C5uiRAQyyGaHdnDoMUjQ_J0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=Wpebp2y9eokOoiMlyPUv2g&_nc_ss=7e120&oh=00_AQE8DDShlXx2XjoHzo3WrixnFCLokqVAYWBxfxfv0IgWww&oe=6A7F2763"
+image_url: "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/769131109_1576210387196917_9063165717850721_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CSrIMrWD0NQQ7kNvwE4op6c&_nc_oc=Ado3xJszv5LemdCkbBPBVVO0SwLoagIJBImrJuRzdR1Ruc6KpYfxg1hU2nZITAZn4po&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=FL_iyXiwAd5ZOgO7B0QzjA&_nc_ss=7e120&oh=00_AQIHpORTCeohH3REzmevc8dritiKq4NP4yTqf-PBwuqtMQ&oe=6A9C2863"
 feedback_id: "ZmVlZGJhY2s6MTU3NjIxMTE3NzE5NjgzOA=="
 page_canonical_url: ""
 ---
 
 # Jeff Dean在YC活動上的分享內容，談論AI產業現況與未來發展。其實也是預示了他在自己從google出走後的新創公司 Discovery Loop想要做什麼。
 
-原文連結: https://www.facebook.com/intleconobserve/posts/pfbid0em3RBnUkmWsQmNtUPdG4F7PLEQurEA76xFL11tqssT3u6JfzrdoW5sHzCVRMVeAYl
+原文連結: https://www.facebook.com/intleconobserve/posts/pfbid0emAUBonT3c4dzz8uCybZqMmqjicSXR3je47Swf7AnFqt1F86TWemoj38g6DGqNjhl
 
-![Jeff Dean在YC活動上的分享內容，談論AI產業現況與未來發展。其實也是預示了他在自己從google出走後的新創公司 Discovery Loop想要做什麼。](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/769131109_1576210387196917_9063165717850721_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=oAev9ThdlHAQ7kNvwFP40-h&_nc_oc=Adrc5Wp1lumZQ8ZwGpbLamw_wAdx6XiupEVyUcKwf5T7C5uiRAQyyGaHdnDoMUjQ_J0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=Wpebp2y9eokOoiMlyPUv2g&_nc_ss=7e120&oh=00_AQE8DDShlXx2XjoHzo3WrixnFCLokqVAYWBxfxfv0IgWww&oe=6A7F2763)
+![Jeff Dean在YC活動上的分享內容，談論AI產業現況與未來發展。其實也是預示了他在自己從google出走後的新創公司 Discovery Loop想要做什麼。](https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/769131109_1576210387196917_9063165717850721_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CSrIMrWD0NQQ7kNvwE4op6c&_nc_oc=Ado3xJszv5LemdCkbBPBVVO0SwLoagIJBImrJuRzdR1Ruc6KpYfxg1hU2nZITAZn4po&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=FL_iyXiwAd5ZOgO7B0QzjA&_nc_ss=7e120&oh=00_AQIHpORTCeohH3REzmevc8dritiKq4NP4yTqf-PBwuqtMQ&oe=6A9C2863)
 Jeff Dean在YC活動上的分享內容，談論AI產業現況與未來發展。其實也是預示了他在自己從google出走後的新創公司 Discovery Loop想要做什麼。
 
 #2027年的預測：AI系統將自我改進

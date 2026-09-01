@@ -4,22 +4,22 @@ title: "老黃下一個要搶的關鍵資源，已經從晶片一路往前延伸
 page_title: ""
 requested_url: "https://www.facebook.com/intleconobserve"
 final_url: "https://www.facebook.com/intleconobserve"
-post_url: "https://www.facebook.com/intleconobserve/posts/pfbid02wGGkMJECtfWwRsMtuarMJvCNcins7NuVSZoTFF6TiyyV8czmDLfjCqgCyhk2mPYJl"
+post_url: "https://www.facebook.com/intleconobserve/posts/pfbid02w16mQbUSoUPRLvJCi5u2EPMZiem3QWUwPF3kMC2zhdwwZUTStfwjodT3CeMDbLDcl"
 creation_time_utc: "2026-08-17T13:25:49+00:00"
-fetched_at_utc: "2026-08-18T02:19:31.046311+00:00"
+fetched_at_utc: "2026-09-01T04:43:32.511067+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/776935858_1583129336505022_265397469660971567_n.jpg?stp=cp6_dst-jpg_p552x414_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Lklm2mXdOuAQ7kNvwEBEe_A&_nc_oc=Adq5I9oORIKkbiI3kDd3MphtQzhmE0568ooc-L61klflanoO_f-eEtbSsl7xshBSjeU&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=9iMHQEJ7mlvjhSVDBGgbyQ&_nc_ss=7e120&oh=00_AQGdveGLSxjTQXiWEpEx6WrLpBNOFiGwiRmJ1HpmkwTscA&oe=6A89AF62"
+image_url: "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/776935858_1583129336505022_265397469660971567_n.jpg?stp=cp6_dst-jpg_p552x414_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=JsGs2xwbzxYQ7kNvwEcjyIw&_nc_oc=Ado8CL16n8YULNdZn_LKvHoSFrWaLfE3idZETl0ujITGky63gm8viw4zxAn6i2IDyEQ&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=gZHTrwj4xbml7M4vwOHQMg&_nc_ss=7e120&oh=00_AQJGTx54ThLQ-hG0PgpQ46csUqchVoJ9C3A6Wy_tCc-pdA&oe=6A9C2462"
 feedback_id: "ZmVlZGJhY2s6MTU4MzEyOTU2MzE3MTY2Ng=="
 page_canonical_url: ""
 ---
 
 # 老黃下一個要搶的關鍵資源，已經從晶片一路往前延伸到 土地、電力與資料中心外殼（Land, Power and Shell，LPS）。
 
-原文連結: https://www.facebook.com/intleconobserve/posts/pfbid02wGGkMJECtfWwRsMtuarMJvCNcins7NuVSZoTFF6TiyyV8czmDLfjCqgCyhk2mPYJl
+原文連結: https://www.facebook.com/intleconobserve/posts/pfbid02w16mQbUSoUPRLvJCi5u2EPMZiem3QWUwPF3kMC2zhdwwZUTStfwjodT3CeMDbLDcl
 
-![老黃下一個要搶的關鍵資源，已經從晶片一路往前延伸到 土地、電力與資料中心外殼（Land, Power and Shell，LPS）。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/776935858_1583129336505022_265397469660971567_n.jpg?stp=cp6_dst-jpg_p552x414_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Lklm2mXdOuAQ7kNvwEBEe_A&_nc_oc=Adq5I9oORIKkbiI3kDd3MphtQzhmE0568ooc-L61klflanoO_f-eEtbSsl7xshBSjeU&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=9iMHQEJ7mlvjhSVDBGgbyQ&_nc_ss=7e120&oh=00_AQGdveGLSxjTQXiWEpEx6WrLpBNOFiGwiRmJ1HpmkwTscA&oe=6A89AF62)
+![老黃下一個要搶的關鍵資源，已經從晶片一路往前延伸到 土地、電力與資料中心外殼（Land, Power and Shell，LPS）。](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/776935858_1583129336505022_265397469660971567_n.jpg?stp=cp6_dst-jpg_p552x414_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=JsGs2xwbzxYQ7kNvwEcjyIw&_nc_oc=Ado8CL16n8YULNdZn_LKvHoSFrWaLfE3idZETl0ujITGky63gm8viw4zxAn6i2IDyEQ&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=gZHTrwj4xbml7M4vwOHQMg&_nc_ss=7e120&oh=00_AQJGTx54ThLQ-hG0PgpQ46csUqchVoJ9C3A6Wy_tCc-pdA&oe=6A9C2462)
 老黃下一個要搶的關鍵資源，已經從晶片一路往前延伸到 土地、電力與資料中心外殼（Land, Power and Shell，LPS）。
 
 NVIDIA 宣布與 SB Energy 合作，鎖定俄亥俄州 PORTS-Pike Technology Campus，OpenAI 將成為租戶。初期規劃約 4.25GW AI factory 容量，預計 2028～2030 年陸續上線。

@@ -4,22 +4,22 @@ title: "Vanguard富時全球股市美國除外ETF，英文全名Vanguard FTSE Al
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02bFvLi1V6sxMm3qG6yAUBPWXjH1TbvJLihCgrXd9sNGhuvGTTVaFasSENTryVgsp3l"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0XqvfmCtUDPYjXdXM1csguqa8fhUV4P2YDAv5bCur2H8j2F6PbMzmTNSt7zqYePMdl"
 creation_time_utc: "2026-08-27T00:06:03+00:00"
-fetched_at_utc: "2026-08-27T11:08:31.120900+00:00"
+fetched_at_utc: "2026-09-01T04:40:33.930105+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/788104071_1489300139670048_5381556104725418477_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KxePMw-X88AQ7kNvwFYjzPs&_nc_oc=AdpPVmjoHf5xT4Yq6xbn_kNGcl2yJZyP98L0CC5Y9WoA51DoVKtd2RgG4np4dyQMMxY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=rdlzIpybLjfdNsCw3aU62g&_nc_ss=7e120&oh=00_AQFJ7LbYPAAqxUwzqDdfoVHdzEybg7xCVEXeavPMinpGbw&oe=6A95FA4E"
+image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/788104071_1489300139670048_5381556104725418477_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_LZu-jOIMIkQ7kNvwHr0R_u&_nc_oc=AdotpNncmQ8AZEzZTDP6rsxDhsHgi__-96nyKOsP4BthVLiD5mdR4J0UWSGWYejZoLA&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=s8EJZWNJE9NShHU4q9IUog&_nc_ss=7e120&oh=00_AQJQIWLoMqThQJbq2QVLvX7MZU8x2KQWzT6HpMJL6nswCQ&oe=6A9C214E"
 feedback_id: "ZmVlZGJhY2s6MTQ4OTMwMDc1OTY2OTk4Ng=="
 page_canonical_url: ""
 ---
 
 # Vanguard富時全球股市美國除外ETF，英文全名Vanguard FTSE All-World ex-US ETF，美股代號VEU，於2007年三月2日成立。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02bFvLi1V6sxMm3qG6yAUBPWXjH1TbvJLihCgrXd9sNGhuvGTTVaFasSENTryVgsp3l
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0XqvfmCtUDPYjXdXM1csguqa8fhUV4P2YDAv5bCur2H8j2F6PbMzmTNSt7zqYePMdl
 
-![Vanguard富時全球股市美國除外ETF，英文全名Vanguard FTSE All-World ex-US ETF，美股代號VEU，於2007年三月2日成立。](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/788104071_1489300139670048_5381556104725418477_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KxePMw-X88AQ7kNvwFYjzPs&_nc_oc=AdpPVmjoHf5xT4Yq6xbn_kNGcl2yJZyP98L0CC5Y9WoA51DoVKtd2RgG4np4dyQMMxY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=rdlzIpybLjfdNsCw3aU62g&_nc_ss=7e120&oh=00_AQFJ7LbYPAAqxUwzqDdfoVHdzEybg7xCVEXeavPMinpGbw&oe=6A95FA4E)
+![Vanguard富時全球股市美國除外ETF，英文全名Vanguard FTSE All-World ex-US ETF，美股代號VEU，於2007年三月2日成立。](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/788104071_1489300139670048_5381556104725418477_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_LZu-jOIMIkQ7kNvwHr0R_u&_nc_oc=AdotpNncmQ8AZEzZTDP6rsxDhsHgi__-96nyKOsP4BthVLiD5mdR4J0UWSGWYejZoLA&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=s8EJZWNJE9NShHU4q9IUog&_nc_ss=7e120&oh=00_AQJQIWLoMqThQJbq2QVLvX7MZU8x2KQWzT6HpMJL6nswCQ&oe=6A9C214E)
 Vanguard富時全球股市美國除外ETF，英文全名Vanguard FTSE All-World ex-US ETF，美股代號VEU，於2007年三月2日成立。
 
 VEU追蹤FTSE All-World ex-US Index。該指數包含全球43個國家，共3852支股票。投資範圍是美國以外的已開發與新興市場。VEU以複製法追蹤指數。

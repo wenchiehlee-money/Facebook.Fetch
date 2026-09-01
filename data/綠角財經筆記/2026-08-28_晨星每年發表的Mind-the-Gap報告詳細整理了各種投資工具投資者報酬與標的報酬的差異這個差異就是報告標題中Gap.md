@@ -4,22 +4,22 @@ title: "晨星每年發表的”Mind the Gap”報告，詳細整理了各種投
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02QYBthvhTBvHE4UPJFYjmrF2NDnKqr4o7WMetnyBaj6Z5yGzeodRP1hVSTrtRSoT9l"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0LpPhVcoMXGaNB9y7WXn7sZzomf3LktpYswZBGmXibDngGCacdxaNXDbKWtgzUV7el"
 creation_time_utc: "2026-08-28T02:02:12+00:00"
-fetched_at_utc: "2026-08-29T07:48:33.426671+00:00"
+fetched_at_utc: "2026-09-01T04:40:33.930105+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/785059122_1490186082914787_5822499661552656620_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tw7CMiHg3igQ7kNvwGC-Vk1&_nc_oc=Ado2ilmVPph4HBruQD-rAw1vEVidHee1szRHttGB9QEk4ZKQFIW4QwUkhS6BvJVPcFk&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=Fb78s_OCIgxNicLxS41Qpg&_nc_ss=7e120&oh=00_AQJyfzqvSzbkYRspdIB9MVyL9Wj6CCuW6KMx20HLpMdjzw&oe=6A9866EF"
+image_url: "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/785059122_1490186082914787_5822499661552656620_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Jgl-L7M1GRcQ7kNvwE97yQ5&_nc_oc=AdpLGhLui-XG4Vlvni9zTzM5IX9QMKnxw05hG3TPwhaoPShlQytzqq-lJrbK3CIJynQ&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=4LNbFU1ZqGPuPTtyQbNqQA&_nc_ss=7e120&oh=00_AQK3IH1EppaBP0IbOZ-aidVn0By6cz0QTn6NTDoKU3VsRw&oe=6A9C232F"
 feedback_id: "ZmVlZGJhY2s6MTQ5MDE4NjU5NjI0ODA2OQ=="
 page_canonical_url: ""
 ---
 
 # 晨星每年發表的”Mind the Gap”報告，詳細整理了各種投資工具，投資者報酬與標的報酬的差異。這個差異，就是報告標題中Gap。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02QYBthvhTBvHE4UPJFYjmrF2NDnKqr4o7WMetnyBaj6Z5yGzeodRP1hVSTrtRSoT9l
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0LpPhVcoMXGaNB9y7WXn7sZzomf3LktpYswZBGmXibDngGCacdxaNXDbKWtgzUV7el
 
-![晨星每年發表的”Mind the Gap”報告，詳細整理了各種投資工具，投資者報酬與標的報酬的差異。這個差異，就是報告標題中Gap。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/785059122_1490186082914787_5822499661552656620_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tw7CMiHg3igQ7kNvwGC-Vk1&_nc_oc=Ado2ilmVPph4HBruQD-rAw1vEVidHee1szRHttGB9QEk4ZKQFIW4QwUkhS6BvJVPcFk&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=Fb78s_OCIgxNicLxS41Qpg&_nc_ss=7e120&oh=00_AQJyfzqvSzbkYRspdIB9MVyL9Wj6CCuW6KMx20HLpMdjzw&oe=6A9866EF)
+![晨星每年發表的”Mind the Gap”報告，詳細整理了各種投資工具，投資者報酬與標的報酬的差異。這個差異，就是報告標題中Gap。](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/785059122_1490186082914787_5822499661552656620_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Jgl-L7M1GRcQ7kNvwE97yQ5&_nc_oc=AdpLGhLui-XG4Vlvni9zTzM5IX9QMKnxw05hG3TPwhaoPShlQytzqq-lJrbK3CIJynQ&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=4LNbFU1ZqGPuPTtyQbNqQA&_nc_ss=7e120&oh=00_AQK3IH1EppaBP0IbOZ-aidVn0By6cz0QTn6NTDoKU3VsRw&oe=6A9C232F)
 晨星每年發表的”Mind the Gap”報告，詳細整理了各種投資工具，投資者報酬與標的報酬的差異。這個差異，就是報告標題中Gap。
 
 到終止於2025年十二月31日的十年期間，投資在所有美國基金與ETF的資金，所取得的投資者報酬率 (Investor return)是年化8.7%。落後這些基金與ETF在這十年，9.9%的年化報酬。
