@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/hsulylab",
   "final_url": "https://www.facebook.com/hsulylab",
-  "fetched_at_utc": "2026-09-01T06:13:12.266150+00:00",
+  "fetched_at_utc": "2026-09-02T05:41:29.524716+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1357268943237923"
+    "1358087136489437",
+    "1357567549874729",
+    "1357409596557191"
   ],
   "new_markdown_files": [
-    "data/徐立言/2026-09-01_大市睇落平穩但其實內部已經發生咗歷史性嘅極端變化.md"
+    "data/徐立言/2026-09-02_洞察底層邏輯看透九月市場變局.md",
+    "data/徐立言/2026-09-01_當你仔細閱讀各大科技巨頭最新一季光鮮亮麗的財報時你會否理所當然地認為這些破紀錄的數字完全來自於他們核心業務的強勁增長.md",
+    "data/徐立言/2026-09-01_當你身邊的所有人都在同一場狂歡中獲得短期的滿足時你會選擇加入還是獨自留在安靜的角落承受質疑這不僅僅是一個關於選擇的假設更是我們在社會群體中不斷面臨的真實考驗.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/徐立言",

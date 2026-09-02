@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-09-01T06:13:03.405546+00:00",
+  "fetched_at_utc": "2026-09-02T05:41:17.599985+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1595427495275206"
+    "1596222988528990",
+    "1596110338540255"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-09-01_德州Austin已經開始出現越來越多無人無方向盤無踏板的金黃色Cybercab在路上跑.md"
+    "data/IEObserve 國際經濟觀察/2026-09-02_Tesla-與-SpaceX-執行長-Elon-Musk-在G20-分享了他對創新環境數位-AI-發展人形機器人以及全球電力危機的看法.md",
+    "data/IEObserve 國際經濟觀察/2026-09-02_Dell-Q2-營收472億美元年增58EPS-7.04美元年增203均創歷史新高且大幅超越市場預期原估每股4.92美元營收449億美元.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

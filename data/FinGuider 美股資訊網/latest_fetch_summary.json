@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-09-01T06:12:35.845048+00:00",
+  "fetched_at_utc": "2026-09-02T05:40:44.570066+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,15 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 2,
+  "new_post_ids": [
+    "1546602334176575",
+    "1545921307578011"
+  ],
+  "new_markdown_files": [
+    "data/FinGuider 美股資訊網/2026-09-01_戴爾DELL盤後公布了-Q2-財報營收年增-58-至-469.7-億美元遠高於市場預期的-449.2-億EPS-報-7.04-美元輕鬆擊敗了市場共識的-4.92.md",
+    "data/FinGuider 美股資訊網/2026-09-01_美股-ETF-趨勢週報.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",
   "notes": [

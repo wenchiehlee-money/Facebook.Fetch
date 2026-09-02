@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-09-01T06:13:00.120419+00:00",
+  "fetched_at_utc": "2026-09-02T05:41:12.441822+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,15 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 2,
+  "new_post_ids": [
+    "1599825478500819",
+    "1599567628526604"
+  ],
+  "new_markdown_files": [
+    "data/Richard只談基本面-Richards Research Blog/2026-09-01_1.-Nvidia-NVHBM將memory-controller移入HBM-base-die其die-to-die並非JEDEC-bus規格這將使得Nvidi.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-09-01_根據上篇轉發郭明錤分析師對Rubin-CPX的資訊回頭重看了Nvidia官網有關MGX-ETL的東西綜合理解整理如下.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",
   "notes": [

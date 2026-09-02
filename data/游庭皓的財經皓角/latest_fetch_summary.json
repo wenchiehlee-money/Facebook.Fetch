@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-09-01T06:12:28.644439+00:00",
+  "fetched_at_utc": "2026-09-02T05:40:36.333958+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,17 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1122817297075958",
+    "1137296322195053",
+    "1137281555529863"
+  ],
+  "new_markdown_files": [
+    "data/游庭皓的財經皓角/2026-09-02_202692三高利率炸彈-AI還能撐亞洲AI行情-迎來大考驗早晨財經速解讀.md",
+    "data/游庭皓的財經皓角/2026-09-01_軍愛民民敬軍這句口號一直都有聽說明年起國防部將開始大規模採用民規裝備將民用物資與軍事力量結合.md",
+    "data/游庭皓的財經皓角/2026-09-01_AI真的會讓學生變笨嗎三位經濟學者追蹤中國2.7萬名12至18歲學生的研究發現使用AI寫作業後學生的作業成績平均提高18完成時間也從64分鐘縮短到45分鐘看起來.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",
   "notes": [

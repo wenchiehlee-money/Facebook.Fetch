@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-09-01T06:12:49.675566+00:00",
+  "fetched_at_utc": "2026-09-02T05:41:00.808324+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "122195687870771552"
-  ],
-  "new_markdown_files": [
-    "data/Fomo研究院/2026-09-01_Nvidia-宣布買入聯發科35-億美元的可轉換債券是-Nvidia-在美國以外最大的直接投資.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",
   "notes": [

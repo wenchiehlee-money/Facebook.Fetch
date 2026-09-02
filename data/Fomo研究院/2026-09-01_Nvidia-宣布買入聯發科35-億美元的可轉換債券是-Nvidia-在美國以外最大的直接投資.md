@@ -4,22 +4,22 @@ title: "Nvidia 宣布買入聯發科35 億美元的可轉換債券，是 Nvidia 
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0pjKgBxzRg2XNBpoqE6uQxWtYPmRKsE8dyhtR4Kw7MtkLnV6QQUSdnPsFaGngASxil&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02tamPNdvFXT5ipamAa7YF69Uy5Ko5HttCVaBf5qDg7PhSLEhpinMtWLxh8Zp42xDYl&id=61573146584049"
 creation_time_utc: "2026-09-01T05:13:15+00:00"
-fetched_at_utc: "2026-09-01T06:12:49.675566+00:00"
+fetched_at_utc: "2026-09-02T05:41:00.808324+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/791129874_122195687594771552_8090128593484843665_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9acCMC1PIYAQ7kNvwHp140G&_nc_oc=AdqunpzkxjEKqYYFZpi6b3VWRxDothoSCeS2BYw7QUOdnLQb7RnJITAxW5iDW0-ydz0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=_tCO01zKSszOZ5NUEiud7A&_nc_ss=7e120&oh=00_AQJ4uH1VV8PNcpWBmNrT-RoSq8gaMXjoSXbWVynzGTthCQ&oe=6A9C565D"
+image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/791129874_122195687594771552_8090128593484843665_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9acCMC1PIYAQ7kNvwEjOEVt&_nc_oc=AdrcYigZ4s7aFwMGpHZjwwnt-MNz0bmFXQySs-vG3168HEde0-gTqh5Cx2TnCuzzAC8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=3Vv1FteVkjfI9rVxv49NGQ&_nc_ss=7e120&oh=00_AQLNBdMQ2rua9KVAqjSctcTl6ekJqCqJYVmKx3mPXgHj1g&oe=6A9D6F9D"
 feedback_id: "ZmVlZGJhY2s6MTIyMTk1Njg3ODcwNzcxNTUy"
 page_canonical_url: ""
 ---
 
 # Nvidia 宣布買入聯發科35 億美元的可轉換債券，是 Nvidia 在美國以外最大的直接投資。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0pjKgBxzRg2XNBpoqE6uQxWtYPmRKsE8dyhtR4Kw7MtkLnV6QQUSdnPsFaGngASxil&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02tamPNdvFXT5ipamAa7YF69Uy5Ko5HttCVaBf5qDg7PhSLEhpinMtWLxh8Zp42xDYl&id=61573146584049
 
-![Nvidia 宣布買入聯發科35 億美元的可轉換債券，是 Nvidia 在美國以外最大的直接投資。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/791129874_122195687594771552_8090128593484843665_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9acCMC1PIYAQ7kNvwHp140G&_nc_oc=AdqunpzkxjEKqYYFZpi6b3VWRxDothoSCeS2BYw7QUOdnLQb7RnJITAxW5iDW0-ydz0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=_tCO01zKSszOZ5NUEiud7A&_nc_ss=7e120&oh=00_AQJ4uH1VV8PNcpWBmNrT-RoSq8gaMXjoSXbWVynzGTthCQ&oe=6A9C565D)
+![Nvidia 宣布買入聯發科35 億美元的可轉換債券，是 Nvidia 在美國以外最大的直接投資。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/791129874_122195687594771552_8090128593484843665_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9acCMC1PIYAQ7kNvwEjOEVt&_nc_oc=AdrcYigZ4s7aFwMGpHZjwwnt-MNz0bmFXQySs-vG3168HEde0-gTqh5Cx2TnCuzzAC8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=3Vv1FteVkjfI9rVxv49NGQ&_nc_ss=7e120&oh=00_AQLNBdMQ2rua9KVAqjSctcTl6ekJqCqJYVmKx3mPXgHj1g&oe=6A9D6F9D)
 Nvidia 宣布買入聯發科35 億美元的可轉換債券，是 Nvidia 在美國以外最大的直接投資。
 ​
 消息一出，許多人的第一反應又是：Nvidia又來「循環融資」了嗎？

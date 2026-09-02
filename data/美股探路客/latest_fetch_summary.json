@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-09-01T06:12:46.473918+00:00",
+  "fetched_at_utc": "2026-09-02T05:40:57.124439+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 1,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1499865928854006"
+  ],
+  "new_markdown_files": [
+    "data/美股探路客/2026-09-01_TVBS財經鈔能力-節目跟-財富自由fire實驗室-林裕豐-一起聊美股投資歡迎收看.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",
   "notes": [

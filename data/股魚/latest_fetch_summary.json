@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-09-01T06:12:43.208071+00:00",
+  "fetched_at_utc": "2026-09-02T05:40:53.194365+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,10 +9,18 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "checked_post_count": 3,
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1532667538899330",
+    "1532221322277285",
+    "1532058578960226"
+  ],
+  "new_markdown_files": [
+    "data/股魚/2026-09-02_美債10年期殖利率即將衝破5.0-的臨界關卡.md",
+    "data/股魚/2026-09-01_2026.Q2-合約負債佔股本這幾家超過1000以上富爸爸猛灌單接單接到手軟.md",
+    "data/股魚/2026-09-01_00929沒騙人.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",
   "notes": [
@@ -20,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/dextermchang",
   "final_url": "https://www.facebook.com/dextermchang",
-  "fetched_at_utc": "2026-09-01T06:12:25.134832+00:00",
+  "fetched_at_utc": "2026-09-02T05:40:32.088129+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "122137727913207208"
+  ],
+  "new_markdown_files": [
+    "data/大會計師 張明輝/2026-09-02_大聯大-現金流模式被打破原因就在記憶體.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/大會計師 張明輝",
   "notes": [
