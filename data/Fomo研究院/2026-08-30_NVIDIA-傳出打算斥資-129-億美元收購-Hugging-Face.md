@@ -4,22 +4,22 @@ title: "NVIDIA 傳出打算斥資 129 億美元收購 Hugging Face？"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02T1h8tQcpGQ2APybmzK7PvKSGZXjm9dJrrYg9FqKbCdTfckyWRQ3iuj1Ymxs2vXmtl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0PU3wyEzTRE8m5SV1kKf4v3RnnJxEEnGDrYcxfH54Pi66c32DGfj4aDACnCBtuTSQl&id=61573146584049"
 creation_time_utc: "2026-08-30T05:01:49+00:00"
-fetched_at_utc: "2026-09-02T05:41:00.808324+00:00"
+fetched_at_utc: "2026-09-03T05:40:33.663459+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/788014609_122195473406771552_8122414390731420308_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VwUUdUbTzX4Q7kNvwFySWdc&_nc_oc=AdrY0G310lMpvlqbVM2sJnjPC7cr7-4UMdk7GJY12Ti4ULEMhKOFVx3U6mVkuq2CepY&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=3Vv1FteVkjfI9rVxv49NGQ&_nc_ss=7e120&oh=00_AQLFgMClmY42cR7l2kTeoCsBc9cZEA0sk5bcGNs1MqPRTA&oe=6A9DA1FA"
+image_url: "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/788014609_122195473406771552_8122414390731420308_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VwUUdUbTzX4Q7kNvwFGqeRl&_nc_oc=AdrVOUEcltwyvWrz70-qXUcxvGNKIzY5hI7HpDF87QlyCA2SVuT1BWWs2o-FESnw4k4&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=zT_A-FckSRGPQi_0EH7-fQ&_nc_ss=7e120&oh=00_AQKmTO7-4aiLsRGr_-DN-qI9vN04YAHjjH14cHqVqzAXyw&oe=6A9EF37A"
 feedback_id: "ZmVlZGJhY2s6MTIyMTk1NDczNDg0NzcxNTUy"
 page_canonical_url: ""
 ---
 
 # NVIDIA 傳出打算斥資 129 億美元收購 Hugging Face？
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02T1h8tQcpGQ2APybmzK7PvKSGZXjm9dJrrYg9FqKbCdTfckyWRQ3iuj1Ymxs2vXmtl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0PU3wyEzTRE8m5SV1kKf4v3RnnJxEEnGDrYcxfH54Pi66c32DGfj4aDACnCBtuTSQl&id=61573146584049
 
-![NVIDIA 傳出打算斥資 129 億美元收購 Hugging Face？](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/788014609_122195473406771552_8122414390731420308_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VwUUdUbTzX4Q7kNvwFySWdc&_nc_oc=AdrY0G310lMpvlqbVM2sJnjPC7cr7-4UMdk7GJY12Ti4ULEMhKOFVx3U6mVkuq2CepY&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=3Vv1FteVkjfI9rVxv49NGQ&_nc_ss=7e120&oh=00_AQLFgMClmY42cR7l2kTeoCsBc9cZEA0sk5bcGNs1MqPRTA&oe=6A9DA1FA)
+![NVIDIA 傳出打算斥資 129 億美元收購 Hugging Face？](https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/788014609_122195473406771552_8122414390731420308_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VwUUdUbTzX4Q7kNvwFGqeRl&_nc_oc=AdrVOUEcltwyvWrz70-qXUcxvGNKIzY5hI7HpDF87QlyCA2SVuT1BWWs2o-FESnw4k4&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=zT_A-FckSRGPQi_0EH7-fQ&_nc_ss=7e120&oh=00_AQKmTO7-4aiLsRGr_-DN-qI9vN04YAHjjH14cHqVqzAXyw&oe=6A9EF37A)
 NVIDIA 傳出打算斥資 129 億美元收購 Hugging Face？
 
 以其據報約 1.5 億美元的年化收入推算，估值倍數高達 80 倍。單看財務數字，這是一筆難以自洽的昂貴交易。

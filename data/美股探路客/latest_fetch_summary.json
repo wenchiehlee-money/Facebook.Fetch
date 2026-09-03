@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-09-02T05:40:57.124439+00:00",
+  "fetched_at_utc": "2026-09-03T05:40:30.151701+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 1,
   "new_post_count": 1,
   "new_post_ids": [
-    "1499865928854006"
+    "1500412248799374"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-09-01_TVBS財經鈔能力-節目跟-財富自由fire實驗室-林裕豐-一起聊美股投資歡迎收看.md"
+    "data/美股探路客/2026-09-02_投資美股指數ETF避股息稅的有趣現象海外投資人投資美股指數ETF配息要被扣稅連大型投資機構都會選擇在配息前賣出配息後買回.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

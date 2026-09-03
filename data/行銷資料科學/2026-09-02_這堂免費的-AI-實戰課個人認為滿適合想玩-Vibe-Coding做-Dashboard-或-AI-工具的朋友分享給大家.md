@@ -4,9 +4,9 @@ title: "這堂免費的 AI 實戰課，個人認為滿適合想玩 Vibe Coding�
 page_title: ""
 requested_url: "https://www.facebook.com/MarketingDataScienceTMR"
 final_url: "https://www.facebook.com/MarketingDataScienceTMR"
-post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0iHiT3sgXZUPFsBkBRmsvWg3DKFAPDp6ixW8vRYyLynU6yXncXzXgnYyz4r57uWXCl"
+post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid02n9AAEYcMQkE9hhKc1H4uBHzhoyk5vWTp1qFHnojRei11rvw9H3vEMrLeLwuwcf1Tl"
 creation_time_utc: "2026-09-02T03:15:17+00:00"
-fetched_at_utc: "2026-09-02T05:40:39.881968+00:00"
+fetched_at_utc: "2026-09-03T05:40:19.124324+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 這堂免費的 AI 實戰課，個人認為滿適合想玩 Vibe Coding、做 Dashboard 或 AI 工具的朋友，分享給大家 👇
 
-原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0iHiT3sgXZUPFsBkBRmsvWg3DKFAPDp6ixW8vRYyLynU6yXncXzXgnYyz4r57uWXCl
+原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid02n9AAEYcMQkE9hhKc1H4uBHzhoyk5vWTp1qFHnojRei11rvw9H3vEMrLeLwuwcf1Tl
 這堂免費的 AI 實戰課，個人認為滿適合想玩 Vibe Coding、做 Dashboard 或 AI 工具的朋友，分享給大家 👇
 
 我覺得比較實用的是，雖然課程會以「工業數據分析」當案例，但整套方法其實可以直接帶回自己的工作。

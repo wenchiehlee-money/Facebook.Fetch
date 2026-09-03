@@ -1,14 +1,10 @@
 {
   "requested_url": "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL",
-  "fetched_at_utc": "2026-09-02T05:40:28.911748+00:00",
+  "fetched_at_utc": "2026-09-03T05:40:10.697959+00:00",
   "list_title": "股票",
   "total_items": 10,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "10227354101678508"
-  ],
-  "new_markdown_files": [
-    "data/我的珍藏-股票/2026-09-02_迄今為止軟體開發人員對AI接受度最高法律金融和客戶服務這三大領域都呈現出顯著的成長動能.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "posts_directory": "data/我的珍藏-股票"
 }

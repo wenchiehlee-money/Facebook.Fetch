@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-09-02T05:41:24.969658+00:00",
+  "fetched_at_utc": "2026-09-03T05:40:49.877541+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122201338586486922",
-    "122201317424486922",
-    "122201300012486922"
+    "122201462252486922",
+    "122201429168486922",
+    "122201419718486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-09-02_遇到問題時怪罪他人是最簡單最直覺的選擇.md",
-    "data/美股老司機 3.0/2026-09-01_901.md",
-    "data/美股老司機 3.0/2026-09-01_財報-CRDO.md"
+    "data/美股老司機 3.0/2026-09-03_磚家.md",
+    "data/美股老司機 3.0/2026-09-02_902.md",
+    "data/美股老司機 3.0/2026-09-02_財報-AVGO.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",
