@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-09-03T05:40:49.877541+00:00",
+  "fetched_at_utc": "2026-09-03T13:02:47.082536+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122201462252486922",
-    "122201429168486922",
-    "122201419718486922"
+    "122201478548486922",
+    "122201476970486922",
+    "122201475170486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-09-03_磚家.md",
-    "data/美股老司機 3.0/2026-09-02_902.md",
-    "data/美股老司機 3.0/2026-09-02_財報-AVGO.md"
+    "data/美股老司機 3.0/2026-09-03_全球-AI-資料中心在未來近-25-年間的資本支出成長趨勢.md",
+    "data/美股老司機 3.0/2026-09-03_投資小故事.md",
+    "data/美股老司機 3.0/2026-09-03_行情總在絕望中誕生在半信半疑中成長.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

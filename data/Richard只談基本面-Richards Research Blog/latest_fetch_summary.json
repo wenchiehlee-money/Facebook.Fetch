@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-09-03T05:40:42.160935+00:00",
+  "fetched_at_utc": "2026-09-03T13:02:36.448225+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1601018428381524"
-  ],
-  "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-09-03_昨晚Broadcom幾句話有關Substrate缺貨瓶頸的問題提到要擴大新加坡Substrate廠的產能因應查了一下雖未明講但他講的應該是指Toppan和Bro.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",
   "notes": [

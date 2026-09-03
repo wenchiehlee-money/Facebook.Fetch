@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-09-03T05:40:47.393584+00:00",
+  "fetched_at_utc": "2026-09-03T13:02:42.844133+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,13 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 1,
-  "new_post_count": 1,
+  "checked_post_count": 2,
+  "new_post_count": 2,
   "new_post_ids": [
-    "122227069076502956"
+    "122227128290502956",
+    "122227120754502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-09-03_ASMLHigh-NA-EUV開啟下一輪微縮週期.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-09-03_輝達砸129億美元收購-Hugging-Face.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-09-03_日本電子零組件迎來新一輪成長週期.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",
@@ -25,6 +27,6 @@
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 2 篇貼文。"
+    "已依中文至少 80 字規則排除 1 篇貼文。"
   ]
 }

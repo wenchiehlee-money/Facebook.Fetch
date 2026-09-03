@@ -4,9 +4,9 @@ title: "昨晚Broadcom幾句話有關Substrate缺貨瓶頸的問題提到要擴�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02if7tcNiC65eLVfLUG5pxMo4HpeNHyijfPox6M1gGXEDg9F4YfhGegwk5Sku2RZ1nl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0edXB8ZWdRFETejmobR3jTkTRPSmP7JHzo2GD6o4UyD4aAozbiTWbvXYUnA6mgvgwl&id=100054201473657"
 creation_time_utc: "2026-09-03T03:20:18+00:00"
-fetched_at_utc: "2026-09-03T05:40:42.160935+00:00"
+fetched_at_utc: "2026-09-03T13:02:36.448225+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 昨晚Broadcom幾句話有關Substrate缺貨瓶頸的問題提到要擴大新加坡Substrate廠的產能因應，查了一下，雖未明講，但他講的應該是指Toppan和Broadcom在新加坡合作的AST公司(Advanced Substrate Technologies Pte Ltd)，這家公司不是新成立的、或者秘密建設突然跑出來對外揭露的產能，是2024年成立時就公開的，根據EE Times Taiwsn 2024年報導如下，看起來規模不太大，判斷既然是Toppan子公司，新加坡廠的產能計畫應該已經併入研究機構內容和產業供應鏈的生態鏈之間，並非突然跑出來的東西，原計畫2026年底生產，Broadcom說F2027年投產，也是差不多沒變化
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02if7tcNiC65eLVfLUG5pxMo4HpeNHyijfPox6M1gGXEDg9F4YfhGegwk5Sku2RZ1nl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0edXB8ZWdRFETejmobR3jTkTRPSmP7JHzo2GD6o4UyD4aAozbiTWbvXYUnA6mgvgwl&id=100054201473657
 昨晚Broadcom幾句話有關Substrate缺貨瓶頸的問題提到要擴大新加坡Substrate廠的產能因應，查了一下，雖未明講，但他講的應該是指Toppan和Broadcom在新加坡合作的AST公司(Advanced Substrate Technologies Pte Ltd)，這家公司不是新成立的、或者秘密建設突然跑出來對外揭露的產能，是2024年成立時就公開的，根據EE Times Taiwsn 2024年報導如下，看起來規模不太大，判斷既然是Toppan子公司，新加坡廠的產能計畫應該已經併入研究機構內容和產業供應鏈的生態鏈之間，並非突然跑出來的東西，原計畫2026年底生產，Broadcom說F2027年投產，也是差不多沒變化
 
 ----------------------------------------------------

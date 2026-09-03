@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
 post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0HkP2Pjruxga6VEQbkanTefyqPw8usaCWVz88V95PgAZjKxASVMW9hmCWjoGUM5Uml"
 creation_time_utc: "2026-09-02T23:03:04+00:00"
-fetched_at_utc: "2026-09-03T05:40:24.591407+00:00"
+fetched_at_utc: "2026-09-03T13:02:16.790811+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/791453486_1494788085787920_955098654686146764_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1-CAQoj4rXEQ7kNvwFKZV3U&_nc_oc=Adr5iMT8dgaMut62rlFgOWxvx_vDJZcIwVhhabU7M_48kE1vaG3zvngKlm_cjSzqwB0&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=MXwks4vV0xOBugvZXWPDQw&_nc_ss=7e120&oh=00_AQLkbaf1V9Bz4KS-gCMmznIP3paqEhQWynmOEixhGhlQfg&oe=6A9EE46A"
+image_url: "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/791453486_1494788085787920_955098654686146764_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1-CAQoj4rXEQ7kNvwEGKDzs&_nc_oc=AdobFDd7c7o_HM4GIrMu3_lpX1y9iZQOHffhj_RgP1olUqa1P06JXF30azJDLbHk_zg&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&_nc_gid=XtVyWET4BfTMVZZ-ZjWq8g&_nc_ss=7e120&oh=00_AQIfbZn21qwohh1FccPqgEyeyfLT7d5Ie2STGx7dsUKJaA&oe=6A9F54EA"
 feedback_id: "ZmVlZGJhY2s6MTQ5NTA3OTU2OTA5MjEwNQ=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0HkP2Pjruxga6VEQbkanTefyqPw8usaCWVz88V95PgAZjKxASVMW9hmCWjoGUM5Uml
 
-![Young Money書中對於”地位遊戲”(Status Game)有精闢的說明，因為作者過去就是親身力行的玩家。](https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/791453486_1494788085787920_955098654686146764_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1-CAQoj4rXEQ7kNvwFKZV3U&_nc_oc=Adr5iMT8dgaMut62rlFgOWxvx_vDJZcIwVhhabU7M_48kE1vaG3zvngKlm_cjSzqwB0&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=MXwks4vV0xOBugvZXWPDQw&_nc_ss=7e120&oh=00_AQLkbaf1V9Bz4KS-gCMmznIP3paqEhQWynmOEixhGhlQfg&oe=6A9EE46A)
+![Young Money書中對於”地位遊戲”(Status Game)有精闢的說明，因為作者過去就是親身力行的玩家。](https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/791453486_1494788085787920_955098654686146764_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1-CAQoj4rXEQ7kNvwEGKDzs&_nc_oc=AdobFDd7c7o_HM4GIrMu3_lpX1y9iZQOHffhj_RgP1olUqa1P06JXF30azJDLbHk_zg&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&_nc_gid=XtVyWET4BfTMVZZ-ZjWq8g&_nc_ss=7e120&oh=00_AQIfbZn21qwohh1FccPqgEyeyfLT7d5Ie2STGx7dsUKJaA&oe=6A9F54EA)
 Young Money書中對於”地位遊戲”(Status Game)有精闢的說明，因為作者過去就是親身力行的玩家。
 
 地位，是一個人相對於另一個人來說處於怎樣的位階。是一種相對值。地位可以在多面向展現，譬如學業、運動、金錢或職位。
@@ -64,7 +64,7 @@ Young Money書中對於”地位遊戲”(Status Game)有精闢的說明，因�
 
 贏得一個階段遊戲的獎賞，不是滿足的人生。而是無法停止的追逐。
 
-再來，地位遊戲無法瀛。到了某個階段，你很可能發現運氣與能力，最多最多就只能把自己送到某個高度。再也無法向上。錢就是那麼多了，無法再邁向下一個位階。學術成就就是這樣了，實在比不過其它聰明又努力的人。
+再來，地位遊戲無法贏。到了某個階段，你很可能發現運氣與能力，最多最多就只能把自己送到某個高度。再也無法向上。錢就是那麼多了，無法再邁向下一個位階。學術成就就是這樣了，實在比不過其它聰明又努力的人。
 
 第三，地位遊戲會讓人投入大量時間，只為達到某種地位後的短暫快樂。
 

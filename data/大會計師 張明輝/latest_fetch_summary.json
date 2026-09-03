@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/dextermchang",
   "final_url": "https://www.facebook.com/dextermchang",
-  "fetched_at_utc": "2026-09-03T05:40:13.048002+00:00",
+  "fetched_at_utc": "2026-09-03T13:02:02.422640+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "122137848201207208"
-  ],
-  "new_markdown_files": [
-    "data/大會計師 張明輝/2026-09-03_AI訂單滿手卻藏隱憂從財報存貨看供應鏈的真實考驗.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/大會計師 張明輝",
   "notes": [

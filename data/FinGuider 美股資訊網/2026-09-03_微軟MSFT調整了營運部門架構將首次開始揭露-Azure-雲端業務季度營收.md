@@ -4,22 +4,22 @@ title: "📌微軟（#MSFT）調整了營運部門架構，將首次開始揭露
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid02M7RpcUvEbYFXBAUDYXW7rc9xPdq74wpF7yTsbryapLt1pREptztfJXKDu2W4dns4l"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0HZndhKHskEHaFw7he2m3dQtPcLYbodjJTWCJTMHKSrNCU6wxkDAg1PTYmEftJBS7l"
 creation_time_utc: "2026-09-03T00:03:01+00:00"
-fetched_at_utc: "2026-09-03T05:40:21.795052+00:00"
+fetched_at_utc: "2026-09-03T13:02:13.235327+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/787044948_1547491367421005_6790160527106323429_n.jpg?stp=dst-jpg_p851x315_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mjy70-WL4lQQ7kNvwEQ17Vp&_nc_oc=Adp8f8Zoo43WWjrbc2lfXb1jX7LXgJe9LnMuHHkrGWArlu3keveWZKCnqkgpwWF-KIY&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=Pns17ggi1mK5jNxokihRjw&_nc_ss=7e120&oh=00_AQIQQpZzyQZp-TZCPvwm3CNS9FOEtYaXKO6R3cTBKTHtqg&oe=6A9EC25A"
+image_url: "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/787044948_1547491367421005_6790160527106323429_n.jpg?stp=dst-jpg_p851x315_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mjy70-WL4lQQ7kNvwE5U55S&_nc_oc=Adot6X46jICu8DGCbpJzr_4UzQb93Z2i9VgW89H2HjGjdXLyWFT9wHvZ9q8GkQa57g0&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&_nc_gid=gaDonvViLAb5MGezU180OA&_nc_ss=7e120&oh=00_AQK_UVB7E8s1qeT7ZXogx4V1keN_VuGIHOoeSHZHuCNyjw&oe=6A9F32DA"
 feedback_id: "ZmVlZGJhY2s6MTU0NzQ5MTU1NDA4NzY1Mw=="
 page_canonical_url: ""
 ---
 
 # 📌微軟（#MSFT）調整了營運部門架構，將首次開始揭露 #Azure 雲端業務季度營收。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid02M7RpcUvEbYFXBAUDYXW7rc9xPdq74wpF7yTsbryapLt1pREptztfJXKDu2W4dns4l
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0HZndhKHskEHaFw7he2m3dQtPcLYbodjJTWCJTMHKSrNCU6wxkDAg1PTYmEftJBS7l
 
-![📌微軟（#MSFT）調整了營運部門架構，將首次開始揭露 #Azure 雲端業務季度營收。](https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/787044948_1547491367421005_6790160527106323429_n.jpg?stp=dst-jpg_p851x315_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mjy70-WL4lQQ7kNvwEQ17Vp&_nc_oc=Adp8f8Zoo43WWjrbc2lfXb1jX7LXgJe9LnMuHHkrGWArlu3keveWZKCnqkgpwWF-KIY&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=Pns17ggi1mK5jNxokihRjw&_nc_ss=7e120&oh=00_AQIQQpZzyQZp-TZCPvwm3CNS9FOEtYaXKO6R3cTBKTHtqg&oe=6A9EC25A)
+![📌微軟（#MSFT）調整了營運部門架構，將首次開始揭露 #Azure 雲端業務季度營收。](https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/787044948_1547491367421005_6790160527106323429_n.jpg?stp=dst-jpg_p851x315_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mjy70-WL4lQQ7kNvwE5U55S&_nc_oc=Adot6X46jICu8DGCbpJzr_4UzQb93Z2i9VgW89H2HjGjdXLyWFT9wHvZ9q8GkQa57g0&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&_nc_gid=gaDonvViLAb5MGezU180OA&_nc_ss=7e120&oh=00_AQK_UVB7E8s1qeT7ZXogx4V1keN_VuGIHOoeSHZHuCNyjw&oe=6A9F32DA)
 📌微軟（#MSFT）調整了營運部門架構，將首次開始揭露 #Azure 雲端業務季度營收。
 ​
 微軟先前的營運部門架構是從 2015 年以來一直沿用至今，現在則要將營運部門從三個精簡至兩個：代理和基礎設施（Agents and Infra）、設備和消費者（Devices and Consumer）。

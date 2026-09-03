@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-09-03T05:40:44.588378+00:00",
+  "fetched_at_utc": "2026-09-03T13:02:39.991751+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 1,
   "new_post_count": 1,
   "new_post_ids": [
-    "1596902531794369"
+    "1597333245084631"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-09-02_Broadcom-最新一季-AI-半導體營收達-167-億美元年增-221季增-54下一季預估進一步升到-217-億美元年增-236.md"
+    "data/IEObserve 國際經濟觀察/2026-09-03_老黃真的129億收購Hugging-Face啦.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

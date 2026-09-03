@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-09-03T05:40:27.543908+00:00",
+  "fetched_at_utc": "2026-09-03T13:02:20.226442+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1533062712193146"
-  ],
-  "new_markdown_files": [
-    "data/股魚/2026-09-02_持股清單一比對嚇呆在現場原來被騙了你也是假分散的受害者.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",
   "notes": [
