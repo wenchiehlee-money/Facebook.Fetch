@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-09-02T05:40:48.884305+00:00",
+  "fetched_at_utc": "2026-09-03T13:02:16.790811+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1494266555840073",
-    "1493704962562899"
+    "1495380479062014"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-09-01_昨天以欣興近期事件解釋單一股票風險的文章發表後有位朋友留言.md",
-    "data/綠角財經筆記/2026-09-01_昨天在第一支指數型基金發行50周年紀念的相關歷史文章大家好像蠻有興趣的今天來回顧Vanguard資產管理成立時的命名典故與當時柏格先生的想法.md"
+    "data/綠角財經筆記/2026-09-03_今天參加一場與工作有關的訓練講座.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

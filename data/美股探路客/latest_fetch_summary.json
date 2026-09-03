@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-09-02T05:40:57.124439+00:00",
+  "fetched_at_utc": "2026-09-03T13:02:23.802517+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,13 +9,13 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 1,
+  "checked_post_count": 2,
   "new_post_count": 1,
   "new_post_ids": [
-    "1499865928854006"
+    "1501402662033666"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-09-01_TVBS財經鈔能力-節目跟-財富自由fire實驗室-林裕豐-一起聊美股投資歡迎收看.md"
+    "data/美股探路客/2026-09-03_博通-Broadcom-CEO陳福陽不讓黃仁勳專美於前給出半導體營收20272028分別年增98100的指引彌補指引不如預期的財報.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",
@@ -25,6 +25,6 @@
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 2 篇貼文。"
+    "已依中文至少 80 字規則排除 1 篇貼文。"
   ]
 }

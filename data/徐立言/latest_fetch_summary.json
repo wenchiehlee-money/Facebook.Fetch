@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/hsulylab",
   "final_url": "https://www.facebook.com/hsulylab",
-  "fetched_at_utc": "2026-09-02T05:41:29.524716+00:00",
+  "fetched_at_utc": "2026-09-03T13:02:50.603199+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1358087136489437",
-    "1357567549874729",
-    "1357409596557191"
+    "1359121506386000",
+    "1359046166393534"
   ],
   "new_markdown_files": [
-    "data/徐立言/2026-09-02_洞察底層邏輯看透九月市場變局.md",
-    "data/徐立言/2026-09-01_當你仔細閱讀各大科技巨頭最新一季光鮮亮麗的財報時你會否理所當然地認為這些破紀錄的數字完全來自於他們核心業務的強勁增長.md",
-    "data/徐立言/2026-09-01_當你身邊的所有人都在同一場狂歡中獲得短期的滿足時你會選擇加入還是獨自留在安靜的角落承受質疑這不僅僅是一個關於選擇的假設更是我們在社會群體中不斷面臨的真實考驗.md"
+    "data/徐立言/2026-09-03_近日摩根士丹利Morgan-Stanley與Trendforce最新釋出的2026年DRAM與NAND定價預測圖表表面上看似是一份枯燥的數字矩陣但若我們將視角放.md",
+    "data/徐立言/2026-09-03_我們常聽說利率環境的變化必然帶來市場的震盪與衰退當你每次看到利率調整的資訊是否直覺地認為這是一個必須防禦的時刻這種被廣泛接受的常識往往讓我們在不知不覺中將正常的.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/徐立言",

@@ -1,11 +1,12 @@
 # Facebook 貼文索引
 
 - 頁面: 
-- 抓取時間: 2026-09-02T05:41:12.441822+00:00
-- 已收錄貼文數量: 243
+- 抓取時間: 2026-09-03T13:02:36.448225+00:00
+- 已收錄貼文數量: 244
 
 ## 文章列表
 
+- `2026-09-03` [昨晚Broadcom幾句話有關Substrate缺貨瓶頸的問題提到要擴大新加坡Substrate廠的產能因應，查了一下，雖未明講，但他講的應該是指Toppan和Broadcom在新加坡合作的AST公司(Advanced Substrate Technologies Pte Ltd)，這家公司不是新成立的、或者秘密建設突然跑出來對外揭露的產能，是2024年成立時就公開的，根據EE Times Taiwsn 2024年報導如下，看起來規模不太大，判斷既然是Toppan子公司，新加坡廠的產能計畫應該已經併入研究機構內容和產業供應鏈的生態鏈之間，並非突然跑出來的東西，原計畫2026年底生產，Broadcom說F2027年投產，也是差不多沒變化](2026-09-03_昨晚Broadcom幾句話有關Substrate缺貨瓶頸的問題提到要擴大新加坡Substrate廠的產能因應查了一下雖未明講但他講的應該是指Toppan和Bro.md)
 - `2026-09-01` [根據上篇轉發郭明錤分析師對Rubin CPX的資訊，回頭重看了Nvidia官網有關MGX ETL的東西，綜合理解/整理如下:](2026-09-01_根據上篇轉發郭明錤分析師對Rubin-CPX的資訊回頭重看了Nvidia官網有關MGX-ETL的東西綜合理解整理如下.md)
 - `2026-09-01` [1. Nvidia NVHBM將memory controller移入HBM base die，其die-to-die並非JEDEC bus規格，這將使得Nvidia有更高的HBM速度，提升速度但降低互通性，而互通性跟好是Nvidia不想要的，最好整個產業像我靠攏](2026-09-01_1.-Nvidia-NVHBM將memory-controller移入HBM-base-die其die-to-die並非JEDEC-bus規格這將使得Nvidi.md)
 - `2026-08-30` [------------\"Meta 的路線圖預計將推出四代加速器：MTIA 300、400、450 和 500。MTIA 400 特別被視為 Meta 的重大發展，因為它引入了 FP4 支援、可擴展至 72 節點域的能力，以及整體效能的顯著提升。](2026-08-30_Meta-的路線圖預計將推出四代加速器MTIA-300400450-和-500MTIA-400-特別被視為-Meta-的重大發展因為它引入了-FP4-支援可擴展.md)

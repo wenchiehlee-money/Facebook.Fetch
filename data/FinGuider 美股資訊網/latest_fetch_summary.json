@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-09-02T05:40:44.570066+00:00",
+  "fetched_at_utc": "2026-09-03T13:02:13.235327+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,15 +9,13 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 2,
+  "checked_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1546602334176575",
-    "1545921307578011"
+    "1547824640721011"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-09-01_戴爾DELL盤後公布了-Q2-財報營收年增-58-至-469.7-億美元遠高於市場預期的-449.2-億EPS-報-7.04-美元輕鬆擊敗了市場共識的-4.92.md",
-    "data/FinGuider 美股資訊網/2026-09-01_美股-ETF-趨勢週報.md"
+    "data/FinGuider 美股資訊網/2026-09-03_Snowflake-財報後盤前大漲-23市場買單什麼.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",
@@ -26,6 +24,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 80 字規則排除 1 篇貼文。"
   ]
 }

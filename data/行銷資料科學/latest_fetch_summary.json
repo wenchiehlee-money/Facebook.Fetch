@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-09-02T05:40:39.881968+00:00",
+  "fetched_at_utc": "2026-09-03T13:02:09.577196+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1371317971778511"
-  ],
-  "new_markdown_files": [
-    "data/行銷資料科學/2026-09-02_這堂免費的-AI-實戰課個人認為滿適合想玩-Vibe-Coding做-Dashboard-或-AI-工具的朋友分享給大家.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",
   "notes": [
