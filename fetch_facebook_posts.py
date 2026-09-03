@@ -257,26 +257,46 @@ def extract_post_records_from_html(html_text: str) -> list[dict[str, Any]]:
     return deduplicate_records(records)
 
 
+_USER_ID_PATTERNS = (
+    r'"userID"\s*:\s*"(\d+)"',
+    r'"actorID"\s*:\s*"(\d+)"',
+    r'"ownerID"\s*:\s*"(\d+)"',
+    r'"pageID"\s*:\s*"(\d+)"',
+    r'"profileID"\s*:\s*"(\d+)"',
+    r'"owner"\s*:\s*\{[^}]*"id"\s*:\s*"(\d+)"',
+    r'"author"\s*:\s*\{"__typename":"(?:User|Page)","id":"(\d+)"',
+    r'"node"\s*:\s*\{[^}]*"id"\s*:\s*"(\d{10,})"',
+)
+
+
+def _find_user_id(html_text: str) -> str | None:
+    """Try each ID pattern in priority order, skipping placeholder "0"
+    values instead of stopping at the first regex that merely matches.
+    Facebook's logged-out HTML for some accounts embeds an early
+    "actorID":"0" (anonymous-viewer placeholder) before any field that
+    actually carries the target page's real ID -- a plain `or`-chain
+    over `re.search()` calls stops at the first successful match
+    regardless of its captured value, so it would return "0" and never
+    look at the later, correct patterns."""
+    for pattern in _USER_ID_PATTERNS:
+        match = re.search(pattern, html_text)
+        if match and match.group(1) != "0":
+            return match.group(1)
+    return None
+
+
 def extract_public_graphql_context(html_text: str) -> dict[str, str] | None:
     lsd_match = re.search(r'\["LSD",\s*\[\],\s*\{"token":\s*"([^"]+)"\}', html_text)
     jazoest_match = re.search(r"jazoest[^0-9]{0,20}(\d{4,})", html_text)
-    user_id_match = (
-        re.search(r'"userID"\s*:\s*"(\d+)"', html_text)
-        or re.search(r'"actorID"\s*:\s*"(\d+)"', html_text)
-        or re.search(r'"ownerID"\s*:\s*"(\d+)"', html_text)
-        or re.search(r'"pageID"\s*:\s*"(\d+)"', html_text)
-        or re.search(r'"profileID"\s*:\s*"(\d+)"', html_text)
-        or re.search(r'"owner"\s*:\s*\{[^}]*"id"\s*:\s*"(\d+)"', html_text)
-        or re.search(r'"node"\s*:\s*\{[^}]*"id"\s*:\s*"(\d{10,})"', html_text)
-    )
+    user_id = _find_user_id(html_text)
     vanity_match = re.search(r'"userVanity":"([^"]+)"', html_text)
     dtsg_match = re.search(r'"DTSGInitialData",\[\],\{"token":"([^"]+)"\}', html_text)
-    if not (lsd_match and jazoest_match and user_id_match):
+    if not (lsd_match and jazoest_match and user_id):
         return None
     return {
         "lsd": lsd_match.group(1),
         "jazoest": jazoest_match.group(1),
-        "user_id": user_id_match.group(1),
+        "user_id": user_id,
         "user_vanity": vanity_match.group(1) if vanity_match else "",
         "fb_dtsg": dtsg_match.group(1) if dtsg_match else "",
     }
@@ -629,17 +649,27 @@ def build_output_payload(url: str, result: FetchResult, count: int, months_back:
             print("[debug] Extracted fresh fb_dtsg from authenticated HTML", file=sys.stderr)
     # Get the target page's numeric ID reliably:
     # - profile.php?id=X URLs: extract directly from URL
-    # - Vanity URLs: fetch public (no-cookie) HTML; authenticated HTML often returns
-    #   the logged-in user's ID as the first "userID" match instead of the target.
+    # - Vanity URLs: prefer the public (no-cookie) HTML, since authenticated HTML
+    #   can (for most pages) return the logged-in user's own ID instead of the
+    #   target's. Some accounts' public HTML exposes no usable ID at all
+    #   (verified: andrew.semis.techs -- Facebook serves it a bare
+    #   "actorID":"0" placeholder and nothing else, even after the "skip
+    #   placeholder zero" fix in _find_user_id), so fall back to the
+    #   authenticated HTML as a second try rather than giving up.
     page_id_override = _extract_page_id_from_url(url)
     if not page_id_override and cookie and effective_fb_dtsg:
         try:
             public_result = fetch_html(url, None)
             pub_ctx = extract_public_graphql_context(public_result.html_text)
-            if pub_ctx and pub_ctx.get("user_id") and pub_ctx["user_id"] != "0":
+            if pub_ctx and pub_ctx.get("user_id"):
                 page_id_override = pub_ctx["user_id"]
         except Exception:
             pass
+        if not page_id_override:
+            auth_ctx = extract_public_graphql_context(result.html_text)
+            if auth_ctx and auth_ctx.get("user_id"):
+                print("[debug] Public HTML had no usable page ID; using authenticated HTML instead", file=sys.stderr)
+                page_id_override = auth_ctx["user_id"]
     graphql_records = extract_graphql_post_records(result.html_text, count, months_back=months_back, cookie=cookie, fb_dtsg=effective_fb_dtsg, page_id_override=page_id_override)
     html_records = extract_post_records_from_html(result.html_text)
     post_records = graphql_records if graphql_records else html_records
