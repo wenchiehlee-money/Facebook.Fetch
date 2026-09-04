@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/hsulylab",
   "final_url": "https://www.facebook.com/hsulylab",
-  "fetched_at_utc": "2026-09-03T13:02:50.603199+00:00",
+  "fetched_at_utc": "2026-09-04T05:46:12.184711+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1359121506386000",
-    "1359046166393534"
+    "1359750182989799",
+    "1359698002995017",
+    "1359205296377621"
   ],
   "new_markdown_files": [
-    "data/徐立言/2026-09-03_近日摩根士丹利Morgan-Stanley與Trendforce最新釋出的2026年DRAM與NAND定價預測圖表表面上看似是一份枯燥的數字矩陣但若我們將視角放.md",
-    "data/徐立言/2026-09-03_我們常聽說利率環境的變化必然帶來市場的震盪與衰退當你每次看到利率調整的資訊是否直覺地認為這是一個必須防禦的時刻這種被廣泛接受的常識往往讓我們在不知不覺中將正常的.md"
+    "data/徐立言/2026-09-04_市場洞察聯儲局一句話引發的市場反彈背後是否掩蓋了實體經濟的深層變數.md",
+    "data/徐立言/2026-09-04_根據圖表-Kobeissi-Letter-的最新發布配合我們透過網絡檢索獲得的綜合數據顯示全球廣義貨幣供應量在2026年6月正式突破了150萬億美元的歷史新高這.md",
+    "data/徐立言/2026-09-03_我們總有一種理所當然的共識在環境充滿不確定性的時候走向大型倉儲超市大量採購是最聰明且安全的自我保護方式.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/徐立言",

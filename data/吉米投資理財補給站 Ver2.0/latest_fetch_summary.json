@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-09-03T13:02:42.844133+00:00",
+  "fetched_at_utc": "2026-09-04T05:45:54.826501+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "122227128290502956",
-    "122227120754502956"
-  ],
-  "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-09-03_輝達砸129億美元收購-Hugging-Face.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-09-03_日本電子零組件迎來新一輪成長週期.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",
   "notes": [

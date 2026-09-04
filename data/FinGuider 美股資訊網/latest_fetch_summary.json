@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-09-03T13:02:13.235327+00:00",
+  "fetched_at_utc": "2026-09-04T05:45:13.268134+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 2,
   "new_post_count": 1,
   "new_post_ids": [
-    "1547824640721011"
+    "1548540700649405"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-09-03_Snowflake-財報後盤前大漲-23市場買單什麼.md"
+    "data/FinGuider 美股資訊網/2026-09-04_特斯拉TSLA這次低調的舉辦了-Cybercab-營運發布會採取了極為嚴格的邀請制也沒有公開完整直播至少部分受邀創作者表示需簽署-NDA.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

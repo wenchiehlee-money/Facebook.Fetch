@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-09-03T13:02:06.005250+00:00",
+  "fetched_at_utc": "2026-09-04T05:45:05.171350+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1139005895357429",
-    "1139004272024258",
-    "1139002145357804"
+    "4287171894914009"
   ],
   "new_markdown_files": [
-    "data/游庭皓的財經皓角/2026-09-03_AI資料中心遭地方反撲賓州近三分之二民眾認為資料中心已成社區問題.md",
-    "data/游庭皓的財經皓角/2026-09-03_台灣是長壽社會2025年台灣平均壽命回升至81.27歲比前一年增加0.50歲其中女性平均84.75歲男性77.93歲分別比全球平均高出8.6歲與7.0歲.md",
-    "data/游庭皓的財經皓角/2026-09-03_房市冷颼颼2026年上半年六都房市買氣持續低迷買賣移轉合計僅97438棟以約706萬戶計算家戶購屋比只有1.4等於平均每100戶僅約1至2戶在半年內買房不僅與2.md"
+    "data/游庭皓的財經皓角/2026-09-04_202694五沒人接盤-債市要變天2027兆元帳單來了-美股內部出現裂痕早晨財經速解讀.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-09-03T13:02:47.082536+00:00",
+  "fetched_at_utc": "2026-09-04T05:46:02.176870+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,17 +9,13 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 1,
+  "new_post_count": 1,
   "new_post_ids": [
-    "122201478548486922",
-    "122201476970486922",
-    "122201475170486922"
+    "122201552822486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-09-03_全球-AI-資料中心在未來近-25-年間的資本支出成長趨勢.md",
-    "data/美股老司機 3.0/2026-09-03_投資小故事.md",
-    "data/美股老司機 3.0/2026-09-03_行情總在絕望中誕生在半信半疑中成長.md"
+    "data/美股老司機 3.0/2026-09-03_903.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",
@@ -28,6 +24,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 80 字規則排除 2 篇貼文。"
   ]
 }

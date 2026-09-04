@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-09-03T13:02:16.790811+00:00",
+  "fetched_at_utc": "2026-09-04T05:45:17.700804+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1495380479062014"
+    "1495937202339675"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-09-03_今天參加一場與工作有關的訓練講座.md"
+    "data/綠角財經筆記/2026-09-03_之前看到一則新聞主題是全球富豪排名輝達執行長黃仁勳排名前十身價1968億美元等同台幣6.2兆.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

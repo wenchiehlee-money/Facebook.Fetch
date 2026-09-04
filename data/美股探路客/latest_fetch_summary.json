@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-09-03T13:02:23.802517+00:00",
+  "fetched_at_utc": "2026-09-04T05:45:26.931833+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1501402662033666"
-  ],
-  "new_markdown_files": [
-    "data/美股探路客/2026-09-03_博通-Broadcom-CEO陳福陽不讓黃仁勳專美於前給出半導體營收20272028分別年增98100的指引彌補指引不如預期的財報.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",
   "notes": [

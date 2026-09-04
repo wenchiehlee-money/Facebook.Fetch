@@ -4,22 +4,22 @@ title: "Young Money書中對於”地位遊戲”(Status Game)有精闢的說明
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0HkP2Pjruxga6VEQbkanTefyqPw8usaCWVz88V95PgAZjKxASVMW9hmCWjoGUM5Uml"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02M7sD1mDXzLGL8Es1fyjLaF89Bpa1hewqo9McqLsH4EDegQLcvhFXhZrMiBHKLSCyl"
 creation_time_utc: "2026-09-02T23:03:04+00:00"
-fetched_at_utc: "2026-09-03T13:02:16.790811+00:00"
+fetched_at_utc: "2026-09-04T05:45:17.700804+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/791453486_1494788085787920_955098654686146764_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1-CAQoj4rXEQ7kNvwEGKDzs&_nc_oc=AdobFDd7c7o_HM4GIrMu3_lpX1y9iZQOHffhj_RgP1olUqa1P06JXF30azJDLbHk_zg&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&_nc_gid=XtVyWET4BfTMVZZ-ZjWq8g&_nc_ss=7e120&oh=00_AQIfbZn21qwohh1FccPqgEyeyfLT7d5Ie2STGx7dsUKJaA&oe=6A9F54EA"
+image_url: "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/791453486_1494788085787920_955098654686146764_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=oGC_DZiyjT0Q7kNvwHgYrGA&_nc_oc=AdpmEDm3J-BbxwKiXdc99sIj9lU5Eyefbo-dO9tRyrZzU5N8dXvECSjQfhXjwA_dI6s&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=mgIT6sH8CqOHxmIcJUGRZA&_nc_ss=7e120&oh=00_AQJDglix-SGaZ6mghd63dqiK8NKqOATBAGR1hZIIs6gTwA&oe=6AA035EA"
 feedback_id: "ZmVlZGJhY2s6MTQ5NTA3OTU2OTA5MjEwNQ=="
 page_canonical_url: ""
 ---
 
 # Young Money書中對於”地位遊戲”(Status Game)有精闢的說明，因為作者過去就是親身力行的玩家。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0HkP2Pjruxga6VEQbkanTefyqPw8usaCWVz88V95PgAZjKxASVMW9hmCWjoGUM5Uml
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02M7sD1mDXzLGL8Es1fyjLaF89Bpa1hewqo9McqLsH4EDegQLcvhFXhZrMiBHKLSCyl
 
-![Young Money書中對於”地位遊戲”(Status Game)有精闢的說明，因為作者過去就是親身力行的玩家。](https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/791453486_1494788085787920_955098654686146764_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1-CAQoj4rXEQ7kNvwEGKDzs&_nc_oc=AdobFDd7c7o_HM4GIrMu3_lpX1y9iZQOHffhj_RgP1olUqa1P06JXF30azJDLbHk_zg&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&_nc_gid=XtVyWET4BfTMVZZ-ZjWq8g&_nc_ss=7e120&oh=00_AQIfbZn21qwohh1FccPqgEyeyfLT7d5Ie2STGx7dsUKJaA&oe=6A9F54EA)
+![Young Money書中對於”地位遊戲”(Status Game)有精闢的說明，因為作者過去就是親身力行的玩家。](https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/791453486_1494788085787920_955098654686146764_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=oGC_DZiyjT0Q7kNvwHgYrGA&_nc_oc=AdpmEDm3J-BbxwKiXdc99sIj9lU5Eyefbo-dO9tRyrZzU5N8dXvECSjQfhXjwA_dI6s&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=mgIT6sH8CqOHxmIcJUGRZA&_nc_ss=7e120&oh=00_AQJDglix-SGaZ6mghd63dqiK8NKqOATBAGR1hZIIs6gTwA&oe=6AA035EA)
 Young Money書中對於”地位遊戲”(Status Game)有精闢的說明，因為作者過去就是親身力行的玩家。
 
 地位，是一個人相對於另一個人來說處於怎樣的位階。是一種相對值。地位可以在多面向展現，譬如學業、運動、金錢或職位。
