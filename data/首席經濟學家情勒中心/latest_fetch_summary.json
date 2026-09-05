@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61589343187385",
   "final_url": "https://www.facebook.com/profile.php?id=61589343187385",
-  "fetched_at_utc": "2026-09-04T05:46:19.762067+00:00",
+  "fetched_at_utc": "2026-09-05T06:50:20.265337+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 2,
   "new_post_count": 2,
   "new_post_ids": [
-    "122121778623311439",
-    "122121722643311439"
+    "122121934509311439",
+    "122121831945311439"
   ],
   "new_markdown_files": [
-    "data/首席經濟學家情勒中心/2026-09-04_在野黨最適合扮演執政黨上皇角色的當然是翁上人啊一定到哪裡都人氣滿滿.md",
-    "data/首席經濟學家情勒中心/2026-09-03_泡沫會把價格摔碎卻也可能把成本一起摔低當算力與智能便宜到人人用得起AI革命才算真正開始.md"
+    "data/首席經濟學家情勒中心/2026-09-05_首先我個人同意有更好的地圖那還是要用更好的地圖比較好但表決通過要全世界一起換地圖這種事實在太奇怪了.md",
+    "data/首席經濟學家情勒中心/2026-09-04_方丈再度出手貿易戰玩出新高度.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/首席經濟學家情勒中心",

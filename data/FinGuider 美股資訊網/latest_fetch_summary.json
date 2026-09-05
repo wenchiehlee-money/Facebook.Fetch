@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-09-04T05:45:13.268134+00:00",
+  "fetched_at_utc": "2026-09-05T06:49:49.857619+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1548540700649405"
+    "1548773980626077",
+    "1548963537273788"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-09-04_特斯拉TSLA這次低調的舉辦了-Cybercab-營運發布會採取了極為嚴格的邀請制也沒有公開完整直播至少部分受邀創作者表示需簽署-NDA.md"
+    "data/FinGuider 美股資訊網/2026-09-05_在接棒波克夏BRK.B後Greg-Abel-首次比較具體的分享了目前幾條投資主線包含對日本五大商社及-GoogleGOOGL的投資AI-資料中心的電力需求為波克.md",
+    "data/FinGuider 美股資訊網/2026-09-04_美國-8-月非農就業新增-16.2-萬人高於市場預期的新增-5.5-萬.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

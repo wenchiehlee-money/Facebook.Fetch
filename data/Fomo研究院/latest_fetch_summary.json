@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-09-04T05:45:31.382021+00:00",
+  "fetched_at_utc": "2026-09-05T06:50:00.461208+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "122196079796771552"
+  ],
+  "new_markdown_files": [
+    "data/Fomo研究院/2026-09-04_Broadcom博通的執行長-Hock-Tan-在剛結束的財報會上花了不少時間讚美-Google.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",
   "notes": [

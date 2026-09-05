@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-09-04T05:46:37.647921+00:00",
+  "fetched_at_utc": "2026-09-05T06:50:28.472255+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,13 +9,13 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
+  "checked_post_count": 1,
   "new_post_count": 1,
   "new_post_ids": [
-    "1620392412777565"
+    "1621363126013827"
   ],
   "new_markdown_files": [
-    "data/andrew.semis.techs/2026-09-04_短期-Hugging-Face-保持中立長期變數多雖然-Hugging-Face-宣稱在Nvidia-併購後將繼續作為一個面向整個-AI-生態系統的開放平台開發.md"
+    "data/andrew.semis.techs/2026-09-05_在-SEMICON-Taiwan-2026-閉幕日台積電先進封裝品質與可靠性技術團隊針對次世代-HBM4--HBM4E-提出呼籲建議全球三大記憶體原廠SK-海力.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
@@ -24,6 +24,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 80 字規則排除 2 篇貼文。"
   ]
 }

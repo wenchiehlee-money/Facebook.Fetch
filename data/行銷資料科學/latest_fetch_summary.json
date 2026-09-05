@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-09-04T05:45:09.350413+00:00",
+  "fetched_at_utc": "2026-09-05T06:49:47.583555+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1372519354991706"
+    "1373313818245593"
   ],
   "new_markdown_files": [
-    "data/行銷資料科學/2026-09-03_從顧客行為到產品決策數據驅動的產品開發循環.md"
+    "data/行銷資料科學/2026-09-04_AI會傷害工作者的幸福感嗎德國20年追蹤資料的啟示.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",

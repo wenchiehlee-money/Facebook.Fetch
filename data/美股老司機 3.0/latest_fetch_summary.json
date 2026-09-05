@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-09-04T05:46:02.176870+00:00",
+  "fetched_at_utc": "2026-09-05T06:50:15.514426+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,13 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 1,
-  "new_post_count": 1,
+  "checked_post_count": 2,
+  "new_post_count": 2,
   "new_post_ids": [
-    "122201552822486922"
+    "122201705942486922",
+    "122201693804486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-09-03_903.md"
+    "data/美股老司機 3.0/2026-09-05_日本研討會要點與投資者反饋.md",
+    "data/美股老司機 3.0/2026-09-05_經濟學人封面魔咒.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",
@@ -25,6 +27,6 @@
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 80 字規則排除 2 篇貼文。"
+    "已依中文至少 80 字規則排除 1 篇貼文。"
   ]
 }

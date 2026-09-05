@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-09-04T05:45:05.171350+00:00",
+  "fetched_at_utc": "2026-09-05T06:49:45.043349+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "4287171894914009"
+    "1140071318584220",
+    "1140070445250974",
+    "1140068091917876"
   ],
   "new_markdown_files": [
-    "data/游庭皓的財經皓角/2026-09-04_202694五沒人接盤-債市要變天2027兆元帳單來了-美股內部出現裂痕早晨財經速解讀.md"
+    "data/游庭皓的財經皓角/2026-09-04_台灣大型壽險公司的資產配置高度集中在債券尤其是海外債券以2026年來看國泰人壽富邦人壽南山人壽與新光人壽的海外債券占比大致都在50至67左右若再加上國內債券整體.md",
+    "data/游庭皓的財經皓角/2026-09-04_台灣壽險海外曝險龐大在全球主要機構投資人中台灣壽險業的外幣曝險高達6960億美元規模僅次於加拿大退休基金丹麥保險與退休基金及日本壽險海外資產在台灣壽險投資組合中.md",
+    "data/游庭皓的財經皓角/2026-09-04_美國正研擬新一輪半導體關稅台灣目前的因應方向是把既有台美投資備忘錄中的優惠條件落實.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",

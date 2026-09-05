@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-09-04T05:45:43.027746+00:00",
+  "fetched_at_utc": "2026-09-05T06:50:08.364296+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1601487405001293"
+    "1602791311537569",
+    "1602318628251504"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-09-03_子彈時刻就是駭客任務Matrix第一集中基努李維後仰躲避多顆子彈的片段World-Labs的Atlas模型展示可以用AI重回影片任何片段中重新定位攝影機拍攝角度.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-09-05_事情總是有趣幾天前寫過明明沒有任何新事只要google一下可知就是2024年兩家公司宣布的新加坡合作廠按照既定計畫將於2026年底開始生產CEO在回答載板缺貨解.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-09-04_Ferverst公司說現在資料中心冷卻領域的人員根本不知道如何讓這個流程高效運作有一個空白可以用我們從核能產業獲得的一些知識來填補.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",
