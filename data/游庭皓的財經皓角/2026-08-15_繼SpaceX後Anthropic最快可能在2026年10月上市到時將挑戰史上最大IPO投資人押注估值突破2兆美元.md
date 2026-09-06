@@ -4,22 +4,22 @@ title: "繼SpaceX後，Anthropic最快可能在2026年10月上市，到時將挑
 page_title: ""
 requested_url: "https://www.facebook.com/yutinghaosfinance"
 final_url: "https://www.facebook.com/yutinghaosfinance"
-post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid02PFVPB1NuhtHeygVUFLbGg5Bg2UwzVkzpnCz4uqtq6FpFCMvoFsnTGcTWMSb766p3l"
+post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid02PCytrE8u4z8XabVcfizh6pKt6N8QQxYHC9VUqhJjtHAJTdeREcsfQX5PWArD7ZCPl"
 creation_time_utc: "2026-08-15T15:15:31+00:00"
-fetched_at_utc: "2026-09-01T04:39:46.895032+00:00"
+fetched_at_utc: "2026-09-06T14:44:31.683647+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/774192030_1122043670386985_7413486269658173962_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2Neo7rwZxkgQ7kNvwGulcqv&_nc_oc=Adqrj6T5B6sWNCVJi9BkaGZGZdKjCSfftnW_oiFUNyzTVfbg1mWlXqY4WecWusJQ0Es&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=N9aveUpiNeSBjryl_0OomA&_nc_ss=7e120&oh=00_AQL6yKcp_yX6BZ6xwh80n06VlU7XxXbkXxT3OStUjKGa4A&oe=6A9C2288"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/774192030_1122043670386985_7413486269658173962_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JJQXKSuOBXsQ7kNvwHM_kkP&_nc_oc=AdqXuR1rmyldAt0Jhn6U0LCiU0kqGUH5tVYBG7iIuTYS-ZFI37qdRJkxzOsA2ScQZ2w&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=APLzwd6p9dFBeXy5OTcDQA&_nc_ss=7e120&oh=00_AQIaeh7qf5f7CgBG_c_XUFtHzpImFjvWVXpQdReoLBOSuQ&oe=6AA362C8"
 feedback_id: "ZmVlZGJhY2s6MTEyMjA0MzcwMDM4Njk4Mg=="
 page_canonical_url: ""
 ---
 
 # 繼SpaceX後，Anthropic最快可能在2026年10月上市，到時將挑戰史上最大IPO，投資人押注估值突破2兆美元。
 
-原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid02PFVPB1NuhtHeygVUFLbGg5Bg2UwzVkzpnCz4uqtq6FpFCMvoFsnTGcTWMSb766p3l
+原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid02PCytrE8u4z8XabVcfizh6pKt6N8QQxYHC9VUqhJjtHAJTdeREcsfQX5PWArD7ZCPl
 
-![繼SpaceX後，Anthropic最快可能在2026年10月上市，到時將挑戰史上最大IPO，投資人押注估值突破2兆美元。](https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/774192030_1122043670386985_7413486269658173962_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2Neo7rwZxkgQ7kNvwGulcqv&_nc_oc=Adqrj6T5B6sWNCVJi9BkaGZGZdKjCSfftnW_oiFUNyzTVfbg1mWlXqY4WecWusJQ0Es&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=N9aveUpiNeSBjryl_0OomA&_nc_ss=7e120&oh=00_AQL6yKcp_yX6BZ6xwh80n06VlU7XxXbkXxT3OStUjKGa4A&oe=6A9C2288)
+![繼SpaceX後，Anthropic最快可能在2026年10月上市，到時將挑戰史上最大IPO，投資人押注估值突破2兆美元。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/774192030_1122043670386985_7413486269658173962_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JJQXKSuOBXsQ7kNvwHM_kkP&_nc_oc=AdqXuR1rmyldAt0Jhn6U0LCiU0kqGUH5tVYBG7iIuTYS-ZFI37qdRJkxzOsA2ScQZ2w&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=APLzwd6p9dFBeXy5OTcDQA&_nc_ss=7e120&oh=00_AQIaeh7qf5f7CgBG_c_XUFtHzpImFjvWVXpQdReoLBOSuQ&oe=6AA362C8)
 繼SpaceX後，Anthropic最快可能在2026年10月上市，到時將挑戰史上最大IPO，投資人押注估值突破2兆美元。
 
 支撐如此驚人估值的關鍵是營收增速，Anthropic今年5月公布年化營收已突破470億美元，投資人估計年底可能進一步衝上1,000億至1,200億美元，相較年初成長超過10倍。

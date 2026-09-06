@@ -4,12 +4,12 @@ title: "「Too good to be true. 」如果你想避免被騙，這句話大概率
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61589343187385"
 final_url: "https://www.facebook.com/profile.php?id=61589343187385"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid06tg4GgnDJJDS6c5n4sRRYpdREssXzRqajZNLSGrNJf7847LKkzWthF3AkVixHqV8l&id=61589343187385"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02AsmHRijmLRk823YUtCp7ERhAtMHzeS1B91SEZEEJYGBpUUwoeUYKvHygXV2Nogdul&id=61589343187385"
 creation_time_utc: "2026-08-09T06:55:54+00:00"
-fetched_at_utc: "2026-09-01T04:48:38.987558+00:00"
+fetched_at_utc: "2026-09-06T15:02:55.907732+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid06tg4GgnDJJDS6c5n4sRRYpdREssXzRqajZNLSGrNJf7847LKkzWthF3AkVixHqV8l&id=61589343187385"
+attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02AsmHRijmLRk823YUtCp7ERhAtMHzeS1B91SEZEEJYGBpUUwoeUYKvHygXV2Nogdul&id=61589343187385"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTIyMTE4NDAxNDIxMzExNDM5"
 page_canonical_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 「Too good to be true. 」如果你想避免被騙，這句話大概率的在做任何你覺得好到不可思議的offer的時候，最好都在心裡想一想。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid06tg4GgnDJJDS6c5n4sRRYpdREssXzRqajZNLSGrNJf7847LKkzWthF3AkVixHqV8l&id=61589343187385
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02AsmHRijmLRk823YUtCp7ERhAtMHzeS1B91SEZEEJYGBpUUwoeUYKvHygXV2Nogdul&id=61589343187385
 「Too good to be true. 」如果你想避免被騙，這句話大概率的在做任何你覺得好到不可思議的offer的時候，最好都在心裡想一想。
 
 這句話是金融業風控的最高境界。

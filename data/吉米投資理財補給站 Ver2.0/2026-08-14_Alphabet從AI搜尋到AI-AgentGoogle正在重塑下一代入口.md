@@ -4,22 +4,22 @@ title: "🚀Alphabet：從AI搜尋到AI Agent，Google正在重塑下一代入�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
 final_url: "https://www.facebook.com/profile.php?id=61565088683715"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0K7tEmaPYHvLGopb8JU8GNzUaxEWJNH9NxPzD8gp2KQQxxKVarq3jrfgUe8j63KRjl&id=61565088683715"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02Nd1wMxmtWKaHZrUZURp2PzxmsyaxwG2rqrpr8dhEKx26bGkPa1VbGQGrRakDpCCtl&id=61565088683715"
 creation_time_utc: "2026-08-14T12:29:28+00:00"
-fetched_at_utc: "2026-09-01T04:44:49.974389+00:00"
+fetched_at_utc: "2026-09-06T14:56:01.130088+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/774178670_122224650794502956_9038825961735250813_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qYJ5f-xYh7oQ7kNvwEsngHt&_nc_oc=AdqmoVN8KL97lDR7UphBlHXb9Xfzmnc7z7Qw78CBXyjVsEnY7ja8_Lfz-qMs8S0XDoM&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=N4azFj6N0zlvEjdInbo_uQ&_nc_ss=7e120&oh=00_AQK3J-IP2UkxdUYOtBrPdC3kJU9Wc9O_Na0h61W48rEeAw&oe=6A9C2E17"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/774178670_122224650794502956_9038825961735250813_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=N8G94bKZGNsQ7kNvwFJmuUT&_nc_oc=AdpTIeGf4AaoHHbyGYrgGchOpcZP7DYXn-lqmme50NMUxhlCO-O70Cw5W-MBzDM2MU4&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=v8b7xT3H277Fx2P5QTkM_w&_nc_ss=7e120&oh=00_AQKdSYWGU2vW8dPgQXw0NaYf7w96BdWFxNv68j72TAMLsA&oe=6AA33617"
 feedback_id: "ZmVlZGJhY2s6MTIyMjI0NjUwODYwNTAyOTU2"
 page_canonical_url: ""
 ---
 
 # 🚀Alphabet：從AI搜尋到AI Agent，Google正在重塑下一代入口
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0K7tEmaPYHvLGopb8JU8GNzUaxEWJNH9NxPzD8gp2KQQxxKVarq3jrfgUe8j63KRjl&id=61565088683715
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02Nd1wMxmtWKaHZrUZURp2PzxmsyaxwG2rqrpr8dhEKx26bGkPa1VbGQGrRakDpCCtl&id=61565088683715
 
-![🚀Alphabet：從AI搜尋到AI Agent，Google正在重塑下一代入口](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/774178670_122224650794502956_9038825961735250813_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qYJ5f-xYh7oQ7kNvwEsngHt&_nc_oc=AdqmoVN8KL97lDR7UphBlHXb9Xfzmnc7z7Qw78CBXyjVsEnY7ja8_Lfz-qMs8S0XDoM&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=N4azFj6N0zlvEjdInbo_uQ&_nc_ss=7e120&oh=00_AQK3J-IP2UkxdUYOtBrPdC3kJU9Wc9O_Na0h61W48rEeAw&oe=6A9C2E17)
+![🚀Alphabet：從AI搜尋到AI Agent，Google正在重塑下一代入口](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/774178670_122224650794502956_9038825961735250813_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=N8G94bKZGNsQ7kNvwFJmuUT&_nc_oc=AdpTIeGf4AaoHHbyGYrgGchOpcZP7DYXn-lqmme50NMUxhlCO-O70Cw5W-MBzDM2MU4&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=v8b7xT3H277Fx2P5QTkM_w&_nc_ss=7e120&oh=00_AQKdSYWGU2vW8dPgQXw0NaYf7w96BdWFxNv68j72TAMLsA&oe=6AA33617)
 🚀Alphabet：從AI搜尋到AI Agent，Google正在重塑下一代入口
 🧠核心訊號：Google正在把AI從「搜尋」推向整個生態系
 這次最大的重點其實不是Pixel 11、Pixel Watch或Pixel Tag，而是 Gemini正在從一個AI模型，變成Google整個產品生態系的核心入口。從手機、穿戴裝置到搜尋、雲端與各種服務，Google正在讓AI直接介入使用者的日常操作。

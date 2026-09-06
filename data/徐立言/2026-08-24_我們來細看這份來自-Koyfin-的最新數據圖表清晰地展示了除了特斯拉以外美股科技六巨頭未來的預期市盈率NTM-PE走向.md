@@ -4,22 +4,22 @@ title: "我們來細看這份來自 Koyfin 的最新數據。圖表清晰地展�
 page_title: ""
 requested_url: "https://www.facebook.com/hsulylab"
 final_url: "https://www.facebook.com/hsulylab"
-post_url: "https://www.facebook.com/hsulylab/posts/pfbid0mG3kFDNgr5ucncXWhQtKwoztwGEuTbrFvkUaB6EXmtzatdh53cXXjTnvpZeHhFJDl"
+post_url: "https://www.facebook.com/hsulylab/posts/pfbid02pmBSqbm34T3TZ7Azd1NMtd2pUoKgdCzxTD8pBPirPqF3zfhZzFP2CpcAZu2Ha7tzl"
 creation_time_utc: "2026-08-24T12:00:33+00:00"
-fetched_at_utc: "2026-09-01T04:48:02.246136+00:00"
+fetched_at_utc: "2026-09-06T15:01:22.812987+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/784005668_1350087887289362_3974243129284123671_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PoarAk6d0bMQ7kNvwFvIt-o&_nc_oc=AdoxuV4GkuJKcZRwzd_GokVDF0i68VSXGUPfgeJrOSCYxnTM26VT3qPIyTP5ndlgMug&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=_pYGHPr6ht2aV5EoPjXD_Q&_nc_ss=7e120&oh=00_AQLBGjDub8L2yrvXlKLwaDN0ao8gyXE_l8hnBbVL8zywIQ&oe=6A9C234B"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/784005668_1350087887289362_3974243129284123671_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1dhJ8mptdnkQ7kNvwGdCtVN&_nc_oc=Ado9cEJPdKu4Pp7L1wVrMnLZDiWi38mtGwEAt8eezzinhEG4K8NK_KAkPL6VHShc9_8&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=9FE2V1BHiOsqju_XSCZmwA&_nc_ss=7e120&oh=00_AQIvMwUYrObz5ziHw_8D5rYDrchi9uZhGfGhcIZaRqM7uQ&oe=6AA3638B"
 feedback_id: "ZmVlZGJhY2s6MTM1MDg1MTA4MDU0NjM3Ng=="
 page_canonical_url: ""
 ---
 
 # 我們來細看這份來自 Koyfin 的最新數據。圖表清晰地展示了除了特斯拉以外，美股「科技六巨頭」未來的預期市盈率（NTM P/E）走向。
 
-原文連結: https://www.facebook.com/hsulylab/posts/pfbid0mG3kFDNgr5ucncXWhQtKwoztwGEuTbrFvkUaB6EXmtzatdh53cXXjTnvpZeHhFJDl
+原文連結: https://www.facebook.com/hsulylab/posts/pfbid02pmBSqbm34T3TZ7Azd1NMtd2pUoKgdCzxTD8pBPirPqF3zfhZzFP2CpcAZu2Ha7tzl
 
-![我們來細看這份來自 Koyfin 的最新數據。圖表清晰地展示了除了特斯拉以外，美股「科技六巨頭」未來的預期市盈率（NTM P/E）走向。](https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/784005668_1350087887289362_3974243129284123671_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PoarAk6d0bMQ7kNvwFvIt-o&_nc_oc=AdoxuV4GkuJKcZRwzd_GokVDF0i68VSXGUPfgeJrOSCYxnTM26VT3qPIyTP5ndlgMug&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=_pYGHPr6ht2aV5EoPjXD_Q&_nc_ss=7e120&oh=00_AQLBGjDub8L2yrvXlKLwaDN0ao8gyXE_l8hnBbVL8zywIQ&oe=6A9C234B)
+![我們來細看這份來自 Koyfin 的最新數據。圖表清晰地展示了除了特斯拉以外，美股「科技六巨頭」未來的預期市盈率（NTM P/E）走向。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/784005668_1350087887289362_3974243129284123671_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1dhJ8mptdnkQ7kNvwGdCtVN&_nc_oc=Ado9cEJPdKu4Pp7L1wVrMnLZDiWi38mtGwEAt8eezzinhEG4K8NK_KAkPL6VHShc9_8&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=9FE2V1BHiOsqju_XSCZmwA&_nc_ss=7e120&oh=00_AQIvMwUYrObz5ziHw_8D5rYDrchi9uZhGfGhcIZaRqM7uQ&oe=6AA3638B)
 我們來細看這份來自 Koyfin 的最新數據。圖表清晰地展示了除了特斯拉以外，美股「科技六巨頭」未來的預期市盈率（NTM P/E）走向。
 
 這當中的落差，不僅出乎意料，更充滿了解讀的空間：

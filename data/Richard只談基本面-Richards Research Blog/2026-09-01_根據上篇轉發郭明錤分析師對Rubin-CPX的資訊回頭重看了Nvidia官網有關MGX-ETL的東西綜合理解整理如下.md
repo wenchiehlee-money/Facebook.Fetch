@@ -4,12 +4,12 @@ title: "根據上篇轉發郭明錤分析師對Rubin CPX的資訊，回頭重看
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02ECJL8r8vrTAnDUbEAgauTwLdt7vmL8s8cfevB2X43dYgQycwhKTSN9MqpQ9wVarTl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02EKwr7DAf3AumXjK9fkmYSmvDFkpiPtcPhivbewWXqXB5sWLZcZZBU7w8ccnNWJqBl&id=100054201473657"
 creation_time_utc: "2026-09-01T10:38:20+00:00"
-fetched_at_utc: "2026-09-02T05:41:12.441822+00:00"
+fetched_at_utc: "2026-09-06T14:51:09.070252+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02ECJL8r8vrTAnDUbEAgauTwLdt7vmL8s8cfevB2X43dYgQycwhKTSN9MqpQ9wVarTl&id=100054201473657"
+attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02EKwr7DAf3AumXjK9fkmYSmvDFkpiPtcPhivbewWXqXB5sWLZcZZBU7w8ccnNWJqBl&id=100054201473657"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTU5OTU2NzYyODUyNjYwNA=="
 page_canonical_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 根據上篇轉發郭明錤分析師對Rubin CPX的資訊，回頭重看了Nvidia官網有關MGX ETL的東西，綜合理解/整理如下:
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02ECJL8r8vrTAnDUbEAgauTwLdt7vmL8s8cfevB2X43dYgQycwhKTSN9MqpQ9wVarTl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02EKwr7DAf3AumXjK9fkmYSmvDFkpiPtcPhivbewWXqXB5sWLZcZZBU7w8ccnNWJqBl&id=100054201473657
 根據上篇轉發郭明錤分析師對Rubin CPX的資訊，回頭重看了Nvidia官網有關MGX ETL的東西，綜合理解/整理如下:
 
 1. Nvidia有兩種Rack、三種跨trays的互聯骨幹(Spine)，組合成六套機架級系統Rack Level System (上次發布5套加上這次共6套)

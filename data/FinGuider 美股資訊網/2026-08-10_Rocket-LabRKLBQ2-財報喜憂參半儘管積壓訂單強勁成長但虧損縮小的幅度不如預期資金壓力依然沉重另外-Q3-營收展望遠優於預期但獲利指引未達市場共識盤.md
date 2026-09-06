@@ -4,22 +4,22 @@ title: "🚀Rocket Lab（#RKLB）Q2 財報喜憂參半，儘管積壓訂單強�
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid0wkTVrH18nyYEcHQVuUzxh5xG7PPu16k7WjcK3Mua6bXumebAezSLFosvFbHUg2uyl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid031FbCSfPV1RLWiFfBXsaJtYQtgf8NztyGjDjCQTM87CXJsgU7RPx5y755bRX1Jfnkl"
 creation_time_utc: "2026-08-10T22:18:13+00:00"
-fetched_at_utc: "2026-09-01T04:40:16.343391+00:00"
+fetched_at_utc: "2026-09-06T14:45:39.780207+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/770823165_1526348146201994_8734235036568281725_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Hvbt3DIRTAIQ7kNvwHuvRkF&_nc_oc=AdrTDTAHamUmAGU0J8RL2NW9B9owfI6pM30SImJjkMjbFzMP-2f38lRqvBzXGo5zU0A&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=aPW4vLTIktha4am21s52Dw&_nc_ss=7e120&oh=00_AQJokyRWeRUr73g-Pk3SG2cXrpRIQxnSf4p229nTsb0IbA&oe=6A9C1C02"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/770823165_1526348146201994_8734235036568281725_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=bM-Tf8OggjgQ7kNvwEtCIw9&_nc_oc=AdpIJQQy6BRTkYg16MhGIX4W8UJCbK23GjLOjcXXZ4f7Rbcc-JHMYsQW4yzGYuz9y2I&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=k8e-uKUuqgmQcS0ANFvhhQ&_nc_ss=7e120&oh=00_AQJ66YsT5nVb-exoyXCpvLrRINnZamwLJVtZRssLZ97BLw&oe=6AA35C42"
 feedback_id: "ZmVlZGJhY2s6MTUyNjM0ODE5NjIwMTk4OQ=="
 page_canonical_url: ""
 ---
 
 # 🚀Rocket Lab（#RKLB）Q2 財報喜憂參半，儘管積壓訂單強勁成長，但虧損縮小的幅度不如預期，資金壓力依然沉重，另外 Q3 營收展望遠優於預期，但獲利指引未達市場共識，盤後下挫超過 -7%。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid0wkTVrH18nyYEcHQVuUzxh5xG7PPu16k7WjcK3Mua6bXumebAezSLFosvFbHUg2uyl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid031FbCSfPV1RLWiFfBXsaJtYQtgf8NztyGjDjCQTM87CXJsgU7RPx5y755bRX1Jfnkl
 
-![🚀Rocket Lab（#RKLB）Q2 財報喜憂參半，儘管積壓訂單強勁成長，但虧損縮小的幅度不如預期，資金壓力依然沉重，另外 Q3 營收展望遠優於預期，但獲利指引未達市場共識，盤後下挫超過 -7%。](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/770823165_1526348146201994_8734235036568281725_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Hvbt3DIRTAIQ7kNvwHuvRkF&_nc_oc=AdrTDTAHamUmAGU0J8RL2NW9B9owfI6pM30SImJjkMjbFzMP-2f38lRqvBzXGo5zU0A&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=aPW4vLTIktha4am21s52Dw&_nc_ss=7e120&oh=00_AQJokyRWeRUr73g-Pk3SG2cXrpRIQxnSf4p229nTsb0IbA&oe=6A9C1C02)
+![🚀Rocket Lab（#RKLB）Q2 財報喜憂參半，儘管積壓訂單強勁成長，但虧損縮小的幅度不如預期，資金壓力依然沉重，另外 Q3 營收展望遠優於預期，但獲利指引未達市場共識，盤後下挫超過 -7%。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/770823165_1526348146201994_8734235036568281725_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=bM-Tf8OggjgQ7kNvwEtCIw9&_nc_oc=AdpIJQQy6BRTkYg16MhGIX4W8UJCbK23GjLOjcXXZ4f7Rbcc-JHMYsQW4yzGYuz9y2I&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=k8e-uKUuqgmQcS0ANFvhhQ&_nc_ss=7e120&oh=00_AQJ66YsT5nVb-exoyXCpvLrRINnZamwLJVtZRssLZ97BLw&oe=6AA35C42)
 🚀Rocket Lab（#RKLB）Q2 財報喜憂參半，儘管積壓訂單強勁成長，但虧損縮小的幅度不如預期，資金壓力依然沉重，另外 Q3 營收展望遠優於預期，但獲利指引未達市場共識，盤後下挫超過 -7%。
 ​
 🔍Q2 財報：

@@ -4,22 +4,22 @@ title: "在 Jackson Hole 全球央行年會上，聯準會主席Warsh鷹聲連�
 page_title: ""
 requested_url: "https://www.facebook.com/intleconobserve"
 final_url: "https://www.facebook.com/intleconobserve"
-post_url: "https://www.facebook.com/intleconobserve/posts/pfbid02Czx6cvEwVxyYTBjKx8ik7MDAvh5he4aAJZYRx9WjLuxByhUk2p1YQP8Mn9hBbfYPl"
+post_url: "https://www.facebook.com/intleconobserve/posts/pfbid09axRg7eJqW2o1WsEq4g9nV4uJGT5mfpnL4x77YkW4K2u6Stnser5myP1tyi2nderl"
 creation_time_utc: "2026-08-29T09:06:39+00:00"
-fetched_at_utc: "2026-09-01T04:43:32.511067+00:00"
+fetched_at_utc: "2026-09-06T14:53:31.365081+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/789178440_1593095428841746_8015806635915080714_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dk-snmj-TS4Q7kNvwG1PKyE&_nc_oc=Adq9cdijIdUeYAdOwG5i37BECGO6BoV-J4mo02ccbVi_YDOHydNgYQqbXTNlMMjk6Dc&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=axuqgj5GxY4I3jXz3chPcw&_nc_ss=7e120&oh=00_AQLBI_cqZIePtvAJ0OXKjML8wWCcvJPMU26GeimRmBt1lg&oe=6A9C1344"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/789178440_1593095428841746_8015806635915080714_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7mPw5pVyTEYQ7kNvwHSDNiM&_nc_oc=AdqDIJFnhrj3hlKt4TrIJcIOUseKaoHBxbYlZzNT_XkKbUUQUUs1hlo5WLp8uMgv3wU&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=Do0-flANkZ_S6Nt7Hmq_mw&_nc_ss=7e120&oh=00_AQJ9Y34DF6F2Oo40UIV4B0sx15-hXBKV5eykyV3GpKswnQ&oe=6AA35384"
 feedback_id: "ZmVlZGJhY2s6MTU5MzA5NzMwNTUwODIyNQ=="
 page_canonical_url: ""
 ---
 
 # 在 Jackson Hole 全球央行年會上，聯準會主席Warsh鷹聲連連，強調聯準會首要任務是確保物價穩定，並明確重申：
 
-原文連結: https://www.facebook.com/intleconobserve/posts/pfbid02Czx6cvEwVxyYTBjKx8ik7MDAvh5he4aAJZYRx9WjLuxByhUk2p1YQP8Mn9hBbfYPl
+原文連結: https://www.facebook.com/intleconobserve/posts/pfbid09axRg7eJqW2o1WsEq4g9nV4uJGT5mfpnL4x77YkW4K2u6Stnser5myP1tyi2nderl
 
-![在 Jackson Hole 全球央行年會上，聯準會主席Warsh鷹聲連連，強調聯準會首要任務是確保物價穩定，並明確重申：](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/789178440_1593095428841746_8015806635915080714_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dk-snmj-TS4Q7kNvwG1PKyE&_nc_oc=Adq9cdijIdUeYAdOwG5i37BECGO6BoV-J4mo02ccbVi_YDOHydNgYQqbXTNlMMjk6Dc&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=axuqgj5GxY4I3jXz3chPcw&_nc_ss=7e120&oh=00_AQLBI_cqZIePtvAJ0OXKjML8wWCcvJPMU26GeimRmBt1lg&oe=6A9C1344)
+![在 Jackson Hole 全球央行年會上，聯準會主席Warsh鷹聲連連，強調聯準會首要任務是確保物價穩定，並明確重申：](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/789178440_1593095428841746_8015806635915080714_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7mPw5pVyTEYQ7kNvwHSDNiM&_nc_oc=AdqDIJFnhrj3hlKt4TrIJcIOUseKaoHBxbYlZzNT_XkKbUUQUUs1hlo5WLp8uMgv3wU&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=Do0-flANkZ_S6Nt7Hmq_mw&_nc_ss=7e120&oh=00_AQJ9Y34DF6F2Oo40UIV4B0sx15-hXBKV5eykyV3GpKswnQ&oe=6AA35384)
 在 Jackson Hole 全球央行年會上，聯準會主席Warsh鷹聲連連，強調聯準會首要任務是確保物價穩定，並明確重申：
 
 「聯準會以 PCE 物價指數衡量的 2% 物價穩定目標，是一個堅定固定的目標。物價穩定不會自動實現，通膨也不一定會自動回歸均值。維持物價穩定是聯準會的工作，沒有藉口。」

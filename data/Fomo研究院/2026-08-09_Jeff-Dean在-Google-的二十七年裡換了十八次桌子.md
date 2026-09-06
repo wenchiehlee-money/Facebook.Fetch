@@ -4,22 +4,22 @@ title: "Jeff Dean在 Google 的二十七年裡，換了十八次桌子。"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02Nfxp62KCXsa8m6HEXvF6roXcvNyLHi7iuqXn7jBDitkuFcAu2nez6BH8647ztkkLl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0KFy99DiZsT6QKqNw3GMSEVurtc6kLp1BMjs4K1GU2zjdtuYPit8MZ2opqmGjmx3Yl&id=61573146584049"
 creation_time_utc: "2026-08-09T10:01:56+00:00"
-fetched_at_utc: "2026-09-01T04:41:25.294115+00:00"
+fetched_at_utc: "2026-09-06T14:48:37.057070+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/771512303_122193012356771552_5603676544481126528_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-OZ60qN63VAQ7kNvwESZACq&_nc_oc=AdpS2y57Nj1HRgMkdppGAHWwGGDEJvXNL0bkkfgutwpV8C2r2vYWFqYJ-rsiksMVD3s&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=-OidP0XSZGa6CgZvfSRunA&_nc_ss=7e120&oh=00_AQIGy5Y6rdlILU8ZrsXtrHnmKmi-rJYlyG1sA1eZij3wsw&oe=6A9C1CEB"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/771512303_122193012356771552_5603676544481126528_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_Kq706HyNUUQ7kNvwGfvyuI&_nc_oc=Adov_bQKy0WzF5ByZeNbdR_1nZjlRY5_1rpqbzrrk5u3TJA_GJmRuwuDMwvIksXIgHM&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=IC1bWOh2CFUASSy_q290KQ&_nc_ss=7e120&oh=00_AQJJKU3N5BYPun7A2imT_3cqsC7jEG1B8cTqJYGbAi6NnA&oe=6AA35D2B"
 feedback_id: "ZmVlZGJhY2s6MTIyMTkzMDEyNjc0NzcxNTUy"
 page_canonical_url: ""
 ---
 
 # Jeff Dean在 Google 的二十七年裡，換了十八次桌子。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02Nfxp62KCXsa8m6HEXvF6roXcvNyLHi7iuqXn7jBDitkuFcAu2nez6BH8647ztkkLl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0KFy99DiZsT6QKqNw3GMSEVurtc6kLp1BMjs4K1GU2zjdtuYPit8MZ2opqmGjmx3Yl&id=61573146584049
 
-![Jeff Dean在 Google 的二十七年裡，換了十八次桌子。](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/771512303_122193012356771552_5603676544481126528_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-OZ60qN63VAQ7kNvwESZACq&_nc_oc=AdpS2y57Nj1HRgMkdppGAHWwGGDEJvXNL0bkkfgutwpV8C2r2vYWFqYJ-rsiksMVD3s&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=-OidP0XSZGa6CgZvfSRunA&_nc_ss=7e120&oh=00_AQIGy5Y6rdlILU8ZrsXtrHnmKmi-rJYlyG1sA1eZij3wsw&oe=6A9C1CEB)
+![Jeff Dean在 Google 的二十七年裡，換了十八次桌子。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/771512303_122193012356771552_5603676544481126528_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_Kq706HyNUUQ7kNvwGfvyuI&_nc_oc=Adov_bQKy0WzF5ByZeNbdR_1nZjlRY5_1rpqbzrrk5u3TJA_GJmRuwuDMwvIksXIgHM&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=IC1bWOh2CFUASSy_q290KQ&_nc_ss=7e120&oh=00_AQJJKU3N5BYPun7A2imT_3cqsC7jEG1B8cTqJYGbAi6NnA&oe=6AA35D2B)
 Jeff Dean在 Google 的二十七年裡，換了十八次桌子。
 ​
 1999 年，他以第30號員工的身份走進那間辦公室。

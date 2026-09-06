@@ -4,22 +4,22 @@ title: "中國軍費可能已逼近美國。美國外交與安全專家Hal Brand
 page_title: ""
 requested_url: "https://www.facebook.com/yutinghaosfinance"
 final_url: "https://www.facebook.com/yutinghaosfinance"
-post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid02GmUnBDpsKwYUQCafMk2TwzMBRHPNCV9GhkYfBkABVemdEgHDjWtwiR8Nr9h5b8zgl"
+post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid02HCvpR6A4WoEZ3J1hE4xf8igvg8gZnP8YbTrfXX9Xxju3sF2b9XSsXDoSzgHGp1aol"
 creation_time_utc: "2026-08-29T14:09:19+00:00"
-fetched_at_utc: "2026-09-01T04:39:46.895032+00:00"
+fetched_at_utc: "2026-09-06T14:44:31.683647+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/786313805_1134488482475837_1950709738722502755_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9mUcaeN04t4Q7kNvwHT6k7s&_nc_oc=AdqOqjsxsduBl7eFsZBjzPJKNRQsmcJc6ojl_mSl5QRqEe9ONbMX2tp4SnKQjefMedU&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=ITZiYBBoK5pDUHZoYuH4WA&_nc_ss=7e120&oh=00_AQLj7s5BjsjajETq_rxM3Roz6zLzuU6GSSnz48lSD4gnVg&oe=6A9C2756"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/786313805_1134488482475837_1950709738722502755_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=flxolHvmlcMQ7kNvwEaWVUa&_nc_oc=Adqmz0O1DdbIzMxnWaILNqNTTJRpLILFxv6uTVkQnFvKFXtvup9YgloheLCWVB_gzKQ&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=8wmw-4UeArShQLTHRe7zPA&_nc_ss=7e120&oh=00_AQJsRqiS_-XEYducOJeGOVocXUYcDmO8FsWqFZTsv1Sr5g&oe=6AA36796"
 feedback_id: "ZmVlZGJhY2s6MTEzNDQ4OTg5MjQ3NTY5Ng=="
 page_canonical_url: ""
 ---
 
 # 中國軍費可能已逼近美國。美國外交與安全專家Hal Brands警告，外界可能低估了，中國真正投入軍事力量的規模。
 
-原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid02GmUnBDpsKwYUQCafMk2TwzMBRHPNCV9GhkYfBkABVemdEgHDjWtwiR8Nr9h5b8zgl
+原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid02HCvpR6A4WoEZ3J1hE4xf8igvg8gZnP8YbTrfXX9Xxju3sF2b9XSsXDoSzgHGp1aol
 
-![中國軍費可能已逼近美國。美國外交與安全專家Hal Brands警告，外界可能低估了，中國真正投入軍事力量的規模。](https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/786313805_1134488482475837_1950709738722502755_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9mUcaeN04t4Q7kNvwHT6k7s&_nc_oc=AdqOqjsxsduBl7eFsZBjzPJKNRQsmcJc6ojl_mSl5QRqEe9ONbMX2tp4SnKQjefMedU&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=ITZiYBBoK5pDUHZoYuH4WA&_nc_ss=7e120&oh=00_AQLj7s5BjsjajETq_rxM3Roz6zLzuU6GSSnz48lSD4gnVg&oe=6A9C2756)
+![中國軍費可能已逼近美國。美國外交與安全專家Hal Brands警告，外界可能低估了，中國真正投入軍事力量的規模。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/786313805_1134488482475837_1950709738722502755_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=flxolHvmlcMQ7kNvwEaWVUa&_nc_oc=Adqmz0O1DdbIzMxnWaILNqNTTJRpLILFxv6uTVkQnFvKFXtvup9YgloheLCWVB_gzKQ&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=8wmw-4UeArShQLTHRe7zPA&_nc_ss=7e120&oh=00_AQJsRqiS_-XEYducOJeGOVocXUYcDmO8FsWqFZTsv1Sr5g&oe=6AA36796)
 中國軍費可能已逼近美國。美國外交與安全專家Hal Brands警告，外界可能低估了，中國真正投入軍事力量的規模。
 
 根據美國國防部估算，中國2024年實際國防支出若採較高估計，可能接近3,800億美元，約占GDP 2%；即使採較低估計，也接近3,000億美元、約占GDP 1.6%。

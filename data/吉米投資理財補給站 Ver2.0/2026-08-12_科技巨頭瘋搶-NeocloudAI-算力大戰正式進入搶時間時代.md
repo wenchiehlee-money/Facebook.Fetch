@@ -4,22 +4,22 @@ title: "🚀科技巨頭瘋搶 Neocloud：AI 算力大戰正式進入「搶時�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
 final_url: "https://www.facebook.com/profile.php?id=61565088683715"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02FLopq38aPbeSYm183sRQx1g4mqwqhbA6pRoJZX3Sd7iNxv5GfsxuBHWPZx7CegRYl&id=61565088683715"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0Bvp9tEXwj3XkJkmKz1bhYSUQcaetmyKLvt2HdFFX2fgm7gdCCV3JcT4WBe3oxSe4l&id=61565088683715"
 creation_time_utc: "2026-08-12T10:38:13+00:00"
-fetched_at_utc: "2026-09-01T04:44:49.974389+00:00"
+fetched_at_utc: "2026-09-06T14:56:01.130088+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/765818149_122224418846502956_1844699423657689766_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EoEw7ncqbYkQ7kNvwFXz718&_nc_oc=Adof2VqGF-UwTtVc_DAa2gaSnxpJwYgHQMcV8GNpOdPDlUQ2KwrPi1CDoqexv8ZqAoM&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=bJzoTF0xNdSXBc2RLWxVmQ&_nc_ss=7e120&oh=00_AQJ5RdXvFACRsSdt9KNMqk09M8WG4CTTtUst3ermmcSPkA&oe=6A9C2617"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/765818149_122224418846502956_1844699423657689766_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=73wW2C_NEx8Q7kNvwH8P0A3&_nc_oc=AdomxDmwM7VNoQyMnq-9VQzOj_T8-LCi3vpqjudwJ-mcKIauo7yxczUiYd3vyb1GVr4&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=4IYxq5CHYnKCZfBTYa_D1Q&_nc_ss=7e120&oh=00_AQIhu_34P0hdyh5tZaNhvagaPBX1EpcNDQ4nnieHRWe6Xw&oe=6AA36657"
 feedback_id: "ZmVlZGJhY2s6MTIyMjI0NDE4ODg4NTAyOTU2"
 page_canonical_url: ""
 ---
 
 # 🚀科技巨頭瘋搶 Neocloud：AI 算力大戰正式進入「搶時間」時代
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02FLopq38aPbeSYm183sRQx1g4mqwqhbA6pRoJZX3Sd7iNxv5GfsxuBHWPZx7CegRYl&id=61565088683715
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0Bvp9tEXwj3XkJkmKz1bhYSUQcaetmyKLvt2HdFFX2fgm7gdCCV3JcT4WBe3oxSe4l&id=61565088683715
 
-![🚀科技巨頭瘋搶 Neocloud：AI 算力大戰正式進入「搶時間」時代](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/765818149_122224418846502956_1844699423657689766_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EoEw7ncqbYkQ7kNvwFXz718&_nc_oc=Adof2VqGF-UwTtVc_DAa2gaSnxpJwYgHQMcV8GNpOdPDlUQ2KwrPi1CDoqexv8ZqAoM&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=bJzoTF0xNdSXBc2RLWxVmQ&_nc_ss=7e120&oh=00_AQJ5RdXvFACRsSdt9KNMqk09M8WG4CTTtUst3ermmcSPkA&oe=6A9C2617)
+![🚀科技巨頭瘋搶 Neocloud：AI 算力大戰正式進入「搶時間」時代](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/765818149_122224418846502956_1844699423657689766_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=73wW2C_NEx8Q7kNvwH8P0A3&_nc_oc=AdomxDmwM7VNoQyMnq-9VQzOj_T8-LCi3vpqjudwJ-mcKIauo7yxczUiYd3vyb1GVr4&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=4IYxq5CHYnKCZfBTYa_D1Q&_nc_ss=7e120&oh=00_AQIhu_34P0hdyh5tZaNhvagaPBX1EpcNDQ4nnieHRWe6Xw&oe=6AA36657)
 🚀科技巨頭瘋搶 Neocloud：AI 算力大戰正式進入「搶時間」時代
 科技巨頭押注 Neocloud，不是因為不想自建資料中心，而是 AI 算力需求成長太快，自建速度跟不上。
 

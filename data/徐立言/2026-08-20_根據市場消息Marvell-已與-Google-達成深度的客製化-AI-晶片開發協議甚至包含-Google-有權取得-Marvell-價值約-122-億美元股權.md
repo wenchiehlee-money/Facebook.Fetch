@@ -4,22 +4,22 @@ title: "根據市場消息，Marvell 已與 Google 達成深度的客製化 AI �
 page_title: ""
 requested_url: "https://www.facebook.com/hsulylab"
 final_url: "https://www.facebook.com/hsulylab"
-post_url: "https://www.facebook.com/hsulylab/posts/pfbid0hvREXtEGrH49taNUxb78pnUCitQtxGEe8SZZ833n8QuouGykBXTyC6kW9mCakmeel"
+post_url: "https://www.facebook.com/hsulylab/posts/pfbid02mRYw8Gcd4aFrVB8uXeu6UouAGGwC37RxCqZTwYQJyzHq4mK6WGVHNaVexGt5jXxVl"
 creation_time_utc: "2026-08-20T14:01:02+00:00"
-fetched_at_utc: "2026-09-01T04:48:02.246136+00:00"
+fetched_at_utc: "2026-09-06T15:01:22.812987+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/776444090_1347276687570482_5562423606875303332_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qpzmmOtV-DMQ7kNvwE1BVLK&_nc_oc=AdrMcU1xtIzo-a2-2cgkEFBoJHJhE0Ex2VkguaGHrc_e-uvZeBjE9POhM42His8FYZE&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=o5K4v20HIqbcVche9RVelA&_nc_ss=7e120&oh=00_AQJjKV6fICMOfdXuSlR3lr5iuPOp9TserN1OGZfRoD38fA&oe=6A9C2D04"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/776444090_1347276687570482_5562423606875303332_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GiQMAe6Ssv8Q7kNvwE8vBXt&_nc_oc=AdpOFI1L7w3yYIs-EyR0vm2XfjYtV_uB3xvZd1BH1arU7044kJA1akfA6VC3tz3eQqc&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=W68UpnPSEXMo0fFLwckIhQ&_nc_ss=7e120&oh=00_AQJErfqzwhdln732G9KuqISUt5JHaggF_JcdOhc6i6-bxA&oe=6AA36D44"
 feedback_id: "ZmVlZGJhY2s6MTM0NzU4ODg3NDIwNTkzMA=="
 page_canonical_url: ""
 ---
 
 # 根據市場消息，Marvell 已與 Google 達成深度的客製化 AI 晶片開發協議，甚至包含 Google 有權取得 Marvell 價值約 122 億美元股權的選項。這份合約預計到 2033 財年，將為 Marvell 帶來高達 1,200 億美元的龐大營收。
 
-原文連結: https://www.facebook.com/hsulylab/posts/pfbid0hvREXtEGrH49taNUxb78pnUCitQtxGEe8SZZ833n8QuouGykBXTyC6kW9mCakmeel
+原文連結: https://www.facebook.com/hsulylab/posts/pfbid02mRYw8Gcd4aFrVB8uXeu6UouAGGwC37RxCqZTwYQJyzHq4mK6WGVHNaVexGt5jXxVl
 
-![根據市場消息，Marvell 已與 Google 達成深度的客製化 AI 晶片開發協議，甚至包含 Google 有權取得 Marvell 價值約 122 億美元股權的選項。這份合約預計到 2033 財年，將為 Marvell 帶來高達 1,200 億美元的龐大營收。](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/776444090_1347276687570482_5562423606875303332_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qpzmmOtV-DMQ7kNvwE1BVLK&_nc_oc=AdrMcU1xtIzo-a2-2cgkEFBoJHJhE0Ex2VkguaGHrc_e-uvZeBjE9POhM42His8FYZE&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=o5K4v20HIqbcVche9RVelA&_nc_ss=7e120&oh=00_AQJjKV6fICMOfdXuSlR3lr5iuPOp9TserN1OGZfRoD38fA&oe=6A9C2D04)
+![根據市場消息，Marvell 已與 Google 達成深度的客製化 AI 晶片開發協議，甚至包含 Google 有權取得 Marvell 價值約 122 億美元股權的選項。這份合約預計到 2033 財年，將為 Marvell 帶來高達 1,200 億美元的龐大營收。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/776444090_1347276687570482_5562423606875303332_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GiQMAe6Ssv8Q7kNvwE8vBXt&_nc_oc=AdpOFI1L7w3yYIs-EyR0vm2XfjYtV_uB3xvZd1BH1arU7044kJA1akfA6VC3tz3eQqc&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=W68UpnPSEXMo0fFLwckIhQ&_nc_ss=7e120&oh=00_AQJErfqzwhdln732G9KuqISUt5JHaggF_JcdOhc6i6-bxA&oe=6AA36D44)
 根據市場消息，Marvell 已與 Google 達成深度的客製化 AI 晶片開發協議，甚至包含 Google 有權取得 Marvell 價值約 122 億美元股權的選項。這份合約預計到 2033 財年，將為 Marvell 帶來高達 1,200 億美元的龐大營收。
 
 這不單單是一份冰冷的商業合約，更是科技巨頭重塑底層運算生態的強烈信號。當我們攤開近期的客製化晶片（ASIC）多源化版圖，可以清晰看到各家巨頭的發展轉移，這份圖表揭示了極具深意的現象：

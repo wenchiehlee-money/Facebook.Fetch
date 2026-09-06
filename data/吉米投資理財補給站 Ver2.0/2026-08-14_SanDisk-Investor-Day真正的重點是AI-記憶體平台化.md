@@ -4,22 +4,22 @@ title: "🚀 SanDisk Investor Day：真正的重點是「AI 記憶體平台化�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
 final_url: "https://www.facebook.com/profile.php?id=61565088683715"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0b9oqMHxVMneXg4B4GeTyCVz2f9ddPFfpD1fnNwisFyLFddYiWMbhDayiqdTRv2HYl&id=61565088683715"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02eewXwgLqaDKPZm2ZXkqUNi5LgMfRNiA5wutuc5ZXbQAc8SZLn1iJdg6hZ3K1b7T8l&id=61565088683715"
 creation_time_utc: "2026-08-14T05:37:16+00:00"
-fetched_at_utc: "2026-09-01T04:44:49.974389+00:00"
+fetched_at_utc: "2026-09-06T14:56:01.130088+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/773486090_122224620404502956_3126630726270906637_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ixke1kDfhQwQ7kNvwGQ3Vmy&_nc_oc=Adq0dw7L1mCKi4V-3RHMuZx6iKWcGNdiVMmrqDN5OnYZTv02Szkm99Hquwrx2-9XSpU&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=grrD8lcMjYLkhKn-r92h-A&_nc_ss=7e120&oh=00_AQII6N4r9tLeZNRfiErOLrYbEQn2wzPcMD6M4VvFvgY2Ug&oe=6A9C22EB"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/773486090_122224620404502956_3126630726270906637_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Fbb8kkLoVKkQ7kNvwHWsDR9&_nc_oc=Adrxft60MzfPVOmIsdo1ncv7TSBqmoom_TocMCfEoP_fLerEsPbI9-fulNIzgfXCa7s&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=oaPypABIjVzHQQS9Vxn4Pg&_nc_ss=7e120&oh=00_AQK0dZARsTrWCIanVbRY2yayoCIXWsDK_6dP9Qs9ouvE1g&oe=6AA3632B"
 feedback_id: "ZmVlZGJhY2s6MTIyMjI0NjIwNDc2NTAyOTU2"
 page_canonical_url: ""
 ---
 
 # 🚀 SanDisk Investor Day：真正的重點是「AI 記憶體平台化」
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0b9oqMHxVMneXg4B4GeTyCVz2f9ddPFfpD1fnNwisFyLFddYiWMbhDayiqdTRv2HYl&id=61565088683715
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02eewXwgLqaDKPZm2ZXkqUNi5LgMfRNiA5wutuc5ZXbQAc8SZLn1iJdg6hZ3K1b7T8l&id=61565088683715
 
-![🚀 SanDisk Investor Day：真正的重點是「AI 記憶體平台化」](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/773486090_122224620404502956_3126630726270906637_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ixke1kDfhQwQ7kNvwGQ3Vmy&_nc_oc=Adq0dw7L1mCKi4V-3RHMuZx6iKWcGNdiVMmrqDN5OnYZTv02Szkm99Hquwrx2-9XSpU&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=grrD8lcMjYLkhKn-r92h-A&_nc_ss=7e120&oh=00_AQII6N4r9tLeZNRfiErOLrYbEQn2wzPcMD6M4VvFvgY2Ug&oe=6A9C22EB)
+![🚀 SanDisk Investor Day：真正的重點是「AI 記憶體平台化」](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/773486090_122224620404502956_3126630726270906637_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Fbb8kkLoVKkQ7kNvwHWsDR9&_nc_oc=Adrxft60MzfPVOmIsdo1ncv7TSBqmoom_TocMCfEoP_fLerEsPbI9-fulNIzgfXCa7s&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=oaPypABIjVzHQQS9Vxn4Pg&_nc_ss=7e120&oh=00_AQK0dZARsTrWCIanVbRY2yayoCIXWsDK_6dP9Qs9ouvE1g&oe=6AA3632B)
 🚀 SanDisk Investor Day：真正的重點是「AI 記憶體平台化」
 這次 Investor Day 最重要的訊號，不是短期 NAND 價格，而是 SanDisk 正在把 NAND 從「儲存裝置」推向「AI 記憶體架構」的一部分。公司想扮演的角色，已不只是 SSD 供應商，而是 AI 基礎設施的核心記憶體夥伴。
 

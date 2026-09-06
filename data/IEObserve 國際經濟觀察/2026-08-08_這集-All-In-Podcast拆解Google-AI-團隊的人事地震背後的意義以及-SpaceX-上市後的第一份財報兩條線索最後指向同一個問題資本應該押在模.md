@@ -4,22 +4,22 @@ title: "這集 All-In Podcast拆解Google AI 團隊的人事地震背後的意�
 page_title: ""
 requested_url: "https://www.facebook.com/intleconobserve"
 final_url: "https://www.facebook.com/intleconobserve"
-post_url: "https://www.facebook.com/intleconobserve/posts/pfbid02TRcGrKdFu9pN5HP5ZktaBouuK4MKKQtnmhejVzwo2qMmBU9FnWM17QBBRDhRoqTml"
+post_url: "https://www.facebook.com/intleconobserve/posts/pfbid02TP6nXYPFGET6u6KBDo5uxXSoiCE8MJR81FM7dEcw8A14Ar8CicjCuF9KZezXmhCel"
 creation_time_utc: "2026-08-08T04:55:28+00:00"
-fetched_at_utc: "2026-09-01T04:43:32.511067+00:00"
+fetched_at_utc: "2026-09-06T14:53:31.365081+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/769222218_1575222247295731_1992453821632343159_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YwBQDfTi_Y8Q7kNvwHDBSbk&_nc_oc=AdpqgWUyxCj0mxlYmBhKqg31k5sFqaB4pX99MCohKK3q8sH0PHE-FpWrEOjImuQbei0&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=VDNqYrQh9k5TO5TxYAfNjw&_nc_ss=7e120&oh=00_AQI8B7Te1PKwQIKWauBbUsDJSEbq8hbf8TcT-4222oSOUw&oe=6A9C2082"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/769222218_1575222247295731_1992453821632343159_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=thZvxmrGSZcQ7kNvwFv4PgL&_nc_oc=Ado-jeZIzK5tVSjIewdl0n_BBuRwYtQ-EG7Ey9BKXiUwu7zFgCkF_PmY-jiuCrpntWc&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=zvd6hLhKaCrkciw03ZfmEQ&_nc_ss=7e120&oh=00_AQJ2R5Jg41i-ZkomwFvDx765jo_HiIbKrEAvlG3HhUXJHQ&oe=6AA360C2"
 feedback_id: "ZmVlZGJhY2s6MTU3NTIyMzkyMzk2MjIzMA=="
 page_canonical_url: ""
 ---
 
 # 這集 All-In Podcast拆解Google AI 團隊的人事地震背後的意義，以及 SpaceX 上市後的第一份財報。兩條線索最後指向同一個問題，資本應該押在模型，還是押在算力基礎設施。
 
-原文連結: https://www.facebook.com/intleconobserve/posts/pfbid02TRcGrKdFu9pN5HP5ZktaBouuK4MKKQtnmhejVzwo2qMmBU9FnWM17QBBRDhRoqTml
+原文連結: https://www.facebook.com/intleconobserve/posts/pfbid02TP6nXYPFGET6u6KBDo5uxXSoiCE8MJR81FM7dEcw8A14Ar8CicjCuF9KZezXmhCel
 
-![這集 All-In Podcast拆解Google AI 團隊的人事地震背後的意義，以及 SpaceX 上市後的第一份財報。兩條線索最後指向同一個問題，資本應該押在模型，還是押在算力基礎設施。](https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/769222218_1575222247295731_1992453821632343159_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YwBQDfTi_Y8Q7kNvwHDBSbk&_nc_oc=AdpqgWUyxCj0mxlYmBhKqg31k5sFqaB4pX99MCohKK3q8sH0PHE-FpWrEOjImuQbei0&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=VDNqYrQh9k5TO5TxYAfNjw&_nc_ss=7e120&oh=00_AQI8B7Te1PKwQIKWauBbUsDJSEbq8hbf8TcT-4222oSOUw&oe=6A9C2082)
+![這集 All-In Podcast拆解Google AI 團隊的人事地震背後的意義，以及 SpaceX 上市後的第一份財報。兩條線索最後指向同一個問題，資本應該押在模型，還是押在算力基礎設施。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/769222218_1575222247295731_1992453821632343159_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=thZvxmrGSZcQ7kNvwFv4PgL&_nc_oc=Ado-jeZIzK5tVSjIewdl0n_BBuRwYtQ-EG7Ey9BKXiUwu7zFgCkF_PmY-jiuCrpntWc&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=zvd6hLhKaCrkciw03ZfmEQ&_nc_ss=7e120&oh=00_AQJ2R5Jg41i-ZkomwFvDx765jo_HiIbKrEAvlG3HhUXJHQ&oe=6AA360C2)
 這集 All-In Podcast拆解Google AI 團隊的人事地震背後的意義，以及 SpaceX 上市後的第一份財報。兩條線索最後指向同一個問題，資本應該押在模型，還是押在算力基礎設施。
 
 對於同時有前言模型在研發又有龐大算力可以變現的公司來說，他們有誘因在算力短缺的時刻出租算力賺取大量現金流。

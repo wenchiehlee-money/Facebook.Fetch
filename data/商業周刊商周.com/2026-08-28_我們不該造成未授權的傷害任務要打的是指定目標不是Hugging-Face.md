@@ -1,23 +1,23 @@
 ---
 post_id: "1493475799481298"
 title: "「我們不該造成未授權的傷害。任務要打的是指定目標，不是Hugging Face。」"
-page_title: "商業周刊（商周.com）"
+page_title: ""
 requested_url: "https://www.facebook.com/bwnet.fans"
 final_url: "https://www.facebook.com/bwnet.fans"
-post_url: "https://www.facebook.com/bwnet.fans/posts/pfbid0P6yUXMy45iz8kMPDNGN2z6ijzuf9KYEVHgVUmLzMziyRVePMS77g61ZUiCju8UWkl"
+post_url: "https://www.facebook.com/bwnet.fans/posts/pfbid0NvpUEDhKGEWTTRtdAZ97yUaPReQeMfCcnLi5UozURMM7YYAsHSayNdKR4PMkfR6Ml"
 creation_time_utc: "2026-08-28T13:00:09+00:00"
-fetched_at_utc: "2026-09-04T06:47:49.731606+00:00"
+fetched_at_utc: "2026-09-06T15:06:54.047739+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTQ5MzQ3NTc5OTQ4MTI5OA=="
-page_canonical_url: "https://www.facebook.com/bwnet.fans/"
+page_canonical_url: ""
 ---
 
 # 「我們不該造成未授權的傷害。任務要打的是指定目標，不是Hugging Face。」
 
-原文連結: https://www.facebook.com/bwnet.fans/posts/pfbid0P6yUXMy45iz8kMPDNGN2z6ijzuf9KYEVHgVUmLzMziyRVePMS77g61ZUiCju8UWkl
+原文連結: https://www.facebook.com/bwnet.fans/posts/pfbid0NvpUEDhKGEWTTRtdAZ97yUaPReQeMfCcnLi5UozURMM7YYAsHSayNdKR4PMkfR6Ml
 「我們不該造成未授權的傷害。任務要打的是指定目標，不是Hugging Face。」
 
 「做吧（GO）。」

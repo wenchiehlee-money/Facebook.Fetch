@@ -4,9 +4,9 @@ title: "Scale-IN 近三個月出現的新名詞(繼Scale Up, Scale Out, Scale Ac
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02UfFVyGjQupx5V6XBLZC49qcFjB2V7DkQ2cE7uQ6Yjqu1YysdBcynjD9jdMcaKoEbl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0QmJJTpZaRTsTT2dbNNt3RpMFhTTJ2oYLSqax9XsYKaroEtJNyaUTcwiLxMFsLvnvl&id=100054201473657"
 creation_time_utc: "2026-08-22T10:09:51+00:00"
-fetched_at_utc: "2026-09-01T04:42:39.947356+00:00"
+fetched_at_utc: "2026-09-06T14:51:09.070252+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # Scale-IN 近三個月出現的新名詞(繼Scale Up, Scale Out, Scale Across之後)
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02UfFVyGjQupx5V6XBLZC49qcFjB2V7DkQ2cE7uQ6Yjqu1YysdBcynjD9jdMcaKoEbl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0QmJJTpZaRTsTT2dbNNt3RpMFhTTJ2oYLSqax9XsYKaroEtJNyaUTcwiLxMFsLvnvl&id=100054201473657
 Scale-IN 近三個月出現的新名詞(繼Scale Up, Scale Out, Scale Across之後)
 Google網路從OCS Tours到Dragonfly拓樸
 

@@ -4,22 +4,22 @@ title: "當你走進常去的實體運動用品店，發現鞋架最顯眼的位
 page_title: ""
 requested_url: "https://www.facebook.com/hsulylab"
 final_url: "https://www.facebook.com/hsulylab"
-post_url: "https://www.facebook.com/hsulylab/posts/pfbid0yWgKbD5HbBkCyficW3pkB3tW7fL1BpthLBDakNaAf4zCSCchmwT583zRJxLwzA1kl"
+post_url: "https://www.facebook.com/hsulylab/posts/pfbid033VmYkF2qdE8iFFHskXQdqPs6MuT6QKrQPjWTnUrfvvwTMK53HXcA56jwTUc7ankul"
 creation_time_utc: "2026-08-29T08:00:30+00:00"
-fetched_at_utc: "2026-09-01T04:48:02.246136+00:00"
+fetched_at_utc: "2026-09-06T15:01:22.812987+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/790509772_1354828690148615_3056345569907301648_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eSYn0doxJGYQ7kNvwHv_nn6&_nc_oc=Adq8yAhYGkghkP7rht2cLb3DMipbfXxq-U4_hui8oKiYPZbLKN7j4jBnM5WUIQEwvjc&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=xWOJo_0iobXwnqAZ9AiprA&_nc_ss=7e120&oh=00_AQJ_2sWLhuhYSBxlDPnWO8_4t8beLt4A75IvdlD1JzfCJQ&oe=6A9C2162"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/790509772_1354828690148615_3056345569907301648_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yjQC1Sxnz7YQ7kNvwFMSf7v&_nc_oc=AdqnPs-5BRdrhBOPsXG64o0CT-yRNnQ1YGVBgB5CrVFFrNqi1xatnS58IhBYC9pLr0g&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=tND_5ekPOVZKhSz5Bh3FEQ&_nc_ss=7e120&oh=00_AQJ61RW26B5clBejUxT7q4T95O1DvpkLWUAgkk1GDBjy0w&oe=6AA361A2"
 feedback_id: "ZmVlZGJhY2s6MTM1NDkxNDI2MDE0MDA1OA=="
 page_canonical_url: ""
 ---
 
 # 當你走進常去的實體運動用品店，發現鞋架最顯眼的位置已經被 Hoka 和 On Running 悄悄佔據，而你手機裡依然留著那個熟悉的剔號應用程式時，你有沒有想過，這其實是一場過度追求數字效率所引發的系統性失誤？
 
-原文連結: https://www.facebook.com/hsulylab/posts/pfbid0yWgKbD5HbBkCyficW3pkB3tW7fL1BpthLBDakNaAf4zCSCchmwT583zRJxLwzA1kl
+原文連結: https://www.facebook.com/hsulylab/posts/pfbid033VmYkF2qdE8iFFHskXQdqPs6MuT6QKrQPjWTnUrfvvwTMK53HXcA56jwTUc7ankul
 
-![當你走進常去的實體運動用品店，發現鞋架最顯眼的位置已經被 Hoka 和 On Running 悄悄佔據，而你手機裡依然留著那個熟悉的剔號應用程式時，你有沒有想過，這其實是一場過度追求數字效率所引發的系統性失誤？](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/790509772_1354828690148615_3056345569907301648_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eSYn0doxJGYQ7kNvwHv_nn6&_nc_oc=Adq8yAhYGkghkP7rht2cLb3DMipbfXxq-U4_hui8oKiYPZbLKN7j4jBnM5WUIQEwvjc&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=xWOJo_0iobXwnqAZ9AiprA&_nc_ss=7e120&oh=00_AQJ_2sWLhuhYSBxlDPnWO8_4t8beLt4A75IvdlD1JzfCJQ&oe=6A9C2162)
+![當你走進常去的實體運動用品店，發現鞋架最顯眼的位置已經被 Hoka 和 On Running 悄悄佔據，而你手機裡依然留著那個熟悉的剔號應用程式時，你有沒有想過，這其實是一場過度追求數字效率所引發的系統性失誤？](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/790509772_1354828690148615_3056345569907301648_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yjQC1Sxnz7YQ7kNvwFMSf7v&_nc_oc=AdqnPs-5BRdrhBOPsXG64o0CT-yRNnQ1YGVBgB5CrVFFrNqi1xatnS58IhBYC9pLr0g&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=tND_5ekPOVZKhSz5Bh3FEQ&_nc_ss=7e120&oh=00_AQJ61RW26B5clBejUxT7q4T95O1DvpkLWUAgkk1GDBjy0w&oe=6AA361A2)
 當你走進常去的實體運動用品店，發現鞋架最顯眼的位置已經被 Hoka 和 On Running 悄悄佔據，而你手機裡依然留著那個熟悉的剔號應用程式時，你有沒有想過，這其實是一場過度追求數字效率所引發的系統性失誤？
 
 我今天不想談論任何喧鬧的市場情緒，而是想帶大家安靜地拆解附件中這份來自 Koyfin 的數據圖表。這不單是一間頂級運動品牌的盛衰史，更是一堂關於盲目追求直營利潤的殘酷商業課。

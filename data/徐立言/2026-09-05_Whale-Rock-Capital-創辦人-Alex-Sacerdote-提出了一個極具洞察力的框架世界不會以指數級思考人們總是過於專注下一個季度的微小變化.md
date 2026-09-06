@@ -4,9 +4,9 @@ title: "Whale Rock Capital 創辦人 Alex Sacerdote 提出了一個極具洞察�
 page_title: ""
 requested_url: "https://www.facebook.com/hsulylab"
 final_url: "https://www.facebook.com/hsulylab"
-post_url: "https://www.facebook.com/hsulylab/posts/pfbid02eB6HtmFCzoG7wnXkLKePn6wdbPk2NuVx6ipctYsaz9JZ9evkgyYQivaTsvUhztkLl"
+post_url: "https://www.facebook.com/hsulylab/posts/pfbid0adT6ybcr9jZS89RgcEdA3bNL5DV4tB8DP9ntDAwwpzetYkP5AVqBnDkKx7Cxw1k7l"
 creation_time_utc: "2026-09-05T05:00:45+00:00"
-fetched_at_utc: "2026-09-05T06:50:18.262236+00:00"
+fetched_at_utc: "2026-09-06T15:01:22.812987+00:00"
 source: "public_graphql"
 attachment_type: "GenericAttachmentMedia"
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # Whale Rock Capital 創辦人 Alex Sacerdote 提出了一個極具洞察力的框架：世界不會以指數級思考，人們總是過於專注下一個季度的微小變化。
 
-原文連結: https://www.facebook.com/hsulylab/posts/pfbid02eB6HtmFCzoG7wnXkLKePn6wdbPk2NuVx6ipctYsaz9JZ9evkgyYQivaTsvUhztkLl
+原文連結: https://www.facebook.com/hsulylab/posts/pfbid0adT6ybcr9jZS89RgcEdA3bNL5DV4tB8DP9ntDAwwpzetYkP5AVqBnDkKx7Cxw1k7l
 Whale Rock Capital 創辦人 Alex Sacerdote 提出了一個極具洞察力的框架：世界不會以指數級思考，人們總是過於專注下一個季度的微小變化。
 
 根據他的觀察，以及近期訪談的公開資料更新，我們能夠將這項關於「S曲線」的知識結構解構為幾個核心維度 ：

@@ -4,22 +4,22 @@ title: "根據美國能源資訊署（EIA）與 Rand Group Research 的統計數
 page_title: ""
 requested_url: "https://www.facebook.com/hsulylab"
 final_url: "https://www.facebook.com/hsulylab"
-post_url: "https://www.facebook.com/hsulylab/posts/pfbid0hWiiTuTBPoq8ab8BHX49dcQPZ3CzLbn8DHFZ2qwWrgmVS2KsrhyP9kc849GuYwFgl"
+post_url: "https://www.facebook.com/hsulylab/posts/pfbid0hxAkhmnNaa8jMJ6NZSj3JkkJZHo97weTM23y9vQ4ujKbXSJr1u33HhCfoum671Mol"
 creation_time_utc: "2026-08-24T04:00:07+00:00"
-fetched_at_utc: "2026-09-01T04:48:02.246136+00:00"
+fetched_at_utc: "2026-09-06T15:01:22.812987+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/784252620_1350079463956871_3509715226244375385_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BCgGMXi0hfwQ7kNvwHg3uMU&_nc_oc=AdpTRgPlRFZsx3uMagAMp9JA_mznJd4ehbsNjOqSHWKPDuGJk79IJDVkrbrtXMvArn8&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=2FgG9atmnDBSVNGk_zwBWw&_nc_ss=7e120&oh=00_AQJk32E3QLRn-dXWgQ-T2Rbfk8B7psaOq1JApx8HI7SLpg&oe=6A9C42A3"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/784252620_1350079463956871_3509715226244375385_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=MwrkaQpGCigQ7kNvwHhr0cW&_nc_oc=Adpu_2KpXDuUdzJD1G3Z1i3Re-0xMqaG64fY1OpqOfNXWOi90F1kwt5zl1pY9ZvKR3c&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=x2oWUMT6nZzQPzNA2oMWWg&_nc_ss=7e120&oh=00_AQK38BXT3SsjduAxuJ3KBnZe9IOdctME6JB_HVuP6BtcUg&oe=6AA34AA3"
 feedback_id: "ZmVlZGJhY2s6MTM1MDU4Mzc5NzIzOTc3MQ=="
 page_canonical_url: ""
 ---
 
 # 根據美國能源資訊署（EIA）與 Rand Group Research 的統計數據，從第一階段施工到正式進入商業營運，各類發電設施平均所需耗費的時間如下：
 
-原文連結: https://www.facebook.com/hsulylab/posts/pfbid0hWiiTuTBPoq8ab8BHX49dcQPZ3CzLbn8DHFZ2qwWrgmVS2KsrhyP9kc849GuYwFgl
+原文連結: https://www.facebook.com/hsulylab/posts/pfbid0hxAkhmnNaa8jMJ6NZSj3JkkJZHo97weTM23y9vQ4ujKbXSJr1u33HhCfoum671Mol
 
-![根據美國能源資訊署（EIA）與 Rand Group Research 的統計數據，從第一階段施工到正式進入商業營運，各類發電設施平均所需耗費的時間如下：](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/784252620_1350079463956871_3509715226244375385_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BCgGMXi0hfwQ7kNvwHg3uMU&_nc_oc=AdpTRgPlRFZsx3uMagAMp9JA_mznJd4ehbsNjOqSHWKPDuGJk79IJDVkrbrtXMvArn8&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=2FgG9atmnDBSVNGk_zwBWw&_nc_ss=7e120&oh=00_AQJk32E3QLRn-dXWgQ-T2Rbfk8B7psaOq1JApx8HI7SLpg&oe=6A9C42A3)
+![根據美國能源資訊署（EIA）與 Rand Group Research 的統計數據，從第一階段施工到正式進入商業營運，各類發電設施平均所需耗費的時間如下：](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/784252620_1350079463956871_3509715226244375385_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=MwrkaQpGCigQ7kNvwHhr0cW&_nc_oc=Adpu_2KpXDuUdzJD1G3Z1i3Re-0xMqaG64fY1OpqOfNXWOi90F1kwt5zl1pY9ZvKR3c&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=x2oWUMT6nZzQPzNA2oMWWg&_nc_ss=7e120&oh=00_AQK38BXT3SsjduAxuJ3KBnZe9IOdctME6JB_HVuP6BtcUg&oe=6AA34AA3)
 根據美國能源資訊署（EIA）與 Rand Group Research 的統計數據，從第一階段施工到正式進入商業營運，各類發電設施平均所需耗費的時間如下：
 
 核能發電廠（Nuclear）：平均需要 7.0 年。作為提供基載電力的核心設施，其建造過程涉及極度嚴苛的安全規範、複雜的工藝工序與長時間的系統測試。

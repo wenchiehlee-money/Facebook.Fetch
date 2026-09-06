@@ -4,22 +4,22 @@ title: "道德完人Anthropic有重大更新了，Claude要在所有他們AI生�
 page_title: ""
 requested_url: "https://www.facebook.com/intleconobserve"
 final_url: "https://www.facebook.com/intleconobserve"
-post_url: "https://www.facebook.com/intleconobserve/posts/pfbid02xVA74JCrMcGMSxWNrSDjGP8j41JmC8cridLJzBa25uXtdv99hNe7wJ2LSWrF4jdBl"
+post_url: "https://www.facebook.com/intleconobserve/posts/pfbid02xSecjWxqicJSK3drRQ1PxnXRVxhYp8A1bRQej4d1rGLzFGJD24STA8rQfw7vzSKCl"
 creation_time_utc: "2026-08-11T06:22:31+00:00"
-fetched_at_utc: "2026-09-01T04:43:32.511067+00:00"
+fetched_at_utc: "2026-09-06T14:53:31.365081+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/770887122_1577742810377008_8173083242819713016_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=N6ggVi3xSO4Q7kNvwGmhjDe&_nc_oc=AdoiGrzRtpS6U2IAABhprlWMwjsXMp5lCU3ezm5mCciYV_Zv_heAWEcM8SBnYPkbZpI&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=lJ3SboaJax7iq8nnLwCj9A&_nc_ss=7e120&oh=00_AQIzO11vHGDIEqSWhqqI9UdsyriAuqgrS4LEyn1dBwWv2A&oe=6A9C3CFC"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/770887122_1577742810377008_8173083242819713016_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dA19AS3pwrMQ7kNvwED49Gx&_nc_oc=AdoCIyG-c3S3AqchERD8JRlmafU7roh6-u5jMgn8_RHsxN8irPultO54Eoq0I7rItLE&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=_BnPO-lktqU0cDuv5VZkHA&_nc_ss=7e120&oh=00_AQJrdEQk_K2SmcoTXdngS8diKHBdZJcPJ4b0o7EFapL3CA&oe=6AA344FC"
 feedback_id: "ZmVlZGJhY2s6MTU3Nzc0MzY4NzA0MzU4Nw=="
 page_canonical_url: ""
 ---
 
 # 道德完人Anthropic有重大更新了，Claude要在所有他們AI生成的內容加上水印
 
-原文連結: https://www.facebook.com/intleconobserve/posts/pfbid02xVA74JCrMcGMSxWNrSDjGP8j41JmC8cridLJzBa25uXtdv99hNe7wJ2LSWrF4jdBl
+原文連結: https://www.facebook.com/intleconobserve/posts/pfbid02xSecjWxqicJSK3drRQ1PxnXRVxhYp8A1bRQej4d1rGLzFGJD24STA8rQfw7vzSKCl
 
-![道德完人Anthropic有重大更新了，Claude要在所有他們AI生成的內容加上水印](https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/770887122_1577742810377008_8173083242819713016_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=N6ggVi3xSO4Q7kNvwGmhjDe&_nc_oc=AdoiGrzRtpS6U2IAABhprlWMwjsXMp5lCU3ezm5mCciYV_Zv_heAWEcM8SBnYPkbZpI&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=lJ3SboaJax7iq8nnLwCj9A&_nc_ss=7e120&oh=00_AQIzO11vHGDIEqSWhqqI9UdsyriAuqgrS4LEyn1dBwWv2A&oe=6A9C3CFC)
+![道德完人Anthropic有重大更新了，Claude要在所有他們AI生成的內容加上水印](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/770887122_1577742810377008_8173083242819713016_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dA19AS3pwrMQ7kNvwED49Gx&_nc_oc=AdoCIyG-c3S3AqchERD8JRlmafU7roh6-u5jMgn8_RHsxN8irPultO54Eoq0I7rItLE&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=_BnPO-lktqU0cDuv5VZkHA&_nc_ss=7e120&oh=00_AQJrdEQk_K2SmcoTXdngS8diKHBdZJcPJ4b0o7EFapL3CA&oe=6AA344FC)
 道德完人Anthropic有重大更新了，Claude要在所有他們AI生成的內容加上水印
 
 ----

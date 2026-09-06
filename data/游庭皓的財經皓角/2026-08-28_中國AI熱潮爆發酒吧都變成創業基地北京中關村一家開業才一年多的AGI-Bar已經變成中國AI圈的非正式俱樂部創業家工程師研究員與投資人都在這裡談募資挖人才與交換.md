@@ -4,22 +4,22 @@ title: "中國AI熱潮爆發，酒吧都變成創業基地。北京中關村一�
 page_title: ""
 requested_url: "https://www.facebook.com/yutinghaosfinance"
 final_url: "https://www.facebook.com/yutinghaosfinance"
-post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid02hAqqKoC2zjphhg8yZY3CMT9zufv2E23gGCjnWKuuT88EtCew7RaZeUinJSEcPZDol"
+post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid0dGtdpM2CWctXcYX1mkj5bxoGsKTnJYtFc3CdW3stzd1vz1HecxRkq3hkxU8UEXMgl"
 creation_time_utc: "2026-08-28T15:20:12+00:00"
-fetched_at_utc: "2026-09-01T04:39:46.895032+00:00"
+fetched_at_utc: "2026-09-06T14:44:31.683647+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/789086427_1133670929224259_7662629317865299999_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8Y6u3KY1ApMQ7kNvwGEUImP&_nc_oc=Adp4gTA5NWkGnPm-vGP726JDk40O2mKm_8vMSyfR78n5Db48xwt96XZ_6o68oAi7WGc&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=taTNkEXFQByeUaHfAe3RTg&_nc_ss=7e120&oh=00_AQKcnCsV85IDww-Bqo7F-FzFxzrCVojUAuZv5NSotCuv5g&oe=6A9C2FEE"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/789086427_1133670929224259_7662629317865299999_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uhY3vM_pO_IQ7kNvwEp7UYJ&_nc_oc=AdrnimuQu-UD_rfz-XR2ZgfMakRzKOH6xvNrzrv9UYdGVP9OHaJhYayehWDF3RdbX-s&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=lCn1wQpZSG7RmYinx0BtAA&_nc_ss=7e120&oh=00_AQJ4Xdhs_2jckuzEPFUrsCf6wQBKCC_XXCKyoIIKu-uWfQ&oe=6AA337EE"
 feedback_id: "ZmVlZGJhY2s6MTEzMzY3MTAyMjU1NzU4Mw=="
 page_canonical_url: ""
 ---
 
 # 中國AI熱潮爆發，酒吧都變成創業基地。北京中關村一家開業才一年多的AGI Bar，已經變成中國AI圈的非正式俱樂部，創業家、工程師、研究員與投資人都在這裡談募資、挖人才與交換模型情報。
 
-原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid02hAqqKoC2zjphhg8yZY3CMT9zufv2E23gGCjnWKuuT88EtCew7RaZeUinJSEcPZDol
+原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid0dGtdpM2CWctXcYX1mkj5bxoGsKTnJYtFc3CdW3stzd1vz1HecxRkq3hkxU8UEXMgl
 
-![中國AI熱潮爆發，酒吧都變成創業基地。北京中關村一家開業才一年多的AGI Bar，已經變成中國AI圈的非正式俱樂部，創業家、工程師、研究員與投資人都在這裡談募資、挖人才與交換模型情報。](https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/789086427_1133670929224259_7662629317865299999_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8Y6u3KY1ApMQ7kNvwGEUImP&_nc_oc=Adp4gTA5NWkGnPm-vGP726JDk40O2mKm_8vMSyfR78n5Db48xwt96XZ_6o68oAi7WGc&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=taTNkEXFQByeUaHfAe3RTg&_nc_ss=7e120&oh=00_AQKcnCsV85IDww-Bqo7F-FzFxzrCVojUAuZv5NSotCuv5g&oe=6A9C2FEE)
+![中國AI熱潮爆發，酒吧都變成創業基地。北京中關村一家開業才一年多的AGI Bar，已經變成中國AI圈的非正式俱樂部，創業家、工程師、研究員與投資人都在這裡談募資、挖人才與交換模型情報。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/789086427_1133670929224259_7662629317865299999_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uhY3vM_pO_IQ7kNvwEp7UYJ&_nc_oc=AdrnimuQu-UD_rfz-XR2ZgfMakRzKOH6xvNrzrv9UYdGVP9OHaJhYayehWDF3RdbX-s&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=lCn1wQpZSG7RmYinx0BtAA&_nc_ss=7e120&oh=00_AQJ4Xdhs_2jckuzEPFUrsCf6wQBKCC_XXCKyoIIKu-uWfQ&oe=6AA337EE)
 中國AI熱潮爆發，酒吧都變成創業基地。北京中關村一家開業才一年多的AGI Bar，已經變成中國AI圈的非正式俱樂部，創業家、工程師、研究員與投資人都在這裡談募資、挖人才與交換模型情報。
 
 智譜今年成為全球首家上市的大型語言模型公司後，甚至包下酒吧連續5天請客；上海分店6月開幕後，面積更是北京店的5倍。

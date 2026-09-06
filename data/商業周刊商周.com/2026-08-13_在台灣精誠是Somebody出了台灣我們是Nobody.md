@@ -1,25 +1,25 @@
 ---
 post_id: "1479433697552175"
 title: "「在台灣，精誠是Somebody；出了台灣，我們是Nobody。」"
-page_title: "商業周刊（商周.com）"
+page_title: ""
 requested_url: "https://www.facebook.com/bwnet.fans"
 final_url: "https://www.facebook.com/bwnet.fans"
-post_url: "https://www.facebook.com/bwnet.fans/posts/pfbid02Q75E9CE6P657QSiMGJhKMLxuahgH6KyfVReAT578Mm4x6AmCAEcEKJ4zUXLLDBaql"
+post_url: "https://www.facebook.com/bwnet.fans/posts/pfbid02QQskQhXZPDtg1xR6rSeteJHrZ2r9FmaSYjdX8JLyx6VPnyKu5rSJmYZBpbCxVBxFl"
 creation_time_utc: "2026-08-13T03:35:09+00:00"
-fetched_at_utc: "2026-09-04T06:47:49.731606+00:00"
+fetched_at_utc: "2026-09-06T15:06:54.047739+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/773360004_1479432934218918_5125403775316336526_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-DTKE-N9NC4Q7kNvwHuFoS1&_nc_oc=AdpAgEe6tz-9TVNMGYcnASoZWIg30pGV0U2dzt0xowT1zsAx9shVXlCBIpg2lOb6qCA&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=shn8CvjeuOwJEoOcTnyAGQ&_nc_ss=79100&oh=00_AQIC-_7Ggj6AX_SMPRUQCyd6GTrKMbvU5sz3X75pvSl67g&oe=6AA03BB3"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/773360004_1479432934218918_5125403775316336526_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5C-Y_kZ_WX0Q7kNvwECKWFN&_nc_oc=AdpSfHtKRqeGSKY7_ABPR8yQ-CzLeKI5B8dtbiXaKGUa6clNw6BvPmYJAZhIPkfiJ-M&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=KDQ0ukaLYlAL20gayHTj2w&_nc_ss=7e120&oh=00_AQLIDWO6pBwglRfautVpsOs6sCEnQqXDfA34a0ruV9WvzQ&oe=6AA34F33"
 feedback_id: "ZmVlZGJhY2s6MTQ3OTQzMzY5NzU1MjE3NQ=="
-page_canonical_url: "https://www.facebook.com/bwnet.fans/"
+page_canonical_url: ""
 ---
 
 # 「在台灣，精誠是Somebody；出了台灣，我們是Nobody。」
 
-原文連結: https://www.facebook.com/bwnet.fans/posts/pfbid02Q75E9CE6P657QSiMGJhKMLxuahgH6KyfVReAT578Mm4x6AmCAEcEKJ4zUXLLDBaql
+原文連結: https://www.facebook.com/bwnet.fans/posts/pfbid02QQskQhXZPDtg1xR6rSeteJHrZ2r9FmaSYjdX8JLyx6VPnyKu5rSJmYZBpbCxVBxFl
 
-![「在台灣，精誠是Somebody；出了台灣，我們是Nobody。」](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/773360004_1479432934218918_5125403775316336526_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-DTKE-N9NC4Q7kNvwHuFoS1&_nc_oc=AdpAgEe6tz-9TVNMGYcnASoZWIg30pGV0U2dzt0xowT1zsAx9shVXlCBIpg2lOb6qCA&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=shn8CvjeuOwJEoOcTnyAGQ&_nc_ss=79100&oh=00_AQIC-_7Ggj6AX_SMPRUQCyd6GTrKMbvU5sz3X75pvSl67g&oe=6AA03BB3)
+![「在台灣，精誠是Somebody；出了台灣，我們是Nobody。」](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/773360004_1479432934218918_5125403775316336526_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5C-Y_kZ_WX0Q7kNvwECKWFN&_nc_oc=AdpSfHtKRqeGSKY7_ABPR8yQ-CzLeKI5B8dtbiXaKGUa6clNw6BvPmYJAZhIPkfiJ-M&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=KDQ0ukaLYlAL20gayHTj2w&_nc_ss=7e120&oh=00_AQLIDWO6pBwglRfautVpsOs6sCEnQqXDfA34a0ruV9WvzQ&oe=6AA34F33)
 「在台灣，精誠是Somebody；出了台灣，我們是Nobody。」
 
 一句員工私下的真心話，道破精誠出海最難的一關。它在台灣是資訊服務龍頭，出了台灣，卻得讓陌生客戶重新認識自己。

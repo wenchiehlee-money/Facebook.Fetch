@@ -4,22 +4,22 @@ title: "🔋英飛凌（Infineon）：AI電力＋電網升級的雙重受惠者"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
 final_url: "https://www.facebook.com/profile.php?id=61565088683715"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0vMeCaJVuoY658PEcM1Zn4tLQxJ8BijXuLZC9edtBBuwn8jLWmkUefdQQyKj5hYD3l&id=61565088683715"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02yrmuAgtG1ksygJjvfgDEnFWfVAfo6N4iowPVy6u1yBsoMvGtDEk2GKuufCnQyNCRl&id=61565088683715"
 creation_time_utc: "2026-08-21T13:31:17+00:00"
-fetched_at_utc: "2026-09-01T04:44:49.974389+00:00"
+fetched_at_utc: "2026-09-06T14:56:01.130088+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/780843042_122225478758502956_4158890042657490187_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=T5c9JvlD7TYQ7kNvwEmrXPA&_nc_oc=AdptMvnQHX4IT8zavJ37c2GnX_XjxAdonbDmEhz_S5mtryJ4K-i0rw0dQPCOdiTThFE&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=JBobITUBE0537MY3xviT2g&_nc_ss=7e120&oh=00_AQKUF4vqIngFQwXqUqMWj0dgfTW5CqYFU_q-uOatKr6OhA&oe=6A9C448E"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/780843042_122225478758502956_4158890042657490187_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=R9vAn4Bl37IQ7kNvwFkNw2R&_nc_oc=AdqFgDna70xOJMUM4yW_WMuvrh7lGFIaKJbBholxrhk7W_eYsr0tFKtZrpgqi41U6j8&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=Kd_-gU6zjrbQcUccM6R8DA&_nc_ss=7e120&oh=00_AQK8GARFmyveVqUljBcH_vpJpe5bzeeJ3Noxpfo3ohJt5w&oe=6AA34C8E"
 feedback_id: "ZmVlZGJhY2s6MTIyMjI1NDgwMDY2NTAyOTU2"
 page_canonical_url: ""
 ---
 
 # 🔋英飛凌（Infineon）：AI電力＋電網升級的雙重受惠者
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0vMeCaJVuoY658PEcM1Zn4tLQxJ8BijXuLZC9edtBBuwn8jLWmkUefdQQyKj5hYD3l&id=61565088683715
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02yrmuAgtG1ksygJjvfgDEnFWfVAfo6N4iowPVy6u1yBsoMvGtDEk2GKuufCnQyNCRl&id=61565088683715
 
-![🔋英飛凌（Infineon）：AI電力＋電網升級的雙重受惠者](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/780843042_122225478758502956_4158890042657490187_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=T5c9JvlD7TYQ7kNvwEmrXPA&_nc_oc=AdptMvnQHX4IT8zavJ37c2GnX_XjxAdonbDmEhz_S5mtryJ4K-i0rw0dQPCOdiTThFE&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=JBobITUBE0537MY3xviT2g&_nc_ss=7e120&oh=00_AQKUF4vqIngFQwXqUqMWj0dgfTW5CqYFU_q-uOatKr6OhA&oe=6A9C448E)
+![🔋英飛凌（Infineon）：AI電力＋電網升級的雙重受惠者](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/780843042_122225478758502956_4158890042657490187_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=R9vAn4Bl37IQ7kNvwFkNw2R&_nc_oc=AdqFgDna70xOJMUM4yW_WMuvrh7lGFIaKJbBholxrhk7W_eYsr0tFKtZrpgqi41U6j8&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=Kd_-gU6zjrbQcUccM6R8DA&_nc_ss=7e120&oh=00_AQK8GARFmyveVqUljBcH_vpJpe5bzeeJ3Noxpfo3ohJt5w&oe=6AA34C8E)
 🔋英飛凌（Infineon）：AI電力＋電網升級的雙重受惠者
 ⚡ ① 最大亮點：AI電源需求正在爆發
 英飛凌真正值得注意的，不是AI GPU，而是AI資料中心的電力轉換與管理。2Q26 Power & Sensor Systems（PSS）營收達 €1.44B，年增37%、季增14%，AI資料中心電源需求依然強勁。更重要的是，AI客戶開始透過多年期產能保留協議提前鎖定未來幾年的電源半導體產能，代表需求正從短期訂單逐漸走向長期產能規劃。 #IFNNY

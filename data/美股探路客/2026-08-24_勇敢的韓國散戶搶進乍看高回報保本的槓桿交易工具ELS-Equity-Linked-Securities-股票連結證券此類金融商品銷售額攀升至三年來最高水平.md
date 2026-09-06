@@ -4,22 +4,22 @@ title: "勇敢的韓國散戶搶進乍看高回報、保本的槓桿交易工具
 page_title: ""
 requested_url: "https://www.facebook.com/raikk6"
 final_url: "https://www.facebook.com/raikk6"
-post_url: "https://www.facebook.com/raikk6/posts/pfbid02saLa8yVj1UN6VFiwPi3cLxXEaQ13DFayWQD1RbDMmf9KpPaAYnjx6hv78RVpb7JKl"
+post_url: "https://www.facebook.com/raikk6/posts/pfbid0pALuCAu6Loq1D5F7ubnWAxfQmStC2WJeRPjpBnHtAtqAaxYt4MuPT6kmPzHfjV6Al"
 creation_time_utc: "2026-08-24T03:19:05+00:00"
-fetched_at_utc: "2026-09-01T04:41:15.798430+00:00"
+fetched_at_utc: "2026-09-06T14:48:08.540562+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/785600192_1492169392956993_3621404006708484561_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Eb-KVq-WwSkQ7kNvwEMvBPl&_nc_oc=AdoytzGNxd_l3kKDQBSvX7RTp5tVJwhWnIVTbvasMsI68NTtlZoz1_iKEdZswtPBRh4&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=0RaTddkZGgn4SckoxdW0gg&_nc_ss=7e120&oh=00_AQJ_M4LqyM8p11I_wB4kKh2_XF1pdYCT4eq1rZNFhnH7mA&oe=6A9C422C"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/785600192_1492169392956993_3621404006708484561_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=LVA9fje9U1EQ7kNvwH-97yJ&_nc_oc=Adrq3R2DtLQc9v0WbKUPKHZjMBVo-qvV3lEgSN8RLRpV8dNXpTMlVz9fFe5Lu0Sd7cY&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=fAIzUIy0fCKJ3BTaAh4Vqg&_nc_ss=7e120&oh=00_AQI8zzYaI68fFo8ii90KLtWkZp2u7w0fL5aj-ntSDMwPOA&oe=6AA34A2C"
 feedback_id: "ZmVlZGJhY2s6MTQ5MjE3Mjg0Mjk1NjY0OA=="
 page_canonical_url: ""
 ---
 
 # 勇敢的韓國散戶搶進乍看高回報、保本的槓桿交易工具ELS (Equity Linked Securities 股票連結證券)，此類金融商品銷售額攀升至三年來最高水平
 
-原文連結: https://www.facebook.com/raikk6/posts/pfbid02saLa8yVj1UN6VFiwPi3cLxXEaQ13DFayWQD1RbDMmf9KpPaAYnjx6hv78RVpb7JKl
+原文連結: https://www.facebook.com/raikk6/posts/pfbid0pALuCAu6Loq1D5F7ubnWAxfQmStC2WJeRPjpBnHtAtqAaxYt4MuPT6kmPzHfjV6Al
 
-![勇敢的韓國散戶搶進乍看高回報、保本的槓桿交易工具ELS (Equity Linked Securities 股票連結證券)，此類金融商品銷售額攀升至三年來最高水平](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/785600192_1492169392956993_3621404006708484561_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Eb-KVq-WwSkQ7kNvwEMvBPl&_nc_oc=AdoytzGNxd_l3kKDQBSvX7RTp5tVJwhWnIVTbvasMsI68NTtlZoz1_iKEdZswtPBRh4&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=0RaTddkZGgn4SckoxdW0gg&_nc_ss=7e120&oh=00_AQJ_M4LqyM8p11I_wB4kKh2_XF1pdYCT4eq1rZNFhnH7mA&oe=6A9C422C)
+![勇敢的韓國散戶搶進乍看高回報、保本的槓桿交易工具ELS (Equity Linked Securities 股票連結證券)，此類金融商品銷售額攀升至三年來最高水平](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/785600192_1492169392956993_3621404006708484561_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=LVA9fje9U1EQ7kNvwH-97yJ&_nc_oc=Adrq3R2DtLQc9v0WbKUPKHZjMBVo-qvV3lEgSN8RLRpV8dNXpTMlVz9fFe5Lu0Sd7cY&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=fAIzUIy0fCKJ3BTaAh4Vqg&_nc_ss=7e120&oh=00_AQI8zzYaI68fFo8ii90KLtWkZp2u7w0fL5aj-ntSDMwPOA&oe=6AA34A2C)
 勇敢的韓國散戶搶進乍看高回報、保本的槓桿交易工具ELS (Equity Linked Securities 股票連結證券)，此類金融商品銷售額攀升至三年來最高水平
 
 Meritz Securities 月初發行與 Samsung、SK Hynix 連結的 ELS，年化收益率為 43.4%

@@ -4,22 +4,22 @@ title: "快訊：Michael Burry 最新持倉，根據他的 Substack"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
 final_url: "https://www.facebook.com/profile.php?id=61565088683715"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0E3EdQ1khPcavEZMVJizS4832qKXpZFGK1tzByvsavkGA9E1AvVNAR7hbKrSeDfdPl&id=61565088683715"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02J2KrZ3iFRoGMJF4Dq52uxiHQvCUpmbMvFpbVpTh3tW8t9927ZeD3tYqpj1rpQFncl&id=61565088683715"
 creation_time_utc: "2026-08-15T06:17:12+00:00"
-fetched_at_utc: "2026-09-01T04:44:49.974389+00:00"
+fetched_at_utc: "2026-09-06T14:56:01.130088+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/775213610_122224728482502956_2166525576390392845_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-yBLAkuWDpcQ7kNvwHEKMeo&_nc_oc=AdrrRkf9S8RbL7btqlMuD5t1gvTCxfTwF5Sqmisp-eHIHecXkp0orO8_DRWxiDPDris&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=zpEnWPjcCNgzIRJPSHyMOA&_nc_ss=7e120&oh=00_AQKgR-59PwndQp1UuGhcxn6wLoR92RfL5fHNHSYWAU2p7Q&oe=6A9C3D64"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/775213610_122224728482502956_2166525576390392845_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yDboGGJpVZ4Q7kNvwFK6Mgk&_nc_oc=Adpx2PT6yteaZshB5HXWAXznikd-0-mG2QCrWjr5_aoo0kGvufUDVz49FT6Mh-jboEc&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=SsLO31e97noykaNjmYLCeg&_nc_ss=7e120&oh=00_AQJRe-pCRBFH3yCTnFjL-XHfBsf50fEkXSoI6ViW-UfMNA&oe=6AA34564"
 feedback_id: "ZmVlZGJhY2s6MTIyMjI0NzI4NTQ4NTAyOTU2"
 page_canonical_url: ""
 ---
 
 # 快訊：Michael Burry 最新持倉，根據他的 Substack
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0E3EdQ1khPcavEZMVJizS4832qKXpZFGK1tzByvsavkGA9E1AvVNAR7hbKrSeDfdPl&id=61565088683715
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02J2KrZ3iFRoGMJF4Dq52uxiHQvCUpmbMvFpbVpTh3tW8t9927ZeD3tYqpj1rpQFncl&id=61565088683715
 
-![快訊：Michael Burry 最新持倉，根據他的 Substack](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/775213610_122224728482502956_2166525576390392845_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-yBLAkuWDpcQ7kNvwHEKMeo&_nc_oc=AdrrRkf9S8RbL7btqlMuD5t1gvTCxfTwF5Sqmisp-eHIHecXkp0orO8_DRWxiDPDris&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=zpEnWPjcCNgzIRJPSHyMOA&_nc_ss=7e120&oh=00_AQKgR-59PwndQp1UuGhcxn6wLoR92RfL5fHNHSYWAU2p7Q&oe=6A9C3D64)
+![快訊：Michael Burry 最新持倉，根據他的 Substack](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/775213610_122224728482502956_2166525576390392845_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yDboGGJpVZ4Q7kNvwFK6Mgk&_nc_oc=Adpx2PT6yteaZshB5HXWAXznikd-0-mG2QCrWjr5_aoo0kGvufUDVz49FT6Mh-jboEc&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=SsLO31e97noykaNjmYLCeg&_nc_ss=7e120&oh=00_AQJRe-pCRBFH3yCTnFjL-XHfBsf50fEkXSoI6ViW-UfMNA&oe=6AA34564)
 快訊：Michael Burry 最新持倉，根據他的 Substack
 🔥 前十大持股
 第一級（各約占 8%）：

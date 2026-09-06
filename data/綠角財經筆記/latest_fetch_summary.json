@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-09-06T14:33:14.037365+00:00",
+  "fetched_at_utc": "2026-09-06T14:46:29.373475+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,19 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1497767152156680"
-  ],
-  "new_markdown_files": [
-    "data/綠角財經筆記/2026-09-06_格局提出把事情做好的三條線的概念應用在投資世界非常貼切.md"
-  ],
+  "checked_post_count": 52,
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
+    "本次已成功用公開 GraphQL 擷取到 52 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"

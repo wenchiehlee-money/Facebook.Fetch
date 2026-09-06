@@ -4,22 +4,22 @@ title: "🧠 AI 記憶體革命：從 HBM 一路延伸到 Data Lake"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
 final_url: "https://www.facebook.com/profile.php?id=61565088683715"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0TTo1ybcutzWpkYD8Fywysd5MC6UASw8WKoMKG9GYN85UDBEbnRgXbwEf3KSLj1Hml&id=61565088683715"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02WxviZz1G7QgRFY1o8udV9jRG9D6yfq65FTpnmpF2WA1kv1NjMg6BwLm4y2gRuQAFl&id=61565088683715"
 creation_time_utc: "2026-08-17T10:32:51+00:00"
-fetched_at_utc: "2026-09-01T04:44:49.974389+00:00"
+fetched_at_utc: "2026-09-06T14:56:01.130088+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/774042546_122224964762502956_5141978449562256782_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SQwEUf6uwfYQ7kNvwH7Rtka&_nc_oc=AdpDXhLlPanDR7BDu-wW1KHpbvnCZHKinkzB6728h1gvZ5StTKY8Ap1Ggxe0guQsgXA&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=54jo68ydo2acydZZ839v-g&_nc_ss=7e120&oh=00_AQLDXRAh-X2Yi42vDpcZNOanLdZLRGD62yKCyoPc59YZMg&oe=6A9C34B0"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/774042546_122224964762502956_5141978449562256782_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8rKZXK38v4AQ7kNvwG0dNuc&_nc_oc=AdpX-d8IhuSZBkjXOsZVOST9pBhZnCnAakw7ii8xlJ3fUNsXiW_IuExjCQfRCey23Ec&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=01BfF4FsiIB72l57YaCEag&_nc_ss=7e120&oh=00_AQLvWxP9u6F7HjZZKF52xGlpWpV-yDPWQwEYxXIeQzU0Sw&oe=6AA33CB0"
 feedback_id: "ZmVlZGJhY2s6MTIyMjI0OTY0NjQyNTAyOTU2"
 page_canonical_url: ""
 ---
 
 # 🧠 AI 記憶體革命：從 HBM 一路延伸到 Data Lake
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0TTo1ybcutzWpkYD8Fywysd5MC6UASw8WKoMKG9GYN85UDBEbnRgXbwEf3KSLj1Hml&id=61565088683715
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02WxviZz1G7QgRFY1o8udV9jRG9D6yfq65FTpnmpF2WA1kv1NjMg6BwLm4y2gRuQAFl&id=61565088683715
 
-![🧠 AI 記憶體革命：從 HBM 一路延伸到 Data Lake](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/774042546_122224964762502956_5141978449562256782_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SQwEUf6uwfYQ7kNvwH7Rtka&_nc_oc=AdpDXhLlPanDR7BDu-wW1KHpbvnCZHKinkzB6728h1gvZ5StTKY8Ap1Ggxe0guQsgXA&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=54jo68ydo2acydZZ839v-g&_nc_ss=7e120&oh=00_AQLDXRAh-X2Yi42vDpcZNOanLdZLRGD62yKCyoPc59YZMg&oe=6A9C34B0)
+![🧠 AI 記憶體革命：從 HBM 一路延伸到 Data Lake](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/774042546_122224964762502956_5141978449562256782_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8rKZXK38v4AQ7kNvwG0dNuc&_nc_oc=AdpX-d8IhuSZBkjXOsZVOST9pBhZnCnAakw7ii8xlJ3fUNsXiW_IuExjCQfRCey23Ec&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=01BfF4FsiIB72l57YaCEag&_nc_ss=7e120&oh=00_AQLvWxP9u6F7HjZZKF52xGlpWpV-yDPWQwEYxXIeQzU0Sw&oe=6AA33CB0)
 🧠 AI 記憶體革命：從 HBM 一路延伸到 Data Lake
 🚀 ① Near Memory：AI 算力最直接的記憶體需求
 這一層的核心就是 HBM，也是目前 AI 伺服器最關鍵的高頻寬記憶體。輝達 GPU 的運算能力越來越強，對 HBM 的容量、頻寬與功耗效率要求也同步提升，因此 SK hynix、Samsung、Micron（$MU） 都是最直接的受惠者。

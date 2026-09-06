@@ -4,22 +4,22 @@ title: "a16z的David George與投資人Gavin Baker對談時提到，整個夏天
 page_title: ""
 requested_url: "https://www.facebook.com/intleconobserve"
 final_url: "https://www.facebook.com/intleconobserve"
-post_url: "https://www.facebook.com/intleconobserve/posts/pfbid02kxgYumUMomoUBZ58mjsGGDg4Jak2JRwRJSen373GJ28VNEhYRmQUCvZqjHEJ47Rel"
+post_url: "https://www.facebook.com/intleconobserve/posts/pfbid02kvB4azEMApTrVAdyccAHpVA4VVYPE8VZL39v1q87pxAuqHG3wGmViaZh5SLVnaagl"
 creation_time_utc: "2026-09-01T03:14:24+00:00"
-fetched_at_utc: "2026-09-01T06:13:03.405546+00:00"
+fetched_at_utc: "2026-09-06T14:53:31.365081+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/790208884_1595372901947332_5566358999664801030_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=s7qj6bJGwTYQ7kNvwHgy57p&_nc_oc=AdrzkT2SiTyDHNYfi33Z9CJBEjPK-n1LJIemYCYL6ZgMWUGKfP-WIRghGHwTY_1SIFE&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=yjaQRuxeou2p8D4k5JM_CQ&_nc_ss=7e120&oh=00_AQKpVM8m2lWxMXN_iGa47AvcAe9WYAc_aSgPcXnbTqUacg&oe=6A9C467D"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/790208884_1595372901947332_5566358999664801030_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_wDzXxBukY4Q7kNvwHdDdlJ&_nc_oc=AdqJ_2_8zrNxGk9Gi42cSzSJ9epQlXCWgn6CXL6_8oNeCqfzi3SJrhn7cQAWucWJ60w&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=ncAB7Kj9YRdNwCJFtR4dCw&_nc_ss=7e120&oh=00_AQJtgpv-t7pH91SFuuQ_mAxHDNQE2dgm83aSwM-zd7A3rA&oe=6AA34E7D"
 feedback_id: "ZmVlZGJhY2s6MTU5NTM3NDAwODYxMzg4OA=="
 page_canonical_url: ""
 ---
 
 # a16z的David George與投資人Gavin Baker對談時提到，整個夏天都在尋找能讓自己轉為看空的理由，但始終找不到。Gavin表示：「我問每個人的標準問題就是，你能不能告訴我一個你們業務中正在惡化的量化數據，就一個就好。」
 
-原文連結: https://www.facebook.com/intleconobserve/posts/pfbid02kxgYumUMomoUBZ58mjsGGDg4Jak2JRwRJSen373GJ28VNEhYRmQUCvZqjHEJ47Rel
+原文連結: https://www.facebook.com/intleconobserve/posts/pfbid02kvB4azEMApTrVAdyccAHpVA4VVYPE8VZL39v1q87pxAuqHG3wGmViaZh5SLVnaagl
 
-![a16z的David George與投資人Gavin Baker對談時提到，整個夏天都在尋找能讓自己轉為看空的理由，但始終找不到。Gavin表示：「我問每個人的標準問題就是，你能不能告訴我一個你們業務中正在惡化的量化數據，就一個就好。」](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/790208884_1595372901947332_5566358999664801030_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=s7qj6bJGwTYQ7kNvwHgy57p&_nc_oc=AdrzkT2SiTyDHNYfi33Z9CJBEjPK-n1LJIemYCYL6ZgMWUGKfP-WIRghGHwTY_1SIFE&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=yjaQRuxeou2p8D4k5JM_CQ&_nc_ss=7e120&oh=00_AQKpVM8m2lWxMXN_iGa47AvcAe9WYAc_aSgPcXnbTqUacg&oe=6A9C467D)
+![a16z的David George與投資人Gavin Baker對談時提到，整個夏天都在尋找能讓自己轉為看空的理由，但始終找不到。Gavin表示：「我問每個人的標準問題就是，你能不能告訴我一個你們業務中正在惡化的量化數據，就一個就好。」](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/790208884_1595372901947332_5566358999664801030_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_wDzXxBukY4Q7kNvwHdDdlJ&_nc_oc=AdqJ_2_8zrNxGk9Gi42cSzSJ9epQlXCWgn6CXL6_8oNeCqfzi3SJrhn7cQAWucWJ60w&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=ncAB7Kj9YRdNwCJFtR4dCw&_nc_ss=7e120&oh=00_AQJtgpv-t7pH91SFuuQ_mAxHDNQE2dgm83aSwM-zd7A3rA&oe=6AA34E7D)
 a16z的David George與投資人Gavin Baker對談時提到，整個夏天都在尋找能讓自己轉為看空的理由，但始終找不到。Gavin表示：「我問每個人的標準問題就是，你能不能告訴我一個你們業務中正在惡化的量化數據，就一個就好。」
 
 他觀察到七月與八月AI產業整體持續加速，OpenAI明顯加速，開源陣營加速得更多，Grok推出Grokbot後也出現顯著成長，但同一時間公開市場的AI相關股價卻大幅回檔。

@@ -4,22 +4,22 @@ title: "晨星專欄作家John Rekenthaler在一篇名為 With Investment Yield,
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid034psJxgQ2BCrTFz2iTDUmTaTm6mS9pFemasnnF7CS6q17dSaRWx4kkWZqf3Jvx4TPl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0zvv7TEEBgrxvT5FUX3mCFheFficGYZJwRoaNbwboqpuGdi6HgpXwuuN8Ya1CU9cSl"
 creation_time_utc: "2026-08-09T00:29:09+00:00"
-fetched_at_utc: "2026-09-01T04:40:33.930105+00:00"
+fetched_at_utc: "2026-09-06T14:46:29.373475+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/768230412_1474207697845959_3174716475692938172_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UvB_WwrXqGcQ7kNvwEcVLNv&_nc_oc=AdoVNdp01zq3dx7CidFtV-IFdTxlZLIpqWtJSzvzDKb2MsXKco09f0yzOC0nZ0gxyLI&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=FCBZW_lUy0FAuAv8ooE-tg&_nc_ss=7e120&oh=00_AQLaC0Wd1qhwaT0CZMbnXBiDabQEi6tb4wpNzyWCD75STw&oe=6A9C1445"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/768230412_1474207697845959_3174716475692938172_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eJH8e1VOSEoQ7kNvwHWgiXJ&_nc_oc=AdqUb06MIH2J7bAUriccqOYrm_ls7Qu-g8Z3c59Y65yw1woi6GvBp9w3j14TA6AJLcc&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=BXu0DjreoubNeinMelB2bg&_nc_ss=7e120&oh=00_AQJ62nSpwohQ3loUhUBldbNhdWbyfmbaLQXQQIz5yzWz-g&oe=6AA35485"
 feedback_id: "ZmVlZGJhY2s6MTQ3NDIwODgxMTE3OTE4MQ=="
 page_canonical_url: ""
 ---
 
 # 晨星專欄作家John Rekenthaler在一篇名為 With Investment Yield, Denominators Also Matter的文章，討論配息資產的”本金”狀態，對於配息金額的重要性。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid034psJxgQ2BCrTFz2iTDUmTaTm6mS9pFemasnnF7CS6q17dSaRWx4kkWZqf3Jvx4TPl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0zvv7TEEBgrxvT5FUX3mCFheFficGYZJwRoaNbwboqpuGdi6HgpXwuuN8Ya1CU9cSl
 
-![晨星專欄作家John Rekenthaler在一篇名為 With Investment Yield, Denominators Also Matter的文章，討論配息資產的”本金”狀態，對於配息金額的重要性。](https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/768230412_1474207697845959_3174716475692938172_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UvB_WwrXqGcQ7kNvwEcVLNv&_nc_oc=AdoVNdp01zq3dx7CidFtV-IFdTxlZLIpqWtJSzvzDKb2MsXKco09f0yzOC0nZ0gxyLI&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=FCBZW_lUy0FAuAv8ooE-tg&_nc_ss=7e120&oh=00_AQLaC0Wd1qhwaT0CZMbnXBiDabQEi6tb4wpNzyWCD75STw&oe=6A9C1445)
+![晨星專欄作家John Rekenthaler在一篇名為 With Investment Yield, Denominators Also Matter的文章，討論配息資產的”本金”狀態，對於配息金額的重要性。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/768230412_1474207697845959_3174716475692938172_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eJH8e1VOSEoQ7kNvwHWgiXJ&_nc_oc=AdqUb06MIH2J7bAUriccqOYrm_ls7Qu-g8Z3c59Y65yw1woi6GvBp9w3j14TA6AJLcc&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=BXu0DjreoubNeinMelB2bg&_nc_ss=7e120&oh=00_AQJ62nSpwohQ3loUhUBldbNhdWbyfmbaLQXQQIz5yzWz-g&oe=6AA35485)
 晨星專欄作家John Rekenthaler在一篇名為 With Investment Yield, Denominators Also Matter的文章，討論配息資產的”本金”狀態，對於配息金額的重要性。
 
 我發現這個論點完全可以應用於退休時的本金。因為，退休階段就是利用本金來產生現金流。

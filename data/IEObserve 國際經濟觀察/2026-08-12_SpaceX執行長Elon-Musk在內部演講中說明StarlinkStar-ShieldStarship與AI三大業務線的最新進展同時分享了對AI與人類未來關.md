@@ -4,22 +4,22 @@ title: "SpaceX執行長Elon Musk在內部演講中，說明Starlink、Star Shiel
 page_title: ""
 requested_url: "https://www.facebook.com/intleconobserve"
 final_url: "https://www.facebook.com/intleconobserve"
-post_url: "https://www.facebook.com/intleconobserve/posts/pfbid021H7mE5NnZNbzBLUJnREu9dahPmpJiqaLXV23MeBagreu6fVexHk4igpY8fybcB7Ql"
+post_url: "https://www.facebook.com/intleconobserve/posts/pfbid034nFTpTm8mpUhR3pbjUKAHEv7Z9bQfCjngXdQLWDVdzMd6NM762zuRGKX39serpv6l"
 creation_time_utc: "2026-08-12T02:33:03+00:00"
-fetched_at_utc: "2026-09-01T04:43:32.511067+00:00"
+fetched_at_utc: "2026-09-06T14:53:31.365081+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/773632987_1578396903644932_3993531402052023179_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=5r3W7a5t4KAQ7kNvwHDGPrJ&_nc_oc=AdodvwkG4hHl2NsGz9569B-WCmrheZSbYXaCRJ9mP4BN0IIkO4hrr751FPHKLkAHRzA&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=Ew1sMWc_tGxvLDyBporfYQ&_nc_ss=7e120&oh=00_AQJ7XSOu92R3FvKMup5sb-9kaYa6Keq5iRGQqMRprACkUQ&oe=6A9C3027"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/773632987_1578396903644932_3993531402052023179_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lbom4AU_uyEQ7kNvwFKJT7P&_nc_oc=AdqnOM3RtfZx5XDxbnUcrVtnPFQu19epUvmIZHZDCXFk_kmv03ZDKd59dKplsakxUxQ&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=ugswh1niqtxLdtqKyLWV9Q&_nc_ss=7e120&oh=00_AQLOSvB0EmgbTEEKpVE5d1IhqKYXXwdyI9ItJzHxKYjFbg&oe=6AA33827"
 feedback_id: "ZmVlZGJhY2s6MTU3ODQ2ODAyMzYzNzgyMA=="
 page_canonical_url: ""
 ---
 
 # SpaceX執行長Elon Musk在內部演講中，說明Starlink、Star Shield、Starship與AI三大業務線的最新進展，同時分享了對AI與人類未來關係的看法。
 
-原文連結: https://www.facebook.com/intleconobserve/posts/pfbid021H7mE5NnZNbzBLUJnREu9dahPmpJiqaLXV23MeBagreu6fVexHk4igpY8fybcB7Ql
+原文連結: https://www.facebook.com/intleconobserve/posts/pfbid034nFTpTm8mpUhR3pbjUKAHEv7Z9bQfCjngXdQLWDVdzMd6NM762zuRGKX39serpv6l
 
-![SpaceX執行長Elon Musk在內部演講中，說明Starlink、Star Shield、Starship與AI三大業務線的最新進展，同時分享了對AI與人類未來關係的看法。](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/773632987_1578396903644932_3993531402052023179_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=5r3W7a5t4KAQ7kNvwHDGPrJ&_nc_oc=AdodvwkG4hHl2NsGz9569B-WCmrheZSbYXaCRJ9mP4BN0IIkO4hrr751FPHKLkAHRzA&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=Ew1sMWc_tGxvLDyBporfYQ&_nc_ss=7e120&oh=00_AQJ7XSOu92R3FvKMup5sb-9kaYa6Keq5iRGQqMRprACkUQ&oe=6A9C3027)
+![SpaceX執行長Elon Musk在內部演講中，說明Starlink、Star Shield、Starship與AI三大業務線的最新進展，同時分享了對AI與人類未來關係的看法。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/773632987_1578396903644932_3993531402052023179_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lbom4AU_uyEQ7kNvwFKJT7P&_nc_oc=AdqnOM3RtfZx5XDxbnUcrVtnPFQu19epUvmIZHZDCXFk_kmv03ZDKd59dKplsakxUxQ&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=ugswh1niqtxLdtqKyLWV9Q&_nc_ss=7e120&oh=00_AQLOSvB0EmgbTEEKpVE5d1IhqKYXXwdyI9ItJzHxKYjFbg&oe=6AA33827)
 SpaceX執行長Elon Musk在內部演講中，說明Starlink、Star Shield、Starship與AI三大業務線的最新進展，同時分享了對AI與人類未來關係的看法。
 
 #Starlink：全球頻寬最高的網路系統 Musk預期未來Starlink有機會承載網路流量的多數比重，「我認為它未來甚至可能承擔全球超過九成的網路流量。」

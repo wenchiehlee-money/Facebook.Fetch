@@ -4,22 +4,22 @@ title: "政府不用違約，也能悄悄讓你的財富縮水。所謂金融壓
 page_title: ""
 requested_url: "https://www.facebook.com/yutinghaosfinance"
 final_url: "https://www.facebook.com/yutinghaosfinance"
-post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid02X65Q6HXdJR54MSbzGGTAUdUoSDqfa693jsGesCJv1RjWr6GExYBfpdBcUEmzi7Jl"
+post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid026WBJZ8F5fL6YGjsJLcStD3HDYE91seFGVVg9pjEjseo9xLCicTYgeSZVUeULzjxml"
 creation_time_utc: "2026-08-19T12:30:17+00:00"
-fetched_at_utc: "2026-09-01T04:39:46.895032+00:00"
+fetched_at_utc: "2026-09-06T14:44:31.683647+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/778882715_1125718563352829_2246215993256464700_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=AGlA7jH3WGMQ7kNvwFZNLFI&_nc_oc=AdoatOwKBTY_nt1fA8CTKTCe0OX4AGaD2A_HlYClWoL5LjSTGx_lZFpQN4AfRTdDWwg&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=jgTf_QTXcEhuZVhtJ5EnOw&_nc_ss=7e120&oh=00_AQLKOog6DklgtS2TsUZW6dMatTiS9WFT4J1g1MCx3JoIHA&oe=6A9C2C01"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/778882715_1125718563352829_2246215993256464700_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JqRsf60MLtkQ7kNvwF4UTa6&_nc_oc=AdoZailHbb3IoJ3PpohcoX4xu0JIY2N5b6rUc_5XRat059HjqjQwkb50v6_g3d9mEjk&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=aLueFeg3xpDqAzg-_KAV7w&_nc_ss=7e120&oh=00_AQK35WfHOWzLkklY89WhS0yO8eyTttrFcNopsDHt1iX2-g&oe=6AA33401"
 feedback_id: "ZmVlZGJhY2s6MTEyNTcxODc3MzM1MjgwOA=="
 page_canonical_url: ""
 ---
 
 # 政府不用違約，也能悄悄讓你的財富縮水。所謂金融壓抑（Financial Repression），是指政府透過壓低利率、維持較高通膨，讓實質利率長期為負，以降低龐大債務負擔。
 
-原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid02X65Q6HXdJR54MSbzGGTAUdUoSDqfa693jsGesCJv1RjWr6GExYBfpdBcUEmzi7Jl
+原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid026WBJZ8F5fL6YGjsJLcStD3HDYE91seFGVVg9pjEjseo9xLCicTYgeSZVUeULzjxml
 
-![政府不用違約，也能悄悄讓你的財富縮水。所謂金融壓抑（Financial Repression），是指政府透過壓低利率、維持較高通膨，讓實質利率長期為負，以降低龐大債務負擔。](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/778882715_1125718563352829_2246215993256464700_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=AGlA7jH3WGMQ7kNvwFZNLFI&_nc_oc=AdoatOwKBTY_nt1fA8CTKTCe0OX4AGaD2A_HlYClWoL5LjSTGx_lZFpQN4AfRTdDWwg&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=jgTf_QTXcEhuZVhtJ5EnOw&_nc_ss=7e120&oh=00_AQLKOog6DklgtS2TsUZW6dMatTiS9WFT4J1g1MCx3JoIHA&oe=6A9C2C01)
+![政府不用違約，也能悄悄讓你的財富縮水。所謂金融壓抑（Financial Repression），是指政府透過壓低利率、維持較高通膨，讓實質利率長期為負，以降低龐大債務負擔。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/778882715_1125718563352829_2246215993256464700_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JqRsf60MLtkQ7kNvwF4UTa6&_nc_oc=AdoZailHbb3IoJ3PpohcoX4xu0JIY2N5b6rUc_5XRat059HjqjQwkb50v6_g3d9mEjk&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=aLueFeg3xpDqAzg-_KAV7w&_nc_ss=7e120&oh=00_AQK35WfHOWzLkklY89WhS0yO8eyTttrFcNopsDHt1iX2-g&oe=6AA33401)
 政府不用違約，也能悄悄讓你的財富縮水。所謂金融壓抑（Financial Repression），是指政府透過壓低利率、維持較高通膨，讓實質利率長期為負，以降低龐大債務負擔。
 
 舉例來說，如果通膨率是9%，但利率只有4%，每年就等於有5%的購買力，從存款人與債券持有人轉移到政府手中。

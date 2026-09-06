@@ -4,22 +4,22 @@ title: "🚀 Google 用「$1200億 營收目標」綁定 Marvell"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
 final_url: "https://www.facebook.com/profile.php?id=61565088683715"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid027cHKegSBaZkfuDDaQWKzv7n4YWBvfHQNkMLWwSLLG5nhQULUorPxxt53ExA2f6yql&id=61565088683715"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid04CHehsqYv1mvbpXz6bNoicipyBuAE1CGEis6BqbTZNXfHbYihR6q2qGdcXLN9CPml&id=61565088683715"
 creation_time_utc: "2026-08-19T12:38:19+00:00"
-fetched_at_utc: "2026-09-01T04:44:49.974389+00:00"
+fetched_at_utc: "2026-09-06T14:56:01.130088+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/780912929_122225219228502956_6405576892137321467_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tVSwbIhENa8Q7kNvwGHkJTY&_nc_oc=AdrPU-Kt0db5Q1QG8sU8vMeHrOv9x--nh754FgQWYu17BUgXe1Gy6aOlahIFco5lXyw&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=59ZBc_Dg-xNl64usnLSxvA&_nc_ss=7e120&oh=00_AQKGeHmrEOI5HGIx8zAWXr6BqsZitKjJlcfN0fcGuNV1kw&oe=6A9C357B"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/780912929_122225219228502956_6405576892137321467_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tXShEa667lMQ7kNvwE1-x9G&_nc_oc=Adr2zSvvlGamwRpsIDXaanWTcV5bjosB0wpw6OMc4pBlIPYwCSuLVwcptrhogJEMzlU&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=iKQCqCDzLSGaFWz95Z2taw&_nc_ss=7e120&oh=00_AQLdsfeLuigp7ez91Mu3-ks4tO3wOLo3bnbnhiyDTcnHjg&oe=6AA33D7B"
 feedback_id: "ZmVlZGJhY2s6MTIyMjI1MjE5MzEyNTAyOTU2"
 page_canonical_url: ""
 ---
 
 # 🚀 Google 用「$1200億 營收目標」綁定 Marvell
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid027cHKegSBaZkfuDDaQWKzv7n4YWBvfHQNkMLWwSLLG5nhQULUorPxxt53ExA2f6yql&id=61565088683715
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid04CHehsqYv1mvbpXz6bNoicipyBuAE1CGEis6BqbTZNXfHbYihR6q2qGdcXLN9CPml&id=61565088683715
 
-![🚀 Google 用「$1200億 營收目標」綁定 Marvell](https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/780912929_122225219228502956_6405576892137321467_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tVSwbIhENa8Q7kNvwGHkJTY&_nc_oc=AdrPU-Kt0db5Q1QG8sU8vMeHrOv9x--nh754FgQWYu17BUgXe1Gy6aOlahIFco5lXyw&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=59ZBc_Dg-xNl64usnLSxvA&_nc_ss=7e120&oh=00_AQKGeHmrEOI5HGIx8zAWXr6BqsZitKjJlcfN0fcGuNV1kw&oe=6A9C357B)
+![🚀 Google 用「$1200億 營收目標」綁定 Marvell](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/780912929_122225219228502956_6405576892137321467_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tXShEa667lMQ7kNvwE1-x9G&_nc_oc=Adr2zSvvlGamwRpsIDXaanWTcV5bjosB0wpw6OMc4pBlIPYwCSuLVwcptrhogJEMzlU&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=iKQCqCDzLSGaFWz95Z2taw&_nc_ss=7e120&oh=00_AQLdsfeLuigp7ez91Mu3-ks4tO3wOLo3bnbnhiyDTcnHjg&oe=6AA33D7B)
 🚀 Google 用「$1200億 營收目標」綁定 Marvell
 ▪ Google 給 MRVL 的不是單純投資，而是長期合作的認股權證。
 ▪ 5,897 萬股 MRVL，行權價 $206.58。

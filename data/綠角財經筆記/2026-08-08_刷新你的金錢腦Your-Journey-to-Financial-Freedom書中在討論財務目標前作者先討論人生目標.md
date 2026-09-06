@@ -4,22 +4,22 @@ title: "《刷新你的金錢腦》(Your Journey to Financial Freedom)書中在�
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid03BXgiCK6aE5RrspCVyHi2wiyz5FzwUiXyGCFcjjjou3r72f4SDzuS1K3eCgoD7fTl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0392CPR55wD8msAxfrwN3F2wxBcX3i8abQKpede27cmQNHjhEExQiseC6SYnAJPgml"
 creation_time_utc: "2026-08-08T00:09:48+00:00"
-fetched_at_utc: "2026-09-01T04:40:33.930105+00:00"
+fetched_at_utc: "2026-09-06T14:46:29.373475+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/768546202_1473352187931510_5110702723371554975_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=r4hWriizo6MQ7kNvwEILRFW&_nc_oc=AdrvicBxvicib3YzGocpfaQsOWCJE8_hn6bSH-Mmtsb67Z1kQ2cck22Qr-pBHr-kssM&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=FCBZW_lUy0FAuAv8ooE-tg&_nc_ss=7e120&oh=00_AQILYgo-tH8roqOEL1hRYudCshcV9IZ-OO934F6JNPHdcA&oe=6A9C315D"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/768546202_1473352187931510_5110702723371554975_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9iBxkeS-x-wQ7kNvwGJ1MsX&_nc_oc=AdoTtdGnFODrjNCC6kFI6htkb3Wt2ZHMMK6jgLeUxUx0EswIxGkLz-Gbi68V01qdQWM&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=7STBOiZ3-bfziutppwGYKA&_nc_ss=7e120&oh=00_AQJtm9YfaGYj0kX_SugiUC-U3kYFimvNETFwAdTJDCJIEQ&oe=6AA3395D"
 feedback_id: "ZmVlZGJhY2s6MTQ3MzM1Mzk0NDU5ODAwMQ=="
 page_canonical_url: ""
 ---
 
 # 《刷新你的金錢腦》(Your Journey to Financial Freedom)書中在討論財務目標前，作者先討論”人生目標”。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid03BXgiCK6aE5RrspCVyHi2wiyz5FzwUiXyGCFcjjjou3r72f4SDzuS1K3eCgoD7fTl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0392CPR55wD8msAxfrwN3F2wxBcX3i8abQKpede27cmQNHjhEExQiseC6SYnAJPgml
 
-![《刷新你的金錢腦》(Your Journey to Financial Freedom)書中在討論財務目標前，作者先討論”人生目標”。](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/768546202_1473352187931510_5110702723371554975_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=r4hWriizo6MQ7kNvwEILRFW&_nc_oc=AdrvicBxvicib3YzGocpfaQsOWCJE8_hn6bSH-Mmtsb67Z1kQ2cck22Qr-pBHr-kssM&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=FCBZW_lUy0FAuAv8ooE-tg&_nc_ss=7e120&oh=00_AQILYgo-tH8roqOEL1hRYudCshcV9IZ-OO934F6JNPHdcA&oe=6A9C315D)
+![《刷新你的金錢腦》(Your Journey to Financial Freedom)書中在討論財務目標前，作者先討論”人生目標”。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/768546202_1473352187931510_5110702723371554975_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9iBxkeS-x-wQ7kNvwGJ1MsX&_nc_oc=AdoTtdGnFODrjNCC6kFI6htkb3Wt2ZHMMK6jgLeUxUx0EswIxGkLz-Gbi68V01qdQWM&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=7STBOiZ3-bfziutppwGYKA&_nc_ss=7e120&oh=00_AQJtm9YfaGYj0kX_SugiUC-U3kYFimvNETFwAdTJDCJIEQ&oe=6AA3395D)
 《刷新你的金錢腦》(Your Journey to Financial Freedom)書中在討論財務目標前，作者先討論”人生目標”。
 
 金錢是用來達成人生目標的。

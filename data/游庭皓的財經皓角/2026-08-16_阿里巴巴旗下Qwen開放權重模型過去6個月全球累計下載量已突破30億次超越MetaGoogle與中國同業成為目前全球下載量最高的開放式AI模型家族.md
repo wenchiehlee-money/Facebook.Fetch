@@ -4,22 +4,22 @@ title: "阿里巴巴旗下Qwen開放權重模型，過去6個月全球累計下�
 page_title: ""
 requested_url: "https://www.facebook.com/yutinghaosfinance"
 final_url: "https://www.facebook.com/yutinghaosfinance"
-post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid0irhKncLGFUpC3Uuv4geVPr5Buw9PuF4CRYihEM98DX6io4pYiioHePEaFEagLPQMl"
+post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid02nMq2NzicTkfshEBgDwxF6EAr4N9rSGZBP6VAGGVpcW6S1S46Vf9pk8cQwTemNzA2l"
 creation_time_utc: "2026-08-16T13:14:02+00:00"
-fetched_at_utc: "2026-09-01T04:39:46.895032+00:00"
+fetched_at_utc: "2026-09-06T14:44:31.683647+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/776085971_1123086706949348_8679697618996306006_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=g2jJ4406nVkQ7kNvwEjX2w4&_nc_oc=Adrwp4xZhe-sCRvCbbaldy6AdxjvpGp0y51sFlD4XpN2pgW6vHIfN2ZvVOaeogKm014&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=WyifcmFRLsZvO-OJMsJiLQ&_nc_ss=7e120&oh=00_AQLQWcFG2xCLTnybNiOUCYVvxJ1V_WIUa7tC2yDb2Jvhfw&oe=6A9C11CE"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/776085971_1123086706949348_8679697618996306006_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mBFBDt8JHXkQ7kNvwHVjF6n&_nc_oc=AdozoS_2mlMuZX7EcmICJCnxKAux-43XMoNoUcEZetCoumiQxWMJ4vDyLJ_BmhinpkE&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=MdLA7Fl5lr4Xn0HQCzwF9g&_nc_ss=7e120&oh=00_AQKXTlinC5VaBYlLPosewEFniToqIsXUGmoVKpjAq2uf6Q&oe=6AA3520E"
 feedback_id: "ZmVlZGJhY2s6MTEyMzA4Njc0Njk0OTM0NA=="
 page_canonical_url: ""
 ---
 
 # 阿里巴巴旗下Qwen開放權重模型，過去6個月全球累計下載量已突破30億次，超越Meta、Google與中國同業，成為目前全球下載量最高的開放式AI模型家族。
 
-原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid0irhKncLGFUpC3Uuv4geVPr5Buw9PuF4CRYihEM98DX6io4pYiioHePEaFEagLPQMl
+原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid02nMq2NzicTkfshEBgDwxF6EAr4N9rSGZBP6VAGGVpcW6S1S46Vf9pk8cQwTemNzA2l
 
-![阿里巴巴旗下Qwen開放權重模型，過去6個月全球累計下載量已突破30億次，超越Meta、Google與中國同業，成為目前全球下載量最高的開放式AI模型家族。](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/776085971_1123086706949348_8679697618996306006_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=g2jJ4406nVkQ7kNvwEjX2w4&_nc_oc=Adrwp4xZhe-sCRvCbbaldy6AdxjvpGp0y51sFlD4XpN2pgW6vHIfN2ZvVOaeogKm014&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=WyifcmFRLsZvO-OJMsJiLQ&_nc_ss=7e120&oh=00_AQLQWcFG2xCLTnybNiOUCYVvxJ1V_WIUa7tC2yDb2Jvhfw&oe=6A9C11CE)
+![阿里巴巴旗下Qwen開放權重模型，過去6個月全球累計下載量已突破30億次，超越Meta、Google與中國同業，成為目前全球下載量最高的開放式AI模型家族。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/776085971_1123086706949348_8679697618996306006_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mBFBDt8JHXkQ7kNvwHVjF6n&_nc_oc=AdozoS_2mlMuZX7EcmICJCnxKAux-43XMoNoUcEZetCoumiQxWMJ4vDyLJ_BmhinpkE&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=MdLA7Fl5lr4Xn0HQCzwF9g&_nc_ss=7e120&oh=00_AQKXTlinC5VaBYlLPosewEFniToqIsXUGmoVKpjAq2uf6Q&oe=6AA3520E)
 阿里巴巴旗下Qwen開放權重模型，過去6個月全球累計下載量已突破30億次，超越Meta、Google與中國同業，成為目前全球下載量最高的開放式AI模型家族。
 
 Qwen目前已開源超過460個模型，生態系衍生版本超過30萬個；相比之下，Hugging Face統計顯示，Google旗下開放模型2026年下載量約4.18億次，Meta約2.27億次。

@@ -4,22 +4,22 @@ title: "當我們邁入生成式代理（AI Agents）的時代，每一次的對
 page_title: ""
 requested_url: "https://www.facebook.com/hsulylab"
 final_url: "https://www.facebook.com/hsulylab"
-post_url: "https://www.facebook.com/hsulylab/posts/pfbid034HrQF842Wy5xDCvKFMUSAVKuEoh9Wu2UsX6Sdqd1VGGjPGstGiRZE3U4vszaVWQFl"
+post_url: "https://www.facebook.com/hsulylab/posts/pfbid034FLuvLp1t9sRDCDJGZhUBCgskodmhoZLwXuD1qRdScYKoSxDW54xuRENZF9PYMYrl"
 creation_time_utc: "2026-08-19T04:00:03+00:00"
-fetched_at_utc: "2026-09-01T04:48:02.246136+00:00"
+fetched_at_utc: "2026-09-06T15:01:22.812987+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/775419815_1346357427662408_1029616909207760345_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hMfH1qpbvXkQ7kNvwHaYs8o&_nc_oc=AdqeLMR-dZVQWU9t_PL1MMLLhiTuAMfbEB1ZHrQpsI6tNC35ZON5cfI41SsJEbP21Hg&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=V6PmldfJg5ZC3woAj7vaOA&_nc_ss=7e120&oh=00_AQLJjTHudh0kfvZGZgrGducfEZhZ5y05n7FJAKY2t9J5gA&oe=6A9C193A"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/775419815_1346357427662408_1029616909207760345_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=H8GyhyI1kG4Q7kNvwG1Mbjo&_nc_oc=AdrnN5B_h6mHii1TMux3K-pTvRbWaYtXpUbqw08IswlpzvO-XzvzcHCdmQveQxQuqdM&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=iJSOdAeCuy8EEaOWazmE0A&_nc_ss=7e120&oh=00_AQLP-Ws3P4UOuTdnpCnlPD72sSkJ9oFHPibAbysTBa8ZUw&oe=6AA3597A"
 feedback_id: "ZmVlZGJhY2s6MTM0NjM5ODI3MDk5MTY1Nw=="
 page_canonical_url: ""
 ---
 
 # 當我們邁入生成式代理（AI Agents）的時代，每一次的對話、每一次的推演，都會產生需要被長期保留的上下文記憶（KV Cache）。這些記憶的體積正以幾何級數膨脹，而 HBM 那極度昂貴且空間有限的特性，注定無法獨自承載這一切。
 
-原文連結: https://www.facebook.com/hsulylab/posts/pfbid034HrQF842Wy5xDCvKFMUSAVKuEoh9Wu2UsX6Sdqd1VGGjPGstGiRZE3U4vszaVWQFl
+原文連結: https://www.facebook.com/hsulylab/posts/pfbid034FLuvLp1t9sRDCDJGZhUBCgskodmhoZLwXuD1qRdScYKoSxDW54xuRENZF9PYMYrl
 
-![當我們邁入生成式代理（AI Agents）的時代，每一次的對話、每一次的推演，都會產生需要被長期保留的上下文記憶（KV Cache）。這些記憶的體積正以幾何級數膨脹，而 HBM 那極度昂貴且空間有限的特性，注定無法獨自承載這一切。](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/775419815_1346357427662408_1029616909207760345_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hMfH1qpbvXkQ7kNvwHaYs8o&_nc_oc=AdqeLMR-dZVQWU9t_PL1MMLLhiTuAMfbEB1ZHrQpsI6tNC35ZON5cfI41SsJEbP21Hg&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=V6PmldfJg5ZC3woAj7vaOA&_nc_ss=7e120&oh=00_AQLJjTHudh0kfvZGZgrGducfEZhZ5y05n7FJAKY2t9J5gA&oe=6A9C193A)
+![當我們邁入生成式代理（AI Agents）的時代，每一次的對話、每一次的推演，都會產生需要被長期保留的上下文記憶（KV Cache）。這些記憶的體積正以幾何級數膨脹，而 HBM 那極度昂貴且空間有限的特性，注定無法獨自承載這一切。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/775419815_1346357427662408_1029616909207760345_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=H8GyhyI1kG4Q7kNvwG1Mbjo&_nc_oc=AdrnN5B_h6mHii1TMux3K-pTvRbWaYtXpUbqw08IswlpzvO-XzvzcHCdmQveQxQuqdM&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=iJSOdAeCuy8EEaOWazmE0A&_nc_ss=7e120&oh=00_AQLP-Ws3P4UOuTdnpCnlPD72sSkJ9oFHPibAbysTBa8ZUw&oe=6AA3597A)
 當我們邁入生成式代理（AI Agents）的時代，每一次的對話、每一次的推演，都會產生需要被長期保留的上下文記憶（KV Cache）。這些記憶的體積正以幾何級數膨脹，而 HBM 那極度昂貴且空間有限的特性，注定無法獨自承載這一切。
 
 切換到現實的視角，盲從這種「只有核心算力才重要」的共識，會讓大家在現實的認知中付出沉重的代價。

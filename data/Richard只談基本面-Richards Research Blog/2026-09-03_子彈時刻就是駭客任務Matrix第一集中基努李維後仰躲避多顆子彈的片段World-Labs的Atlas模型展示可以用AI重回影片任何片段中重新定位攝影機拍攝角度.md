@@ -4,9 +4,9 @@ title: "子彈時刻，就是駭客任務Matrix第一集中基努李維後仰躲
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid031kriAWNt8c4gTTT9ifpvnWct4udWfPh1iBUKmByPH7R6iob2LjU2vw5Mx5AbwHJxl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0324fES1gM8t2jW1ZWxX9fUxRZkHghvkshufXCbwR9fHHns1Whip91xjaCSkFUMk2jl&id=100054201473657"
 creation_time_utc: "2026-09-03T16:00:32+00:00"
-fetched_at_utc: "2026-09-04T05:45:43.027746+00:00"
+fetched_at_utc: "2026-09-06T14:51:09.070252+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 子彈時刻，就是駭客任務Matrix第一集中基努李維後仰躲避多顆子彈的片段，World Labs的Atlas模型展示可以用AI重回影片任何片段中，重新定位攝影機拍攝角度，彷彿當時你就在現場移動攝影機，我第一想到的是以後看球賽，尤其是多人同場的例如籃球足球賽，可以自己滑動滑鼠，在任何場上定位，重現不同視角和遠近的精彩畫面，照相也是，先隨便拍一下，回家再定角度，給幾張二戰相片，可進入現場? 這個概念好像2023年就有了，但是從未有做得好的模型展示過
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid031kriAWNt8c4gTTT9ifpvnWct4udWfPh1iBUKmByPH7R6iob2LjU2vw5Mx5AbwHJxl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0324fES1gM8t2jW1ZWxX9fUxRZkHghvkshufXCbwR9fHHns1Whip91xjaCSkFUMk2jl&id=100054201473657
 子彈時刻，就是駭客任務Matrix第一集中基努李維後仰躲避多顆子彈的片段，World Labs的Atlas模型展示可以用AI重回影片任何片段中，重新定位攝影機拍攝角度，彷彿當時你就在現場移動攝影機，我第一想到的是以後看球賽，尤其是多人同場的例如籃球足球賽，可以自己滑動滑鼠，在任何場上定位，重現不同視角和遠近的精彩畫面，照相也是，先隨便拍一下，回家再定角度，給幾張二戰相片，可進入現場? 這個概念好像2023年就有了，但是從未有做得好的模型展示過
 
 電影、電腦螢幕都是2D輸出，因為模型不是像3D Game一樣一幀一幀渲染出來連續撥放，系統並不知道畫面中的物理世界物件相關性，該模型建立世界模型，所以可以3D資料輸出

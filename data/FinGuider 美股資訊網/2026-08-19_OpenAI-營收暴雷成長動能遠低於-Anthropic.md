@@ -4,22 +4,22 @@ title: "【#OpenAI 營收暴雷，成長動能遠低於 #Anthropic】"
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid02LD7fwhUtPTtTWiWB9fNdjNNfmmpvwtbqdoziA2Pz17XNEYS8e6r8ecgWfAUgeHtMl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid02LAcBcvEskXn9gpYQP965BGXgaMEXQbsZyb7tAv5heGhZ7RrDKBeytgf9aK1ZFH8wl"
 creation_time_utc: "2026-08-19T01:51:21+00:00"
-fetched_at_utc: "2026-09-01T04:40:16.343391+00:00"
+fetched_at_utc: "2026-09-06T14:45:39.780207+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/773824768_1533827645454044_209414124071924131_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3alIABUZrqMQ7kNvwHV6VRY&_nc_oc=AdprBhba1F6S17_3FtpJ6klAlXL-8LEkce_2cp2kP4KNLBbeiZUBwKbIT3VyI2oOgK8&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=RBxCaXYFq0ZgzlRrHYcOrw&_nc_ss=7e120&oh=00_AQLd4NOBxzqGLYTioogOoUI9y7yvK44xeDvm4709zaArzQ&oe=6A9C336A"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/773824768_1533827645454044_209414124071924131_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ln2tQMSfRQMQ7kNvwE4mjI6&_nc_oc=AdqnOAugcsF3iU90sn2vs3Gcyc_g2RBm9yk6RbZzSs5248cW-shHVrYd6m3-SWAWQxk&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=1mQeNBtHGvH--hZvHHm0JQ&_nc_ss=7e120&oh=00_AQJrudZ6drRWGQFhuL6-j76VUv2fW1nPqrbQnLE8XxLOvQ&oe=6AA33B6A"
 feedback_id: "ZmVlZGJhY2s6MTUzMzgyNzczNTQ1NDAzNQ=="
 page_canonical_url: ""
 ---
 
 # 【#OpenAI 營收暴雷，成長動能遠低於 #Anthropic】
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid02LD7fwhUtPTtTWiWB9fNdjNNfmmpvwtbqdoziA2Pz17XNEYS8e6r8ecgWfAUgeHtMl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid02LAcBcvEskXn9gpYQP965BGXgaMEXQbsZyb7tAv5heGhZ7RrDKBeytgf9aK1ZFH8wl
 
-![【#OpenAI 營收暴雷，成長動能遠低於 #Anthropic】](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/773824768_1533827645454044_209414124071924131_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3alIABUZrqMQ7kNvwHV6VRY&_nc_oc=AdprBhba1F6S17_3FtpJ6klAlXL-8LEkce_2cp2kP4KNLBbeiZUBwKbIT3VyI2oOgK8&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=RBxCaXYFq0ZgzlRrHYcOrw&_nc_ss=7e120&oh=00_AQLd4NOBxzqGLYTioogOoUI9y7yvK44xeDvm4709zaArzQ&oe=6A9C336A)
+![【#OpenAI 營收暴雷，成長動能遠低於 #Anthropic】](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/773824768_1533827645454044_209414124071924131_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ln2tQMSfRQMQ7kNvwE4mjI6&_nc_oc=AdqnOAugcsF3iU90sn2vs3Gcyc_g2RBm9yk6RbZzSs5248cW-shHVrYd6m3-SWAWQxk&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=1mQeNBtHGvH--hZvHHm0JQ&_nc_ss=7e120&oh=00_AQJrudZ6drRWGQFhuL6-j76VUv2fW1nPqrbQnLE8XxLOvQ&oe=6AA33B6A)
 【#OpenAI 營收暴雷，成長動能遠低於 #Anthropic】
 《華爾街日報》報導，OpenAI 第二季營收為 67 億美元、季增 18%，營業虧損從 93 億美元擴大至 123 億美元，增速還超越營收，這樣的表現令部分股東感到失望。
 ​

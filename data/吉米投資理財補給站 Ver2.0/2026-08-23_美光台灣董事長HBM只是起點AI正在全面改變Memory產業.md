@@ -4,22 +4,22 @@ title: "🧠 美光台灣董事長：HBM只是起點，AI正在全面改變Memor
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
 final_url: "https://www.facebook.com/profile.php?id=61565088683715"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0xviPYBMNs5nr3NLftUTBZHn56RatvzpUxKjYJWcSwraCLXoUL4hspY9inwq7RwLnl&id=61565088683715"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid032uochDJvuFPoKh4vvqMtsUGfVBvMh47h8gTSDD9e3As6xvyaTX92aBj6eSaavhtAl&id=61565088683715"
 creation_time_utc: "2026-08-23T15:04:32+00:00"
-fetched_at_utc: "2026-09-01T04:44:49.974389+00:00"
+fetched_at_utc: "2026-09-06T14:56:01.130088+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/784352437_122225729246502956_2987339607232903570_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=evLOdZX4zw8Q7kNvwHn4wuG&_nc_oc=Adr20ZN--mMZTgRqH-nuYCvvKvodrxMMEO8HgXAMKOzlh7Ofyq0RMkn7ty5bJaF_Mx0&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=Rbfs5ezW9Pkm5fSMAZ7dUg&_nc_ss=7e120&oh=00_AQI_yf-Jd7da-RGxYMzpTjWOoJ5gmVZdMU7gdILz0B1Y1g&oe=6A9C324A"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/784352437_122225729246502956_2987339607232903570_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ORQw2sSpIpwQ7kNvwFswvDg&_nc_oc=AdqCyMnhZ21AE774KbdnEaczmMtfuYjoXM9ixBy6G4mYyD3DXf8WmaOBARiq9OAs6e0&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=SuLt14Gn4GljNch_TH4H0A&_nc_ss=7e120&oh=00_AQKQj6-zvdODLU4T2jllpTZSVQ8Fnv1cRG1IT_T1dDNCbA&oe=6AA33A4A"
 feedback_id: "ZmVlZGJhY2s6MTIyMjI1NzI5Mjg4NTAyOTU2"
 page_canonical_url: ""
 ---
 
 # 🧠 美光台灣董事長：HBM只是起點，AI正在全面改變Memory產業
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0xviPYBMNs5nr3NLftUTBZHn56RatvzpUxKjYJWcSwraCLXoUL4hspY9inwq7RwLnl&id=61565088683715
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid032uochDJvuFPoKh4vvqMtsUGfVBvMh47h8gTSDD9e3As6xvyaTX92aBj6eSaavhtAl&id=61565088683715
 
-![🧠 美光台灣董事長：HBM只是起點，AI正在全面改變Memory產業](https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/784352437_122225729246502956_2987339607232903570_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=evLOdZX4zw8Q7kNvwHn4wuG&_nc_oc=Adr20ZN--mMZTgRqH-nuYCvvKvodrxMMEO8HgXAMKOzlh7Ofyq0RMkn7ty5bJaF_Mx0&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=Rbfs5ezW9Pkm5fSMAZ7dUg&_nc_ss=7e120&oh=00_AQI_yf-Jd7da-RGxYMzpTjWOoJ5gmVZdMU7gdILz0B1Y1g&oe=6A9C324A)
+![🧠 美光台灣董事長：HBM只是起點，AI正在全面改變Memory產業](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/784352437_122225729246502956_2987339607232903570_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ORQw2sSpIpwQ7kNvwFswvDg&_nc_oc=AdqCyMnhZ21AE774KbdnEaczmMtfuYjoXM9ixBy6G4mYyD3DXf8WmaOBARiq9OAs6e0&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=SuLt14Gn4GljNch_TH4H0A&_nc_ss=7e120&oh=00_AQKQj6-zvdODLU4T2jllpTZSVQ8Fnv1cRG1IT_T1dDNCbA&oe=6AA33A4A)
 🧠 美光台灣董事長：HBM只是起點，AI正在全面改變Memory產業
 🚀 ① HBM的核心不是容量，而是「記憶體牆」
 ▪ 過去邏輯晶片的運算能力成長速度，比記憶體的資料傳輸速度快，兩者之間的差距越來越大，形成所謂的Memory Wall（記憶體牆）。

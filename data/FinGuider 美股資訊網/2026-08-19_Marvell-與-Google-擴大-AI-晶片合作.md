@@ -4,22 +4,22 @@ title: "【Marvell 與 Google 擴大 AI 晶片合作】"
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid0JokmDw6xBbajq7DZcEW624BDDr9DrTeBTUemARJCpBuivoUCj5Dhupkuntchkr3Jl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid02NJtTpKVJPtQVSC1bzvZm5Kk5HJeFhEvzmw5W8LuzCyZWSzyMQUAb64KPn9twG99ol"
 creation_time_utc: "2026-08-19T15:16:34+00:00"
-fetched_at_utc: "2026-09-01T04:40:16.343391+00:00"
+fetched_at_utc: "2026-09-06T14:45:39.780207+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/778916097_1534360848734057_4213124217916641936_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=MxIVga7UHVgQ7kNvwHyX8Rf&_nc_oc=Adprjwj325qD896TJZzyjr2-hAIlsmbGi8zUaFvqvL6TP-N2ptblujpAgpVM-pOsNvw&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=LZLZlkSiSjevLoeEkjdDTA&_nc_ss=7e120&oh=00_AQIioRlwoNqlDR4EY9oGhKpfsUhXM0gGNrBUy4mBpHI9VA&oe=6A9C3E2F"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/778916097_1534360848734057_4213124217916641936_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2Op4O25RNoIQ7kNvwEvVDjU&_nc_oc=AdorVBbngqPWjVezRZjxPSJ6vwaHZDpeGV6vkeRzKWqmTo1U4HaBYTq2DarxvzO08-U&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=1mQeNBtHGvH--hZvHHm0JQ&_nc_ss=7e120&oh=00_AQIrs0xPHhjz_xxuKZx-RbneW7Oio2KCvj5AEiDVI_sg7w&oe=6AA3462F"
 feedback_id: "ZmVlZGJhY2s6MTUzNDM2MTg0ODczMzk1Nw=="
 page_canonical_url: ""
 ---
 
 # 【Marvell 與 Google 擴大 AI 晶片合作】
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid0JokmDw6xBbajq7DZcEW624BDDr9DrTeBTUemARJCpBuivoUCj5Dhupkuntchkr3Jl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid02NJtTpKVJPtQVSC1bzvZm5Kk5HJeFhEvzmw5W8LuzCyZWSzyMQUAb64KPn9twG99ol
 
-![【Marvell 與 Google 擴大 AI 晶片合作】](https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/778916097_1534360848734057_4213124217916641936_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=MxIVga7UHVgQ7kNvwHyX8Rf&_nc_oc=Adprjwj325qD896TJZzyjr2-hAIlsmbGi8zUaFvqvL6TP-N2ptblujpAgpVM-pOsNvw&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=LZLZlkSiSjevLoeEkjdDTA&_nc_ss=7e120&oh=00_AQIioRlwoNqlDR4EY9oGhKpfsUhXM0gGNrBUy4mBpHI9VA&oe=6A9C3E2F)
+![【Marvell 與 Google 擴大 AI 晶片合作】](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/778916097_1534360848734057_4213124217916641936_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2Op4O25RNoIQ7kNvwEvVDjU&_nc_oc=AdorVBbngqPWjVezRZjxPSJ6vwaHZDpeGV6vkeRzKWqmTo1U4HaBYTq2DarxvzO08-U&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=1mQeNBtHGvH--hZvHHm0JQ&_nc_ss=7e120&oh=00_AQIrs0xPHhjz_xxuKZx-RbneW7Oio2KCvj5AEiDVI_sg7w&oe=6AA3462F)
 【Marvell 與 Google 擴大 AI 晶片合作】
 AI 晶片競賽持續升溫，#Marvell（#MRVL）宣布與 #Google（#GOOGL）擴大合作，不只共同開發客製化 AI 晶片，更提供 Google 一項價值最高約 122 億美元的股票認購權，如果未來達成合作目標並全數行使，Google 將成為 Marvell 第五大股東。
 ​

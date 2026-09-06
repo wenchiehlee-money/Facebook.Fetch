@@ -4,22 +4,22 @@ title: "🚀COHERENT（$COHR）Q4’26 財報重點"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
 final_url: "https://www.facebook.com/profile.php?id=61565088683715"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0ZyzJdSGSqwqJ4yS5GQ9uDgJ2t2RUL9rMei7Z23z4WpydK7CpqAzzETxYbJQcBFR3l&id=61565088683715"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0ZwUpJf2SD2H8dT7NhyBo7SCLdbWat2ivJTXD5eaeQM2uqkraWKnRbCgB7zBwMqX2l&id=61565088683715"
 creation_time_utc: "2026-08-13T09:20:08+00:00"
-fetched_at_utc: "2026-09-01T04:44:49.974389+00:00"
+fetched_at_utc: "2026-09-06T14:56:01.130088+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/774117894_122224528598502956_6572670829982895050_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mqggoctbPekQ7kNvwGpCJp_&_nc_oc=Adqs3vKSsNwpBoeyKm-VhyNOVNLrScmIutEPSbsU_FZrkm_5tjwkeWiXLTsAuOjoews&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=_mFKmZyxXj-8zgo5l-Vo2w&_nc_ss=7e120&oh=00_AQJlabwRQklkdfMk38j9KfNrdgtyv4hBHTtjodlVVptNhw&oe=6A9C194A"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/774117894_122224528598502956_6572670829982895050_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=F5UhDHfFUDQQ7kNvwHqPk5t&_nc_oc=Adrp8WEawd0JVYJEkQaEBPk9b9YHk5dVjr7SkLys3A01xW6ESiNwN1qG8WrRdX10Kq8&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=bkpu-K2_x4UlAYp4zKLrvA&_nc_ss=7e120&oh=00_AQIMscZIkQ7e0bKEgY__pmDkt7zUa0ODhUbzanQeZrkhrA&oe=6AA3598A"
 feedback_id: "ZmVlZGJhY2s6MTIyMjI0NTI5MzAwNTAyOTU2"
 page_canonical_url: ""
 ---
 
 # 🚀COHERENT（$COHR）Q4’26 財報重點
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0ZyzJdSGSqwqJ4yS5GQ9uDgJ2t2RUL9rMei7Z23z4WpydK7CpqAzzETxYbJQcBFR3l&id=61565088683715
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0ZwUpJf2SD2H8dT7NhyBo7SCLdbWat2ivJTXD5eaeQM2uqkraWKnRbCgB7zBwMqX2l&id=61565088683715
 
-![🚀COHERENT（$COHR）Q4’26 財報重點](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/774117894_122224528598502956_6572670829982895050_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mqggoctbPekQ7kNvwGpCJp_&_nc_oc=Adqs3vKSsNwpBoeyKm-VhyNOVNLrScmIutEPSbsU_FZrkm_5tjwkeWiXLTsAuOjoews&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=_mFKmZyxXj-8zgo5l-Vo2w&_nc_ss=7e120&oh=00_AQJlabwRQklkdfMk38j9KfNrdgtyv4hBHTtjodlVVptNhw&oe=6A9C194A)
+![🚀COHERENT（$COHR）Q4’26 財報重點](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/774117894_122224528598502956_6572670829982895050_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=F5UhDHfFUDQQ7kNvwHqPk5t&_nc_oc=Adrp8WEawd0JVYJEkQaEBPk9b9YHk5dVjr7SkLys3A01xW6ESiNwN1qG8WrRdX10Kq8&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=bkpu-K2_x4UlAYp4zKLrvA&_nc_ss=7e120&oh=00_AQIMscZIkQ7e0bKEgY__pmDkt7zUa0ODhUbzanQeZrkhrA&oe=6AA3598A)
 🚀COHERENT（$COHR）Q4’26 財報重點
 🔹 營收：21億美元（預估19.9億美元）🟢；年增34%
 🔹 調整後 EPS：1.74美元（預估1.61美元）🟢

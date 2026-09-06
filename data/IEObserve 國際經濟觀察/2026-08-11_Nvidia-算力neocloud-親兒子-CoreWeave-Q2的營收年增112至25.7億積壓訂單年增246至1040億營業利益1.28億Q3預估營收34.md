@@ -4,22 +4,22 @@ title: "Nvidia 算力neocloud 親兒子 CoreWeave Q2的營收年增112%至25.7�
 page_title: ""
 requested_url: "https://www.facebook.com/intleconobserve"
 final_url: "https://www.facebook.com/intleconobserve"
-post_url: "https://www.facebook.com/intleconobserve/posts/pfbid037J9mCacLCK933VoPwkbutXn8rFiLk4o7zFtfEVYFc6uHRqNwvwhTHdoB6cV1h7qal"
+post_url: "https://www.facebook.com/intleconobserve/posts/pfbid023QCZh8SViAJ4QRRA7srLgu4sVX9hAuSfUtUZGE6DerM96943HtNxNktyAjB2i1dwl"
 creation_time_utc: "2026-08-11T23:22:11+00:00"
-fetched_at_utc: "2026-09-01T04:43:32.511067+00:00"
+fetched_at_utc: "2026-09-06T14:53:31.365081+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/773572656_1578365853648037_6582736969154918234_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8EIKhmtd9CoQ7kNvwHCAOCV&_nc_oc=AdrDIuSRkCCFkVbeNAJznKZm3FM3qX7DFRsEJNViFFby0-QmWjE3s1-5iWtoESlBuTc&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=Ew1sMWc_tGxvLDyBporfYQ&_nc_ss=7e120&oh=00_AQJf92eExXnK7FhM2dB5B5nvz6qcSYZNoHDR10HBLy-h2g&oe=6A9C2B66"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/773572656_1578365853648037_6582736969154918234_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TlBIFXojV0sQ7kNvwG333oP&_nc_oc=AdphvgrFB-UuycisbWLuAUsD2j6ULII2IHwWKPoK2Q2RSvjDQapqwXKhSSVTbJguAt8&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=ugswh1niqtxLdtqKyLWV9Q&_nc_ss=7e120&oh=00_AQKBW8Xdcj5Bmqq3QdkwoHV4TA7wFX7qr17NmKXG8ED9NQ&oe=6AA36BA6"
 feedback_id: "ZmVlZGJhY2s6MTU3ODM3NDE1MzY0NzIwNw=="
 page_canonical_url: ""
 ---
 
 # Nvidia 算力neocloud 親兒子 CoreWeave Q2的營收年增112%至25.7億，積壓訂單年增246%至1040億，營業利益1.28億。Q3預估營收34.5-36億，營業利益2-2.6億，管理層預期利潤率將於第三、四季持續季增，第四季達到低雙位數水準。
 
-原文連結: https://www.facebook.com/intleconobserve/posts/pfbid037J9mCacLCK933VoPwkbutXn8rFiLk4o7zFtfEVYFc6uHRqNwvwhTHdoB6cV1h7qal
+原文連結: https://www.facebook.com/intleconobserve/posts/pfbid023QCZh8SViAJ4QRRA7srLgu4sVX9hAuSfUtUZGE6DerM96943HtNxNktyAjB2i1dwl
 
-![Nvidia 算力neocloud 親兒子 CoreWeave Q2的營收年增112%至25.7億，積壓訂單年增246%至1040億，營業利益1.28億。Q3預估營收34.5-36億，營業利益2-2.6億，管理層預期利潤率將於第三、四季持續季增，第四季達到低雙位數水準。](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/773572656_1578365853648037_6582736969154918234_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8EIKhmtd9CoQ7kNvwHCAOCV&_nc_oc=AdrDIuSRkCCFkVbeNAJznKZm3FM3qX7DFRsEJNViFFby0-QmWjE3s1-5iWtoESlBuTc&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=Ew1sMWc_tGxvLDyBporfYQ&_nc_ss=7e120&oh=00_AQJf92eExXnK7FhM2dB5B5nvz6qcSYZNoHDR10HBLy-h2g&oe=6A9C2B66)
+![Nvidia 算力neocloud 親兒子 CoreWeave Q2的營收年增112%至25.7億，積壓訂單年增246%至1040億，營業利益1.28億。Q3預估營收34.5-36億，營業利益2-2.6億，管理層預期利潤率將於第三、四季持續季增，第四季達到低雙位數水準。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/773572656_1578365853648037_6582736969154918234_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TlBIFXojV0sQ7kNvwG333oP&_nc_oc=AdphvgrFB-UuycisbWLuAUsD2j6ULII2IHwWKPoK2Q2RSvjDQapqwXKhSSVTbJguAt8&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=ugswh1niqtxLdtqKyLWV9Q&_nc_ss=7e120&oh=00_AQKBW8Xdcj5Bmqq3QdkwoHV4TA7wFX7qr17NmKXG8ED9NQ&oe=6AA36BA6)
 Nvidia 算力neocloud 親兒子 CoreWeave Q2的營收年增112%至25.7億，積壓訂單年增246%至1040億，營業利益1.28億。Q3預估營收34.5-36億，營業利益2-2.6億，管理層預期利潤率將於第三、四季持續季增，第四季達到低雙位數水準。
 
 公司將全年營收指引上修至124億至132億美元，調整後營業利益指引上修至9.6億至11.5億美元，全年資本支出區間上修至350億至390億美元，年底年化營收（annualized run rate revenue）指引則上修至185億至195億美元

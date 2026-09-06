@@ -4,22 +4,22 @@ title: "MARVELL TECHNOLOGY（邁威爾科技）$MRVL"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
 final_url: "https://www.facebook.com/profile.php?id=61565088683715"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0wruDSEXqa2h55df9YdQ7SoEwn5feLb1Qs5GAtr5X3M5mXx236RHTNT4dVKPeZGsRl&id=61565088683715"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid031N2v2cvBnErmotyXaXV6JZ9vYvpfJyWPMft3rQh5BqgD2WMmm4JvSQB43b6A7aaPl&id=61565088683715"
 creation_time_utc: "2026-08-28T12:49:05+00:00"
-fetched_at_utc: "2026-09-01T04:44:49.974389+00:00"
+fetched_at_utc: "2026-09-06T14:56:01.130088+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/788241582_122226339974502956_8583280790705191685_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jrRNFvy0u-8Q7kNvwGghPyb&_nc_oc=AdpqAzGlXq2hO5yki9RFhnLzvDK6xQmDei8xI4i8BPGCDaQywL7bbtwzjpU1Lkm0b3Q&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=kcYVKUD1S3A_Nqbt0FfoPA&_nc_ss=7e120&oh=00_AQLgrxUKPnXBAqgoyRnhhCW0hbKfpUKbtecjAwWvuvNv6Q&oe=6A9C18F2"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/788241582_122226339974502956_8583280790705191685_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eYrOZCIU7JYQ7kNvwFj-5yf&_nc_oc=AdrVkRCmqkdQg8zwcKPkFA6b4xlpU3FoAk5jt93nnHmtj8T6A8RBBXDn5bfh26HfyUg&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=8WBCHLDVxSLL6nm8HbpCMA&_nc_ss=7e120&oh=00_AQJtpnOIbxu4Bm4nqBrj4K-jE8JV_amcmQiQy8FSkEYhfg&oe=6AA35932"
 feedback_id: "ZmVlZGJhY2s6MTIyMjI2MzQwMDcwNTAyOTU2"
 page_canonical_url: ""
 ---
 
 # MARVELL TECHNOLOGY（邁威爾科技）$MRVL
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0wruDSEXqa2h55df9YdQ7SoEwn5feLb1Qs5GAtr5X3M5mXx236RHTNT4dVKPeZGsRl&id=61565088683715
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid031N2v2cvBnErmotyXaXV6JZ9vYvpfJyWPMft3rQh5BqgD2WMmm4JvSQB43b6A7aaPl&id=61565088683715
 
-![MARVELL TECHNOLOGY（邁威爾科技）$MRVL](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/788241582_122226339974502956_8583280790705191685_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jrRNFvy0u-8Q7kNvwGghPyb&_nc_oc=AdpqAzGlXq2hO5yki9RFhnLzvDK6xQmDei8xI4i8BPGCDaQywL7bbtwzjpU1Lkm0b3Q&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=kcYVKUD1S3A_Nqbt0FfoPA&_nc_ss=7e120&oh=00_AQLgrxUKPnXBAqgoyRnhhCW0hbKfpUKbtecjAwWvuvNv6Q&oe=6A9C18F2)
+![MARVELL TECHNOLOGY（邁威爾科技）$MRVL](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/788241582_122226339974502956_8583280790705191685_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eYrOZCIU7JYQ7kNvwFj-5yf&_nc_oc=AdrVkRCmqkdQg8zwcKPkFA6b4xlpU3FoAk5jt93nnHmtj8T6A8RBBXDn5bfh26HfyUg&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=8WBCHLDVxSLL6nm8HbpCMA&_nc_ss=7e120&oh=00_AQJtpnOIbxu4Bm4nqBrj4K-jE8JV_amcmQiQy8FSkEYhfg&oe=6AA35932)
 MARVELL TECHNOLOGY（邁威爾科技）$MRVL
 📊 Q2 FY2027 財報
 🔹 營收：27億美元（市場預期27.1億美元）🟢 ▪ 年增 37%

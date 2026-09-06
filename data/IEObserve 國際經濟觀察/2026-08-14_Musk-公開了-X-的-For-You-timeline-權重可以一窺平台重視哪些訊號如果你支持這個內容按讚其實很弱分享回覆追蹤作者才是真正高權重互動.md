@@ -4,22 +4,22 @@ title: "Musk 公開了 X 的 For You timeline 權重，可以一窺平台重視�
 page_title: ""
 requested_url: "https://www.facebook.com/intleconobserve"
 final_url: "https://www.facebook.com/intleconobserve"
-post_url: "https://www.facebook.com/intleconobserve/posts/pfbid02CMvnQykEwkBKxTRDpfZKBKTsE1tcH1qJ9mkpsy4CsVoVhwbHD2pbgrqzNGvkp26wl"
+post_url: "https://www.facebook.com/intleconobserve/posts/pfbid08TyauXaQTGcBfN4iqiGByGhrdWANhTDaryJL9ERnVqmmVr9nF89g4LxfnVor9wpfl"
 creation_time_utc: "2026-08-14T07:56:16+00:00"
-fetched_at_utc: "2026-09-01T04:43:32.511067+00:00"
+fetched_at_utc: "2026-09-06T14:53:31.365081+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/774720141_1580328563451766_6104437669537240644_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1nZec2Dxf1oQ7kNvwFNaJGX&_nc_oc=AdppOBzgIAWWNDgfz3yiAyUXg6pZQKdsjT0uG7NNOQPW0ZYBDYWG3wnG2J-azMSHd3w&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=jMGwYX3QoIyb8nHqOUUdMw&_nc_ss=7e120&oh=00_AQJ69Y3MSU7D0lljQaEL41p7zpH9XTCw90XTnkIc0qnl8A&oe=6A9C262B"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/774720141_1580328563451766_6104437669537240644_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=RapHOMTiTl4Q7kNvwH1M_Qj&_nc_oc=AdpS0hIXXOTEtL4g-VQFhL_whHIVggNaDJZaUYzBn8yQYkA8JPZyFK5eYHELeKTXKXY&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=zkekIlx-O_gIZWf8ywKrGQ&_nc_ss=7e120&oh=00_AQJ__pxa5F7TG_tBwrsA5R889VqppuS-DVIQh4otVv0Eqw&oe=6AA3666B"
 feedback_id: "ZmVlZGJhY2s6MTU4MDMzMDQxMDExODI0OA=="
 page_canonical_url: ""
 ---
 
 # Musk 公開了 X 的 For You timeline 權重，可以一窺平台重視哪些訊號，如果你支持這個內容，按讚其實很弱，分享、回覆、追蹤作者才是真正高權重互動。
 
-原文連結: https://www.facebook.com/intleconobserve/posts/pfbid02CMvnQykEwkBKxTRDpfZKBKTsE1tcH1qJ9mkpsy4CsVoVhwbHD2pbgrqzNGvkp26wl
+原文連結: https://www.facebook.com/intleconobserve/posts/pfbid08TyauXaQTGcBfN4iqiGByGhrdWANhTDaryJL9ERnVqmmVr9nF89g4LxfnVor9wpfl
 
-![Musk 公開了 X 的 For You timeline 權重，可以一窺平台重視哪些訊號，如果你支持這個內容，按讚其實很弱，分享、回覆、追蹤作者才是真正高權重互動。](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/774720141_1580328563451766_6104437669537240644_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1nZec2Dxf1oQ7kNvwFNaJGX&_nc_oc=AdppOBzgIAWWNDgfz3yiAyUXg6pZQKdsjT0uG7NNOQPW0ZYBDYWG3wnG2J-azMSHd3w&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=jMGwYX3QoIyb8nHqOUUdMw&_nc_ss=7e120&oh=00_AQJ69Y3MSU7D0lljQaEL41p7zpH9XTCw90XTnkIc0qnl8A&oe=6A9C262B)
+![Musk 公開了 X 的 For You timeline 權重，可以一窺平台重視哪些訊號，如果你支持這個內容，按讚其實很弱，分享、回覆、追蹤作者才是真正高權重互動。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/774720141_1580328563451766_6104437669537240644_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=RapHOMTiTl4Q7kNvwH1M_Qj&_nc_oc=AdpS0hIXXOTEtL4g-VQFhL_whHIVggNaDJZaUYzBn8yQYkA8JPZyFK5eYHELeKTXKXY&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=zkekIlx-O_gIZWf8ywKrGQ&_nc_ss=7e120&oh=00_AQJ__pxa5F7TG_tBwrsA5R889VqppuS-DVIQh4otVv0Eqw&oe=6AA3666B)
 Musk 公開了 X 的 For You timeline 權重，可以一窺平台重視哪些訊號，如果你支持這個內容，按讚其實很弱，分享、回覆、追蹤作者才是真正高權重互動。
 
 正向權重最高的是「複製連結分享」+20，其次是雙向互追回覆加成 +15；回覆、私訊分享、引用都是 +5，追蹤作者 +4。相比之下，按讚只有 +0.5，單純停留時間的權重也很低。

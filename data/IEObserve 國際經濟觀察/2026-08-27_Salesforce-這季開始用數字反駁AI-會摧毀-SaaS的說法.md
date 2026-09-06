@@ -4,22 +4,22 @@ title: "Salesforce 這季開始用數字反駁「AI 會摧毀 SaaS」的說法�
 page_title: ""
 requested_url: "https://www.facebook.com/intleconobserve"
 final_url: "https://www.facebook.com/intleconobserve"
-post_url: "https://www.facebook.com/intleconobserve/posts/pfbid02q5XR715U9itm2zF1oqW4c7XT3x7zZjP6wxeq7TSx1KmsQN2qToP6hdMrvHexmm4Ll"
+post_url: "https://www.facebook.com/intleconobserve/posts/pfbid02qWyTLsQfLUr4AdFtH91xns6TtrXfSUXdGeSsU8ggreWJtQht1UWuGmr5f8MNKgWNl"
 creation_time_utc: "2026-08-27T13:01:20+00:00"
-fetched_at_utc: "2026-09-01T04:43:32.511067+00:00"
+fetched_at_utc: "2026-09-06T14:53:31.365081+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/787406126_1591544122330210_6628606494197935058_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=u2IjnH-oftcQ7kNvwFMEiCi&_nc_oc=AdqtTgikLdJ6MPnPYZtJbEUOyzzSkn_JPxhJf_6dj2doUKnX-GfJAJLF443YW8c-2Ek&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=aXS1Y6BGya7SKjtdQEX1nw&_nc_ss=7e120&oh=00_AQJ9fDTMgLZq3b06CpqauObnYPei0nV51z7t0bLxD-vMNQ&oe=6A9C36EE"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/787406126_1591544122330210_6628606494197935058_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xYFgnWWKZZQQ7kNvwH4IBr0&_nc_oc=AdpSu5_BrTQ6Vq4Z3bahB0qXD-vfshklBjOIE4An0V2nz-X7pjeV-zVxU7gzeoWPk2k&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=HKrNsV1kpH4vqdWdS0-pZg&_nc_ss=7e120&oh=00_AQIwr21aVcqzafE4RO3Z6zsOcD9P4d6-BRF3kZrGyMTDpQ&oe=6AA33EEE"
 feedback_id: "ZmVlZGJhY2s6MTU5MTU0NTk3MjMzMDAyNQ=="
 page_canonical_url: ""
 ---
 
 # Salesforce 這季開始用數字反駁「AI 會摧毀 SaaS」的說法。
 
-原文連結: https://www.facebook.com/intleconobserve/posts/pfbid02q5XR715U9itm2zF1oqW4c7XT3x7zZjP6wxeq7TSx1KmsQN2qToP6hdMrvHexmm4Ll
+原文連結: https://www.facebook.com/intleconobserve/posts/pfbid02qWyTLsQfLUr4AdFtH91xns6TtrXfSUXdGeSsU8ggreWJtQht1UWuGmr5f8MNKgWNl
 
-![Salesforce 這季開始用數字反駁「AI 會摧毀 SaaS」的說法。](https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/787406126_1591544122330210_6628606494197935058_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=u2IjnH-oftcQ7kNvwFMEiCi&_nc_oc=AdqtTgikLdJ6MPnPYZtJbEUOyzzSkn_JPxhJf_6dj2doUKnX-GfJAJLF443YW8c-2Ek&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=aXS1Y6BGya7SKjtdQEX1nw&_nc_ss=7e120&oh=00_AQJ9fDTMgLZq3b06CpqauObnYPei0nV51z7t0bLxD-vMNQ&oe=6A9C36EE)
+![Salesforce 這季開始用數字反駁「AI 會摧毀 SaaS」的說法。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/787406126_1591544122330210_6628606494197935058_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xYFgnWWKZZQQ7kNvwH4IBr0&_nc_oc=AdpSu5_BrTQ6Vq4Z3bahB0qXD-vfshklBjOIE4An0V2nz-X7pjeV-zVxU7gzeoWPk2k&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=HKrNsV1kpH4vqdWdS0-pZg&_nc_ss=7e120&oh=00_AQIwr21aVcqzafE4RO3Z6zsOcD9P4d6-BRF3kZrGyMTDpQ&oe=6AA33EEE)
 Salesforce 這季開始用數字反駁「AI 會摧毀 SaaS」的說法。
 
 Q2 營收 113.5 億美元、年增 11%，cRPO 年增加速至 14%，Net New AOV 成長更創四年最快，客戶流失率接近歷史低點。公司同步上調全年營收展望，財報公布後盤後股價一度上漲約 14%。

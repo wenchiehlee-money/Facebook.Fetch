@@ -4,22 +4,22 @@ title: "🚀 Kioxia真正的轉折：NAND週期正在變成AI結構性需求"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
 final_url: "https://www.facebook.com/profile.php?id=61565088683715"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0AHMvhh4KJ42937q2ck4KdmUeXQidVGrh5aEBFhwbaeqiGyA1rWvpwf939urPzuLil&id=61565088683715"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02EGT9rj1sL67ZqTQFnd4dtAW99L7Hi5TevhKUfasxhgVsTbrV1nG6oNoGVQ9UBkAol&id=61565088683715"
 creation_time_utc: "2026-08-28T13:48:34+00:00"
-fetched_at_utc: "2026-09-01T04:44:49.974389+00:00"
+fetched_at_utc: "2026-09-06T14:56:01.130088+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/789216595_122226346646502956_3467243814723503197_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cBac-fhIjPgQ7kNvwFGBhv0&_nc_oc=AdpBMfQE-pye7qEyMpxW63tRTdBDHFGpLFlezyFeicNhh5H8rlfoIblTlrivBbNoso4&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=-gg2iTb2VhwlfQBwX6GeuQ&_nc_ss=7e120&oh=00_AQKbMpf9OGDmYUrBAhHVR0iKs5fmesQOBNcoIF_idcQACg&oe=6A9C2854"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/789216595_122226346646502956_3467243814723503197_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Y6wWVu39ouIQ7kNvwEBKDV1&_nc_oc=AdptoEpHkqykxAnJhPaV4dD_unGzFD4gogR4RcxCy5AFDFj6mZxGyHw11q63uZEnV9I&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=cD1ymFDA2LitwGIp-_3trA&_nc_ss=7e120&oh=00_AQLl9SqPQNVgxgt63plXIiusfy_kfEF1VZZOU1j4rQaCRg&oe=6AA36894"
 feedback_id: "ZmVlZGJhY2s6MTIyMjI2MzQ2NzQyNTAyOTU2"
 page_canonical_url: ""
 ---
 
 # 🚀 Kioxia真正的轉折：NAND週期正在變成AI結構性需求
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0AHMvhh4KJ42937q2ck4KdmUeXQidVGrh5aEBFhwbaeqiGyA1rWvpwf939urPzuLil&id=61565088683715
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02EGT9rj1sL67ZqTQFnd4dtAW99L7Hi5TevhKUfasxhgVsTbrV1nG6oNoGVQ9UBkAol&id=61565088683715
 
-![🚀 Kioxia真正的轉折：NAND週期正在變成AI結構性需求](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/789216595_122226346646502956_3467243814723503197_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cBac-fhIjPgQ7kNvwFGBhv0&_nc_oc=AdpBMfQE-pye7qEyMpxW63tRTdBDHFGpLFlezyFeicNhh5H8rlfoIblTlrivBbNoso4&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=-gg2iTb2VhwlfQBwX6GeuQ&_nc_ss=7e120&oh=00_AQKbMpf9OGDmYUrBAhHVR0iKs5fmesQOBNcoIF_idcQACg&oe=6A9C2854)
+![🚀 Kioxia真正的轉折：NAND週期正在變成AI結構性需求](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/789216595_122226346646502956_3467243814723503197_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Y6wWVu39ouIQ7kNvwEBKDV1&_nc_oc=AdptoEpHkqykxAnJhPaV4dD_unGzFD4gogR4RcxCy5AFDFj6mZxGyHw11q63uZEnV9I&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=cD1ymFDA2LitwGIp-_3trA&_nc_ss=7e120&oh=00_AQLl9SqPQNVgxgt63plXIiusfy_kfEF1VZZOU1j4rQaCRg&oe=6AA36894)
 🚀 Kioxia真正的轉折：NAND週期正在變成AI結構性需求
 🧠 AI正在重新定義NAND產業
 ▪ 這次最值得注意的，不只是NAND價格上漲，而是AI正在把NAND需求結構徹底改變。企業級SSD（eSSD）需求快速增加，加上HDD供應緊張，AI資料中心對高容量儲存的需求持續提升，讓NAND供需從過剩逐步走向緊張。

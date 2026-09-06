@@ -4,22 +4,22 @@ title: "#Marvell（#MRVL）Q2 業績優於市場共識，不過盤後下挫約 -
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid02HhsCp9gdf5CLkdTekVf3cAPH9rXgwJrmRrioM1uEoBi5eE5vh2H9LCVk3Mwp6rqcl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0Dov1JhWoAfvj6aHxt2ZxMWQzbKuXhgwFwBY14waYGafsbTQPLgyEsoef8dvjKw7al"
 creation_time_utc: "2026-08-27T23:02:44+00:00"
-fetched_at_utc: "2026-09-01T04:40:16.343391+00:00"
+fetched_at_utc: "2026-09-06T14:45:39.780207+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/788690038_1542097984627010_6747594819183116870_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=u7roRkoGnOAQ7kNvwEVSEOr&_nc_oc=AdrDeocb0vDM_rwfeJ5x0_5Bk9MHbKElkTjyS0T6YBC6puPgt8wnZFmx9cuZB9pL3AI&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=0s6WpVFXBacD-SoQBbAkXg&_nc_ss=7e120&oh=00_AQLMV9sRdmz42I_5-Q4w-wlt4eEu3rB7eBtqMI4gKZ_1hg&oe=6A9C2320"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/788690038_1542097984627010_6747594819183116870_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qmJnRZS9GhAQ7kNvwGDFXI7&_nc_oc=Ado34_trh2vp93XbN-Kypmo5W5hoqrHlUDNthv2sUy-L5ss-XW5H302hlpqun5J21o0&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=_48hBv0MLwYnQDfMRkrFUQ&_nc_ss=7e120&oh=00_AQLOG0GT0tiwjHQP76vjk27C7edMTcY6YjhTquTscPSLLw&oe=6AA36360"
 feedback_id: "ZmVlZGJhY2s6MTU0MjA5ODY0Nzk2MDI3Nw=="
 page_canonical_url: ""
 ---
 
 # #Marvell（#MRVL）Q2 業績優於市場共識，不過盤後下挫約 -7%：
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid02HhsCp9gdf5CLkdTekVf3cAPH9rXgwJrmRrioM1uEoBi5eE5vh2H9LCVk3Mwp6rqcl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0Dov1JhWoAfvj6aHxt2ZxMWQzbKuXhgwFwBY14waYGafsbTQPLgyEsoef8dvjKw7al
 
-![#Marvell（#MRVL）Q2 業績優於市場共識，不過盤後下挫約 -7%：](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/788690038_1542097984627010_6747594819183116870_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=u7roRkoGnOAQ7kNvwEVSEOr&_nc_oc=AdrDeocb0vDM_rwfeJ5x0_5Bk9MHbKElkTjyS0T6YBC6puPgt8wnZFmx9cuZB9pL3AI&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=0s6WpVFXBacD-SoQBbAkXg&_nc_ss=7e120&oh=00_AQLMV9sRdmz42I_5-Q4w-wlt4eEu3rB7eBtqMI4gKZ_1hg&oe=6A9C2320)
+![#Marvell（#MRVL）Q2 業績優於市場共識，不過盤後下挫約 -7%：](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/788690038_1542097984627010_6747594819183116870_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qmJnRZS9GhAQ7kNvwGDFXI7&_nc_oc=Ado34_trh2vp93XbN-Kypmo5W5hoqrHlUDNthv2sUy-L5ss-XW5H302hlpqun5J21o0&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=_48hBv0MLwYnQDfMRkrFUQ&_nc_ss=7e120&oh=00_AQLOG0GT0tiwjHQP76vjk27C7edMTcY6YjhTquTscPSLLw&oe=6AA36360)
 #Marvell（#MRVL）Q2 業績優於市場共識，不過盤後下挫約 -7%：
 🟢營收：27.39 億美元、年增 37%（v.s. 27.2 億）
 🟢EPS：0.94 美元（v.s. 0.93 美元）
@@ -71,3 +71,5 @@ Marvell 看好資料中心業務將在 Q3 進一步加速，預計將季增 20%�
 🔍Marvell 將 FY2027 營收調升至 120 億美元、年增 46%，優於上一季預測（115）及市場共識（115.6 億），並看好 FY2028 營收將上看 180 億美元、年增 50%，再次擊敗上一季財測（165 億）及華爾街預期（168.8 億）。
 ​
 Marvell 預期 FY2027 資料中心營收將年增 60%，超過先前預測的 50%，FY2028 更將進一步加速到 60%，超越先前預測的 55%。
+
+更多完整文章 https://link.finguider.cc/MRVL/fp

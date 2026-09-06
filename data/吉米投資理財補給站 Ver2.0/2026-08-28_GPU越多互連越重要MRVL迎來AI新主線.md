@@ -4,22 +4,22 @@ title: "🚀 GPU越多，互連越重要：MRVL迎來AI新主線"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
 final_url: "https://www.facebook.com/profile.php?id=61565088683715"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid028E6wD9zG5mHphntKPZdZuxJ8KZPKYZGyVfgfjYVwbQAK1Na79bhbrLjmx2qH1TSKl&id=61565088683715"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid04p7GGMPdRBNRxKhCGyw1V8zGo1CwTN8Ur95z3QYdRXvL7q4BMdLPfH6sz4w7E6Hql&id=61565088683715"
 creation_time_utc: "2026-08-28T13:25:08+00:00"
-fetched_at_utc: "2026-09-01T04:44:49.974389+00:00"
+fetched_at_utc: "2026-09-06T14:56:01.130088+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/786244329_122226343910502956_8766139281987359811_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=usE0KSXLyEsQ7kNvwEKcFZl&_nc_oc=AdowSt-Ci3-5iICHcGCIBiyt-FiJxe7zimEcGQo5Gd3DogVkeQsmjbw0qME0FVNXBYU&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=-gg2iTb2VhwlfQBwX6GeuQ&_nc_ss=7e120&oh=00_AQKXppKUn5MC0X6PrS6VgE-90a6U_1DmeV3rCFpNEH9V0A&oe=6A9C2924"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/786244329_122226343910502956_8766139281987359811_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tShoBSfbqLUQ7kNvwFHK17t&_nc_oc=AdpX8okXzgcNkHYa-Lit7CMujFhkcKj-IfD_C7LtZgu3aTprg7CPWwk_viJ6xQKWqUg&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=cD1ymFDA2LitwGIp-_3trA&_nc_ss=7e120&oh=00_AQIAOW2kWM-PmK4wsbW1MuCVZtN5bk8suA7OFLMN5vNWAA&oe=6AA36964"
 feedback_id: "ZmVlZGJhY2s6MTIyMjI2MzQ0MTMyNTAyOTU2"
 page_canonical_url: ""
 ---
 
 # 🚀 GPU越多，互連越重要：MRVL迎來AI新主線
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid028E6wD9zG5mHphntKPZdZuxJ8KZPKYZGyVfgfjYVwbQAK1Na79bhbrLjmx2qH1TSKl&id=61565088683715
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid04p7GGMPdRBNRxKhCGyw1V8zGo1CwTN8Ur95z3QYdRXvL7q4BMdLPfH6sz4w7E6Hql&id=61565088683715
 
-![🚀 GPU越多，互連越重要：MRVL迎來AI新主線](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/786244329_122226343910502956_8766139281987359811_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=usE0KSXLyEsQ7kNvwEKcFZl&_nc_oc=AdowSt-Ci3-5iICHcGCIBiyt-FiJxe7zimEcGQo5Gd3DogVkeQsmjbw0qME0FVNXBYU&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=-gg2iTb2VhwlfQBwX6GeuQ&_nc_ss=7e120&oh=00_AQKXppKUn5MC0X6PrS6VgE-90a6U_1DmeV3rCFpNEH9V0A&oe=6A9C2924)
+![🚀 GPU越多，互連越重要：MRVL迎來AI新主線](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/786244329_122226343910502956_8766139281987359811_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tShoBSfbqLUQ7kNvwFHK17t&_nc_oc=AdpX8okXzgcNkHYa-Lit7CMujFhkcKj-IfD_C7LtZgu3aTprg7CPWwk_viJ6xQKWqUg&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=cD1ymFDA2LitwGIp-_3trA&_nc_ss=7e120&oh=00_AQIAOW2kWM-PmK4wsbW1MuCVZtN5bk8suA7OFLMN5vNWAA&oe=6AA36964)
 🚀 GPU越多，互連越重要：MRVL迎來AI新主線
 🔹 AI資料中心成長持續加速
 Marvell的AI成長已經不只是單一客戶或單一產品帶動，資料中心業務正在成為核心引擎。隨著AI叢集規模不斷擴大，對高速交換、光學DSP、客製ASIC與高速互連的需求同步提升，AI資料中心正在成為MRVL最重要的成長來源。

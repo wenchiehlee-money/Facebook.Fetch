@@ -1,23 +1,23 @@
 ---
 post_id: "1512661747542270"
 title: "AI巨頭正在以前所未見的速度擴張資料中心，Microsoft、Meta、Amazon、Google的資本支出不斷創高。"
-page_title: "洪鑑穩 帶你挖好股"
+page_title: ""
 requested_url: "https://www.facebook.com/iqvalue"
 final_url: "https://www.facebook.com/iqvalue"
-post_url: "https://www.facebook.com/iqvalue/posts/pfbid02GozWrMTtMrWwv4DDZEnBozev1yHoDeVhuPDQ76deUhX5c15PvTmFj9LSfpHjsjhrl"
+post_url: "https://www.facebook.com/iqvalue/posts/pfbid02Gwe2piVcYPyEnKxomrry3UTyMHccE9xXyYLjimjyMmFeYKjYWQBucJ4UN4bv6MEJl"
 creation_time_utc: "2026-08-17T23:00:03+00:00"
-fetched_at_utc: "2026-09-02T12:41:43.970122+00:00"
+fetched_at_utc: "2026-09-06T15:03:25.662510+00:00"
 source: "public_graphql"
 attachment_type: "GenericAttachmentMedia"
 attachment_url: ""
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTUxMjY2MTc0NzU0MjI3MA=="
-page_canonical_url: "https://www.facebook.com/iqvalue/"
+page_canonical_url: ""
 ---
 
 # AI巨頭正在以前所未見的速度擴張資料中心，Microsoft、Meta、Amazon、Google的資本支出不斷創高。
 
-原文連結: https://www.facebook.com/iqvalue/posts/pfbid02GozWrMTtMrWwv4DDZEnBozev1yHoDeVhuPDQ76deUhX5c15PvTmFj9LSfpHjsjhrl
+原文連結: https://www.facebook.com/iqvalue/posts/pfbid02Gwe2piVcYPyEnKxomrry3UTyMHccE9xXyYLjimjyMmFeYKjYWQBucJ4UN4bv6MEJl
 AI巨頭正在以前所未見的速度擴張資料中心，Microsoft、Meta、Amazon、Google的資本支出不斷創高。
 
 但市場目前關注的多半是AI帶來多少營收，卻忽略了一個可能從2027年開始快速放大的成本——折舊費用。

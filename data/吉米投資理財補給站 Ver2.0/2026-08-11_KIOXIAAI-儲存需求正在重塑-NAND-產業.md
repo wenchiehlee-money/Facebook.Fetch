@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
 final_url: "https://www.facebook.com/profile.php?id=61565088683715"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=2120180182229704&id=61565088683715&substory_index=2120180182229704"
 creation_time_utc: "2026-08-11T11:58:52+00:00"
-fetched_at_utc: "2026-09-01T04:44:49.974389+00:00"
+fetched_at_utc: "2026-09-06T14:56:01.130088+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/771968502_122224320956502956_3822107229442763696_n.png?stp=dst-jpg_p180x540_tt6&_nc_cat=110&ccb=1-7&_nc_sid=86c6b0&_nc_ohc=vKvfwD-tyNQQ7kNvwFk3jW8&_nc_oc=Adon7aT6ZH9m-FlOx7TZJ1sU3woIWXeNAxYFpmBoj1in5d70LhUnoccoyNhLVWxeReA&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=IVi-AoXqxp1ZXGCTNRD5Ng&_nc_ss=7e120&oh=00_AQLvRhL24B03yLZvsruRcwN1--tjkPqzHpu-v1_TsCE5qA&oe=6A9C2505"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/771968502_122224320956502956_3822107229442763696_n.png?stp=dst-jpg_p180x540_tt6&_nc_cat=110&ccb=1-7&_nc_sid=86c6b0&_nc_ohc=w5EG_yuSPiIQ7kNvwGNSUVN&_nc_oc=Adq0AjThFd4VHmPEWayC2FO5BCLPP7cYXlbCGpQ0id-B9OemNgwf7SuCYJ6vpD4h-uM&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=sNoKX65W4jblNDGhLoNLiQ&_nc_ss=7e120&oh=00_AQKoGc9sNYQwE_idDTS5pkkKuercH4Dc_OIf_eCerbx0pw&oe=6AA36545"
 feedback_id: "ZmVlZGJhY2s6MTIyMjI0MzIwOTUwNTAyOTU2"
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=2120180182229704&id=61565088683715&substory_index=2120180182229704
 
-![💾 KIOXIA：AI 儲存需求正在重塑 NAND 產業](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/771968502_122224320956502956_3822107229442763696_n.png?stp=dst-jpg_p180x540_tt6&_nc_cat=110&ccb=1-7&_nc_sid=86c6b0&_nc_ohc=vKvfwD-tyNQQ7kNvwFk3jW8&_nc_oc=Adon7aT6ZH9m-FlOx7TZJ1sU3woIWXeNAxYFpmBoj1in5d70LhUnoccoyNhLVWxeReA&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=IVi-AoXqxp1ZXGCTNRD5Ng&_nc_ss=7e120&oh=00_AQLvRhL24B03yLZvsruRcwN1--tjkPqzHpu-v1_TsCE5qA&oe=6A9C2505)
+![💾 KIOXIA：AI 儲存需求正在重塑 NAND 產業](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/771968502_122224320956502956_3822107229442763696_n.png?stp=dst-jpg_p180x540_tt6&_nc_cat=110&ccb=1-7&_nc_sid=86c6b0&_nc_ohc=w5EG_yuSPiIQ7kNvwGNSUVN&_nc_oc=Adq0AjThFd4VHmPEWayC2FO5BCLPP7cYXlbCGpQ0id-B9OemNgwf7SuCYJ6vpD4h-uM&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=sNoKX65W4jblNDGhLoNLiQ&_nc_ss=7e120&oh=00_AQKoGc9sNYQwE_idDTS5pkkKuercH4Dc_OIf_eCerbx0pw&oe=6AA36545)
 💾 KIOXIA：AI 儲存需求正在重塑 NAND 產業
 🚀 AI 帶動企業級 SSD 成為新成長引擎
 

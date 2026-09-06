@@ -4,22 +4,22 @@ title: "🔌 Semtech：AI資料中心連接進入升級週期"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
 final_url: "https://www.facebook.com/profile.php?id=61565088683715"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02fL2zwb4T41e8rEaySkhVFBixFcufFoHszSombsfCcqfoPB6xdcLNFMa2hPPbuj5el&id=61565088683715"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0bS5oS8tcZgLM3ycvyVQbpb3zhvdNrxvvJubnygchQVUiQzm5Sor85kxVNuyh6EYul&id=61565088683715"
 creation_time_utc: "2026-08-25T04:18:20+00:00"
-fetched_at_utc: "2026-09-01T04:44:49.974389+00:00"
+fetched_at_utc: "2026-09-06T14:56:01.130088+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/786828517_122225917256502956_8286061230847809799_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=U9bnGdua3VsQ7kNvwGzHRr8&_nc_oc=AdpBeSoeFXebnZdiUPD7d7joHI_ma9lpmdt7A3Olvw9kFkvgHyDWDMXUQk-lV4LQkOc&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=E0wuwr6taNJ16UQ7OhUtIQ&_nc_ss=7e120&oh=00_AQKW9Z85Nc8onxeSpTCLHM2W5IbFj_cNd3i0nPi38XD8Og&oe=6A9C1F6B"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/786828517_122225917256502956_8286061230847809799_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VzHh5dYkyP0Q7kNvwFyO3ua&_nc_oc=AdrZCM4g3qLM5sxbx0H81FRRtVCRdB1kCvrjg3vLRWzPZLh7_e6zpxQuvqIUgiLnh64&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=C7yq1DC0SnXASbT8FRsnPA&_nc_ss=7e120&oh=00_AQJI58ccjBDUsMO_Is5OVjlJNe_vuMRYdbfRruN-mMdoMw&oe=6AA35FAB"
 feedback_id: "ZmVlZGJhY2s6MTIyMjI1OTE3MzQwNTAyOTU2"
 page_canonical_url: ""
 ---
 
 # 🔌 Semtech：AI資料中心連接進入升級週期
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02fL2zwb4T41e8rEaySkhVFBixFcufFoHszSombsfCcqfoPB6xdcLNFMa2hPPbuj5el&id=61565088683715
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0bS5oS8tcZgLM3ycvyVQbpb3zhvdNrxvvJubnygchQVUiQzm5Sor85kxVNuyh6EYul&id=61565088683715
 
-![🔌 Semtech：AI資料中心連接進入升級週期](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/786828517_122225917256502956_8286061230847809799_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=U9bnGdua3VsQ7kNvwGzHRr8&_nc_oc=AdpBeSoeFXebnZdiUPD7d7joHI_ma9lpmdt7A3Olvw9kFkvgHyDWDMXUQk-lV4LQkOc&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=E0wuwr6taNJ16UQ7OhUtIQ&_nc_ss=7e120&oh=00_AQKW9Z85Nc8onxeSpTCLHM2W5IbFj_cNd3i0nPi38XD8Og&oe=6A9C1F6B)
+![🔌 Semtech：AI資料中心連接進入升級週期](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/786828517_122225917256502956_8286061230847809799_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VzHh5dYkyP0Q7kNvwFyO3ua&_nc_oc=AdrZCM4g3qLM5sxbx0H81FRRtVCRdB1kCvrjg3vLRWzPZLh7_e6zpxQuvqIUgiLnh64&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=C7yq1DC0SnXASbT8FRsnPA&_nc_ss=7e120&oh=00_AQJI58ccjBDUsMO_Is5OVjlJNe_vuMRYdbfRruN-mMdoMw&oe=6AA35FAB)
 🔌 Semtech：AI資料中心連接進入升級週期
 🚀 ① 最大亮點：AI資料中心帶動高速連接需求
 Semtech真正值得注意的，不只是傳統通訊晶片，而是AI資料中心帶來的高速光通訊與互連需求。隨著AI算力持續擴張，GPU、交換器與伺服器之間需要更高頻寬、更低延遲的連接方案，這正成為Semtech未來的重要成長引擎。

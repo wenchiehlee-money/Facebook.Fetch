@@ -4,22 +4,22 @@ title: "抱持著科技嘗鮮的心態，弄了一組全新的 ASUS Airvison M1 
 page_title: ""
 requested_url: "https://www.facebook.com/stocksardine"
 final_url: "https://www.facebook.com/stocksardine"
-post_url: "https://www.facebook.com/stocksardine/posts/pfbid02zH8GvUMQ13zamAWPUqfWAJ3NQZ7gKLKG25xcpLSHDdbUGtSfZqiGSMK47FkFWJRHl"
+post_url: "https://www.facebook.com/stocksardine/posts/pfbid0vs8byfkmLVNnGyhqRVsvWbUDrKxhG2bFbmv8zuwHvx1K2VAPCi4ZB8HNgx8bQriVl"
 creation_time_utc: "2026-08-26T03:23:10+00:00"
-fetched_at_utc: "2026-09-01T04:40:46.834253+00:00"
+fetched_at_utc: "2026-09-06T14:46:53.575118+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/786854687_1526131989552885_7924410149739295453_n.jpg?stp=cp6_dst-jpg_p526x296_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=B7tzZ4eOIxUQ7kNvwHJzZAy&_nc_oc=Adqe_MS_2chwFbC-FRNm3ueGQAyNuCytA4X4CC072jblu4kLSZyo-LFZU-2RihwY3vw&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=W8VuitxugKQAxrUY1o-LxQ&_nc_ss=7e120&oh=00_AQJUZECK7IjDjDb8lVHj-drE2nRTVw9mGbAf-017a-lcfQ&oe=6A9C29D1"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/786854687_1526131989552885_7924410149739295453_n.jpg?stp=cp6_dst-jpg_p526x296_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zxA5S1Vtex8Q7kNvwGx0axI&_nc_oc=Adr_3Ga8zk77SNgvDFWQiBArNRaaXOjFd6qeVhADtWyyR9E6IIZ5T9JDJZJMl4c40uA&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=nd1G7Ji-mEt4FGlqUjqCtA&_nc_ss=7e120&oh=00_AQJTBD5j37EvirnJLFQXIZcewoUodq84Y0UvOIE6cupgWw&oe=6AA36A11"
 feedback_id: "ZmVlZGJhY2s6MTUyNjE1NTU2OTU1MDUyNw=="
 page_canonical_url: ""
 ---
 
 # 抱持著科技嘗鮮的心態，弄了一組全新的 ASUS Airvison M1 來玩玩，號稱是專門給工作時需要多螢幕的人使用，那不就正好是我的需求，每次弄資料時開二個螢幕還是不夠用啊🥹
 
-原文連結: https://www.facebook.com/stocksardine/posts/pfbid02zH8GvUMQ13zamAWPUqfWAJ3NQZ7gKLKG25xcpLSHDdbUGtSfZqiGSMK47FkFWJRHl
+原文連結: https://www.facebook.com/stocksardine/posts/pfbid0vs8byfkmLVNnGyhqRVsvWbUDrKxhG2bFbmv8zuwHvx1K2VAPCi4ZB8HNgx8bQriVl
 
-![抱持著科技嘗鮮的心態，弄了一組全新的 ASUS Airvison M1 來玩玩，號稱是專門給工作時需要多螢幕的人使用，那不就正好是我的需求，每次弄資料時開二個螢幕還是不夠用啊🥹](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/786854687_1526131989552885_7924410149739295453_n.jpg?stp=cp6_dst-jpg_p526x296_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=B7tzZ4eOIxUQ7kNvwHJzZAy&_nc_oc=Adqe_MS_2chwFbC-FRNm3ueGQAyNuCytA4X4CC072jblu4kLSZyo-LFZU-2RihwY3vw&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=W8VuitxugKQAxrUY1o-LxQ&_nc_ss=7e120&oh=00_AQJUZECK7IjDjDb8lVHj-drE2nRTVw9mGbAf-017a-lcfQ&oe=6A9C29D1)
+![抱持著科技嘗鮮的心態，弄了一組全新的 ASUS Airvison M1 來玩玩，號稱是專門給工作時需要多螢幕的人使用，那不就正好是我的需求，每次弄資料時開二個螢幕還是不夠用啊🥹](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/786854687_1526131989552885_7924410149739295453_n.jpg?stp=cp6_dst-jpg_p526x296_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zxA5S1Vtex8Q7kNvwGx0axI&_nc_oc=Adr_3Ga8zk77SNgvDFWQiBArNRaaXOjFd6qeVhADtWyyR9E6IIZ5T9JDJZJMl4c40uA&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=nd1G7Ji-mEt4FGlqUjqCtA&_nc_ss=7e120&oh=00_AQJTBD5j37EvirnJLFQXIZcewoUodq84Y0UvOIE6cupgWw&oe=6AA36A11)
 抱持著科技嘗鮮的心態，弄了一組全新的 ASUS Airvison M1 來玩玩，號稱是專門給工作時需要多螢幕的人使用，那不就正好是我的需求，每次弄資料時開二個螢幕還是不夠用啊🥹
 .
 先來報告一下跑【子龍任務】的狀況：

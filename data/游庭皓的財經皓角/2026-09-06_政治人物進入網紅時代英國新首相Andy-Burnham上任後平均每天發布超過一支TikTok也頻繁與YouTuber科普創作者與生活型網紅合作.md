@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/yutinghaosfinance"
 final_url: "https://www.facebook.com/yutinghaosfinance"
 post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid0ohUh2KEXxnMBBEk6Qhs8rxWLGEG9andVvkHkKNQLi3az37V9g4ZDCpiSYwkS55qul"
 creation_time_utc: "2026-09-06T12:26:20+00:00"
-fetched_at_utc: "2026-09-06T14:33:01.838522+00:00"
+fetched_at_utc: "2026-09-06T14:44:31.683647+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/799149826_1141725981752087_2868714086456772054_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WXsNPE299EcQ7kNvwEUsZYm&_nc_oc=AdoTiPn0VRGhqVgTqFkrJw4SeFIXmJD3TUNyPBDz2HNFrfbKahnyGBPI0EwntXpI-ts&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=pAqpxCuaTJtxji3AcD1SSw&_nc_ss=7e120&oh=00_AQKKzSzPtU0OeEOUeFC2FFlxXwcZSJbhLRoWOeMq-P_BUQ&oe=6AA35D82"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/799149826_1141725981752087_2868714086456772054_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WXsNPE299EcQ7kNvwG_zNiv&_nc_oc=AdrBpi-KbDQidfExPcVSwCM8ytT97GVgArLW3uc2_BlavXg7KUtbRUMRbCWLGE6lo24&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=68LSepntu9eVESL_ZHwBCQ&_nc_ss=7e120&oh=00_AQJNpOCAeuT8Ly8xpQAt1702VX1O45BBSICuxKQr7mz4zw&oe=6AA35D82"
 feedback_id: "ZmVlZGJhY2s6MTE0MTcyNjA5NTA4NTQwOQ=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid0ohUh2KEXxnMBBEk6Qhs8rxWLGEG9andVvkHkKNQLi3az37V9g4ZDCpiSYwkS55qul
 
-![政治人物進入網紅時代。英國新首相Andy Burnham上任後，平均每天發布超過一支TikTok，也頻繁與YouTuber、科普創作者與生活型網紅合作。](https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/799149826_1141725981752087_2868714086456772054_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WXsNPE299EcQ7kNvwEUsZYm&_nc_oc=AdoTiPn0VRGhqVgTqFkrJw4SeFIXmJD3TUNyPBDz2HNFrfbKahnyGBPI0EwntXpI-ts&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=pAqpxCuaTJtxji3AcD1SSw&_nc_ss=7e120&oh=00_AQKKzSzPtU0OeEOUeFC2FFlxXwcZSJbhLRoWOeMq-P_BUQ&oe=6AA35D82)
+![政治人物進入網紅時代。英國新首相Andy Burnham上任後，平均每天發布超過一支TikTok，也頻繁與YouTuber、科普創作者與生活型網紅合作。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/799149826_1141725981752087_2868714086456772054_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WXsNPE299EcQ7kNvwG_zNiv&_nc_oc=AdrBpi-KbDQidfExPcVSwCM8ytT97GVgArLW3uc2_BlavXg7KUtbRUMRbCWLGE6lo24&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=68LSepntu9eVESL_ZHwBCQ&_nc_ss=7e120&oh=00_AQJNpOCAeuT8Ly8xpQAt1702VX1O45BBSICuxKQr7mz4zw&oe=6AA35D82)
 政治人物進入網紅時代。英國新首相Andy Burnham上任後，平均每天發布超過一支TikTok，也頻繁與YouTuber、科普創作者與生活型網紅合作。
 
 原因很直接，35歲以下英國人，每天觀看傳統電視不到1小時，，年輕選民早已不在舊媒體裡。英國政府內部文件甚至明白指出，民眾往往抗拒政府叫你做什麼，但如果同樣的建議由一個看起來親切、可信的網紅說出來，就比較像分享而不是命令。

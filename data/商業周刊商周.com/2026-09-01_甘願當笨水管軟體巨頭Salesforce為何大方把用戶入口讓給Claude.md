@@ -1,23 +1,23 @@
 ---
 post_id: "1498031669025711"
 title: "【甘願當「笨水管」？軟體巨頭Salesforce為何大方把用戶入口讓給Claude】"
-page_title: "商業周刊（商周.com）"
+page_title: ""
 requested_url: "https://www.facebook.com/bwnet.fans"
 final_url: "https://www.facebook.com/bwnet.fans"
-post_url: "https://www.facebook.com/bwnet.fans/posts/pfbid09pw9oayFzBdcrF8ddQfLwsWXYkoz9iej7haNXufg8h3RZDEnmRp6T1qzgCPgUEfcl"
+post_url: "https://www.facebook.com/bwnet.fans/posts/pfbid0A8jg56GizRxhdZbip3YMtYMxCqhcgZGDJRUc9Z3JZSsz7JbfCUyfWVDBnutBGSAYl"
 creation_time_utc: "2026-09-01T02:47:43+00:00"
-fetched_at_utc: "2026-09-04T06:47:49.731606+00:00"
+fetched_at_utc: "2026-09-06T15:06:54.047739+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTQ5ODAzMTY2OTAyNTcxMQ=="
-page_canonical_url: "https://www.facebook.com/bwnet.fans/"
+page_canonical_url: ""
 ---
 
 # 【甘願當「笨水管」？軟體巨頭Salesforce為何大方把用戶入口讓給Claude】
 
-原文連結: https://www.facebook.com/bwnet.fans/posts/pfbid09pw9oayFzBdcrF8ddQfLwsWXYkoz9iej7haNXufg8h3RZDEnmRp6T1qzgCPgUEfcl
+原文連結: https://www.facebook.com/bwnet.fans/posts/pfbid0A8jg56GizRxhdZbip3YMtYMxCqhcgZGDJRUc9Z3JZSsz7JbfCUyfWVDBnutBGSAYl
 【甘願當「笨水管」？軟體巨頭Salesforce為何大方把用戶入口讓給Claude】
 
 Salesforce明知可能變成「笨水管」，仍把部分入口交給Claude。

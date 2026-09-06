@@ -4,22 +4,22 @@ title: "AI造富潮來了，OpenAI與Anthropic準備上市，除了可能創造�
 page_title: ""
 requested_url: "https://www.facebook.com/yutinghaosfinance"
 final_url: "https://www.facebook.com/yutinghaosfinance"
-post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid0R9uL6MxKZPD7Nk3eafHfQQXRhvRKCmxgR64ztqQLTVN6BEJFX6mbLb6iaJPmuo3Tl"
+post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid02V8zZFPusbTEiBh6yHdDKf5qN3wkfyAMBAQtT8Ss7NRwySTNKzvgVN76rmBiVkHh8l"
 creation_time_utc: "2026-08-15T15:17:12+00:00"
-fetched_at_utc: "2026-09-01T04:39:46.895032+00:00"
+fetched_at_utc: "2026-09-06T14:44:31.683647+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/774745192_1122044703720215_8436672140894578538_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-XcIb68TYiAQ7kNvwF0ErWK&_nc_oc=AdpDFs97ufyVRJob0fwM5S61d1vH5n1bC0HjubM7p-ykSsnEjVy7L7nnDruJw_cIV3I&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=N9aveUpiNeSBjryl_0OomA&_nc_ss=7e120&oh=00_AQKWJIlZenBIT7zDkoxAPi6ym_hPU81gC_EdtuGNMk0I9g&oe=6A9C1FAB"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/774745192_1122044703720215_8436672140894578538_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BunBBH6ql9YQ7kNvwGWwtRJ&_nc_oc=Ado1xQ6VZ5PPifA6jq-KIbKw5p2y4i_pHLxpQ-k49zhbtXCSPINa62PpPJlAgCeEahY&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=Xi9YH761RkAGxSTc4hmIlA&_nc_ss=7e120&oh=00_AQIrL2zeK7oCCfDQ-4msUJLFeyz0Id1MWV1kSJ51JJ1rRQ&oe=6AA35FEB"
 feedback_id: "ZmVlZGJhY2s6MTEyMjA0NDc3MzcyMDIwOA=="
 page_canonical_url: ""
 ---
 
 # AI造富潮來了，OpenAI與Anthropic準備上市，除了可能創造史上最大規模的科技公司，首次公開募股，也正在提前製造一批紙上富豪。
 
-原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid0R9uL6MxKZPD7Nk3eafHfQQXRhvRKCmxgR64ztqQLTVN6BEJFX6mbLb6iaJPmuo3Tl
+原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid02V8zZFPusbTEiBh6yHdDKf5qN3wkfyAMBAQtT8Ss7NRwySTNKzvgVN76rmBiVkHh8l
 
-![AI造富潮來了，OpenAI與Anthropic準備上市，除了可能創造史上最大規模的科技公司，首次公開募股，也正在提前製造一批紙上富豪。](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/774745192_1122044703720215_8436672140894578538_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-XcIb68TYiAQ7kNvwF0ErWK&_nc_oc=AdpDFs97ufyVRJob0fwM5S61d1vH5n1bC0HjubM7p-ykSsnEjVy7L7nnDruJw_cIV3I&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=N9aveUpiNeSBjryl_0OomA&_nc_ss=7e120&oh=00_AQKWJIlZenBIT7zDkoxAPi6ym_hPU81gC_EdtuGNMk0I9g&oe=6A9C1FAB)
+![AI造富潮來了，OpenAI與Anthropic準備上市，除了可能創造史上最大規模的科技公司，首次公開募股，也正在提前製造一批紙上富豪。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/774745192_1122044703720215_8436672140894578538_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BunBBH6ql9YQ7kNvwGWwtRJ&_nc_oc=Ado1xQ6VZ5PPifA6jq-KIbKw5p2y4i_pHLxpQ-k49zhbtXCSPINa62PpPJlAgCeEahY&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=Xi9YH761RkAGxSTc4hmIlA&_nc_ss=7e120&oh=00_AQIrL2zeK7oCCfDQ-4msUJLFeyz0Id1MWV1kSJ51JJ1rRQ&oe=6AA35FEB)
 AI造富潮來了，OpenAI與Anthropic準備上市，除了可能創造史上最大規模的科技公司，首次公開募股，也正在提前製造一批紙上富豪。
 
 OpenAI光在2024、2025兩年，就發出接近110億美元的員工股票報酬，公司員工卻只有約8,000人；若現在是一家上市公司，員工股票報酬總額甚至可以排進全美第七。

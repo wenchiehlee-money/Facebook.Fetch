@@ -4,22 +4,22 @@ title: "🚕特斯拉（#TSLA）這次低調的舉辦了 #Cybercab 營運發布�
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid0AoWG6ZvWtEXqLrRbMrtKQtnKB1fJ7JmVWogWWvM7sULqKumuQCu2woQtn7EqqBo5l"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0B7JnN5DytHCyj4nzZ3NenmJ2k6pWkqUCDQyRHrCtiLb22cjfHjoFjumeadBJM74El"
 creation_time_utc: "2026-09-04T01:56:25+00:00"
-fetched_at_utc: "2026-09-04T05:45:13.268134+00:00"
+fetched_at_utc: "2026-09-06T14:45:39.780207+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/793144865_1548540320649443_7012805120137667790_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=M8TJTZu6-ScQ7kNvwF00nXT&_nc_oc=AdrMESnz_VHXc81HI2PPy3p46Vdiwta_NX3BPtyW1xDtyu-OTrbDmgzM6dstyXnTG4E&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=lEDU5TuPzkPZuzgYwiBKow&_nc_ss=7e120&oh=00_AQIxOE3lRA3o2HtFEZ4n_1djqZS8fw6LLReZBE3Qc6ZNsQ&oe=6AA01820"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/793144865_1548540320649443_7012805120137667790_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=M8TJTZu6-ScQ7kNvwGdPg2G&_nc_oc=AdoYYamN20yFHTo4Ft_glr52gIk5MS1qc74Dtza4SlwgEfHOZEFaxtDfwCX2Tors2e0&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=lKdkyQGIc0ZT783SrJxRFA&_nc_ss=7e120&oh=00_AQLM1unJ_k00J9oaC27Z5j1CEMon_QJQ940sHx9Xp9kPKA&oe=6AA363E0"
 feedback_id: "ZmVlZGJhY2s6MTU0ODU0MDcwMDY0OTQwNQ=="
 page_canonical_url: ""
 ---
 
 # 🚕特斯拉（#TSLA）這次低調的舉辦了 #Cybercab 營運發布會，採取了極為嚴格的邀請制，也沒有公開完整直播，至少部分受邀創作者表示需簽署 NDA。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid0AoWG6ZvWtEXqLrRbMrtKQtnKB1fJ7JmVWogWWvM7sULqKumuQCu2woQtn7EqqBo5l
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0B7JnN5DytHCyj4nzZ3NenmJ2k6pWkqUCDQyRHrCtiLb22cjfHjoFjumeadBJM74El
 
-![🚕特斯拉（#TSLA）這次低調的舉辦了 #Cybercab 營運發布會，採取了極為嚴格的邀請制，也沒有公開完整直播，至少部分受邀創作者表示需簽署 NDA。](https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/793144865_1548540320649443_7012805120137667790_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=M8TJTZu6-ScQ7kNvwF00nXT&_nc_oc=AdrMESnz_VHXc81HI2PPy3p46Vdiwta_NX3BPtyW1xDtyu-OTrbDmgzM6dstyXnTG4E&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=lEDU5TuPzkPZuzgYwiBKow&_nc_ss=7e120&oh=00_AQIxOE3lRA3o2HtFEZ4n_1djqZS8fw6LLReZBE3Qc6ZNsQ&oe=6AA01820)
+![🚕特斯拉（#TSLA）這次低調的舉辦了 #Cybercab 營運發布會，採取了極為嚴格的邀請制，也沒有公開完整直播，至少部分受邀創作者表示需簽署 NDA。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/793144865_1548540320649443_7012805120137667790_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=M8TJTZu6-ScQ7kNvwGdPg2G&_nc_oc=AdoYYamN20yFHTo4Ft_glr52gIk5MS1qc74Dtza4SlwgEfHOZEFaxtDfwCX2Tors2e0&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=lKdkyQGIc0ZT783SrJxRFA&_nc_ss=7e120&oh=00_AQLM1unJ_k00J9oaC27Z5j1CEMon_QJQ940sHx9Xp9kPKA&oe=6AA363E0)
 🚕特斯拉（#TSLA）這次低調的舉辦了 #Cybercab 營運發布會，採取了極為嚴格的邀請制，也沒有公開完整直播，至少部分受邀創作者表示需簽署 NDA。
 ​
 根據各家媒體報導及官方 FAQ，以下整理出 6 大重點：

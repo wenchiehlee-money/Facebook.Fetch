@@ -4,22 +4,22 @@ title: "Ed Yardeni  表示："
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61564607679559"
 final_url: "https://www.facebook.com/profile.php?id=61564607679559"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02vzzS2PifsW73zFUcpBERuJAWC9E2ScQ9uB1YdP7M3fpfuKkkDpFgHrMWSrWGFTLul&id=61564607679559"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02vxUwhcUfEcUPB9mA7K7AJAxLMNUSW6CxXhZj4zmEAD5MPPwZ5RmEbEwwFuLkkCjEl&id=61564607679559"
 creation_time_utc: "2026-08-16T16:18:14+00:00"
-fetched_at_utc: "2026-09-01T04:46:24.679888+00:00"
+fetched_at_utc: "2026-09-06T14:59:36.320238+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/771795931_122198988962486922_4073165884112826223_n.jpg?stp=cp6_dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=sPFmYm4TDSUQ7kNvwGQFNmy&_nc_oc=Adrfp0vqVDEC90oZURohUXYMzUZ3-7GQlf5cd-2dMXiIL_m1nBIfs5tAiHZJ3zs2fLc&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=3R8w9m0fk69mmMWCjK0TJg&_nc_ss=7e120&oh=00_AQKgfUxT-hR_kaapQVlQ70x5yUXcaE8TEHR5CFAEEACAmA&oe=6A9C0FC9"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/771795931_122198988962486922_4073165884112826223_n.jpg?stp=cp6_dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=vrmQZOS8t1UQ7kNvwEb3h_b&_nc_oc=AdqdGgStncSO5_iDGBYhMwLdkkTiAiIJl4ErXQxgF2_RIrS2mto9K5tFXcEvSZLuNug&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=XEf0fwKi1EWm38IMRr6rkw&_nc_ss=7e120&oh=00_AQLycOwQQv_VQxBxhcx5QbVpAR3ah-jNbx4tvSEehKJgTw&oe=6AA35009"
 feedback_id: "ZmVlZGJhY2s6MTIyMTk4OTg4OTkyNDg2OTIy"
 page_canonical_url: ""
 ---
 
 # Ed Yardeni  表示：
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02vzzS2PifsW73zFUcpBERuJAWC9E2ScQ9uB1YdP7M3fpfuKkkDpFgHrMWSrWGFTLul&id=61564607679559
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02vxUwhcUfEcUPB9mA7K7AJAxLMNUSW6CxXhZj4zmEAD5MPPwZ5RmEbEwwFuLkkCjEl&id=61564607679559
 
-![Ed Yardeni  表示：](https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/771795931_122198988962486922_4073165884112826223_n.jpg?stp=cp6_dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=sPFmYm4TDSUQ7kNvwGQFNmy&_nc_oc=Adrfp0vqVDEC90oZURohUXYMzUZ3-7GQlf5cd-2dMXiIL_m1nBIfs5tAiHZJ3zs2fLc&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=3R8w9m0fk69mmMWCjK0TJg&_nc_ss=7e120&oh=00_AQKgfUxT-hR_kaapQVlQ70x5yUXcaE8TEHR5CFAEEACAmA&oe=6A9C0FC9)
+![Ed Yardeni  表示：](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/771795931_122198988962486922_4073165884112826223_n.jpg?stp=cp6_dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=vrmQZOS8t1UQ7kNvwEb3h_b&_nc_oc=AdqdGgStncSO5_iDGBYhMwLdkkTiAiIJl4ErXQxgF2_RIrS2mto9K5tFXcEvSZLuNug&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=XEf0fwKi1EWm38IMRr6rkw&_nc_ss=7e120&oh=00_AQLycOwQQv_VQxBxhcx5QbVpAR3ah-jNbx4tvSEehKJgTw&oe=6AA35009)
 Ed Yardeni  表示：
 
 “上週，我們將標普500指數的年終目標位從8,250點上調至8,400點。我們維持本年代末達到10,000點的目標不變，儘管未來可能會進一步上調。我們的『繁榮2020年代』（Roaring 2020s）情境所帶來的標普500指數盈利表現甚至超出了我們的預期。”

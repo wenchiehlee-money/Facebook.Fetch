@@ -4,22 +4,22 @@ title: "📌OpenAI 公布了首款自研 AI 晶片 #Jalapeño 的測試數據，
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid02cGgHGTNTP5FgkQQpkkZaCjDSZ4iAGXiGSyjVbgkLs9rRsqbZGEZEqQgct1xHmMfvl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid02cEAnwg8Sk5ptfisDs2fu9boWnNYnT4pS1hCCpZgnPYZ5BwUeoESBCD9Mwx8T6dEyl"
 creation_time_utc: "2026-08-26T02:24:30+00:00"
-fetched_at_utc: "2026-09-01T04:40:16.343391+00:00"
+fetched_at_utc: "2026-09-06T14:45:39.780207+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/787083105_1540354511468024_3987339516903462941_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xW-mxw5xUFQQ7kNvwElMcR9&_nc_oc=AdoPeLeF74fmTYmu8mm7rE9imQ3BCHyYkcUHVJC2pcnqIXhInYNGXMiqJm188wSPC9w&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=yNE_C2EXBe9y2wvNuv0Wmw&_nc_ss=7e120&oh=00_AQLVqvCkIr9K7ZSMjlBIsmHoJ2hN7ADwWiZINEAwpsZ49g&oe=6A9C440A"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/787083105_1540354511468024_3987339516903462941_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CoD5a7HTzuAQ7kNvwHH2CKj&_nc_oc=AdrB_3DzBR0nKupKrtLgmZef2nVOefQArp2dm2l6J0Dx51WtBokW_GCJRKYI2OroN94&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=rzONRlBS9zgl-8pIZtzKmg&_nc_ss=7e120&oh=00_AQLm9tWvXTVEtU7bUghXR01KiopDmjHkZLKdp64fi6mgaA&oe=6AA34C0A"
 feedback_id: "ZmVlZGJhY2s6MTU0MDM2MDYzMTQ2NzQxMg=="
 page_canonical_url: ""
 ---
 
 # 📌OpenAI 公布了首款自研 AI 晶片 #Jalapeño 的測試數據，每瓦運算效率與回應延遲均優於輝達（NVDA）GB200、GB300，不過並未與最新一代 Vera Rubin 晶片比較。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid02cGgHGTNTP5FgkQQpkkZaCjDSZ4iAGXiGSyjVbgkLs9rRsqbZGEZEqQgct1xHmMfvl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid02cEAnwg8Sk5ptfisDs2fu9boWnNYnT4pS1hCCpZgnPYZ5BwUeoESBCD9Mwx8T6dEyl
 
-![📌OpenAI 公布了首款自研 AI 晶片 #Jalapeño 的測試數據，每瓦運算效率與回應延遲均優於輝達（NVDA）GB200、GB300，不過並未與最新一代 Vera Rubin 晶片比較。](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/787083105_1540354511468024_3987339516903462941_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xW-mxw5xUFQQ7kNvwElMcR9&_nc_oc=AdoPeLeF74fmTYmu8mm7rE9imQ3BCHyYkcUHVJC2pcnqIXhInYNGXMiqJm188wSPC9w&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=yNE_C2EXBe9y2wvNuv0Wmw&_nc_ss=7e120&oh=00_AQLVqvCkIr9K7ZSMjlBIsmHoJ2hN7ADwWiZINEAwpsZ49g&oe=6A9C440A)
+![📌OpenAI 公布了首款自研 AI 晶片 #Jalapeño 的測試數據，每瓦運算效率與回應延遲均優於輝達（NVDA）GB200、GB300，不過並未與最新一代 Vera Rubin 晶片比較。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/787083105_1540354511468024_3987339516903462941_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CoD5a7HTzuAQ7kNvwHH2CKj&_nc_oc=AdrB_3DzBR0nKupKrtLgmZef2nVOefQArp2dm2l6J0Dx51WtBokW_GCJRKYI2OroN94&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=rzONRlBS9zgl-8pIZtzKmg&_nc_ss=7e120&oh=00_AQLm9tWvXTVEtU7bUghXR01KiopDmjHkZLKdp64fi6mgaA&oe=6AA34C0A)
 📌OpenAI 公布了首款自研 AI 晶片 #Jalapeño 的測試數據，每瓦運算效率與回應延遲均優於輝達（NVDA）GB200、GB300，不過並未與最新一代 Vera Rubin 晶片比較。
 ​
 Jalapeño 是 OpenAI 與博通（AVGO）合作開發的 AI 晶片，專為 AI 推論設計，特別強調每一瓦電力能處理多少 token，並非以模型訓練為主要用途。

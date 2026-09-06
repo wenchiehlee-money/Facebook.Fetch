@@ -4,22 +4,22 @@ title: "------------\"理想狀況下，整個 KV 快取都儲存在 GPU 或 AI 
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid08FXKDn4PkCzYsw4s2Uy1VGqSg7zTm7RoVAq3RiBkg9rv8RhU63oFiKe8JU61fKsjl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid08gyMTePaw1SEgwqcmRrREoqwNeF1UswVKjDwLD4Ep8p9D65jyHBDQ3MfNd9wNvBfl&id=100054201473657"
 creation_time_utc: "2026-08-09T13:21:05+00:00"
-fetched_at_utc: "2026-09-01T04:42:39.947356+00:00"
+fetched_at_utc: "2026-09-06T14:51:09.070252+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/768372630_1579768713839829_7146912955455907828_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CGl5dKleUwMQ7kNvwFNf7vB&_nc_oc=Adp8I6hBiAn7sWrgFIK68dvQMZPotuq0XVlEGguw8b-aPyT8x9iw-iShxHYRFcuj4tI&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=Rl3wQkc6I9q90SbapzzgMw&_nc_ss=7e120&oh=00_AQJKKmyX6Ekba0HIVnp4UkT2hl1FGy5dXU0WF_201NqPJw&oe=6A9C356C"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/768372630_1579768713839829_7146912955455907828_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=G_FtC-DO-m0Q7kNvwG-4tx_&_nc_oc=AdqfDlB1yjVVCcHIP0Bv6uJkwjAssDhJ2_nAVEvDt65foV9xj-tbZuHdfMI_bJ7EEI0&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=ltk76Sjjb1FL_o-wn9sX8w&_nc_ss=7e120&oh=00_AQJDhf2_eC9istHkHve4PHEldsuPjBtARCJKJjwvWy60bA&oe=6AA33D6C"
 feedback_id: "ZmVlZGJhY2s6MTU3OTc2ODk2MDUwNjQ3MQ=="
 page_canonical_url: ""
 ---
 
 # ------------"理想狀況下，整個 KV 快取都儲存在 GPU 或 AI 加速器旁邊的 HBM，這樣可以減少物理距離並降低延遲。HBM 約三分之一的容量通常保留給 KV 快取，而神經網路儲存的權重也約佔三分之一，工作中的部分則佔最後三分之一。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid08FXKDn4PkCzYsw4s2Uy1VGqSg7zTm7RoVAq3RiBkg9rv8RhU63oFiKe8JU61fKsjl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid08gyMTePaw1SEgwqcmRrREoqwNeF1UswVKjDwLD4Ep8p9D65jyHBDQ3MfNd9wNvBfl&id=100054201473657
 
-![------------"理想狀況下，整個 KV 快取都儲存在 GPU 或 AI 加速器旁邊的 HBM，這樣可以減少物理距離並降低延遲。HBM 約三分之一的容量通常保留給 KV 快取，而神經網路儲存的權重也約佔三分之一，工作中的部分則佔最後三分之一。](https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/768372630_1579768713839829_7146912955455907828_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CGl5dKleUwMQ7kNvwFNf7vB&_nc_oc=Adp8I6hBiAn7sWrgFIK68dvQMZPotuq0XVlEGguw8b-aPyT8x9iw-iShxHYRFcuj4tI&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=Rl3wQkc6I9q90SbapzzgMw&_nc_ss=7e120&oh=00_AQJKKmyX6Ekba0HIVnp4UkT2hl1FGy5dXU0WF_201NqPJw&oe=6A9C356C)
+![------------"理想狀況下，整個 KV 快取都儲存在 GPU 或 AI 加速器旁邊的 HBM，這樣可以減少物理距離並降低延遲。HBM 約三分之一的容量通常保留給 KV 快取，而神經網路儲存的權重也約佔三分之一，工作中的部分則佔最後三分之一。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/768372630_1579768713839829_7146912955455907828_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=G_FtC-DO-m0Q7kNvwG-4tx_&_nc_oc=AdqfDlB1yjVVCcHIP0Bv6uJkwjAssDhJ2_nAVEvDt65foV9xj-tbZuHdfMI_bJ7EEI0&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=ltk76Sjjb1FL_o-wn9sX8w&_nc_ss=7e120&oh=00_AQJDhf2_eC9istHkHve4PHEldsuPjBtARCJKJjwvWy60bA&oe=6AA33D6C)
 ------------"理想狀況下，整個 KV 快取都儲存在 GPU 或 AI 加速器旁邊的 HBM，這樣可以減少物理距離並降低延遲。HBM 約三分之一的容量通常保留給 KV 快取，而神經網路儲存的權重也約佔三分之一，工作中的部分則佔最後三分之一。
 
 問題在於現有的 HBM 很少能像供應商想要的那樣大容量儲存 KV 快取。當 KV 快取需求超過 HBM 空間——也就是 AI 提供者撞上記憶體牆時，KV 快取會溢出到下一層儲存，通常是 DRAM 與企業級固態硬碟（SSD）或快閃記憶體的組合。

@@ -4,22 +4,22 @@ title: "中美AI談判前火藥味升高，中國在川習會前點名Anthropic�
 page_title: ""
 requested_url: "https://www.facebook.com/yutinghaosfinance"
 final_url: "https://www.facebook.com/yutinghaosfinance"
-post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid02fLULUQ5YmNEyjgMVJGFc6CWM9QKmgbtV6GKVJVY68GR32kfQTAsUQqtrQHmQsDxJl"
+post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid0bSX8xwuiH1mQWCH9rvqbgeKkVE8toZadTVvAmY6D9urq2XKnfmw81f3gCUP2JRcil"
 creation_time_utc: "2026-08-31T14:01:10+00:00"
-fetched_at_utc: "2026-09-01T06:12:28.644439+00:00"
+fetched_at_utc: "2026-09-06T14:44:31.683647+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/784716861_1136423648948987_3541313941113420615_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-8sS7e_L0rgQ7kNvwHuWeJ8&_nc_oc=AdqEbDJdGsV_8l8GeBJjW7RNz_e-zrzmZPoShj7JS-Wma3K1d3TbdBW983v8jrj0gk8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=nWc_rPwpkdnGtzSDgCZwUA&_nc_ss=7e120&oh=00_AQLkc3tjwJdLDJqQHpD_F-WjErufFHb3dKO-IvO_IdPMzQ&oe=6A9C4272"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/784716861_1136423648948987_3541313941113420615_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=S7aBvkXHCf4Q7kNvwGaq7M3&_nc_oc=Adr7BYyib1laVtjDbvsbtmhloSGQaDpsCX5HIzyxXwK6MzxLHHHkA1kfpvD5Hl6Zrok&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=xRnsilUKJmniN9aE_HrbZA&_nc_ss=7e120&oh=00_AQLR-Z9pmMEESwZAy9mwuM8IYkACOIgZCS0aFqA7rXH1uA&oe=6AA34A72"
 feedback_id: "ZmVlZGJhY2s6MTEzNjQyMzcyNTYxNTY0Ng=="
 page_canonical_url: ""
 ---
 
 # 中美AI談判前火藥味升高，中國在川習會前點名Anthropic，劃出紅線，要求美國證明旗下AI公司也受到相同的安全、資訊揭露與稽核規範，否則不會展開真正有實質內容的談判。
 
-原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid02fLULUQ5YmNEyjgMVJGFc6CWM9QKmgbtV6GKVJVY68GR32kfQTAsUQqtrQHmQsDxJl
+原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid0bSX8xwuiH1mQWCH9rvqbgeKkVE8toZadTVvAmY6D9urq2XKnfmw81f3gCUP2JRcil
 
-![中美AI談判前火藥味升高，中國在川習會前點名Anthropic，劃出紅線，要求美國證明旗下AI公司也受到相同的安全、資訊揭露與稽核規範，否則不會展開真正有實質內容的談判。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/784716861_1136423648948987_3541313941113420615_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-8sS7e_L0rgQ7kNvwHuWeJ8&_nc_oc=AdqEbDJdGsV_8l8GeBJjW7RNz_e-zrzmZPoShj7JS-Wma3K1d3TbdBW983v8jrj0gk8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=nWc_rPwpkdnGtzSDgCZwUA&_nc_ss=7e120&oh=00_AQLkc3tjwJdLDJqQHpD_F-WjErufFHb3dKO-IvO_IdPMzQ&oe=6A9C4272)
+![中美AI談判前火藥味升高，中國在川習會前點名Anthropic，劃出紅線，要求美國證明旗下AI公司也受到相同的安全、資訊揭露與稽核規範，否則不會展開真正有實質內容的談判。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/784716861_1136423648948987_3541313941113420615_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=S7aBvkXHCf4Q7kNvwGaq7M3&_nc_oc=Adr7BYyib1laVtjDbvsbtmhloSGQaDpsCX5HIzyxXwK6MzxLHHHkA1kfpvD5Hl6Zrok&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=xRnsilUKJmniN9aE_HrbZA&_nc_ss=7e120&oh=00_AQLR-Z9pmMEESwZAy9mwuM8IYkACOIgZCS0aFqA7rXH1uA&oe=6AA34A72)
 中美AI談判前火藥味升高，中國在川習會前點名Anthropic，劃出紅線，要求美國證明旗下AI公司也受到相同的安全、資訊揭露與稽核規範，否則不會展開真正有實質內容的談判。
 
 中國官媒相關帳號，更直接點名Anthropic的Claude，指控其存在越界蒐集使用者資料、暗中監控，以及未經授權傳送網站網域等問題，並強調必須區分真正的國安威脅與單純的科技競爭。

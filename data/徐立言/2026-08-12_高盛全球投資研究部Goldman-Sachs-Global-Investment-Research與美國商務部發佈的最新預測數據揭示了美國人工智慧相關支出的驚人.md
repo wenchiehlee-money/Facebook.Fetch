@@ -4,22 +4,22 @@ title: "高盛全球投資研究部（Goldman Sachs Global Investment Research�
 page_title: ""
 requested_url: "https://www.facebook.com/hsulylab"
 final_url: "https://www.facebook.com/hsulylab"
-post_url: "https://www.facebook.com/hsulylab/posts/pfbid03BK1wnoYiVTrDdGy18d8GKBXvAWEFWmjnwSfiJEzceB1m5B1UuV8YjU4Yp6ubzail"
+post_url: "https://www.facebook.com/hsulylab/posts/pfbid038oXd1ZY5dqKzMi4hgV5NysNCjfwg12zkr2dH9856FEfZj21dmwHPswA9wVybtuwl"
 creation_time_utc: "2026-08-12T10:00:03+00:00"
-fetched_at_utc: "2026-09-01T04:48:02.246136+00:00"
+fetched_at_utc: "2026-09-06T15:01:22.812987+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/770823164_1340387128259438_8543538130204652798_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ogRuVc1_KpcQ7kNvwF90y3Z&_nc_oc=AdouWDHheqw_e0r37yMnFcrF9jEytBP7U_XhPFYpEP2zJcxzIrJM-uTMd6h-6hwSWTw&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=mXAYNEV2I5_OaiPwHDxDIA&_nc_ss=7e120&oh=00_AQIPKCkNNMRmJ0G6geMo88-P5rM-aqS8iyIfvrlsnTBIXg&oe=6A9C1DE8"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/770823164_1340387128259438_8543538130204652798_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sJUi2tn1taUQ7kNvwHgmZ0Q&_nc_oc=AdoJH0nBG5TndqpB6gmQXTrXhcxxD80i2z7Z4TpY_7mrJ9veUCR0k6HQmaNEOkzbQcM&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=KKZ55lAtVsw9sMRgoGQDOw&_nc_ss=7e120&oh=00_AQJPcNE7XMW5oAIKSE01WMQ-s-wGkwKLgUNCs27WD0nhLg&oe=6AA35E28"
 feedback_id: "ZmVlZGJhY2s6MTM0MDY3NjUyODIzMDQ5OA=="
 page_canonical_url: ""
 ---
 
 # 高盛全球投資研究部（Goldman Sachs Global Investment Research）與美國商務部發佈的最新預測數據，揭示了美國人工智慧相關支出的驚人擴張速度：
 
-原文連結: https://www.facebook.com/hsulylab/posts/pfbid03BK1wnoYiVTrDdGy18d8GKBXvAWEFWmjnwSfiJEzceB1m5B1UuV8YjU4Yp6ubzail
+原文連結: https://www.facebook.com/hsulylab/posts/pfbid038oXd1ZY5dqKzMi4hgV5NysNCjfwg12zkr2dH9856FEfZj21dmwHPswA9wVybtuwl
 
-![高盛全球投資研究部（Goldman Sachs Global Investment Research）與美國商務部發佈的最新預測數據，揭示了美國人工智慧相關支出的驚人擴張速度：](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/770823164_1340387128259438_8543538130204652798_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ogRuVc1_KpcQ7kNvwF90y3Z&_nc_oc=AdouWDHheqw_e0r37yMnFcrF9jEytBP7U_XhPFYpEP2zJcxzIrJM-uTMd6h-6hwSWTw&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=mXAYNEV2I5_OaiPwHDxDIA&_nc_ss=7e120&oh=00_AQIPKCkNNMRmJ0G6geMo88-P5rM-aqS8iyIfvrlsnTBIXg&oe=6A9C1DE8)
+![高盛全球投資研究部（Goldman Sachs Global Investment Research）與美國商務部發佈的最新預測數據，揭示了美國人工智慧相關支出的驚人擴張速度：](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/770823164_1340387128259438_8543538130204652798_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sJUi2tn1taUQ7kNvwHgmZ0Q&_nc_oc=AdoJH0nBG5TndqpB6gmQXTrXhcxxD80i2z7Z4TpY_7mrJ9veUCR0k6HQmaNEOkzbQcM&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=KKZ55lAtVsw9sMRgoGQDOw&_nc_ss=7e120&oh=00_AQJPcNE7XMW5oAIKSE01WMQ-s-wGkwKLgUNCs27WD0nhLg&oe=6AA35E28)
 高盛全球投資研究部（Goldman Sachs Global Investment Research）與美國商務部發佈的最新預測數據，揭示了美國人工智慧相關支出的驚人擴張速度：
 
 整體規模快速攀升：預計到 2026 年，美國人工智慧相關的年度總支出將達到將近 6,000 億美元，這一數字相當於美國國內生產毛額（GDP）的 2%。

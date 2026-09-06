@@ -1,25 +1,25 @@
 ---
 post_id: "1492479912914220"
 title: "「我早上還在拿它寫程式，結果中午就不能用了。」6月中，Anthropic的頂尖模型Claude Fable 5才剛推出，美國商務部發布一紙出口禁令，就讓AI服務突然中斷。"
-page_title: "商業周刊（商周.com）"
+page_title: ""
 requested_url: "https://www.facebook.com/bwnet.fans"
 final_url: "https://www.facebook.com/bwnet.fans"
-post_url: "https://www.facebook.com/bwnet.fans/posts/pfbid0vL7cxQVUAUv8sWQ9jVZX1MgAF8AGXWschzhvFJnkgXG5aWaPvueDuRrVY9HQ8fzol"
+post_url: "https://www.facebook.com/bwnet.fans/posts/pfbid0v9xcfGDjLoEGc5ccudrdVs3aKic7GJ3KwApnDTjd4Q3xWCPJt3PDzPLyKM7BNpJ3l"
 creation_time_utc: "2026-08-27T11:30:03+00:00"
-fetched_at_utc: "2026-09-04T06:47:49.731606+00:00"
+fetched_at_utc: "2026-09-06T15:06:54.047739+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/787974180_1492434719585406_8141798977210931521_n.jpg?stp=cp6_dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=S8DpeALTfxkQ7kNvwHWfzLa&_nc_oc=Adr8EfbG7SEDUEhQenphrrHVHXNipVxVHkZNmccRKSjED9d4aNJ0S9l937qgCmOKVDE&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=dtDTuRMrTVOoij3SP7T92g&_nc_ss=79100&oh=00_AQIT3JllasYn4JkoUGZNFCH0zE7WBJRIM21qDhnRWWKLUQ&oe=6AA01FEA"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/787974180_1492434719585406_8141798977210931521_n.jpg?stp=cp6_dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=S8DpeALTfxkQ7kNvwEtfJ3h&_nc_oc=Adp4Epk78ADCYnLnTh2Dp4qkPVzt2Wagw33J7ZdhmjbHocwVqu8fykoguO4QlLfR8hQ&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=0S8oEKhdmsWkoQ23hTdCDQ&_nc_ss=7e120&oh=00_AQK4-gfCn74KW2rfmsdVzcRVww4B_uCIEHM_4M7UZ7N4IQ&oe=6AA36BAA"
 feedback_id: "ZmVlZGJhY2s6MTQ5MjQ3OTkxMjkxNDIyMA=="
-page_canonical_url: "https://www.facebook.com/bwnet.fans/"
+page_canonical_url: ""
 ---
 
 # 「我早上還在拿它寫程式，結果中午就不能用了。」6月中，Anthropic的頂尖模型Claude Fable 5才剛推出，美國商務部發布一紙出口禁令，就讓AI服務突然中斷。
 
-原文連結: https://www.facebook.com/bwnet.fans/posts/pfbid0vL7cxQVUAUv8sWQ9jVZX1MgAF8AGXWschzhvFJnkgXG5aWaPvueDuRrVY9HQ8fzol
+原文連結: https://www.facebook.com/bwnet.fans/posts/pfbid0v9xcfGDjLoEGc5ccudrdVs3aKic7GJ3KwApnDTjd4Q3xWCPJt3PDzPLyKM7BNpJ3l
 
-![「我早上還在拿它寫程式，結果中午就不能用了。」6月中，Anthropic的頂尖模型Claude Fable 5才剛推出，美國商務部發布一紙出口禁令，就讓AI服務突然中斷。](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/787974180_1492434719585406_8141798977210931521_n.jpg?stp=cp6_dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=S8DpeALTfxkQ7kNvwHWfzLa&_nc_oc=Adr8EfbG7SEDUEhQenphrrHVHXNipVxVHkZNmccRKSjED9d4aNJ0S9l937qgCmOKVDE&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=dtDTuRMrTVOoij3SP7T92g&_nc_ss=79100&oh=00_AQIT3JllasYn4JkoUGZNFCH0zE7WBJRIM21qDhnRWWKLUQ&oe=6AA01FEA)
+![「我早上還在拿它寫程式，結果中午就不能用了。」6月中，Anthropic的頂尖模型Claude Fable 5才剛推出，美國商務部發布一紙出口禁令，就讓AI服務突然中斷。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/787974180_1492434719585406_8141798977210931521_n.jpg?stp=cp6_dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=S8DpeALTfxkQ7kNvwEtfJ3h&_nc_oc=Adp4Epk78ADCYnLnTh2Dp4qkPVzt2Wagw33J7ZdhmjbHocwVqu8fykoguO4QlLfR8hQ&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=0S8oEKhdmsWkoQ23hTdCDQ&_nc_ss=7e120&oh=00_AQK4-gfCn74KW2rfmsdVzcRVww4B_uCIEHM_4M7UZ7N4IQ&oe=6AA36BAA)
 「我早上還在拿它寫程式，結果中午就不能用了。」6月中，Anthropic的頂尖模型Claude Fable 5才剛推出，美國商務部發布一紙出口禁令，就讓AI服務突然中斷。
 
 一個疑問浮現在大家眼前：究竟是我在使用AI，還是AI支配了我的權力？

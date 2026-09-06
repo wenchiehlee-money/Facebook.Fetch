@@ -4,22 +4,22 @@ title: "Z世代重新愛上電影院，串流時代反而讓大銀幕復活。�
 page_title: ""
 requested_url: "https://www.facebook.com/yutinghaosfinance"
 final_url: "https://www.facebook.com/yutinghaosfinance"
-post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid0mJtSCUzpzAAyH8QicJM53m13oWestoeHtc1gsxB5Ya7698iznJ5LZQ1mNaxHLfsql"
+post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid02pp28nsPBCXfTcEh5pQxiSePJ8BDkZjywzjN5bJKGu7yfrXhsbTXFnE4dME6eHqFnl"
 creation_time_utc: "2026-08-14T16:27:01+00:00"
-fetched_at_utc: "2026-09-01T04:39:46.895032+00:00"
+fetched_at_utc: "2026-09-06T14:44:31.683647+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/774597464_1121165230474829_153291173708036254_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=V4uRrlzwqxYQ7kNvwEVls_9&_nc_oc=AdpIX6JFLnew-TW63R8LurxbUzrI8Ip37Wdyo-gF1MJnPlwl2egXK7BI0RQh2-2f7OU&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=VH0Pn3W6svRHA1QJAjjiSg&_nc_ss=7e120&oh=00_AQJIbvaDzCTOb3uPPxZ_eO9BmNni2r4V_KGzGntVifzFwQ&oe=6A9C3771"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/774597464_1121165230474829_153291173708036254_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zWG2MicblWgQ7kNvwFu69oa&_nc_oc=Adrht-GstG4sIM_CoHlgs1dMEggtHWGhVnXTJ6UrOJKwllr2JGb8kre9Pl9H18QVZck&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=NeXm5rKbQZfAE6CEd2olGA&_nc_ss=7e120&oh=00_AQI3DLWetTS0fmTc1zZX1AdP0XdfTe65dTA51sCldz9KUw&oe=6AA33F71"
 feedback_id: "ZmVlZGJhY2s6MTEyMTE2NTc2NzE0MTQ0Mg=="
 page_canonical_url: ""
 ---
 
 # Z世代重新愛上電影院，串流時代反而讓大銀幕復活。原本大家以為，Netflix、YouTube、TikTok崛起後，最先拋棄電影院的會是Z世代，結果完全相反。
 
-原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid0mJtSCUzpzAAyH8QicJM53m13oWestoeHtc1gsxB5Ya7698iznJ5LZQ1mNaxHLfsql
+原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid02pp28nsPBCXfTcEh5pQxiSePJ8BDkZjywzjN5bJKGu7yfrXhsbTXFnE4dME6eHqFnl
 
-![Z世代重新愛上電影院，串流時代反而讓大銀幕復活。原本大家以為，Netflix、YouTube、TikTok崛起後，最先拋棄電影院的會是Z世代，結果完全相反。](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/774597464_1121165230474829_153291173708036254_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=V4uRrlzwqxYQ7kNvwEVls_9&_nc_oc=AdpIX6JFLnew-TW63R8LurxbUzrI8Ip37Wdyo-gF1MJnPlwl2egXK7BI0RQh2-2f7OU&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=VH0Pn3W6svRHA1QJAjjiSg&_nc_ss=7e120&oh=00_AQJIbvaDzCTOb3uPPxZ_eO9BmNni2r4V_KGzGntVifzFwQ&oe=6A9C3771)
+![Z世代重新愛上電影院，串流時代反而讓大銀幕復活。原本大家以為，Netflix、YouTube、TikTok崛起後，最先拋棄電影院的會是Z世代，結果完全相反。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/774597464_1121165230474829_153291173708036254_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zWG2MicblWgQ7kNvwFu69oa&_nc_oc=Adrht-GstG4sIM_CoHlgs1dMEggtHWGhVnXTJ6UrOJKwllr2JGb8kre9Pl9H18QVZck&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=NeXm5rKbQZfAE6CEd2olGA&_nc_ss=7e120&oh=00_AQI3DLWetTS0fmTc1zZX1AdP0XdfTe65dTA51sCldz9KUw&oe=6AA33F71)
 Z世代重新愛上電影院，串流時代反而讓大銀幕復活。原本大家以為，Netflix、YouTube、TikTok崛起後，最先拋棄電影院的會是Z世代，結果完全相反。
 
 2025年美國接近90%的Z世代至少進過一次電影院，比例高於其他世代，平均一年看7次電影，相較之下，X世代約6.1次、嬰兒潮世代5.7次。年輕人甚至已經成為票房爆發的主要推手，例如2026年7月底上映的《蜘蛛人：嶄新之日》，北美首週末票房衝上3.6億美元，約三分之二觀眾介於18至34歲，全球累計票房更突破17億美元。

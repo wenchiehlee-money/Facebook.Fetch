@@ -4,22 +4,22 @@ title: "NVIDIA 是一家賣 GPU 的硬體公司。"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0LQN9qo7qSarXSJZfvMCwVRsTWkD6dS3B8skfhnTJHtsbgr95SQg8txBuRfYqZH9Vl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0LMrfX1spojAx9B6y1DHwkQSEbt1vjHW822Zja4eBPdRgpYzUAR8riLrtQ1LQikrKl&id=61573146584049"
 creation_time_utc: "2026-08-12T10:12:16+00:00"
-fetched_at_utc: "2026-09-01T04:41:25.294115+00:00"
+fetched_at_utc: "2026-09-06T14:48:37.057070+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/772535050_122193352604771552_4698824869254962499_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dwSmQBSkEjwQ7kNvwG97le4&_nc_oc=AdpzVg3-88CJZfAxKHenSHYac1cuppV9g4GNG5XSpOJTISjUOcHat38WIHDitfZ2AoI&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=NRqIqrbqoAsRHm-A6FWaeQ&_nc_ss=7e120&oh=00_AQI1cyRIojmfHWoJdqSkjQY9izUlH2AqV0kbUsx09sAFbQ&oe=6A9C11F5"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/772535050_122193352604771552_4698824869254962499_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vsF43X8gBdYQ7kNvwGCHyQw&_nc_oc=AdpuRxYtlAmrOfrKVrVekjbIsPkyK_rG3sL5GsT_gK7AR4lq0Ujw8kGll81cQgFXQ6U&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=caZF2ymNA0byMKsP7NrUag&_nc_ss=7e120&oh=00_AQJNOcr1fuH4OB9YFxU0AGdggf2jwZBJ6vCFEyu3qUbV8A&oe=6AA35235"
 feedback_id: "ZmVlZGJhY2s6MTIyMTkzMzUzMDkwNzcxNTUy"
 page_canonical_url: ""
 ---
 
 # NVIDIA 是一家賣 GPU 的硬體公司。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0LQN9qo7qSarXSJZfvMCwVRsTWkD6dS3B8skfhnTJHtsbgr95SQg8txBuRfYqZH9Vl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0LMrfX1spojAx9B6y1DHwkQSEbt1vjHW822Zja4eBPdRgpYzUAR8riLrtQ1LQikrKl&id=61573146584049
 
-![NVIDIA 是一家賣 GPU 的硬體公司。](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/772535050_122193352604771552_4698824869254962499_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dwSmQBSkEjwQ7kNvwG97le4&_nc_oc=AdpzVg3-88CJZfAxKHenSHYac1cuppV9g4GNG5XSpOJTISjUOcHat38WIHDitfZ2AoI&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=NRqIqrbqoAsRHm-A6FWaeQ&_nc_ss=7e120&oh=00_AQI1cyRIojmfHWoJdqSkjQY9izUlH2AqV0kbUsx09sAFbQ&oe=6A9C11F5)
+![NVIDIA 是一家賣 GPU 的硬體公司。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/772535050_122193352604771552_4698824869254962499_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vsF43X8gBdYQ7kNvwGCHyQw&_nc_oc=AdpuRxYtlAmrOfrKVrVekjbIsPkyK_rG3sL5GsT_gK7AR4lq0Ujw8kGll81cQgFXQ6U&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=caZF2ymNA0byMKsP7NrUag&_nc_ss=7e120&oh=00_AQJNOcr1fuH4OB9YFxU0AGdggf2jwZBJ6vCFEyu3qUbV8A&oe=6AA35235)
 NVIDIA 是一家賣 GPU 的硬體公司。
 ​
 但就在昨天（8月11日），它發布了自己開發的最新開源模型 Nemotron 3.5 Lightning。

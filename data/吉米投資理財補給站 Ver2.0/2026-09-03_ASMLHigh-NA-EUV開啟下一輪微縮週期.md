@@ -4,22 +4,22 @@ title: "🔬 ASML：High-NA EUV開啟下一輪微縮週期"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
 final_url: "https://www.facebook.com/profile.php?id=61565088683715"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0QYr75mxsELBTNPh7L1rJ7giNQWhRKWBEaBEMfryQsAu2rkSUSSNXwPgnHo2kAViFl&id=61565088683715"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02UE8oyJcxGEMSisSFmV1JLHsB5wqpEAMQu1SMvjSfAPxfTQ8LiStTwN6BGq8yJ9Lwl&id=61565088683715"
 creation_time_utc: "2026-09-03T01:43:19+00:00"
-fetched_at_utc: "2026-09-03T05:40:47.393584+00:00"
+fetched_at_utc: "2026-09-06T14:56:01.130088+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/793236047_122227069040502956_1087480313370258879_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ss_-tHcfgZAQ7kNvwHVleAc&_nc_oc=Adp27wJGFb-xMmGKecMLG2Nqah91pJv2GoKyV3___laudnn9-BbY3d7uoWvSJMFxKk4&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=tOv-9R5px7aoY2vbDkUmMA&_nc_ss=7e120&oh=00_AQKpSqAUk9MurtYdiEwLrnaUCAz_FeREHWMobo1PrLSxJw&oe=6A9ED872"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/793236047_122227069040502956_1087480313370258879_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=07FpvKDnF7QQ7kNvwHMKN7e&_nc_oc=AdpTMNGYIGiD_D620n_Qoh7xPOmaTw8KivFE4K89TZZ2IYjJyP4ndvEvQfcchAgx0pM&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=ej9tU9EVUmGVfD8JFM30ZQ&_nc_ss=7e120&oh=00_AQKxOIFP_r-pCntVAoz63EsJycKXEGMcN4v9kCCADRfKVg&oe=6AA33D72"
 feedback_id: "ZmVlZGJhY2s6MTIyMjI3MDY5MDc2NTAyOTU2"
 page_canonical_url: ""
 ---
 
 # 🔬 ASML：High-NA EUV開啟下一輪微縮週期
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0QYr75mxsELBTNPh7L1rJ7giNQWhRKWBEaBEMfryQsAu2rkSUSSNXwPgnHo2kAViFl&id=61565088683715
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02UE8oyJcxGEMSisSFmV1JLHsB5wqpEAMQu1SMvjSfAPxfTQ8LiStTwN6BGq8yJ9Lwl&id=61565088683715
 
-![🔬 ASML：High-NA EUV開啟下一輪微縮週期](https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/793236047_122227069040502956_1087480313370258879_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ss_-tHcfgZAQ7kNvwHVleAc&_nc_oc=Adp27wJGFb-xMmGKecMLG2Nqah91pJv2GoKyV3___laudnn9-BbY3d7uoWvSJMFxKk4&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=tOv-9R5px7aoY2vbDkUmMA&_nc_ss=7e120&oh=00_AQKpSqAUk9MurtYdiEwLrnaUCAz_FeREHWMobo1PrLSxJw&oe=6A9ED872)
+![🔬 ASML：High-NA EUV開啟下一輪微縮週期](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/793236047_122227069040502956_1087480313370258879_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=07FpvKDnF7QQ7kNvwHMKN7e&_nc_oc=AdpTMNGYIGiD_D620n_Qoh7xPOmaTw8KivFE4K89TZZ2IYjJyP4ndvEvQfcchAgx0pM&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=ej9tU9EVUmGVfD8JFM30ZQ&_nc_ss=7e120&oh=00_AQKxOIFP_r-pCntVAoz63EsJycKXEGMcN4v9kCCADRfKVg&oe=6AA33D72)
 🔬 ASML：High-NA EUV開啟下一輪微縮週期
 ⚙️ ASML掌握下一代光刻核心技術
 ▪ ASML是這條趨勢最直接的受益者。隨著先進邏輯與DRAM持續微縮，傳統0.33 NA EUV逐漸需要更多Double Patterning、Triple Patterning，而ASML的0.55 NA High-NA EUV能以更高解析度，在部分關鍵層用單次曝光取代多重曝光。
