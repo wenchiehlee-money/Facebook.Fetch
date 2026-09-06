@@ -34,7 +34,7 @@ POST_URL_PATTERNS = (
     re.compile(r"https://www\\.facebook\\.com/story\\.php\\?story_fbid=[^\"' <]+", re.IGNORECASE),
 )
 CHINESE_CHAR_RE = re.compile(r"[\u4e00-\u9fff]")
-MIN_CHINESE_CHARS = 80
+MIN_CHINESE_CHARS = 10
 
 
 

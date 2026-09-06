@@ -1,0 +1,26 @@
+{
+  "requested_url": "https://www.facebook.com/TrendForce.tw",
+  "final_url": "https://www.facebook.com/TrendForce.tw",
+  "fetched_at_utc": "2026-09-06T14:28:53.654994+00:00",
+  "page": {
+    "title": "TrendForce 集邦科技",
+    "description": "TrendForce 集邦科技。 16,079 個讚 · 119 人正在談論這個。集邦科技(TrendForce) 於2000年在台北成立，提供市場深入分析和產業諮詢服務",
+    "canonical_url": "https://www.facebook.com/TrendForce.tw/",
+    "image": "https://scontent-tpe5-1.xx.fbcdn.net/v/t39.30808-1/511990017_1127060862777671_2224147403469578986_n.jpg?stp=dst-jpg_tt6&cstp=mx1200x1200&ctp=s720x720&_nc_cat=102&ccb=1-7&_nc_sid=3ab345&_nc_ohc=vMLmpqqVejMQ7kNvwGVAAjn&_nc_oc=AdqJk8o0Q87gcTeYG0R9qkS4XHxEfFyNJJtQHlYI7dIHOtXdcnf7ufM1_9Q8PlWl_HM&_nc_zt=24&_nc_ht=scontent-tpe5-1.xx&_nc_gid=TZ3lZs8UR94XBdwMAyELCA&_nc_ss=7820f&oh=00_AQL_R4lDAwrXBDdHR2wELXqR1pYyOj3IpHjAYjtbUInNXg&oe=6AA34D7E",
+    "follower_count": "1.6 萬位追蹤者"
+  },
+  "checked_post_count": 0,
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
+  "removed_markdown_files": [],
+  "posts_directory": "data\\TrendForce 集邦科技",
+  "notes": [
+    "Facebook 公開頁面的 HTML 結構很常變動。",
+    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
+    "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
+    "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 80 字規則排除 3 篇貼文。"
+  ]
+}
