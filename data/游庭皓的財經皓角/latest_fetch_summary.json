@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-09-06T01:57:36.517923+00:00",
+  "fetched_at_utc": "2026-09-06T14:33:01.838522+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,17 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1141727938418558",
+    "1141726095085409",
+    "1141722935085725"
+  ],
+  "new_markdown_files": [
+    "data/游庭皓的財經皓角/2026-09-06_AI工作普及後真正的考驗是除了程式設計其他白領的使用量能不能跟上.md",
+    "data/游庭皓的財經皓角/2026-09-06_政治人物進入網紅時代英國新首相Andy-Burnham上任後平均每天發布超過一支TikTok也頻繁與YouTuber科普創作者與生活型網紅合作.md",
+    "data/游庭皓的財經皓角/2026-09-06_川普最愛的格鬥運動攻進中國UFC押注下一個姚明效應.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",
   "notes": [

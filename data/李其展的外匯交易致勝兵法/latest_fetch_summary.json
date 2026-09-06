@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/ForexStrategist",
   "final_url": "https://www.facebook.com/ForexStrategist",
-  "fetched_at_utc": "2026-09-06T01:58:06.035358+00:00",
+  "fetched_at_utc": "2026-09-06T14:33:30.252345+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1656617479157057",
-    "1656582492493889",
-    "1656502682501870"
+    "1657330489085756",
+    "1657212059097599",
+    "1657096845775787"
   ],
   "new_markdown_files": [
-    "data/李其展的外匯交易致勝兵法/2026-09-05_快看膩了美軍證實遭受攻擊後向伊朗油輪發射飛彈油價又要震盪.md",
-    "data/李其展的外匯交易致勝兵法/2026-09-05_Anthropic可能推遲IPO時間至10月中多一點時間拚營收嗎.md",
-    "data/李其展的外匯交易致勝兵法/2026-09-05_黃金暫時被月線壓住盡快站回4500上方有利續攻.md"
+    "data/李其展的外匯交易致勝兵法/2026-09-06_美元指數受阻100關卡ECB可望升息週五CPI帶來變數.md",
+    "data/李其展的外匯交易致勝兵法/2026-09-06_日幣週五小幅回貶維持155160區間整理格局.md",
+    "data/李其展的外匯交易致勝兵法/2026-09-06_AI快失控了嗎OpenAI證實智慧代理私自上網串通聯手規避清除.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/李其展的外匯交易致勝兵法",

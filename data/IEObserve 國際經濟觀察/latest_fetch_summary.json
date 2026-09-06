@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-09-06T01:58:19.716361+00:00",
+  "fetched_at_utc": "2026-09-06T14:33:41.960722+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 1,
   "new_post_count": 1,
   "new_post_ids": [
-    "1598962778255011"
+    "1599727064845249"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-09-05_鴻海8月營收年增51.98至9217億今年以來營收年增39.7至6.5兆.md"
+    "data/IEObserve 國際經濟觀察/2026-09-06_人類有史以來第一次65歲以上的人口數超越了5歲以下的人口數接下來很明顯也只會更慘.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

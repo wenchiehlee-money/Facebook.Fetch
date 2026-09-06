@@ -1,18 +1,10 @@
 {
   "requested_url": "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL",
-  "fetched_at_utc": "2026-09-06T01:57:29.593918+00:00",
+  "fetched_at_utc": "2026-09-06T14:32:55.869618+00:00",
   "list_title": "股票",
   "total_items": 10,
-  "new_post_count": 3,
-  "new_post_ids": [
-    "10227388722664011",
-    "10227388721503982",
-    "10227386891738239"
-  ],
-  "new_markdown_files": [
-    "data/我的珍藏-股票/2026-09-06_一兩年沒注意中系NB-ODM市佔率已達35.md",
-    "data/我的珍藏-股票/2026-09-06_Nvidia最近一次財報會議可參考的資訊量蠻多的其中我個人是個人覺得最有感覺的一點是.......md",
-    "data/我的珍藏-股票/2026-09-06_前幾天分享了一個把書變成-Agent-Skill的開源工具今天看到另一個很有意思的方向.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "posts_directory": "data/我的珍藏-股票"
 }
