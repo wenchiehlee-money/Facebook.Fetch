@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-09-05T06:50:28.472255+00:00",
+  "fetched_at_utc": "2026-09-06T01:58:47.145693+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 1,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1621363126013827"
-  ],
-  "new_markdown_files": [
-    "data/andrew.semis.techs/2026-09-05_在-SEMICON-Taiwan-2026-閉幕日台積電先進封裝品質與可靠性技術團隊針對次世代-HBM4--HBM4E-提出呼籲建議全球三大記憶體原廠SK-海力.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
   "notes": [

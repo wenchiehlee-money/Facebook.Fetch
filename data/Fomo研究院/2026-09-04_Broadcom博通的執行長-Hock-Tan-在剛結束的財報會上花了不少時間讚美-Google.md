@@ -4,22 +4,22 @@ title: "Broadcom（博通）的執行長 Hock Tan 在剛結束的財報會上，
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02qP7LuongpBt4EpEEbBYA1yrUi7vpwKZcdL4b7q1XqqLViuPdnAav4ZAv89ch6M3dl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0mMWdRzb89Eqpw6RvhDhevPit5Lmm1nLvRiniqSEi7NA4Nr4yGdHn4A3mHd3XWEaRl&id=61573146584049"
 creation_time_utc: "2026-09-04T11:50:17+00:00"
-fetched_at_utc: "2026-09-05T06:50:00.461208+00:00"
+fetched_at_utc: "2026-09-06T01:58:01.697906+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/794026448_122196079772771552_2854653764379214402_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_6YYSEY0nxoQ7kNvwFawtwA&_nc_oc=AdpULpy7_r1u90oKr3yXYR0pVYkmo0RA1teZsDS22KgHeA7kiuR1CHG6tEVSnbIxN1A&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Jwn0gqT2ItwZ5n1Fwbz1TA&_nc_ss=7e120&oh=00_AQJhKaoXbuWClrOv7b_lBG5iCKMdHxBhz8f9f2ExLIB1qQ&oe=6AA1A9E2"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/794026448_122196079772771552_2854653764379214402_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_6YYSEY0nxoQ7kNvwFz3Oq2&_nc_oc=AdovJdoucoHfIcd9kfTNtT-DfYKcyLNwOTuPxuIlHiXneL7k9DObAigOBF9L1t4aIuc&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=ANV98dhx_wW3cx85ot-dnA&_nc_ss=7e120&oh=00_AQJ67Vl44WEoV5JGwD0K417vXbnRADFVCYWiTr5MFQwLHg&oe=6AA28AE2"
 feedback_id: "ZmVlZGJhY2s6MTIyMTk2MDc5Nzk2NzcxNTUy"
 page_canonical_url: ""
 ---
 
 # Broadcom（博通）的執行長 Hock Tan 在剛結束的財報會上，花了不少時間讚美 Google。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02qP7LuongpBt4EpEEbBYA1yrUi7vpwKZcdL4b7q1XqqLViuPdnAav4ZAv89ch6M3dl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0mMWdRzb89Eqpw6RvhDhevPit5Lmm1nLvRiniqSEi7NA4Nr4yGdHn4A3mHd3XWEaRl&id=61573146584049
 
-![Broadcom（博通）的執行長 Hock Tan 在剛結束的財報會上，花了不少時間讚美 Google。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/794026448_122196079772771552_2854653764379214402_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_6YYSEY0nxoQ7kNvwFawtwA&_nc_oc=AdpULpy7_r1u90oKr3yXYR0pVYkmo0RA1teZsDS22KgHeA7kiuR1CHG6tEVSnbIxN1A&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Jwn0gqT2ItwZ5n1Fwbz1TA&_nc_ss=7e120&oh=00_AQJhKaoXbuWClrOv7b_lBG5iCKMdHxBhz8f9f2ExLIB1qQ&oe=6AA1A9E2)
+![Broadcom（博通）的執行長 Hock Tan 在剛結束的財報會上，花了不少時間讚美 Google。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/794026448_122196079772771552_2854653764379214402_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_6YYSEY0nxoQ7kNvwFz3Oq2&_nc_oc=AdovJdoucoHfIcd9kfTNtT-DfYKcyLNwOTuPxuIlHiXneL7k9DObAigOBF9L1t4aIuc&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=ANV98dhx_wW3cx85ot-dnA&_nc_ss=7e120&oh=00_AQJ67Vl44WEoV5JGwD0K417vXbnRADFVCYWiTr5MFQwLHg&oe=6AA28AE2)
 Broadcom（博通）的執行長 Hock Tan 在剛結束的財報會上，花了不少時間讚美 Google。
 ​
 他說，雙方的關係「從未如此緊密」。他強調，他們簽到了 2031 年的長期協議。

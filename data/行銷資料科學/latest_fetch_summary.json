@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-09-05T06:49:47.583555+00:00",
+  "fetched_at_utc": "2026-09-06T01:57:41.241278+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1373313818245593"
-  ],
-  "new_markdown_files": [
-    "data/行銷資料科學/2026-09-04_AI會傷害工作者的幸福感嗎德國20年追蹤資料的啟示.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",
   "notes": [
