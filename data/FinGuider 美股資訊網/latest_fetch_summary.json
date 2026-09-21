@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-09-06T14:45:39.780207+00:00",
+  "fetched_at_utc": "2026-09-21T13:48:30.208942+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,33 +9,23 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 59,
-  "new_post_count": 8,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1549384707231671",
-    "1548699310633544",
-    "1547832197386922",
-    "1546901657479976",
-    "1542068404629968",
-    "1535822605254548",
-    "1529088325927976",
-    "1525605526276256"
+    "1564400122396796",
+    "1561925449310930",
+    "1561636006006541"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-09-04_標普-500-指數將在-921-開盤前進行季度調整.md",
-    "data/FinGuider 美股資訊網/2026-09-04_輝達NVDA正計畫向-Thinking-Machines-LabTML投資-25-億美元大約佔最新一輪募資金額的一半投前估值至少-400-億美元.md",
-    "data/FinGuider 美股資訊網/2026-09-03_特斯拉TSLA將於台灣時間週五早上-545-舉辦-Cybercab-營運發布會.md",
-    "data/FinGuider 美股資訊網/2026-09-02_MongoDB-財報超預期為何仍重挫近-14.md",
-    "data/FinGuider 美股資訊網/2026-08-27_川普大力讚揚輝達NVDA優異的財報表現輝達財報後飆漲近-9單日市值增加-4420-億美元創歷史次高.md",
-    "data/FinGuider 美股資訊網/2026-08-21_馬斯克在-X-平台上再度畫下大餅目標是在-2030-年讓星艦Starship達到每天發射-30-次以上年化相當於約-1-萬次並樂觀預期-SpaceXSPCX未來.md",
-    "data/FinGuider 美股資訊網/2026-08-13_RedditRDDT將於-8-月-18-日被納入標普-500-指數取代-AvalonBay-CommunitiesAVBReddit-盤後飆升超過-10.md",
-    "data/FinGuider 美股資訊網/2026-08-10_快訊台積電-7-月營收公告.md"
+    "data/FinGuider 美股資訊網/2026-09-21_921925-美股投資看什麼.md",
+    "data/FinGuider 美股資訊網/2026-09-18_瑞士運動品牌-On-HoldingONON宣布進軍足球領域簽下姆巴佩Mbapp作為足球業務的代言人這對從少年時期就贊助姆總的-NikeNKE顯然是一大打擊.md",
+    "data/FinGuider 美股資訊網/2026-09-18_亞馬遜AMZN也回應了對於-AI-風險的爭論強調安全與進步並非二選一AI-模型應該要在經過充分測試確認可以安全使用後才發布這需要嚴格的測試和強而有力的防護措施.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 59 篇貼文。",
+    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-09-06T15:04:10.490164+00:00",
+  "fetched_at_utc": "2026-09-21T13:49:34.205351+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,39 +9,23 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 25,
-  "new_post_count": 11,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1596278465875988",
-    "1595169972653504",
-    "1593378329499335",
-    "1588608673309634",
-    "1587892506714584",
-    "1580989110738257",
-    "1575104541326714",
-    "1574955711341597",
-    "1574921394678362",
-    "1574216441415524",
-    "1572137274956774"
+    "1612884230882078",
+    "1609976041172897",
+    "1608870644616770"
   ],
   "new_markdown_files": [
-    "data/LinsanityStock/2026-09-04_最近台股一天大漲一天大跌確實不好操作要真的挑戰前高48218最快也要等到917聯準會開會之後才有機會預測FED這次仍是按兵不動不會升息.md",
-    "data/LinsanityStock/2026-09-03_這兩檔外資的目標價真敢給.md",
-    "data/LinsanityStock/2026-09-01_景碩表示終於還我公道了嗎.md",
-    "data/LinsanityStock/2026-08-27_昨天錄影分析了CPO矽光子與PCB兩個產業舉的兩檔個股做範例今天表現都還不錯.md",
-    "data/LinsanityStock/2026-08-26_damn不要才借走沒幾天就給我還券了啊我還想多賺點便當錢啊啊啊.md",
-    "data/LinsanityStock/2026-08-19_今天是七夕情人節如果還沒有另一半陪你的話還有股市賠你.md",
-    "data/LinsanityStock/2026-08-13_待會兩點半北部要降速演習路上人車也不能逗留只是好奇北部中部都有降速演習為何只有南部跳過去了.md",
-    "data/LinsanityStock/2026-08-13_00991A含這次配息的0.77元還原權值之後已經回到19元以上應該大家都開始賺錢了吧還有的人請1跟我分享一下你的喜悅.md",
-    "data/LinsanityStock/2026-08-13_MSCI最新的季度調整名單出爐了記憶體載板成為本次最大贏家.md",
-    "data/LinsanityStock/2026-08-12_偷偷告訴大家一件事把我跟郭董加起來除以2身家也是百億台幣起跳的.md",
-    "data/LinsanityStock/2026-08-10_不認同記憶體沒關係但不要傻傻去放空喔希望這位留言的同學一切平安不要別人賺錢的時候反而放空被了.md"
+    "data/LinsanityStock/2026-09-21_難怪今天早上想用電腦發文卻一直進不去FB.md",
+    "data/LinsanityStock/2026-09-18_盤勢符合預期解盤完畢.md",
+    "data/LinsanityStock/2026-09-17_該說的前兩天都有說了美國期中大選前差不多一個月會有個低點.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 25 篇貼文。",
+    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-09-06T15:03:46.438557+00:00",
+  "fetched_at_utc": "2026-09-21T13:49:30.281931+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,36 +9,25 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 23,
-  "new_post_count": 8,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1621632885986851",
-    "1621399086010231",
-    "1617039876446152",
-    "1616543593162447",
-    "1615418546608285",
-    "1612779490205524",
-    "1608935887256551",
-    "1605126657637474"
+    "1632126938270779",
+    "1631700111646795",
+    "1631371595012980"
   ],
   "new_markdown_files": [
-    "data/andrew.semis.techs/2026-09-05_別把高科技當提款機別把頂尖團隊努力的成果拿來公平分配別叫跑得快的人慢下來前部長離職後發表的好文分享.md",
-    "data/andrew.semis.techs/2026-09-05_看看前10名及倒數最後10名再觀察一下是不是分析師預估太樂觀或太悲觀最後就是股價是否已經提前反應.md",
-    "data/andrew.semis.techs/2026-08-30_當大部分數據中心-AI算力中心還在想辦法解決缺晶片關鍵材料電力的問題SpaceX-直接自造天然氣鍋輪機葉片及導翼來解決缺發電機問題老馬做事真的跟其他公司很不同哈.md",
-    "data/andrew.semis.techs/2026-08-30_三星延後1.4奈米製程量產至2029年我們分析產業鏈利弊及其結構性變化.md",
-    "data/andrew.semis.techs/2026-08-29_如果台積電-2027年資本開支暴增至1000億美元以上這對全球半導體設備產業鏈及台積電本身折舊毛利率capital-density-自由現金流及現金股利的影響為.md",
-    "data/andrew.semis.techs/2026-08-26_為了上市圈大錢感覺要IPO的公司對於TAM市場越估越誇張這就像我現在要買你的公司但你跑來告訴我10年之後你公司值多少要我出這個價格你才賣真的很離譜.md",
-    "data/andrew.semis.techs/2026-08-21_是時候把部分資金轉向谷歌-TPU-算力中心產業鏈了電子時報AI晶片產業預測的3個-implications.md",
-    "data/andrew.semis.techs/2026-08-16_連台灣都沒貨不知道-3Q26-全球銷售會不會超過市場預期還是飢餓行銷活動不懂的是Tesla沒推新車兩個舊車型怎麼越賣越好.md"
+    "data/andrew.semis.techs/2026-09-17_Nebius-101-全面調漲-Nvidia-AI-GPUCPUMemory-租用價格我們認為短期市場價值將從賣-tokens-的大語言專家語言模型公司轉到-A.md",
+    "data/andrew.semis.techs/2026-09-17_CPOCo-Packaged-Optics共封裝光學讓主機板-PCB-的銅箔基板CCL等級得以從極低損耗的-M8--M9Extreme-Low-Loss-大幅降.md",
+    "data/andrew.semis.techs/2026-09-17_據路透社報導Banks-provide-22-billion-chip-loan-to-Blackstone-Alphabet-AI-cloud-venture.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 24 篇貼文。",
+    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

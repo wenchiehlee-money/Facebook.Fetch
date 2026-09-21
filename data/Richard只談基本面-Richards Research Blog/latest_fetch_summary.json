@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-09-06T14:51:09.070252+00:00",
+  "fetched_at_utc": "2026-09-21T13:48:59.099169+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,30 +9,25 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 37,
-  "new_post_count": 5,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1602335094916524",
-    "1602278581588842",
-    "1602266811590019",
-    "1602055534944480",
-    "1591825162634184"
+    "1611766657306701",
+    "1608418394308194",
+    "1607538424396191"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-09-04_晶片封裝內的記憶體池.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-09-04_一兩年沒注意中系NB-ODM市佔率已達35.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-09-04_1.隔了幾年沒看手機AMOLED還是on-cellTFT還是in-cell沒變.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-09-04_Nvidia最近一次財報會議可參考的資訊量蠻多的其中我個人是個人覺得最有感覺的一點是.......md",
-    "data/Richard只談基本面-Richards Research Blog/2026-08-23_英諾賽科天科合達天岳先進.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-09-15_沉默的冠軍產業-IC通路業.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-09-11_Memory-module廠毛利率試算.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-09-10_這個大局的規模非常重要IDC的Global-DataSphere預測2026年全球將產生274-zettabytes的資料到2030年將成長至超過718-zet.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 40 篇貼文。",
+    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 3 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }
