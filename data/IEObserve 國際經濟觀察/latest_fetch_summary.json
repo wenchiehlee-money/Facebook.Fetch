@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-09-21T13:49:03.677395+00:00",
+  "fetched_at_utc": "2026-09-22T06:03:50.243404+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,17 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 2,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1612524350232187",
-    "1612408063577149",
-    "1612385486912740"
+    "1613007820183840",
+    "1612936073524348"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-09-21_蠻有趣的除了半導體以外比特幣也暴拉噴出了這波應該軋的空軍措手不及.md",
-    "data/IEObserve 國際經濟觀察/2026-09-21_想不到還有格陵蘭概念股週末達成deal週一採礦跟能源都暴漲.md",
-    "data/IEObserve 國際經濟觀察/2026-09-21_Muse在加拿大開通後馬上就攻上了排行榜第一基本上很有可能開一個市場就攻一個好用的agent會很快獲得用戶認可Grok-bot也是如此而Meta有很強的通路優勢.md"
+    "data/IEObserve 國際經濟觀察/2026-09-22_Amazon封掉Meta的Muse和Meta有深度合作的Shopify頂上股價也暴拉一波.md",
+    "data/IEObserve 國際經濟觀察/2026-09-22_這波大漲的主因是台灣人用不到的產品美加限定的Muse只能隔靴搔癢感受X上的熱度所以會不懂在噴什麼.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",
@@ -28,6 +26,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 1 篇貼文。"
   ]
 }

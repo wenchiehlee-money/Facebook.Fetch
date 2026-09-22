@@ -1,20 +1,10 @@
 {
   "requested_url": "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL",
-  "fetched_at_utc": "2026-09-21T13:48:15.494722+00:00",
+  "fetched_at_utc": "2026-09-22T06:03:09.152278+00:00",
   "list_title": "股票",
   "total_items": 10,
-  "new_post_count": 4,
-  "new_post_ids": [
-    "10227477723248970",
-    "10227446162579973",
-    "10227446160019909",
-    "10227446100898431"
-  ],
-  "new_markdown_files": [
-    "data/我的珍藏-股票/2026-09-21_從最新一期的TrendForce供應鏈雷達圖表結合近期市場數據的更新我們可以看到一個截然不同的結構真相.md",
-    "data/我的珍藏-股票/2026-09-21_2026-年第二季全球晶圓代工前十大業者營收排名資料來源TrendForce20262Q26-全球前十大晶圓代工廠營收排名202699發布.md",
-    "data/我的珍藏-股票/2026-09-21_2026Q2全球前十大晶圓代工廠市佔率台積電-72.5.md",
-    "data/我的珍藏-股票/2026-09-21_輝達一家吃下前十大-64AMD-擠下高通升上第三.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "posts_directory": "data/我的珍藏-股票"
 }

@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
 post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0pmr2jycxhBuCzMFfHZn4ngQDpvT1XqmPhq5MXv3JiKtfJoSMFVsGNAxhAiGJJ8wMl"
 creation_time_utc: "2026-09-20T23:38:02+00:00"
-fetched_at_utc: "2026-09-21T13:48:34.276640+00:00"
+fetched_at_utc: "2026-09-22T06:03:25.579631+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/818654713_1509802647619797_4747453464652398515_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OR-YT2PnaXAQ7kNvwE4PQsA&_nc_oc=AdqtuEaRiWZoiYaAp8cAFPZRap-pSo1DUbI_K-rMzv1eQElshlQ_1bjMN_kCm1o9wxs&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=KuUwtg1WbDbfKZ-gwpuxMA&_nc_ss=7e120&oh=00_AQKG-ri30JhWu-8vdMv7QbHDelX3mose0JsZ2cS_xAjKQQ&oe=6AB71424"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/818654713_1509802647619797_4747453464652398515_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OR-YT2PnaXAQ7kNvwEpmWMF&_nc_oc=AdpyH88BY6BT8LKCirPPCwVVSz0Xn4VdswUXMxgJBzpOopohpIzfXbUPNnuA40F1Bwk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=VVZf_1pLogjptzJHOJS2gA&_nc_ss=7e120&oh=00_AQIR5684hXtxH1N_eOeWXUYqgcwI8aRJrVNLoS_KCgXUnw&oe=6AB7F524"
 feedback_id: "ZmVlZGJhY2s6MTUxMDExNTQ5NDI1NTE3OQ=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0pmr2jycxhBuCzMFfHZn4ngQDpvT1XqmPhq5MXv3JiKtfJoSMFVsGNAxhAiGJJ8wMl
 
-![美股代號VWO的Vanguard FTSE Emerging Markets ETF於2005年三月4日成立。追蹤FTSE Emerging Markets All Cap China A Inclusion Index。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/818654713_1509802647619797_4747453464652398515_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OR-YT2PnaXAQ7kNvwE4PQsA&_nc_oc=AdqtuEaRiWZoiYaAp8cAFPZRap-pSo1DUbI_K-rMzv1eQElshlQ_1bjMN_kCm1o9wxs&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=KuUwtg1WbDbfKZ-gwpuxMA&_nc_ss=7e120&oh=00_AQKG-ri30JhWu-8vdMv7QbHDelX3mose0JsZ2cS_xAjKQQ&oe=6AB71424)
+![美股代號VWO的Vanguard FTSE Emerging Markets ETF於2005年三月4日成立。追蹤FTSE Emerging Markets All Cap China A Inclusion Index。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/818654713_1509802647619797_4747453464652398515_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OR-YT2PnaXAQ7kNvwEpmWMF&_nc_oc=AdpyH88BY6BT8LKCirPPCwVVSz0Xn4VdswUXMxgJBzpOopohpIzfXbUPNnuA40F1Bwk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=VVZf_1pLogjptzJHOJS2gA&_nc_ss=7e120&oh=00_AQIR5684hXtxH1N_eOeWXUYqgcwI8aRJrVNLoS_KCgXUnw&oe=6AB7F524)
 美股代號VWO的Vanguard FTSE Emerging Markets ETF於2005年三月4日成立。追蹤FTSE Emerging Markets All Cap China A Inclusion Index。
 
 VWO原先追蹤的是FTSE Emerging Markets Index。2015，Vanguard將VWO追蹤的指數更換為目前使用的FTSE Emerging Markets All Cap China A Inclusion Index。

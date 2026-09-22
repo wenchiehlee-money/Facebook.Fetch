@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/iqvalue",
   "final_url": "https://www.facebook.com/iqvalue",
-  "fetched_at_utc": "2026-09-21T13:49:25.824811+00:00",
+  "fetched_at_utc": "2026-09-22T06:04:14.390476+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1543694741105637",
-    "1542258317915946",
-    "1539168941558217"
+    "1544087711066340"
   ],
   "new_markdown_files": [
-    "data/洪鑑穩 帶你挖好股/2026-09-21_黃金真的會衝上5000美元嗎.md",
-    "data/洪鑑穩 帶你挖好股/2026-09-20_美國人還在花錢消費力比想像中更強.md",
-    "data/洪鑑穩 帶你挖好股/2026-09-16_最準傳聲筒-Nick-Timiraos-認為不會只升一次.md"
+    "data/洪鑑穩 帶你挖好股/2026-09-21_台股上60000點.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/洪鑑穩 帶你挖好股",

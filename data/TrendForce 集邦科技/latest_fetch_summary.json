@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-09-21T13:49:43.140509+00:00",
+  "fetched_at_utc": "2026-09-22T06:04:33.202405+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,17 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
-  "new_post_ids": [
-    "1499030388914048",
-    "1499006445583109",
-    "1497239059093181"
-  ],
-  "new_markdown_files": [
-    "data/TrendForce 集邦科技/2026-09-21_AI-需求太旺排擠電視面板材料產能預估-2026-年第四季面板總成本將季增-4-7但需求卻面臨衰退TrendForce-分析面板廠迎雙重壓力三大廠聯手出招應對h.md",
-    "data/TrendForce 集邦科技/2026-09-21_美系雲端大廠-Enterprise-SSD-拉貨力道增強過去兩週需求上修尤其-QLC-產品成長動能最為強勁滲透率持續提升TrendForce-分析-AI-儲存市.md",
-    "data/TrendForce 集邦科技/2026-09-19_AI-需求旺-村田製作所大膽評估擴增-MLCC-產能.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",
   "notes": [

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-09-21T13:48:59.099169+00:00",
+  "fetched_at_utc": "2026-09-22T06:03:46.750319+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1611766657306701",
-    "1608418394308194",
-    "1607538424396191"
+    "1617393816743985",
+    "1616888676794499"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-09-15_沉默的冠軍產業-IC通路業.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-09-11_Memory-module廠毛利率試算.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-09-10_這個大局的規模非常重要IDC的Global-DataSphere預測2026年全球將產生274-zettabytes的資料到2030年將成長至超過718-zet.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-09-22_TrendForce研究顯示過往兩周以來美系雲端業者對Enterprise-SSD需求上調主要原因在於各大CSP正在加速擴大Enterprise-SSD的部署規.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-09-21_1.-報導提到三大廠-首度同步發函-漲價.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",

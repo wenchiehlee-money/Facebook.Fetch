@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-09-21T13:48:46.353468+00:00",
+  "fetched_at_utc": "2026-09-22T06:03:35.949952+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "122198055380771552",
-    "122197785956771552",
-    "122197747556771552"
+    "122198163926771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-09-21_當大家都在談-AI-泡沫什麼時候會破滅Howard-Marks-反而認為我們應該要有面對未知的勇氣.md",
-    "data/Fomo研究院/2026-09-19_債市給了Fed最後通牒你加或我們替你加.md",
-    "data/Fomo研究院/2026-09-19_升息--市場要跌可以說是很多人的肌肉記憶.md"
+    "data/Fomo研究院/2026-09-22_有時候投資就是要尋找不對稱的機會.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

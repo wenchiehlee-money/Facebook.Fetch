@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-09-21T13:48:30.208942+00:00",
+  "fetched_at_utc": "2026-09-22T06:03:21.659461+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1564400122396796",
-    "1561925449310930",
-    "1561636006006541"
+    "1565140768989398"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-09-21_921925-美股投資看什麼.md",
-    "data/FinGuider 美股資訊網/2026-09-18_瑞士運動品牌-On-HoldingONON宣布進軍足球領域簽下姆巴佩Mbapp作為足球業務的代言人這對從少年時期就贊助姆總的-NikeNKE顯然是一大打擊.md",
-    "data/FinGuider 美股資訊網/2026-09-18_亞馬遜AMZN也回應了對於-AI-風險的爭論強調安全與進步並非二選一AI-模型應該要在經過充分測試確認可以安全使用後才發布這需要嚴格的測試和強而有力的防護措施.md"
+    "data/FinGuider 美股資訊網/2026-09-22_AI-Agent-大戰開打Meta-Muse-爆紅亞馬遜出手封鎖.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

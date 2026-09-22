@@ -1,11 +1,12 @@
 # Facebook 貼文索引
 
 - 頁面: 
-- 抓取時間: 2026-09-21T13:48:34.276640+00:00
-- 已收錄貼文數量: 351
+- 抓取時間: 2026-09-22T06:03:25.579631+00:00
+- 已收錄貼文數量: 352
 
 ## 文章列表
 
+- `2026-09-21` [美國聯準會在2023七月升息0.25%，將目標利率定在5.25%-5.50%，是近年目標利率的高點。](2026-09-21_美國聯準會在2023七月升息0.25將目標利率定在5.25-5.50是近年目標利率的高點.md)
 - `2026-09-20` [美股代號VWO的Vanguard FTSE Emerging Markets ETF於2005年三月4日成立。追蹤FTSE Emerging Markets All Cap China A Inclusion Index。](2026-09-20_美股代號VWO的Vanguard-FTSE-Emerging-Markets-ETF於2005年三月4日成立追蹤FTSE-Emerging-Markets-Al.md)
 - `2026-09-19` [The Future for Investors的作者是Jeremy Siegel，他也是Stocks for the Long Run的作者](2026-09-19_The-Future-for-Investors的作者是Jeremy-Siegel他也是Stocks-for-the-Long-Run的作者.md)
 - `2026-09-18` [自1993美國當地第一支成功的ETF發行以來，到今天，美國已有超過四千支的ETF，管理13兆美金以上的資產價值，成為許多投資人使用的工具。](2026-09-18_自1993美國當地第一支成功的ETF發行以來到今天美國已有超過四千支的ETF管理13兆美金以上的資產價值成為許多投資人使用的工具.md)

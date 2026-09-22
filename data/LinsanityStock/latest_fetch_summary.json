@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-09-21T13:49:34.205351+00:00",
+  "fetched_at_utc": "2026-09-22T06:04:23.265887+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1612884230882078",
-    "1609976041172897",
-    "1608870644616770"
+    "1613774770793024"
   ],
   "new_markdown_files": [
-    "data/LinsanityStock/2026-09-21_難怪今天早上想用電腦發文卻一直進不去FB.md",
-    "data/LinsanityStock/2026-09-18_盤勢符合預期解盤完畢.md",
-    "data/LinsanityStock/2026-09-17_該說的前兩天都有說了美國期中大選前差不多一個月會有個低點.md"
+    "data/LinsanityStock/2026-09-22_台股今天創歷史新高了驚不驚喜意不意外.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",

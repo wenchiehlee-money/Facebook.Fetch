@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-09-21T13:48:26.597192+00:00",
+  "fetched_at_utc": "2026-09-22T06:03:18.619089+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,17 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
-  "new_post_ids": [
-    "1384967833746858",
-    "1383400870570221",
-    "1382105730699735"
-  ],
-  "new_markdown_files": [
-    "data/行銷資料科學/2026-09-18_你的-PPT-不好看可能不是因為你不會設計.md",
-    "data/行銷資料科學/2026-09-16_從AI到AI看懂AI時代的新工作.md",
-    "data/行銷資料科學/2026-09-15_免費經濟部--商研院從0到1打造AI數位客服員工.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",
   "notes": [

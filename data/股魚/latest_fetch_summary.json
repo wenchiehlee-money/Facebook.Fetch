@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-09-21T13:48:38.124922+00:00",
+  "fetched_at_utc": "2026-09-22T06:03:29.266649+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1548106750688742",
-    "1547923677373716",
-    "1547719774060773"
+    "1551632483669502",
+    "1551252277040856"
   ],
   "new_markdown_files": [
-    "data/股魚/2026-09-18_群益優選非投等債00953B免稅債息來囉這次年化殖利率高達-8.4.md",
-    "data/股魚/2026-09-18_金融股漲多不敢追怕買在高點睡不著教你用這5檔金融ETF無腦佈局最省事.md",
-    "data/股魚/2026-09-17_不確定因素散去債券殖利率全面走跌各位債蛙迎來苦盡甘來的感覺.md"
+    "data/股魚/2026-09-22_市場越過之前的台股高點-48218點前波高點越過則上方萬里無雲各位是不是又開始期待50000點的到來.md",
+    "data/股魚/2026-09-21_我的天啊這是科學園區的稼動率危機了吧政府單位應成立緊急應變小組來面對機台上放一包綠色乖乖機台就會乖乖這是園區的信仰也是玄學.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",

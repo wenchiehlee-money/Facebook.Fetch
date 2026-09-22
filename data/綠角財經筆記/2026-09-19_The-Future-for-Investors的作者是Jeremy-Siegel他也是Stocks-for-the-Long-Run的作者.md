@@ -4,22 +4,22 @@ title: "The Future for Investors的作者是Jeremy Siegel，他也是Stocks for 
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0tgnSmtKY1FD2qU4ikui8D1MhJNeHmw9RGHiWToCTYGEb5xqUKfQwThsJDnMpHyzwl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02xYE9xZFMrpJLmJ5AxnbjPMLixY16tZ6o8xXptaazHgCzfYBLRb9NL6Jc4v6ZY3xql"
 creation_time_utc: "2026-09-19T23:41:26+00:00"
-fetched_at_utc: "2026-09-21T13:48:34.276640+00:00"
+fetched_at_utc: "2026-09-22T06:03:25.579631+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/796996408_1509299081003487_3285830874399576479_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yxjk2rXclgYQ7kNvwFICypp&_nc_oc=AdrQHdTJtIfHUogDjDy3llERo6W_8XVYGIBUDr3cwvjmh9TfHG4L1_Vax-EsT6o6Q54&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=KuUwtg1WbDbfKZ-gwpuxMA&_nc_ss=7e120&oh=00_AQIt_GxT3ecoLnioAS_WSIkBoUYi5wriQr6ocmok2sm5gA&oe=6AB721CE"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/796996408_1509299081003487_3285830874399576479_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yxjk2rXclgYQ7kNvwEdBZI5&_nc_oc=AdrFKxjLdSBo5frw9HsFjHhUqBRhoUCndHoUEskeqxNvgcPmkS_4N0IYhwmPIg0MfCk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=VVZf_1pLogjptzJHOJS2gA&_nc_ss=7e120&oh=00_AQIMGHBK7NGd38AEz7AodW8o0OZIRbUhN0hC3tC5GEik0Q&oe=6AB802CE"
 feedback_id: "ZmVlZGJhY2s6MTUwOTI5OTM0MTAwMzQ2MQ=="
 page_canonical_url: ""
 ---
 
 # The Future for Investors的作者是Jeremy Siegel，他也是Stocks for the Long Run的作者
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0tgnSmtKY1FD2qU4ikui8D1MhJNeHmw9RGHiWToCTYGEb5xqUKfQwThsJDnMpHyzwl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02xYE9xZFMrpJLmJ5AxnbjPMLixY16tZ6o8xXptaazHgCzfYBLRb9NL6Jc4v6ZY3xql
 
-![The Future for Investors的作者是Jeremy Siegel，他也是Stocks for the Long Run的作者](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/796996408_1509299081003487_3285830874399576479_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yxjk2rXclgYQ7kNvwFICypp&_nc_oc=AdrQHdTJtIfHUogDjDy3llERo6W_8XVYGIBUDr3cwvjmh9TfHG4L1_Vax-EsT6o6Q54&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=KuUwtg1WbDbfKZ-gwpuxMA&_nc_ss=7e120&oh=00_AQIt_GxT3ecoLnioAS_WSIkBoUYi5wriQr6ocmok2sm5gA&oe=6AB721CE)
+![The Future for Investors的作者是Jeremy Siegel，他也是Stocks for the Long Run的作者](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/796996408_1509299081003487_3285830874399576479_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yxjk2rXclgYQ7kNvwEdBZI5&_nc_oc=AdrFKxjLdSBo5frw9HsFjHhUqBRhoUCndHoUEskeqxNvgcPmkS_4N0IYhwmPIg0MfCk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=VVZf_1pLogjptzJHOJS2gA&_nc_ss=7e120&oh=00_AQIMGHBK7NGd38AEz7AodW8o0OZIRbUhN0hC3tC5GEik0Q&oe=6AB802CE)
 The Future for Investors的作者是Jeremy Siegel，他也是Stocks for the Long Run的作者
 
 這本書的內容可以分成三個部份，分別是成長陷阱、股利的重要性與美國嬰兒潮進入退休時的因應之道。

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-09-21T13:49:07.092776+00:00",
+  "fetched_at_utc": "2026-09-22T06:03:53.269141+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122229361970502956",
-    "122229353624502956",
-    "122229216452502956"
+    "122229424940502956",
+    "122229423776502956",
+    "122229421850502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-09-21_如果有人美股帳戶創新高一定要告訴小編因為小編還要再加油-能力不足R-編編還沒到.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-09-21_市場現在真正關注的是-AI-高電流密度供電需求快速成長後VICR-能不能透過-Fab-2Fab-3IP-授權外部製造夥伴把目前的產能瓶頸轉化成更大的營收成長空間.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-09-20_Fed升息金融股別只看NIM-淨利差真正關鍵在這3件事.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-09-21_VICR.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-09-21_我可是以壓倒性的優勢贏得選舉我以壓倒性優勢贏得了大選我做了很多偉大的事情真的做了很多很多偉大的事情.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-09-21_台灣CPU供應鏈廠商.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",

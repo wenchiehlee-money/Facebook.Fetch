@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-09-21T13:48:34.276640+00:00",
+  "fetched_at_utc": "2026-09-22T06:03:25.579631+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1510115494255179",
-    "1509299341003461",
-    "1508464754420253"
+    "1510944454172283"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-09-20_美股代號VWO的Vanguard-FTSE-Emerging-Markets-ETF於2005年三月4日成立追蹤FTSE-Emerging-Markets-Al.md",
-    "data/綠角財經筆記/2026-09-19_The-Future-for-Investors的作者是Jeremy-Siegel他也是Stocks-for-the-Long-Run的作者.md",
-    "data/綠角財經筆記/2026-09-18_自1993美國當地第一支成功的ETF發行以來到今天美國已有超過四千支的ETF管理13兆美金以上的資產價值成為許多投資人使用的工具.md"
+    "data/綠角財經筆記/2026-09-21_美國聯準會在2023七月升息0.25將目標利率定在5.25-5.50是近年目標利率的高點.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

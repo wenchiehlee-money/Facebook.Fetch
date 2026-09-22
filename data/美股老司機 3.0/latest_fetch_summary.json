@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-09-21T13:49:10.407458+00:00",
+  "fetched_at_utc": "2026-09-22T06:03:56.426764+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122203471082486922",
-    "122203442894486922",
-    "122203440608486922"
+    "122203569092486922",
+    "122203562642486922",
+    "122203526018486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-09-21_本週展望.md",
-    "data/美股老司機 3.0/2026-09-21_週日晚開心.md",
-    "data/美股老司機 3.0/2026-09-21_蛛絲馬跡.md"
+    "data/美股老司機 3.0/2026-09-22_1970-年後出生的真的恐怖.md",
+    "data/美股老司機 3.0/2026-09-22_有趣的知識.md",
+    "data/美股老司機 3.0/2026-09-21_921.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

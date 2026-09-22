@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/dextermchang",
   "final_url": "https://www.facebook.com/dextermchang",
-  "fetched_at_utc": "2026-09-21T13:48:18.666661+00:00",
+  "fetched_at_utc": "2026-09-22T06:03:11.748072+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "122140334979207208",
-    "122140055853207208",
-    "122139821199207208"
+    "122140519647207208"
   ],
   "new_markdown_files": [
-    "data/大會計師 張明輝/2026-09-21_為什麼-台積電2奈米-新產能開出來毛利率會下降.md",
-    "data/大會計師 張明輝/2026-09-20_負債也有好壞之分合約負債-是最優等的負債.md",
-    "data/大會計師 張明輝/2026-09-18_台積電最大成本不是人工是-折舊.md"
+    "data/大會計師 張明輝/2026-09-22_AI時代愈確定投資股票愈要小心因為最後贏家是懂得-守住獲利-的人.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/大會計師 張明輝",

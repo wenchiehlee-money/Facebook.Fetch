@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-09-21T13:48:22.269217+00:00",
+  "fetched_at_utc": "2026-09-22T06:03:15.162868+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1155150707076281",
-    "1155149260409759",
-    "1155147513743267"
+    "1572033290618247"
   ],
   "new_markdown_files": [
-    "data/游庭皓的財經皓角/2026-09-21_川普要在華府蓋250英尺凱旋門還要變成無人機與狙擊手軍事基地他同意把凱旋門改造成高規格軍事設施屋頂與廣場將部署無人機及狙擊手內部還要儲存大量狙擊彈藥.md",
-    "data/游庭皓的財經皓角/2026-09-21_隨著AI資料中心與基礎建設支出持續擴張多家科技巨頭未來幾年的負債槓桿將明顯上升Amazo槓桿倍數預估從2026年的約1.3倍升至2027年的約1.6倍已突破約1.md",
-    "data/游庭皓的財經皓角/2026-09-21_台灣2027年將進一步把政府資源集中到半導體與人工智慧五大信賴產業預算合計362億元比前一年增加66億元年增22.3.md"
+    "data/游庭皓的財經皓角/2026-09-22_2026922二那指創新高個股沒跟上美股重新押注AI-不怕高利率了早晨財經速解讀.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",

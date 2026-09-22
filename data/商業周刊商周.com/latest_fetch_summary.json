@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-09-21T13:49:38.109099+00:00",
+  "fetched_at_utc": "2026-09-22T06:04:27.502553+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1516665370495674",
-    "1516623043833240",
-    "1516585557170322"
+    "1517336703761874",
+    "1517255497103328",
+    "1513723787456499"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-09-21_退休後住進養生村也能回大學念碩士.md",
-    "data/商業周刊商周.com/2026-09-21_懂今天看商周今天5件事.md",
-    "data/商業周刊商周.com/2026-09-21_在這波外送專法之亂中面對消費者抱怨聲浪為什麼Uber-Eats仍大膽漲價.md"
+    "data/商業周刊商周.com/2026-09-22_新北板橋大仁路上一家OK超商換了招牌紅白色的舊LOGO被拆下來換上藍白色系新圖案像一條魚下面寫著一排英文字FrozenFreshFun冷凍新鮮有趣.md",
+    "data/商業周刊商周.com/2026-09-22_靠技術稱霸全球德國隱形冠軍卻被中國超車曾讓它成功的模式為何成了弱點.md",
+    "data/商業周刊商周.com/2026-09-22_押注毫米波12年稜研科技如何把難題變成競爭門檻靠樂高式相控陣列天線模組打入國際大廠.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

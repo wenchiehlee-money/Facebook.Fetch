@@ -4,22 +4,22 @@ title: "當大家都在談 AI 泡沫什麼時候會破滅，Howard Marks 反而�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02c8cDgonrM91NHbS4wqArGH7oUqi3rZ4h6MQqAaQbdeoW4wEZD9eNqJt92u2hU7SRl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0Yay2meAVW5gxSxRheoH4YHHWLgmNaAMtEfkNfGinTn4msZMwHxHCgstETJaHxiuDl&id=61573146584049"
 creation_time_utc: "2026-09-21T11:32:02+00:00"
-fetched_at_utc: "2026-09-21T13:48:46.353468+00:00"
+fetched_at_utc: "2026-09-22T06:03:35.949952+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/795538869_122198055284771552_4761040011966807659_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UGmpVX_G0u8Q7kNvwHFoJ8D&_nc_oc=AdpDkD5ic7nFrCpkhpZb22pNoejrMO2NIyXUHkV4hJzJPhMIy_YSKUTlnzb9EI2VjMA&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=Hngcy18c8BO5h8EA7NMyOg&_nc_ss=7e120&oh=00_AQIsul3owmyzmp_FflQq56auZg6KOAD0k-__Tt-By1wTUw&oe=6AB6FCDB"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/795538869_122198055284771552_4761040011966807659_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UGmpVX_G0u8Q7kNvwEOx5d4&_nc_oc=AdrRTrJLKz1T3qQolRudWOQtzm4kYaR0bSslFMbLiSdRFcSueAOx1ey7As54Zi2M0Jk&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=dx0DPTf_CcDRc4bbuVorYg&_nc_ss=7e120&oh=00_AQJR5My3IXhp2PbffqHKEJfTcrRCRPZOfjY38gUPE6rK_w&oe=6AB7DDDB"
 feedback_id: "ZmVlZGJhY2s6MTIyMTk4MDU1MzgwNzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 當大家都在談 AI 泡沫什麼時候會破滅，Howard Marks 反而認為，我們應該要有面對「未知」的勇氣。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02c8cDgonrM91NHbS4wqArGH7oUqi3rZ4h6MQqAaQbdeoW4wEZD9eNqJt92u2hU7SRl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0Yay2meAVW5gxSxRheoH4YHHWLgmNaAMtEfkNfGinTn4msZMwHxHCgstETJaHxiuDl&id=61573146584049
 
-![當大家都在談 AI 泡沫什麼時候會破滅，Howard Marks 反而認為，我們應該要有面對「未知」的勇氣。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/795538869_122198055284771552_4761040011966807659_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UGmpVX_G0u8Q7kNvwHFoJ8D&_nc_oc=AdpDkD5ic7nFrCpkhpZb22pNoejrMO2NIyXUHkV4hJzJPhMIy_YSKUTlnzb9EI2VjMA&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=Hngcy18c8BO5h8EA7NMyOg&_nc_ss=7e120&oh=00_AQIsul3owmyzmp_FflQq56auZg6KOAD0k-__Tt-By1wTUw&oe=6AB6FCDB)
+![當大家都在談 AI 泡沫什麼時候會破滅，Howard Marks 反而認為，我們應該要有面對「未知」的勇氣。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/795538869_122198055284771552_4761040011966807659_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UGmpVX_G0u8Q7kNvwEOx5d4&_nc_oc=AdrRTrJLKz1T3qQolRudWOQtzm4kYaR0bSslFMbLiSdRFcSueAOx1ey7As54Zi2M0Jk&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=dx0DPTf_CcDRc4bbuVorYg&_nc_ss=7e120&oh=00_AQJR5My3IXhp2PbffqHKEJfTcrRCRPZOfjY38gUPE6rK_w&oe=6AB7DDDB)
 當大家都在談 AI 泡沫什麼時候會破滅，Howard Marks 反而認為，我們應該要有面對「未知」的勇氣。
 ​
 橡樹資本（Oaktree）創辦人 Howard Marks 日前接受了 Bloomberg 訪談。
