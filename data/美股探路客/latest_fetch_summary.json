@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-09-22T06:03:32.757248+00:00",
+  "fetched_at_utc": "2026-09-30T03:23:55.292267+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1518592406981358"
+    "1526271099546822",
+    "1526168802890385",
+    "1524036803103585"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-09-22_1996年以來SP-500上漲超過1.5且VIX也同步上漲的情況包含昨天僅發生過26次.md"
+    "data/美股探路客/2026-09-29_Nike週四盤後發佈財報S3-partner資料顯示過去一年放空股數增加了55M股來到歷史紀錄的87M股佔流通股數7.md",
+    "data/美股探路客/2026-09-29_某大戶剛剛賣出3500筆2028年1月到期行權價145的ServiceNow看跌期權.md",
+    "data/美股探路客/2026-09-27_美股財經週報-2026.9.27.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

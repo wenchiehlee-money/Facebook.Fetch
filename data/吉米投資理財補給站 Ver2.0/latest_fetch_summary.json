@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-09-22T06:03:53.269141+00:00",
+  "fetched_at_utc": "2026-09-30T03:24:18.890706+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122229424940502956",
-    "122229423776502956",
-    "122229421850502956"
+    "122230630796502956",
+    "122230627796502956",
+    "122230626572502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-09-21_VICR.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-09-21_我可是以壓倒性的優勢贏得選舉我以壓倒性優勢贏得了大選我做了很多偉大的事情真的做了很多很多偉大的事情.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-09-21_台灣CPU供應鏈廠商.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-09-29_AXTi與Lumentum簽訂2031年產能協議獲4350萬美元定金.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-09-29_Amazon-將正式成為金像電股東-PCB-真的太缺貨了.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-09-29_FTAI老引擎正在變成-AI-電力資產.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",

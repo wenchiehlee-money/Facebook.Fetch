@@ -1,11 +1,14 @@
 # Facebook 貼文索引
 
 - 頁面: 
-- 抓取時間: 2026-09-22T06:03:25.579631+00:00
-- 已收錄貼文數量: 352
+- 抓取時間: 2026-09-30T03:23:45.168571+00:00
+- 已收錄貼文數量: 355
 
 ## 文章列表
 
+- `2026-09-29` [”Beyond status quo”的研究指出，33%本國股市搭配67%的國際股市，這樣一個完全投入股市的投資組合，是成效最好的。](2026-09-29_Beyond-status-quo的研究指出33本國股市搭配67的國際股市這樣一個完全投入股市的投資組合是成效最好的.md)
+- `2026-09-28` [Young Money書中，作者提到自己年輕時的投資經歷。](2026-09-28_Young-Money書中作者提到自己年輕時的投資經歷.md)
+- `2026-09-28` [25 Myths You’ve Got to Avoid的作者是Jonathan Clements，華爾街日報專欄作家。](2026-09-28_25-Myths-Youve-Got-to-Avoid的作者是Jonathan-Clements華爾街日報專欄作家.md)
 - `2026-09-21` [美國聯準會在2023七月升息0.25%，將目標利率定在5.25%-5.50%，是近年目標利率的高點。](2026-09-21_美國聯準會在2023七月升息0.25將目標利率定在5.25-5.50是近年目標利率的高點.md)
 - `2026-09-20` [美股代號VWO的Vanguard FTSE Emerging Markets ETF於2005年三月4日成立。追蹤FTSE Emerging Markets All Cap China A Inclusion Index。](2026-09-20_美股代號VWO的Vanguard-FTSE-Emerging-Markets-ETF於2005年三月4日成立追蹤FTSE-Emerging-Markets-Al.md)
 - `2026-09-19` [The Future for Investors的作者是Jeremy Siegel，他也是Stocks for the Long Run的作者](2026-09-19_The-Future-for-Investors的作者是Jeremy-Siegel他也是Stocks-for-the-Long-Run的作者.md)

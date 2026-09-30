@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-09-22T06:04:23.265887+00:00",
+  "fetched_at_utc": "2026-09-30T03:24:47.700563+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1613774770793024"
+    "1621170340053467",
+    "1617338050436696",
+    "1615803387256829"
   ],
   "new_markdown_files": [
-    "data/LinsanityStock/2026-09-22_台股今天創歷史新高了驚不驚喜意不意外.md"
+    "data/LinsanityStock/2026-09-29_20260929-外電綜合整理.md",
+    "data/LinsanityStock/2026-09-25_一開始還以為是我眼花了還特定繞回來拍照為證選台北市中正萬華區的議員為啥會在南投埔里掛競選看板這是什麼神操作.md",
+    "data/LinsanityStock/2026-09-24_2026924-外電綜合整理.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",

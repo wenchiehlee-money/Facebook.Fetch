@@ -1,11 +1,14 @@
 # Facebook 貼文索引
 
 - 頁面: 
-- 抓取時間: 2026-09-22T06:04:18.807141+00:00
-- 已收錄貼文數量: 255
+- 抓取時間: 2026-09-30T03:24:43.225052+00:00
+- 已收錄貼文數量: 258
 
 ## 文章列表
 
+- `2026-09-29` [雖然 Balance Film 產業還在初始冒芽階段，但當AI GPU，TPU，ASIC 越來越大顆，ABF載板及RDL 處理層數越來越厚，越來越多不同熱膨脹係數晶片及材料被封裝在一起，防翹曲技術及抗翹曲應力平衡膜就越來越重要。當未來10年，AI 算力數據中心的投資將受限於可用資金，可用電力，可用土地，可用晶片產能，除了發展困難度超高的衛星軌道數據中心外，提供更高算力/更低耗能（單位面積算力耗能比較，增加每單位數據中心面積的GW算力）的大型AI訓練及推理晶片的騰籠換鳥原廠升級（舊機櫃換成新機櫃+ 光通訊 scale out/scale across），可能反而是一個可行的方向。你們覺得呢？](2026-09-29_雖然-Balance-Film-產業還在初始冒芽階段但當AI-GPUTPUASIC-越來越大顆ABF載板及RDL-處理層數越來越厚越來越多不同熱膨脹係數晶片及材.md)
+- `2026-09-29` [9 月 29 日（舊金山時間），在宣佈無限期擱置旗艦模型 GPT-6.1 Astra 僅 24 小時後，OpenAI 執行長 Sam Altman 在舊金山 DevDay 2026 開發者大會上發表 :](2026-09-29_9-月-29-日舊金山時間在宣佈無限期擱置旗艦模型-GPT-6.1-Astra-僅-24-小時後OpenAI-執行長-Sam-Altman-在舊金山-DevDa.md)
+- `2026-09-28` [AI硬體教母蘇媽及AI軟體教母李飛飛，兩大聯手追趕Nvidia的生態系，但我們看到的是AMD併購World Labs 的長期綜效及短期風險- 尤其加強軟硬兼施的AI晶片/系統設計及稀釋/商譽減損的風險，感覺就像是AMD加碼軟體研發經費82億美元，用短期稀釋及商譽減損來加強其長期AI產品核心競爭力，你們覺得呢？](2026-09-28_AI硬體教母蘇媽及AI軟體教母李飛飛兩大聯手追趕Nvidia的生態系但我們看到的是AMD併購World-Labs-的長期綜效及短期風險--尤其加強軟硬兼施的AI.md)
 - `2026-09-17` [據路透社報導（Banks provide $22 billion chip loan to Blackstone, Alphabet AI cloud venture, source says）十家全球銀行如高盛，Sumitomo Mitsui Banking Corp, 巴克萊銀行，BNP Paribas, Bank of Nova Scotia 據報向 Blackstone 與 Alphabet 合資成立的JV Crux AI 提供 US$22bn 晶片貸款（請參考我們之前的深度報告：A new TPU Neocloud is emerging），用於購買 Google TPU；貸款由 TPU 資產與 Crux AI 客戶合約擔保。Blackstone 先前宣布投入 US$5bn 初始股本，目標 2027 年讓 500MW 資料中心容量上線。主要當事人均未即時回應，因此利率、期限、客戶、take-or-pay、TPU 世代與實際 IT load 尚未確認。](2026-09-17_據路透社報導Banks-provide-22-billion-chip-loan-to-Blackstone-Alphabet-AI-cloud-venture.md)
 - `2026-09-17` [Nebius 10/1 全面調漲 Nvidia AI GPU，CPU，Memory 租用價格，我們認為短期市場價值將從賣 tokens 的大語言/專家語言模型公司轉到 AI 數據中心算力基礎建設公司。](2026-09-17_Nebius-101-全面調漲-Nvidia-AI-GPUCPUMemory-租用價格我們認為短期市場價值將從賣-tokens-的大語言專家語言模型公司轉到-A.md)
 - `2026-09-17` [CPO（Co-Packaged Optics，共封裝光學）讓主機板 PCB 的銅箔基板（CCL）等級得以從極低損耗的 M8 / M9（Extreme Low Loss） 大幅降階至 M4（Mid/Low Loss），其根本原因在於高速電信號在 PCB 銅箔上的傳輸距離（Trace Length）被壓縮至接近於零，傳輸損耗不再由主機板承擔。但從投資或產業鏈的視角來看，未來 1-2年（至 2H28 年）無需擔憂 CPO 衝擊 M8/M9 需求，因為 224G 插拔模組與大型 AI 叢集的出貨量正在迎來陡峭爬坡期，但真正需要警戒的時間窗口在 2028 年底至 2029 年。](2026-09-17_CPOCo-Packaged-Optics共封裝光學讓主機板-PCB-的銅箔基板CCL等級得以從極低損耗的-M8--M9Extreme-Low-Loss-大幅降.md)

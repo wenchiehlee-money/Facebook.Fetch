@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/iqvalue",
   "final_url": "https://www.facebook.com/iqvalue",
-  "fetched_at_utc": "2026-09-22T06:04:14.390476+00:00",
+  "fetched_at_utc": "2026-09-30T03:24:38.938345+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1544087711066340"
+    "1550829020392209",
+    "1550883353720109",
+    "1548540980621013"
   ],
   "new_markdown_files": [
-    "data/洪鑑穩 帶你挖好股/2026-09-21_台股上60000點.md"
+    "data/洪鑑穩 帶你挖好股/2026-09-28_Oracle-要出大事了嗎債券市場已經拉響警報.md",
+    "data/洪鑑穩 帶你挖好股/2026-09-28_洪鑑穩Rubin量產--CoWoS旺到2028-AI強棒接連上場.md",
+    "data/洪鑑穩 帶你挖好股/2026-09-26_半導體還能旺多久野村CSI透露2027轉折點.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/洪鑑穩 帶你挖好股",

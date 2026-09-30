@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/dextermchang",
   "final_url": "https://www.facebook.com/dextermchang",
-  "fetched_at_utc": "2026-09-22T06:03:11.748072+00:00",
+  "fetched_at_utc": "2026-09-30T03:23:20.510828+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "122140519647207208"
+    "122141823291207208",
+    "122141572953207208",
+    "122141380887207208"
   ],
   "new_markdown_files": [
-    "data/大會計師 張明輝/2026-09-22_AI時代愈確定投資股票愈要小心因為最後贏家是懂得-守住獲利-的人.md"
+    "data/大會計師 張明輝/2026-09-30_不是每家公司都要超跑這是為什麼雲端企業開始-自研晶片.md",
+    "data/大會計師 張明輝/2026-09-29_聯發科-不缺錢反而更要籌資.md",
+    "data/大會計師 張明輝/2026-09-28_蓋AI資料中心要先繳一筆輝達稅.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/大會計師 張明輝",

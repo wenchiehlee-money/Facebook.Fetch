@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-09-22T06:03:46.750319+00:00",
+  "fetched_at_utc": "2026-09-30T03:24:11.009128+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1617393816743985",
-    "1616888676794499"
+    "1622442076239159",
+    "1622385379578162",
+    "1619545766528790"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-09-22_TrendForce研究顯示過往兩周以來美系雲端業者對Enterprise-SSD需求上調主要原因在於各大CSP正在加速擴大Enterprise-SSD的部署規.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-09-21_1.-報導提到三大廠-首度同步發函-漲價.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-09-27_1.-最近有一個有點詭異的現象一個正確的趨勢判斷的短期效應被放大和提前例如我們和許多人一樣今年以來認同看好Agentic-AI時代CPU的需求成長相對2025年.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-09-27_颜志天将当前存储创新的技术路线归纳为六个方向.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-09-24_洛图科技RUNTO2026年9月液晶电视面板价格预测及波动追踪一文中提到电视整机厂商接下来需要消化的市场和情绪变量包括短期的十一假期面板厂减产近期甚嚣尘上的涨价.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",

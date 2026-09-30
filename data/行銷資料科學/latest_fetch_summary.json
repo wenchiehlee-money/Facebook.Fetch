@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-09-22T06:03:18.619089+00:00",
+  "fetched_at_utc": "2026-09-30T03:23:31.393796+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,15 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 2,
+  "new_post_ids": [
+    "1394790136097961",
+    "1388847943358847"
+  ],
+  "new_markdown_files": [
+    "data/行銷資料科學/2026-09-29_生成式AI對企業來說真正的價值在於效率提升流程再造知識管理和商業創新許多企業和個人還停留在...詳細請看影片.md",
+    "data/行銷資料科學/2026-09-23_台灣會有AI裁員潮嗎.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",
   "notes": [

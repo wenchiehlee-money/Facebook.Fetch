@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-09-22T06:03:25.579631+00:00",
+  "fetched_at_utc": "2026-09-30T03:23:45.168571+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1510944454172283"
+    "1518286103438118",
+    "1517351816864880",
+    "1516450130288382"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-09-21_美國聯準會在2023七月升息0.25將目標利率定在5.25-5.50是近年目標利率的高點.md"
+    "data/綠角財經筆記/2026-09-29_Beyond-status-quo的研究指出33本國股市搭配67的國際股市這樣一個完全投入股市的投資組合是成效最好的.md",
+    "data/綠角財經筆記/2026-09-28_Young-Money書中作者提到自己年輕時的投資經歷.md",
+    "data/綠角財經筆記/2026-09-28_25-Myths-Youve-Got-to-Avoid的作者是Jonathan-Clements華爾街日報專欄作家.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-09-22T06:04:18.807141+00:00",
+  "fetched_at_utc": "2026-09-30T03:24:43.225052+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,17 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1642843043865835",
+    "1641977217285751",
+    "1641900760626730"
+  ],
+  "new_markdown_files": [
+    "data/andrew.semis.techs/2026-09-29_9-月-29-日舊金山時間在宣佈無限期擱置旗艦模型-GPT-6.1-Astra-僅-24-小時後OpenAI-執行長-Sam-Altman-在舊金山-DevDa.md",
+    "data/andrew.semis.techs/2026-09-29_雖然-Balance-Film-產業還在初始冒芽階段但當AI-GPUTPUASIC-越來越大顆ABF載板及RDL-處理層數越來越厚越來越多不同熱膨脹係數晶片及材.md",
+    "data/andrew.semis.techs/2026-09-28_AI硬體教母蘇媽及AI軟體教母李飛飛兩大聯手追趕Nvidia的生態系但我們看到的是AMD併購World-Labs-的長期綜效及短期風險--尤其加強軟硬兼施的AI.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
   "notes": [

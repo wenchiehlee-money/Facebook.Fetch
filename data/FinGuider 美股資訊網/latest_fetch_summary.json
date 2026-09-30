@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-09-22T06:03:21.659461+00:00",
+  "fetched_at_utc": "2026-09-30T03:23:40.985076+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1565140768989398"
+    "1573287624841379",
+    "1573227158180759",
+    "1572311441605664"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-09-22_AI-Agent-大戰開打Meta-Muse-爆紅亞馬遜出手封鎖.md"
+    "data/FinGuider 美股資訊網/2026-09-30_川普推的白宮超級智慧協議曝光.md",
+    "data/FinGuider 美股資訊網/2026-09-30_Robinhood-把-AI-直接送上交易桌.md",
+    "data/FinGuider 美股資訊網/2026-09-29_美股-ETF-趨勢週報.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

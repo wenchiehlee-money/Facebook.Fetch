@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-09-22T06:03:29.266649+00:00",
+  "fetched_at_utc": "2026-09-30T03:23:51.022485+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1551632483669502",
-    "1551252277040856"
+    "1559868872845863",
+    "1553986336767450",
+    "1553617413471009"
   ],
   "new_markdown_files": [
-    "data/股魚/2026-09-22_市場越過之前的台股高點-48218點前波高點越過則上方萬里無雲各位是不是又開始期待50000點的到來.md",
-    "data/股魚/2026-09-21_我的天啊這是科學園區的稼動率危機了吧政府單位應成立緊急應變小組來面對機台上放一包綠色乖乖機台就會乖乖這是園區的信仰也是玄學.md"
+    "data/股魚/2026-09-30_2368金像電晚間才傳出亞馬遜參與私募-認購總額約15.89億元雙方由合作夥伴晉升為戰略同盟的消息看主動式ETF-00981A的操作中就發現-金像電被持續大幅加.md",
+    "data/股魚/2026-09-24_最低薪資突破30K連帶的勞健保要繳的費用也跟著提高物價應該也是蠢蠢欲動基本薪資調高是保障了誰幫助了誰還真不好說.md",
+    "data/股魚/2026-09-24_嚇死我了忽然收到凌網資訊小額匯款腦袋瞬間轉好幾圈以為是詐騙匯款.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",

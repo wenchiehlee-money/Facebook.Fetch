@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-09-22T06:04:33.202405+00:00",
+  "fetched_at_utc": "2026-09-30T03:24:56.574913+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,17 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1506522861498134",
+    "1504583868358700",
+    "1503612618455825"
+  ],
+  "new_markdown_files": [
+    "data/TrendForce 集邦科技/2026-09-29_2027-年全球-HBM-記憶體供應持續吃緊價格展望上修受惠於高價-HBM4-占比提升與-HBM4e-放量預估-2027-年-blended-ASP-年增將達.md",
+    "data/TrendForce 集邦科技/2026-09-27_三星首代10nm-级-DRAM-預計將採hybrid-bonding技術.md",
+    "data/TrendForce 集邦科技/2026-09-26_三星2027年HBM4產能有望大增2.5倍.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",
   "notes": [

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-09-22T06:04:27.502553+00:00",
+  "fetched_at_utc": "2026-09-30T03:24:51.598149+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1517336703761874",
-    "1517255497103328",
-    "1513723787456499"
+    "1525206982974846",
+    "1525182202977324",
+    "1525160936312784"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-09-22_新北板橋大仁路上一家OK超商換了招牌紅白色的舊LOGO被拆下來換上藍白色系新圖案像一條魚下面寫著一排英文字FrozenFreshFun冷凍新鮮有趣.md",
-    "data/商業周刊商周.com/2026-09-22_靠技術稱霸全球德國隱形冠軍卻被中國超車曾讓它成功的模式為何成了弱點.md",
-    "data/商業周刊商周.com/2026-09-22_押注毫米波12年稜研科技如何把難題變成競爭門檻靠樂高式相控陣列天線模組打入國際大廠.md"
+    "data/商業周刊商周.com/2026-09-30_賣雪梨房產回台創業押注超小眾罕病藥-如何讓公司市值4年翻50倍.md",
+    "data/商業周刊商周.com/2026-09-30_一條膠帶一間藥局為什麼都把生意做到太空.md",
+    "data/商業周刊商周.com/2026-09-30_商周讀書會-生命中最有價值最耐用的東西是無法用金錢獲得的薩希布魯姆亞馬遜暢銷書人生的五種財富作者.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

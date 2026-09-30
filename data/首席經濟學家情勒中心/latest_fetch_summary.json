@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61589343187385",
   "final_url": "https://www.facebook.com/profile.php?id=61589343187385",
-  "fetched_at_utc": "2026-09-22T06:04:06.041633+00:00",
+  "fetched_at_utc": "2026-09-30T03:24:31.031780+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,17 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 2,
+  "new_post_count": 2,
   "new_post_ids": [
-    "122124170667311439",
-    "122124157815311439",
-    "122124144093311439"
+    "122125534401311439",
+    "122125497063311439"
   ],
   "new_markdown_files": [
-    "data/首席經濟學家情勒中心/2026-09-22_這個是最有趣的比例.md",
-    "data/首席經濟學家情勒中心/2026-09-22_費沙開封府尹選舉競爭進入白熱化現任府尹僅僅領先挑戰者只有1.2.md",
-    "data/首席經濟學家情勒中心/2026-09-21_日耳曼帝國每次在向左跟向右中總是選擇向下.md"
+    "data/首席經濟學家情勒中心/2026-09-29_安可這兩個字通常是即將謝幕的時候觀眾對演奏者的呼喚.md",
+    "data/首席經濟學家情勒中心/2026-09-29_Physical-AI現在最缺的不是更像人而是真的能幫人工作.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/首席經濟學家情勒中心",
@@ -28,6 +26,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 1 篇貼文。"
   ]
 }

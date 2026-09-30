@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-09-22T06:03:35.949952+00:00",
+  "fetched_at_utc": "2026-09-30T03:23:59.001163+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "122198163926771552"
+    "122199192704771552",
+    "122199056552771552",
+    "122198876606771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-09-22_有時候投資就是要尋找不對稱的機會.md"
+    "data/Fomo研究院/2026-09-29_AI-進步太快了太危險我們該踩煞車.md",
+    "data/Fomo研究院/2026-09-28_最近上了塞掐-Side-Chat和-Fox-Hsiao-聊了一場跟平常不太一樣的對話.md",
+    "data/Fomo研究院/2026-09-27_如果有一天你想買跑鞋時第一個直覺不再是-Amazon而是-Muse那麼-Amazon-的價值還剩下多少.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",
