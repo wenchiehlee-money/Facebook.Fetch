@@ -2,9 +2,28 @@
   "name": "skill-facebook-fetch",
   "description": "管理 Facebook.Fetch 專案的每日粉專/珍藏清單貼文抓取 — 本機執行與 GitHub Actions 共用同一支 run_daily_fetch.py，更新過期的 FB_COOKIE、手動觸發並監看 daily_fetch workflow、排查已知的資料夾命名衝突與 sync 觸發失敗問題。",
   "category": "financial-data",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "maintainer": "wenchiehlee-money",
   "source": "https://github.com/wenchiehlee-money/Facebook.Fetch",
   "updated_at": "2026-07-21",
-  "registry": "https://github.com/wenchiehlee/skills/tree/main/common/skill-facebook-fetch"
+  "registry": "https://github.com/wenchiehlee/skills/tree/main/common/skill-facebook-fetch",
+  "files": [
+    "metadata.json",
+    "scripts/run_daily_fetch.py",
+    "scripts/update_fb_cookie.py",
+    "self_update.py",
+    "SKILL.md"
+  ],
+  "deployments": [
+    {
+      "repo": "wenchiehlee/skills",
+      "local_path": "github.com/skills/common/skill-facebook-fetch",
+      "role": "registry"
+    },
+    {
+      "repo": "wenchiehlee-money/Facebook.Fetch",
+      "local_path": "github.com/Facebook.Fetch/skills/skill-facebook-fetch",
+      "role": "consumer"
+    }
+  ]
 }

@@ -81,42 +81,8 @@ FB_COOKIE / FB_DTSG 省略 `--cookie`/`--fb-dtsg` 時會自動從環境變數或
    python skills/skill-facebook-fetch/scripts/update_fb_cookie.py --cookie "<cookie 字串>" --fb-dtsg "<fb_dtsg>"
    ```
    此腳本會更新 GitHub Secrets `FB_COOKIE`、`FB_DTSG` 並自動觸發 `daily_fetch.yml`。
-   跑完後務必把新值同步寫回本機 `.env`（`run_daily_fetch.py`/`fetch_facebook_posts.py`
-   省略 `--cookie`/`--fb-dtsg` 時是讀 `.env`，GitHub Secret 更新了不代表本機 `.env` 也跟著換新）。
-
-### CDP WebSocket 自動擷取（免 MCP，優先走這條）
-
-若 `mcp__chrome-devtools__*` 這個 session 連不上（`ToolSearch` 回報 `CONNECT_TIMEOUT`；
-MCP 連線只在 session 啟動時建立一次，這個 session 內重試沒用，需要重啟 Claude Code
-才會重新握手），改用本機 Chrome DevTools Protocol：
-
-**重要（Chrome 136+ 的變更）：** 直接用使用者「預設 profile」啟動 Chrome 並帶
-`--remote-debugging-port=9222` 現在會被**靜默忽略**（安全機制，防止遠端調試劫持真實登入
-profile）——`curl http://127.0.0.1:9222/json` 會連不上，且不會有任何錯誤訊息，容易誤判成
-「埠沒生效」。必須改用**獨立 `--user-data-dir`** 才能讓偵錯埠生效：
-
-```bash
-# Windows / PowerShell：先確認沒有既有 chrome.exe 用同一個 user-data-dir（不用先關掉使用者原本的 Chrome，
-# 因為這裡用的是全新獨立 profile 目錄，兩者不衝突）
-powershell -Command "New-Item -ItemType Directory -Force -Path 'C:\Users\WJLEE\AppData\Local\Temp\claude-chrome-debug-profile' | Out-Null; Start-Process 'C:\Program Files\Google\Chrome\Application\chrome.exe' -ArgumentList '--remote-debugging-port=9222','--user-data-dir=C:\Users\WJLEE\AppData\Local\Temp\claude-chrome-debug-profile','https://www.facebook.com'"
-```
-
-這會開一個全新、乾淨的 Chrome 視窗（獨立 profile，不影響使用者原本登入的 Chrome）。
-使用者需要在**這個新視窗**裡手動登入一次 Facebook（帳密/2FA 一律由使用者自己輸入，
-不要代為操作）。登入完成後：
-
-```bash
-curl -s -m 3 -o /dev/null -w "http_code=%{http_code}\n" http://127.0.0.1:9222/json
-# 200 才代表偵錯埠生效；000 代表還沒 ready 或又被忽略了，稍等或重新確認 user-data-dir 參數有帶到
-```
-
-確認 200 之後，執行不帶參數的 `update_fb_cookie.py`，它會自動透過 CDP WebSocket
-擷取 cookie/fb_dtsg、更新 GitHub Secrets、觸發 `daily_fetch.yml`：
-```bash
-python skills/skill-facebook-fetch/scripts/update_fb_cookie.py
-```
-跑完一樣要手動把新的 cookie/fb_dtsg 同步寫回 `.env`（腳本目前只更新 GitHub Secret，
-不會自動改本機 `.env`）。
+   （若不在 Claude Code / MCP 環境，腳本支援 Cookie-Editor 擴充套件匯出 JSON 的備援流程，
+   直接執行 `python skills/skill-facebook-fetch/scripts/update_fb_cookie.py` 不帶參數即可。）
 
 ## 已知問題與排查
 
@@ -170,49 +136,6 @@ string），導致**不同 Facebook 個人檔案的貼文被混進同一個資�
 預設 `github.token` 沒有權限觸發其他 workflow 的 `workflow_dispatch`（HTTP 403
 "Resource not accessible by integration"）。已改用 repo 既有的 PAT
 `secrets.REPO_FILE_SYNC_WENCHIEHLEE_MONEY1`（與 checkout 步驟同一組 secret）。
-
-### 5. GraphQL persisted query doc_id / variables 過期（會不定期復發，症狀最隱蔽）
-`fetch_facebook_posts.py` 的 `ProfileCometTimelineFeedRefetchQuery` 用的是硬編的
-`PUBLIC_TIMELINE_DOC_ID` 及一批 `__relay_internal__pv__*relayprovider` 變數。Facebook
-的 Relay/Comet 前端會不定期改版，doc_id 和必填變數集合會跟著變。發生時**每個粉專的
-GraphQL 請求都會回** `{"errors":[{"message":"A server error missing_required_variable_value
-occured..."}]}`，但腳本沒把這個狀況當失敗處理，`daily_fetch.yml` 依然 exit 0、
-`gh run list` 全部顯示 `success`——只有 `本次檢查貼文數量`/`本次新增貼文數量` 會悄悄
-變成 0，而且是**所有**粉專同時變成 0（不是零星個案）。已發生過 4 次（`1bb7520`、
-`6503482`、`5b05342`，以及 2026-08-06 這次；已知未貼文超過 2 週後才被發現）。
-
-**判斷方式：** `gh run view <run-id> --job=<job-id> --log | grep missing_required_variable_value`，
-或檢查連續好幾天的 `本次檢查貼文數量` 是否全部是 0（跟 rate limit 通常只是偶發一次、
-跟 cookie 過期會直接 exit code 2 / AUTH_ERROR 不同，這個是「看起來成功但默默沒抓到東西」）。
-
-**修復步驟：**
-1. `mcp__chrome-devtools__navigate_page` 到任一個已在 `data/fetch_urls.txt` 裡的粉專頁面
-   （用已登入的分頁）。
-2. `mcp__chrome-devtools__list_network_requests`（`resourceTypes: ["xhr", "fetch"]`）列出
-   該次瀏覽的所有請求。
-3. 逐一用 `mcp__chrome-devtools__get_network_request` 檢查 POST 到 `/api/graphql/` 的請求，
-   找 Request Headers 裡 `x-fb-friendly-name: ProfileCometTimelineFeedRefetchQuery` 那一個。
-4. 從它的 Request Body 複製最新的 `doc_id` 和完整 `variables` JSON，更新
-   `fetch_facebook_posts.py` 的 `PUBLIC_TIMELINE_DOC_ID` 常數和 `fetch_public_timeline_parts()`
-   裡的 `variables` dict（`id`、`cursor` 等動態欄位維持原樣，只同步新增/變動的
-   `__relay_internal__pv__*` 欄位）。
-5. 本機驗證（用同一批 cookie/fb_dtsg）：
-   ```bash
-   python fetch_facebook_posts.py <url> --data-dir <scratch-dir> --cookie "<cookie>" --fb-dtsg "<fb_dtsg>"
-   ```
-   確認 `[debug] GraphQL response:` 開頭是 `{"data":{"node"...`，不是 `{"errors"`。
-6. 修好 doc_id 後，**務必連帶確認下面第 6 點的分頁提前停止邏輯還在**——這兩個 bug
-   會互相掩蓋（doc_id 壞掉時分頁 bug 不會發作；修好 doc_id 卻沒查分頁邏輯，會讓
-   workflow 從 ~1 分鐘暴增到 30 分鐘以上，且有踩到第 1 點 rate limit 的風險）。
-
-### 6. `months_back=0` 時分頁沒有在第一頁停止（已修復，但容易隨第 5 點一起復發）
-`extract_graphql_post_records()` 的分頁迴圈會一路跑到 `max_pages=100`，跟 `months_back`
-無關；但 `--months-back` 的說明文字寫的是「0 表示只抓目前可取得的**第一頁**」。這個 bug
-長期沒被發現，是因為第 5 點的 doc_id 一旦過期，每頁 GraphQL 都立刻回錯誤、`parts` 是空的，
-迴圈碰巧在第 1 頁就跳出。2026-08-06 修好 doc_id 後、GraphQL 真的開始回傳資料，手動觸發的
-daily run（`months_back=0`）在「Run daily fetch pipeline」卡了 30 分鐘以上還沒完
-——因為它在把 17 個粉專的**全部歷史**都爬一遍。已在 `extract_graphql_post_records()` 加上
-`months_back <= 0` 時強制 `max_pages = 1`。**如果又要修第 5 點的 doc_id，順手確認這行還在。**
 
 ## 使用範例
 
