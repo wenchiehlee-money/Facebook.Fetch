@@ -4,22 +4,22 @@ title: "Berkshire Hathaway 執行長接班人 Greg Abel 在接受 CNBC 專訪時
 page_title: ""
 requested_url: "https://www.facebook.com/intleconobserve"
 final_url: "https://www.facebook.com/intleconobserve"
-post_url: "https://www.facebook.com/intleconobserve/posts/pfbid0L1DUjUbKWCowQhdm4rVHew4Eb6NnqYFfTqGJCCkXhuHdwUDaCcbc4MVBKNqkgGnhl"
+post_url: "https://www.facebook.com/intleconobserve/posts/pfbid0KqBXSMdGxbrFQ9xDvJQCrea6HwfQvg61znffuWE6J1Dd22M8FepSv4ckJZn6wMj3l"
 creation_time_utc: "2026-09-05T08:19:51+00:00"
-fetched_at_utc: "2026-09-06T14:53:31.365081+00:00"
+fetched_at_utc: "2026-09-30T03:42:42.401092+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/796495283_1598898561594766_4232024821621861573_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Vr2iRSgaLW8Q7kNvwGPUzLP&_nc_oc=AdoiTO0s5Y-gB-xa7GFRoK0JROqqoAIhGAejrlYFI2gRyE5ypuUbholbDGPtTm-wWos&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=4mEm6-GNYJwcYn5AOXM_bw&_nc_ss=7e120&oh=00_AQIVjv5CBatZu1BJkT_okUVCkiEisIG-UKm6EofzY153DA&oe=6AA35D64"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/796495283_1598898561594766_4232024821621861573_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=r9Kha391RY8Q7kNvwHImeao&_nc_oc=Adr5RRv2tG3yORvRRMoMtqoZrlgSJVfyJF2-2w-oOcEjIF1nZfygk4TZxOlzmAKQVKk&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=9fs9ZL68506PHwlAsKDLfg&_nc_ss=7e120&oh=00_AQOuDKv8aUqycYdjpLRdC8X8p0k4K25YZgHDrOnddRgxJg&oe=6AC258A4"
 feedback_id: "ZmVlZGJhY2s6MTU5ODg5OTQzMTU5NDY3OQ=="
 page_canonical_url: ""
 ---
 
 # Berkshire Hathaway 執行長接班人 Greg Abel 在接受 CNBC 專訪時，深入談及波克夏如何看待當前科技變革帶來的投資機會。
 
-原文連結: https://www.facebook.com/intleconobserve/posts/pfbid0L1DUjUbKWCowQhdm4rVHew4Eb6NnqYFfTqGJCCkXhuHdwUDaCcbc4MVBKNqkgGnhl
+原文連結: https://www.facebook.com/intleconobserve/posts/pfbid0KqBXSMdGxbrFQ9xDvJQCrea6HwfQvg61znffuWE6J1Dd22M8FepSv4ckJZn6wMj3l
 
-![Berkshire Hathaway 執行長接班人 Greg Abel 在接受 CNBC 專訪時，深入談及波克夏如何看待當前科技變革帶來的投資機會。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/796495283_1598898561594766_4232024821621861573_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Vr2iRSgaLW8Q7kNvwGPUzLP&_nc_oc=AdoiTO0s5Y-gB-xa7GFRoK0JROqqoAIhGAejrlYFI2gRyE5ypuUbholbDGPtTm-wWos&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=4mEm6-GNYJwcYn5AOXM_bw&_nc_ss=7e120&oh=00_AQIVjv5CBatZu1BJkT_okUVCkiEisIG-UKm6EofzY153DA&oe=6AA35D64)
+![Berkshire Hathaway 執行長接班人 Greg Abel 在接受 CNBC 專訪時，深入談及波克夏如何看待當前科技變革帶來的投資機會。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/796495283_1598898561594766_4232024821621861573_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=r9Kha391RY8Q7kNvwHImeao&_nc_oc=Adr5RRv2tG3yORvRRMoMtqoZrlgSJVfyJF2-2w-oOcEjIF1nZfygk4TZxOlzmAKQVKk&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=9fs9ZL68506PHwlAsKDLfg&_nc_ss=7e120&oh=00_AQOuDKv8aUqycYdjpLRdC8X8p0k4K25YZgHDrOnddRgxJg&oe=6AC258A4)
 Berkshire Hathaway 執行長接班人 Greg Abel 在接受 CNBC 專訪時，深入談及波克夏如何看待當前科技變革帶來的投資機會。
 
 #加碼Alphabet的決策內幕

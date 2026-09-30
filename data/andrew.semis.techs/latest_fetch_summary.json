@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-09-30T03:24:43.225052+00:00",
+  "fetched_at_utc": "2026-09-30T03:50:40.859417+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,25 +9,36 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 22,
+  "new_post_count": 8,
   "new_post_ids": [
-    "1642843043865835",
-    "1641977217285751",
-    "1641900760626730"
+    "1637160481100758",
+    "1636511381165668",
+    "1636429907840482",
+    "1635850451231761",
+    "1631340515016088",
+    "1626517848831688",
+    "1624059352410871",
+    "1623051155845024"
   ],
   "new_markdown_files": [
-    "data/andrew.semis.techs/2026-09-29_9-月-29-日舊金山時間在宣佈無限期擱置旗艦模型-GPT-6.1-Astra-僅-24-小時後OpenAI-執行長-Sam-Altman-在舊金山-DevDa.md",
-    "data/andrew.semis.techs/2026-09-29_雖然-Balance-Film-產業還在初始冒芽階段但當AI-GPUTPUASIC-越來越大顆ABF載板及RDL-處理層數越來越厚越來越多不同熱膨脹係數晶片及材.md",
-    "data/andrew.semis.techs/2026-09-28_AI硬體教母蘇媽及AI軟體教母李飛飛兩大聯手追趕Nvidia的生態系但我們看到的是AMD併購World-Labs-的長期綜效及短期風險--尤其加強軟硬兼施的AI.md"
+    "data/andrew.semis.techs/2026-09-23_9-月-23-日英國金融時報FT與權威硬體媒體-Toms-Hardware-深度拆解-Nscale-日前向美國證券交易委員會SEC遞交的-Form-S-1-招股.md",
+    "data/andrew.semis.techs/2026-09-23_在我們9月18日的報告中我們提到-Nebius-101-全面調漲-Nvidia-AI-GPUCPUMemory-租用價格我們認為短期市場價值將從賣-tokens.md",
+    "data/andrew.semis.techs/2026-09-23_怎麼感覺最近神山有點要創新高價但膽子小小的破關情怯的概念不像信驊聯發科這麼阿莎力你們覺得是啥原因呢.md",
+    "data/andrew.semis.techs/2026-09-22_有誇張吧Wccftech-說-Meta-Muse-Agentic-AI-可能拉高-CPUGPU-ratio-到-401.md",
+    "data/andrew.semis.techs/2026-09-17_Reuters-引述-The-Information-新聞報導Apple-Considers-Return-to-Server-Market-Has-Talke.md",
+    "data/andrew.semis.techs/2026-09-11_台灣半導體暨科技產業公布8月份營收我們以公布的數據看產業趨勢變化及公司與彭博社分析師預期進行分析比較月營收好壞是否將帶動公布後股價及判斷分析師預期是否過於樂觀及.md",
+    "data/andrew.semis.techs/2026-09-08_這新聞應該對-ASML-最有利看起來以後台積電1奈米量產可能會大量採用貴鬆鬆的-High-NA-EUV了神山1000億美金以上資本開支快要來了.md",
+    "data/andrew.semis.techs/2026-09-07_現在NAND-記憶卡都不標價格了跟生猛海鮮一樣以時價計算下一個不知道是輪到什麼消費性電子產品.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
+    "本次已成功用公開 GraphQL 擷取到 23 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 1 篇貼文。"
   ]
 }

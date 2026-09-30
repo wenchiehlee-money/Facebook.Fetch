@@ -4,22 +4,22 @@ title: "軟銀支持的 SB Energy (美股代號：SBE)昨日申請美國IPO，�
 page_title: ""
 requested_url: "https://www.facebook.com/hsulylab"
 final_url: "https://www.facebook.com/hsulylab"
-post_url: "https://www.facebook.com/hsulylab/posts/pfbid0g4B8WFKpnYhCeaQ7rrQPVFntA7ZPoyG9ttEctwrwCbJ1B9eVKWLsQoorbYDtAdBl"
+post_url: "https://www.facebook.com/hsulylab/posts/pfbid0W2DqPHHHGfWwGsDUf81UCuxMuk243GLVA2h7m8YswY8puWiveGeFuB16tYMSUwdl"
 creation_time_utc: "2026-09-02T12:00:08+00:00"
-fetched_at_utc: "2026-09-06T15:01:22.812987+00:00"
+fetched_at_utc: "2026-09-30T03:48:26.401928+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/785281570_1358096633155154_7733803914324893896_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=erhIup7_tlYQ7kNvwFqMXSN&_nc_oc=AdrM4j9PBwOKio7PUaecCfS9SGPKErAu52EjYhDPXtFXukCSlCD8cXsua9ynHO7d9JA&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=GHYet-QUUMygzOOcXn7gGw&_nc_ss=7e120&oh=00_AQIr5p9b3jFO4dq7zdfOpTR5I_SQWyv8g0ypt4Md6bpiUQ&oe=6AA33DF7"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/785281570_1358096633155154_7733803914324893896_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=O2oO06fm8CgQ7kNvwHQhPXD&_nc_oc=AdrBVwIrKNnQexGixxxmYl-PDRsbpXlDhJ7gpwdDsB4AQQhm-kejrfSLo6iujSBE2e0&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=165Lp5Es8d84Km2F8oEP4w&_nc_ss=7e120&oh=00_AQOMK2UYdOpKJw5eV1e2wRW40kd2BVq5zAdy0y4aVMbLAw&oe=6AC27177"
 feedback_id: "ZmVlZGJhY2s6MTM1ODMxMjc2NjQ2Njg3NA=="
 page_canonical_url: ""
 ---
 
 # 軟銀支持的 SB Energy (美股代號：SBE)昨日申請美國IPO，其背後的商業邏輯與物理結構，正好挑戰了我們對科技發展的固有認知。
 
-原文連結: https://www.facebook.com/hsulylab/posts/pfbid0g4B8WFKpnYhCeaQ7rrQPVFntA7ZPoyG9ttEctwrwCbJ1B9eVKWLsQoorbYDtAdBl
+原文連結: https://www.facebook.com/hsulylab/posts/pfbid0W2DqPHHHGfWwGsDUf81UCuxMuk243GLVA2h7m8YswY8puWiveGeFuB16tYMSUwdl
 
-![軟銀支持的 SB Energy (美股代號：SBE)昨日申請美國IPO，其背後的商業邏輯與物理結構，正好挑戰了我們對科技發展的固有認知。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/785281570_1358096633155154_7733803914324893896_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=erhIup7_tlYQ7kNvwFqMXSN&_nc_oc=AdrM4j9PBwOKio7PUaecCfS9SGPKErAu52EjYhDPXtFXukCSlCD8cXsua9ynHO7d9JA&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=GHYet-QUUMygzOOcXn7gGw&_nc_ss=7e120&oh=00_AQIr5p9b3jFO4dq7zdfOpTR5I_SQWyv8g0ypt4Md6bpiUQ&oe=6AA33DF7)
+![軟銀支持的 SB Energy (美股代號：SBE)昨日申請美國IPO，其背後的商業邏輯與物理結構，正好挑戰了我們對科技發展的固有認知。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/785281570_1358096633155154_7733803914324893896_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=O2oO06fm8CgQ7kNvwHQhPXD&_nc_oc=AdrBVwIrKNnQexGixxxmYl-PDRsbpXlDhJ7gpwdDsB4AQQhm-kejrfSLo6iujSBE2e0&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=165Lp5Es8d84Km2F8oEP4w&_nc_ss=7e120&oh=00_AQOMK2UYdOpKJw5eV1e2wRW40kd2BVq5zAdy0y4aVMbLAw&oe=6AC27177)
 軟銀支持的 SB Energy (美股代號：SBE)昨日申請美國IPO，其背後的商業邏輯與物理結構，正好挑戰了我們對科技發展的固有認知。
 
 基礎設施的版圖分佈：根據產業鏈圖表顯示，少有實體能掌控整個生態圈，而 SB Energy 目前在「土地與併網」、「發電」以及「電力輸送」這三個基礎物理層面已經實現交付。

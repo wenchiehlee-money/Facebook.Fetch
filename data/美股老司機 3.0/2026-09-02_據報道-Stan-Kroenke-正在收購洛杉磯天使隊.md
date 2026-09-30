@@ -4,12 +4,12 @@ title: "據報道， Stan Kroenke 正在收購洛杉磯天使隊。"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61564607679559"
 final_url: "https://www.facebook.com/profile.php?id=61564607679559"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0oBSnkagWfHFeKvSNx13QV5reuKCVMBsrZrMNv8aSR4yJ3SDjGtmQ37Aitxvy6gsMl&id=61564607679559"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0o1QqTTiU7s8ZqXaaMBZWeLDTZeXJNeHVLPmBabhFTm7ZQHkZosyAXRwJwn8rsd21l&id=61564607679559"
 creation_time_utc: "2026-09-02T15:33:46+00:00"
-fetched_at_utc: "2026-09-06T14:59:36.320238+00:00"
+fetched_at_utc: "2026-09-30T03:47:07.196053+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0oBSnkagWfHFeKvSNx13QV5reuKCVMBsrZrMNv8aSR4yJ3SDjGtmQ37Aitxvy6gsMl&id=61564607679559"
+attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0o1QqTTiU7s8ZqXaaMBZWeLDTZeXJNeHVLPmBabhFTm7ZQHkZosyAXRwJwn8rsd21l&id=61564607679559"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTIyMjAxMzk2MzMwNDg2OTIy"
 page_canonical_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 據報道， Stan Kroenke 正在收購洛杉磯天使隊。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0oBSnkagWfHFeKvSNx13QV5reuKCVMBsrZrMNv8aSR4yJ3SDjGtmQ37Aitxvy6gsMl&id=61564607679559
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0o1QqTTiU7s8ZqXaaMBZWeLDTZeXJNeHVLPmBabhFTm7ZQHkZosyAXRwJwn8rsd21l&id=61564607679559
 據報道， Stan Kroenke 正在收購洛杉磯天使隊。
 
 此次收購將為Kroenke Sports & Entertainment 的商業版圖再添一員：

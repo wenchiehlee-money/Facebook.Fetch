@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0wDZs3rijyFixrSpttSNmDo5wuSwnZoZNisrLwxYGUJjm5wUKbVs7Ap3iAt3qyrR4l&id=61573146584049"
 creation_time_utc: "2026-09-27T03:05:33+00:00"
-fetched_at_utc: "2026-09-30T03:23:59.001163+00:00"
+fetched_at_utc: "2026-09-30T03:35:41.118112+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/825279339_122198876540771552_6343561113145446165_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=LjdvX9ONCJEQ7kNvwElGD7t&_nc_oc=AdoXwnbLTGBg7ZxdiKF2JOXbc4MbTgv39ujDCB1kY9OxlW_T8hIQxFR-ZCfQfoWwAng&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=Um8IL8SQIKlwGh5jwex0dQ&_nc_ss=7e120&oh=00_AQPrJjn8YuGZ-vqgcrFC28PK0nAcHY5dFj5IU4speHO5_g&oe=6AC25A2D"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/825279339_122198876540771552_6343561113145446165_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=LjdvX9ONCJEQ7kNvwETEVHq&_nc_oc=AdrKS_DTDb7h0gOjPZyu2HiYezAErGV3dUsarUJc7sHMR3mYFyC1Pekv_SPP-_v6J_Q&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=01nppOr6A5LCWmOB_u43tw&_nc_ss=7e120&oh=00_AQPzjZJa62_84PCIa4gHCCOkGQDnxhlx7hmd-1TLoAU1HA&oe=6AC25A2D"
 feedback_id: "ZmVlZGJhY2s6MTIyMTk4ODc2NjA2NzcxNTUy"
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0wDZs3rijyFixrSpttSNmDo5wuSwnZoZNisrLwxYGUJjm5wUKbVs7Ap3iAt3qyrR4l&id=61573146584049
 
-![如果有一天，你想買跑鞋時，第一個直覺不再是 Amazon，而是 Muse，那麼 Amazon 的價值還剩下多少？](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/825279339_122198876540771552_6343561113145446165_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=LjdvX9ONCJEQ7kNvwElGD7t&_nc_oc=AdoXwnbLTGBg7ZxdiKF2JOXbc4MbTgv39ujDCB1kY9OxlW_T8hIQxFR-ZCfQfoWwAng&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=Um8IL8SQIKlwGh5jwex0dQ&_nc_ss=7e120&oh=00_AQPrJjn8YuGZ-vqgcrFC28PK0nAcHY5dFj5IU4speHO5_g&oe=6AC25A2D)
+![如果有一天，你想買跑鞋時，第一個直覺不再是 Amazon，而是 Muse，那麼 Amazon 的價值還剩下多少？](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/825279339_122198876540771552_6343561113145446165_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=LjdvX9ONCJEQ7kNvwETEVHq&_nc_oc=AdrKS_DTDb7h0gOjPZyu2HiYezAErGV3dUsarUJc7sHMR3mYFyC1Pekv_SPP-_v6J_Q&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=01nppOr6A5LCWmOB_u43tw&_nc_ss=7e120&oh=00_AQPzjZJa62_84PCIa4gHCCOkGQDnxhlx7hmd-1TLoAU1HA&oe=6AC25A2D)
 如果有一天，你想買跑鞋時，第一個直覺不再是 Amazon，而是 Muse，那麼 Amazon 的價值還剩下多少？
 ​
 Amazon 也在擔心這件事。它的答案很直接：不讓 Muse 進來。當使用者試圖透過 Muse 前往 Amazon 購物，Amazon 直接阻擋了存取權限，理由是 Muse 屬於「未經授權的 AI 助理」。

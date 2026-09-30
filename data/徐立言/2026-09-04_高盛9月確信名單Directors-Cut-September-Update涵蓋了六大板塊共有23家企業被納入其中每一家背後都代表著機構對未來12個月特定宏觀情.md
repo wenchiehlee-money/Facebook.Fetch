@@ -4,22 +4,22 @@ title: "高盛9月「確信名單」（Directors' Cut September Update）涵蓋�
 page_title: ""
 requested_url: "https://www.facebook.com/hsulylab"
 final_url: "https://www.facebook.com/hsulylab"
-post_url: "https://www.facebook.com/hsulylab/posts/pfbid02KJv71UCKWE3XHg272RPLKdBe9M9J7eigbMJ7GiWRDCFib2KYGWekoYqzbcGpn2EZl"
+post_url: "https://www.facebook.com/hsulylab/posts/pfbid02KcqgGzoUnSR6mR1qak1F6a6RcKaDZ86Fnmu4QqSNAykM8UcbGr9goaSRmcrAGnFfl"
 creation_time_utc: "2026-09-04T10:00:27+00:00"
-fetched_at_utc: "2026-09-06T15:01:22.812987+00:00"
+fetched_at_utc: "2026-09-30T03:48:26.401928+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/793925366_1359547933010024_2166496170781704520_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=LwCwnOittj4Q7kNvwG0WfPm&_nc_oc=Ado3sdH-VsZ9Elm9m-VfCsIt2xnEuiOcVo5YPqdTR8LCMy5DA-StQpdAoiTglUhWhaQ&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=5Vj2PrepbCx800JMGwsOPw&_nc_ss=7e120&oh=00_AQIZDLY9XvA8o0hMyXFZEu4_WW4XJxwXEMDnnjdT6iIp8w&oe=6AA35838"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/793925366_1359547933010024_2166496170781704520_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=e5DI0mEStFcQ7kNvwH1ghHj&_nc_oc=Adp0z7n8f3SDo8xeC7mY6oxc8R536sJHlCApeIM7NC9H-4Xn7T1FmRbHdQe4zide10A&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=oVa2KRHYghQPzoqs2r8tNA&_nc_ss=7e120&oh=00_AQMalMJEOGIRfqqkxxxjE6T539qmzetHRmFB0YKzz8s36Q&oe=6AC25378"
 feedback_id: "ZmVlZGJhY2s6MTM1OTkxMjgwOTY0MDIwMw=="
 page_canonical_url: ""
 ---
 
 # 高盛9月「確信名單」（Directors' Cut September Update）涵蓋了六大板塊，共有23家企業被納入其中，每一家背後都代表著機構對未來12個月特定宏觀情境的押注。我們逐一來拆解這些圖表內容及其深層含義：
 
-原文連結: https://www.facebook.com/hsulylab/posts/pfbid02KJv71UCKWE3XHg272RPLKdBe9M9J7eigbMJ7GiWRDCFib2KYGWekoYqzbcGpn2EZl
+原文連結: https://www.facebook.com/hsulylab/posts/pfbid02KcqgGzoUnSR6mR1qak1F6a6RcKaDZ86Fnmu4QqSNAykM8UcbGr9goaSRmcrAGnFfl
 
-![高盛9月「確信名單」（Directors' Cut September Update）涵蓋了六大板塊，共有23家企業被納入其中，每一家背後都代表著機構對未來12個月特定宏觀情境的押注。我們逐一來拆解這些圖表內容及其深層含義：](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/793925366_1359547933010024_2166496170781704520_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=LwCwnOittj4Q7kNvwG0WfPm&_nc_oc=Ado3sdH-VsZ9Elm9m-VfCsIt2xnEuiOcVo5YPqdTR8LCMy5DA-StQpdAoiTglUhWhaQ&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=5Vj2PrepbCx800JMGwsOPw&_nc_ss=7e120&oh=00_AQIZDLY9XvA8o0hMyXFZEu4_WW4XJxwXEMDnnjdT6iIp8w&oe=6AA35838)
+![高盛9月「確信名單」（Directors' Cut September Update）涵蓋了六大板塊，共有23家企業被納入其中，每一家背後都代表著機構對未來12個月特定宏觀情境的押注。我們逐一來拆解這些圖表內容及其深層含義：](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/793925366_1359547933010024_2166496170781704520_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=e5DI0mEStFcQ7kNvwH1ghHj&_nc_oc=Adp0z7n8f3SDo8xeC7mY6oxc8R536sJHlCApeIM7NC9H-4Xn7T1FmRbHdQe4zide10A&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=oVa2KRHYghQPzoqs2r8tNA&_nc_ss=7e120&oh=00_AQMalMJEOGIRfqqkxxxjE6T539qmzetHRmFB0YKzz8s36Q&oe=6AC25378)
 高盛9月「確信名單」（Directors' Cut September Update）涵蓋了六大板塊，共有23家企業被納入其中，每一家背後都代表著機構對未來12個月特定宏觀情境的押注。我們逐一來拆解這些圖表內容及其深層含義：
 
 消費板塊 (Consumer)：在韌性與復甦中尋找確定性

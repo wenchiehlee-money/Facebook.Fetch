@@ -4,9 +4,9 @@ title: "Anthropic可能推遲IPO時間至10月中，多一點時間拚營收嗎?
 page_title: ""
 requested_url: "https://www.facebook.com/ForexStrategist"
 final_url: "https://www.facebook.com/ForexStrategist"
-post_url: "https://www.facebook.com/ForexStrategist/posts/pfbid02i5GR7iwZVPhFCvGtExKEdpcvGgg62hALJXHJcR1udmBazTdPASkzLANJJBsp1y8tl"
+post_url: "https://www.facebook.com/ForexStrategist/posts/pfbid02huETpbyWwqGUUuqYE668rKvGtK4M4EU7J5Yt4jUoiG8iNNHyJr6xGrLwx7L6JtLdl"
 creation_time_utc: "2026-09-05T13:30:47+00:00"
-fetched_at_utc: "2026-09-06T01:58:06.035358+00:00"
+fetched_at_utc: "2026-09-30T03:39:40.846645+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # Anthropic可能推遲IPO時間至10月中，多一點時間拚營收嗎?
 
-原文連結: https://www.facebook.com/ForexStrategist/posts/pfbid02i5GR7iwZVPhFCvGtExKEdpcvGgg62hALJXHJcR1udmBazTdPASkzLANJJBsp1y8tl
+原文連結: https://www.facebook.com/ForexStrategist/posts/pfbid02huETpbyWwqGUUuqYE668rKvGtK4M4EU7J5Yt4jUoiG8iNNHyJr6xGrLwx7L6JtLdl
 Anthropic可能推遲IPO時間至10月中，多一點時間拚營收嗎?
 
 路透社獨家報導

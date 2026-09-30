@@ -4,22 +4,22 @@ title: "Uber突然和司機工會站在一起。過去最積極挑戰計程車�
 page_title: ""
 requested_url: "https://www.facebook.com/yutinghaosfinance"
 final_url: "https://www.facebook.com/yutinghaosfinance"
-post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid0Qpo29YMTy7mRBpdLjE9Jj3wb386K1XGrtZe5aQA7ouuiotxCnu4xaN5obYakxeRCl"
+post_url: "https://www.facebook.com/yutinghaosfinance/posts/pfbid02UgMnLEaz6gjTq4Fd9qKptnabogBGKNbweTwuD1Mhi3he2xcbtK4pwXsmaD3FrKxhl"
 creation_time_utc: "2026-09-03T12:32:05+00:00"
-fetched_at_utc: "2026-09-06T14:44:31.683647+00:00"
+fetched_at_utc: "2026-09-30T03:32:26.194242+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/784351406_1138986655359353_7649910461878895633_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7rlF470Ca7MQ7kNvwFfQ1L6&_nc_oc=AdrSkL9RJjtwKb_MyrRkZFHsnF7MgBlKSkeT4jTQYEfA5WHM1nLflvBJByBTXCDyZ-I&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=neO56O7poaeFV0QGPmb4wQ&_nc_ss=7e120&oh=00_AQJGbUpkDq46bJm86jONAVzQwRD8ec3-dW7sBHibATvazw&oe=6AA35361"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/784351406_1138986655359353_7649910461878895633_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Sae-GnCQPSEQ7kNvwEauVBT&_nc_oc=AdqLr3gpjpphiAInQlxUHDCXO8TDxvRE-OLC5Nxct5PXYboAfQ2ImRyxG8Bg1b5d5to&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=ZJ1-U0QDLli88Pr_MmIUYw&_nc_ss=7e120&oh=00_AQPSoNuHCEdYNEZ-Sj3WneTMJ9U68GNdYgCGJTd0DNbhtw&oe=6AC24EA1"
 feedback_id: "ZmVlZGJhY2s6MTEzODk4Njc0ODY5MjY3Nw=="
 page_canonical_url: ""
 ---
 
 # Uber突然和司機工會站在一起。過去最積極挑戰計程車與勞工制度的Uber，如今面對自駕車浪潮，反而開始與司機工會合作，希望放慢Robotaxi擴張速度。
 
-原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid0Qpo29YMTy7mRBpdLjE9Jj3wb386K1XGrtZe5aQA7ouuiotxCnu4xaN5obYakxeRCl
+原文連結: https://www.facebook.com/yutinghaosfinance/posts/pfbid02UgMnLEaz6gjTq4Fd9qKptnabogBGKNbweTwuD1Mhi3he2xcbtK4pwXsmaD3FrKxhl
 
-![Uber突然和司機工會站在一起。過去最積極挑戰計程車與勞工制度的Uber，如今面對自駕車浪潮，反而開始與司機工會合作，希望放慢Robotaxi擴張速度。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/784351406_1138986655359353_7649910461878895633_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7rlF470Ca7MQ7kNvwFfQ1L6&_nc_oc=AdrSkL9RJjtwKb_MyrRkZFHsnF7MgBlKSkeT4jTQYEfA5WHM1nLflvBJByBTXCDyZ-I&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=neO56O7poaeFV0QGPmb4wQ&_nc_ss=7e120&oh=00_AQJGbUpkDq46bJm86jONAVzQwRD8ec3-dW7sBHibATvazw&oe=6AA35361)
+![Uber突然和司機工會站在一起。過去最積極挑戰計程車與勞工制度的Uber，如今面對自駕車浪潮，反而開始與司機工會合作，希望放慢Robotaxi擴張速度。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/784351406_1138986655359353_7649910461878895633_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Sae-GnCQPSEQ7kNvwEauVBT&_nc_oc=AdqLr3gpjpphiAInQlxUHDCXO8TDxvRE-OLC5Nxct5PXYboAfQ2ImRyxG8Bg1b5d5to&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=ZJ1-U0QDLli88Pr_MmIUYw&_nc_ss=7e120&oh=00_AQPSoNuHCEdYNEZ-Sj3WneTMJ9U68GNdYgCGJTd0DNbhtw&oe=6AC24EA1)
 Uber突然和司機工會站在一起。過去最積極挑戰計程車與勞工制度的Uber，如今面對自駕車浪潮，反而開始與司機工會合作，希望放慢Robotaxi擴張速度。
 
 Uber正在美國多地推動混合車隊制度，要求叫車平台不能完全使用無人車，例如在紐澤西州提出3年試行期間，至少85%的載客行程仍必須由真人司機完成。

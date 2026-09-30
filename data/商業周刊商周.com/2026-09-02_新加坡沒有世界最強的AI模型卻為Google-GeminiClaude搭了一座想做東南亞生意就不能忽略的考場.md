@@ -4,22 +4,22 @@ title: "新加坡沒有世界最強的AI模型，卻為Google Gemini、Claude搭
 page_title: ""
 requested_url: "https://www.facebook.com/bwnet.fans"
 final_url: "https://www.facebook.com/bwnet.fans"
-post_url: "https://www.facebook.com/bwnet.fans/posts/pfbid02eiyu7BGVvQjRxziste7fKEb46DXKJsStYNWn5mzk2uqj55vZCgVXdbU5eJ2RyF4dl"
+post_url: "https://www.facebook.com/bwnet.fans/posts/pfbid02eYwwp4JTNvT5Dy59APVjfmYd6J53K3yV8SwGVGXfkgWGRPUta8XX85L3EQN414e8l"
 creation_time_utc: "2026-09-02T10:36:55+00:00"
-fetched_at_utc: "2026-09-06T15:06:54.047739+00:00"
+fetched_at_utc: "2026-09-30T03:53:26.934116+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/790593435_1499262932235918_261458942577226283_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=m5Ix0MjLsFsQ7kNvwGh5uv8&_nc_oc=AdosQS5OriX2VFltvfgPonnjlGMopw75EDp3xoEycaBkbUGF-FtZ3QbORiIk0cmdJ2c&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=O3LODrjx7a5CBvoOYK_f6A&_nc_ss=7e120&oh=00_AQKyKdQcdt8ko3bmHMesAHvmZWcK17LdhIkT1jlzIfl6hg&oe=6AA349E2"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/790593435_1499262932235918_261458942577226283_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7Py6j5qhjOYQ7kNvwGHya98&_nc_oc=AdpC8pCZRQ__4v4vORtp7tMs8TK0iqJz8MBA4gaJ-QfdFhcTZmTovcGbRgguWR0yIko&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=sX7uvAuRMTwoHiKCzX6jIA&_nc_ss=7e120&oh=00_AQN1Ei0UU5Nal6Rck-O8rjD1ue9_Kp3ZBVg7_A7DCedF8Q&oe=6AC24522"
 feedback_id: "ZmVlZGJhY2s6MTQ5OTI2MzI5ODkwMjU0OA=="
 page_canonical_url: ""
 ---
 
 # 新加坡沒有世界最強的AI模型，卻為Google Gemini、Claude搭了一座想做東南亞生意，就不能忽略的「考場」。
 
-原文連結: https://www.facebook.com/bwnet.fans/posts/pfbid02eiyu7BGVvQjRxziste7fKEb46DXKJsStYNWn5mzk2uqj55vZCgVXdbU5eJ2RyF4dl
+原文連結: https://www.facebook.com/bwnet.fans/posts/pfbid02eYwwp4JTNvT5Dy59APVjfmYd6J53K3yV8SwGVGXfkgWGRPUta8XX85L3EQN414e8l
 
-![新加坡沒有世界最強的AI模型，卻為Google Gemini、Claude搭了一座想做東南亞生意，就不能忽略的「考場」。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/790593435_1499262932235918_261458942577226283_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=m5Ix0MjLsFsQ7kNvwGh5uv8&_nc_oc=AdosQS5OriX2VFltvfgPonnjlGMopw75EDp3xoEycaBkbUGF-FtZ3QbORiIk0cmdJ2c&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=O3LODrjx7a5CBvoOYK_f6A&_nc_ss=7e120&oh=00_AQKyKdQcdt8ko3bmHMesAHvmZWcK17LdhIkT1jlzIfl6hg&oe=6AA349E2)
+![新加坡沒有世界最強的AI模型，卻為Google Gemini、Claude搭了一座想做東南亞生意，就不能忽略的「考場」。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/790593435_1499262932235918_261458942577226283_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7Py6j5qhjOYQ7kNvwGHya98&_nc_oc=AdpC8pCZRQ__4v4vORtp7tMs8TK0iqJz8MBA4gaJ-QfdFhcTZmTovcGbRgguWR0yIko&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=sX7uvAuRMTwoHiKCzX6jIA&_nc_ss=7e120&oh=00_AQN1Ei0UU5Nal6Rck-O8rjD1ue9_Kp3ZBVg7_A7DCedF8Q&oe=6AC24522)
 新加坡沒有世界最強的AI模型，卻為Google Gemini、Claude搭了一座想做東南亞生意，就不能忽略的「考場」。
 
 新加坡主導開發的SEA-LION，旗艦版本只有700億參數，遠不如參數高達2兆8千億的中國模型Kimi K3。

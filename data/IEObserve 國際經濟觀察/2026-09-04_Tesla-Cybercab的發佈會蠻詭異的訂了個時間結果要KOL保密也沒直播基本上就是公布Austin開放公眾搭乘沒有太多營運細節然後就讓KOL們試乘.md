@@ -4,22 +4,22 @@ title: "Tesla Cybercab的發佈會蠻詭異的，訂了個時間結果要KOL保�
 page_title: ""
 requested_url: "https://www.facebook.com/intleconobserve"
 final_url: "https://www.facebook.com/intleconobserve"
-post_url: "https://www.facebook.com/intleconobserve/posts/pfbid0sQvwajtNqX77GTUMJaB9gKg4UaNkU4CjnaFNN49S5bjQA5isdadLKHCScLnhYFPl"
+post_url: "https://www.facebook.com/intleconobserve/posts/pfbid0hNyeTmqqE6SRVEc9zHRPDo3P5SqmxRQYxrt2nhHFvy3yPNES2pE66yoR7Jw96wcl"
 creation_time_utc: "2026-09-04T02:27:26+00:00"
-fetched_at_utc: "2026-09-06T14:53:31.365081+00:00"
+fetched_at_utc: "2026-09-30T03:42:42.401092+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/786288286_1597841808367108_8404511598510932572_n.jpg?stp=dst-jpg_s565x565_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HmhZzbfsM_AQ7kNvwE6QkeV&_nc_oc=Ado2EmvPPcM3C2vuFiVQu6YFnga7H0sYRqElQYT-F0APcVmgZ2b2vrhJxSdXr3Jzv7A&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=k2Di6iBZXeZSiChm7R7UWA&_nc_ss=7e120&oh=00_AQKRb4iEOhvi3k8S8c0K-9TboJ4Y10nE_pxWcAUVDNnXng&oe=6AA348D2"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/786288286_1597841808367108_8404511598510932572_n.jpg?stp=dst-jpg_s565x565_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DeMZ2mgA2KcQ7kNvwEgD5xW&_nc_oc=Adp1R2YAnG1OXqVFcZHxUPJIE0nNwRFstNELOu74cHYT2wdZc330WActOICQzyRGS28&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=YzfPBq8eIgztdrhPsV0AxQ&_nc_ss=7e120&oh=00_AQN_OGl2m7FasePz7SaN99-brh8RAd-eWnTNjWGFoPlYbA&oe=6AC24412"
 feedback_id: "ZmVlZGJhY2s6MTU5Nzg0Mzk5NTAzMzU1Ng=="
 page_canonical_url: ""
 ---
 
 # Tesla Cybercab的發佈會蠻詭異的，訂了個時間結果要KOL保密也沒直播，基本上就是公布Austin開放公眾搭乘，沒有太多營運細節，然後就讓KOL們試乘。
 
-原文連結: https://www.facebook.com/intleconobserve/posts/pfbid0sQvwajtNqX77GTUMJaB9gKg4UaNkU4CjnaFNN49S5bjQA5isdadLKHCScLnhYFPl
+原文連結: https://www.facebook.com/intleconobserve/posts/pfbid0hNyeTmqqE6SRVEc9zHRPDo3P5SqmxRQYxrt2nhHFvy3yPNES2pE66yoR7Jw96wcl
 
-![Tesla Cybercab的發佈會蠻詭異的，訂了個時間結果要KOL保密也沒直播，基本上就是公布Austin開放公眾搭乘，沒有太多營運細節，然後就讓KOL們試乘。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/786288286_1597841808367108_8404511598510932572_n.jpg?stp=dst-jpg_s565x565_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HmhZzbfsM_AQ7kNvwE6QkeV&_nc_oc=Ado2EmvPPcM3C2vuFiVQu6YFnga7H0sYRqElQYT-F0APcVmgZ2b2vrhJxSdXr3Jzv7A&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=k2Di6iBZXeZSiChm7R7UWA&_nc_ss=7e120&oh=00_AQKRb4iEOhvi3k8S8c0K-9TboJ4Y10nE_pxWcAUVDNnXng&oe=6AA348D2)
+![Tesla Cybercab的發佈會蠻詭異的，訂了個時間結果要KOL保密也沒直播，基本上就是公布Austin開放公眾搭乘，沒有太多營運細節，然後就讓KOL們試乘。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/786288286_1597841808367108_8404511598510932572_n.jpg?stp=dst-jpg_s565x565_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DeMZ2mgA2KcQ7kNvwEgD5xW&_nc_oc=Adp1R2YAnG1OXqVFcZHxUPJIE0nNwRFstNELOu74cHYT2wdZc330WActOICQzyRGS28&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=YzfPBq8eIgztdrhPsV0AxQ&_nc_ss=7e120&oh=00_AQN_OGl2m7FasePz7SaN99-brh8RAd-eWnTNjWGFoPlYbA&oe=6AC24412)
 Tesla Cybercab的發佈會蠻詭異的，訂了個時間結果要KOL保密也沒直播，基本上就是公布Austin開放公眾搭乘，沒有太多營運細節，然後就讓KOL們試乘。
 
 亞洲看起來會要等更久，離實際營運應該會很久，只能先展覽給大家聞香一下。

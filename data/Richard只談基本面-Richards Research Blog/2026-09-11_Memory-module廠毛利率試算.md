@@ -4,9 +4,9 @@ title: "Memory module廠毛利率試算"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid024v85Yyo5qXF5VGdjLtRxeKqTitcG3umicBJ9fTNZK2DD1QLAF3v4niZpubG9BPc5l&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid019pQ1teyXwWHTfgroLPbMB1DtXQYFvotmUFcoq4dpwrJkWUCstha8arGF17NeYLel&id=100054201473657"
 creation_time_utc: "2026-09-11T15:42:44+00:00"
-fetched_at_utc: "2026-09-21T13:48:59.099169+00:00"
+fetched_at_utc: "2026-09-30T03:40:08.969076+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # Memory module廠毛利率試算
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid024v85Yyo5qXF5VGdjLtRxeKqTitcG3umicBJ9fTNZK2DD1QLAF3v4niZpubG9BPc5l&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid019pQ1teyXwWHTfgroLPbMB1DtXQYFvotmUFcoq4dpwrJkWUCstha8arGF17NeYLel&id=100054201473657
 Memory module廠毛利率試算
 
 只是試算、概算，一定有假設，各公司策略、做法也一定不同

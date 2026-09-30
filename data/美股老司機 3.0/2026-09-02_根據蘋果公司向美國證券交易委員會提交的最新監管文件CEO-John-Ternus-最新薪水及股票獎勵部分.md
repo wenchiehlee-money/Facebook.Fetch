@@ -4,22 +4,22 @@ title: "根據蘋果公司向美國證券交易委員會提交的最新監管文
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61564607679559"
 final_url: "https://www.facebook.com/profile.php?id=61564607679559"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0KTsZsJz14bGeG1DtKRH8quUe1neraVzs9oRQKWgaauQcBUHWD9HsmfrGG9mdfdKsl&id=61564607679559"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0Kmo98qbALijqKZ8x3vAciJ2xhLNJQZ7Q9kFSi8KWf3ir29SDn3CVCDjSDUjsf7X8l&id=61564607679559"
 creation_time_utc: "2026-09-02T15:48:31+00:00"
-fetched_at_utc: "2026-09-06T14:59:36.320238+00:00"
+fetched_at_utc: "2026-09-30T03:47:07.196053+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/793158960_122201398016486922_5030681064991444_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=qWaQSRAWOp0Q7kNvwGUEtUj&_nc_oc=AdpfKwNsiMRaUDe3Uj5kR9Ipz3C18iqamBsI3BQujFafVgFMYE05dA8kFqTgFjj7BDs&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=BWusFCpS338_YMO2KW33uQ&_nc_ss=7e120&oh=00_AQKPMIshnqrXK1EUrgVumcqvK-XQRIVnnt2eomrKtd95Jg&oe=6AA35123"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/793158960_122201398016486922_5030681064991444_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=1MfDhZ-XirwQ7kNvwGanIT2&_nc_oc=AdoeNWtrak6WpMCSXdjZLASuhm30C3wszCxkbqC2g_8l1UCHvFDt7X2-B4qevbl-na4&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=yJq4yc_XZDOxzHuKudvVMQ&_nc_ss=7e120&oh=00_AQOKqu8_fshPh_ksb58FTY4656E6JE4ACvVxqtOWjeeriA&oe=6AC24C63"
 feedback_id: "ZmVlZGJhY2s6MTIyMjAxMzk4MDQwNDg2OTIy"
 page_canonical_url: ""
 ---
 
 # 根據蘋果公司向美國證券交易委員會提交的最新監管文件，CEO John Ternus 最新薪水及股票獎勵部分：
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0KTsZsJz14bGeG1DtKRH8quUe1neraVzs9oRQKWgaauQcBUHWD9HsmfrGG9mdfdKsl&id=61564607679559
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0Kmo98qbALijqKZ8x3vAciJ2xhLNJQZ7Q9kFSi8KWf3ir29SDn3CVCDjSDUjsf7X8l&id=61564607679559
 
-![根據蘋果公司向美國證券交易委員會提交的最新監管文件，CEO John Ternus 最新薪水及股票獎勵部分：](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/793158960_122201398016486922_5030681064991444_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=qWaQSRAWOp0Q7kNvwGUEtUj&_nc_oc=AdpfKwNsiMRaUDe3Uj5kR9Ipz3C18iqamBsI3BQujFafVgFMYE05dA8kFqTgFjj7BDs&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=BWusFCpS338_YMO2KW33uQ&_nc_ss=7e120&oh=00_AQKPMIshnqrXK1EUrgVumcqvK-XQRIVnnt2eomrKtd95Jg&oe=6AA35123)
+![根據蘋果公司向美國證券交易委員會提交的最新監管文件，CEO John Ternus 最新薪水及股票獎勵部分：](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/793158960_122201398016486922_5030681064991444_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=1MfDhZ-XirwQ7kNvwGanIT2&_nc_oc=AdoeNWtrak6WpMCSXdjZLASuhm30C3wszCxkbqC2g_8l1UCHvFDt7X2-B4qevbl-na4&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=yJq4yc_XZDOxzHuKudvVMQ&_nc_ss=7e120&oh=00_AQOKqu8_fshPh_ksb58FTY4656E6JE4ACvVxqtOWjeeriA&oe=6AC24C63)
 根據蘋果公司向美國證券交易委員會提交的最新監管文件，CEO John Ternus 最新薪水及股票獎勵部分： 
 
 基本年薪：John Ternus 接任蘋果執行長後，基本年薪為 300 萬美元。

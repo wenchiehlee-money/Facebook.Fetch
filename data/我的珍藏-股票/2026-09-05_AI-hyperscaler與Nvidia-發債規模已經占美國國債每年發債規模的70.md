@@ -6,7 +6,7 @@ source_page: "Roger's Letter"
 requested_url: "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL"
 post_url: "https://www.facebook.com/timelessinvestment/posts/pfbid029x9xxVzYXtAUBXxaXJWg8nFd6p7yMcRDjQfFXurznVjgSPA3uRxDSaJbWqu4jyEpl"
 creation_time_utc: ""
-fetched_at_utc: "2026-09-30T03:23:17.561203+00:00"
+fetched_at_utc: "2026-09-30T03:28:11.605905+00:00"
 source: "saved_list"
 ---
 

@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
 post_url: "https://www.facebook.com/FinGuider/posts/pfbid02qkCgavCcXxHcQisTkX5FG9W7h4Sw3NpW6h2nveeDYoGkc2UQvAgSRxS7G653vMWel"
 creation_time_utc: "2026-09-30T00:30:08+00:00"
-fetched_at_utc: "2026-09-30T03:23:40.985076+00:00"
+fetched_at_utc: "2026-09-30T03:33:10.490207+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/829841824_1573225011514307_7720336579571583413_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ooG4npqoUO0Q7kNvwHwubVq&_nc_oc=AdoGZlCPTHN09-N1lckXKFrzHFwsiU2M7v25HzpkpYCUoK84iQ_n7QleZK6WPHQbjpg&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=FbQYc9-T3M9R1ZWCrWerzw&_nc_ss=7e120&oh=00_AQNAoP9yuIrkq8qHMdOj9RFEEuvi-fQEaFsZhN2qeTTnvA&oe=6AC2527B"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/829841824_1573225011514307_7720336579571583413_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ooG4npqoUO0Q7kNvwF495c1&_nc_oc=Adq4DyTYxhi1XV92ECRujbOFJw1wv96yDZpLDVcyCeMERfTq9Q1ghdSetq2JDg2uLCc&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=1_Rzj92Jjj6Yq3ATiFtOhw&_nc_ss=7e120&oh=00_AQOhW4fvbNydnuue7MlCmGZK9_8a6u-S57SrvS1fXIborQ&oe=6AC2527B"
 feedback_id: "ZmVlZGJhY2s6MTU3MzIyNzE1ODE4MDc1OQ=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/FinGuider/posts/pfbid02qkCgavCcXxHcQisTkX5FG9W7h4Sw3NpW6h2nveeDYoGkc2UQvAgSRxS7G653vMWel
 
-![【Robinhood 把 AI 直接送上交易桌】](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/829841824_1573225011514307_7720336579571583413_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ooG4npqoUO0Q7kNvwHwubVq&_nc_oc=AdoGZlCPTHN09-N1lckXKFrzHFwsiU2M7v25HzpkpYCUoK84iQ_n7QleZK6WPHQbjpg&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=FbQYc9-T3M9R1ZWCrWerzw&_nc_ss=7e120&oh=00_AQNAoP9yuIrkq8qHMdOj9RFEEuvi-fQEaFsZhN2qeTTnvA&oe=6AC2527B)
+![【Robinhood 把 AI 直接送上交易桌】](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/829841824_1573225011514307_7720336579571583413_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ooG4npqoUO0Q7kNvwF495c1&_nc_oc=Adq4DyTYxhi1XV92ECRujbOFJw1wv96yDZpLDVcyCeMERfTq9Q1ghdSetq2JDg2uLCc&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=1_Rzj92Jjj6Yq3ATiFtOhw&_nc_ss=7e120&oh=00_AQOhW4fvbNydnuue7MlCmGZK9_8a6u-S57SrvS1fXIborQ&oe=6AC2527B)
 【Robinhood 把 AI 直接送上交易桌】
 #Robinhood（#HOOD）正在把「AI 幫你下單」從少數技術玩家的工具，推向一般散戶。
 ​

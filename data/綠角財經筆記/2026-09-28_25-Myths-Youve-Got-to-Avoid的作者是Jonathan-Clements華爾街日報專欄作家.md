@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
 post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02nM5Ud6uQq6ftXcyAvQqYZy8VHWVBXyPUXZCjvDQKKDAaAhV2AUEuxnXYf7G8dwxRl"
 creation_time_utc: "2026-09-28T00:41:09+00:00"
-fetched_at_utc: "2026-09-30T03:23:45.168571+00:00"
+fetched_at_utc: "2026-09-30T03:33:45.318602+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/829196358_1516449986955063_4388459985019540679_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nsg0eSBEhgcQ7kNvwF66XWR&_nc_oc=AdrEcV_Z9Z0v0gL6hyq_t-nXINw-rF7_Qs6J0xItzpc37SPyAAf59q0AbJh9Dy0x0Yg&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=L0EwQJ3wWlPGiX3W8RrbPw&_nc_ss=7e120&oh=00_AQPMT9DVDgAMi5SLGtKvD7aKOwuzU2fZEAayUuEVAQYlFA&oe=6AC26172"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/829196358_1516449986955063_4388459985019540679_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nsg0eSBEhgcQ7kNvwHAMYqa&_nc_oc=AdqiTYlskz3-1HxLjPhcBGffM0dJRiJAQcpXYd5jFqY0aBJMFES1jHlHpbCGyLdiE7g&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=xFQ6oIX8hF8Om1wM7Va-mQ&_nc_ss=7e120&oh=00_AQOwwxJ3renWcTLKse5xc6WpOIsSUo_AzZ5Nr7JKA7apdA&oe=6AC26172"
 feedback_id: "ZmVlZGJhY2s6MTUxNjQ1MDEzMDI4ODM4Mg=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02nM5Ud6uQq6ftXcyAvQqYZy8VHWVBXyPUXZCjvDQKKDAaAhV2AUEuxnXYf7G8dwxRl
 
-![25 Myths You’ve Got to Avoid的作者是Jonathan Clements，華爾街日報專欄作家。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/829196358_1516449986955063_4388459985019540679_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nsg0eSBEhgcQ7kNvwF66XWR&_nc_oc=AdrEcV_Z9Z0v0gL6hyq_t-nXINw-rF7_Qs6J0xItzpc37SPyAAf59q0AbJh9Dy0x0Yg&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=L0EwQJ3wWlPGiX3W8RrbPw&_nc_ss=7e120&oh=00_AQPMT9DVDgAMi5SLGtKvD7aKOwuzU2fZEAayUuEVAQYlFA&oe=6AC26172)
+![25 Myths You’ve Got to Avoid的作者是Jonathan Clements，華爾街日報專欄作家。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/829196358_1516449986955063_4388459985019540679_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nsg0eSBEhgcQ7kNvwHAMYqa&_nc_oc=AdqiTYlskz3-1HxLjPhcBGffM0dJRiJAQcpXYd5jFqY0aBJMFES1jHlHpbCGyLdiE7g&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=xFQ6oIX8hF8Om1wM7Va-mQ&_nc_ss=7e120&oh=00_AQOwwxJ3renWcTLKse5xc6WpOIsSUo_AzZ5Nr7JKA7apdA&oe=6AC26172)
 25 Myths You’ve Got to Avoid的作者是Jonathan Clements，華爾街日報專欄作家。
 
 這書本則是在1997年發行，距今近30年。但是其中有些迷思，仍是生龍活虎的存在21世紀投資人的腦中。

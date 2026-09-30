@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
 post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid025ceLMkqaVtsBMXEGHsgQX7kJi42ivLP9h7EwVq3q1viK21LqVHZhq3B6CpYpkaNkl&id=61573146584049"
 creation_time_utc: "2026-09-28T10:09:28+00:00"
-fetched_at_utc: "2026-09-30T03:23:59.001163+00:00"
+fetched_at_utc: "2026-09-30T03:35:41.118112+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/829196728_122199056456771552_1531980524836208644_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=h6YZ0bDCe5IQ7kNvwGpT5Ho&_nc_oc=AdrDASXp8RrZoUmYPZ7OvdIENo39pE6TA8iBcj9t02IVRQkH9QGEc2i5xGBo-ngTHGM&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Um8IL8SQIKlwGh5jwex0dQ&_nc_ss=7e120&oh=00_AQPtClc3TDpdPJBMZ8coG9kJgK1u46XiqJ1D-onRNjnQtA&oe=6AC24DBA"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/829196728_122199056456771552_1531980524836208644_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=h6YZ0bDCe5IQ7kNvwHWeAQt&_nc_oc=Adp8KnzoAkEBRHtFozmeJJx6nSZZ_zza2HZobdwCP0cwI-XhTSdCabKf78wlyDNlDaE&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=01nppOr6A5LCWmOB_u43tw&_nc_ss=7e120&oh=00_AQMJoq4kki7TdFn-4-KrqNnW7cqFrqOqjdpfjBb8dHGi3g&oe=6AC24DBA"
 feedback_id: "ZmVlZGJhY2s6MTIyMTk5MDU2NTUyNzcxNTUy"
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid025ceLMkqaVtsBMXEGHsgQX7kJi42ivLP9h7EwVq3q1viK21LqVHZhq3B6CpYpkaNkl&id=61573146584049
 
-![最近上了《塞掐 Side Chat》，和 Fox Hsiao 聊了一場跟平常不太一樣的對話。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/829196728_122199056456771552_1531980524836208644_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=h6YZ0bDCe5IQ7kNvwGpT5Ho&_nc_oc=AdrDASXp8RrZoUmYPZ7OvdIENo39pE6TA8iBcj9t02IVRQkH9QGEc2i5xGBo-ngTHGM&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Um8IL8SQIKlwGh5jwex0dQ&_nc_ss=7e120&oh=00_AQPtClc3TDpdPJBMZ8coG9kJgK1u46XiqJ1D-onRNjnQtA&oe=6AC24DBA)
+![最近上了《塞掐 Side Chat》，和 Fox Hsiao 聊了一場跟平常不太一樣的對話。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/829196728_122199056456771552_1531980524836208644_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=h6YZ0bDCe5IQ7kNvwHWeAQt&_nc_oc=Adp8KnzoAkEBRHtFozmeJJx6nSZZ_zza2HZobdwCP0cwI-XhTSdCabKf78wlyDNlDaE&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=01nppOr6A5LCWmOB_u43tw&_nc_ss=7e120&oh=00_AQMJoq4kki7TdFn-4-KrqNnW7cqFrqOqjdpfjBb8dHGi3g&oe=6AC24DBA)
 最近上了《塞掐 Side Chat》，和 Fox Hsiao 聊了一場跟平常不太一樣的對話。
 ​
 平常我在電子報或專欄裡，大多是直接給出對市場的判斷。哪個產業我怎麼看、風往哪邊吹、哪些名字值得注意。那是結果，是「What」。

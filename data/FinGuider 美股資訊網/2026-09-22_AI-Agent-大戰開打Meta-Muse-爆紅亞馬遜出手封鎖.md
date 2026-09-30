@@ -4,22 +4,22 @@ title: "【AI Agent 大戰開打：Meta Muse 爆紅，亞馬遜出手封鎖！�
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid031h3cD4KBnepcC6eLF6YNuZy3n92ZXEN9kMTHC8MSpsaoB4JQpuJYss88ATJqWMCAl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0x6tvy7SpJWMUCxLze6M5L8TG3iQeShUpTb3UFrDq33Tnhm8KZKf6nyVCXHR9HKwwl"
 creation_time_utc: "2026-09-22T02:16:21+00:00"
-fetched_at_utc: "2026-09-22T06:03:21.659461+00:00"
+fetched_at_utc: "2026-09-30T03:33:10.490207+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/799839466_1565138812322927_6535245276488478641_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=pCyKObavvwMQ7kNvwH6NsXM&_nc_oc=AdrSeGbPe-VkY6u44oV4-498Kc-lboVjWTatcyoTQDZCe_EtPKmrnRuMbu7WMm6J0jo&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=tUB74i-fGwTBOyMShkH-KA&_nc_ss=7e120&oh=00_AQKg9mvToPCokX-TfgONpSpoZwxabpCIdWIH-04udhLz2g&oe=6AB7D0D2"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/799839466_1565138812322927_6535245276488478641_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PGNa5xeQSGEQ7kNvwGEeHxc&_nc_oc=AdrPLz1CNfh9nITGaRpOwJbj6TkfRc_cyGSuARRCIvmr2475j5uEdPebTY-u6QamnXA&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=8uHwrw4Ds38zFMKCrUmGuw&_nc_ss=7e120&oh=00_AQMIu_tPbF2TIgjqH7MQursWPDz6zyNtlNu7dHSqElDZGg&oe=6AC25CD2"
 feedback_id: "ZmVlZGJhY2s6MTU2NTE0MDc2ODk4OTM5OA=="
 page_canonical_url: ""
 ---
 
 # 【AI Agent 大戰開打：Meta Muse 爆紅，亞馬遜出手封鎖！】
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid031h3cD4KBnepcC6eLF6YNuZy3n92ZXEN9kMTHC8MSpsaoB4JQpuJYss88ATJqWMCAl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0x6tvy7SpJWMUCxLze6M5L8TG3iQeShUpTb3UFrDq33Tnhm8KZKf6nyVCXHR9HKwwl
 
-![【AI Agent 大戰開打：Meta Muse 爆紅，亞馬遜出手封鎖！】](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/799839466_1565138812322927_6535245276488478641_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=pCyKObavvwMQ7kNvwH6NsXM&_nc_oc=AdrSeGbPe-VkY6u44oV4-498Kc-lboVjWTatcyoTQDZCe_EtPKmrnRuMbu7WMm6J0jo&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=tUB74i-fGwTBOyMShkH-KA&_nc_ss=7e120&oh=00_AQKg9mvToPCokX-TfgONpSpoZwxabpCIdWIH-04udhLz2g&oe=6AB7D0D2)
+![【AI Agent 大戰開打：Meta Muse 爆紅，亞馬遜出手封鎖！】](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/799839466_1565138812322927_6535245276488478641_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PGNa5xeQSGEQ7kNvwGEeHxc&_nc_oc=AdrPLz1CNfh9nITGaRpOwJbj6TkfRc_cyGSuARRCIvmr2475j5uEdPebTY-u6QamnXA&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=8uHwrw4Ds38zFMKCrUmGuw&_nc_ss=7e120&oh=00_AQMIu_tPbF2TIgjqH7MQursWPDz6zyNtlNu7dHSqElDZGg&oe=6AC25CD2)
 【AI Agent 大戰開打：Meta Muse 爆紅，亞馬遜出手封鎖！】
 🔥Meta（#META）最近推了個人 AI 代理 #Muse，上線後迅速衝上美國 App Store 與 Google Play 免費榜第一。根據 Sensor Tower 統計，Muse 上線後六天下載量超過 90.2 萬次，高於前代 Meta AI 同期表現。
 ​

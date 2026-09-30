@@ -4,22 +4,22 @@ title: "🚀 GPT-6 Astra：AI 從工具走向「自主執行者」"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61565088683715"
 final_url: "https://www.facebook.com/profile.php?id=61565088683715"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02BW2FxEx3Pw2sHe8jZ4YiBHH2pM7z5Dh3m527m5RQ8X7HwpdHVwUCNduqpVZKVoLzl&id=61565088683715"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid07xW836dNpbnxWTuzfZoReqvyebc5wkzDZYh72j8wMgJzBScxPuxLfYKoqV7cnc4fl&id=61565088683715"
 creation_time_utc: "2026-09-04T12:11:05+00:00"
-fetched_at_utc: "2026-09-06T14:56:01.130088+00:00"
+fetched_at_utc: "2026-09-30T03:44:14.506542+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/796854480_122227257044502956_8949808776053962355_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7ExDERtJJGsQ7kNvwH8_VhM&_nc_oc=AdoZnuq3iqYThTgmixa7G_gZIyhITTVFmwHEqIP7GpIagrPx07lv0ar4wECHKdhp_D4&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=FyfZy8RrrLLsxoauu2wBqw&_nc_ss=7e120&oh=00_AQLQ1dQk7P-yzv40hrjyBQX0ZrRTJHxVQRTrX5KnKOso_Q&oe=6AA349C4"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/796854480_122227257044502956_8949808776053962355_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qwXPQxl8F30Q7kNvwE7rVzx&_nc_oc=AdpSDWdc2TlTYkh9GG59qQTF3gIbBNDSNGRSxNfKDkchnUlc903pUUEGGhsH31bZvOg&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=wvOhaqME61PQtG1-MzE5HA&_nc_ss=7e120&oh=00_AQP9c80LoRAACJDQTEW3zRCdsK8A4qN-LM4bD5M2WAJgOA&oe=6AC24504"
 feedback_id: "ZmVlZGJhY2s6MTIyMjI3MjQzNzkwNTAyOTU2"
 page_canonical_url: ""
 ---
 
 # 🚀 GPT-6 Astra：AI 從工具走向「自主執行者」
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02BW2FxEx3Pw2sHe8jZ4YiBHH2pM7z5Dh3m527m5RQ8X7HwpdHVwUCNduqpVZKVoLzl&id=61565088683715
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid07xW836dNpbnxWTuzfZoReqvyebc5wkzDZYh72j8wMgJzBScxPuxLfYKoqV7cnc4fl&id=61565088683715
 
-![🚀 GPT-6 Astra：AI 從工具走向「自主執行者」](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/796854480_122227257044502956_8949808776053962355_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7ExDERtJJGsQ7kNvwH8_VhM&_nc_oc=AdoZnuq3iqYThTgmixa7G_gZIyhITTVFmwHEqIP7GpIagrPx07lv0ar4wECHKdhp_D4&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=FyfZy8RrrLLsxoauu2wBqw&_nc_ss=7e120&oh=00_AQLQ1dQk7P-yzv40hrjyBQX0ZrRTJHxVQRTrX5KnKOso_Q&oe=6AA349C4)
+![🚀 GPT-6 Astra：AI 從工具走向「自主執行者」](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/796854480_122227257044502956_8949808776053962355_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qwXPQxl8F30Q7kNvwE7rVzx&_nc_oc=AdpSDWdc2TlTYkh9GG59qQTF3gIbBNDSNGRSxNfKDkchnUlc903pUUEGGhsH31bZvOg&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=wvOhaqME61PQtG1-MzE5HA&_nc_ss=7e120&oh=00_AQP9c80LoRAACJDQTEW3zRCdsK8A4qN-LM4bD5M2WAJgOA&oe=6AC24504)
 🚀 GPT-6 Astra：AI 從工具走向「自主執行者」
 🧠 ① 最大突破：自主性大幅提升
 ▪ Astra 不只是告訴你「怎麼做」，而是能自己規劃、推理、執行並完成複雜任務。

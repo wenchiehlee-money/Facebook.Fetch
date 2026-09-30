@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
 post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02jokfDhmSTZXS8wDDUNdppZmHeUhmDVkGM44pKZ33ojnwJ5HPeS3RJYBx8UFK7nEol"
 creation_time_utc: "2026-09-29T23:35:03+00:00"
-fetched_at_utc: "2026-09-30T03:23:45.168571+00:00"
+fetched_at_utc: "2026-09-30T03:33:45.318602+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/829196684_1517913103475418_620012118974022582_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=93IvTvP5GOAQ7kNvwGgcqWB&_nc_oc=AdqVFVJdLpzEUYyp_it5FS7Zm2ZmnIB4rl_TERr3ylc7RuKGBxvad7KzikP4mThEdik&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=L0EwQJ3wWlPGiX3W8RrbPw&_nc_ss=7e120&oh=00_AQOpZumeFe4yoZUKtwW3EP0e4sJNKAceOJELk1A8a1cdgQ&oe=6AC26F4B"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/829196684_1517913103475418_620012118974022582_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=93IvTvP5GOAQ7kNvwGnFl7K&_nc_oc=AdpsDK_-mzpW7xM76w6CxaEUxhetFDdJwBd5cb47aKbPvYFPxY9e2A0aMagmRXob1rg&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=xFQ6oIX8hF8Om1wM7Va-mQ&_nc_ss=7e120&oh=00_AQN2Rut79o05GQpsPozU25-VJjS3p2IQXXPVsMsf7FThqA&oe=6AC26F4B"
 feedback_id: "ZmVlZGJhY2s6MTUxODI4NjEwMzQzODExOA=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02jokfDhmSTZXS8wDDUNdppZmHeUhmDVkGM44pKZ33ojnwJ5HPeS3RJYBx8UFK7nEol
 
-![”Beyond status quo”的研究指出，33%本國股市搭配67%的國際股市，這樣一個完全投入股市的投資組合，是成效最好的。](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/829196684_1517913103475418_620012118974022582_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=93IvTvP5GOAQ7kNvwGgcqWB&_nc_oc=AdqVFVJdLpzEUYyp_it5FS7Zm2ZmnIB4rl_TERr3ylc7RuKGBxvad7KzikP4mThEdik&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=L0EwQJ3wWlPGiX3W8RrbPw&_nc_ss=7e120&oh=00_AQOpZumeFe4yoZUKtwW3EP0e4sJNKAceOJELk1A8a1cdgQ&oe=6AC26F4B)
+![”Beyond status quo”的研究指出，33%本國股市搭配67%的國際股市，這樣一個完全投入股市的投資組合，是成效最好的。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/829196684_1517913103475418_620012118974022582_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=93IvTvP5GOAQ7kNvwGnFl7K&_nc_oc=AdpsDK_-mzpW7xM76w6CxaEUxhetFDdJwBd5cb47aKbPvYFPxY9e2A0aMagmRXob1rg&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=xFQ6oIX8hF8Om1wM7Va-mQ&_nc_ss=7e120&oh=00_AQN2Rut79o05GQpsPozU25-VJjS3p2IQXXPVsMsf7FThqA&oe=6AC26F4B)
 ”Beyond status quo”的研究指出，33%本國股市搭配67%的國際股市，這樣一個完全投入股市的投資組合，是成效最好的。
 
 重點在於，所謂的”成效最好的投資策略”(The optimal strategy)的定義是什麼。

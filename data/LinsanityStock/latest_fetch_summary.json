@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-09-30T03:24:47.700563+00:00",
+  "fetched_at_utc": "2026-09-30T03:50:58.659404+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,23 +9,39 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 23,
+  "new_post_count": 11,
   "new_post_ids": [
-    "1621170340053467",
-    "1617338050436696",
-    "1615803387256829"
+    "1622321089938392",
+    "1607017834802051",
+    "1605918361578665",
+    "1603158255188009",
+    "1603042525199582",
+    "1602537735250061",
+    "1601983518638816",
+    "1601511718685996",
+    "1600036478833520",
+    "1599965062173995",
+    "1599010968936071"
   ],
   "new_markdown_files": [
-    "data/LinsanityStock/2026-09-29_20260929-外電綜合整理.md",
-    "data/LinsanityStock/2026-09-25_一開始還以為是我眼花了還特定繞回來拍照為證選台北市中正萬華區的議員為啥會在南投埔里掛競選看板這是什麼神操作.md",
-    "data/LinsanityStock/2026-09-24_2026924-外電綜合整理.md"
+    "data/LinsanityStock/2026-09-30_台積電股價Q4隨時會再創歷史新高大家坐好坐穩了.md",
+    "data/LinsanityStock/2026-09-15_歷史不會重複-但總是會押韻.md",
+    "data/LinsanityStock/2026-09-14_美國CPI月增率高於預期FED在917升息的機率陡升台股一開盤重挫應該是買點還是賣點.md",
+    "data/LinsanityStock/2026-09-11_預測這次916美國的FED會先按兵不動不升息但緊接著日本917918會升息一碼.md",
+    "data/LinsanityStock/2026-09-11_針對K線的四種看盤模式.md",
+    "data/LinsanityStock/2026-09-10_地緣政治風險升溫-美股開盤隨即下跌-台股夜盤跌幅擴大.md",
+    "data/LinsanityStock/2026-09-10_20260910法人籌碼整理重點新聞摘要.md",
+    "data/LinsanityStock/2026-09-09_台北的古早味小吃.md",
+    "data/LinsanityStock/2026-09-08_台積電的本益比與目標價怎麼估-保守版與樂觀版的就在這個區間.md",
+    "data/LinsanityStock/2026-09-08_202698-外電綜合資訊法人籌碼整理.md",
+    "data/LinsanityStock/2026-09-07_20260907重點新聞摘要.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
+    "本次已成功用公開 GraphQL 擷取到 23 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"

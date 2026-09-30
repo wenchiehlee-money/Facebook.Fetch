@@ -6,7 +6,7 @@ source_page: "Brian Jhang"
 requested_url: "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL"
 post_url: "https://www.facebook.com/iambrianjhang/posts/pfbid0JGD88JHunhcohBbMaGDdZcrHsr1sEDibp8KRJ7UYFMA1a7g3g928Pk21RdFkKoVEl"
 creation_time_utc: ""
-fetched_at_utc: "2026-09-30T03:23:17.561075+00:00"
+fetched_at_utc: "2026-09-30T03:28:11.605802+00:00"
 source: "saved_list"
 ---
 

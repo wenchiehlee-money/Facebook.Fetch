@@ -4,22 +4,22 @@ title: "Tesla 與 SpaceX 執行長 Elon Musk 在G20 分享了他對創新環境�
 page_title: ""
 requested_url: "https://www.facebook.com/intleconobserve"
 final_url: "https://www.facebook.com/intleconobserve"
-post_url: "https://www.facebook.com/intleconobserve/posts/pfbid05bDHN46YqRBRVKHA5epzP7Ar6M5LcGkNs4ysL4gc4T8ikGtvSfNytnDJxCmCrtMul"
+post_url: "https://www.facebook.com/intleconobserve/posts/pfbid05RBL4w8WHvMuiuahHRMh2rv6LiYQ631ygxQbnvTMwzmp4RGJfTNXwphwMH7kSFtrl"
 creation_time_utc: "2026-09-02T03:41:36+00:00"
-fetched_at_utc: "2026-09-06T14:53:31.365081+00:00"
+fetched_at_utc: "2026-09-30T03:42:42.401092+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/788758541_1596222355195720_2600559292515693427_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DwHdlJ33boEQ7kNvwHdyvWg&_nc_oc=AdpHboXT51mGPozjcOK46pUWZnKdUwNkpGbZGswXnuRTSL9bD-99lhBpyrnROJy6aLg&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=Fefy94rNCm_XcsosEnB7Cg&_nc_ss=7e120&oh=00_AQKbWaBXve_VvvNsYt15d3-SVsqroWXVlhTNx-1ZUZN7xQ&oe=6AA34703"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/788758541_1596222355195720_2600559292515693427_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kgNttZZGQVoQ7kNvwG69MdL&_nc_oc=Adoi2pBB87_YVE8TG_GG23I8VECfxIVCg7NHSBqk_fLdUCNgPYuj6oqFNNoOvT74J-0&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=AH1n_n7FYpNDfI1X1zklEQ&_nc_ss=7e120&oh=00_AQNEI9avJxqxU-y73Eh9a1N4YYt7yn0DsG3cQFYHKt7Nig&oe=6AC24243"
 feedback_id: "ZmVlZGJhY2s6MTU5NjIyMjk4ODUyODk5MA=="
 page_canonical_url: ""
 ---
 
 # Tesla 與 SpaceX 執行長 Elon Musk 在G20 分享了他對創新環境、數位 AI 發展、人形機器人以及全球電力危機的看法。
 
-原文連結: https://www.facebook.com/intleconobserve/posts/pfbid05bDHN46YqRBRVKHA5epzP7Ar6M5LcGkNs4ysL4gc4T8ikGtvSfNytnDJxCmCrtMul
+原文連結: https://www.facebook.com/intleconobserve/posts/pfbid05RBL4w8WHvMuiuahHRMh2rv6LiYQ631ygxQbnvTMwzmp4RGJfTNXwphwMH7kSFtrl
 
-![Tesla 與 SpaceX 執行長 Elon Musk 在G20 分享了他對創新環境、數位 AI 發展、人形機器人以及全球電力危機的看法。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/788758541_1596222355195720_2600559292515693427_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DwHdlJ33boEQ7kNvwHdyvWg&_nc_oc=AdpHboXT51mGPozjcOK46pUWZnKdUwNkpGbZGswXnuRTSL9bD-99lhBpyrnROJy6aLg&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=Fefy94rNCm_XcsosEnB7Cg&_nc_ss=7e120&oh=00_AQKbWaBXve_VvvNsYt15d3-SVsqroWXVlhTNx-1ZUZN7xQ&oe=6AA34703)
+![Tesla 與 SpaceX 執行長 Elon Musk 在G20 分享了他對創新環境、數位 AI 發展、人形機器人以及全球電力危機的看法。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/788758541_1596222355195720_2600559292515693427_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kgNttZZGQVoQ7kNvwG69MdL&_nc_oc=Adoi2pBB87_YVE8TG_GG23I8VECfxIVCg7NHSBqk_fLdUCNgPYuj6oqFNNoOvT74J-0&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=AH1n_n7FYpNDfI1X1zklEQ&_nc_ss=7e120&oh=00_AQNEI9avJxqxU-y73Eh9a1N4YYt7yn0DsG3cQFYHKt7Nig&oe=6AC24243)
 Tesla 與 SpaceX 執行長 Elon Musk 在G20 分享了他對創新環境、數位 AI 發展、人形機器人以及全球電力危機的看法。
 
 #預設合法：推動突破性創新的制度環境

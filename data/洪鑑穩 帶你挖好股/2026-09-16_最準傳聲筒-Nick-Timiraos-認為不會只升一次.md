@@ -4,22 +4,22 @@ title: "最準傳聲筒 Nick Timiraos 認為：不會只升一次"
 page_title: ""
 requested_url: "https://www.facebook.com/iqvalue"
 final_url: "https://www.facebook.com/iqvalue"
-post_url: "https://www.facebook.com/iqvalue/posts/pfbid02QrYn52gcLoVa8x3cFF8tfzb5mRQoTaSXNBhU3m1g2t3bFdgLCYs3oimysJfYKStjl"
+post_url: "https://www.facebook.com/iqvalue/posts/pfbid02QdtHT7ArtPGh1YU8CtZnFxcwT8VHuB4CzoE1kRkCMcN2ykRb6iyBiwGmXmN2kWyQl"
 creation_time_utc: "2026-09-16T05:25:30+00:00"
-fetched_at_utc: "2026-09-21T13:49:25.824811+00:00"
+fetched_at_utc: "2026-09-30T03:50:23.123352+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/813101154_1539167324891712_8437832445948814990_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=L3Wi-jRmAwEQ7kNvwEbCzKN&_nc_oc=AdrQgsh4zhgXVoawXzrbinxa13IdVkyrB29JtfJMpPJu28m3zjcxI0-m-Y1yAZitJZQ&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=O8em5f1nOWGcMT3OsAmiBQ&_nc_ss=7e120&oh=00_AQLLWqqKjSu6n9yhEweFnfkVo4V5Bpe8Q8ZZagXCPYebig&oe=6AB702C8"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/813101154_1539167324891712_8437832445948814990_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8YP02gvm00wQ7kNvwH6aE6K&_nc_oc=AdpahbvKwhRsWNRDPC1Li4SvZ8hlpXOIWvggFtESXfcCYpnFbL2vBPG-fF8pmeolBGs&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=9jDFaUrdI_9P5vcLWEhmpQ&_nc_ss=7e120&oh=00_AQNBKiTUT85f4xDx6gZbHbbRSZCSb1enxLlxZuA_vM4DOQ&oe=6AC26FC8"
 feedback_id: "ZmVlZGJhY2s6MTUzOTE2ODk0MTU1ODIxNw=="
 page_canonical_url: ""
 ---
 
 # 最準傳聲筒 Nick Timiraos 認為：不會只升一次
 
-原文連結: https://www.facebook.com/iqvalue/posts/pfbid02QrYn52gcLoVa8x3cFF8tfzb5mRQoTaSXNBhU3m1g2t3bFdgLCYs3oimysJfYKStjl
+原文連結: https://www.facebook.com/iqvalue/posts/pfbid02QdtHT7ArtPGh1YU8CtZnFxcwT8VHuB4CzoE1kRkCMcN2ykRb6iyBiwGmXmN2kWyQl
 
-![最準傳聲筒 Nick Timiraos 認為：不會只升一次](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/813101154_1539167324891712_8437832445948814990_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=L3Wi-jRmAwEQ7kNvwEbCzKN&_nc_oc=AdrQgsh4zhgXVoawXzrbinxa13IdVkyrB29JtfJMpPJu28m3zjcxI0-m-Y1yAZitJZQ&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=O8em5f1nOWGcMT3OsAmiBQ&_nc_ss=7e120&oh=00_AQLLWqqKjSu6n9yhEweFnfkVo4V5Bpe8Q8ZZagXCPYebig&oe=6AB702C8)
+![最準傳聲筒 Nick Timiraos 認為：不會只升一次](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/813101154_1539167324891712_8437832445948814990_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8YP02gvm00wQ7kNvwH6aE6K&_nc_oc=AdpahbvKwhRsWNRDPC1Li4SvZ8hlpXOIWvggFtESXfcCYpnFbL2vBPG-fF8pmeolBGs&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=9jDFaUrdI_9P5vcLWEhmpQ&_nc_ss=7e120&oh=00_AQNBKiTUT85f4xDx6gZbHbbRSZCSb1enxLlxZuA_vM4DOQ&oe=6AC26FC8)
 最準傳聲筒 Nick Timiraos 認為：不會只升一次
 
 聯準會要升息，真正可怕的可能不是「這一次」，而是後面還有幾次。

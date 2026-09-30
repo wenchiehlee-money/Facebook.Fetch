@@ -4,22 +4,22 @@ title: "新北板橋大仁路上，一家OK超商換了招牌。紅白色的舊L
 page_title: ""
 requested_url: "https://www.facebook.com/bwnet.fans"
 final_url: "https://www.facebook.com/bwnet.fans"
-post_url: "https://www.facebook.com/bwnet.fans/posts/pfbid0DsXZ5KrUSCPbVFwC4iNPWM76epEJnD6V3LDesNTMJNqmofWkoF5USkKEGJt5fiSsl"
+post_url: "https://www.facebook.com/bwnet.fans/posts/pfbid0Des4TQLiykaDShhAGh1KoxsxkoJ5fZpaUEfXrrV3UoEUoNuSHbapyWLq41LyvdYxl"
 creation_time_utc: "2026-09-22T04:30:14+00:00"
-fetched_at_utc: "2026-09-22T06:04:27.502553+00:00"
+fetched_at_utc: "2026-09-30T03:53:26.934116+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/796639859_1517263170435894_6960837940825201136_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BcaP2lQjvbcQ7kNvwEQi5Nj&_nc_oc=AdqYwXhc3dxfSEm0nUp814lZDWoqu8k_89jxCZWNva3H7Dfe-8RZi5V8atFGY0FUDmg&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4s0h75eZdVuP8we2kmezow&_nc_ss=7e120&oh=00_AQIHHTJlcnfkY-ZbWfukvTEHqz8rUz8VEum48KyImVqk0Q&oe=6AB7DBF0"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/796639859_1517263170435894_6960837940825201136_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=St8tOHiWni8Q7kNvwGFiiXc&_nc_oc=AdpR0k1HstsUASt-TlNvJCtkpuQ3yXDWBzIwDapIp4uObkr1xFxKy2V2hLhhbdab9Ck&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=v_KoRLOWBnvbWn886frxWA&_nc_ss=7e120&oh=00_AQO_g6axFmhaaNGVxrTk36DnbYAKvvTc8G40mxeYVdD9jw&oe=6AC267F0"
 feedback_id: "ZmVlZGJhY2s6MTUxNzMzNjcwMzc2MTg3NA=="
 page_canonical_url: ""
 ---
 
 # 新北板橋大仁路上，一家OK超商換了招牌。紅白色的舊LOGO被拆下來，換上藍白色系，新圖案像一條魚，下面寫著一排英文字：Frozen、Fresh、Fun（冷凍、新鮮、有趣）。
 
-原文連結: https://www.facebook.com/bwnet.fans/posts/pfbid0DsXZ5KrUSCPbVFwC4iNPWM76epEJnD6V3LDesNTMJNqmofWkoF5USkKEGJt5fiSsl
+原文連結: https://www.facebook.com/bwnet.fans/posts/pfbid0Des4TQLiykaDShhAGh1KoxsxkoJ5fZpaUEfXrrV3UoEUoNuSHbapyWLq41LyvdYxl
 
-![新北板橋大仁路上，一家OK超商換了招牌。紅白色的舊LOGO被拆下來，換上藍白色系，新圖案像一條魚，下面寫著一排英文字：Frozen、Fresh、Fun（冷凍、新鮮、有趣）。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/796639859_1517263170435894_6960837940825201136_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BcaP2lQjvbcQ7kNvwEQi5Nj&_nc_oc=AdqYwXhc3dxfSEm0nUp814lZDWoqu8k_89jxCZWNva3H7Dfe-8RZi5V8atFGY0FUDmg&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4s0h75eZdVuP8we2kmezow&_nc_ss=7e120&oh=00_AQIHHTJlcnfkY-ZbWfukvTEHqz8rUz8VEum48KyImVqk0Q&oe=6AB7DBF0)
+![新北板橋大仁路上，一家OK超商換了招牌。紅白色的舊LOGO被拆下來，換上藍白色系，新圖案像一條魚，下面寫著一排英文字：Frozen、Fresh、Fun（冷凍、新鮮、有趣）。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/796639859_1517263170435894_6960837940825201136_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=St8tOHiWni8Q7kNvwGFiiXc&_nc_oc=AdpR0k1HstsUASt-TlNvJCtkpuQ3yXDWBzIwDapIp4uObkr1xFxKy2V2hLhhbdab9Ck&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=v_KoRLOWBnvbWn886frxWA&_nc_ss=7e120&oh=00_AQO_g6axFmhaaNGVxrTk36DnbYAKvvTc8G40mxeYVdD9jw&oe=6AC267F0)
 新北板橋大仁路上，一家OK超商換了招牌。紅白色的舊LOGO被拆下來，換上藍白色系，新圖案像一條魚，下面寫著一排英文字：Frozen、Fresh、Fun（冷凍、新鮮、有趣）。
 
 但走進店裡，真正的變化不在招牌。貨架比一般超商高了一截，常溫商品變多，更重要的是，冷凍櫃的規格已接近量販店。

@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
 post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02Yrb2pzED4UM6KLtZrdYus8uGgVANuFAuzFjHchxBeHUNsmbJskXeLTqgGxKgE9spl"
 creation_time_utc: "2026-09-28T23:35:03+00:00"
-fetched_at_utc: "2026-09-30T03:23:45.168571+00:00"
+fetched_at_utc: "2026-09-30T03:33:45.318602+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/829196686_1516965246903537_108911044944877454_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nC8vBzr9U3oQ7kNvwG-u_el&_nc_oc=AdoadEkifYJgRkOZ2IS_RRzfct7bCp6Gmb5_qEcJF79JkhvOasB5vLJqqgxHVjsYN-A&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=L0EwQJ3wWlPGiX3W8RrbPw&_nc_ss=7e120&oh=00_AQMh9MdFfAosYtZLHVvFKfrqrwatzSliWJJpqGChIdLb7g&oe=6AC2501B"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/829196686_1516965246903537_108911044944877454_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nC8vBzr9U3oQ7kNvwGR66CN&_nc_oc=Ado0Ln1EM5u9os1pq7AnkaVioyncgob8_1SyJ68i1qCnuRhe4gZXdDINfOYSYwd88w4&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=xFQ6oIX8hF8Om1wM7Va-mQ&_nc_ss=7e120&oh=00_AQM7WFGMK6cX4s7aOncXQpPrjQIO1_Rd5fEyNRbZDm8PDw&oe=6AC2501B"
 feedback_id: "ZmVlZGJhY2s6MTUxNzM1MTgxNjg2NDg4MA=="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02Yrb2pzED4UM6KLtZrdYus8uGgVANuFAuzFjHchxBeHUNsmbJskXeLTqgGxKgE9spl
 
-![Young Money書中，作者提到自己年輕時的投資經歷。](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/829196686_1516965246903537_108911044944877454_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nC8vBzr9U3oQ7kNvwG-u_el&_nc_oc=AdoadEkifYJgRkOZ2IS_RRzfct7bCp6Gmb5_qEcJF79JkhvOasB5vLJqqgxHVjsYN-A&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=L0EwQJ3wWlPGiX3W8RrbPw&_nc_ss=7e120&oh=00_AQMh9MdFfAosYtZLHVvFKfrqrwatzSliWJJpqGChIdLb7g&oe=6AC2501B)
+![Young Money書中，作者提到自己年輕時的投資經歷。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/829196686_1516965246903537_108911044944877454_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nC8vBzr9U3oQ7kNvwGR66CN&_nc_oc=Ado0Ln1EM5u9os1pq7AnkaVioyncgob8_1SyJ68i1qCnuRhe4gZXdDINfOYSYwd88w4&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=xFQ6oIX8hF8Om1wM7Va-mQ&_nc_ss=7e120&oh=00_AQM7WFGMK6cX4s7aOncXQpPrjQIO1_Rd5fEyNRbZDm8PDw&oe=6AC2501B)
 Young Money書中，作者提到自己年輕時的投資經歷。
 
 2020疫情期間，在家工作、線上開會。一直待在家中蠻無聊的，於是就跟當時許多人一樣，作者開始將股市作為娛樂，大量瀏覽網路討論區。
