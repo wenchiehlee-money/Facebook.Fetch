@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-09-30T03:50:40.859417+00:00",
+  "fetched_at_utc": "2026-10-02T09:51:37.982097+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,36 +9,25 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 22,
-  "new_post_count": 8,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1637160481100758",
-    "1636511381165668",
-    "1636429907840482",
-    "1635850451231761",
-    "1631340515016088",
-    "1626517848831688",
-    "1624059352410871",
-    "1623051155845024"
+    "1644836203666519",
+    "1644139373736202",
+    "1643825360434270"
   ],
   "new_markdown_files": [
-    "data/andrew.semis.techs/2026-09-23_9-月-23-日英國金融時報FT與權威硬體媒體-Toms-Hardware-深度拆解-Nscale-日前向美國證券交易委員會SEC遞交的-Form-S-1-招股.md",
-    "data/andrew.semis.techs/2026-09-23_在我們9月18日的報告中我們提到-Nebius-101-全面調漲-Nvidia-AI-GPUCPUMemory-租用價格我們認為短期市場價值將從賣-tokens.md",
-    "data/andrew.semis.techs/2026-09-23_怎麼感覺最近神山有點要創新高價但膽子小小的破關情怯的概念不像信驊聯發科這麼阿莎力你們覺得是啥原因呢.md",
-    "data/andrew.semis.techs/2026-09-22_有誇張吧Wccftech-說-Meta-Muse-Agentic-AI-可能拉高-CPUGPU-ratio-到-401.md",
-    "data/andrew.semis.techs/2026-09-17_Reuters-引述-The-Information-新聞報導Apple-Considers-Return-to-Server-Market-Has-Talke.md",
-    "data/andrew.semis.techs/2026-09-11_台灣半導體暨科技產業公布8月份營收我們以公布的數據看產業趨勢變化及公司與彭博社分析師預期進行分析比較月營收好壞是否將帶動公布後股價及判斷分析師預期是否過於樂觀及.md",
-    "data/andrew.semis.techs/2026-09-08_這新聞應該對-ASML-最有利看起來以後台積電1奈米量產可能會大量採用貴鬆鬆的-High-NA-EUV了神山1000億美金以上資本開支快要來了.md",
-    "data/andrew.semis.techs/2026-09-07_現在NAND-記憶卡都不標價格了跟生猛海鮮一樣以時價計算下一個不知道是輪到什麼消費性電子產品.md"
+    "data/andrew.semis.techs/2026-10-02_昨天聽到產業鏈說神山終於學乖了現在不輕易加碼給Intel產能來養老鼠咬布袋讓Intel-有多餘的產能去擴充晶圓代工事業了我們之前建議過很多次神山跟-Asml-三.md",
+    "data/andrew.semis.techs/2026-10-01_上期從技術的角度解釋何謂-Balance-Film三個原因為何大AI晶片需要它貼在哪裡移除之後翹曲回歸怎辦Part-II-我們想談談有沒有更優的防翹曲技術產業鏈.md",
+    "data/andrew.semis.techs/2026-09-30_For-a-near-term-we-see-the-strong-data-center-AI-GPUTPUASICCPU-capex-and-deploym.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 23 篇貼文。",
+    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

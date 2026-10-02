@@ -1,11 +1,14 @@
 # Facebook 貼文索引
 
 - 頁面: 
-- 抓取時間: 2026-09-30T03:50:40.859417+00:00
-- 已收錄貼文數量: 266
+- 抓取時間: 2026-10-02T09:51:37.982097+00:00
+- 已收錄貼文數量: 269
 
 ## 文章列表
 
+- `2026-10-02` [昨天聽到產業鏈說，神山終於學乖了，現在不輕易加碼給Intel產能來養老鼠咬布袋讓Intel 有多餘的產能去擴充晶圓代工事業了（我們之前建議過很多次），神山跟 Asml, 三星合作加倍High NA EUV 光罩尺寸，但不想邀請Intel，是因為覺得三星還入不了眼（欣慰），但覺得Intel芒刺在背，雖然其 18A 還不到神山 3nm技術, 但幫谷歌TPU弄的EMIB, 確實有進展，神山繼續盯著👀。你們聽到類似的東東嗎？](2026-10-02_昨天聽到產業鏈說神山終於學乖了現在不輕易加碼給Intel產能來養老鼠咬布袋讓Intel-有多餘的產能去擴充晶圓代工事業了我們之前建議過很多次神山跟-Asml-三.md)
+- `2026-10-01` [上期從技術的角度解釋何謂 Balance Film，三個原因為何大AI晶片需要它，貼在哪裡，移除之後翹曲回歸怎辦，Part II 我們想談談有沒有更優的防翹曲技術，產業鏈玩家的核心競爭力比較，台積電何時才會採用？及如何測算市場規模 TAM。](2026-10-01_上期從技術的角度解釋何謂-Balance-Film三個原因為何大AI晶片需要它貼在哪裡移除之後翹曲回歸怎辦Part-II-我們想談談有沒有更優的防翹曲技術產業鏈.md)
+- `2026-09-30` [For a near term, we see the strong data center AI GPU/TPU/ASIC/CPU capex and deployment to support HBM, DDR5, NAND flash demand. However, starting 4Q26 and beyond, we have started to see the pricing hike was/is decelerating and gross margin is topping but capex growth is accelerating. Despite months of inventory MOI and capital density are still at a healthy level, we believe Micron is turning itself from gross margin expansion to capacity expansion mode. Like Nvidia in the past 12 months, no matter how good the financial numbers are ahead of analysts’ estimates, Micron might continue to beat the market on numbers but rest (consolidate up/down) on share price performance in line with the change of Sox index.](2026-09-30_For-a-near-term-we-see-the-strong-data-center-AI-GPUTPUASICCPU-capex-and-deploym.md)
 - `2026-09-29` [雖然 Balance Film 產業還在初始冒芽階段，但當AI GPU，TPU，ASIC 越來越大顆，ABF載板及RDL 處理層數越來越厚，越來越多不同熱膨脹係數晶片及材料被封裝在一起，防翹曲技術及抗翹曲應力平衡膜就越來越重要。當未來10年，AI 算力數據中心的投資將受限於可用資金，可用電力，可用土地，可用晶片產能，除了發展困難度超高的衛星軌道數據中心外，提供更高算力/更低耗能（單位面積算力耗能比較，增加每單位數據中心面積的GW算力）的大型AI訓練及推理晶片的騰籠換鳥原廠升級（舊機櫃換成新機櫃+ 光通訊 scale out/scale across），可能反而是一個可行的方向。你們覺得呢？](2026-09-29_雖然-Balance-Film-產業還在初始冒芽階段但當AI-GPUTPUASIC-越來越大顆ABF載板及RDL-處理層數越來越厚越來越多不同熱膨脹係數晶片及材.md)
 - `2026-09-29` [9 月 29 日（舊金山時間），在宣佈無限期擱置旗艦模型 GPT-6.1 Astra 僅 24 小時後，OpenAI 執行長 Sam Altman 在舊金山 DevDay 2026 開發者大會上發表 :](2026-09-29_9-月-29-日舊金山時間在宣佈無限期擱置旗艦模型-GPT-6.1-Astra-僅-24-小時後OpenAI-執行長-Sam-Altman-在舊金山-DevDa.md)
 - `2026-09-28` [AI硬體教母蘇媽及AI軟體教母李飛飛，兩大聯手追趕Nvidia的生態系，但我們看到的是AMD併購World Labs 的長期綜效及短期風險- 尤其加強軟硬兼施的AI晶片/系統設計及稀釋/商譽減損的風險，感覺就像是AMD加碼軟體研發經費82億美元，用短期稀釋及商譽減損來加強其長期AI產品核心競爭力，你們覺得呢？](2026-09-28_AI硬體教母蘇媽及AI軟體教母李飛飛兩大聯手追趕Nvidia的生態系但我們看到的是AMD併購World-Labs-的長期綜效及短期風險--尤其加強軟硬兼施的AI.md)

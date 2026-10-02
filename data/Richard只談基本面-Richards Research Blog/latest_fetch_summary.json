@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-09-30T03:40:08.969076+00:00",
+  "fetched_at_utc": "2026-10-02T09:51:19.821455+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,50 +9,25 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 34,
-  "new_post_count": 15,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1619458496537517",
-    "1618321956651171",
-    "1617745036708863",
-    "1607516887731678",
-    "1607479121068788",
-    "1607461601070540",
-    "1607420324408001",
-    "1607404041076296",
-    "1607393961077304",
-    "1607384477744919",
-    "1607122554437778",
-    "1606176904532343",
-    "1604818638001503",
-    "1604800911336609",
-    "1604796754670358"
+    "1626358019180898",
+    "1626289652521068",
+    "1626118665871500"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-09-24_1.2023-AI爆發2026如今中方企業可以公開的合法的大量的租用外國境內最新的GPU資料中心算力至今依然合法.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-09-23_個人記憶不知有沒有誤FPD面板產業以前沒有看過漲價信這種東西要漲報價直接報漲就好然後雙方再來折衝議價補貼MDF退價rebate不知道是不是跟流行近年電子業萬物皆.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-09-22_嚇我一跳因為WCCFTECH一篇文章標題寫Muse讓CPUGPU401.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-09-10_今年摺疊iPhone-Duo加入之下全球摺疊手機僅持平YoYAndroid摺疊手機市場衰退20-YoY.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-09-10_我的AI代理和你的AI代理交易.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-09-10_AI-Server-OEMODM八月營收.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-09-10_3D-DRAM似乎勢在必行速度和成本介於SRAM和HBM中間但不是單一產業可以獨力完成晶片廠軟體廠模型商要合作當初HBM是AMD和DRAM公司一起合作到了HBF.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-09-10_CFET-技術持續推進並有整合努力與-DTCO-研究支持.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-09-10_人工智慧迫使資料中心重新思考信任.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-09-10_代幣成本正成為新的EDA預算戰役.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-09-10_有時候只要懂產業基本常識就可以贏過大部分人了.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-09-09_不論是餐廳律師還是顧問業不只一次-公開-表達看不起自己的客戶們說客戶們愚蠢不配參加專業會議才是最愚蠢和狂妄的行為.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-09-07_Micron.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-09-07_CIS-Top-5-Sony豪威OmnivisionSamsung思特威格科微.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-09-07_Apple-iPhone摺疊機使用雙層UTG貼放於OLED面板上下兩側.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-10-01_延續上一篇如果一個晶片產品三家競爭IC設計公司正在開案研發預計開發時間1.5年如果有個工具可以讓你10個月完成假定三家公司實力差不多規格性能成本類似你願意花多少.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-10-01_1.-OpenAI設計Jalapeo晶片時使用的內部AI模型讓開發時程大幅縮短到9個月diesize縮小13.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-10-01_4Q26開始市場分化加大1ServerCSP和2消費PC手機分化A北美CSP和B中國CSP分化XeSSD和YcSSDeMMCUFS分化甲品牌和乙通路分化如有偏向.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 39 篇貼文。",
+    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 5 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }
