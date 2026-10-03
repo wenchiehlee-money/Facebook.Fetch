@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-02T09:51:22.235046+00:00",
+  "fetched_at_utc": "2026-10-03T06:22:48.018036+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1622484449236177",
-    "1622405455910743",
-    "1622305549254067"
+    "1623339975817291",
+    "1622797502538205"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-02_現在電詐可以直接視訊了對方可以是無限複製的AI騙老人已經綽綽有餘.md",
-    "data/IEObserve 國際經濟觀察/2026-10-02_好萊塢是不是會被AI-影片消滅-Ben-Affleck-近期針對他在影視製作與科技交會的實踐詳細分享了創立技術公司打造專屬資料集以及他對-AI-在好萊塢真實影響.md",
-    "data/IEObserve 國際經濟觀察/2026-10-02_Nike真的慘烈財報發佈後盤後繼續崩市值要跌破500億了.md"
+    "data/IEObserve 國際經濟觀察/2026-10-03_如果你的主要客群不是衛道人士.md",
+    "data/IEObserve 國際經濟觀察/2026-10-02_非農夠爛普天同慶.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-10-02T09:51:37.982097+00:00",
+  "fetched_at_utc": "2026-10-03T06:23:09.554895+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1644836203666519",
-    "1644139373736202",
-    "1643825360434270"
+    "1645830040233802"
   ],
   "new_markdown_files": [
-    "data/andrew.semis.techs/2026-10-02_昨天聽到產業鏈說神山終於學乖了現在不輕易加碼給Intel產能來養老鼠咬布袋讓Intel-有多餘的產能去擴充晶圓代工事業了我們之前建議過很多次神山跟-Asml-三.md",
-    "data/andrew.semis.techs/2026-10-01_上期從技術的角度解釋何謂-Balance-Film三個原因為何大AI晶片需要它貼在哪裡移除之後翹曲回歸怎辦Part-II-我們想談談有沒有更優的防翹曲技術產業鏈.md",
-    "data/andrew.semis.techs/2026-09-30_For-a-near-term-we-see-the-strong-data-center-AI-GPUTPUASICCPU-capex-and-deploym.md"
+    "data/andrew.semis.techs/2026-10-02_因為三個核心原因我們認為-SpaceX-在-2027年底前建置-8-10GW算力加碼外租給-Anthropic谷歌微軟likely-the-next-將可能陸續.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",

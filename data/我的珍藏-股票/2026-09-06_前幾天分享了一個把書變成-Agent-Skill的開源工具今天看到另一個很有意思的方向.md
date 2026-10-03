@@ -4,16 +4,16 @@ title: "前幾天分享了一個把「書變成 Agent Skill」的開源工具，
 page_title: "股票"
 source_page: "Brian Jhang"
 requested_url: "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL"
-post_url: "https://www.facebook.com/iambrianjhang/posts/pfbid0J647qA2Ay9uygniKk2CSmRWg7mQWpP4zQRmv4FS8bD86jPLcyFqQVwaCHhf3w6zQl"
+post_url: "https://www.facebook.com/iambrianjhang/posts/pfbid02MwVq1pwzpeXCCT1vtj74PwubmA29jkFFneqhhrcV6J6o5CesG7G2i2dT6udxYeW2l"
 creation_time_utc: ""
-fetched_at_utc: "2026-10-02T09:50:51.735252+00:00"
+fetched_at_utc: "2026-10-03T06:22:09.474794+00:00"
 source: "saved_list"
 ---
 
 # 前幾天分享了一個把「書變成 Agent Skill」的開源工具，今天看到另一個很有意思的方向：
 
 來源：Brian Jhang
-原文連結: https://www.facebook.com/iambrianjhang/posts/pfbid0J647qA2Ay9uygniKk2CSmRWg7mQWpP4zQRmv4FS8bD86jPLcyFqQVwaCHhf3w6zQl
+原文連結: https://www.facebook.com/iambrianjhang/posts/pfbid02MwVq1pwzpeXCCT1vtj74PwubmA29jkFFneqhhrcV6J6o5CesG7G2i2dT6udxYeW2l
 前幾天分享了一個把「書變成 Agent Skill」的開源工具，今天看到另一個很有意思的方向：
 直接把一本 PDF / EPUB，變成真正的有聲書。
 

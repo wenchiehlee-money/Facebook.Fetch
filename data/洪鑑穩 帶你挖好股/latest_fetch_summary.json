@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/iqvalue",
   "final_url": "https://www.facebook.com/iqvalue",
-  "fetched_at_utc": "2026-10-02T09:51:35.675006+00:00",
+  "fetched_at_utc": "2026-10-03T06:23:06.395972+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "1553815790093532",
-    "1553462540128857"
-  ],
-  "new_markdown_files": [
-    "data/洪鑑穩 帶你挖好股/2026-10-01_10月美債殖利率可能還有一段往上走.md",
-    "data/洪鑑穩 帶你挖好股/2026-10-01_PCE低於預期-因為計算方法變了.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/洪鑑穩 帶你挖好股",
   "notes": [

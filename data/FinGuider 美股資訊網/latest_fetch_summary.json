@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-02T09:51:02.086549+00:00",
+  "fetched_at_utc": "2026-10-03T06:22:21.745054+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1575685567934918",
-    "1575510944619047",
-    "1575369644633177"
+    "1576498117853663",
+    "1576024191234389",
+    "1575968641239944"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-02_亞馬遜AMZN正在研議一項交易將約-80-億美元的輝達NVDA高階晶片轉移至外部投資者降低資產負債表的壓力採取更輕資產的融資模式.md",
-    "data/FinGuider 美股資訊網/2026-10-02_今年飆超過-5-倍莫德納將進入那斯達克-100.md",
-    "data/FinGuider 美股資訊網/2026-10-01_NikeNKE公布了-FY2027Q1-財報營收-112.1-億美元年減-4低於分析師預期的-113.2-億淨利-7.12-億美元EPS-報-0.48-美元超越.md"
+    "data/FinGuider 美股資訊網/2026-10-02_馬斯克大砍-AI-晶片記憶體規格.md",
+    "data/FinGuider 美股資訊網/2026-10-02_特斯拉TSLA盤前揭露2026Q3-交付了-48.65-萬輛車年減-2季增-1明顯優於特斯拉提前彙整的市場共識46.2-萬甚至擊敗了市場上部分較樂觀的預測47..md",
+    "data/FinGuider 美股資訊網/2026-10-02_美國-9-月非農就業新增-2.9-萬人遠低於預期的新增-8.9-萬.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

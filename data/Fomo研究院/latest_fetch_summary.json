@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-10-02T09:51:12.729900+00:00",
+  "fetched_at_utc": "2026-10-03T06:22:34.500160+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,17 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
-  "new_post_ids": [
-    "122199575486771552",
-    "122199473942771552",
-    "122199329318771552"
-  ],
-  "new_markdown_files": [
-    "data/Fomo研究院/2026-10-02_美光管理層在財報電話會議上說了一句話HBM-營收佔比的上升抵銷了一部分漲價帶來的毛利率擴張.md",
-    "data/Fomo研究院/2026-10-01_做生意賺錢的方式其實很單純就兩條路要嘛賣出更多要嘛把每件貨品賣得更貴.md",
-    "data/Fomo研究院/2026-09-30_我後來想想其實是我們把整個團隊的結構弄錯了.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",
   "notes": [

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-10-02T09:51:19.821455+00:00",
+  "fetched_at_utc": "2026-10-03T06:22:44.593839+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1626358019180898",
-    "1626289652521068",
-    "1626118665871500"
+    "1627349215748445"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-10-01_延續上一篇如果一個晶片產品三家競爭IC設計公司正在開案研發預計開發時間1.5年如果有個工具可以讓你10個月完成假定三家公司實力差不多規格性能成本類似你願意花多少.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-10-01_1.-OpenAI設計Jalapeo晶片時使用的內部AI模型讓開發時程大幅縮短到9個月diesize縮小13.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-10-01_4Q26開始市場分化加大1ServerCSP和2消費PC手機分化A北美CSP和B中國CSP分化XeSSD和YcSSDeMMCUFS分化甲品牌和乙通路分化如有偏向.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-10-02_日經新聞Nekki報導Toshiba打算投資600億日圓將AI資料中心用的HDD產能加倍目前Toshiba-HDD市佔率只有10中期目標是提升到30不知真假如果.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",

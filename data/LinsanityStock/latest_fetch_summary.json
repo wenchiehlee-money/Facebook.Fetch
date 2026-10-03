@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-10-02T09:51:40.565675+00:00",
+  "fetched_at_utc": "2026-10-03T06:23:13.013970+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1624582539712247",
-    "1623457286491439",
-    "1623363823167452"
+    "1625219549648546"
   ],
   "new_markdown_files": [
-    "data/LinsanityStock/2026-10-02_在今年初的農曆年的錄影時特別點名ABF載板記憶體以2026211農曆年前的收盤價到今天盤中高點計算.md",
-    "data/LinsanityStock/2026-10-01_台股Q4機會來了嗎看看美股過往100年的歷史經驗怎麼表現.md",
-    "data/LinsanityStock/2026-10-01_花旗最新報告上修南電8046的獲利目標價.md"
+    "data/LinsanityStock/2026-10-02_你有感覺到自己是全球前五名的有錢人嗎.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",

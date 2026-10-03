@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-10-02T09:51:45.417322+00:00",
+  "fetched_at_utc": "2026-10-03T06:23:19.840778+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,17 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
-  "new_post_ids": [
-    "1509587687858318",
-    "1508522071298213",
-    "1507532138063873"
-  ],
-  "new_markdown_files": [
-    "data/TrendForce 集邦科技/2026-10-02_Google-的-TPU-晶片出貨量太旺預估全年出貨量將近-400-萬顆年成長率近-80自家-AI伺服器-的自研晶片與外購-GPU-配置比例已達-7--3Tre.md",
-    "data/TrendForce 集邦科技/2026-10-01_美光-2026-財年營收創新高CEO-喊明後年供需更吃緊.md",
-    "data/TrendForce 集邦科技/2026-09-30_NAND賣方放寬報價仍難帶動買氣512Gb-TLC-Wafer現貨價本週下滑2.45.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",
   "notes": [

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-10-02T09:51:05.119095+00:00",
+  "fetched_at_utc": "2026-10-03T06:22:25.293579+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1520237759909619",
-    "1519250403341688",
-    "1518611163405612"
+    "1521257363140992"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-10-01_近期我看到一則臉書貼文發文者分享自己的投資進化過程很不幸的他那個比較差的需要改進的起點就是綠角的股債64配.md",
-    "data/綠角財經筆記/2026-09-30_許多理財書籍教人如何投資累積財富.md",
-    "data/綠角財經筆記/2026-09-30_Everything-You-Need-to-Know-about-Saving-for-Retirement例子是年收入60萬儲蓄率40每年投入24萬從25歲.md"
+    "data/綠角財經筆記/2026-10-02_美國晨星個人理財總監在近期一篇討論債券投資的文章中有句話說的很好.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

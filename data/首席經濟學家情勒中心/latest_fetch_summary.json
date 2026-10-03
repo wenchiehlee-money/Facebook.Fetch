@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61589343187385",
   "final_url": "https://www.facebook.com/profile.php?id=61589343187385",
-  "fetched_at_utc": "2026-10-02T09:51:31.239804+00:00",
+  "fetched_at_utc": "2026-10-03T06:23:00.157617+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "122125883097311439",
-    "122125879875311439",
-    "122125868865311439"
+    "122125969779311439"
   ],
   "new_markdown_files": [
-    "data/首席經濟學家情勒中心/2026-10-02_費沙是特別選人家國慶去噴人家嗎.md",
-    "data/首席經濟學家情勒中心/2026-10-02_不管誰要跟國蔥老師配我都堅持國蔥老師要當正的.md",
-    "data/首席經濟學家情勒中心/2026-10-02_以前創業要先研究政府組織圖現在只要說我要開一家餐廳AI-就把公司登記稅籍勞健保地方政府許可一路帶著你辦.md"
+    "data/首席經濟學家情勒中心/2026-10-03_所以我們終於要看到第二次高盧大革命了嗎.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/首席經濟學家情勒中心",

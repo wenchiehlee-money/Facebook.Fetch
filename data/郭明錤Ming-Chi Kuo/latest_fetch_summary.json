@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573992511738",
   "final_url": "https://www.facebook.com/profile.php?id=61573992511738",
-  "fetched_at_utc": "2026-10-02T09:51:33.446392+00:00",
+  "fetched_at_utc": "2026-10-03T06:23:03.179899+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "122195180198799750"
-  ],
-  "new_markdown_files": [
-    "data/郭明錤Ming-Chi Kuo/2026-09-30_我最新的產業調查顯示Nvidia-開始測試以碳氫樹脂hydrocarbon-resinHC為主的無布-CCL取代先前測試的-PTFE-無布-CCL並搭配-HC.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/郭明錤Ming-Chi Kuo",
   "notes": [

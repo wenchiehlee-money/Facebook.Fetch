@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-10-02T09:51:26.419053+00:00",
+  "fetched_at_utc": "2026-10-03T06:22:53.877993+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122204926586486922",
-    "122204924708486922",
-    "122204918618486922"
+    "122205084218486922",
+    "122205072686486922",
+    "122205055376486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-10-02_週二晚開懷大笑.md",
-    "data/美股老司機 3.0/2026-10-02_最真實也最殘酷的.md",
-    "data/美股老司機 3.0/2026-10-02_週四晚開心.md"
+    "data/美股老司機 3.0/2026-10-03_納斯達克指數創新高.md",
+    "data/美股老司機 3.0/2026-10-03_CBRS.md",
+    "data/美股老司機 3.0/2026-10-02_股票投資的核心邏輯和人生企業的興衰週期如出一轍.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",
