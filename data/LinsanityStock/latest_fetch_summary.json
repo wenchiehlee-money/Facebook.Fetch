@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-10-03T06:23:13.013970+00:00",
+  "fetched_at_utc": "2026-10-04T06:46:34.731692+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1625219549648546"
-  ],
-  "new_markdown_files": [
-    "data/LinsanityStock/2026-10-02_你有感覺到自己是全球前五名的有錢人嗎.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",
   "notes": [

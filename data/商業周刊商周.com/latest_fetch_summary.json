@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-10-03T06:23:16.347735+00:00",
+  "fetched_at_utc": "2026-10-04T06:46:38.339071+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1528400729322138",
-    "1527739439388267",
-    "1527689089393302"
+    "1529302455898632",
+    "1528702359291975",
+    "1528624642633080"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-10-03_健康幣上路打疫苗做健檢都能領最快怎麼湊滿1000幣.md",
-    "data/商業周刊商周.com/2026-10-02_事業站穩腳步後領導者常面臨如何跳脫直覺綜觀全局的挑戰國立中山大學管理學院與上海同濟大學攜手打造的-CSEMBA兩岸高階管理碩士在職專班透過跨域移動學習與頂尖師資.md",
-    "data/商業周刊商周.com/2026-10-02_遠東Garden-City評價兩極SOGO砸重金搶下大巨蛋賣場背後不能輸的理由懂商業看商周Ep.165.md"
+    "data/商業周刊商周.com/2026-10-04_工作老是拖到最後一刻開會容易恍神別人講過的事轉頭就忘就代表有成人ADHD嗎.md",
+    "data/商業周刊商周.com/2026-10-03_皮克敏上半年收入台灣玩家貢獻52免費走路種花怎麼讓人願意課金.md",
+    "data/商業周刊商周.com/2026-10-03_台灣車燈代工龍頭變天大億交棒日本人主政它還能高成長高利潤.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

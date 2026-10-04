@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-10-03T06:22:53.877993+00:00",
+  "fetched_at_utc": "2026-10-04T06:46:12.258876+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122205084218486922",
-    "122205072686486922",
-    "122205055376486922"
+    "122205237122486922",
+    "122205234812486922",
+    "122205232532486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-10-03_納斯達克指數創新高.md",
-    "data/美股老司機 3.0/2026-10-03_CBRS.md",
-    "data/美股老司機 3.0/2026-10-02_股票投資的核心邏輯和人生企業的興衰週期如出一轍.md"
+    "data/美股老司機 3.0/2026-10-04_週六晚開心.md",
+    "data/美股老司機 3.0/2026-10-04_這130-年-道瓊工業平均指數歷史18962026年.md",
+    "data/美股老司機 3.0/2026-10-04_果粉分享.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

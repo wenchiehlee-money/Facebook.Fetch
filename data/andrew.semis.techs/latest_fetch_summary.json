@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-10-03T06:23:09.554895+00:00",
+  "fetched_at_utc": "2026-10-04T06:46:30.923697+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1645830040233802"
+    "1646728993477240"
   ],
   "new_markdown_files": [
-    "data/andrew.semis.techs/2026-10-02_因為三個核心原因我們認為-SpaceX-在-2027年底前建置-8-10GW算力加碼外租給-Anthropic谷歌微軟likely-the-next-將可能陸續.md"
+    "data/andrew.semis.techs/2026-10-04_如果-SpaceX--Tesla-的-JV-TeraFab-是由台積電出資出技術建造那老實說這個Fab-就不能稱為老馬的TeraFab從頭到尾根本就是一個台積電.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",

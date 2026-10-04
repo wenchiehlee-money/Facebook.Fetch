@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-10-03T06:22:34.500160+00:00",
+  "fetched_at_utc": "2026-10-04T06:45:47.700243+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "122199759272771552"
+  ],
+  "new_markdown_files": [
+    "data/Fomo研究院/2026-10-03_Seagate-和-Western-Digital-過去幾年過得很爽供給收緊價格穩漲毛利率-50-以上長約一路簽到-2028-甚至-2029一切看起來都十分美好.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",
   "notes": [

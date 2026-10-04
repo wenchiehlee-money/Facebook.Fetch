@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-10-03T06:22:44.593839+00:00",
+  "fetched_at_utc": "2026-10-04T06:46:01.861748+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1627349215748445"
+    "1628029659013734"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-10-02_日經新聞Nekki報導Toshiba打算投資600億日圓將AI資料中心用的HDD產能加倍目前Toshiba-HDD市佔率只有10中期目標是提升到30不知真假如果.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-10-03_提高KV-cache快取命中率需要更大容量大容量增加命中率.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",

@@ -4,12 +4,12 @@ title: "日經新聞Nekki報導Toshiba打算投資600億日圓將AI資料中心�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02ATXxfxaKd44sekyPPP3Sr78pJTetz6GYUMovM2jhiCwUymWoUfhqCmjn3Lbjzu4wl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid06RwFC9Nkx97BZaiEhZuL1i6hhjRJVxRPh564VPEEjKewNZe5f8zvFbiuiM8qCBrml&id=100054201473657"
 creation_time_utc: "2026-10-02T14:39:48+00:00"
-fetched_at_utc: "2026-10-03T06:22:44.593839+00:00"
+fetched_at_utc: "2026-10-04T06:46:01.861748+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02ATXxfxaKd44sekyPPP3Sr78pJTetz6GYUMovM2jhiCwUymWoUfhqCmjn3Lbjzu4wl&id=100054201473657"
+attachment_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid06RwFC9Nkx97BZaiEhZuL1i6hhjRJVxRPh564VPEEjKewNZe5f8zvFbiuiM8qCBrml&id=100054201473657"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTYyNzM0OTIxNTc0ODQ0NQ=="
 page_canonical_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 日經新聞Nekki報導Toshiba打算投資600億日圓將AI資料中心用的HDD產能加倍，目前Toshiba HDD市佔率只有10%，中期目標是提升到30%，不知真假，如果是真......之前WD和Seagate堅持不擴產HDD units，只增加碟片密度(如HAMR)和HDD內碟片數(如12片)來增加容量的作法，被第三名的Toshiba打破
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02ATXxfxaKd44sekyPPP3Sr78pJTetz6GYUMovM2jhiCwUymWoUfhqCmjn3Lbjzu4wl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid06RwFC9Nkx97BZaiEhZuL1i6hhjRJVxRPh564VPEEjKewNZe5f8zvFbiuiM8qCBrml&id=100054201473657
 日經新聞Nekki報導Toshiba打算投資600億日圓將AI資料中心用的HDD產能加倍，目前Toshiba HDD市佔率只有10%，中期目標是提升到30%，不知真假，如果是真......之前WD和Seagate堅持不擴產HDD units，只增加碟片密度(如HAMR)和HDD內碟片數(如12片)來增加容量的作法，被第三名的Toshiba打破
 
 1. 通常事件分析(1)方向，(2)程度，(3)時間，這次再加一個(0)對象

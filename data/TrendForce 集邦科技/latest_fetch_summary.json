@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-10-03T06:23:19.840778+00:00",
+  "fetched_at_utc": "2026-10-04T06:46:42.152103+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1510664721083948"
+  ],
+  "new_markdown_files": [
+    "data/TrendForce 集邦科技/2026-10-03_世界先進新加坡二期計畫擬提前啟動.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",
   "notes": [

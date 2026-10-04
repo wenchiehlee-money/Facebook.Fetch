@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-03T06:22:21.745054+00:00",
+  "fetched_at_utc": "2026-10-04T06:45:28.746103+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1576498117853663",
-    "1576024191234389",
-    "1575968641239944"
+    "1577080104462131"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-02_馬斯克大砍-AI-晶片記憶體規格.md",
-    "data/FinGuider 美股資訊網/2026-10-02_特斯拉TSLA盤前揭露2026Q3-交付了-48.65-萬輛車年減-2季增-1明顯優於特斯拉提前彙整的市場共識46.2-萬甚至擊敗了市場上部分較樂觀的預測47..md",
-    "data/FinGuider 美股資訊網/2026-10-02_美國-9-月非農就業新增-2.9-萬人遠低於預期的新增-8.9-萬.md"
+    "data/FinGuider 美股資訊網/2026-10-03_美國企業回購授權又創歷史新高.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

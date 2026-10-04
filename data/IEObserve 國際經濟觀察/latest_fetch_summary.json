@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-03T06:22:48.018036+00:00",
+  "fetched_at_utc": "2026-10-04T06:46:05.721175+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1623339975817291",
-    "1622797502538205"
+    "1624386769045945",
+    "1624282075723081",
+    "1623789135772375"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-03_如果你的主要客群不是衛道人士.md",
-    "data/IEObserve 國際經濟觀察/2026-10-02_非農夠爛普天同慶.md"
+    "data/IEObserve 國際經濟觀察/2026-10-04_川普想要推進夏令時間固定點名阿肯色州的參議員在阻擋叫選民打他電話.md",
+    "data/IEObserve 國際經濟觀察/2026-10-04_好爽被大老闆客服加速了.md",
+    "data/IEObserve 國際經濟觀察/2026-10-03_怕你忘記這個芭樂票川普再講一次期中選舉如果贏了要發給每個美國成年公民5000塊.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

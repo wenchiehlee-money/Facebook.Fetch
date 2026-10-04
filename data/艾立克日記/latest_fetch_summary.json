@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61591563193133",
   "final_url": "https://www.facebook.com/profile.php?id=61591563193133",
-  "fetched_at_utc": "2026-10-03T06:23:23.752335+00:00",
+  "fetched_at_utc": "2026-10-04T06:46:45.966918+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "122138706351385439"
+  ],
+  "new_markdown_files": [
+    "data/艾立克日記/2026-10-04_AI賺的錢跑輸殖利率就會崩73年28次獲利循環費半9次全漲-追蹤者.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/艾立克日記",
   "notes": [

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-10-03T06:22:25.293579+00:00",
+  "fetched_at_utc": "2026-10-04T06:45:34.258459+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1521257363140992"
+    "1522294183037310"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-10-02_美國晨星個人理財總監在近期一篇討論債券投資的文章中有句話說的很好.md"
+    "data/綠角財經筆記/2026-10-04_昨天早上關於債券投資重點一文有些朋友的留言.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",
