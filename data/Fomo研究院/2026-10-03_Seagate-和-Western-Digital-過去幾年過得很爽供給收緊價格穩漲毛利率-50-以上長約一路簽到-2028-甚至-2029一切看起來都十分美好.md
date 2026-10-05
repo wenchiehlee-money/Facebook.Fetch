@@ -4,22 +4,22 @@ title: "Seagate 和 Western Digital 過去幾年過得很爽。供給收緊，�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0QNvi5yWWAsngiyHyV2Cxfp98g8EwS2rbjXReBeXrndCXAGcypLp5Dhdfpio9aBbFl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02UENRGeSL2CRnsdy5Cs1sdgMLiCxJ5eWucFB7bG2o2bbz5gTfwNwAi8Zf1K1eUJTrl&id=61573146584049"
 creation_time_utc: "2026-10-03T11:59:20+00:00"
-fetched_at_utc: "2026-10-04T06:45:47.700243+00:00"
+fetched_at_utc: "2026-10-05T06:53:37.175151+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/835011155_122199758822771552_7423464910544118736_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=X8X_kwHnRKMQ7kNvwFSovST&_nc_oc=AdqynsbT-QX8mP6XEEk_OCCYHO3H5tQygiB1xQlsFY6yP_e_GOSOSUFM6wdTuOcmvqw&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=DuaI-aIGX1UUmItG1thMQQ&_nc_ss=7e120&oh=00_AQOJf25NMAFvqdAKqlobj6dNkcDriRbr6b1gQi3neCV0DA&oe=6AC7B5AF"
+image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/835011155_122199758822771552_7423464910544118736_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=X8X_kwHnRKMQ7kNvwEFRPHc&_nc_oc=Adrp8LDfr6F-wqu_hI4hmDyyX6S3AeLdZxT0e0XDpapg5lnnvLdmQNJ7nUHlm_z07m0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=7HoB41VB9qTrVs_6aytrKQ&_nc_ss=7e120&oh=00_AQP_mhooobq50ZFaFZiOsro5nHt6etKEv0Zg7OErAGu1Ag&oe=6AC9072F"
 feedback_id: "ZmVlZGJhY2s6MTIyMTk5NzU5MjcyNzcxNTUy"
 page_canonical_url: ""
 ---
 
 # Seagate 和 Western Digital 過去幾年過得很爽。供給收緊，價格穩漲，毛利率 50% 以上，長約一路簽到 2028 甚至 2029，一切看起來都十分美好。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0QNvi5yWWAsngiyHyV2Cxfp98g8EwS2rbjXReBeXrndCXAGcypLp5Dhdfpio9aBbFl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02UENRGeSL2CRnsdy5Cs1sdgMLiCxJ5eWucFB7bG2o2bbz5gTfwNwAi8Zf1K1eUJTrl&id=61573146584049
 
-![Seagate 和 Western Digital 過去幾年過得很爽。供給收緊，價格穩漲，毛利率 50% 以上，長約一路簽到 2028 甚至 2029，一切看起來都十分美好。](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/835011155_122199758822771552_7423464910544118736_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=X8X_kwHnRKMQ7kNvwFSovST&_nc_oc=AdqynsbT-QX8mP6XEEk_OCCYHO3H5tQygiB1xQlsFY6yP_e_GOSOSUFM6wdTuOcmvqw&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=DuaI-aIGX1UUmItG1thMQQ&_nc_ss=7e120&oh=00_AQOJf25NMAFvqdAKqlobj6dNkcDriRbr6b1gQi3neCV0DA&oe=6AC7B5AF)
+![Seagate 和 Western Digital 過去幾年過得很爽。供給收緊，價格穩漲，毛利率 50% 以上，長約一路簽到 2028 甚至 2029，一切看起來都十分美好。](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/835011155_122199758822771552_7423464910544118736_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=X8X_kwHnRKMQ7kNvwEFRPHc&_nc_oc=Adrp8LDfr6F-wqu_hI4hmDyyX6S3AeLdZxT0e0XDpapg5lnnvLdmQNJ7nUHlm_z07m0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=7HoB41VB9qTrVs_6aytrKQ&_nc_ss=7e120&oh=00_AQP_mhooobq50ZFaFZiOsro5nHt6etKEv0Zg7OErAGu1Ag&oe=6AC9072F)
 Seagate 和 Western Digital 過去幾年過得很爽。供給收緊，價格穩漲，毛利率 50% 以上，長約一路簽到 2028 甚至 2029，一切看起來都十分美好。
 ​
 然後東芝拿著 3.8 億美元走進來說：「我想改一下劇本。」

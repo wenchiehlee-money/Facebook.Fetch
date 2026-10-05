@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-10-04T06:45:47.700243+00:00",
+  "fetched_at_utc": "2026-10-05T06:53:37.175151+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "122199759272771552"
+    "122199997058771552",
+    "122199888518771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-10-03_Seagate-和-Western-Digital-過去幾年過得很爽供給收緊價格穩漲毛利率-50-以上長約一路簽到-2028-甚至-2029一切看起來都十分美好.md"
+    "data/Fomo研究院/2026-10-05_兩週Shopify股價漲了快兩成但推升這波行情的主角跟財報並沒有關係.md",
+    "data/Fomo研究院/2026-10-04_人工智能因為有人工這兩個字聽起來就是假的When-you-say-artificial-intelligence-its-artificial.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

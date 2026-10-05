@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-04T06:46:05.721175+00:00",
+  "fetched_at_utc": "2026-10-05T06:54:07.875174+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1624386769045945",
-    "1624282075723081",
-    "1623789135772375"
+    "1625289495622339",
+    "1625108402307115",
+    "1624649432353012"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-04_川普想要推進夏令時間固定點名阿肯色州的參議員在阻擋叫選民打他電話.md",
-    "data/IEObserve 國際經濟觀察/2026-10-04_好爽被大老闆客服加速了.md",
-    "data/IEObserve 國際經濟觀察/2026-10-03_怕你忘記這個芭樂票川普再講一次期中選舉如果贏了要發給每個美國成年公民5000塊.md"
+    "data/IEObserve 國際經濟觀察/2026-10-05_今天日經也一度衝上7萬點.md",
+    "data/IEObserve 國際經濟觀察/2026-10-05_各位觀眾五萬點.md",
+    "data/IEObserve 國際經濟觀察/2026-10-04_蓋茲很明顯更AI末日論覺得行業內的樂觀想法和自律都是狗屁大家還在裝死感覺他跟自己公司的高層也脫鉤了不過現在大家想到他都會跟愛潑斯坦的名字連在一起.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

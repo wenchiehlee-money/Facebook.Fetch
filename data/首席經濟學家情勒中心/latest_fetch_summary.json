@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61589343187385",
   "final_url": "https://www.facebook.com/profile.php?id=61589343187385",
-  "fetched_at_utc": "2026-10-04T06:46:19.543063+00:00",
+  "fetched_at_utc": "2026-10-05T06:54:35.333762+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "122126259423311439",
-    "122126249763311439",
-    "122126052123311439"
+    "122126366343311439",
+    "122126359935311439"
   ],
   "new_markdown_files": [
-    "data/首席經濟學家情勒中心/2026-10-04_真理越辯越明我覺得在野黨的黨中央有這樣的格局是非常好的.md",
-    "data/首席經濟學家情勒中心/2026-10-04_我覺得所有首長的競選都應該舉辦至少一場政策辯論而且要強制候選人參加.md",
-    "data/首席經濟學家情勒中心/2026-10-03_所謂打仗打到六親不認大概是講我們偉大的費沙開封府團隊.md"
+    "data/首席經濟學家情勒中心/2026-10-05_台積電最值錢的東西從來不是某一代製程我把它叫做Manufacturing-Operating-Ecosystem製造作業生態系統.md",
+    "data/首席經濟學家情勒中心/2026-10-05_可以開始關注巴西.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/首席經濟學家情勒中心",

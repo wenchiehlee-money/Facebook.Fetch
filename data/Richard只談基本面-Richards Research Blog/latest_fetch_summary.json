@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-10-04T06:46:01.861748+00:00",
+  "fetched_at_utc": "2026-10-05T06:53:58.293550+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1628029659013734"
+    "1629280745555292"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-10-03_提高KV-cache快取命中率需要更大容量大容量增加命中率.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-10-04_如果合作成功將成上千家IDMFablessSystem-ASIC攸關競爭力和生存的必備支出第二家Cadence-or-Siemens勢必盡快搶進Anthropi.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",

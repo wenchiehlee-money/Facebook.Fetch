@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-10-04T06:45:39.280446+00:00",
+  "fetched_at_utc": "2026-10-05T06:53:25.829388+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,15 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 2,
+  "new_post_ids": [
+    "1565177662314984",
+    "1565155858983831"
+  ],
+  "new_markdown_files": [
+    "data/股魚/2026-10-05_期貨盤已經開香檳了已衝破50000點現貨盤跟上指日可待各位堅持長期投資一路看多的朋友們恭喜各位一路走來荷包都賺得滿滿的.md",
+    "data/股魚/2026-10-05_恭喜各位傻多們台股一舉衝上新高-49550點本周就有望挑戰50000點啦.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",
   "notes": [

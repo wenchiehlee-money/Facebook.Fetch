@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-10-04T06:46:38.339071+00:00",
+  "fetched_at_utc": "2026-10-05T06:55:11.301120+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1529302455898632",
-    "1528702359291975",
-    "1528624642633080"
+    "1530405032455041",
+    "1530253879136823",
+    "1530213299140881"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-10-04_工作老是拖到最後一刻開會容易恍神別人講過的事轉頭就忘就代表有成人ADHD嗎.md",
-    "data/商業周刊商周.com/2026-10-03_皮克敏上半年收入台灣玩家貢獻52免費走路種花怎麼讓人願意課金.md",
-    "data/商業周刊商周.com/2026-10-03_台灣車燈代工龍頭變天大億交棒日本人主政它還能高成長高利潤.md"
+    "data/商業周刊商周.com/2026-10-05_六十世代的財富自由從健康防禦開始.md",
+    "data/商業周刊商周.com/2026-10-05_對方只說了一句話你卻在腦中重播了一整天.md",
+    "data/商業周刊商周.com/2026-10-05_商周讀書會傳奇投資哲學家查理蒙格Charles-T.-Munger與巴菲特相識並合作經營波克夏兩人共創了延續近60年全球絕無僅有的投資奇蹟隨著日前巴菲特宣布正式.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

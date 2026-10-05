@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-10-04T06:45:43.871282+00:00",
+  "fetched_at_utc": "2026-10-05T06:53:33.013348+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1530527495787849",
-    "1529993339174598"
+    "1531659382341327",
+    "1531190759054856",
+    "1531169285723670"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-10-04_Apple準備出手限制AI-agent提高Mac的隱私控制確保用戶在非常明確情況下才能授予AI-agent讀取Mac上的email通訊錄簡訊檔案和網路瀏覽紀錄.md",
-    "data/美股探路客/2026-10-03_QQQXLK均領先創下歷史新高反應獲利增長高的科技股目前能抵抗高利率環境的壓力.md"
+    "data/美股探路客/2026-10-05_附圖紅色柱狀圖是華爾街預測Microsoft未來幾個季度的獲利截至週五的前瞻本益比-26.2x仍低於-10-年歷史平均的-28.2x.md",
+    "data/美股探路客/2026-10-04_Irrational-Analysis文章表示OpenAI第一代AI-ASIC-Jalapeno良率出問題由於採用的是TSMC成熟的N3P製程問題不是在Broa.md",
+    "data/美股探路客/2026-10-04_美股財經週報-2026.10.4.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-04T06:45:28.746103+00:00",
+  "fetched_at_utc": "2026-10-05T06:53:09.181260+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1577080104462131"
-  ],
-  "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-03_美國企業回購授權又創歷史新高.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",
   "notes": [

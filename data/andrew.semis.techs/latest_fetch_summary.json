@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-10-04T06:46:30.923697+00:00",
+  "fetched_at_utc": "2026-10-05T06:54:56.528267+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1646728993477240"
-  ],
-  "new_markdown_files": [
-    "data/andrew.semis.techs/2026-10-04_如果-SpaceX--Tesla-的-JV-TeraFab-是由台積電出資出技術建造那老實說這個Fab-就不能稱為老馬的TeraFab從頭到尾根本就是一個台積電.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
   "notes": [

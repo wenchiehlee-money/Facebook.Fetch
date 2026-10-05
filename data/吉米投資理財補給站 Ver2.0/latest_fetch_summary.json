@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-10-04T06:46:09.097434+00:00",
+  "fetched_at_utc": "2026-10-05T06:54:15.681726+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,15 +9,17 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 2,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "122231239910502956",
-    "122231209916502956"
+    "122231493848502956",
+    "122231488250502956",
+    "122231486846502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-10-03_鎧俠CFO透露NAND漲價時為什麼不急著把產能全部鎖死.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-10-03_報導指出TSMC-正在探索如何與馬斯克的-Terafab-合作甚至可能協助-Terafab-營運德州的新晶圓廠.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-10-05_歡迎勳哥為我們帶來一首Just-AI.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-10-05_AI時代的共同課題如何控制風險.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-10-05_繼周五場周一場我們又抓到三隻大GG.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",
@@ -26,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }
