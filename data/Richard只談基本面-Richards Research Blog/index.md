@@ -1,11 +1,12 @@
 # Facebook 貼文索引
 
 - 頁面: 
-- 抓取時間: 2026-10-05T06:53:58.293550+00:00
-- 已收錄貼文數量: 282
+- 抓取時間: 2026-10-06T07:29:06.055894+00:00
+- 已收錄貼文數量: 283
 
 ## 文章列表
 
+- `2026-10-05` [1. 上次Richard Ho採訪稿中提到Jalapeño並非使用AI生成RTL/Verilog，而是生成Accelerated Hardware Synthesis簡稱XLS建立，因為當時的AI模型比較擅長更像一般程式語言的XLS，接著將這些轉換成Verilog](2026-10-05_1.-上次Richard-Ho採訪稿中提到Jalapeo並非使用AI生成RTLVerilog而是生成Accelerated-Hardware-Synthesis.md)
 - `2026-10-04` [如果合作成功，將成上千家IDM/Fabless/System ASIC攸關競爭力和生存的必備支出，第二家(Cadence or Siemens)勢必盡快搶進Anthropic合作，動作慢的第三家只能和Google合作，或許，只是外行人的或許，Fabless純開放一般性、發散性的、無統一宗旨目標的、個人\"工作效率\"tokens使用額度，不如資源改為前幾天談的(1)學習OpenAI Jalapeño和特定AI研究以加速IC開發時程明確目標的使用(2)使用以下貼文OpenAI+Synopsys整合成功之後的平台(非現在EDA公司每個模組分開零散AI功能)](2026-10-04_如果合作成功將成上千家IDMFablessSystem-ASIC攸關競爭力和生存的必備支出第二家Cadence-or-Siemens勢必盡快搶進Anthropi.md)
 - `2026-10-03` [提高KV cache快取命中率需要更大容量，大容量增加命中率](2026-10-03_提高KV-cache快取命中率需要更大容量大容量增加命中率.md)
 - `2026-10-02` [日經新聞Nekki報導Toshiba打算投資600億日圓將AI資料中心用的HDD產能加倍，目前Toshiba HDD市佔率只有10%，中期目標是提升到30%，不知真假，如果是真......之前WD和Seagate堅持不擴產HDD units，只增加碟片密度(如HAMR)和HDD內碟片數(如12片)來增加容量的作法，被第三名的Toshiba打破](2026-10-02_日經新聞Nekki報導Toshiba打算投資600億日圓將AI資料中心用的HDD產能加倍目前Toshiba-HDD市佔率只有10中期目標是提升到30不知真假如果.md)

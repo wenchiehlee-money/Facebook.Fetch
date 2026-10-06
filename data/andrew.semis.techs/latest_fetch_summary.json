@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-10-05T06:54:56.528267+00:00",
+  "fetched_at_utc": "2026-10-06T07:29:41.949692+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1647845756698897"
+  ],
+  "new_markdown_files": [
+    "data/andrew.semis.techs/2026-10-05_923-我還在說怎麼感覺最近神山有點要創新高價但膽子小小的破關情怯的概念不像信驊聯發科這麼阿莎力結果今天果然偷偷爬上新高感覺像偷偷摸摸爬上床不像跳上床接著分析師.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
   "notes": [

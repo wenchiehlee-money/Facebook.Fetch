@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-10-05T06:53:58.293550+00:00",
+  "fetched_at_utc": "2026-10-06T07:29:06.055894+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1629280745555292"
+    "1629942682155765"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-10-04_如果合作成功將成上千家IDMFablessSystem-ASIC攸關競爭力和生存的必備支出第二家Cadence-or-Siemens勢必盡快搶進Anthropi.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-10-05_1.-上次Richard-Ho採訪稿中提到Jalapeo並非使用AI生成RTLVerilog而是生成Accelerated-Hardware-Synthesis.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-10-05T06:53:17.006713+00:00",
+  "fetched_at_utc": "2026-10-06T07:28:33.917983+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1523008309632564"
+    "1523893402877388"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-10-04_有些投資人很直覺的想股票是較具成長性的資產所以退休後將金融資產全部投入股票應可帶來最好的長期提領成果譬如可以使用較久的年限或是可以持續提領較高的金額.md"
+    "data/綠角財經筆記/2026-10-05_Beyond-the-Status-Quo用來說明國際股市比債券分散性更好更適於搭配本國股市的資料主要是下方這個表格.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

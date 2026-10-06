@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-10-05T06:54:21.848890+00:00",
+  "fetched_at_utc": "2026-10-06T07:29:19.372188+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122205363284486922",
-    "122205358892486922",
-    "122205352952486922"
+    "122205526472486922",
+    "122205524462486922",
+    "122205520682486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-10-05_風險與機會永遠是同卵雙生.md",
-    "data/美股老司機 3.0/2026-10-05_AVGO-通過收購與創新實現營收增長的歷程.md",
-    "data/美股老司機 3.0/2026-10-05_BTC.md"
+    "data/美股老司機 3.0/2026-10-06_週一晚開心.md",
+    "data/美股老司機 3.0/2026-10-06_一段被誤傳的句子.md",
+    "data/美股老司機 3.0/2026-10-06_過去-50-年中所有跨過-4-年的牛市.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

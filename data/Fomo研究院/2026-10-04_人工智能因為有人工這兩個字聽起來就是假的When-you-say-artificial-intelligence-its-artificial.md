@@ -4,22 +4,22 @@ title: "「人工智能因為有『人工』這兩個字，聽起來就是假的
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02gzVCY8GyagZXjDs1LjzFYcCsPHYmdHqGZTm9WZEwGs5urtGQQjVtexmLh7wikfHPl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0dSr1cxecjdedG6Jp9CPYapnFKRFbLtYbjzVxXgYdAbSbc3mTWEMyDs34v8Qng4htl&id=61573146584049"
 creation_time_utc: "2026-10-04T10:48:07+00:00"
-fetched_at_utc: "2026-10-05T06:53:37.175151+00:00"
+fetched_at_utc: "2026-10-06T07:28:52.009888+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/834388841_122199888344771552_5328978246554733610_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hSw4_5GeorUQ7kNvwG-tJml&_nc_oc=AdqICUham3aDYGuLZmj5t9Kmf7MVLhoJrK2nPOHF-df-MjiYABBtbrYLe5SVRiYYigo&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=7HoB41VB9qTrVs_6aytrKQ&_nc_ss=7e120&oh=00_AQPeOtUv7IU-ktweCprtiZsa53PWVvSbgZOMGSyPzWjBYw&oe=6AC90FED"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/834388841_122199888344771552_5328978246554733610_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EXDiwWm67fwQ7kNvwHtJ-YO&_nc_oc=AdqCQHyDaSepIocjnT4MKd64XWYJxkvUM01u9S-dmLhmmIvJrKN1y6YQgvHzTBzzUhc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=8eT6-j9TpGbduGujdw0O-g&_nc_ss=7e120&oh=00_AQNkkdE5ERnZx4xIjsotlMG5D93ce6Rbn3VvW9DUtnu_WA&oe=6ACA616D"
 feedback_id: "ZmVlZGJhY2s6MTIyMTk5ODg4NTE4NzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 「人工智能因為有『人工』這兩個字，聽起來就是假的。」(When you say artificial intelligence, it’s ‘artificial’)
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02gzVCY8GyagZXjDs1LjzFYcCsPHYmdHqGZTm9WZEwGs5urtGQQjVtexmLh7wikfHPl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0dSr1cxecjdedG6Jp9CPYapnFKRFbLtYbjzVxXgYdAbSbc3mTWEMyDs34v8Qng4htl&id=61573146584049
 
-![「人工智能因為有『人工』這兩個字，聽起來就是假的。」(When you say artificial intelligence, it’s ‘artificial’)](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/834388841_122199888344771552_5328978246554733610_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hSw4_5GeorUQ7kNvwG-tJml&_nc_oc=AdqICUham3aDYGuLZmj5t9Kmf7MVLhoJrK2nPOHF-df-MjiYABBtbrYLe5SVRiYYigo&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=7HoB41VB9qTrVs_6aytrKQ&_nc_ss=7e120&oh=00_AQPeOtUv7IU-ktweCprtiZsa53PWVvSbgZOMGSyPzWjBYw&oe=6AC90FED)
+![「人工智能因為有『人工』這兩個字，聽起來就是假的。」(When you say artificial intelligence, it’s ‘artificial’)](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/834388841_122199888344771552_5328978246554733610_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EXDiwWm67fwQ7kNvwHtJ-YO&_nc_oc=AdqCQHyDaSepIocjnT4MKd64XWYJxkvUM01u9S-dmLhmmIvJrKN1y6YQgvHzTBzzUhc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=8eT6-j9TpGbduGujdw0O-g&_nc_ss=7e120&oh=00_AQNkkdE5ERnZx4xIjsotlMG5D93ce6Rbn3VvW9DUtnu_WA&oe=6ACA616D)
 「人工智能因為有『人工』這兩個字，聽起來就是假的。」(When you say artificial intelligence, it’s ‘artificial’)
 ​
 Donald Trump這樣說到，於是他大筆一揮簽了行政命令：聯邦政府以後改口，把 AI 改稱 SI（Super Intelligence，超級智慧）。

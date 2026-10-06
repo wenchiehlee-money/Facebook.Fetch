@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-10-05T06:55:16.864598+00:00",
+  "fetched_at_utc": "2026-10-06T07:29:55.831989+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1511621557654931"
+    "1513427164141037"
   ],
   "new_markdown_files": [
-    "data/TrendForce 集邦科技/2026-10-04_美光財報再超預期長約金額增至320億美元.md"
+    "data/TrendForce 集邦科技/2026-10-06_東芝計畫投資-600億日圓約3.8億美元目標為於2027財年將HDD產能提升至2025財年的一倍TrendForce預期此次擴產主要受到HDD出貨量成長所驅動不.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",

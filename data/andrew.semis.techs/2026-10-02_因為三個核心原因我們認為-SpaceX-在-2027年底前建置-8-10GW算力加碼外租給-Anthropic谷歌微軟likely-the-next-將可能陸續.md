@@ -4,9 +4,9 @@ title: "因為三個核心原因，我們認為 SpaceX 在 2027年底前建置 8
 page_title: ""
 requested_url: "https://www.facebook.com/andrew.semis.techs"
 final_url: "https://www.facebook.com/andrew.semis.techs"
-post_url: "https://www.facebook.com/andrew.semis.techs/posts/pfbid05Svpob3WBaSkfYXpSQ95SfytAi8CxLvSTrsgoqJ451PLruB4wfZf1AMB6XmSwraTl"
+post_url: "https://www.facebook.com/andrew.semis.techs/posts/pfbid029JNXzFyL322baHvoeywRmMHuoeyLtdjHAPyoB1jNys8XoS6s4hmBGFtf98YybeApl"
 creation_time_utc: "2026-10-02T23:54:14+00:00"
-fetched_at_utc: "2026-10-05T06:54:56.528267+00:00"
+fetched_at_utc: "2026-10-06T07:29:41.949692+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,5 +17,5 @@ page_canonical_url: ""
 
 # 因為三個核心原因，我們認為 SpaceX 在 2027年底前建置 8-10GW算力，加碼外租給 Anthropic，谷歌，微軟（likely the next) ，將可能陸續趕超 CoreWeave，Oracle 在2028年成為 Neocloud 外溢雲龍頭及Nvidia 的最大Neocloud 客戶。而Tesla 可能將受惠於AI 數據算力中心儲能系統銷售超預期。
 
-原文連結: https://www.facebook.com/andrew.semis.techs/posts/pfbid05Svpob3WBaSkfYXpSQ95SfytAi8CxLvSTrsgoqJ451PLruB4wfZf1AMB6XmSwraTl
+原文連結: https://www.facebook.com/andrew.semis.techs/posts/pfbid029JNXzFyL322baHvoeywRmMHuoeyLtdjHAPyoB1jNys8XoS6s4hmBGFtf98YybeApl
 因為三個核心原因，我們認為 SpaceX 在 2027年底前建置 8-10GW算力，加碼外租給 Anthropic，谷歌，微軟（likely the next) ，將可能陸續趕超 CoreWeave，Oracle 在2028年成為 Neocloud 外溢雲龍頭及Nvidia 的最大Neocloud 客戶。而Tesla 可能將受惠於AI 數據算力中心儲能系統銷售超預期。

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-10-05T06:55:11.301120+00:00",
+  "fetched_at_utc": "2026-10-06T07:29:51.046410+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1530405032455041",
-    "1530253879136823",
-    "1530213299140881"
+    "1530288812466663",
+    "1531347785694099",
+    "1531261775702700"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-10-05_六十世代的財富自由從健康防禦開始.md",
-    "data/商業周刊商周.com/2026-10-05_對方只說了一句話你卻在腦中重播了一整天.md",
-    "data/商業周刊商周.com/2026-10-05_商周讀書會傳奇投資哲學家查理蒙格Charles-T.-Munger與巴菲特相識並合作經營波克夏兩人共創了延續近60年全球絕無僅有的投資奇蹟隨著日前巴菲特宣布正式.md"
+    "data/商業周刊商周.com/2026-10-06_赴日置產買房只是開始從貸款能否核准房子租給誰到交屋後的管理與維護每個環節都會影響長期持有的成本與收益.md",
+    "data/商業周刊商周.com/2026-10-06_連剝蛋殼的時間超商都要幫你省.md",
+    "data/商業周刊商周.com/2026-10-06_長照7年燒掉3千萬老化通膨恐壓垮中產階級.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

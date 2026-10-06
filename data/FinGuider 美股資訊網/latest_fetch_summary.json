@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-05T06:53:09.181260+00:00",
+  "fetched_at_utc": "2026-10-06T07:28:30.561611+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,17 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1579736827529792",
+    "1579537270883081",
+    "1578751874294954"
+  ],
+  "new_markdown_files": [
+    "data/FinGuider 美股資訊網/2026-10-06_NokiaNOK執行長-Justin-Hotard-認為現在就斷言-AI-資料中心蓋過頭還為時過早他在接受CNBC訪問時指出電力與晶片等供應瓶頸持續拖慢建設進度.md",
+    "data/FinGuider 美股資訊網/2026-10-06_GoogleGOOGL正接近與-Constellation-EnergyCEG簽署多年期核電採購協議合約總金額至少-10-億美元最快本週公布.md",
+    "data/FinGuider 美股資訊網/2026-10-05_105-109-美股投資看什麼.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",
   "notes": [

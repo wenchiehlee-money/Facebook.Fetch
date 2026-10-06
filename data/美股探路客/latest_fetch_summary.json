@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-10-05T06:53:33.013348+00:00",
+  "fetched_at_utc": "2026-10-06T07:28:43.363045+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1531659382341327",
-    "1531190759054856",
-    "1531169285723670"
+    "1532758575564741",
+    "1532012998972632"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-10-05_附圖紅色柱狀圖是華爾街預測Microsoft未來幾個季度的獲利截至週五的前瞻本益比-26.2x仍低於-10-年歷史平均的-28.2x.md",
-    "data/美股探路客/2026-10-04_Irrational-Analysis文章表示OpenAI第一代AI-ASIC-Jalapeno良率出問題由於採用的是TSMC成熟的N3P製程問題不是在Broa.md",
-    "data/美股探路客/2026-10-04_美股財經週報-2026.10.4.md"
+    "data/美股探路客/2026-10-06_Charles-Schwab首席技術分析師-Rachel-Dashiell-LITE-股價走勢出現典型的波動率壓縮後的反轉看漲型態.md",
+    "data/美股探路客/2026-10-05_XLU-公用事業板塊-ETF-的看漲期權成交量創下-2-年來最高紀錄PutCall-ratio-接近-2-年來最低水平.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

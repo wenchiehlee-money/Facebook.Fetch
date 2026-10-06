@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/iqvalue",
   "final_url": "https://www.facebook.com/iqvalue",
-  "fetched_at_utc": "2026-10-05T06:54:48.127972+00:00",
+  "fetched_at_utc": "2026-10-06T07:29:37.548357+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1558427456299032"
+  ],
+  "new_markdown_files": [
+    "data/洪鑑穩 帶你挖好股/2026-10-06_出門旅遊.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/洪鑑穩 帶你挖好股",
   "notes": [

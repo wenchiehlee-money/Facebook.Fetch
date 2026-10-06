@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-10-05T06:55:04.422174+00:00",
+  "fetched_at_utc": "2026-10-06T07:29:46.333593+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1627840319386469",
-    "1627725632731271",
-    "1627254549445046"
+    "1628742809296220"
   ],
   "new_markdown_files": [
-    "data/LinsanityStock/2026-10-05_去年底今年初在分析南亞科的時候也多次提到台塑集團中的南亞不僅僅是南亞科最大的法人股東也提到南亞已經從傳統的塑化產業積極往PCB上游關鍵材料做轉型去年底南亞的股價.md",
-    "data/LinsanityStock/2026-10-05_台積電今天再創新高了之前已經有把法人預估的獲利與評價方法解釋得很清楚了機會是留給有信心耐心的人.md",
-    "data/LinsanityStock/2026-10-04_這次很榮幸可以受邀成為跟著73歲金剛老爹練肌力這本新書的推薦人之一隨著家中長輩年紀漸長開始注意到保持肌力是維持活力的重要關鍵因素之一在這本書中作者金剛老爹圖文並.md"
+    "data/LinsanityStock/2026-10-06_2026106-外電綜合整理.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",
