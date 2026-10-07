@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/dextermchang",
   "final_url": "https://www.facebook.com/dextermchang",
-  "fetched_at_utc": "2026-10-06T07:28:19.980882+00:00",
+  "fetched_at_utc": "2026-10-07T07:07:44.548720+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122142640311207208"
+    "122142785223207208"
   ],
   "new_markdown_files": [
-    "data/大會計師 張明輝/2026-10-06_SK海力士-赴美掛牌背後資本棋局.md"
+    "data/大會計師 張明輝/2026-10-07_雖然都是IC設計公司聯發科創意-重點大不同.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/大會計師 張明輝",

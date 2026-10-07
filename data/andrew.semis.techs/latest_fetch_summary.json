@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-10-06T07:29:41.949692+00:00",
+  "fetched_at_utc": "2026-10-07T07:08:44.124991+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1647845756698897"
+    "1649342623215877",
+    "1649326326550840"
   ],
   "new_markdown_files": [
-    "data/andrew.semis.techs/2026-10-05_923-我還在說怎麼感覺最近神山有點要創新高價但膽子小小的破關情怯的概念不像信驊聯發科這麼阿莎力結果今天果然偷偷爬上新高感覺像偷偷摸摸爬上床不像跳上床接著分析師.md"
+    "data/andrew.semis.techs/2026-10-06_Nvidia-預期2027營收年增70數據中心70-yoy.md",
+    "data/andrew.semis.techs/2026-10-06_Google-與美國最大核電業者-Constellation-Energy-達成指標性長期採購協議簽署-20-年期-43-億美元核能大單總供電承諾達-3590.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",

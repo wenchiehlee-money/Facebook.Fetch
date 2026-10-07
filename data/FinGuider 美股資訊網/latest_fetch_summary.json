@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-06T07:28:30.561611+00:00",
+  "fetched_at_utc": "2026-10-07T07:07:54.972320+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1579736827529792",
-    "1579537270883081",
-    "1578751874294954"
+    "1580549467448528",
+    "1580458654124276",
+    "1579905060846302"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-06_NokiaNOK執行長-Justin-Hotard-認為現在就斷言-AI-資料中心蓋過頭還為時過早他在接受CNBC訪問時指出電力與晶片等供應瓶頸持續拖慢建設進度.md",
-    "data/FinGuider 美股資訊網/2026-10-06_GoogleGOOGL正接近與-Constellation-EnergyCEG簽署多年期核電採購協議合約總金額至少-10-億美元最快本週公布.md",
-    "data/FinGuider 美股資訊網/2026-10-05_105-109-美股投資看什麼.md"
+    "data/FinGuider 美股資訊網/2026-10-07_SpaceXSPCX正洽談一筆約-400-億美元的融資用於採購輝達NVDA-AI-晶片如果消息屬實這將是歷來規模最大的-AI-晶片採購融資案之一.md",
+    "data/FinGuider 美股資訊網/2026-10-06_AI-概念股續強標普與那斯達克再創新高.md",
+    "data/FinGuider 美股資訊網/2026-10-06_美股-ETF-趨勢週報.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-10-06T07:28:43.363045+00:00",
+  "fetched_at_utc": "2026-10-07T07:08:05.614661+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1532758575564741",
-    "1532012998972632"
+    "1533616282145637",
+    "1533591688814763",
+    "1533579468815985"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-10-06_Charles-Schwab首席技術分析師-Rachel-Dashiell-LITE-股價走勢出現典型的波動率壓縮後的反轉看漲型態.md",
-    "data/美股探路客/2026-10-05_XLU-公用事業板塊-ETF-的看漲期權成交量創下-2-年來最高紀錄PutCall-ratio-接近-2-年來最低水平.md"
+    "data/美股探路客/2026-10-07_美銀最新報告認為美股創歷史新高出現典型的上漲廣度差泡沫積累現象.md",
+    "data/美股探路客/2026-10-07_SpaceX-正在尋求100-億美元的銀行貸款發行投資級債券募集300-億美元共400億美元以購買-Nvidia-的晶片.md",
+    "data/美股探路客/2026-10-07_78月ChatGPT-在美國付費用戶數量上領先-Claude-和-Gemini-達-3-倍.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

@@ -4,16 +4,16 @@ title: "從最新一期的TrendForce供應鏈雷達圖表，結合近期市場�
 page_title: "股票"
 source_page: "\u5f90\u7acb\u8a00"
 requested_url: "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL"
-post_url: "https://www.facebook.com/hsulylab/posts/pfbid02ganjLcn5ocKNXjp39pFFsyQTtULr9r7m94RfLkJHcCCZuqZiD4yzwhdckuLP8GCLl"
+post_url: "https://www.facebook.com/hsulylab/posts/pfbid0d39YRT9ixWzJFCiBZtF6W4vhgp9KDmDcZPsq8aYpgU5Jvmm69eKPVe4AqGfo6HqHl"
 creation_time_utc: ""
-fetched_at_utc: "2026-10-06T07:28:17.964072+00:00"
+fetched_at_utc: "2026-10-07T07:07:42.663272+00:00"
 source: "saved_list"
 ---
 
 # 從最新一期的TrendForce供應鏈雷達圖表，結合近期市場數據的更新，我們可以看到一個截然不同的結構真相。
 
 來源：\u5f90\u7acb\u8a00
-原文連結: https://www.facebook.com/hsulylab/posts/pfbid02ganjLcn5ocKNXjp39pFFsyQTtULr9r7m94RfLkJHcCCZuqZiD4yzwhdckuLP8GCLl
+原文連結: https://www.facebook.com/hsulylab/posts/pfbid0d39YRT9ixWzJFCiBZtF6W4vhgp9KDmDcZPsq8aYpgU5Jvmm69eKPVe4AqGfo6HqHl
 從最新一期的TrendForce供應鏈雷達圖表，結合近期市場數據的更新，我們可以看到一個截然不同的結構真相。
 
 以下是根據最新圖表與數據所呈現的供應鏈現況解構：

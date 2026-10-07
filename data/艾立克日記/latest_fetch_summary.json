@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61591563193133",
   "final_url": "https://www.facebook.com/profile.php?id=61591563193133",
-  "fetched_at_utc": "2026-10-06T07:30:00.213010+00:00",
+  "fetched_at_utc": "2026-10-07T07:08:58.531794+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "122139425481385439"
+  ],
+  "new_markdown_files": [
+    "data/艾立克日記/2026-10-06_0050-2330又創新高現在還能買嗎先懂我們到底在跟誰賽跑-追蹤者.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/艾立克日記",
   "notes": [

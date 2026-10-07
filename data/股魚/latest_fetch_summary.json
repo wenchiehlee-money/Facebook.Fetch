@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-10-06T07:28:37.485259+00:00",
+  "fetched_at_utc": "2026-10-07T07:08:01.849277+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1565592698940147"
+    "1567117068787710",
+    "1566770678822349",
+    "1566654565500627"
   ],
   "new_markdown_files": [
-    "data/股魚/2026-10-05_今天台股大漲1236點後來觀察主動式ETF的動態以整體市場戰情資料來看注意到3017奇鋐有被多家主動式ETF持續加碼的力道主要加碼的有-00981A-統一增長.md"
+    "data/股魚/2026-10-07_法人給出台股權王-台積電最新的EPS預估.md",
+    "data/股魚/2026-10-06_美股四大指數上漲.md",
+    "data/股魚/2026-10-06_雖然今天收盤未能突破50000大關但是目前的台指期夜盤依舊是衝破50000點周邊不少都是很看好指數站上五萬點的行情但這個大整數的關卡呈現多空交戰與下車觀望的心態.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",

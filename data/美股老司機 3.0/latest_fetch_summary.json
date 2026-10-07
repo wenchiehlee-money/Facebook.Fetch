@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-10-06T07:29:19.372188+00:00",
+  "fetched_at_utc": "2026-10-07T07:08:27.359597+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122205526472486922",
-    "122205524462486922",
-    "122205520682486922"
+    "122205689654486922",
+    "122205605018486922",
+    "122205590738486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-10-06_週一晚開心.md",
-    "data/美股老司機 3.0/2026-10-06_一段被誤傳的句子.md",
-    "data/美股老司機 3.0/2026-10-06_過去-50-年中所有跨過-4-年的牛市.md"
+    "data/美股老司機 3.0/2026-10-07_海灣地區原油出口量已接近戰前水平原油市場基本面狀況良好.md",
+    "data/美股老司機 3.0/2026-10-06_投資小故事.md",
+    "data/美股老司機 3.0/2026-10-06_Michael-Burry.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",
