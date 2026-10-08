@@ -4,9 +4,9 @@ title: "我最新的產業調查顯示，Nvidia 開始測試以碳氫樹脂（hy
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573992511738"
 final_url: "https://www.facebook.com/profile.php?id=61573992511738"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0256qKmYZ1cP5RuMfoMiVVGY8yko2pvgUyTY7JdASv1JfhuSJE1AVZLZuAK5Cc73kRl&id=61573992511738"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid015EcHjMSwKzCUWPkHAu9xp6knf5MZJkWHpv59JKAu1MHc7QQzVNUu2CUP3ZujA27l&id=61573992511738"
 creation_time_utc: "2026-09-30T07:34:02+00:00"
-fetched_at_utc: "2026-10-07T07:08:37.280958+00:00"
+fetched_at_utc: "2026-10-08T07:16:59.800182+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 我最新的產業調查顯示，Nvidia 開始測試以碳氫樹脂（hydrocarbon resin，HC）為主的無布 CCL，取代先前測試的 PTFE 無布 CCL，並搭配 HC 無布 PP，評估能否滿足預計於 2H27 量產的 Rubin Ultra NVL576（8 機櫃互連方案）之 switch tray PCB 需求。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0256qKmYZ1cP5RuMfoMiVVGY8yko2pvgUyTY7JdASv1JfhuSJE1AVZLZuAK5Cc73kRl&id=61573992511738
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid015EcHjMSwKzCUWPkHAu9xp6knf5MZJkWHpv59JKAu1MHc7QQzVNUu2CUP3ZujA27l&id=61573992511738
 我最新的產業調查顯示，Nvidia 開始測試以碳氫樹脂（hydrocarbon resin，HC）為主的無布 CCL，取代先前測試的 PTFE 無布 CCL，並搭配 HC 無布 PP，評估能否滿足預計於 2H27 量產的 Rubin Ultra NVL576（8 機櫃互連方案）之 switch tray PCB 需求。
 
 在提升 PCB 生產性的目標下，HC 無布 CCL 的初步測試結果符合 switch tray 的高頻電性要求（表現不及原 PTFE 方案，但優於 M9 等級方案，甚至優於 M10 的帳面規格）。上述測試不代表最終定案，但顯示 Nvidia 仍在滿足電性要求的前提下，尋求更好的 PCB 製造良率與生產效率。

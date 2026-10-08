@@ -4,22 +4,22 @@ title: "“Beyond the Status Quo”用來說明國際股市比債券分散性更
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02w71zxpw7EKsJi22iSNpUVv7rL4fDTU7bWineoRweA1x5XsrEjUs59W4QoGQ2N3NFl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0sZNp3fJkPEro2uaYZhYDCkNeoDEiUtQxtmULxbUf1NRoZ7ynthcJVzyEpUvmsz39l"
 creation_time_utc: "2026-10-05T23:35:02+00:00"
-fetched_at_utc: "2026-10-07T07:07:58.475142+00:00"
+fetched_at_utc: "2026-10-08T07:15:46.508583+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/836920857_1523543366245725_7504081212068407169_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tMdW2wulVDAQ7kNvwEkkzal&_nc_oc=AdoUSBbmXkN9qYFrW_MohWNzkVX2QO59One9PvGggHN6FpUZIsZ5bQ6wuVTOPnmAaco&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Uga7aQoKc0RK8EiUM3KS1Q&_nc_ss=7e120&oh=00_AQNyt9moeX6sCUREezS2yf6DVrFJQzeftTa3akm-BIj3GQ&oe=6ACBB01E"
+image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/836920857_1523543366245725_7504081212068407169_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1IPxb0zwdHcQ7kNvwGyCryb&_nc_oc=Adr7CJ8wt8V0bg9UtDklmnJvrzVEXkPDE7vQyh714PUBZEcMOA45SlCrXmTgNHIBJsU&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Sv5eFp2gyQaJbHYWnMNhYA&_nc_ss=7e120&oh=00_AQN8Uef4uPBaZczFNw4fgJDXj9TLpvX68UsT6Z92X0p7lg&oe=6ACD019E"
 feedback_id: "ZmVlZGJhY2s6MTUyMzg5MzQwMjg3NzM4OA=="
 page_canonical_url: ""
 ---
 
 # “Beyond the Status Quo”用來說明國際股市比債券分散性更好，更適於搭配本國股市的資料，主要是下方這個表格。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02w71zxpw7EKsJi22iSNpUVv7rL4fDTU7bWineoRweA1x5XsrEjUs59W4QoGQ2N3NFl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0sZNp3fJkPEro2uaYZhYDCkNeoDEiUtQxtmULxbUf1NRoZ7ynthcJVzyEpUvmsz39l
 
-![“Beyond the Status Quo”用來說明國際股市比債券分散性更好，更適於搭配本國股市的資料，主要是下方這個表格。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/836920857_1523543366245725_7504081212068407169_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tMdW2wulVDAQ7kNvwEkkzal&_nc_oc=AdoUSBbmXkN9qYFrW_MohWNzkVX2QO59One9PvGggHN6FpUZIsZ5bQ6wuVTOPnmAaco&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Uga7aQoKc0RK8EiUM3KS1Q&_nc_ss=7e120&oh=00_AQNyt9moeX6sCUREezS2yf6DVrFJQzeftTa3akm-BIj3GQ&oe=6ACBB01E)
+![“Beyond the Status Quo”用來說明國際股市比債券分散性更好，更適於搭配本國股市的資料，主要是下方這個表格。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/836920857_1523543366245725_7504081212068407169_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1IPxb0zwdHcQ7kNvwGyCryb&_nc_oc=Adr7CJ8wt8V0bg9UtDklmnJvrzVEXkPDE7vQyh714PUBZEcMOA45SlCrXmTgNHIBJsU&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Sv5eFp2gyQaJbHYWnMNhYA&_nc_ss=7e120&oh=00_AQN8Uef4uPBaZczFNw4fgJDXj9TLpvX68UsT6Z92X0p7lg&oe=6ACD019E)
 “Beyond the Status Quo”用來說明國際股市比債券分散性更好，更適於搭配本國股市的資料，主要是下方這個表格。
 
 這個表格比較兩個資產類別的特性。Bonds是債券、International Stocks是國際股票。

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-10-07T07:07:51.742024+00:00",
+  "fetched_at_utc": "2026-10-08T07:15:38.920684+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1401710412072600"
+    "1401973465379628"
   ],
   "new_markdown_files": [
-    "data/行銷資料科學/2026-10-07_免費Vibe-Coding--AI打造工業數據分析與規格比對-Agent-實戰班.md"
+    "data/行銷資料科學/2026-10-07_第一次用-Codex先別急著下指令.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",

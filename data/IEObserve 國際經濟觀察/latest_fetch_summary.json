@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-07T07:08:21.535154+00:00",
+  "fetched_at_utc": "2026-10-08T07:16:13.636348+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1627054675445821",
-    "1627033642114591",
-    "1626978042120151"
+    "1627961875355101",
+    "1627935692024386",
+    "1627740258710596"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-07_長期看好中國的Dalio-這回警示AI泡沫快爆啦.md",
-    "data/IEObserve 國際經濟觀察/2026-10-07_Intel-CEO-陳立武說和馬斯克的-Terafab-合作計畫不變繼續推進-INTC-盤後轉漲.md",
-    "data/IEObserve 國際經濟觀察/2026-10-07_長期持有國家大盤指數ETF並不是獲利的保證科技含量越高的指數在近五年長期表現越好韓股和台股今年以來的漲幅都超過了80持有10年基本上都有200以上QQQ則是恐怖.md"
+    "data/IEObserve 國際經濟觀察/2026-10-08_中國專業的汽車傳媒懂車帝測了最新的華為尊界V800結果全力踩個煞車能把煞車踏板踩斷.md",
+    "data/IEObserve 國際經濟觀察/2026-10-08_台積電9月營收年增54.6至5118億今年以來營收年增41.1至3.89兆.md",
+    "data/IEObserve 國際經濟觀察/2026-10-08_三星公布了Q3初步的業績營收195兆年增127略低於預期的199兆營業利潤107兆年增783略高於預期的106兆.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

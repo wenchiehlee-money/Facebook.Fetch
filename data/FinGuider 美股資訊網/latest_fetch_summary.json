@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-07T07:07:54.972320+00:00",
+  "fetched_at_utc": "2026-10-08T07:15:42.760770+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1580549467448528",
-    "1580458654124276",
-    "1579905060846302"
+    "1581690524001089",
+    "1581616574008484",
+    "1581589974011144"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-07_SpaceXSPCX正洽談一筆約-400-億美元的融資用於採購輝達NVDA-AI-晶片如果消息屬實這將是歷來規模最大的-AI-晶片採購融資案之一.md",
-    "data/FinGuider 美股資訊網/2026-10-06_AI-概念股續強標普與那斯達克再創新高.md",
-    "data/FinGuider 美股資訊網/2026-10-06_美股-ETF-趨勢週報.md"
+    "data/FinGuider 美股資訊網/2026-10-08_快訊台積電-9-月營收公告.md",
+    "data/FinGuider 美股資訊網/2026-10-08_彭博報導聯合包裹UPS因未注意美國武器出口管制ITAR警示誤將洛克希德馬丁LMTF-35-匿蹤戰機的機密零件改道經香港運送因此途中遭中國扣留.md",
+    "data/FinGuider 美股資訊網/2026-10-08_Applied-DigitalAPLD營收大增-322已交付的-AI-資料中心正帶來更多租金盤後上漲近-5.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

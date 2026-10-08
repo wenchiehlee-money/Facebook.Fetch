@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61578106860333",
   "final_url": "https://www.facebook.com/profile.php?id=61578106860333",
-  "fetched_at_utc": "2026-10-07T07:08:15.206507+00:00",
+  "fetched_at_utc": "2026-10-08T07:16:06.167042+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "122225786336936895"
-  ],
-  "new_markdown_files": [
-    "data/萬鈞法人視野 WJ Capital Perspective/2026-10-06_從當年參與台大證研社在台下學習如何理解市場到今天受邀回到母校站上講台和學弟妹分享投資研究與法人操盤經驗心中有著特別深的感觸.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/萬鈞法人視野 WJ Capital Perspective",
   "notes": [

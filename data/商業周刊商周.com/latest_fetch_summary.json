@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-10-07T07:08:51.764196+00:00",
+  "fetched_at_utc": "2026-10-08T07:17:13.850850+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1532415158920695",
-    "1532257735603104",
-    "1527433742752170"
+    "1533382325490645",
+    "1533231178839093",
+    "1533210762174468"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-10-07_安養信託不是傳富而是先守住自己的老本.md",
-    "data/商業周刊商周.com/2026-10-07_不討好不挽留客人年賺3億麵包店老闆的地藏菩薩管理學.md",
-    "data/商業周刊商周.com/2026-10-07_簡單的事小公司很難有機會越需要時間累積的技術越能成為真正的競爭力.md"
+    "data/商業周刊商周.com/2026-10-08_10月的台中很國際跨國爵士搖滾都在這座城市相遇.md",
+    "data/商業周刊商周.com/2026-10-08_2027年遺產稅贈與稅免稅額可望調高每年固定給孩子錢或正在安排財產傳承的家庭可望多一些免稅空間.md",
+    "data/商業周刊商周.com/2026-10-08_科技讓新竹富起來下一步城市如何變得更有厚度.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

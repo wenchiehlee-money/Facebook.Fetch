@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-10-07T07:08:27.359597+00:00",
+  "fetched_at_utc": "2026-10-08T07:16:23.142074+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122205689654486922",
-    "122205605018486922",
-    "122205590738486922"
+    "122205832166486922",
+    "122205831440486922",
+    "122205824066486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-10-07_海灣地區原油出口量已接近戰前水平原油市場基本面狀況良好.md",
-    "data/美股老司機 3.0/2026-10-06_投資小故事.md",
-    "data/美股老司機 3.0/2026-10-06_Michael-Burry.md"
+    "data/美股老司機 3.0/2026-10-08_對話.md",
+    "data/美股老司機 3.0/2026-10-08_中國的-Token-消耗量正呈指數級激增.md",
+    "data/美股老司機 3.0/2026-10-08_精彩的一段話.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

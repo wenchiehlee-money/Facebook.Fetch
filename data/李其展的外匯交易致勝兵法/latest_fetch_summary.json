@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/ForexStrategist",
   "final_url": "https://www.facebook.com/ForexStrategist",
-  "fetched_at_utc": "2026-10-07T07:08:11.896274+00:00",
+  "fetched_at_utc": "2026-10-08T07:16:03.011280+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1685665459585592",
-    "1685637519588386",
-    "1685568869595251"
+    "1686652346153570",
+    "1686598729492265",
+    "1686546876164117"
   ],
   "new_markdown_files": [
-    "data/李其展的外匯交易致勝兵法/2026-10-07_台股勇創歷史新高主動式ETF誰有跟上.md",
-    "data/李其展的外匯交易致勝兵法/2026-10-07_最後一盤拉抬近百點台股小跌16點作收依然逼近五萬大關.md",
-    "data/李其展的外匯交易致勝兵法/2026-10-07_比特幣12小時內跌掉3000美元市場警惕去年10月大跳水日.md"
+    "data/李其展的外匯交易致勝兵法/2026-10-08_外資賣超擴大到758億美股期指延續走低.md",
+    "data/李其展的外匯交易致勝兵法/2026-10-08_長假前又倒貨台股最後一盤被壓120點下跌492點作收.md",
+    "data/李其展的外匯交易致勝兵法/2026-10-08_金價自昨夜跳水低點回歸下一步怎麼走.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/李其展的外匯交易致勝兵法",

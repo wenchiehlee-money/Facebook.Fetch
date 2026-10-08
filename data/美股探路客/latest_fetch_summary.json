@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-10-07T07:08:05.614661+00:00",
+  "fetched_at_utc": "2026-10-08T07:15:54.770335+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1533616282145637",
-    "1533591688814763",
-    "1533579468815985"
+    "1534645215376077",
+    "1534689592038306",
+    "1534629315377667"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-10-07_美銀最新報告認為美股創歷史新高出現典型的上漲廣度差泡沫積累現象.md",
-    "data/美股探路客/2026-10-07_SpaceX-正在尋求100-億美元的銀行貸款發行投資級債券募集300-億美元共400億美元以購買-Nvidia-的晶片.md",
-    "data/美股探路客/2026-10-07_78月ChatGPT-在美國付費用戶數量上領先-Claude-和-Gemini-達-3-倍.md"
+    "data/美股探路客/2026-10-08_高利率環境下投資人青睞具有穩健資產負債表現金流攀升的成長型企業最被放空的公司通常代表還沒獲利現金流為負的公司兩者9月開始走勢明顯分歧.md",
+    "data/美股探路客/2026-10-08_Samsung營收淨利都創下紀錄不過雙雙低於預期.md",
+    "data/美股探路客/2026-10-08_華爾街日報報導OpenAI年初在企業AI費用支出上佔比不到25顯著落後於Anthropic但到9月OpenAI已經逼近Anthropic.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-10-07T07:08:44.124991+00:00",
+  "fetched_at_utc": "2026-10-08T07:17:06.652796+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 3,
   "new_post_count": 2,
   "new_post_ids": [
-    "1649342623215877",
-    "1649326326550840"
+    "1650237966459676",
+    "1649718946511578"
   ],
   "new_markdown_files": [
-    "data/andrew.semis.techs/2026-10-06_Nvidia-預期2027營收年增70數據中心70-yoy.md",
-    "data/andrew.semis.techs/2026-10-06_Google-與美國最大核電業者-Constellation-Energy-達成指標性長期採購協議簽署-20-年期-43-億美元核能大單總供電承諾達-3590.md"
+    "data/andrew.semis.techs/2026-10-08_即使最近我們觀察到部分AI伺服器產業鏈下游如ODM組裝廣達滑軌川湖散熱系統雙鴻及均熱片健策9月份訂單有明顯調整3Q26營收小幅不如市場預期可能因為短期電力短缺及.md",
+    "data/andrew.semis.techs/2026-10-07_路透社說馬斯克否定台積電將為-SpaceXTesla-建廠及經營-TeraFab頂多是分租場地全部建廠及營運還是要自己來但台積電是什麼咖搞不懂為何要跟-Tera.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
