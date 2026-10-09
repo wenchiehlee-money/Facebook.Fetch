@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61591563193133",
   "final_url": "https://www.facebook.com/profile.php?id=61591563193133",
-  "fetched_at_utc": "2026-10-08T07:17:24.530905+00:00",
+  "fetched_at_utc": "2026-10-09T07:20:24.273695+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "122139988623385439"
-  ],
-  "new_markdown_files": [
-    "data/艾立克日記/2026-10-08_10月-台積電製程地圖-法人共識EPS-20262029-追蹤者.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/艾立克日記",
   "notes": [

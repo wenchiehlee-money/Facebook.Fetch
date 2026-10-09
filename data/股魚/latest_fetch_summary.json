@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-10-08T07:15:50.758301+00:00",
+  "fetched_at_utc": "2026-10-09T07:19:21.053548+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1568218698677547",
-    "1567695752063175",
-    "1567594295406654"
+    "1568420691990681"
   ],
   "new_markdown_files": [
-    "data/股魚/2026-10-08_含有cover-Call-策略的高息ETF配息組成有點意外居然都是免稅的資本利得居多這對於熱門領息的朋友根本是一大利多嘛.md",
-    "data/股魚/2026-10-07_產業內常說AI的盡頭是電力這其實也沒說錯隨著AI的應用擴大整個科技產業的擴廠速度也在推進衍生出來的問題就是電力供應能不能跟上前幾天不是才傳出台電正在考慮要求台積.md",
-    "data/股魚/2026-10-07_嗯-主計總處認為近期物價壓力雖升高但國內尚未出現通膨現象台灣沒有通膨這一切都是幻覺嚇不了我的.md"
+    "data/股魚/2026-10-08_台積電前三季合併營收3.90兆元年增41.1這成績單也太猛了法人預估今年的EPS達-115.3還真的是有可能實現真是太棒了.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",

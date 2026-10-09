@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-08T07:15:42.760770+00:00",
+  "fetched_at_utc": "2026-10-09T07:19:12.773093+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1581690524001089",
-    "1581616574008484",
-    "1581589974011144"
+    "1582438313926310",
+    "1581784497325025"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-08_快訊台積電-9-月營收公告.md",
-    "data/FinGuider 美股資訊網/2026-10-08_彭博報導聯合包裹UPS因未注意美國武器出口管制ITAR警示誤將洛克希德馬丁LMTF-35-匿蹤戰機的機密零件改道經香港運送因此途中遭中國扣留.md",
-    "data/FinGuider 美股資訊網/2026-10-08_Applied-DigitalAPLD營收大增-322已交付的-AI-資料中心正帶來更多租金盤後上漲近-5.md"
+    "data/FinGuider 美股資訊網/2026-10-08_SpaceXSPCX宣布將收購一組涵蓋全美的低頻頻譜讓-Starlink-可以在全美各地向傳統無線電信巨頭發起挑戰ATTTT-MobileTMUSVerizon.md",
+    "data/FinGuider 美股資訊網/2026-10-08_2026Q3-美股高檔震盪Q4-誰能撐住漲勢.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

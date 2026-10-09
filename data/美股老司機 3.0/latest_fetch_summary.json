@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-10-08T07:16:23.142074+00:00",
+  "fetched_at_utc": "2026-10-09T07:19:48.949712+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122205832166486922",
-    "122205831440486922",
-    "122205824066486922"
+    "122205964262486922",
+    "122205962618486922",
+    "122205960884486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-10-08_對話.md",
-    "data/美股老司機 3.0/2026-10-08_中國的-Token-消耗量正呈指數級激增.md",
-    "data/美股老司機 3.0/2026-10-08_精彩的一段話.md"
+    "data/美股老司機 3.0/2026-10-09_投資小故事.md",
+    "data/美股老司機 3.0/2026-10-09_變化.md",
+    "data/美股老司機 3.0/2026-10-09_LITE-產能滿載至-2029-年的現狀反映了市場結構性的轉變與同業的競爭格局.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

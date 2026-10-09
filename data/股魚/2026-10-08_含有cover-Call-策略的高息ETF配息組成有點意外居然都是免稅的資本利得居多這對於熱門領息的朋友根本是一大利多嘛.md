@@ -4,12 +4,12 @@ title: "含有cover Call 策略的高息ETF，配息組成有點意外，居然�
 page_title: ""
 requested_url: "https://www.facebook.com/stocksardine"
 final_url: "https://www.facebook.com/stocksardine"
-post_url: "https://www.facebook.com/stocksardine/posts/pfbid0bxnkGxqWhTiZ9VBbTSWD5KRPmgt4MikwvCGjtBLEMe8Vf7rZhsys6ikTa1g2xUz4l"
+post_url: "https://www.facebook.com/stocksardine/posts/pfbid02fpETTdmLYvHv51uVHxvdG7Fn5uJRDtffqRAjPA8rPyjC6ZfcPzEV7NCo2XbwHvFFl"
 creation_time_utc: "2026-10-08T02:47:39+00:00"
-fetched_at_utc: "2026-10-08T07:15:50.758301+00:00"
+fetched_at_utc: "2026-10-09T07:19:21.053548+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/stocksardine/posts/pfbid0bxnkGxqWhTiZ9VBbTSWD5KRPmgt4MikwvCGjtBLEMe8Vf7rZhsys6ikTa1g2xUz4l"
+attachment_url: "https://www.facebook.com/stocksardine/posts/pfbid02fpETTdmLYvHv51uVHxvdG7Fn5uJRDtffqRAjPA8rPyjC6ZfcPzEV7NCo2XbwHvFFl"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTU2ODIxODY5ODY3NzU0Nw=="
 page_canonical_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 含有cover Call 策略的高息ETF，配息組成有點意外，居然都是免稅的資本利得居多😆，這對於熱門領息的朋友根本是一大利多嘛!
 
-原文連結: https://www.facebook.com/stocksardine/posts/pfbid0bxnkGxqWhTiZ9VBbTSWD5KRPmgt4MikwvCGjtBLEMe8Vf7rZhsys6ikTa1g2xUz4l
+原文連結: https://www.facebook.com/stocksardine/posts/pfbid02fpETTdmLYvHv51uVHxvdG7Fn5uJRDtffqRAjPA8rPyjC6ZfcPzEV7NCo2XbwHvFFl
 含有cover Call 策略的高息ETF，配息組成有點意外，居然都是免稅的資本利得居多😆，這對於熱門領息的朋友根本是一大利多嘛!
 .
 今年以來市場發行多檔含有選擇權收益性質的產品，一開始上市的時候大家都是半信半疑的，想說這樣的產品在台灣市場會有吸引力嗎?台股一路往上衝，這樣的產品適合嗎?質疑聲浪未曾停過。但是這類產品的主場是在【盤勢不明的時候】透過選擇權收益策略(賣出買權收取權利金)，來提高整體的配息能力

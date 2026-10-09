@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-10-08T07:15:38.920684+00:00",
+  "fetched_at_utc": "2026-10-09T07:19:09.345157+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1401973465379628"
+    "1402696028640705"
   ],
   "new_markdown_files": [
-    "data/行銷資料科學/2026-10-07_第一次用-Codex先別急著下指令.md"
+    "data/行銷資料科學/2026-10-08_過去企業在行銷時最關心的不外乎是顧客是誰需求為何什麼推廣活動能打動他什麼價格能讓他買單.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",

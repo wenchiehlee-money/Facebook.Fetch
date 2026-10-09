@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-08T07:16:13.636348+00:00",
+  "fetched_at_utc": "2026-10-09T07:19:42.863020+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1627961875355101",
-    "1627935692024386",
-    "1627740258710596"
+    "1628854061932549",
+    "1628776795273609",
+    "1628607758623846"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-08_中國專業的汽車傳媒懂車帝測了最新的華為尊界V800結果全力踩個煞車能把煞車踏板踩斷.md",
-    "data/IEObserve 國際經濟觀察/2026-10-08_台積電9月營收年增54.6至5118億今年以來營收年增41.1至3.89兆.md",
-    "data/IEObserve 國際經濟觀察/2026-10-08_三星公布了Q3初步的業績營收195兆年增127略低於預期的199兆營業利潤107兆年增783略高於預期的106兆.md"
+    "data/IEObserve 國際經濟觀察/2026-10-09_中國安踏花18億取得29股權成為Puma的最大股東.md",
+    "data/IEObserve 國際經濟觀察/2026-10-09_川普頒的國家科學獎章除了Dell全都是移民.md",
+    "data/IEObserve 國際經濟觀察/2026-10-08_美國電信業版圖地震來襲SpaceX取得關鍵頻譜Starlink-Mobile-準備進攻三大電信把衛星直連從偏遠地區緊急備援推向可與傳統電信競爭的完整行動服務.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

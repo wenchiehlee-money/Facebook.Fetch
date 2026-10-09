@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-10-08T07:15:54.770335+00:00",
+  "fetched_at_utc": "2026-10-09T07:19:25.055373+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1534645215376077",
-    "1534689592038306",
-    "1534629315377667"
+    "1535671505273448",
+    "1535616221945643",
+    "1535260318647900"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-10-08_高利率環境下投資人青睞具有穩健資產負債表現金流攀升的成長型企業最被放空的公司通常代表還沒獲利現金流為負的公司兩者9月開始走勢明顯分歧.md",
-    "data/美股探路客/2026-10-08_Samsung營收淨利都創下紀錄不過雙雙低於預期.md",
-    "data/美股探路客/2026-10-08_華爾街日報報導OpenAI年初在企業AI費用支出上佔比不到25顯著落後於Anthropic但到9月OpenAI已經逼近Anthropic.md"
+    "data/美股探路客/2026-10-09_Lumentum-CEO早上在東京表示AI需要的元件到2029年初都已經賣完了.md",
+    "data/美股探路客/2026-10-09_昨天金融時報文章標題導致美股科技半導體板塊下跌提醒投資人整個AI產業鏈完全仰賴兩家大模型公司的業績算力需求承諾.md",
+    "data/美股探路客/2026-10-08_資金全跑到非AI領域板塊並未離場Q3財報季值得關注是否會出現AI公司預期高門檻高非AI領域公司跌慘門檻低的現象.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

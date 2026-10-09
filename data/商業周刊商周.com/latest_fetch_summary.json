@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-10-08T07:17:13.850850+00:00",
+  "fetched_at_utc": "2026-10-09T07:20:15.861510+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1533382325490645",
-    "1533231178839093",
-    "1533210762174468"
+    "1534262158735995",
+    "1530488922446652",
+    "1533633515465526"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-10-08_10月的台中很國際跨國爵士搖滾都在這座城市相遇.md",
-    "data/商業周刊商周.com/2026-10-08_2027年遺產稅贈與稅免稅額可望調高每年固定給孩子錢或正在安排財產傳承的家庭可望多一些免稅空間.md",
-    "data/商業周刊商周.com/2026-10-08_科技讓新竹富起來下一步城市如何變得更有厚度.md"
+    "data/商業周刊商周.com/2026-10-09_塑膠袋蒸籠救了無印良品46歲品牌靠日用品再創新高.md",
+    "data/商業周刊商周.com/2026-10-08_許多白手起家的企業主以為留給孩子的是土地但其實是股權.md",
+    "data/商業周刊商周.com/2026-10-08_大缺工時代的-3-個殘酷真相與-1-個高價值解方.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

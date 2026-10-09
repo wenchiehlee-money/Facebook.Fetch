@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-10-08T07:15:58.861556+00:00",
+  "fetched_at_utc": "2026-10-09T07:19:28.152248+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "122200441166771552",
-    "122200416806771552",
-    "122200342976771552"
+    "122200563806771552",
+    "122200491638771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-10-08_最近打開看盤軟體很多人大概都是同一個想法盯著螢幕手指懸在半空中不知道該按買入還是該獲利離場.md",
-    "data/Fomo研究院/2026-10-08_之前的周末筆記中我提過高盛的AI受益名單里有Accenture.md",
-    "data/Fomo研究院/2026-10-07_匯豐銀行準備裁減英國財富管理部門大約-70-的理財顧問.md"
+    "data/Fomo研究院/2026-10-09_昨晚AI相關股票忽然盤中急跌原因是一則新聞.md",
+    "data/Fomo研究院/2026-10-08_這幾年每個人都在談論-AI.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/dextermchang",
   "final_url": "https://www.facebook.com/dextermchang",
-  "fetched_at_utc": "2026-10-08T07:15:30.577459+00:00",
+  "fetched_at_utc": "2026-10-09T07:19:01.745732+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122142931995207208"
+    "122143074369207208"
   ],
   "new_markdown_files": [
-    "data/大會計師 張明輝/2026-10-08_便利商店-便當-竟比路邊店便宜東西愈便宜背後可能愈需要高效率.md"
+    "data/大會計師 張明輝/2026-10-09_服務型IC設計公司營收起伏通常很大.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/大會計師 張明輝",

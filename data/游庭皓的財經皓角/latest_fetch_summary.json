@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-10-08T07:15:35.012861+00:00",
+  "fetched_at_utc": "2026-10-09T07:19:05.741449+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,17 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
-  "new_post_ids": [
-    "1362585222369300",
-    "1170463082211710",
-    "1170398995551452"
-  ],
-  "new_markdown_files": [
-    "data/游庭皓的財經皓角/2026-10-08_2026108四全球政府都缺錢高利率時代誰來買單AI時代-企業賺錢政府缺錢人民沒錢早晨財經速解讀.md",
-    "data/游庭皓的財經皓角/2026-10-07_越南想從世界工廠升級半導體強國但最大的瓶頸可能不是技術是發電能力.md",
-    "data/游庭皓的財經皓角/2026-10-07_MAGA為何又愛又恨歐洲經濟學人把美國新右派對歐洲的不滿分成三條彼此交疊的路線.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",
   "notes": [
