@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-10-09T07:19:48.949712+00:00",
+  "fetched_at_utc": "2026-10-10T06:57:47.847726+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122205964262486922",
-    "122205962618486922",
-    "122205960884486922"
+    "122206104002486922",
+    "122206098482486922",
+    "122206096316486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-10-09_投資小故事.md",
-    "data/美股老司機 3.0/2026-10-09_變化.md",
-    "data/美股老司機 3.0/2026-10-09_LITE-產能滿載至-2029-年的現狀反映了市場結構性的轉變與同業的競爭格局.md"
+    "data/美股老司機 3.0/2026-10-10_Gavin-Baker-的投資組合.md",
+    "data/美股老司機 3.0/2026-10-10_投資小故事.md",
+    "data/美股老司機 3.0/2026-10-10_美國最佳漢堡連鎖店排名的整理.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-09T07:19:12.773093+00:00",
+  "fetched_at_utc": "2026-10-10T06:57:18.327935+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 3,
   "new_post_count": 2,
   "new_post_ids": [
-    "1582438313926310",
-    "1581784497325025"
+    "1583572393812902",
+    "1583037813866360"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-08_SpaceXSPCX宣布將收購一組涵蓋全美的低頻頻譜讓-Starlink-可以在全美各地向傳統無線電信巨頭發起挑戰ATTTT-MobileTMUSVerizon.md",
-    "data/FinGuider 美股資訊網/2026-10-08_2026Q3-美股高檔震盪Q4-誰能撐住漲勢.md"
+    "data/FinGuider 美股資訊網/2026-10-10_知名分析師-Dan-Ives-發布了-2027-年科技產業報告針對-40-家公司給予買進評級另有-9-家評價中立範圍橫跨-AI-基礎設施大型科技企業軟體資安自駕.md",
+    "data/FinGuider 美股資訊網/2026-10-09_特斯拉TSLA將歐洲官網的-FSD-改為Tesla-Assisted-Driving但美國網站仍維持-Full-Self-Driving-Supervised這.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

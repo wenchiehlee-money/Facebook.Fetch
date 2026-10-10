@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-10-09T07:19:05.741449+00:00",
+  "fetched_at_utc": "2026-10-10T06:57:11.822039+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,17 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1172273742030644",
+    "1172268492031169",
+    "1172261875365164"
+  ],
+  "new_markdown_files": [
+    "data/游庭皓的財經皓角/2026-10-09_高雄港每天約有60到80艘船舶進出大型商船進港時需要靠引水人登船協助操船但這份工作最危險的地方是引水人得從不斷搖晃的小艇攀上萬噸巨輪.md",
+    "data/游庭皓的財經皓角/2026-10-09_日本東證指數史上最大瘦身這次共有683家公司被列入逐步剔除名單另外35家公司將新加入包括日本麥當勞與Ferrotec等調整從10月30日開始.md",
+    "data/游庭皓的財經皓角/2026-10-09_川普政府再度收緊移民政策這次直接把矛頭指向美國科技巨頭美國政府宣布暫時禁止微軟Adobe以及認知科技印孚瑟斯塔塔諮詢威普羅HCL和凱捷等八家企業透過永久勞工認證.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",
   "notes": [

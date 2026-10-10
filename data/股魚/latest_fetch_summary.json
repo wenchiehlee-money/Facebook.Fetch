@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-10-09T07:19:21.053548+00:00",
+  "fetched_at_utc": "2026-10-10T06:57:25.463283+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1568420691990681"
-  ],
-  "new_markdown_files": [
-    "data/股魚/2026-10-08_台積電前三季合併營收3.90兆元年增41.1這成績單也太猛了法人預估今年的EPS達-115.3還真的是有可能實現真是太棒了.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",
   "notes": [

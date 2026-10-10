@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61589343187385",
   "final_url": "https://www.facebook.com/profile.php?id=61589343187385",
-  "fetched_at_utc": "2026-10-09T07:19:56.439274+00:00",
+  "fetched_at_utc": "2026-10-10T06:57:53.789105+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "122127094563311439",
-    "122126964837311439"
+    "122127135195311439"
   ],
   "new_markdown_files": [
-    "data/首席經濟學家情勒中心/2026-10-09_給費沙開封府團隊的建議.md",
-    "data/首席經濟學家情勒中心/2026-10-08_還是正常討論一下好了.md"
+    "data/首席經濟學家情勒中心/2026-10-09_先是費沙口罩股漲停板然後現在是疫苗股大漲看的真的是毛毛的.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/首席經濟學家情勒中心",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-10-09T07:20:07.245811+00:00",
+  "fetched_at_utc": "2026-10-10T06:58:03.664045+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1651969482953191"
+  ],
+  "new_markdown_files": [
+    "data/andrew.semis.techs/2026-10-09_半導體晶圓代工領域誕生了一項具備歷史分水嶺意義的競合大案全球晶圓代工龍頭台積電TSMC與長期競爭對手美商格芯GlobalFoundries-GFS正式簽署一項為.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
   "notes": [

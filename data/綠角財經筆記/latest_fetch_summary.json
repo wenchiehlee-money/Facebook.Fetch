@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-10-09T07:19:16.776353+00:00",
+  "fetched_at_utc": "2026-10-10T06:57:21.827518+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1526515429281852"
+    "1527521239181271"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-10-08_非典型成功Unconventional-Success的作者是耶魯大學校務基金投資長David-Swensen.md"
+    "data/綠角財經筆記/2026-10-10_在擁有一定金融資產後人往往體會時間才是最有限最寶貴的資源.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

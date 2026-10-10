@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-10-09T07:19:25.055373+00:00",
+  "fetched_at_utc": "2026-10-10T06:57:28.292381+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1535671505273448",
-    "1535616221945643",
-    "1535260318647900"
+    "1536588925181706",
+    "1535930908580841"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-10-09_Lumentum-CEO早上在東京表示AI需要的元件到2029年初都已經賣完了.md",
-    "data/美股探路客/2026-10-09_昨天金融時報文章標題導致美股科技半導體板塊下跌提醒投資人整個AI產業鏈完全仰賴兩家大模型公司的業績算力需求承諾.md",
-    "data/美股探路客/2026-10-08_資金全跑到非AI領域板塊並未離場Q3財報季值得關注是否會出現AI公司預期高門檻高非AI領域公司跌慘門檻低的現象.md"
+    "data/美股探路客/2026-10-10_LITECIEN-為近期表現強勁的光通訊公司LITE在歷史高位CIEN已強勢突破下降趨勢.md",
+    "data/美股探路客/2026-10-09_租一艘美國到上海的超級油輪比SpaceX發射一次Falcon-9還貴.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

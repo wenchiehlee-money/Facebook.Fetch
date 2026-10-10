@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-10-09T07:20:15.861510+00:00",
+  "fetched_at_utc": "2026-10-10T06:58:09.976565+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1534262158735995",
-    "1530488922446652",
-    "1533633515465526"
+    "1535220868640124",
+    "1533226678839543",
+    "1534534588708752"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-10-09_塑膠袋蒸籠救了無印良品46歲品牌靠日用品再創新高.md",
-    "data/商業周刊商周.com/2026-10-08_許多白手起家的企業主以為留給孩子的是土地但其實是股權.md",
-    "data/商業周刊商周.com/2026-10-08_大缺工時代的-3-個殘酷真相與-1-個高價值解方.md"
+    "data/商業周刊商周.com/2026-10-10_放假了鬧鐘沒響睡到中午才起床追劇滑手機一天過去了還是沒有比較輕鬆晚上想到隔天要上班焦慮又回來了.md",
+    "data/商業周刊商周.com/2026-10-09_高爾夫最難的永遠是下一桿.md",
+    "data/商業周刊商周.com/2026-10-09_蘇姿丰進了AMD媽媽還是想找她回家幫忙做生意直到女兒當上AMD執行長媽媽才說好吧看來你不會回來了.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

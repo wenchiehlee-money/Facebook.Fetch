@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-10-09T07:19:46.148437+00:00",
+  "fetched_at_utc": "2026-10-10T06:57:45.419132+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122232038090502956",
-    "122232035786502956",
-    "122232035042502956"
+    "122232286364502956",
+    "122232245990502956",
+    "122232170318502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-10-08_根據與國際貨幣基金組織IMF2026年名義國內生產總值GDP估算值的比較美股七巨頭合計市值接近25兆美元超過全球幾乎所有經濟體.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-10-08_NVDA-主要已揭露投資組合.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-10-08_三星季度營業利潤突破107兆韓元超越Nvidia.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-10-10_微軟推出高速決策AI模型-Decision-1運行速度是OpenAI的GPT-6-Sol的35倍.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-10-09_Moderna股價創2022年12月以來新高正式納入納斯達克100指數.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-10-09_LumentumLITE執行長今天接受彭博訪問時表示公司的產能接單狀況幾乎已經排滿至-2029-年.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",

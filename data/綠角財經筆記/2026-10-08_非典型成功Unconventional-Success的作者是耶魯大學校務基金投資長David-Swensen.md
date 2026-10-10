@@ -4,22 +4,22 @@ title: "《非典型成功》(Unconventional Success)的作者是耶魯大學校
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0345Cu2c8JeW9JnChkQVQwd7GN62LtSC1Z66gdZq9u3GwGgZLKNaECebxNGUXGmVWAl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0zXZi7SVwoDPeUcNpoBNN5erc7Bg3RbN2BHjYY8M9fHFmpkRtP9W9NjhK5KWaw4ECl"
 creation_time_utc: "2026-10-08T23:16:50+00:00"
-fetched_at_utc: "2026-10-09T07:19:16.776353+00:00"
+fetched_at_utc: "2026-10-10T06:57:21.827518+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/839936653_1526514959281899_4778960425471294463_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VWTzw-6k3YgQ7kNvwFfuMy-&_nc_oc=Adpew-Nq7ICm33_1yzVU_g_qEZhnfxfIbzve7K9sQWmqH2UQGJWVeB65CMQQ_z0PbRA&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=9N4cQ9MUOSW2OURzMQR_zg&_nc_ss=7e120&oh=00_AQN5VnQnfNUcGuHurSelmJKqAvOKTNyxFqBU4zn4_2tCKw&oe=6ACE5A50"
+image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/839936653_1526514959281899_4778960425471294463_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=v0Lb30JvQfYQ7kNvwGiFCKI&_nc_oc=AdqnAWrHdF4nNvYJKnxfvdS_4Hq400nTS7Gu56Lk4KDIktRWB7ys5C2WSHqBOAWrbWg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=Pwq6TKK1f20Ezl9sIlEctQ&_nc_ss=7e120&oh=00_AQMqmelhgrHOZKNnp61LNftzkCKMU3PQ7CKi4hBN6h7_5w&oe=6ACFABD0"
 feedback_id: "ZmVlZGJhY2s6MTUyNjUxNTQyOTI4MTg1Mg=="
 page_canonical_url: ""
 ---
 
 # 《非典型成功》(Unconventional Success)的作者是耶魯大學校務基金投資長，David Swensen。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0345Cu2c8JeW9JnChkQVQwd7GN62LtSC1Z66gdZq9u3GwGgZLKNaECebxNGUXGmVWAl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0zXZi7SVwoDPeUcNpoBNN5erc7Bg3RbN2BHjYY8M9fHFmpkRtP9W9NjhK5KWaw4ECl
 
-![《非典型成功》(Unconventional Success)的作者是耶魯大學校務基金投資長，David Swensen。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/839936653_1526514959281899_4778960425471294463_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VWTzw-6k3YgQ7kNvwFfuMy-&_nc_oc=Adpew-Nq7ICm33_1yzVU_g_qEZhnfxfIbzve7K9sQWmqH2UQGJWVeB65CMQQ_z0PbRA&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=9N4cQ9MUOSW2OURzMQR_zg&_nc_ss=7e120&oh=00_AQN5VnQnfNUcGuHurSelmJKqAvOKTNyxFqBU4zn4_2tCKw&oe=6ACE5A50)
+![《非典型成功》(Unconventional Success)的作者是耶魯大學校務基金投資長，David Swensen。](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/839936653_1526514959281899_4778960425471294463_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=v0Lb30JvQfYQ7kNvwGiFCKI&_nc_oc=AdqnAWrHdF4nNvYJKnxfvdS_4Hq400nTS7Gu56Lk4KDIktRWB7ys5C2WSHqBOAWrbWg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=Pwq6TKK1f20Ezl9sIlEctQ&_nc_ss=7e120&oh=00_AQMqmelhgrHOZKNnp61LNftzkCKMU3PQ7CKi4hBN6h7_5w&oe=6ACFABD0)
 《非典型成功》(Unconventional Success)的作者是耶魯大學校務基金投資長，David Swensen。
 
 書名Unconventional Success，源自凱因斯名言:”Worldly wisdom teaches that it is better for reputation to fail conventionally than to succeed unconventionally.”
