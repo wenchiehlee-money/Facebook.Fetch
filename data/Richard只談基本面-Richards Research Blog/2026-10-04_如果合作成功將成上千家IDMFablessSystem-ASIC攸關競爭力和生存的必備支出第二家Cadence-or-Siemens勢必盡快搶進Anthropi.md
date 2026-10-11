@@ -4,22 +4,22 @@ title: "如果合作成功，將成上千家IDM/Fabless/System ASIC攸關競爭�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid035v1kr3tzS3tsvx8mQekWbbE9Bw3AXSKaRd481zDFYRvLoiX7Kq2FHfsjQnRxoSXnl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid021tR3NEhRkuSxejPL9F7JNJD3is8yZpb8B3EQo8Xg4vvBUdpjDNnc6rAsioWnw6mxl&id=100054201473657"
 creation_time_utc: "2026-10-04T16:03:24+00:00"
-fetched_at_utc: "2026-10-10T06:57:39.635203+00:00"
+fetched_at_utc: "2026-10-11T07:03:09.602678+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/833076119_1629280608888639_1201615354504528898_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ljx34_ezybAQ7kNvwEaXYHa&_nc_oc=AdqvXFnqNgCDmWcttjf8IO8ktHfbdSlIrbM64eou7mgM1dvh1XIOPzcDFIH_EmDLKH4&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-PLR6x3ZUKd4CbwdwWUL1g&_nc_ss=7e120&oh=00_AQPTvI888dGbYPyBPUgceD4lrr31PvcBuLQjzrU8GTkRsQ&oe=6ACFB1C9"
+image_url: "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/833076119_1629280608888639_1201615354504528898_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ljx34_ezybAQ7kNvwEzqnqr&_nc_oc=AdotnR-KbL45rMlDDEI4GsOgFc4oG4JcWiLIB4vDxKIJ4fzoMNm-_fDcgJCxhPQW8F0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=fqazI9pIsAUdlnKCJyJ7lA&_nc_ss=7e120&oh=00_AQN4c8mpiWyax_RtL7WlYfYv5pL2Bq4i-xNe_EbMpVo8RA&oe=6AD10349"
 feedback_id: "ZmVlZGJhY2s6MTYyOTI4MDc0NTU1NTI5Mg=="
 page_canonical_url: ""
 ---
 
 # 如果合作成功，將成上千家IDM/Fabless/System ASIC攸關競爭力和生存的必備支出，第二家(Cadence or Siemens)勢必盡快搶進Anthropic合作，動作慢的第三家只能和Google合作，或許，只是外行人的或許，Fabless純開放一般性、發散性的、無統一宗旨目標的、個人"工作效率"tokens使用額度，不如資源改為前幾天談的(1)學習OpenAI Jalapeño和特定AI研究以加速IC開發時程明確目標的使用(2)使用以下貼文OpenAI+Synopsys整合成功之後的平台(非現在EDA公司每個模組分開零散AI功能)
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid035v1kr3tzS3tsvx8mQekWbbE9Bw3AXSKaRd481zDFYRvLoiX7Kq2FHfsjQnRxoSXnl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid021tR3NEhRkuSxejPL9F7JNJD3is8yZpb8B3EQo8Xg4vvBUdpjDNnc6rAsioWnw6mxl&id=100054201473657
 
-![如果合作成功，將成上千家IDM/Fabless/System ASIC攸關競爭力和生存的必備支出，第二家(Cadence or Siemens)勢必盡快搶進Anthropic合作，動作慢的第三家只能和Google合作，或許，只是外行人的或許，Fabless純開放一般性、發散性的、無統一宗旨目標的、個人"工作效率"tokens使用額度，不如資源改為前幾天談的(1)學習OpenAI Jalapeño和特定AI研究以加速IC開發時程明確目標的使用(2)使用以下貼文OpenAI+Synopsys整合成功之後的平台(非現在EDA公司每個模組分開零散AI功能)](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/833076119_1629280608888639_1201615354504528898_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ljx34_ezybAQ7kNvwEaXYHa&_nc_oc=AdqvXFnqNgCDmWcttjf8IO8ktHfbdSlIrbM64eou7mgM1dvh1XIOPzcDFIH_EmDLKH4&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-PLR6x3ZUKd4CbwdwWUL1g&_nc_ss=7e120&oh=00_AQPTvI888dGbYPyBPUgceD4lrr31PvcBuLQjzrU8GTkRsQ&oe=6ACFB1C9)
+![如果合作成功，將成上千家IDM/Fabless/System ASIC攸關競爭力和生存的必備支出，第二家(Cadence or Siemens)勢必盡快搶進Anthropic合作，動作慢的第三家只能和Google合作，或許，只是外行人的或許，Fabless純開放一般性、發散性的、無統一宗旨目標的、個人"工作效率"tokens使用額度，不如資源改為前幾天談的(1)學習OpenAI Jalapeño和特定AI研究以加速IC開發時程明確目標的使用(2)使用以下貼文OpenAI+Synopsys整合成功之後的平台(非現在EDA公司每個模組分開零散AI功能)](https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/833076119_1629280608888639_1201615354504528898_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ljx34_ezybAQ7kNvwEzqnqr&_nc_oc=AdotnR-KbL45rMlDDEI4GsOgFc4oG4JcWiLIB4vDxKIJ4fzoMNm-_fDcgJCxhPQW8F0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=fqazI9pIsAUdlnKCJyJ7lA&_nc_ss=7e120&oh=00_AQN4c8mpiWyax_RtL7WlYfYv5pL2Bq4i-xNe_EbMpVo8RA&oe=6AD10349)
 如果合作成功，將成上千家IDM/Fabless/System ASIC攸關競爭力和生存的必備支出，第二家(Cadence or Siemens)勢必盡快搶進Anthropic合作，動作慢的第三家只能和Google合作，或許，只是外行人的或許，Fabless純開放一般性、發散性的、無統一宗旨目標的、個人"工作效率"tokens使用額度，不如資源改為前幾天談的(1)學習OpenAI Jalapeño和特定AI研究以加速IC開發時程明確目標的使用(2)使用以下貼文OpenAI+Synopsys整合成功之後的平台(非現在EDA公司每個模組分開零散AI功能)
 
 ------------"OpenAI 與 Synopsys 剛宣布多年合作，開發 GPT-Synopsys，一款專門用於半導體設計的人工智慧模型。該協議結合了 OpenAI 的前沿模型與 Synopsys 的電子設計自動化軟體及工程專業知識。其目標是透過教導 AI 操作專業設計工作流程中使用的工具，幫助工程師更快開發出更優質的晶片。兩家公司將透過收益分享安排共同開發並商業化該產品。

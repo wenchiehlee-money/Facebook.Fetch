@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-10-10T06:58:13.154161+00:00",
+  "fetched_at_utc": "2026-10-11T07:03:44.858791+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1518193123664441"
+  ],
+  "new_markdown_files": [
+    "data/TrendForce 集邦科技/2026-10-11_陳立武表示英特爾與Terafab合作仍持續進行中馬斯克強調自營晶圓廠台積電頂多轉租.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",
   "notes": [

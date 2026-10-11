@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-10T06:57:42.717955+00:00",
+  "fetched_at_utc": "2026-10-11T07:03:13.159129+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,15 +9,17 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 2,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1629650521852903",
-    "1629597451858210"
+    "1630642068420415",
+    "1630582378426384",
+    "1630010731816882"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-10_阿川跟俄國緊急調了柴油來用川普真正的好友是普丁.md",
-    "data/IEObserve 國際經濟觀察/2026-10-10_過去一周又是AI半導體和軟體的翹翹板記憶體和CPU轉弱PalantirAtlassianCloudflare-甚至創新高.md"
+    "data/IEObserve 國際經濟觀察/2026-10-11_從自行研發晶片的極速迭代到打造能像人手一樣靈活開罐子的機器人Elon-Musk-在德州超級工廠暢談了多個前沿技術的真實瓶頸與未來藍圖.md",
+    "data/IEObserve 國際經濟觀察/2026-10-11_普丁證明了意志堅強不怕傷亡撐久就會贏因為民主國家的明顯弱點就是民意厭戰撐不久被侵略的一方最後會被怪為什麼不早點投降還跑去打對方的生財工具造成全球一起更大痛苦.md",
+    "data/IEObserve 國際經濟觀察/2026-10-10_Google-的算力建置正在全方位的追趕超額需求現在電力的限制是最明顯有錢也不一定買得到所以巨頭們很願意投資在更有確定性的選項本週對CEG的長約投資就是反應他們.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",
@@ -26,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

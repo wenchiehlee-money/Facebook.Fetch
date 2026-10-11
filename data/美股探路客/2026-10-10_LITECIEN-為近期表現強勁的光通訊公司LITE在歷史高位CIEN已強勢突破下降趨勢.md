@@ -4,9 +4,9 @@ title: "#LITE、#CIEN 為近期表現強勁的光通訊公司，LITE在歷史高
 page_title: ""
 requested_url: "https://www.facebook.com/raikk6"
 final_url: "https://www.facebook.com/raikk6"
-post_url: "https://www.facebook.com/raikk6/posts/pfbid032RKWMu7HNp5PSaghT5QfprJP7zRPWq7LXun18E6zMDoJAJ9dNj6neSkK8wFpBvyRl"
+post_url: "https://www.facebook.com/raikk6/posts/pfbid0xsgKSjUvXej6e8vHrgCE6AsgsfyjKzVYyG3Vq5P8NcEFNYz9PfC8bcWS7tKDYt1pl"
 creation_time_utc: "2026-10-10T04:45:18+00:00"
-fetched_at_utc: "2026-10-10T06:57:28.292381+00:00"
+fetched_at_utc: "2026-10-11T07:02:53.265971+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # #LITE、#CIEN 為近期表現強勁的光通訊公司，LITE在歷史高位，CIEN已強勢突破下降趨勢👇
 
-原文連結: https://www.facebook.com/raikk6/posts/pfbid032RKWMu7HNp5PSaghT5QfprJP7zRPWq7LXun18E6zMDoJAJ9dNj6neSkK8wFpBvyRl
+原文連結: https://www.facebook.com/raikk6/posts/pfbid0xsgKSjUvXej6e8vHrgCE6AsgsfyjKzVYyG3Vq5P8NcEFNYz9PfC8bcWS7tKDYt1pl
 #LITE、#CIEN 為近期表現強勁的光通訊公司，LITE在歷史高位，CIEN已強勢突破下降趨勢👇
 
 高利率環境下，COHR、AAOI擴產但自由現金流轉負，LITE也大幅擴產但自由現金流持續攀升，CIEN也仍為正

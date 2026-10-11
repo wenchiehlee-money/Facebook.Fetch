@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/ForexStrategist",
   "final_url": "https://www.facebook.com/ForexStrategist",
-  "fetched_at_utc": "2026-10-10T06:57:34.540573+00:00",
+  "fetched_at_utc": "2026-10-11T07:03:01.831049+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1688470872638384",
-    "1687847152700756",
-    "1687750152710456"
+    "1689459835872821",
+    "1689379319214206",
+    "1688787255940079"
   ],
   "new_markdown_files": [
-    "data/李其展的外匯交易致勝兵法/2026-10-10_黃金短暫突破4200後高檔震盪準備挑戰4225與月線反壓.md",
-    "data/李其展的外匯交易致勝兵法/2026-10-09_美股開高反攻但費半漲幅縮減剩下0.9革命衛隊又襲擊船隻.md",
-    "data/李其展的外匯交易致勝兵法/2026-10-09_市場逐漸消化OpenAI報導美股期指從昨天低點收回半數跌幅.md"
+    "data/李其展的外匯交易致勝兵法/2026-10-11_AI從誰在蓋走到誰會賺OpenAI營收疑慮後的佈局思考分享.md",
+    "data/李其展的外匯交易致勝兵法/2026-10-11_胡塞組織襲擊利雅德機場造成重大打擊川普表示可能介入油價續漲.md",
+    "data/李其展的外匯交易致勝兵法/2026-10-10_日幣走勢進一步收斂短線平衡何時被打破.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/李其展的外匯交易致勝兵法",

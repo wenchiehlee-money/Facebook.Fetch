@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-10T06:57:18.327935+00:00",
+  "fetched_at_utc": "2026-10-11T07:02:39.570962+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1583572393812902",
-    "1583037813866360"
+    "1583753377128137"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-10_知名分析師-Dan-Ives-發布了-2027-年科技產業報告針對-40-家公司給予買進評級另有-9-家評價中立範圍橫跨-AI-基礎設施大型科技企業軟體資安自駕.md",
-    "data/FinGuider 美股資訊網/2026-10-09_特斯拉TSLA將歐洲官網的-FSD-改為Tesla-Assisted-Driving但美國網站仍維持-Full-Self-Driving-Supervised這.md"
+    "data/FinGuider 美股資訊網/2026-10-11_財報季開跑下週由華爾街大行與半導體巨頭揭開序幕同時結合醫療保健與餐飲龍頭協助投資人掌握信貸環境晶片資本支出及消費需求的最新趨勢.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",
