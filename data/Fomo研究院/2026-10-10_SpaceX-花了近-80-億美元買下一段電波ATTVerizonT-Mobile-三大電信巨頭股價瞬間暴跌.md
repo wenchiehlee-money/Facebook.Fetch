@@ -4,22 +4,22 @@ title: "SpaceX 花了近 80 億美元買下一段電波，AT&T、Verizon、T-Mob
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02HRwiz2PscLUWekCVCjJH1hGg9GeDBwrdVmBBY1bhcUBcaLHDwYqP4LwGHvskC9RRl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0DtJY4rmWmGHvsoU7X7er57X9aUVWosuoQaS9epYd8VMLLrcZVggvWrqFnZu9Pr9Pl&id=61573146584049"
 creation_time_utc: "2026-10-10T08:41:12+00:00"
-fetched_at_utc: "2026-10-11T07:02:56.857100+00:00"
+fetched_at_utc: "2026-10-12T07:16:05.241646+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/842056133_122200725290771552_4597408689135364172_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yvKaczY0DWkQ7kNvwFOwsuf&_nc_oc=AdoW1GQf53hd2J56HVDQa3Ajd6Sr_sQPiRQqVRHjZQ_EHmgi3M-UTxNUwORlQsoGaWQ&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=aesCs_88nYme9DzJd1A5qw&_nc_ss=7e120&oh=00_AQMdrOsXxyetcKbTxMKZSsoyqgoR0itu-Er5FTJNRRCUvQ&oe=6AD0FBF2"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/842056133_122200725290771552_4597408689135364172_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yvKaczY0DWkQ7kNvwHzUU8e&_nc_oc=Adr1UdVf2JfQGrrV9i-0DV92HDs8R17zmGTfaAfmdC9rYO0vN6zk9f_HJz4q36HxrGg&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=D8YKqed47yuaabxhesiZhg&_nc_ss=7e120&oh=00_AQOkdeyv3u4CLp5E5RzM1WBbPLNqHolsufg_AHsaVlWTQw&oe=6AD24D72"
 feedback_id: "ZmVlZGJhY2s6MTIyMjAwNzI1MzgwNzcxNTUy"
 page_canonical_url: ""
 ---
 
 # SpaceX 花了近 80 億美元買下一段電波，AT&T、Verizon、T-Mobile 三大電信巨頭股價瞬間暴跌。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02HRwiz2PscLUWekCVCjJH1hGg9GeDBwrdVmBBY1bhcUBcaLHDwYqP4LwGHvskC9RRl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0DtJY4rmWmGHvsoU7X7er57X9aUVWosuoQaS9epYd8VMLLrcZVggvWrqFnZu9Pr9Pl&id=61573146584049
 
-![SpaceX 花了近 80 億美元買下一段電波，AT&T、Verizon、T-Mobile 三大電信巨頭股價瞬間暴跌。](https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/842056133_122200725290771552_4597408689135364172_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yvKaczY0DWkQ7kNvwFOwsuf&_nc_oc=AdoW1GQf53hd2J56HVDQa3Ajd6Sr_sQPiRQqVRHjZQ_EHmgi3M-UTxNUwORlQsoGaWQ&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=aesCs_88nYme9DzJd1A5qw&_nc_ss=7e120&oh=00_AQMdrOsXxyetcKbTxMKZSsoyqgoR0itu-Er5FTJNRRCUvQ&oe=6AD0FBF2)
+![SpaceX 花了近 80 億美元買下一段電波，AT&T、Verizon、T-Mobile 三大電信巨頭股價瞬間暴跌。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/842056133_122200725290771552_4597408689135364172_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yvKaczY0DWkQ7kNvwHzUU8e&_nc_oc=Adr1UdVf2JfQGrrV9i-0DV92HDs8R17zmGTfaAfmdC9rYO0vN6zk9f_HJz4q36HxrGg&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=D8YKqed47yuaabxhesiZhg&_nc_ss=7e120&oh=00_AQOkdeyv3u4CLp5E5RzM1WBbPLNqHolsufg_AHsaVlWTQw&oe=6AD24D72)
 SpaceX 花了近 80 億美元買下一段電波，AT&T、Verizon、T-Mobile 三大電信巨頭股價瞬間暴跌。
 ​
 為什麼只是買下一段看不見的無線電波頻率，就會讓這些傳統電信商的市值瞬間大縮水？SpaceX 又在準備什麼策略？他們打算成為電信商了嗎？

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-10-11T07:02:53.265971+00:00",
+  "fetched_at_utc": "2026-10-12T07:16:01.523382+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,13 +9,17 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 1,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1536607681846497"
+    "1538588508315081",
+    "1538576901649575",
+    "1537915568382375"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-10-10_昨天日經亞洲一則新聞讓Apple股價盤前下跌不過開盤開始拉升.md"
+    "data/美股探路客/2026-10-12_記憶體公司囚徒困境重演不加速擴產喪失市佔率.md",
+    "data/美股探路客/2026-10-12_Q3-財報季本週開啟週五10月期權結算過去26年的歷史紀錄本週上漲機率超過8成.md",
+    "data/美股探路客/2026-10-11_美股財經週報-2026.10.11.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",
@@ -24,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

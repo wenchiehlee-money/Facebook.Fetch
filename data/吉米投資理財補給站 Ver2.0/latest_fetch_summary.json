@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-10-11T07:03:16.063494+00:00",
+  "fetched_at_utc": "2026-10-12T07:16:24.250410+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122232336860502956",
-    "122232333602502956",
-    "122232324302502956"
+    "122232582662502956",
+    "122232499880502956",
+    "122232496574502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-10-10_美國元件占比-65光通訊供應鏈迎來新變數.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-10-10_Tom-Lee美股像一根蓄勢待發的彈簧.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-10-10_HarrowHROW成長藍圖營收加速眼科新藥與商業化擴張.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-10-12_晚上是哥倫布日所以今天川普不會taco了-等明天塔可.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-10-11_ServiceNow-核心業務穩健AI-變現進入關鍵期.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-10-11_亞洲科技硬體與半導體未來-5-年盈餘成長可期.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",

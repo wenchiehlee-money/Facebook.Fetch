@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/iqvalue",
   "final_url": "https://www.facebook.com/iqvalue",
-  "fetched_at_utc": "2026-10-11T07:03:31.615421+00:00",
+  "fetched_at_utc": "2026-10-12T07:16:43.645821+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1563544112454033"
+  ],
+  "new_markdown_files": [
+    "data/洪鑑穩 帶你挖好股/2026-10-11_股市還能漲多久Ray-Dalio-認為我們正走到多頭的中後段.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/洪鑑穩 帶你挖好股",
   "notes": [

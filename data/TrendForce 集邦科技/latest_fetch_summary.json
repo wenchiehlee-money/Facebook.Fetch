@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-10-11T07:03:44.858791+00:00",
+  "fetched_at_utc": "2026-10-12T07:16:59.724102+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1518193123664441"
+    "1519130963570657"
   ],
   "new_markdown_files": [
-    "data/TrendForce 集邦科技/2026-10-11_陳立武表示英特爾與Terafab合作仍持續進行中馬斯克強調自營晶圓廠台積電頂多轉租.md"
+    "data/TrendForce 集邦科技/2026-10-12_記憶體吃緊需求增加東芝傳投資600億日圓擬倍增-AI-DC-用-HDD-產能.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",

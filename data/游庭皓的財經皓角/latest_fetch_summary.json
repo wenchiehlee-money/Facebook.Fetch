@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-10-11T07:02:31.056133+00:00",
+  "fetched_at_utc": "2026-10-12T07:15:40.690413+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,17 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1139949728555915",
+    "1174348488489836",
+    "1174344865156865"
+  ],
+  "new_markdown_files": [
+    "data/游庭皓的財經皓角/2026-10-12_20261012一美俄協議-壓得住油價中東打不垮經濟-卻拖垮債市早晨財經速解讀.md",
+    "data/游庭皓的財經皓角/2026-10-11_美國勞動生產力看起來正在加速但背後可能沒有想像中樂觀Apollo的數據顯示2024年以來美國每小時勞動產出年增率維持在2至3左右但衡量技術進步與整體資源使用效率.md",
+    "data/游庭皓的財經皓角/2026-10-11_人走了半小時空氣還能驗出DNA未來警方調查犯罪現場可能不需要找到指紋或毛髮光是採集空氣就能辨識嫌疑人.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",
   "notes": [

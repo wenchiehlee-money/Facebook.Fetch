@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/dextermchang",
   "final_url": "https://www.facebook.com/dextermchang",
-  "fetched_at_utc": "2026-10-11T07:02:26.604306+00:00",
+  "fetched_at_utc": "2026-10-12T07:15:36.411484+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122143345185207208"
+    "122143501539207208"
   ],
   "new_markdown_files": [
-    "data/大會計師 張明輝/2026-10-11_存貨天數-怎麼算看懂這個公式就夠了.md"
+    "data/大會計師 張明輝/2026-10-12_不同產業有不同的-存貨合理天數.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/大會計師 張明輝",

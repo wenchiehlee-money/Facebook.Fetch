@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-11T07:03:13.159129+00:00",
+  "fetched_at_utc": "2026-10-12T07:16:20.894461+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1630642068420415",
-    "1630582378426384",
-    "1630010731816882"
+    "1631636128321009",
+    "1631567824994506",
+    "1631328961685059"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-11_從自行研發晶片的極速迭代到打造能像人手一樣靈活開罐子的機器人Elon-Musk-在德州超級工廠暢談了多個前沿技術的真實瓶頸與未來藍圖.md",
-    "data/IEObserve 國際經濟觀察/2026-10-11_普丁證明了意志堅強不怕傷亡撐久就會贏因為民主國家的明顯弱點就是民意厭戰撐不久被侵略的一方最後會被怪為什麼不早點投降還跑去打對方的生財工具造成全球一起更大痛苦.md",
-    "data/IEObserve 國際經濟觀察/2026-10-10_Google-的算力建置正在全方位的追趕超額需求現在電力的限制是最明顯有錢也不一定買得到所以巨頭們很願意投資在更有確定性的選項本週對CEG的長約投資就是反應他們.md"
+    "data/IEObserve 國際經濟觀察/2026-10-12_長鑫和長江會一直是韓國人估值的壓制器.md",
+    "data/IEObserve 國際經濟觀察/2026-10-12_韓國人感覺上波被團滅了不像台灣有第四法人可以一直有撐一直拉.md",
+    "data/IEObserve 國際經濟觀察/2026-10-11_本週將開啟重磅財報周照慣例是金融股打頭陣半導體則是設備股-ASML-週三先開台積電週四緊接在後大家應該都想聽聽魏哲家講未來資本支出展望以及Terafab到底在談.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

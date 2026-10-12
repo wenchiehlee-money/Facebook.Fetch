@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-11T07:02:39.570962+00:00",
+  "fetched_at_utc": "2026-10-12T07:15:48.940979+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1583753377128137"
+    "1585599026943572"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-11_財報季開跑下週由華爾街大行與半導體巨頭揭開序幕同時結合醫療保健與餐飲龍頭協助投資人掌握信貸環境晶片資本支出及消費需求的最新趨勢.md"
+    "data/FinGuider 美股資訊網/2026-10-12_Anthropic-已跟-IRENIREN簽署了一項尚未公開宣布的多年期雲端服務協議IREN-則曾在-8-月財報中透露已跟一家未具名的頂尖前沿-AI-實驗室簽訂.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

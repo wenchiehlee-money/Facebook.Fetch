@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-10-11T07:02:49.017990+00:00",
+  "fetched_at_utc": "2026-10-12T07:15:57.496669+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,15 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 2,
+  "new_post_ids": [
+    "1572144251618325",
+    "1571515958347821"
+  ],
+  "new_markdown_files": [
+    "data/股魚/2026-10-12_對於一個已經離開職場多年靠股市包租技巧為生的我而言高股息ETF可是打造現金流的利器啊比你自己去買套房出租再收取現金可方便太多了還不用遇到頑劣的租客搞得自己心力交.md",
+    "data/股魚/2026-10-11_ETF-買對還是買貴全新身家調查功能上線優劣一眼看穿.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",
   "notes": [

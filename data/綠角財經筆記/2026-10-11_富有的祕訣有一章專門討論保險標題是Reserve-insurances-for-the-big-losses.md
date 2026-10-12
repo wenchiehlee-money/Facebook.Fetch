@@ -4,22 +4,22 @@ title: "《富有的祕訣》有一章專門討論保險，標題是”Reserve i
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0YnmjzQffkiF3NhmjEzvNuWiqLmdh1FxeEQuT5FkCNmqNexuw9qcM8SQCtAJZ33g3l"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02cAFvcS2HnKzmZVHaCYtzSyTPVegq8cgCx38noP88neEuu2CiPQ486yeeihJ2473ql"
 creation_time_utc: "2026-10-11T04:04:50+00:00"
-fetched_at_utc: "2026-10-11T07:02:44.156256+00:00"
+fetched_at_utc: "2026-10-12T07:15:53.060881+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/841930923_1528419212424807_607373143872262070_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GEwRgrTvP8MQ7kNvwHfedum&_nc_oc=AdqRAgO1getYaN2YqT-BDY10H_Wz0NwnjLQ7TF1xMFLnic6PH8zLbc-cVfPn14FkY18&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=R69JzWZ7dPU7k-v75igESA&_nc_ss=7e120&oh=00_AQONJ1lWYPcNL_emwafUHrAj1Q2s4eb37hqPMp-Xm0pOuA&oe=6AD0EF3A"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/841482615_1528668035733258_2481859660709834792_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6s-opD0SSGsQ7kNvwER1Z5z&_nc_oc=AdoHcDV1zydrz_502hGxHxYaQ6faqtK4FGb1sRzw7vivJ9VweggmfSrPivCKIDNFm0M&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=wXuPVwN7KqaKsy1jjSHnPg&_nc_ss=7e120&oh=00_AQNkZShAbesUNRYFkN4b8uMPkPeRtfQEczoLaioW2c1Jcw&oe=6AD265E3"
 feedback_id: "ZmVlZGJhY2s6MTUyODQxOTU2MjQyNDc3Mg=="
 page_canonical_url: ""
 ---
 
 # 《富有的祕訣》有一章專門討論保險，標題是”Reserve insurances for the big losses”。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0YnmjzQffkiF3NhmjEzvNuWiqLmdh1FxeEQuT5FkCNmqNexuw9qcM8SQCtAJZ33g3l
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02cAFvcS2HnKzmZVHaCYtzSyTPVegq8cgCx38noP88neEuu2CiPQ486yeeihJ2473ql
 
-![《富有的祕訣》有一章專門討論保險，標題是”Reserve insurances for the big losses”。](https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/841930923_1528419212424807_607373143872262070_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GEwRgrTvP8MQ7kNvwHfedum&_nc_oc=AdqRAgO1getYaN2YqT-BDY10H_Wz0NwnjLQ7TF1xMFLnic6PH8zLbc-cVfPn14FkY18&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=R69JzWZ7dPU7k-v75igESA&_nc_ss=7e120&oh=00_AQONJ1lWYPcNL_emwafUHrAj1Q2s4eb37hqPMp-Xm0pOuA&oe=6AD0EF3A)
+![《富有的祕訣》有一章專門討論保險，標題是”Reserve insurances for the big losses”。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/841482615_1528668035733258_2481859660709834792_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6s-opD0SSGsQ7kNvwER1Z5z&_nc_oc=AdoHcDV1zydrz_502hGxHxYaQ6faqtK4FGb1sRzw7vivJ9VweggmfSrPivCKIDNFm0M&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=wXuPVwN7KqaKsy1jjSHnPg&_nc_ss=7e120&oh=00_AQNkZShAbesUNRYFkN4b8uMPkPeRtfQEczoLaioW2c1Jcw&oe=6AD265E3)
 《富有的祕訣》有一章專門討論保險，標題是”Reserve insurances for the big losses”。
 
 這句話很簡單的表達的保險的核心精神，那就是”保你無法承受的重大損失”。
