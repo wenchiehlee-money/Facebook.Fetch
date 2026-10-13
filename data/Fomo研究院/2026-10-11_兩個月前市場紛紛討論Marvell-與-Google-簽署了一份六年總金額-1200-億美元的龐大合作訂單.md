@@ -4,22 +4,22 @@ title: "兩個月前，市場紛紛討論Marvell 與 Google 簽署了一份六�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02uQqjsGuRWCtV61he4pFyUdrxKojoB2iz6AxXorWkmzrhtnr2ZbUcyhM8NcoFqdLpl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0qsCYx7H4ezrHYY4A3JrWwxgqDknD5TyhxTLqVfuDd4WKRbtx25atheSojnRnzxHkl&id=61573146584049"
 creation_time_utc: "2026-10-11T13:18:43+00:00"
-fetched_at_utc: "2026-10-12T07:16:05.241646+00:00"
+fetched_at_utc: "2026-10-13T07:37:48.614821+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/846052714_122200885592771552_6310123361004039902_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kVQe4qsnFRUQ7kNvwGADeGU&_nc_oc=AdpTkketONvdWjlXQCnuUKQfS3aR9pf7C8Q2KzdTmgsBmGoNbP10btPBm_zQRaKA0Yo&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=D8YKqed47yuaabxhesiZhg&_nc_ss=7e120&oh=00_AQNZkErfeCfVWgBJhnlr-8ag_2oFzRa2nOOiy1dg_fZA7w&oe=6AD25873"
+image_url: "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/846052714_122200885592771552_6310123361004039902_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0nIjnLtfQ3kQ7kNvwGqv7uL&_nc_oc=AdoX9aV0rdI42B9kqggRuyHua3W8kfAEx_4ZDDlNvCXJZPEEYsP-4n4Emp9zP_OhHzY&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=uxFiBT7be7P0T2qpuTwQjw&_nc_ss=7e120&oh=00_AQOxFO60wevFhNGQNM33mBrfLn4JpFkMSvIDDPVVvvgiRw&oe=6AD3A9F3"
 feedback_id: "ZmVlZGJhY2s6MTIyMjAwODg1ODMyNzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 兩個月前，市場紛紛討論Marvell 與 Google 簽署了一份六年、總金額 1,200 億美元的龐大合作訂單。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02uQqjsGuRWCtV61he4pFyUdrxKojoB2iz6AxXorWkmzrhtnr2ZbUcyhM8NcoFqdLpl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0qsCYx7H4ezrHYY4A3JrWwxgqDknD5TyhxTLqVfuDd4WKRbtx25atheSojnRnzxHkl&id=61573146584049
 
-![兩個月前，市場紛紛討論Marvell 與 Google 簽署了一份六年、總金額 1,200 億美元的龐大合作訂單。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/846052714_122200885592771552_6310123361004039902_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kVQe4qsnFRUQ7kNvwGADeGU&_nc_oc=AdpTkketONvdWjlXQCnuUKQfS3aR9pf7C8Q2KzdTmgsBmGoNbP10btPBm_zQRaKA0Yo&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=D8YKqed47yuaabxhesiZhg&_nc_ss=7e120&oh=00_AQNZkErfeCfVWgBJhnlr-8ag_2oFzRa2nOOiy1dg_fZA7w&oe=6AD25873)
+![兩個月前，市場紛紛討論Marvell 與 Google 簽署了一份六年、總金額 1,200 億美元的龐大合作訂單。](https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/846052714_122200885592771552_6310123361004039902_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0nIjnLtfQ3kQ7kNvwGqv7uL&_nc_oc=AdoX9aV0rdI42B9kqggRuyHua3W8kfAEx_4ZDDlNvCXJZPEEYsP-4n4Emp9zP_OhHzY&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=uxFiBT7be7P0T2qpuTwQjw&_nc_ss=7e120&oh=00_AQOxFO60wevFhNGQNM33mBrfLn4JpFkMSvIDDPVVvvgiRw&oe=6AD3A9F3)
 兩個月前，市場紛紛討論Marvell 與 Google 簽署了一份六年、總金額 1,200 億美元的龐大合作訂單。
  
 這個數字聽起來超級厲害，很多人也把它當作 Marvell 未來營收起飛的保證。

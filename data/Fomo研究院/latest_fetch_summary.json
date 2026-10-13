@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-10-12T07:16:05.241646+00:00",
+  "fetched_at_utc": "2026-10-13T07:37:48.614821+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "122200963808771552",
-    "122200885832771552"
+    "122201095688771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-10-12_Palantir-的-CEO-Alex-Karp-十分討厭顧問公司.md",
-    "data/Fomo研究院/2026-10-11_兩個月前市場紛紛討論Marvell-與-Google-簽署了一份六年總金額-1200-億美元的龐大合作訂單.md"
+    "data/Fomo研究院/2026-10-13_AWS-執行長-Matt-Garman-最近在接受-a16z-訪談時丟出了幾個數字.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

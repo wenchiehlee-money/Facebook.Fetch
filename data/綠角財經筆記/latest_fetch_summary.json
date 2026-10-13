@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-10-12T07:15:53.060881+00:00",
+  "fetched_at_utc": "2026-10-13T07:37:40.966155+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1529215465678515"
+    "1530175282249200"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-10-11_初入社會開始工作的年輕人常會急切的想取得一些人生成就其中之一就是金錢.md"
+    "data/綠角財經筆記/2026-10-12_對金融市場有些瞭解的投資人會知道股票市場有市值集中的現象.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

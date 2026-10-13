@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-10-12T07:16:47.902728+00:00",
+  "fetched_at_utc": "2026-10-13T07:38:18.889898+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1654295722720567"
+  ],
+  "new_markdown_files": [
+    "data/andrew.semis.techs/2026-10-12_台灣半導體暨科技產業公布9月份及3Q26營收我們以公布的數據看產業趨勢變化及公司與彭博社分析師預期進行分析比較投資人須審慎評估總而言之3Q26營收明顯超過彭博社.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
   "notes": [

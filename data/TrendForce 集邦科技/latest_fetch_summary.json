@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-10-12T07:16:59.724102+00:00",
+  "fetched_at_utc": "2026-10-13T07:38:31.378221+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1519130963570657"
+    "1519208603562893"
   ],
   "new_markdown_files": [
-    "data/TrendForce 集邦科技/2026-10-12_記憶體吃緊需求增加東芝傳投資600億日圓擬倍增-AI-DC-用-HDD-產能.md"
+    "data/TrendForce 集邦科技/2026-10-12_筆電主要-ODM-廣達緯創評估OEM-最新提供的第四季預測訂單量平均年減-1015多數產線因此在十一長假期間並未加班趕工拉貨動能明顯趨緩通路端的訊號同樣偏弱華南.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",

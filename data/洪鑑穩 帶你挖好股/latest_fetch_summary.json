@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/iqvalue",
   "final_url": "https://www.facebook.com/iqvalue",
-  "fetched_at_utc": "2026-10-12T07:16:43.645821+00:00",
+  "fetched_at_utc": "2026-10-13T07:38:16.248048+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1563544112454033"
+    "1564836728991438"
   ],
   "new_markdown_files": [
-    "data/洪鑑穩 帶你挖好股/2026-10-11_股市還能漲多久Ray-Dalio-認為我們正走到多頭的中後段.md"
+    "data/洪鑑穩 帶你挖好股/2026-10-12_台股挑戰五萬點該抱還是該賣.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/洪鑑穩 帶你挖好股",

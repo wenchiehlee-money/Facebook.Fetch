@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-12T07:15:48.940979+00:00",
+  "fetched_at_utc": "2026-10-13T07:37:37.799535+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1585599026943572"
+    "1586848220151986",
+    "1586682553501886",
+    "1586113010225507"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-12_Anthropic-已跟-IRENIREN簽署了一項尚未公開宣布的多年期雲端服務協議IREN-則曾在-8-月財報中透露已跟一家未具名的頂尖前沿-AI-實驗室簽訂.md"
+    "data/FinGuider 美股資訊網/2026-10-13_近期摩根士丹利更新了-Powered-Shell-業者PSP提供電力與資料中心空間的估值框架並延續對該產業的樂觀看法.md",
+    "data/FinGuider 美股資訊網/2026-10-13_美股牛市已漲四年還能持續多久.md",
+    "data/FinGuider 美股資訊網/2026-10-12_美股接近歷史高點愈來愈多漲幅卻集中在少數股票摩根資產管理發布-10-月市場觀察我們整理出六個投資人可以關注的變化.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

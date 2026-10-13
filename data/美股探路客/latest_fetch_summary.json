@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-10-12T07:16:01.523382+00:00",
+  "fetched_at_utc": "2026-10-13T07:37:46.344874+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1538588508315081",
-    "1538576901649575",
-    "1537915568382375"
+    "1539685808205351",
+    "1538682528305679"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-10-12_記憶體公司囚徒困境重演不加速擴產喪失市佔率.md",
-    "data/美股探路客/2026-10-12_Q3-財報季本週開啟週五10月期權結算過去26年的歷史紀錄本週上漲機率超過8成.md",
-    "data/美股探路客/2026-10-11_美股財經週報-2026.10.11.md"
+    "data/美股探路客/2026-10-13_AVGO-博通執行長陳福陽直白的發言或許是昨天科技股遭到拋售的原因之一資金是AI發展瓶頸投資人像在賭場押注企業燒光token像小孩打電玩沒留下什麼.md",
+    "data/美股探路客/2026-10-12_小摩原油價格短評原油價格10月將重現4月情況4月驅動價格的原因是供應短缺10月則是運輸成本.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

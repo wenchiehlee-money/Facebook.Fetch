@@ -4,22 +4,22 @@ title: "Palantir 的 CEO Alex Karp 十分討厭顧問公司。"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0BED2N8Ucg2estY28CtzK57yypmgmiUs4TExq8tHe42zPvyfuPdCbT9a5mwA2rUcQl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02F5ejYoQSXKq7vxYgGwtZv5RTsWkXb9VoWiRr9Gih62YVUrCKP7vJs9zKeu9JP9i1l&id=61573146584049"
 creation_time_utc: "2026-10-12T04:38:45+00:00"
-fetched_at_utc: "2026-10-12T07:16:05.241646+00:00"
+fetched_at_utc: "2026-10-13T07:37:48.614821+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/846771264_122200963262771552_9098127167153191194_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XEwkanzXAAwQ7kNvwEzHDp0&_nc_oc=AdpgX59O9lk9_hTQiFKvPaoO9mnsKSh1uOLmG8acZMDQzH5ivfUMLH8l8n2grUMt8MM&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=D8YKqed47yuaabxhesiZhg&_nc_ss=7e120&oh=00_AQNdLaOeUERiOH4KR0Arw5bcgRd3oXbDynbpK4pvxWkeqg&oe=6AD24DFF"
+image_url: "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/846771264_122200963262771552_9098127167153191194_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XEwkanzXAAwQ7kNvwGAP6ez&_nc_oc=AdoUPmDCXYGkNAMhPfZQVpnixPnby793cg5NOZcpNVP2CDILq0kHcssVZHCrjBQKHIo&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=uxFiBT7be7P0T2qpuTwQjw&_nc_ss=7e120&oh=00_AQMilQmlCZU76OwB9UVQcuhO6qp0cXQx37-NGk8UcGMfLg&oe=6AD39F7F"
 feedback_id: "ZmVlZGJhY2s6MTIyMjAwOTYzODA4NzcxNTUy"
 page_canonical_url: ""
 ---
 
 # Palantir 的 CEO Alex Karp 十分討厭顧問公司。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0BED2N8Ucg2estY28CtzK57yypmgmiUs4TExq8tHe42zPvyfuPdCbT9a5mwA2rUcQl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02F5ejYoQSXKq7vxYgGwtZv5RTsWkXb9VoWiRr9Gih62YVUrCKP7vJs9zKeu9JP9i1l&id=61573146584049
 
-![Palantir 的 CEO Alex Karp 十分討厭顧問公司。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/846771264_122200963262771552_9098127167153191194_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XEwkanzXAAwQ7kNvwEzHDp0&_nc_oc=AdpgX59O9lk9_hTQiFKvPaoO9mnsKSh1uOLmG8acZMDQzH5ivfUMLH8l8n2grUMt8MM&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=D8YKqed47yuaabxhesiZhg&_nc_ss=7e120&oh=00_AQNdLaOeUERiOH4KR0Arw5bcgRd3oXbDynbpK4pvxWkeqg&oe=6AD24DFF)
+![Palantir 的 CEO Alex Karp 十分討厭顧問公司。](https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/846771264_122200963262771552_9098127167153191194_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XEwkanzXAAwQ7kNvwGAP6ez&_nc_oc=AdoUPmDCXYGkNAMhPfZQVpnixPnby793cg5NOZcpNVP2CDILq0kHcssVZHCrjBQKHIo&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=uxFiBT7be7P0T2qpuTwQjw&_nc_ss=7e120&oh=00_AQMilQmlCZU76OwB9UVQcuhO6qp0cXQx37-NGk8UcGMfLg&oe=6AD39F7F)
 Palantir 的 CEO Alex Karp 十分討厭顧問公司。
  
 在談到烏克蘭為何在戰時迅速導入 Palantir 時，他說：「當你的命都快沒了，你絕對負擔不起一份該死的 PPT。」

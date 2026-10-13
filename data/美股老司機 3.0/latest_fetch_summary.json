@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-10-12T07:16:27.860858+00:00",
+  "fetched_at_utc": "2026-10-13T07:38:05.353804+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122206404668486922",
-    "122206349060486922",
-    "122206347776486922"
+    "122206564784486922",
+    "122206563854486922",
+    "122206558754486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-10-12_市場上許多人習慣以事後諸葛的角度去尋找護城河-看到一家公司已經獨霸市場毛利率極高現金流充沛便為它冠上強大護城河的稱號然而如果等到護城河已經巍峨高聳舉世皆知時才入.md",
-    "data/美股老司機 3.0/2026-10-11_摩根士丹利對於全球各個主要地區的企業盈餘成長預期.md",
-    "data/美股老司機 3.0/2026-10-11_逢低買進.md"
+    "data/美股老司機 3.0/2026-10-13_Howard-Marks強調了卓越投資者的幾個核心特質.md",
+    "data/美股老司機 3.0/2026-10-13_KOSPI.md",
+    "data/美股老司機 3.0/2026-10-13_牛市四週年.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",
