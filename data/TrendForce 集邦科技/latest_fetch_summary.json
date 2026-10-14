@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-10-13T07:38:31.378221+00:00",
+  "fetched_at_utc": "2026-10-14T06:03:10.456688+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1519208603562893"
+    "1521132426703844",
+    "1521113566705730",
+    "1520270370123383"
   ],
   "new_markdown_files": [
-    "data/TrendForce 集邦科技/2026-10-12_筆電主要-ODM-廣達緯創評估OEM-最新提供的第四季預測訂單量平均年減-1015多數產線因此在十一長假期間並未加班趕工拉貨動能明顯趨緩通路端的訊號同樣偏弱華南.md"
+    "data/TrendForce 集邦科技/2026-10-14_來自-TrendForce-的-NAND_Flash-每週現貨均價比較圖.md",
+    "data/TrendForce 集邦科技/2026-10-14_來自-TrendForce-的-DRAM-每週現貨均價比較圖.md",
+    "data/TrendForce 集邦科技/2026-10-13_AI資料中心-催生-CPO-量產測試商機電性與光學量測需求升高預期-2027-年將是測試架構收斂關鍵年2028-年更是能否大規模量產的驗證期TrendForce.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-10-13T07:38:27.811463+00:00",
+  "fetched_at_utc": "2026-10-14T06:03:05.887162+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1538516751643869",
-    "1530536149108596",
-    "1538401314988746"
+    "1539398784888999",
+    "1539328488229362",
+    "1539302878231923"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-10-13_台灣新生兒10年少了一半早餐店的年營業額卻增加逾150連便當健身房的市場規模也都成長超過兩倍.md",
-    "data/商業周刊商周.com/2026-10-13_文華東方將進駐澳州為何選上墨爾本亞拉河岸第一排THE-ONE.md",
-    "data/商業周刊商周.com/2026-10-13_突破文青風改賣塑膠袋無印靠日用品3年翻身.md"
+    "data/商業周刊商周.com/2026-10-14_南亞科淨利暴增股價為何跳水破解長鑫恐慌2028年才是關鍵戰場.md",
+    "data/商業周刊商周.com/2026-10-14_日本高級超市成城石井來台了第一站選在台北車站.md",
+    "data/商業周刊商周.com/2026-10-14_人為什麼想回家這是文心建設總經理葉曉甄規劃案子時不停問自己的問題.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

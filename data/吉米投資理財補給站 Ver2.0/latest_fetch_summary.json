@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-10-13T07:38:02.704687+00:00",
+  "fetched_at_utc": "2026-10-14T06:02:31.660900+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,17 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 2,
+  "new_post_count": 2,
   "new_post_ids": [
-    "122232764864502956",
-    "122232756644502956",
-    "122232753500502956"
+    "122232812690502956",
+    "122232811616502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-10-13_台達電捲入專利風波真的有這麼嚴重.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-10-13_AI-資料中心邁向-800V-直流供電Vertiv-搶攻下一代-AI-工廠.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-10-13_存儲股遭遇三重衝擊市場提前交易週期反轉.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-10-13_拉回肯定站在買方今日操作小補CBRS跟FTAI.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-10-13_即使你的判斷最終是正確的你可能會經歷一段看起來與市場格格不入遭到批評甚至感到自我懷疑的時期你必須學會接受並與這種不確定性共存.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",
@@ -28,6 +26,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 1 篇貼文。"
   ]
 }

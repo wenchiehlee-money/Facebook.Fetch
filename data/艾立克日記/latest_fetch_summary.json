@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61591563193133",
   "final_url": "https://www.facebook.com/profile.php?id=61591563193133",
-  "fetched_at_utc": "2026-10-13T07:38:34.461393+00:00",
+  "fetched_at_utc": "2026-10-14T06:03:15.220087+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "122141342937385439"
-  ],
-  "new_markdown_files": [
-    "data/艾立克日記/2026-10-12_台股快5萬點要不要邊漲邊賣邊跌邊買19年回測最勤勞的人賺最少-追蹤者.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/艾立克日記",
   "notes": [

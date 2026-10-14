@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-10-13T07:37:46.344874+00:00",
+  "fetched_at_utc": "2026-10-14T06:02:04.400307+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1539685808205351",
-    "1538682528305679"
+    "1540628701444395",
+    "1540566914783907",
+    "1539815014859097"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-10-13_AVGO-博通執行長陳福陽直白的發言或許是昨天科技股遭到拋售的原因之一資金是AI發展瓶頸投資人像在賭場押注企業燒光token像小孩打電玩沒留下什麼.md",
-    "data/美股探路客/2026-10-12_小摩原油價格短評原油價格10月將重現4月情況4月驅動價格的原因是供應短缺10月則是運輸成本.md"
+    "data/美股探路客/2026-10-14_今天發布CPI數據剛好對應歷史平均的Q4低點.md",
+    "data/美股探路客/2026-10-14_今天PressPlay網站連線出問題訂閱網友稍安勿躁不過問題頗耐人尋味.md",
+    "data/美股探路客/2026-10-13_明天1015下午1430在群益金鼎證券市府分公司-美股投資契機-將分享Q4行情看法及半導體光通訊軟體公司成長性估值歡迎到留言區報名參加.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

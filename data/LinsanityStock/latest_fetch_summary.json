@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-10-13T07:38:24.497068+00:00",
+  "fetched_at_utc": "2026-10-14T06:03:01.850822+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1636219005215267"
+    "1637241155113052"
   ],
   "new_markdown_files": [
-    "data/LinsanityStock/2026-10-13_今年底上看5字頭的觀點不變台股今天早盤突然間急殺千點你是急著出場還是選擇逢低布局呢.md"
+    "data/LinsanityStock/2026-10-14_昨天台股盤中大跌千點的時候該提醒的已經都有先說了.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-13T07:37:37.799535+00:00",
+  "fetched_at_utc": "2026-10-14T06:01:50.337710+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1586848220151986",
-    "1586682553501886",
-    "1586113010225507"
+    "1587812496722225",
+    "1587662406737234",
+    "1587601086743366"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-13_近期摩根士丹利更新了-Powered-Shell-業者PSP提供電力與資料中心空間的估值框架並延續對該產業的樂觀看法.md",
-    "data/FinGuider 美股資訊網/2026-10-13_美股牛市已漲四年還能持續多久.md",
-    "data/FinGuider 美股資訊網/2026-10-12_美股接近歷史高點愈來愈多漲幅卻集中在少數股票摩根資產管理發布-10-月市場觀察我們整理出六個投資人可以關注的變化.md"
+    "data/FinGuider 美股資訊網/2026-10-14_聯準會今年再升息一次就夠了紐約聯準銀行總裁認為-2027-年可能無須再升息但市場仍押注明年還有兩次.md",
+    "data/FinGuider 美股資訊網/2026-10-14_川普表示台灣已同意在未來-20-年內採購一項阿拉斯加能源計畫所生產的-30-天然氣另外台灣還將額外投資-44-億美元確保該計畫完工.md",
+    "data/FinGuider 美股資訊網/2026-10-14_美國大型銀行獲利成長-14股價卻下跌高利率正在改變華爾街的獲利結構.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

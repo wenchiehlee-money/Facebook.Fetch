@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/dextermchang",
   "final_url": "https://www.facebook.com/dextermchang",
-  "fetched_at_utc": "2026-10-13T07:37:30.143517+00:00",
+  "fetched_at_utc": "2026-10-14T06:01:35.896232+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122143633125207208"
+    "122143756899207208"
   ],
   "new_markdown_files": [
-    "data/大會計師 張明輝/2026-10-13_馬斯克-和-台積電-洽談合作啟示商場沒有永遠的朋友也沒有永遠的敵人.md"
+    "data/大會計師 張明輝/2026-10-14_存貨高-不見得是壞事關鍵是看你是哪種IC設計公司.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/大會計師 張明輝",

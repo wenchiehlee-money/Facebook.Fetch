@@ -1,14 +1,10 @@
 {
   "requested_url": "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL",
-  "fetched_at_utc": "2026-10-13T07:37:27.917416+00:00",
+  "fetched_at_utc": "2026-10-14T06:01:32.727868+00:00",
   "list_title": "股票",
   "total_items": 9,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "10227729950234487"
-  ],
-  "new_markdown_files": [
-    "data/我的珍藏-股票/2026-10-13_想不到吧-業界原先寄望生成式-AI-與-Copilot-功能能帶動新一輪個人電腦PC換機潮但最新市場數據顯示事與願違市場研究機構-Omdia-與-IDC-最新報.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "posts_directory": "data/我的珍藏-股票"
 }

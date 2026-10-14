@@ -4,22 +4,22 @@ title: "【免費】Vibe Coding × AI 商業網站建置：高轉化品牌網站
 page_title: ""
 requested_url: "https://www.facebook.com/MarketingDataScienceTMR"
 final_url: "https://www.facebook.com/MarketingDataScienceTMR"
-post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0nCgE1iZe3gdLKisfh5fX1BMCLNqTCefv3q4gH1gsbegr8Ur6zXQW93e21DRPuAU2l"
+post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid02qaAQdjvG5Vxpix8Lehfkv7MiAqvSiEz451ZmfDeJF45FoP7LonyAuadLsEqP5kZYl"
 creation_time_utc: "2026-10-13T04:42:44+00:00"
-fetched_at_utc: "2026-10-13T07:37:35.600057+00:00"
+fetched_at_utc: "2026-10-14T06:01:45.667009+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/845366006_1407147258195582_4642918064751886821_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Q1OkiWomqMgQ7kNvwGqU-uE&_nc_oc=Adp_XG49otdFj1OCZd1JadOgW8ynUdt4HN8eNn0wKZIpqGT5pYZix97HbQIXTgnFZ6w&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=K75eOs5wpwJVUKTfh68AHQ&_nc_ss=7e120&oh=00_AQOLMq2UIrgKsDUgbCw4k8AR6ncbQA6KDPMkriV-_fqI6g&oe=6AD3CBBD"
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/845366006_1407147258195582_4642918064751886821_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Q1OkiWomqMgQ7kNvwGuJcVC&_nc_oc=AdqcX8XteIX2Q618-KZ_d1fFn6qeaudkl7YTsyfewab49G5ODlnwsiFR3gLBFFKAiqw&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=q0EpIPigEtBjuNMXZGLYaA&_nc_ss=7e120&oh=00_AQMvXLMPveiaSS7ZBIHTySylnOagkkKb6QlRYRK-vudwGw&oe=6AD4E4FD"
 feedback_id: "ZmVlZGJhY2s6MTQwNzE0NzQ1NDg2MjIyOQ=="
 page_canonical_url: ""
 ---
 
 # 【免費】Vibe Coding × AI 商業網站建置：高轉化品牌網站實戰班（新竹班）
 
-原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0nCgE1iZe3gdLKisfh5fX1BMCLNqTCefv3q4gH1gsbegr8Ur6zXQW93e21DRPuAU2l
+原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid02qaAQdjvG5Vxpix8Lehfkv7MiAqvSiEz451ZmfDeJF45FoP7LonyAuadLsEqP5kZYl
 
-![【免費】Vibe Coding × AI 商業網站建置：高轉化品牌網站實戰班（新竹班）](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/845366006_1407147258195582_4642918064751886821_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Q1OkiWomqMgQ7kNvwGqU-uE&_nc_oc=Adp_XG49otdFj1OCZd1JadOgW8ynUdt4HN8eNn0wKZIpqGT5pYZix97HbQIXTgnFZ6w&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=K75eOs5wpwJVUKTfh68AHQ&_nc_ss=7e120&oh=00_AQOLMq2UIrgKsDUgbCw4k8AR6ncbQA6KDPMkriV-_fqI6g&oe=6AD3CBBD)
+![【免費】Vibe Coding × AI 商業網站建置：高轉化品牌網站實戰班（新竹班）](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/845366006_1407147258195582_4642918064751886821_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Q1OkiWomqMgQ7kNvwGuJcVC&_nc_oc=AdqcX8XteIX2Q618-KZ_d1fFn6qeaudkl7YTsyfewab49G5ODlnwsiFR3gLBFFKAiqw&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=q0EpIPigEtBjuNMXZGLYaA&_nc_ss=7e120&oh=00_AQMvXLMPveiaSS7ZBIHTySylnOagkkKb6QlRYRK-vudwGw&oe=6AD4E4FD)
 【免費】Vibe Coding × AI 商業網站建置：高轉化品牌網站實戰班（新竹班）
 立即報名：
 https://seminars.tca.org.tw/D19f00205.aspx

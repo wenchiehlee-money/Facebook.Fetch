@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-13T07:37:59.897603+00:00",
+  "fetched_at_utc": "2026-10-14T06:02:27.483678+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1632470764904212",
-    "1632358438248778",
-    "1632339474917341"
+    "1633522368132385",
+    "1633381064813182",
+    "1632966968187925"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-13_目前地球上最賺錢的公司三星海力士直接測年線韓國人若連這都守不住後面還玩個雕.md",
-    "data/IEObserve 國際經濟觀察/2026-10-13_顫抖吧韓國人又開盤了.md",
-    "data/IEObserve 國際經濟觀察/2026-10-12_這就是所謂的現實扭曲力場.md"
+    "data/IEObserve 國際經濟觀察/2026-10-14_Lex陪仁勳君遊台灣的片剪了大半年終於剪出來結果真的變成食物巡禮.md",
+    "data/IEObserve 國際經濟觀察/2026-10-14_老馬開幹韓國人記憶體長期協議賣那麼貴.md",
+    "data/IEObserve 國際經濟觀察/2026-10-13_Meta現在有點獨強阿祖和亞歷山大王有越來越飄的感覺但他們確實冒了很大的風險在前進最近的專訪也透露出Meta到底經歷了怎樣的AI團隊改組.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",
