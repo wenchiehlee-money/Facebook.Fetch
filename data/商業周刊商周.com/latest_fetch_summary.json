@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-10-14T06:03:05.887162+00:00",
+  "fetched_at_utc": "2026-10-15T05:49:29.445972+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1539398784888999",
-    "1539328488229362",
-    "1539302878231923"
+    "1540470668115144",
+    "1540388454790032",
+    "1539571438205067"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-10-14_南亞科淨利暴增股價為何跳水破解長鑫恐慌2028年才是關鍵戰場.md",
-    "data/商業周刊商周.com/2026-10-14_日本高級超市成城石井來台了第一站選在台北車站.md",
-    "data/商業周刊商周.com/2026-10-14_人為什麼想回家這是文心建設總經理葉曉甄規劃案子時不停問自己的問題.md"
+    "data/商業周刊商周.com/2026-10-15_金融海嘯賠掉一半身家他領悟大跌時真正該做的是這3件事.md",
+    "data/商業周刊商周.com/2026-10-15_AI時代最夯職缺一年暴增8倍Amazon主管這種人像獨角獸一樣難找.md",
+    "data/商業周刊商周.com/2026-10-15_臺灣已卡位全球舞台下一步如何把關鍵位置變成獲利.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

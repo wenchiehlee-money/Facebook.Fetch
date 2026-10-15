@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-10-14T06:01:54.903808+00:00",
+  "fetched_at_utc": "2026-10-15T05:48:38.631856+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1531113245488737"
+    "1532083795391682"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-10-13_Vanguard股息增長ETF英文全名-Vanguard-Dividend-Appreciation-ETF美股代號VIG於2006年四月21日成立.md"
+    "data/綠角財經筆記/2026-10-15_本文整理分析目前台灣規模前十大的股票ETF並與去年2025的狀況進行比較.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

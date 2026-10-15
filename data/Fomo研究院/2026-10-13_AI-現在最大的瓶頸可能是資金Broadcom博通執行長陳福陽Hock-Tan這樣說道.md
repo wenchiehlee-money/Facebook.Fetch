@@ -4,22 +4,22 @@ title: "「AI 現在最大的瓶頸，可能是資金。」Broadcom（博通）�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02LaSDxPUaS63sQyNXrQmV1C8xSfrxaeAY37auj7cut6jMB5wErGum49DGMfM8FhUFl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0GYqWUaH1mBEe8Sifo3ziqX8msTEZRHk5iCPWptzHs2CprZTJtp2ivqaEhX6bHhy2l&id=61573146584049"
 creation_time_utc: "2026-10-13T11:00:15+00:00"
-fetched_at_utc: "2026-10-14T06:02:08.563218+00:00"
+fetched_at_utc: "2026-10-15T05:48:47.534915+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/844977955_122201137316771552_8085865431611779255_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cmw6fITZ7CcQ7kNvwESGYSA&_nc_oc=AdqwAb2gPCsGXpI4D8-NWUSQGXwDWOZPQGRrUM2Di_k8PKZRLqKfNxqGOHaBkNlkQnc&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=0ZbTAf_BQ27mNTDJA601vA&_nc_ss=7e120&oh=00_AQP8bjDtVc1iO26hA17thcZ4AdKjyKKkYqOF4G7PfNkGhA&oe=6AD504BD"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/844977955_122201137316771552_8085865431611779255_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cmw6fITZ7CcQ7kNvwFgFP2u&_nc_oc=Adq_Z4NR-I-ot5LlZfwTqGIcrKu1j87TzFsoehhOlzCdH9Mym9ZKVL2sR5MoZE1Au24&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=viv43A8b7C8ckGKhc2s0bg&_nc_ss=7e120&oh=00_AQMqX_gCxsbVxpTouEnSEJYNMDq2MPxkiAvEh5utJDaQDg&oe=6AD6563D"
 feedback_id: "ZmVlZGJhY2s6MTIyMjAxMTM3NDAwNzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 「AI 現在最大的瓶頸，可能是資金。」Broadcom（博通）執行長陳福陽（Hock Tan）這樣說道。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02LaSDxPUaS63sQyNXrQmV1C8xSfrxaeAY37auj7cut6jMB5wErGum49DGMfM8FhUFl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0GYqWUaH1mBEe8Sifo3ziqX8msTEZRHk5iCPWptzHs2CprZTJtp2ivqaEhX6bHhy2l&id=61573146584049
 
-![「AI 現在最大的瓶頸，可能是資金。」Broadcom（博通）執行長陳福陽（Hock Tan）這樣說道。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/844977955_122201137316771552_8085865431611779255_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cmw6fITZ7CcQ7kNvwESGYSA&_nc_oc=AdqwAb2gPCsGXpI4D8-NWUSQGXwDWOZPQGRrUM2Di_k8PKZRLqKfNxqGOHaBkNlkQnc&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=0ZbTAf_BQ27mNTDJA601vA&_nc_ss=7e120&oh=00_AQP8bjDtVc1iO26hA17thcZ4AdKjyKKkYqOF4G7PfNkGhA&oe=6AD504BD)
+![「AI 現在最大的瓶頸，可能是資金。」Broadcom（博通）執行長陳福陽（Hock Tan）這樣說道。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/844977955_122201137316771552_8085865431611779255_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cmw6fITZ7CcQ7kNvwFgFP2u&_nc_oc=Adq_Z4NR-I-ot5LlZfwTqGIcrKu1j87TzFsoehhOlzCdH9Mym9ZKVL2sR5MoZE1Au24&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=viv43A8b7C8ckGKhc2s0bg&_nc_ss=7e120&oh=00_AQMqX_gCxsbVxpTouEnSEJYNMDq2MPxkiAvEh5utJDaQDg&oe=6AD6563D)
 「AI 現在最大的瓶頸，可能是資金。」Broadcom（博通）執行長陳福陽（Hock Tan）這樣說道。
 ​
 昨天，新加坡星展銀行（DBS）辦了一場大型論壇。台上坐著陳福陽，主持人問了一個非常銳利、甚至有點砸場子的問題：

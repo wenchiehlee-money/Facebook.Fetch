@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-10-14T06:02:08.563218+00:00",
+  "fetched_at_utc": "2026-10-15T05:48:47.534915+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122201137400771552"
+    "122201322608771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-10-13_AI-現在最大的瓶頸可能是資金Broadcom博通執行長陳福陽Hock-Tan這樣說道.md"
+    "data/Fomo研究院/2026-10-15_在ASML的財報會議上分析師問了一個很合理的問題既然設備這麼缺貨客戶也願意付錢ASML-未來能不能每年都跟客戶重新談漲價.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

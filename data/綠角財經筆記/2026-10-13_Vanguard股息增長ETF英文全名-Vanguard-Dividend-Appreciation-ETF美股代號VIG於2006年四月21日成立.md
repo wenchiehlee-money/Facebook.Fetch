@@ -4,22 +4,22 @@ title: "Vanguard股息增長ETF，英文全名 Vanguard Dividend Appreciation ET
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02qTcLELzgY345CWxtNDFnpbLKG96mpyjBcfspbqp1EicRuodwwbq6Vw7ad4BaeuD9l"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0mS1ckXo7rzJeET7Ds9WrJ5xDGqyUJd5EPjPWpv9tAi5m9ofdTH9C3YKJbEr7JT9Dl"
 creation_time_utc: "2026-10-13T23:38:04+00:00"
-fetched_at_utc: "2026-10-14T06:01:54.903808+00:00"
+fetched_at_utc: "2026-10-15T05:48:38.631856+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/846159386_1530763018857093_3942308545573212574_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DDbijNaE-3sQ7kNvwEvq42d&_nc_oc=AdpXqK8YXHW5oce2QXTTHN4upEweyPXeJpgSerJcCaKZZicqOOk9VBWd9dUxOpoWd64&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=Kmfoj5tjenbA1rqq9r_R7Q&_nc_ss=7e120&oh=00_AQOc89n4FOqDwnAxSmv7bkLLJoNwJXX9iNRWu3cdYY99XA&oe=6AD4DCDD"
+image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/846159386_1530763018857093_3942308545573212574_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DDbijNaE-3sQ7kNvwGy0WFT&_nc_oc=AdokzM2H2AHd5RV1rr-rWnnXmUdYKEBq6lI3NI2KOwOKAk52IEfJaGOXfg5G2tu43d8&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=cGgiUMCZyGkFHddkzorQxQ&_nc_ss=7e120&oh=00_AQPdkBZA5GglckGfCRApJRVoC6Eill42P1gx_UJa4aWQBA&oe=6AD62E5D"
 feedback_id: "ZmVlZGJhY2s6MTUzMTExMzI0NTQ4ODczNw=="
 page_canonical_url: ""
 ---
 
 # Vanguard股息增長ETF，英文全名 Vanguard Dividend Appreciation ETF，美股代號VIG，於2006年四月21日成立。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02qTcLELzgY345CWxtNDFnpbLKG96mpyjBcfspbqp1EicRuodwwbq6Vw7ad4BaeuD9l
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0mS1ckXo7rzJeET7Ds9WrJ5xDGqyUJd5EPjPWpv9tAi5m9ofdTH9C3YKJbEr7JT9Dl
 
-![Vanguard股息增長ETF，英文全名 Vanguard Dividend Appreciation ETF，美股代號VIG，於2006年四月21日成立。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/846159386_1530763018857093_3942308545573212574_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DDbijNaE-3sQ7kNvwEvq42d&_nc_oc=AdpXqK8YXHW5oce2QXTTHN4upEweyPXeJpgSerJcCaKZZicqOOk9VBWd9dUxOpoWd64&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=Kmfoj5tjenbA1rqq9r_R7Q&_nc_ss=7e120&oh=00_AQOc89n4FOqDwnAxSmv7bkLLJoNwJXX9iNRWu3cdYY99XA&oe=6AD4DCDD)
+![Vanguard股息增長ETF，英文全名 Vanguard Dividend Appreciation ETF，美股代號VIG，於2006年四月21日成立。](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/846159386_1530763018857093_3942308545573212574_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DDbijNaE-3sQ7kNvwGy0WFT&_nc_oc=AdokzM2H2AHd5RV1rr-rWnnXmUdYKEBq6lI3NI2KOwOKAk52IEfJaGOXfg5G2tu43d8&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=cGgiUMCZyGkFHddkzorQxQ&_nc_ss=7e120&oh=00_AQPdkBZA5GglckGfCRApJRVoC6Eill42P1gx_UJa4aWQBA&oe=6AD62E5D)
 Vanguard股息增長ETF，英文全名 Vanguard Dividend Appreciation ETF，美股代號VIG，於2006年四月21日成立。
 
 VIG追蹤S&P US Dividend Growers Index。原本VIG追蹤的是NASDAQ US Dividend Achievers Select Index。在2021第三季換成目前的指數。

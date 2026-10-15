@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-10-14T06:02:57.045693+00:00",
+  "fetched_at_utc": "2026-10-15T05:49:22.766565+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,15 +9,13 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 2,
+  "checked_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1655758662574273",
-    "1655730572577082"
+    "1656894525794020"
   ],
   "new_markdown_files": [
-    "data/andrew.semis.techs/2026-10-14_是不是要等到雞犬都升天豬豬風口飛才去判斷週期近尾聲你們覺得呢.md",
-    "data/andrew.semis.techs/2026-10-13_8月初報告說-Nvidia-的Vera-Rubin-Ultra-可能因DRAM漲價及產能不足從16顆HBM堆疊部分降規到-12顆-HBM堆疊是無腦決定結果被部分.md"
+    "data/andrew.semis.techs/2026-10-15_CoreWeave-要是出事老馬的SpaceXSIOracle-Nebius-應該很高興但出事前教主肯定會出手相救too-big-to-fail-的概念而且教主.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
@@ -26,6 +24,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 1 篇貼文。"
   ]
 }

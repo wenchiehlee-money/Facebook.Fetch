@@ -1,10 +1,14 @@
 {
   "requested_url": "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL",
-  "fetched_at_utc": "2026-10-14T06:01:32.727868+00:00",
+  "fetched_at_utc": "2026-10-15T05:48:23.172626+00:00",
   "list_title": "股票",
   "total_items": 9,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "10227749011311002"
+  ],
+  "new_markdown_files": [
+    "data/我的珍藏-股票/2026-10-15_AI吸光了錢根據IMF預測過去三年全球累積新增的超額儲蓄將達1.95兆美元比金融海嘯前相同三年期間的1.5兆美元還高出約三分之一.md"
+  ],
   "posts_directory": "data/我的珍藏-股票"
 }

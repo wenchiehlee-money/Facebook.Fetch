@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-10-14T06:02:04.400307+00:00",
+  "fetched_at_utc": "2026-10-15T05:48:44.894927+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1540628701444395",
-    "1540566914783907",
-    "1539815014859097"
+    "1541632394677359",
+    "1541191471388118",
+    "1540961511411114"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-10-14_今天發布CPI數據剛好對應歷史平均的Q4低點.md",
-    "data/美股探路客/2026-10-14_今天PressPlay網站連線出問題訂閱網友稍安勿躁不過問題頗耐人尋味.md",
-    "data/美股探路客/2026-10-13_明天1015下午1430在群益金鼎證券市府分公司-美股投資契機-將分享Q4行情看法及半導體光通訊軟體公司成長性估值歡迎到留言區報名參加.md"
+    "data/美股探路客/2026-10-15_Anthropic-業績公布年化營收成長似乎過了拋物線增長階段開始放緩看來短期幫不了AI供應鏈的股價.md",
+    "data/美股探路客/2026-10-14_CoreWeave馬斯克-Yikes高官繼續賣股票.md",
+    "data/美股探路客/2026-10-14_9-月-CPI-高於預期.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

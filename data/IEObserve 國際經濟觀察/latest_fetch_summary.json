@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-14T06:02:27.483678+00:00",
+  "fetched_at_utc": "2026-10-15T05:49:01.632344+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1633522368132385",
-    "1633381064813182",
-    "1632966968187925"
+    "1634373004713988",
+    "1634310514720237",
+    "1634133694737919"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-14_Lex陪仁勳君遊台灣的片剪了大半年終於剪出來結果真的變成食物巡禮.md",
-    "data/IEObserve 國際經濟觀察/2026-10-14_老馬開幹韓國人記憶體長期協議賣那麼貴.md",
-    "data/IEObserve 國際經濟觀察/2026-10-13_Meta現在有點獨強阿祖和亞歷山大王有越來越飄的感覺但他們確實冒了很大的風險在前進最近的專訪也透露出Meta到底經歷了怎樣的AI團隊改組.md"
+    "data/IEObserve 國際經濟觀察/2026-10-15_因為樹沒有長到天上去引發新一輪的恐慌.md",
+    "data/IEObserve 國際經濟觀察/2026-10-15_韓國人什麼線都破了這是什麼阿鼻地獄.md",
+    "data/IEObserve 國際經濟觀察/2026-10-14_Musk到底會不會在關鍵時刻關掉Starlink呢.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

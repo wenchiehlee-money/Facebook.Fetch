@@ -4,22 +4,22 @@ title: "AWS 執行長 Matt Garman 最近在接受 a16z 訪談時，丟出了幾�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid03qLixiureQdYPJbXLWds7XWTZfwa3jwE8LuCv4mpomLGz4un4a4eapFzs8nrMQwMl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid027CpuakGUg3dJzK4SQKZz6iex1kfzzhSZo4LavGvV8Moaqw11XGKG8buG5xAU5uYdl&id=61573146584049"
 creation_time_utc: "2026-10-13T03:30:09+00:00"
-fetched_at_utc: "2026-10-14T06:02:08.563218+00:00"
+fetched_at_utc: "2026-10-15T05:48:47.534915+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/847287522_122201095442771552_6199289418867155303_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mdEEOu-UCa4Q7kNvwHbKjX0&_nc_oc=AdoVOhR9cXKLoO9uexxQeNxUShV-YzPIrEqpKD1Fou3ESJK_u0v4OIzbffUQjWLR9Mo&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=0ZbTAf_BQ27mNTDJA601vA&_nc_ss=7e120&oh=00_AQPqCEI8e1foCbhOCVuU4SDncp3WBSiooUtBVqzKr4jpxg&oe=6AD4DB72"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/847287522_122201095442771552_6199289418867155303_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=aRqq12BxJL4Q7kNvwFc-yXd&_nc_oc=AdpMX3AhP59zuMeuuS9rFWflh2onoFrQNWyMWmncyNvesHT_Tc7GC9zuE-mGY3oWSaw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=viv43A8b7C8ckGKhc2s0bg&_nc_ss=7e120&oh=00_AQPxCVKGzwelWzQn5UmCmeIWIa-22rDC4uruvgFDkXZivg&oe=6AD62CF2"
 feedback_id: "ZmVlZGJhY2s6MTIyMjAxMDk1Njg4NzcxNTUy"
 page_canonical_url: ""
 ---
 
 # AWS 執行長 Matt Garman 最近在接受 a16z 訪談時，丟出了幾個數字。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid03qLixiureQdYPJbXLWds7XWTZfwa3jwE8LuCv4mpomLGz4un4a4eapFzs8nrMQwMl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid027CpuakGUg3dJzK4SQKZz6iex1kfzzhSZo4LavGvV8Moaqw11XGKG8buG5xAU5uYdl&id=61573146584049
 
-![AWS 執行長 Matt Garman 最近在接受 a16z 訪談時，丟出了幾個數字。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/847287522_122201095442771552_6199289418867155303_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mdEEOu-UCa4Q7kNvwHbKjX0&_nc_oc=AdoVOhR9cXKLoO9uexxQeNxUShV-YzPIrEqpKD1Fou3ESJK_u0v4OIzbffUQjWLR9Mo&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=0ZbTAf_BQ27mNTDJA601vA&_nc_ss=7e120&oh=00_AQPqCEI8e1foCbhOCVuU4SDncp3WBSiooUtBVqzKr4jpxg&oe=6AD4DB72)
+![AWS 執行長 Matt Garman 最近在接受 a16z 訪談時，丟出了幾個數字。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/847287522_122201095442771552_6199289418867155303_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=aRqq12BxJL4Q7kNvwFc-yXd&_nc_oc=AdpMX3AhP59zuMeuuS9rFWflh2onoFrQNWyMWmncyNvesHT_Tc7GC9zuE-mGY3oWSaw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=viv43A8b7C8ckGKhc2s0bg&_nc_ss=7e120&oh=00_AQPxCVKGzwelWzQn5UmCmeIWIa-22rDC4uruvgFDkXZivg&oe=6AD62CF2)
 AWS 執行長 Matt Garman 最近在接受 a16z 訪談時，丟出了幾個數字。
 ​
 2026 年，AWS 預計投入 2000 億到 2200 億美元的資本支出。未來幾年，計劃採購 200 萬顆 NVIDIA GPU。
