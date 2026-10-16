@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-10-15T05:49:26.235616+00:00",
+  "fetched_at_utc": "2026-10-16T05:46:15.180762+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "1638420651661769",
-    "1638256868344814"
-  ],
-  "new_markdown_files": [
-    "data/LinsanityStock/2026-10-15_台股今天大跌心情倒也還算平靜反正只要是在市場待久了總是會碰到的反倒是下面這則新聞讓人看了一整個很火大進一步搜尋了相關新聞後才發現其實我們辛辛苦苦繳的稅居然還要幫.md",
-    "data/LinsanityStock/2026-10-15_能源價格高漲導致CPI高於預期亞股今日全線下跌.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",
   "notes": [

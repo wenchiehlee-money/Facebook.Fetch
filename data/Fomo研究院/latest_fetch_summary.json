@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-10-15T05:48:47.534915+00:00",
+  "fetched_at_utc": "2026-10-16T05:45:35.536720+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "122201322608771552"
+    "122201450174771552",
+    "122201385356771552",
+    "122201341106771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-10-15_在ASML的財報會議上分析師問了一個很合理的問題既然設備這麼缺貨客戶也願意付錢ASML-未來能不能每年都跟客戶重新談漲價.md"
+    "data/Fomo研究院/2026-10-16_這座工廠一定是由台積電來管.md",
+    "data/Fomo研究院/2026-10-15_去年市場最怕的事是-ASML-太依賴中國.md",
+    "data/Fomo研究院/2026-10-15_全球科技公司正在砸數千億美元蓋-AI-資料中心但背後借錢給他們的那些私人信貸基金真的知道自己承擔了多少風險嗎.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

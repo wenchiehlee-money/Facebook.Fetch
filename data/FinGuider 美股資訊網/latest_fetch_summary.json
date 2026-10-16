@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-15T05:48:35.602920+00:00",
+  "fetched_at_utc": "2026-10-16T05:45:20.853895+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1588873679949440",
-    "1588671583302983",
-    "1588189400017868"
+    "1589788896524585",
+    "1589701676533307",
+    "1588935109943297"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-15_彭博報導蘋果AAPL預計-12-月正式在中國推出-Apple-Intelligence作為-iOS-27.3-更新的一部分但公司對於在短期內推出-Siri-AI.md",
-    "data/FinGuider 美股資訊網/2026-10-14_Anthropic-週三舉辦了-IPO-前投資者日首次揭露-Q3-營收達-168-億美元季增-45並傳出調整後獲利及自由現金流已轉正.md",
-    "data/FinGuider 美股資訊網/2026-10-14_美國-9-月消費者物價指數CPI年增率升至-3.7高於市場預期的-3.6-及前值-3.4創今年-5-月以來新高月增率達-0.6符合預期高於前值-0.4.md"
+    "data/FinGuider 美股資訊網/2026-10-16_等了近-9-年特斯拉TSLA第二代-Roadster-登場.md",
+    "data/FinGuider 美股資訊網/2026-10-15_蘋果與-Meta-聯手挑戰-AI-市場.md",
+    "data/FinGuider 美股資訊網/2026-10-15_晶圓代工龍頭-台積電TSMQ3-營收報-467.2-億美元季增-16年增-41高於市場預期的-457-億EPS-年增-57.5-至-4.6-美元擊敗分析師預期的.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

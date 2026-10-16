@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-10-15T05:49:32.771538+00:00",
+  "fetched_at_utc": "2026-10-16T05:46:24.174362+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 3,
   "new_post_count": 2,
   "new_post_ids": [
-    "1522052846611802",
-    "1521251923358561"
+    "1522299309920489",
+    "1522166043267149"
   ],
   "new_markdown_files": [
-    "data/TrendForce 集邦科技/2026-10-15_早鳥倒數1019-截止.md",
-    "data/TrendForce 集邦科技/2026-10-14_超大型-CSP-加碼-AI-基礎設施九大業者-2026-年資本支出翻倍2027-年再增六成上看-1.5-兆美元AI-server-出貨成長近四成持續加碼的資金流.md"
+    "data/TrendForce 集邦科技/2026-10-15_AR-眼鏡正從概念驗證走向消費市場2026-年出貨量預估倍增至-131-萬台隨著全彩-OLEDoS-轉攻單綠單綠-LEDoS-邁向雙色品牌將如何調整產品規劃Tr.md",
+    "data/TrendForce 集邦科技/2026-10-15_台積電第三季獲利連六季創高2-奈米首季放量占比即達-8.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",

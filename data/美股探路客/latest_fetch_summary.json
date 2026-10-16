@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-10-15T05:48:44.894927+00:00",
+  "fetched_at_utc": "2026-10-16T05:45:32.170216+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1541632394677359",
-    "1541191471388118",
-    "1540961511411114"
+    "1542544424586156",
+    "1542595027914429",
+    "1542533307920601"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-10-15_Anthropic-業績公布年化營收成長似乎過了拋物線增長階段開始放緩看來短期幫不了AI供應鏈的股價.md",
-    "data/美股探路客/2026-10-14_CoreWeave馬斯克-Yikes高官繼續賣股票.md",
-    "data/美股探路客/2026-10-14_9-月-CPI-高於預期.md"
+    "data/美股探路客/2026-10-16_不得不相信歷史平均值得參考1014可能真的是Q4低點雖然101更低一些但已經很準了.md",
+    "data/美股探路客/2026-10-16_Fundstrat的Mark-Newton看好台股認為台股已經見底.md",
+    "data/美股探路客/2026-10-16_據說這家對沖基金爆倉了根據不久前少年股神的Situational-Awareness爆倉經驗其Q2申報13F持倉列表中的公司股價這幾天表現很差的有機會迎來快速反.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

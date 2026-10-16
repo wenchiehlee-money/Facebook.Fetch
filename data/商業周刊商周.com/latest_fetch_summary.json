@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-10-15T05:49:29.445972+00:00",
+  "fetched_at_utc": "2026-10-16T05:46:18.109876+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1540470668115144",
-    "1540388454790032",
-    "1539571438205067"
+    "1541504981345046",
+    "1541421521353392",
+    "1539574264871451"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-10-15_金融海嘯賠掉一半身家他領悟大跌時真正該做的是這3件事.md",
-    "data/商業周刊商周.com/2026-10-15_AI時代最夯職缺一年暴增8倍Amazon主管這種人像獨角獸一樣難找.md",
-    "data/商業周刊商周.com/2026-10-15_臺灣已卡位全球舞台下一步如何把關鍵位置變成獲利.md"
+    "data/商業周刊商周.com/2026-10-16_每天人擠人的台北車站商場生意卻沒想像中好做.md",
+    "data/商業周刊商周.com/2026-10-16_心理學家高EQ的伴侶每天早上會問一個問題.md",
+    "data/商業周刊商周.com/2026-10-16_AI-很會給答案但你敢直接相信它嗎.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

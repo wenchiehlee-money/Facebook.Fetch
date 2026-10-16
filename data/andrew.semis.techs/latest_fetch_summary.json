@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-10-15T05:49:22.766565+00:00",
+  "fetched_at_utc": "2026-10-16T05:46:11.897361+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,13 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 1,
+  "checked_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1656894525794020"
+    "1657738455709627",
+    "1657692612380878"
   ],
   "new_markdown_files": [
-    "data/andrew.semis.techs/2026-10-15_CoreWeave-要是出事老馬的SpaceXSIOracle-Nebius-應該很高興但出事前教主肯定會出手相救too-big-to-fail-的概念而且教主.md"
+    "data/andrew.semis.techs/2026-10-16_感覺老馬玩火箭技術不夠要弄到Tesla-車上才甘心真的非常酷炫能倒著開能翻跟斗飛0-60mph只要0.81秒但要量產可能還要等好多年新功能實際應用場景不多法規還.md",
+    "data/andrew.semis.techs/2026-10-16_我很納悶神山投了近600-640億美元資本開支怎麼產能才增加10年底產能利用率到100明年即使投900-1000億美元產能頂多才增加15出貨增加20-25-今年.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
@@ -24,7 +26,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

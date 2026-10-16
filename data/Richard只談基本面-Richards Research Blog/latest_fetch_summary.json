@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-10-15T05:48:57.410638+00:00",
+  "fetched_at_utc": "2026-10-16T05:45:45.790904+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1638479547968745"
+    "1639203521229681"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-10-14_DRAM廠客戶忠誠度確實很重要但只會發生在你剛好是最低價的時候.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-10-15_demand-is-very-strong-demand-and-supply-gap變大但沒說多少數字.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",
