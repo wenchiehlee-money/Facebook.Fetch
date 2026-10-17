@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-10-16T05:45:13.747698+00:00",
+  "fetched_at_utc": "2026-10-17T05:30:32.295882+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,17 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
-  "new_post_ids": [
-    "1178713648053320",
-    "1109881071441694",
-    "1178279014763450"
-  ],
-  "new_markdown_files": [
-    "data/游庭皓的財經皓角/2026-10-16_這次很榮幸能夠邀請賴清德總統進行一場完整的產經政策專訪雖然近期金融市場波動劇烈但也正是在這樣的時刻我們更需要關心國家大事了解台灣未來的經濟發展方向.md",
-    "data/游庭皓的財經皓角/2026-10-16_20261016五賴清德總統談台灣經濟早晨財經速解讀.md",
-    "data/游庭皓的財經皓角/2026-10-15_美國經濟成長愈來愈依賴AI相關投資但其他產業的成長動能正在減弱2023年至2024年間美國實質GDP年增率一度超過3主要由非科技產業支撐但進入2025年後其他經.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",
   "notes": [

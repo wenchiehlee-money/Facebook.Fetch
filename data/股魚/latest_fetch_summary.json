@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-10-16T05:45:28.973090+00:00",
+  "fetched_at_utc": "2026-10-17T05:30:45.269511+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1575961794569904",
-    "1575631761269574",
-    "1575567531275997"
+    "1577474897751927"
   ],
   "new_markdown_files": [
-    "data/股魚/2026-10-15_回檔是買點不是賣點股價打折時機出現回頭看今天的恐慌是明天的後悔前提是你是位長期投資人短線的當我沒說過.md",
-    "data/股魚/2026-10-15_當初抽籤買到漢測的幸運兒應該都在上市第一天就賣掉了吧.md",
-    "data/股魚/2026-10-15_2330台積電財報數據好得嚇人-營收年增50.9.md"
+    "data/股魚/2026-10-17_左手對存股族與兼職人員課徵健保補充保稅右手開放65歲以上稅率20以下的人免繳健保費健保老是喊沒錢快破產怎麼還一直大放送各位怎麼看呢.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/ForexStrategist",
   "final_url": "https://www.facebook.com/ForexStrategist",
-  "fetched_at_utc": "2026-10-16T05:45:38.980368+00:00",
+  "fetched_at_utc": "2026-10-17T05:30:55.009955+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1694391395379665",
-    "1694310808721057",
-    "1694246258727512"
+    "1695270058625132",
+    "1694958371989634",
+    "1694718775346927"
   ],
   "new_markdown_files": [
-    "data/李其展的外匯交易致勝兵法/2026-10-16_台股收盤上漲141點變了心的外資是否回來呢.md",
-    "data/李其展的外匯交易致勝兵法/2026-10-16_印尼股市暴跌超過10MSCI提出將印尼降級為獨立市場.md",
-    "data/李其展的外匯交易致勝兵法/2026-10-16_台幣續貶來到32.44留意資金退潮壓力是否轉弱.md"
+    "data/李其展的外匯交易致勝兵法/2026-10-17_美股漲金融跟消費費半卻跌至近一個月新低告訴你發生什麼事.md",
+    "data/李其展的外匯交易致勝兵法/2026-10-16_美股強弱分岐防禦型抗跌但AI硬體弱那斯達克跌至近一個月低點.md",
+    "data/李其展的外匯交易致勝兵法/2026-10-16_美國科技股開盤稍弱費半跳空下跌1.6.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/李其展的外匯交易致勝兵法",

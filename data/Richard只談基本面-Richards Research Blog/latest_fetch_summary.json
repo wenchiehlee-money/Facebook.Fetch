@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-10-16T05:45:45.790904+00:00",
+  "fetched_at_utc": "2026-10-17T05:31:01.614217+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1639203521229681"
+    "1640612941088739",
+    "1640350541114979"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-10-15_demand-is-very-strong-demand-and-supply-gap變大但沒說多少數字.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-10-16_馬斯克如果真要長程飛天車的話不可能沒有翅膀機翼的因為地球上有空氣流體力學可以提供汽車足夠的升力不用白不用但要機翼才行不然就垂直起降的直升機但也是靠反作用力空氣流.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-10-16_翻車佔車禍3卻佔車禍死亡30尤其是大巴和高底盤SUV如果馬斯克的飛天車不用來飛天六向噴嘴設計加入ADAS如防撞警示加重煞車ABS安全氣囊等偵測車子不論因過彎操作.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",

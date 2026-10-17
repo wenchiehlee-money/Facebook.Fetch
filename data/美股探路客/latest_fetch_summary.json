@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-10-16T05:45:32.170216+00:00",
+  "fetched_at_utc": "2026-10-17T05:30:47.899330+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1542544424586156",
-    "1542595027914429",
-    "1542533307920601"
+    "1543185894522009",
+    "1542980037875928",
+    "1542952541212011"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-10-16_不得不相信歷史平均值得參考1014可能真的是Q4低點雖然101更低一些但已經很準了.md",
-    "data/美股探路客/2026-10-16_Fundstrat的Mark-Newton看好台股認為台股已經見底.md",
-    "data/美股探路客/2026-10-16_據說這家對沖基金爆倉了根據不久前少年股神的Situational-Awareness爆倉經驗其Q2申報13F持倉列表中的公司股價這幾天表現很差的有機會迎來快速反.md"
+    "data/美股探路客/2026-10-16_彭博獨家報導取得最多訂單金額高達-1030-億美元的-Neocloud-業者-Nscale-問題重重引發-Neocloud-公司集體大跌AI-相關股票也都受牽連.md",
+    "data/美股探路客/2026-10-16_Bloomberg網頁置中的頭條新聞盤前QQQ還是受到AI硬體特別是看漲最擁擠的半導體族群拖累.md",
+    "data/美股探路客/2026-10-16_昨天賣了幾張漲多的Apple剛剛下定iPhone-Duo官網等了快8分鐘才能進入訂購畫面要128158週才能到貨看來需求不錯.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/dextermchang",
   "final_url": "https://www.facebook.com/dextermchang",
-  "fetched_at_utc": "2026-10-16T05:45:10.581562+00:00",
+  "fetched_at_utc": "2026-10-17T05:30:29.741475+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "122143971105207208"
-  ],
-  "new_markdown_files": [
-    "data/大會計師 張明輝/2026-10-16_產品型IC設計-公司存貨高可能有危險.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/大會計師 張明輝",
   "notes": [

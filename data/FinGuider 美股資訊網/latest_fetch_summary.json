@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-16T05:45:20.853895+00:00",
+  "fetched_at_utc": "2026-10-17T05:30:38.244198+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1589788896524585",
-    "1589701676533307",
-    "1588935109943297"
+    "1590968259739982",
+    "1590845373085604",
+    "1589973509839457"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-16_等了近-9-年特斯拉TSLA第二代-Roadster-登場.md",
-    "data/FinGuider 美股資訊網/2026-10-15_蘋果與-Meta-聯手挑戰-AI-市場.md",
-    "data/FinGuider 美股資訊網/2026-10-15_晶圓代工龍頭-台積電TSMQ3-營收報-467.2-億美元季增-16年增-41高於市場預期的-457-億EPS-年增-57.5-至-4.6-美元擊敗分析師預期的.md"
+    "data/FinGuider 美股資訊網/2026-10-17_Roundhill-Investments-在月初推出一了檔特殊的-ETF讓投資人押注標普-500-指數在-2030-年初突破-10000-點.md",
+    "data/FinGuider 美股資訊網/2026-10-17_CoreWeaveCRWV單週股價重挫-25週五單日下跌近-12更受關注的是債券市場公司-2031-年到期債券殖利率本週一度接近-16高於今年-4-月發行時的.md",
+    "data/FinGuider 美股資訊網/2026-10-16_肯德基明年改賣可口可樂結束近-40-年百事供應.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

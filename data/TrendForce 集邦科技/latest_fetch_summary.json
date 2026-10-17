@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-10-16T05:46:24.174362+00:00",
+  "fetched_at_utc": "2026-10-17T05:31:36.329336+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "1522299309920489",
-    "1522166043267149"
-  ],
-  "new_markdown_files": [
-    "data/TrendForce 集邦科技/2026-10-15_AR-眼鏡正從概念驗證走向消費市場2026-年出貨量預估倍增至-131-萬台隨著全彩-OLEDoS-轉攻單綠單綠-LEDoS-邁向雙色品牌將如何調整產品規劃Tr.md",
-    "data/TrendForce 集邦科技/2026-10-15_台積電第三季獲利連六季創高2-奈米首季放量占比即達-8.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",
   "notes": [

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-16T05:45:49.280606+00:00",
+  "fetched_at_utc": "2026-10-17T05:31:04.996459+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1635350327949589",
-    "1635246841293271",
-    "1634738254677463"
+    "1636289081189047",
+    "1636150037869618",
+    "1635477161270239"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-16_消費電子慘烈只有高階手機消費者相對比較能吞得下去記憶體的恐怖漲幅.md",
-    "data/IEObserve 國際經濟觀察/2026-10-16_Tesla-Roadster特技表演拍電影啊.md",
-    "data/IEObserve 國際經濟觀察/2026-10-15_老馬立的flagSpaceX十年內100兆.md"
+    "data/IEObserve 國際經濟觀察/2026-10-17_一堆人第一時間買都要等到一月底拿貨以這種出貨速度感覺iPhone-Duo-產品線不會每年更新不然等買到就出下一代了.md",
+    "data/IEObserve 國際經濟觀察/2026-10-16_本週感覺有機構爆倉或是大幅在對AI相關公司去槓桿過去半導體和軟體配對交易一個漲另一個跌但這禮拜Coreweave的債務違約恐慌拋售潮打破這個交易軟體股尤其是之前.md",
+    "data/IEObserve 國際經濟觀察/2026-10-16_NVIDIA-執行長黃仁勳再度登上-BG2-Podcast與-Brad-GerstnerClark-Tang-對談從-AI-運算需求的邏輯談到-agentPhy.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",
