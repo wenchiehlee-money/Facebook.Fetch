@@ -4,12 +4,12 @@ title: "📌Roundhill Investments 在月初推出一了檔特殊的 ETF，讓投
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid02TSQ855vpcRNzQdKs4sDo7hCqE3xLgoqn5E4xnPe4Hk4n1jfXBeAvBjXHdTD4ro7Kl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0Ptkw9vJTmA2DmejThbWBKNP3yD4qM9URXb7VVfMNAKh6UaSyaUcuGmimQUA8bdbMl"
 creation_time_utc: "2026-10-17T05:20:04+00:00"
-fetched_at_utc: "2026-10-17T05:30:38.244198+00:00"
+fetched_at_utc: "2026-10-18T05:44:39.842324+00:00"
 source: "public_graphql"
 attachment_type: ""
-attachment_url: "https://www.facebook.com/FinGuider/posts/pfbid02TSQ855vpcRNzQdKs4sDo7hCqE3xLgoqn5E4xnPe4Hk4n1jfXBeAvBjXHdTD4ro7Kl"
+attachment_url: "https://www.facebook.com/FinGuider/posts/pfbid0Ptkw9vJTmA2DmejThbWBKNP3yD4qM9URXb7VVfMNAKh6UaSyaUcuGmimQUA8bdbMl"
 image_url: ""
 feedback_id: "ZmVlZGJhY2s6MTU5MDk2ODI1OTczOTk4Mg=="
 page_canonical_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # 📌Roundhill Investments 在月初推出一了檔特殊的 ETF，讓投資人押注標普 500 指數在 2030 年初突破 10,000 點。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid02TSQ855vpcRNzQdKs4sDo7hCqE3xLgoqn5E4xnPe4Hk4n1jfXBeAvBjXHdTD4ro7Kl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0Ptkw9vJTmA2DmejThbWBKNP3yD4qM9URXb7VVfMNAKh6UaSyaUcuGmimQUA8bdbMl
 📌Roundhill Investments 在月初推出一了檔特殊的 ETF，讓投資人押注標普 500 指數在 2030 年初突破 10,000 點。
 ​
 這檔 ETF 全名為 Roundhill S&P 500 Target 10,000 2030 ETF，交易代號 #XX。XX 將資金投入追蹤標普 500 指數的 ETF 所衍生的長天期買權，主要是使用客製化的 FLEX Options。

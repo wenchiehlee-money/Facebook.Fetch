@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-10-17T05:30:41.234927+00:00",
+  "fetched_at_utc": "2026-10-18T05:44:43.330118+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1533314931935235"
+    "1534860161780712"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-10-16_這張圖是美國晨星的股票九宮格.md"
+    "data/綠角財經筆記/2026-10-17_投資最重要的事作者花了一整章討論他對宏觀經濟預測與猜測短期市場走勢的看法.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

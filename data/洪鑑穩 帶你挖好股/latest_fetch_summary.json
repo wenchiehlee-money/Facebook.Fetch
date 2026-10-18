@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/iqvalue",
   "final_url": "https://www.facebook.com/iqvalue",
-  "fetched_at_utc": "2026-10-17T05:31:23.888951+00:00",
+  "fetched_at_utc": "2026-10-18T05:45:24.964088+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,15 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 2,
+  "new_post_ids": [
+    "1569499551858489",
+    "1569474498527661"
+  ],
+  "new_markdown_files": [
+    "data/洪鑑穩 帶你挖好股/2026-10-17_半導體跌這麼慘但還有人在瘋狂買進.md",
+    "data/洪鑑穩 帶你挖好股/2026-10-17_信用市場已先判定-AI-泡沫引爆.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/洪鑑穩 帶你挖好股",
   "notes": [

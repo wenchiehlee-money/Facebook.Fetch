@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-10-17T05:31:26.763087+00:00",
+  "fetched_at_utc": "2026-10-18T05:45:28.187505+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "1658566798960126",
-    "1658512505632222"
-  ],
-  "new_markdown_files": [
-    "data/andrew.semis.techs/2026-10-16_費半指數還差6.2就要領先跌破-7月份的最低點10445.4如果下週跌破真的就很難看很多半導體公司還在高檔整理那到底費半指數哪些成分股率先先破底了我好奇的查了一.md",
-    "data/andrew.semis.techs/2026-10-16_開高走低上下差了近9投資人興奮完之後重新回歸財報現實世界.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
   "notes": [

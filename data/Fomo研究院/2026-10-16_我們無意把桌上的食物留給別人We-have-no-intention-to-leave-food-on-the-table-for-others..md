@@ -4,22 +4,22 @@ title: "「我們無意把桌上的食物留給別人。」（We have no intenti
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0Tg3xPeAp6BjbJ5AQ419YYHDCQJ1jR9SQDtFsonpwzsgS6DZ2sugsZXtkvs8fXKbjl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02XXVfaK6dwYwGWkRCALRuXjfQRPaEr1GQcVAJnFmgN1BeK5H5Amwnhc1Qiyx2uuQVl&id=61573146584049"
 creation_time_utc: "2026-10-16T10:20:45+00:00"
-fetched_at_utc: "2026-10-17T05:30:51.174127+00:00"
+fetched_at_utc: "2026-10-18T05:44:53.648606+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/854338728_122201486384771552_4685508954468829092_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5viJQyuQ8BEQ7kNvwGpCvoc&_nc_oc=AdqOXZ32ZoeY3VwkxeAgQKilYtR_bp60lfpRPoZ3TdHLGrrxVrUelclRBekJhKzHASs&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=p_LDP8_GarUAowlGXzDuUg&_nc_ss=7e120&oh=00_AQNDnh45opHsuGllVtYGJ9PoYcjjCWLhXTa7ho-7yIdN2g&oe=6AD8F66D"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/854338728_122201486384771552_4685508954468829092_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nR2TswQIB2kQ7kNvwFFldcn&_nc_oc=Adr2OSuSwW5Ixyj3lT2dxptF8YgDKcY6UoWQulbvvR4yjtzf_prq1JhkDXhHhiczz-U&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cos6kHN3rkuGwezja-7uvw&_nc_ss=7e120&oh=00_AQOvqr_kpMDmO4jgTsrr1pyxKi9n6EaBgkOXw8rT8y0WwQ&oe=6ADA47ED"
 feedback_id: "ZmVlZGJhY2s6MTIyMjAxNDg2NTU4NzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 「我們無意把桌上的食物留給別人。」（We have no intention to leave food on the table for others.）
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0Tg3xPeAp6BjbJ5AQ419YYHDCQJ1jR9SQDtFsonpwzsgS6DZ2sugsZXtkvs8fXKbjl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02XXVfaK6dwYwGWkRCALRuXjfQRPaEr1GQcVAJnFmgN1BeK5H5Amwnhc1Qiyx2uuQVl&id=61573146584049
 
-![「我們無意把桌上的食物留給別人。」（We have no intention to leave food on the table for others.）](https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/854338728_122201486384771552_4685508954468829092_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5viJQyuQ8BEQ7kNvwGpCvoc&_nc_oc=AdqOXZ32ZoeY3VwkxeAgQKilYtR_bp60lfpRPoZ3TdHLGrrxVrUelclRBekJhKzHASs&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=p_LDP8_GarUAowlGXzDuUg&_nc_ss=7e120&oh=00_AQNDnh45opHsuGllVtYGJ9PoYcjjCWLhXTa7ho-7yIdN2g&oe=6AD8F66D)
+![「我們無意把桌上的食物留給別人。」（We have no intention to leave food on the table for others.）](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/854338728_122201486384771552_4685508954468829092_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nR2TswQIB2kQ7kNvwFFldcn&_nc_oc=Adr2OSuSwW5Ixyj3lT2dxptF8YgDKcY6UoWQulbvvR4yjtzf_prq1JhkDXhHhiczz-U&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cos6kHN3rkuGwezja-7uvw&_nc_ss=7e120&oh=00_AQOvqr_kpMDmO4jgTsrr1pyxKi9n6EaBgkOXw8rT8y0WwQ&oe=6ADA47ED)
 「我們無意把桌上的食物留給別人。」（We have no intention to leave food on the table for others.）
 ​
 台積電總裁魏哲家在法說會上丟出這句話的時候，語氣平靜，但殺氣騰騰。

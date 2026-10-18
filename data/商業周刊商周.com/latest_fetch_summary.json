@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-10-17T05:31:33.655422+00:00",
+  "fetched_at_utc": "2026-10-18T05:45:35.072832+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1542514851244059",
-    "1540586691436875",
-    "1541452484683629"
+    "1543476667814544",
+    "1542795804549297",
+    "1542714527890758"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-10-17_睡眠不足有救了研究運動20分鐘大腦運作效率直逼熟睡90分鐘.md",
-    "data/商業周刊商周.com/2026-10-16_今年-11-月-22-日德國萊比錫傳奇製琴名廠-Blthner博蘭斯勒第五代執行長德國聯邦鋼琴協會BVK理事長-Christian-Blthner-Haessl.md",
-    "data/商業周刊商周.com/2026-10-16_把更多功能放進腕錶只是高複雜製錶的一道考題更深的功力在於如何兼顧能源結構尺寸與美學.md"
+    "data/商業周刊商周.com/2026-10-18_晶片之外還能買什麼科技富豪開始搶AI免疫財.md",
+    "data/商業周刊商周.com/2026-10-17_說好要長期投資股價一跌卻開始懷疑自己.md",
+    "data/商業周刊商周.com/2026-10-17_繞過川湖專利地雷陣南俊怎拚上AI滑軌二哥.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

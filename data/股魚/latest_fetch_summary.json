@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-10-17T05:30:45.269511+00:00",
+  "fetched_at_utc": "2026-10-18T05:44:47.117967+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1577474897751927"
-  ],
-  "new_markdown_files": [
-    "data/股魚/2026-10-17_左手對存股族與兼職人員課徵健保補充保稅右手開放65歲以上稅率20以下的人免繳健保費健保老是喊沒錢快破產怎麼還一直大放送各位怎麼看呢.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",
   "notes": [

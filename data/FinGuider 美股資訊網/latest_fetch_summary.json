@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-17T05:30:38.244198+00:00",
+  "fetched_at_utc": "2026-10-18T05:44:39.842324+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1590968259739982",
-    "1590845373085604",
-    "1589973509839457"
+    "1591405946362880"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-17_Roundhill-Investments-在月初推出一了檔特殊的-ETF讓投資人押注標普-500-指數在-2030-年初突破-10000-點.md",
-    "data/FinGuider 美股資訊網/2026-10-17_CoreWeaveCRWV單週股價重挫-25週五單日下跌近-12更受關注的是債券市場公司-2031-年到期債券殖利率本週一度接近-16高於今年-4-月發行時的.md",
-    "data/FinGuider 美股資訊網/2026-10-16_肯德基明年改賣可口可樂結束近-40-年百事供應.md"
+    "data/FinGuider 美股資訊網/2026-10-18_下週科技七巨頭中的-MetaMETA特斯拉TSLA將率先發布財報在市場對-AI-融資風險的擔憂加劇下獲利能力及資本支出回報將成為焦點Meta-近期因-AI-代理.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

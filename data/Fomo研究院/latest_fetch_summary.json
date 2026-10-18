@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-10-17T05:30:51.174127+00:00",
+  "fetched_at_utc": "2026-10-18T05:44:53.648606+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122201486558771552"
+    "122201581466771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-10-16_我們無意把桌上的食物留給別人We-have-no-intention-to-leave-food-on-the-table-for-others..md"
+    "data/Fomo研究院/2026-10-17_一輛能飛的車到底有什麼用.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

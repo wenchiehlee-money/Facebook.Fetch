@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-17T05:31:04.996459+00:00",
+  "fetched_at_utc": "2026-10-18T05:45:06.399190+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1636289081189047",
-    "1636150037869618",
-    "1635477161270239"
+    "1637157301102225",
+    "1636647584486530",
+    "1636407977843824"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-17_一堆人第一時間買都要等到一月底拿貨以這種出貨速度感覺iPhone-Duo-產品線不會每年更新不然等買到就出下一代了.md",
-    "data/IEObserve 國際經濟觀察/2026-10-16_本週感覺有機構爆倉或是大幅在對AI相關公司去槓桿過去半導體和軟體配對交易一個漲另一個跌但這禮拜Coreweave的債務違約恐慌拋售潮打破這個交易軟體股尤其是之前.md",
-    "data/IEObserve 國際經濟觀察/2026-10-16_NVIDIA-執行長黃仁勳再度登上-BG2-Podcast與-Brad-GerstnerClark-Tang-對談從-AI-運算需求的邏輯談到-agentPhy.md"
+    "data/IEObserve 國際經濟觀察/2026-10-18_扛得過二戰扛不過失控的抗議歐美的這種大規模抗議很常演變成暴徒打砸搶.md",
+    "data/IEObserve 國際經濟觀察/2026-10-17_Amazon最近感覺要擋的東西越來越多之前擋了Meta-Muse和Grok-bot現在是Cloudflare有種威脅四面八方而來.md",
+    "data/IEObserve 國際經濟觀察/2026-10-17_是說XX比GTA6還要早出這個梗在今年11月後就不能用了.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

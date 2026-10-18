@@ -4,9 +4,9 @@ title: "demand is very strong, demand and supply gap變大，但沒說多少數�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0may51cxqfpLT1nsF9g5GsHTTNhkJcV1wouNhUekq66sLymDJdCb9FG9eTzzW1Mbal&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02qSQnCHtfXDVHXggmQ6EPWECuJtCfQkwjqMhthbppepNHt6wQpKY3BLS5ZHPiZUv2l&id=100054201473657"
 creation_time_utc: "2026-10-15T06:34:55+00:00"
-fetched_at_utc: "2026-10-17T05:31:01.614217+00:00"
+fetched_at_utc: "2026-10-18T05:45:03.123144+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
@@ -17,7 +17,7 @@ page_canonical_url: ""
 
 # demand is very strong, demand and supply gap變大，但沒說多少數字
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0may51cxqfpLT1nsF9g5GsHTTNhkJcV1wouNhUekq66sLymDJdCb9FG9eTzzW1Mbal&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02qSQnCHtfXDVHXggmQ6EPWECuJtCfQkwjqMhthbppepNHt6wQpKY3BLS5ZHPiZUv2l&id=100054201473657
 demand is very strong, demand and supply gap變大，但沒說多少數字
 
 參考前幾天SMI慧榮CEO的說法，台積和三星先進製程需求和供應比例是2:1，大廠以外的很多客戶拿不到貨，2:1照這樣算Gap應該是50%還是100%? 而且台積Gap應該比三星Gap大

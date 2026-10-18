@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-10-17T05:30:47.899330+00:00",
+  "fetched_at_utc": "2026-10-18T05:44:50.561012+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1543185894522009",
-    "1542980037875928",
-    "1542952541212011"
+    "1543706321136633"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-10-16_彭博獨家報導取得最多訂單金額高達-1030-億美元的-Neocloud-業者-Nscale-問題重重引發-Neocloud-公司集體大跌AI-相關股票也都受牽連.md",
-    "data/美股探路客/2026-10-16_Bloomberg網頁置中的頭條新聞盤前QQQ還是受到AI硬體特別是看漲最擁擠的半導體族群拖累.md",
-    "data/美股探路客/2026-10-16_昨天賣了幾張漲多的Apple剛剛下定iPhone-Duo官網等了快8分鐘才能進入訂購畫面要128158週才能到貨看來需求不錯.md"
+    "data/美股探路客/2026-10-17_VIX昨天飆升盤中突破20但收在有懸念的19.99VIX-10月期貨收在19.91VIX的期貨期限結構曲線Futures-Term-Structure出現倒掛曲.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",
