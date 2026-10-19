@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-10-18T05:45:12.404061+00:00",
+  "fetched_at_utc": "2026-10-19T06:01:34.151918+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,17 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 2,
+  "new_post_count": 2,
   "new_post_ids": [
-    "122207063936486922",
-    "122207051528486922",
-    "122207040752486922"
+    "122207162552486922",
+    "122207155238486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-10-18_保持樂觀.md",
-    "data/美股老司機 3.0/2026-10-18_大神巴菲特投資生涯中最關鍵的幾次進化.md",
-    "data/美股老司機 3.0/2026-10-17_週六下午打鬧.md"
+    "data/美股老司機 3.0/2026-10-19_Elon-Musk-分享這諷刺短片主要在惡搞當前科技圈各大-AI-公司瘋狂搶算力.md",
+    "data/美股老司機 3.0/2026-10-19_Pre-Markets.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",
@@ -28,6 +26,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 1 篇貼文。"
   ]
 }

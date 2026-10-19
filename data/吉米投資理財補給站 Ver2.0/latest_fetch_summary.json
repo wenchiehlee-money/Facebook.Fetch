@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-10-18T05:45:09.398901+00:00",
+  "fetched_at_utc": "2026-10-19T06:01:30.822300+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,17 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 2,
+  "new_post_count": 2,
   "new_post_ids": [
-    "122233321424502956",
-    "122233320272502956",
-    "122233316816502956"
+    "122233545248502956",
+    "122233525910502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-10-17_美股六大銀行-Q3-財報出爐誰表現最好.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-10-17_花旗對台積電的看法確實相當積極-目標價-4000核心不只是-AI-需求強而是把未來幾年的獲利成長也大幅往上看.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-10-17_中國記憶體追趕加速長鑫-DRAM-產能兩年預估成長-77韓系霸主地位會動搖嗎.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-10-19_為什麼有人遇到股市大跌依然不慌有人跌幾天就心態崩了.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-10-19_國G的夥伴們又G掉惹.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",
@@ -28,6 +26,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 1 篇貼文。"
   ]
 }

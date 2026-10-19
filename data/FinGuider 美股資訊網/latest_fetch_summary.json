@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-18T05:44:39.842324+00:00",
+  "fetched_at_utc": "2026-10-19T06:00:59.884978+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1591405946362880"
+    "1592925266210948",
+    "1592838879552920",
+    "1592303536273121"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-18_下週科技七巨頭中的-MetaMETA特斯拉TSLA將率先發布財報在市場對-AI-融資風險的擔憂加劇下獲利能力及資本支出回報將成為焦點Meta-近期因-AI-代理.md"
+    "data/FinGuider 美股資訊網/2026-10-19_輝達要求記憶體三巨頭用台積電做-HBM-底層晶片.md",
+    "data/FinGuider 美股資訊網/2026-10-19_根據-FactSet-預測2026Q3-七巨頭獲利預估年增-33.2其餘-493-家則為-27.7但展望-Q4分析師預估-493-家成長-30.6七巨頭則降至.md",
+    "data/FinGuider 美股資訊網/2026-10-18_SpaceX-估值攀升美國大學捐贈基金繳出近年最強成績.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

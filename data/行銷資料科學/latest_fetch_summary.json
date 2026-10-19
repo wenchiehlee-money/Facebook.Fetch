@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-10-18T05:44:36.919528+00:00",
+  "fetched_at_utc": "2026-10-19T06:00:56.810164+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,17 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1412801047630203",
+    "1412760364300938",
+    "1412074071036234"
+  ],
+  "new_markdown_files": [
+    "data/行銷資料科學/2026-10-19_AI-能給十個建議你怎麼知道該做哪一個.md",
+    "data/行銷資料科學/2026-10-19_從問-AI到叫-AI-去做工作方式正在改變.md",
+    "data/行銷資料科學/2026-10-18_免費Vibe-Coding--AI打造工業數據分析與規格比對-Agent-實戰班.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",
   "notes": [

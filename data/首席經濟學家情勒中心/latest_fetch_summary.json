@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61589343187385",
   "final_url": "https://www.facebook.com/profile.php?id=61589343187385",
-  "fetched_at_utc": "2026-10-18T05:45:18.743470+00:00",
+  "fetched_at_utc": "2026-10-19T06:01:40.764091+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122128375989311439"
+    "122128619667311439"
   ],
   "new_markdown_files": [
-    "data/首席經濟學家情勒中心/2026-10-17_這是泡菜國的線圖.md"
+    "data/首席經濟學家情勒中心/2026-10-19_在高盧國自顧不暇的時候就是要來做北約壓力測試.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/首席經濟學家情勒中心",

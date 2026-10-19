@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-10-18T05:45:35.072832+00:00",
+  "fetched_at_utc": "2026-10-19T06:01:56.762128+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1543476667814544",
-    "1542795804549297",
-    "1542714527890758"
+    "1544580444370833",
+    "1544496807712530",
+    "1544480991047445"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-10-18_晶片之外還能買什麼科技富豪開始搶AI免疫財.md",
-    "data/商業周刊商周.com/2026-10-17_說好要長期投資股價一跌卻開始懷疑自己.md",
-    "data/商業周刊商周.com/2026-10-17_繞過川湖專利地雷陣南俊怎拚上AI滑軌二哥.md"
+    "data/商業周刊商周.com/2026-10-19_百貨龍頭新光三越到了北車竟得從改廁所做起.md",
+    "data/商業周刊商周.com/2026-10-19_為什麼有些人說話總是我很擔心我很難過用詞可能透露你的情緒線索.md",
+    "data/商業周刊商周.com/2026-10-19_數位產業署--台灣數位安全發展協會.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

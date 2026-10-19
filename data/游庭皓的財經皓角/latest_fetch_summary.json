@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-10-18T05:44:33.334040+00:00",
+  "fetched_at_utc": "2026-10-19T06:00:53.002548+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1180046081253410",
-    "1180045964586755",
-    "1180042731253745"
+    "1663437455331747",
+    "1181096381148380",
+    "1181096254481726"
   ],
   "new_markdown_files": [
-    "data/游庭皓的財經皓角/2026-10-17_賴清德總統談美光勞資爭議.md",
-    "data/游庭皓的財經皓角/2026-10-17_賴清德總統談央行獨立.md",
-    "data/游庭皓的財經皓角/2026-10-17_賴清德總統談年輕人困境.md"
+    "data/游庭皓的財經皓角/2026-10-19_20261019一費半又入熊市買點到了嗎AI行情結束了還是Q4最大買點早晨財經速解讀.md",
+    "data/游庭皓的財經皓角/2026-10-18_賴清德總統談關稅談判.md",
+    "data/游庭皓的財經皓角/2026-10-18_賴清德總統談產業政策.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",

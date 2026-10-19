@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-18T05:45:06.399190+00:00",
+  "fetched_at_utc": "2026-10-19T06:01:27.971019+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1637157301102225",
-    "1636647584486530",
-    "1636407977843824"
+    "1638141951003760",
+    "1638126304338658",
+    "1638064337678188"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-18_扛得過二戰扛不過失控的抗議歐美的這種大規模抗議很常演變成暴徒打砸搶.md",
-    "data/IEObserve 國際經濟觀察/2026-10-17_Amazon最近感覺要擋的東西越來越多之前擋了Meta-Muse和Grok-bot現在是Cloudflare有種威脅四面八方而來.md",
-    "data/IEObserve 國際經濟觀察/2026-10-17_是說XX比GTA6還要早出這個梗在今年11月後就不能用了.md"
+    "data/IEObserve 國際經濟觀察/2026-10-19_Anthropic還沒IPO上市但是先講說會捐5股份給公益基金創辦人們將捐贈自己80的股權這個公益基金我們可以探索向傳統非營利組織捐贈大筆款項或直接向特定人群進.md",
+    "data/IEObserve 國際經濟觀察/2026-10-19_米蘭也開始大批暴徒趁亂打砸搶歐洲自由派執政的大城市正在第一線感受自己過去善意帶來的回報警察疲於奔命也不敢實施鐵腕措施暴徒甚至敢直接攻擊警車還要靠路邊一般民眾自己.md",
+    "data/IEObserve 國際經濟觀察/2026-10-19_一大早先給亞股喘口氣.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-10-18T05:44:53.648606+00:00",
+  "fetched_at_utc": "2026-10-19T06:01:14.481067+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122201581466771552"
+    "122201707634771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-10-17_一輛能飛的車到底有什麼用.md"
+    "data/Fomo研究院/2026-10-18_Anthropic-第三季的營收已經超過它-2025-全年的三倍.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",
