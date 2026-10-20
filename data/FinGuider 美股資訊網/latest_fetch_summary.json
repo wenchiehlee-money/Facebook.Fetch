@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-19T06:00:59.884978+00:00",
+  "fetched_at_utc": "2026-10-20T05:54:48.008387+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1592925266210948",
-    "1592838879552920",
-    "1592303536273121"
+    "1593959929440815",
+    "1593905026112972",
+    "1593775449459263"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-19_輝達要求記憶體三巨頭用台積電做-HBM-底層晶片.md",
-    "data/FinGuider 美股資訊網/2026-10-19_根據-FactSet-預測2026Q3-七巨頭獲利預估年增-33.2其餘-493-家則為-27.7但展望-Q4分析師預估-493-家成長-30.6七巨頭則降至.md",
-    "data/FinGuider 美股資訊網/2026-10-18_SpaceX-估值攀升美國大學捐贈基金繳出近年最強成績.md"
+    "data/FinGuider 美股資訊網/2026-10-20_AI-資料中心-IPO-接連受挫南韓雲端股-Elice-一度重挫-33.md",
+    "data/FinGuider 美股資訊網/2026-10-20_3-倍做多半導體-SOXL-一週跌-33散戶反而大舉入場.md",
+    "data/FinGuider 美股資訊網/2026-10-19_3MMMM宣布與亞馬遜AMZN擴大策略商業協議將成為亞馬遜光學連接及其他資料中心產品的供應商盤後跳漲超過-5.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

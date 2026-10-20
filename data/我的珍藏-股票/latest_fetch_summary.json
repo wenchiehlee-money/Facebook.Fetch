@@ -1,16 +1,10 @@
 {
   "requested_url": "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL",
-  "fetched_at_utc": "2026-10-19T06:00:46.812998+00:00",
+  "fetched_at_utc": "2026-10-20T05:54:34.472072+00:00",
   "list_title": "股票",
   "total_items": 8,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "10227830091457955",
-    "10227814381585218"
-  ],
-  "new_markdown_files": [
-    "data/我的珍藏-股票/2026-10-19_88檔電子股本益比河流圖大數據-追蹤者.md",
-    "data/我的珍藏-股票/2026-10-19_花旗對台積電的看法確實相當積極-目標價-4000核心不只是-AI-需求強而是把未來幾年的獲利成長也大幅往上看.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "posts_directory": "data/我的珍藏-股票"
 }

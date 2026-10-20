@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-10-19T06:01:06.842255+00:00",
+  "fetched_at_utc": "2026-10-20T05:54:56.174896+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1577882187711198"
+    "1580017494164334",
+    "1580011250831625"
   ],
   "new_markdown_files": [
-    "data/股魚/2026-10-17_買進靠勇氣賣出靠紀律但多數人最常卡關的往往是不知道何時該獲利了結或忙到忘記執行停利為了幫大家徹底解決抱上又抱下的痛點我們的移動停利監測系統迎來重大升級雙重自動化.md"
+    "data/股魚/2026-10-19_高盛是不是哪裡有毛病啊上週才大喊台股會上57000點今天說要放空台灣半導體類股.md",
+    "data/股魚/2026-10-19_美股一掃苦悶通通翻紅了呢.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",

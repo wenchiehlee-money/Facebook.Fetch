@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-10-19T06:01:56.762128+00:00",
+  "fetched_at_utc": "2026-10-20T05:55:51.363038+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1544580444370833",
-    "1544496807712530",
-    "1544480991047445"
+    "1545602760935268",
+    "1545517637610447",
+    "1545497317612479"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-10-19_百貨龍頭新光三越到了北車竟得從改廁所做起.md",
-    "data/商業周刊商周.com/2026-10-19_為什麼有些人說話總是我很擔心我很難過用詞可能透露你的情緒線索.md",
-    "data/商業周刊商周.com/2026-10-19_數位產業署--台灣數位安全發展協會.md"
+    "data/商業周刊商周.com/2026-10-20_花2千元找算命師改名3年後她的人生真的變好了嗎.md",
+    "data/商業周刊商周.com/2026-10-20_夫妻年薪200萬有2間房卻連一筆紅包錢都拿不出來問題出在哪.md",
+    "data/商業周刊商周.com/2026-10-20_當AI開始做事企業管理跟上了嗎.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

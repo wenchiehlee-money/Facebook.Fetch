@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-10-19T06:01:30.822300+00:00",
+  "fetched_at_utc": "2026-10-20T05:55:21.249107+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,15 +9,17 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 2,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "122233545248502956",
-    "122233525910502956"
+    "122233690490502956",
+    "122233684094502956",
+    "122233669322502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-10-19_為什麼有人遇到股市大跌依然不慌有人跌幾天就心態崩了.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-10-19_國G的夥伴們又G掉惹.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-10-20_天天都買點特價品-錢錢快要不夠惹.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-10-20_如果不相信-AI-能為人類創造更好的未來就很難解釋為什麼要投入如此龐大的資金與心力去建設它.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-10-20_馬斯克最新談話2031-年前AI-智慧可能超越全人類總和.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",
@@ -26,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

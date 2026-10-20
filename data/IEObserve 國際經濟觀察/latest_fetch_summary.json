@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-19T06:01:27.971019+00:00",
+  "fetched_at_utc": "2026-10-20T05:55:18.406878+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1638141951003760",
-    "1638126304338658",
-    "1638064337678188"
+    "1639049970912958",
+    "1638523387632283",
+    "1638350790982876"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-19_Anthropic還沒IPO上市但是先講說會捐5股份給公益基金創辦人們將捐贈自己80的股權這個公益基金我們可以探索向傳統非營利組織捐贈大筆款項或直接向特定人群進.md",
-    "data/IEObserve 國際經濟觀察/2026-10-19_米蘭也開始大批暴徒趁亂打砸搶歐洲自由派執政的大城市正在第一線感受自己過去善意帶來的回報警察疲於奔命也不敢實施鐵腕措施暴徒甚至敢直接攻擊警車還要靠路邊一般民眾自己.md",
-    "data/IEObserve 國際經濟觀察/2026-10-19_一大早先給亞股喘口氣.md"
+    "data/IEObserve 國際經濟觀察/2026-10-20_韓國人一早也軟掉最後還是要靠台灣人拉盤.md",
+    "data/IEObserve 國際經濟觀察/2026-10-19_Tim下重本跑去美國採訪Onlyfans生態產業鏈蠻有趣的值得一看有很多行業迷信以及一些行業內的潛規則.md",
+    "data/IEObserve 國際經濟觀察/2026-10-19_本週重磅財報周最先揭曉的是Musk的公司連發SpaceX可以看非常多東西尤其是AI的基建算力建置與販售情形還有agent的變現狀況這也會是-Meta-Muse被.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-10-19T06:01:11.192494+00:00",
+  "fetched_at_utc": "2026-10-20T05:54:59.781789+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1545646237609308",
-    "1545614200945845",
-    "1544850891022176"
+    "1546079704232628"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-10-19_VIX期貨大跌期貨期限結構曲線開始恢復陡峭如果週五也是對沖基金爆倉有機會出現類似7月底Situational-Awareness少年股神爆倉後的情況.md",
-    "data/美股探路客/2026-10-19_iPhone-Duo大陸新機轉售價大幅下滑產能快速攀升.md",
-    "data/美股探路客/2026-10-18_投資人連續五周持續抄底三倍看漲ETF-SOXLTQQQ.md"
+    "data/美股探路客/2026-10-19_看來韓股記憶體要開啟一段反彈行情了.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",
