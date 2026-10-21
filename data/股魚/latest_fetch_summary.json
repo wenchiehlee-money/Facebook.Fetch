@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-10-20T05:54:56.174896+00:00",
+  "fetched_at_utc": "2026-10-21T05:56:02.901135+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "1580017494164334",
-    "1580011250831625"
-  ],
-  "new_markdown_files": [
-    "data/股魚/2026-10-19_高盛是不是哪裡有毛病啊上週才大喊台股會上57000點今天說要放空台灣半導體類股.md",
-    "data/股魚/2026-10-19_美股一掃苦悶通通翻紅了呢.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",
   "notes": [

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-10-20T05:55:21.249107+00:00",
+  "fetched_at_utc": "2026-10-21T05:56:23.679348+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122233690490502956",
-    "122233684094502956",
-    "122233669322502956"
+    "122233796966502956",
+    "122233745138502956",
+    "122233740290502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-10-20_天天都買點特價品-錢錢快要不夠惹.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-10-20_如果不相信-AI-能為人類創造更好的未來就很難解釋為什麼要投入如此龐大的資金與心力去建設它.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-10-20_馬斯克最新談話2031-年前AI-智慧可能超越全人類總和.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-10-21_伊隆馬斯克表示SPCX-到-2027-年底的年度經常性收入可能達到5000-億美元至-1-兆美元.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-10-20_CRM-爲Agentforce的企業-AI-代理平台添上AI營銷彈藥賽富時-CRM-溢價58收購Braze企業價值近57億美元.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-10-20_禮來LLY.N盤中股價創下歷史新高.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",

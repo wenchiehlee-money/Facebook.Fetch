@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-10-20T05:55:55.639032+00:00",
+  "fetched_at_utc": "2026-10-21T05:56:51.788708+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1526803436136743",
-    "1526155359534884"
+    "1527927892690964"
   ],
   "new_markdown_files": [
-    "data/TrendForce 集邦科技/2026-10-20_中國客戶建庫存ASML-3Q26中國營收比重升至23.md",
-    "data/TrendForce 集邦科技/2026-10-19_AI-資料中心推升光纖需求2026-年全球供需缺口將達-1.8-億芯公里供給緊縮帶動光纖成品現貨價格飆升晶片商與電信業者將如何布局TrendForce-從供需角.md"
+    "data/TrendForce 集邦科技/2026-10-21_DRAM現貨市場分化DDR5供應吃緊DDR4交易冷清主流顆粒仍漲0.84.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",

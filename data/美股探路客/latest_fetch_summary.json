@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-10-20T05:54:59.781789+00:00",
+  "fetched_at_utc": "2026-10-21T05:56:05.923778+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1546079704232628"
+    "1547052350802030",
+    "1546669160840349"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-10-19_看來韓股記憶體要開啟一段反彈行情了.md"
+    "data/美股探路客/2026-10-20_禮來股價大漲超過5創下歷史新高高盛花旗分別調高目標價至14131600.md",
+    "data/美股探路客/2026-10-20_Muse快速退燒開啟下載後14天活躍用戶自73大幅下降至23.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

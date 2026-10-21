@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-10-20T05:55:47.727419+00:00",
+  "fetched_at_utc": "2026-10-21T05:56:45.423584+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1643567571147077",
-    "1643013297869171"
+    "1644123437758157"
   ],
   "new_markdown_files": [
-    "data/LinsanityStock/2026-10-20_台股今日反彈量縮目前預估量只有7000億不到強攻的機率不高局勢要等到1028前後才會比較明朗.md",
-    "data/LinsanityStock/2026-10-19_剛剛在全聯搶到最後一包so-lucky不知道吃起來味道如何.md"
+    "data/LinsanityStock/2026-10-20_誰玩得過我美國大統領川哥.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",

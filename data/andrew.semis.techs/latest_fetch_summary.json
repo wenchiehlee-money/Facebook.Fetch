@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-10-20T05:55:44.055855+00:00",
+  "fetched_at_utc": "2026-10-21T05:56:42.115811+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1662325731917566"
+  ],
+  "new_markdown_files": [
+    "data/andrew.semis.techs/2026-10-20_SpaceXSI-公布3Q26財報三大業務-Starlink-火箭AI營收獲利大超預期全線業務扭虧轉盈3Q26積壓訂單1Q27營收指引爆表明顯有機會帶動之前持續.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
   "notes": [

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-20T05:55:18.406878+00:00",
+  "fetched_at_utc": "2026-10-21T05:56:21.037666+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1639049970912958",
-    "1638523387632283",
-    "1638350790982876"
+    "1639903074160981",
+    "1639432600874695",
+    "1639216177563004"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-20_韓國人一早也軟掉最後還是要靠台灣人拉盤.md",
-    "data/IEObserve 國際經濟觀察/2026-10-19_Tim下重本跑去美國採訪Onlyfans生態產業鏈蠻有趣的值得一看有很多行業迷信以及一些行業內的潛規則.md",
-    "data/IEObserve 國際經濟觀察/2026-10-19_本週重磅財報周最先揭曉的是Musk的公司連發SpaceX可以看非常多東西尤其是AI的基建算力建置與販售情形還有agent的變現狀況這也會是-Meta-Muse被.md"
+    "data/IEObserve 國際經濟觀察/2026-10-20_SpaceX-Q3的驚人成績說明為什麼他有2兆估值營收年增161至145億SI-業務年增830至75.6億AI-算力業務已超越-Starlink成為-Space.md",
+    "data/IEObserve 國際經濟觀察/2026-10-20_GM中國的收益年減60公司將2026年調整後EPS指引下調至12.75-13.75美元之間此前的預期爲12-14美元.md",
+    "data/IEObserve 國際經濟觀察/2026-10-20_動力電池之王寧德時代也腰斬了.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

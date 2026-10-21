@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-10-20T05:55:51.363038+00:00",
+  "fetched_at_utc": "2026-10-21T05:56:48.607030+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1545602760935268",
-    "1545517637610447",
-    "1545497317612479"
+    "1546587090836835",
+    "1546503974178480",
+    "1546460854182792"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-10-20_花2千元找算命師改名3年後她的人生真的變好了嗎.md",
-    "data/商業周刊商周.com/2026-10-20_夫妻年薪200萬有2間房卻連一筆紅包錢都拿不出來問題出在哪.md",
-    "data/商業周刊商周.com/2026-10-20_當AI開始做事企業管理跟上了嗎.md"
+    "data/商業周刊商周.com/2026-10-21_心理學家婚姻幸福長跑的關鍵是放棄改造對方.md",
+    "data/商業周刊商周.com/2026-10-21_你住的城市接下來會開哪些新百貨.md",
+    "data/商業周刊商周.com/2026-10-21_商周讀書會以前大家都是這樣做的啊這句話是不是常在你的辦公室裡聽到.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

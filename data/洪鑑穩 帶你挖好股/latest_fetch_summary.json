@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/iqvalue",
   "final_url": "https://www.facebook.com/iqvalue",
-  "fetched_at_utc": "2026-10-20T05:55:39.619451+00:00",
+  "fetched_at_utc": "2026-10-21T05:56:38.868947+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1571769861631458"
-  ],
-  "new_markdown_files": [
-    "data/洪鑑穩 帶你挖好股/2026-10-19_台股暴跌又急拉究竟是抄底機會還是逃命反彈1020二晚上8點邀請大家鎖定我的YouTube直播.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/洪鑑穩 帶你挖好股",
   "notes": [

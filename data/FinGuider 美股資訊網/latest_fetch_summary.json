@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-20T05:54:48.008387+00:00",
+  "fetched_at_utc": "2026-10-21T05:55:55.843478+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1593959929440815",
-    "1593905026112972",
-    "1593775449459263"
+    "1594971252673016",
+    "1594856452684496",
+    "1594757929361015"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-20_AI-資料中心-IPO-接連受挫南韓雲端股-Elice-一度重挫-33.md",
-    "data/FinGuider 美股資訊網/2026-10-20_3-倍做多半導體-SOXL-一週跌-33散戶反而大舉入場.md",
-    "data/FinGuider 美股資訊網/2026-10-19_3MMMM宣布與亞馬遜AMZN擴大策略商業協議將成為亞馬遜光學連接及其他資料中心產品的供應商盤後跳漲超過-5.md"
+    "data/FinGuider 美股資訊網/2026-10-21_網飛NFLXQ3-營收-128.7-億美元符合市場預期EPS-也優於預期但-Q4-營收與營益率指引雙雙不如預期再加上下修全年自由現金流與廣告營收目標盤後下跌-5.md",
+    "data/FinGuider 美股資訊網/2026-10-21_美超微提前報喜首季營收估-185195-億美元遠超財測帶動同業盤後反彈.md",
+    "data/FinGuider 美股資訊網/2026-10-20_SpaceXSPCX公布了優於預期的-Q3-財報在連線與-AI-部門獲利改善下營業利益及淨利同步轉正調整後-EBITDA-更是暴增-306展望未來SpaceX.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",
