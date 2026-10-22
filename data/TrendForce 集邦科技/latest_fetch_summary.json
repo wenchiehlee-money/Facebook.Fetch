@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-10-21T05:56:51.788708+00:00",
+  "fetched_at_utc": "2026-10-22T06:00:57.609845+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1527927892690964"
+    "1528126942671059",
+    "1527946989355721"
   ],
   "new_markdown_files": [
-    "data/TrendForce 集邦科技/2026-10-21_DRAM現貨市場分化DDR5供應吃緊DDR4交易冷清主流顆粒仍漲0.84.md"
+    "data/TrendForce 集邦科技/2026-10-21_AI-推升晶圓代工擴產潮TrendForce-整理各地區-8-吋12-吋產能分布與新建規劃其中台積電在台灣規劃新增-17-期.md",
+    "data/TrendForce 集邦科技/2026-10-21_模組廠需求疲弱拖累NAND現貨交易512Gb-TLC價格下跌1.28.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",

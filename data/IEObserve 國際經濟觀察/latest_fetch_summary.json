@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-21T05:56:21.037666+00:00",
+  "fetched_at_utc": "2026-10-22T06:00:27.543991+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1639903074160981",
-    "1639432600874695",
-    "1639216177563004"
+    "1641055837379038",
+    "1641016620716293",
+    "1640993004051988"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-20_SpaceX-Q3的驚人成績說明為什麼他有2兆估值營收年增161至145億SI-業務年增830至75.6億AI-算力業務已超越-Starlink成為-Space.md",
-    "data/IEObserve 國際經濟觀察/2026-10-20_GM中國的收益年減60公司將2026年調整後EPS指引下調至12.75-13.75美元之間此前的預期爲12-14美元.md",
-    "data/IEObserve 國際經濟觀察/2026-10-20_動力電池之王寧德時代也腰斬了.md"
+    "data/IEObserve 國際經濟觀察/2026-10-22_明天很有可能颱風假要被關廁所加上週一也放假大家是不是都先逃了.md",
+    "data/IEObserve 國際經濟觀察/2026-10-22_滬深300從高檔下滑20進入熊市中國科網股更慘大型權值股一直在地心探險騰訊阿里巴巴PE都在1X拼多多快手則不到10倍.md",
+    "data/IEObserve 國際經濟觀察/2026-10-22_感覺不少西方人看到各路評測後取消了iPhone-Duo訂單尤其是何同學和影視颶風頗滅火.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

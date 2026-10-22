@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-10-21T05:55:59.401260+00:00",
+  "fetched_at_utc": "2026-10-22T06:00:06.062654+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1537651364834925"
+    "1538563824743679"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-10-20_群益台灣精選高息ETF台股代號00919於2022十月20日掛牌上市.md"
+    "data/綠角財經筆記/2026-10-21_為了避免配息再投入的麻煩與配息被課稅的問題似乎有不少投資朋友認為0050連結基金的不配息版本是很好的解答本文進行分析.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

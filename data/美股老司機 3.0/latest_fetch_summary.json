@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-10-21T05:56:26.413567+00:00",
+  "fetched_at_utc": "2026-10-22T06:00:32.838931+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122207415914486922",
-    "122207406176486922",
-    "122207387780486922"
+    "122207503334486922",
+    "122207496374486922",
+    "122207495426486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-10-21_超級比一比.md",
-    "data/美股老司機 3.0/2026-10-21_把蘇軾人生節點用K線來表達既有梗又滿是情緒一下子就共情到了.md",
-    "data/美股老司機 3.0/2026-10-20_1020.md"
+    "data/美股老司機 3.0/2026-10-21_1021.md",
+    "data/美股老司機 3.0/2026-10-21_財報-TSLA.md",
+    "data/美股老司機 3.0/2026-10-21_財報-META.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

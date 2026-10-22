@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-10-21T05:56:48.607030+00:00",
+  "fetched_at_utc": "2026-10-22T06:00:54.467777+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1546587090836835",
-    "1546503974178480",
-    "1546460854182792"
+    "1547600127402198",
+    "1547517850743759",
+    "1547483460747198"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-10-21_心理學家婚姻幸福長跑的關鍵是放棄改造對方.md",
-    "data/商業周刊商周.com/2026-10-21_你住的城市接下來會開哪些新百貨.md",
-    "data/商業周刊商周.com/2026-10-21_商周讀書會以前大家都是這樣做的啊這句話是不是常在你的辦公室裡聽到.md"
+    "data/商業周刊商周.com/2026-10-22_買房時很多人想等生活機能成熟百貨商場開幕後再進場但在台灣這個看似穩妥的決定反而可能讓你錯過第一波房價漲幅.md",
+    "data/商業周刊商周.com/2026-10-22_頭期款各出300萬房貸一起繳離婚時房子卻沒有你的份.md",
+    "data/商業周刊商周.com/2026-10-22_行銷預算更精打細算為什麼熟悉的打法卻漸漸失靈.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

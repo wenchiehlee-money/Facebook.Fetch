@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-10-21T05:56:02.901135+00:00",
+  "fetched_at_utc": "2026-10-22T06:00:09.751673+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,15 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 2,
+  "new_post_ids": [
+    "1582655360567214",
+    "1582082713957812"
+  ],
+  "new_markdown_files": [
+    "data/股魚/2026-10-22_想靠定期定額變有錢還不如把手中的閒錢通通都ALL-IN-比較務實這不是危言聳聽這是長期趨勢下的統計結果學員常會問我手中有一筆錢是該分批投入還是一次就ALL-IN.md",
+    "data/股魚/2026-10-21_買ETF越攤越平有沒有一種可能是你本來就買到不會修復跌幅的產品今天在節目中討論當市場回檔的時候該不該進行加碼攤平的動作任何的問題在追求答案之前都要先有假設性的前.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",
   "notes": [

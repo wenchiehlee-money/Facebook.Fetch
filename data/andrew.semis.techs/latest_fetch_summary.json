@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-10-21T05:56:42.115811+00:00",
+  "fetched_at_utc": "2026-10-22T06:00:48.191517+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,14 +9,10 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1662325731917566"
-  ],
-  "new_markdown_files": [
-    "data/andrew.semis.techs/2026-10-20_SpaceXSI-公布3Q26財報三大業務-Starlink-火箭AI營收獲利大超預期全線業務扭虧轉盈3Q26積壓訂單1Q27營收指引爆表明顯有機會帶動之前持續.md"
-  ],
+  "checked_post_count": 1,
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
   "notes": [
@@ -24,6 +20,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 2 篇貼文。"
   ]
 }

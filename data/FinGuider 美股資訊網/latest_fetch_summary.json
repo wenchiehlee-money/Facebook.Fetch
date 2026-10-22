@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-21T05:55:55.843478+00:00",
+  "fetched_at_utc": "2026-10-22T06:00:03.089706+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1594971252673016",
-    "1594856452684496",
-    "1594757929361015"
+    "1595830255920449",
+    "1595402095963265",
+    "1595225429314265"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-21_網飛NFLXQ3-營收-128.7-億美元符合市場預期EPS-也優於預期但-Q4-營收與營益率指引雙雙不如預期再加上下修全年自由現金流與廣告營收目標盤後下跌-5.md",
-    "data/FinGuider 美股資訊網/2026-10-21_美超微提前報喜首季營收估-185195-億美元遠超財測帶動同業盤後反彈.md",
-    "data/FinGuider 美股資訊網/2026-10-20_SpaceXSPCX公布了優於預期的-Q3-財報在連線與-AI-部門獲利改善下營業利益及淨利同步轉正調整後-EBITDA-更是暴增-306展望未來SpaceX.md"
+    "data/FinGuider 美股資訊網/2026-10-21_MetaMETAQ3-營收-646-億美元年增-26高於預期的-634.1-億EPS-年增-265-至-3.83-美元低於華爾街預期的-6.8-美元不過若排除訴.md",
+    "data/FinGuider 美股資訊網/2026-10-21_AI-工廠裝進貨櫃輝達發表-DSX-POD部署最快-14-天.md",
+    "data/FinGuider 美股資訊網/2026-10-21_川普資料中心要發股利給社區新的大型資料中心必須自己發電.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

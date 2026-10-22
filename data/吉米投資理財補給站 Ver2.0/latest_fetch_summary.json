@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-10-21T05:56:23.679348+00:00",
+  "fetched_at_utc": "2026-10-22T06:00:30.142295+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122233796966502956",
-    "122233745138502956",
-    "122233740290502956"
+    "122233933652502956",
+    "122233924868502956",
+    "122233879184502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-10-21_伊隆馬斯克表示SPCX-到-2027-年底的年度經常性收入可能達到5000-億美元至-1-兆美元.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-10-20_CRM-爲Agentforce的企業-AI-代理平台添上AI營銷彈藥賽富時-CRM-溢價58收購Braze企業價值近57億美元.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-10-20_禮來LLY.N盤中股價創下歷史新高.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-10-22_昨天有個同學說現在轉學還來得及嗎現在我終於懂惹.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-10-21_美國擬下令海灣地區部分使館人員撤離.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-10-21_我上週的貼文獲得超過-12000-個心情感謝大家的支持.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",
