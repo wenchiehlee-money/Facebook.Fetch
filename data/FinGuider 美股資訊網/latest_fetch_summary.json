@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-22T06:00:03.089706+00:00",
+  "fetched_at_utc": "2026-10-23T05:56:47.867322+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1595830255920449",
-    "1595402095963265",
-    "1595225429314265"
+    "1596871705816304",
+    "1596810079155800",
+    "1596402892529852"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-21_MetaMETAQ3-營收-646-億美元年增-26高於預期的-634.1-億EPS-年增-265-至-3.83-美元低於華爾街預期的-6.8-美元不過若排除訴.md",
-    "data/FinGuider 美股資訊網/2026-10-21_AI-工廠裝進貨櫃輝達發表-DSX-POD部署最快-14-天.md",
-    "data/FinGuider 美股資訊網/2026-10-21_川普資料中心要發股利給社區新的大型資料中心必須自己發電.md"
+    "data/FinGuider 美股資訊網/2026-10-23_SpaceX-正洽談取得至少-8-萬個美國基地台站點打造第四家全國性電信商.md",
+    "data/FinGuider 美股資訊網/2026-10-22_燃料電池大廠-Bloom-EnergyBEQ3-財報遠優於預期並大幅上調了全年指引不過-BE-在正常交易時段下挫-8.7-的情況下盤後又續跌約-5.md",
+    "data/FinGuider 美股資訊網/2026-10-22_債市拖累全球最大主權基金-Q3-虧損約-297-億美元.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

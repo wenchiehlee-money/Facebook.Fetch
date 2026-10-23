@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-10-22T06:00:15.365141+00:00",
+  "fetched_at_utc": "2026-10-23T05:57:07.387399+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "122202098438771552"
+    "122202245480771552",
+    "122202206060771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-10-21_CoreWeave會不會違約現在就像丟硬幣一半一半.md"
+    "data/Fomo研究院/2026-10-22_GPU-就像航空公司的座位一旦產能過剩價格就會自由落體.md",
+    "data/Fomo研究院/2026-10-22_一家營收暴增-26-的公司但每股盈餘只多了-2.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

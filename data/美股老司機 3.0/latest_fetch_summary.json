@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-10-22T06:00:32.838931+00:00",
+  "fetched_at_utc": "2026-10-23T05:57:34.646340+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122207503334486922",
-    "122207496374486922",
-    "122207495426486922"
+    "122207623994486922",
+    "122207620712486922",
+    "122207618162486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-10-21_1021.md",
-    "data/美股老司機 3.0/2026-10-21_財報-TSLA.md",
-    "data/美股老司機 3.0/2026-10-21_財報-META.md"
+    "data/美股老司機 3.0/2026-10-23_散戶們總是在焦慮與狂熱之間擺盪卻只能從後視鏡裡看清真相.md",
+    "data/美股老司機 3.0/2026-10-23_週四晚聽歌調適心情.md",
+    "data/美股老司機 3.0/2026-10-23_根據高盛機構經紀業務發布的最新報告與市場數據.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

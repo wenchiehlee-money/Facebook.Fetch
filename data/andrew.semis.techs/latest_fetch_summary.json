@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-10-22T06:00:48.191517+00:00",
+  "fetched_at_utc": "2026-10-23T05:57:59.312702+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,10 +9,16 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 1,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "checked_post_count": 2,
+  "new_post_count": 2,
+  "new_post_ids": [
+    "1664346171715522",
+    "1664227995060673"
+  ],
+  "new_markdown_files": [
+    "data/andrew.semis.techs/2026-10-23_1017-曾分享費半指數差6.2破7月份的最低點10445.4今天收盤後剩下不到3更多半導體公司早已經破7月份低點如果跌破沒支撐短期真的就很難看值得觀察的是從7.md",
+    "data/andrew.semis.techs/2026-10-23_市場似乎已經不在乎存儲記憶體公司WDC及半導體產業獲利超預期.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
   "notes": [
@@ -21,6 +27,6 @@
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 2 篇貼文。"
+    "已依中文至少 10 字規則排除 1 篇貼文。"
   ]
 }

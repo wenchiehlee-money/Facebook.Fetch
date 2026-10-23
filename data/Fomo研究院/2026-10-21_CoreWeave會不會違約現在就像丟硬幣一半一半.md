@@ -4,22 +4,22 @@ title: "「CoreWeave會不會違約，現在就像丟硬幣，一半一半。」
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid034H1PLFsaLx5ipiwaVdgH3rzb1rprPJZcPv9YFJCM1sR3e9QPde81sbgAyYvXFdbMl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0zjNCR6FDVi7eAWiXChg2EwaGa5s4zn5ePAWDfKu7i3GkdbDpnUEfbhkKFuGaijAql&id=61573146584049"
 creation_time_utc: "2026-10-21T10:15:43+00:00"
-fetched_at_utc: "2026-10-22T06:00:15.365141+00:00"
+fetched_at_utc: "2026-10-23T05:57:07.387399+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/860340757_122202098366771552_8981905643868020195_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zasSa6O-1XYQ7kNvwEGJc2h&_nc_oc=AdpChaY1mtIQssBE4SfxXmqD_66TTM6_eRO83SrC6dcJh2L63qriXkwp6BMXkQsJx7c&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=leFhrheSEiWuaqoKqEa2ZQ&_nc_ss=7e120&oh=00_AQOqj7hz7FF9lL0TxAjQOOZnD-StkZg5DbNHqd6wpcE3mw&oe=6ADF70A4"
+image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/860340757_122202098366771552_8981905643868020195_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zasSa6O-1XYQ7kNvwGmtVh-&_nc_oc=Adq7lHWofnPjokbHyuq950-oB_OEafWA1T2oFyjm02Ie2w57d616TnCJVroPz961g1c&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=C3-KuOM9z7i3ESHv7yGf5w&_nc_ss=79120&oh=00_AQNe9FMhu0CS4OxwmC7p5MANHJZcXk78Yi6KLo2-Xa1ptA&oe=6AE0C224"
 feedback_id: "ZmVlZGJhY2s6MTIyMjAyMDk4NDM4NzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 「CoreWeave會不會違約，現在就像丟硬幣，一半一半。」
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid034H1PLFsaLx5ipiwaVdgH3rzb1rprPJZcPv9YFJCM1sR3e9QPde81sbgAyYvXFdbMl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0zjNCR6FDVi7eAWiXChg2EwaGa5s4zn5ePAWDfKu7i3GkdbDpnUEfbhkKFuGaijAql&id=61573146584049
 
-![「CoreWeave會不會違約，現在就像丟硬幣，一半一半。」](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/860340757_122202098366771552_8981905643868020195_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zasSa6O-1XYQ7kNvwEGJc2h&_nc_oc=AdpChaY1mtIQssBE4SfxXmqD_66TTM6_eRO83SrC6dcJh2L63qriXkwp6BMXkQsJx7c&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=leFhrheSEiWuaqoKqEa2ZQ&_nc_ss=7e120&oh=00_AQOqj7hz7FF9lL0TxAjQOOZnD-StkZg5DbNHqd6wpcE3mw&oe=6ADF70A4)
+![「CoreWeave會不會違約，現在就像丟硬幣，一半一半。」](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/860340757_122202098366771552_8981905643868020195_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zasSa6O-1XYQ7kNvwGmtVh-&_nc_oc=Adq7lHWofnPjokbHyuq950-oB_OEafWA1T2oFyjm02Ie2w57d616TnCJVroPz961g1c&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=C3-KuOM9z7i3ESHv7yGf5w&_nc_ss=79120&oh=00_AQNe9FMhu0CS4OxwmC7p5MANHJZcXk78Yi6KLo2-Xa1ptA&oe=6AE0C224)
 「CoreWeave會不會違約，現在就像丟硬幣，一半一半。」
 ​
 著名投資人 Chamath Palihapitiya 在最新一集的 All-In Podcast 上，說了這番語。

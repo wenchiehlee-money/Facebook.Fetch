@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-22T06:00:27.543991+00:00",
+  "fetched_at_utc": "2026-10-23T05:57:26.581450+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1641055837379038",
-    "1641016620716293",
-    "1640993004051988"
+    "1641974367287185",
+    "1641861050631850",
+    "1641769737307648"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-22_明天很有可能颱風假要被關廁所加上週一也放假大家是不是都先逃了.md",
-    "data/IEObserve 國際經濟觀察/2026-10-22_滬深300從高檔下滑20進入熊市中國科網股更慘大型權值股一直在地心探險騰訊阿里巴巴PE都在1X拼多多快手則不到10倍.md",
-    "data/IEObserve 國際經濟觀察/2026-10-22_感覺不少西方人看到各路評測後取消了iPhone-Duo訂單尤其是何同學和影視颶風頗滅火.md"
+    "data/IEObserve 國際經濟觀察/2026-10-23_沙國的石油公司一直被胡塞炸一直有消息說美以準備再攻伊朗布蘭特原油飆到了114塊通膨陰影一直籠罩.md",
+    "data/IEObserve 國際經濟觀察/2026-10-23_Bloom-Energy-Q3-營收年增-138達-12.36-億美元產品營收年增-179營業利益更成長超過五倍營業利益率提高至-23.1-BE-公司今年第三度.md",
+    "data/IEObserve 國際經濟觀察/2026-10-22_和AI半導體硬體相關的類股都遭到屠殺費半暴跌了6.7直接殺到了年線不過市場的資金轉移到不同的類股像波克夏還默默創了新高現在一堆傳統行業公司的fwd-PE都高過A.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

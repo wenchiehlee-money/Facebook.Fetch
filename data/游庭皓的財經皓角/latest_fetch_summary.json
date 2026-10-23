@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-10-22T05:59:57.169896+00:00",
+  "fetched_at_utc": "2026-10-23T05:56:38.715504+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1074885172044878",
-    "1184116344179717",
-    "1184114584179893"
+    "1625839245649549"
   ],
   "new_markdown_files": [
-    "data/游庭皓的財經皓角/2026-10-22_20261022四美股財報反攻-誰最值得買巨頭狂燒錢-誰來買單早晨財經速解讀.md",
-    "data/游庭皓的財經皓角/2026-10-21_日本首相高市早苗上任滿一年過去12個月憑藉積極的經濟刺激政策擴大國防支出與戰略產業投資成功帶動市場對日本經濟轉型的期待推升日本股市創下歷史新高.md",
-    "data/游庭皓的財經皓角/2026-10-21_賣兆都還漲了17000點沒有人擋得住內資.md"
+    "data/游庭皓的財經皓角/2026-10-23_20261023五颱風魔咒美股出事了費半狂瀉近7-台積電ADR跌超4.5早晨財經速解讀.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",
