@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-10-23T05:58:04.490622+00:00",
+  "fetched_at_utc": "2026-10-24T05:42:07.846306+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1646304810873353"
-  ],
-  "new_markdown_files": [
-    "data/LinsanityStock/2026-10-22_台北股市明天肯定不跌了.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",
   "notes": [

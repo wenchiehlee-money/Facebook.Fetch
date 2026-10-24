@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-10-23T05:56:38.715504+00:00",
+  "fetched_at_utc": "2026-10-24T05:41:01.510824+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1625839245649549"
+    "1185953780662640",
+    "1185950230662995",
+    "1185948833996468"
   ],
   "new_markdown_files": [
-    "data/游庭皓的財經皓角/2026-10-23_20261023五颱風魔咒美股出事了費半狂瀉近7-台積電ADR跌超4.5早晨財經速解讀.md"
+    "data/游庭皓的財經皓角/2026-10-23_停不下來中國科技巨頭華為近期取得150億元人民幣約22.5億美元的境外人民幣聯貸期限長達7年由中國銀行建設銀行工商銀行等6家中國銀行共同提供資金主要用於一般企業.md",
+    "data/游庭皓的財經皓角/2026-10-23_德意志銀行最新研究指出AI正在經歷史上罕見的成本下降速度根據Epoch-AI數據自2023年以來達到相同人工智慧效能所需的成本每季平均下降約47相當於每年降低至.md",
+    "data/游庭皓的財經皓角/2026-10-23_中國大學經費開始吃緊根據經濟學人報導中國過去幾十年大力投資高等教育成功把清華大學北京大學推向世界頂尖學府2017年中國只有2所大學進入全球百大今年已增加至8所清.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",

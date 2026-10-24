@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-10-23T05:56:58.258398+00:00",
+  "fetched_at_utc": "2026-10-24T05:41:15.741019+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "1583572787142138",
-    "1583200480512702"
-  ],
-  "new_markdown_files": [
-    "data/股魚/2026-10-22_放假的市場真是刺激美股狂殺科技股之際美債殖利率順勢就往下修正原本10年期公債殖利率要挑戰5.5的時候一下就被修正到低於5以下現在來到-4.96.md",
-    "data/股魚/2026-10-22_嗯台股明天放颱風假美股下跌暫時就先當沒看到啦.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",
   "notes": [

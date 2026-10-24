@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-23T05:56:47.867322+00:00",
+  "fetched_at_utc": "2026-10-24T05:41:07.944006+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1596871705816304",
-    "1596810079155800",
-    "1596402892529852"
+    "1598026879034120",
+    "1597904292379712",
+    "1597389252431216"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-23_SpaceX-正洽談取得至少-8-萬個美國基地台站點打造第四家全國性電信商.md",
-    "data/FinGuider 美股資訊網/2026-10-22_燃料電池大廠-Bloom-EnergyBEQ3-財報遠優於預期並大幅上調了全年指引不過-BE-在正常交易時段下挫-8.7-的情況下盤後又續跌約-5.md",
-    "data/FinGuider 美股資訊網/2026-10-22_債市拖累全球最大主權基金-Q3-虧損約-297-億美元.md"
+    "data/FinGuider 美股資訊網/2026-10-24_亞馬遜-2200-億擴建-AI-基礎設施2027-年容量售罄.md",
+    "data/FinGuider 美股資訊網/2026-10-24_Instacart-傳尋求出售估值從-390-億美元跌至-120-億Uber-退出DoorDash-仍有機會.md",
+    "data/FinGuider 美股資訊網/2026-10-23_避險基金空頭槓桿逼近五年高點高盛提示軋空可能.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61589343187385",
   "final_url": "https://www.facebook.com/profile.php?id=61589343187385",
-  "fetched_at_utc": "2026-10-23T05:57:44.030677+00:00",
+  "fetched_at_utc": "2026-10-24T05:41:53.634540+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,15 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 2,
+  "new_post_ids": [
+    "122129183703311439",
+    "122129167665311439"
+  ],
+  "new_markdown_files": [
+    "data/首席經濟學家情勒中心/2026-10-23_從今年年底開始美國股市準備朝一週五天每天23小時交易邁進.md",
+    "data/首席經濟學家情勒中心/2026-10-23_年底開始帝國就要開啟一天23小時的股市交易模式費沙才說要延長交易時間就一堆人反對.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/首席經濟學家情勒中心",
   "notes": [

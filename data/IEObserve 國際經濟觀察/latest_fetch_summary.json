@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-23T05:57:26.581450+00:00",
+  "fetched_at_utc": "2026-10-24T05:41:38.862736+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1641974367287185",
-    "1641861050631850",
-    "1641769737307648"
+    "1642764150541540",
+    "1642086323942656"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-23_沙國的石油公司一直被胡塞炸一直有消息說美以準備再攻伊朗布蘭特原油飆到了114塊通膨陰影一直籠罩.md",
-    "data/IEObserve 國際經濟觀察/2026-10-23_Bloom-Energy-Q3-營收年增-138達-12.36-億美元產品營收年增-179營業利益更成長超過五倍營業利益率提高至-23.1-BE-公司今年第三度.md",
-    "data/IEObserve 國際經濟觀察/2026-10-22_和AI半導體硬體相關的類股都遭到屠殺費半暴跌了6.7直接殺到了年線不過市場的資金轉移到不同的類股像波克夏還默默創了新高現在一堆傳統行業公司的fwd-PE都高過A.md"
+    "data/IEObserve 國際經濟觀察/2026-10-24_過去一段時間AI基建相關公司幾乎都被更高成本的債務融資風險籠罩財報展望再好也照殺.md",
+    "data/IEObserve 國際經濟觀察/2026-10-23_韓國人週五最後低開高走沒有進一步恐慌台股可能下週真的剛好閃崩.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

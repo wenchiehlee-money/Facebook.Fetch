@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-10-23T05:57:59.312702+00:00",
+  "fetched_at_utc": "2026-10-24T05:42:04.563566+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,15 +9,13 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 2,
+  "checked_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1664346171715522",
-    "1664227995060673"
+    "1665150648301741"
   ],
   "new_markdown_files": [
-    "data/andrew.semis.techs/2026-10-23_1017-曾分享費半指數差6.2破7月份的最低點10445.4今天收盤後剩下不到3更多半導體公司早已經破7月份低點如果跌破沒支撐短期真的就很難看值得觀察的是從7.md",
-    "data/andrew.semis.techs/2026-10-23_市場似乎已經不在乎存儲記憶體公司WDC及半導體產業獲利超預期.md"
+    "data/andrew.semis.techs/2026-10-24_Nvidia-與-Tesla-聯手注資三星電機28億美元除了試圖打破-ABF-載板龍頭長期短缺及漲價壟斷是否也為了採用三星2nm-晶圓代工鋪路.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
@@ -26,7 +24,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

@@ -4,22 +4,22 @@ title: "想靠定期定額變有錢，還不如把手中的閒錢通通都ALL IN
 page_title: ""
 requested_url: "https://www.facebook.com/stocksardine"
 final_url: "https://www.facebook.com/stocksardine"
-post_url: "https://www.facebook.com/stocksardine/posts/pfbid036imD5noF3WTRa5M1QzCxhjJj6NVKxXBVeiUBaxiF8zspzLbbJwtFUYys1gvoJE5Bl"
+post_url: "https://www.facebook.com/stocksardine/posts/pfbid023B82AdAtCUAi6fcKbYNRq5s3wtpEXakcTNCjgWD49MuKDWYv6EUNXqZUi9jpRb95l"
 creation_time_utc: "2026-10-22T03:02:54+00:00"
-fetched_at_utc: "2026-10-23T05:56:58.258398+00:00"
+fetched_at_utc: "2026-10-24T05:41:15.741019+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/857157390_1582655343900549_1944548340990521141_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qkKqNsT1YwMQ7kNvwHymaTE&_nc_oc=Adp1QJYRujCu97Yv-UGyLZRw66-TX0B7FaU3-z5IKQut_SQ5o7c9jhVykXJK5yRDJrg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=F9Eg3i8fUrHjfsrbAEsXwg&_nc_ss=79120&oh=00_AQNCwCdr90HDaDMbCgfcrDQTFGas0gfKMKl05MQNIihXkw&oe=6AE0B46F"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/857157390_1582655343900549_1944548340990521141_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HWPAzm0ThCoQ7kNvwENxNqf&_nc_oc=AdozeGamhtdGqrxgxh9z9bxUgYe5XfM4dTCibIviBMxdVMmmNTAJKVshf6x0H_tphg4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=SMYHATHzvs4FjE69AwSP3A&_nc_ss=79120&oh=00_AQM91MU0TE5nIHjGKnXQjGYkECYyCxfhSlCDkz-F9OZEeA&oe=6AE205EF"
 feedback_id: "ZmVlZGJhY2s6MTU4MjY1NTM2MDU2NzIxNA=="
 page_canonical_url: ""
 ---
 
 # 想靠定期定額變有錢，還不如把手中的閒錢通通都ALL IN 比較務實。這不是危言聳聽，這是長期趨勢下的統計結果。學員常會問我手中有一筆錢，是該分批投入還是一次就ALL IN ?
 
-原文連結: https://www.facebook.com/stocksardine/posts/pfbid036imD5noF3WTRa5M1QzCxhjJj6NVKxXBVeiUBaxiF8zspzLbbJwtFUYys1gvoJE5Bl
+原文連結: https://www.facebook.com/stocksardine/posts/pfbid023B82AdAtCUAi6fcKbYNRq5s3wtpEXakcTNCjgWD49MuKDWYv6EUNXqZUi9jpRb95l
 
-![想靠定期定額變有錢，還不如把手中的閒錢通通都ALL IN 比較務實。這不是危言聳聽，這是長期趨勢下的統計結果。學員常會問我手中有一筆錢，是該分批投入還是一次就ALL IN ?](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/857157390_1582655343900549_1944548340990521141_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qkKqNsT1YwMQ7kNvwHymaTE&_nc_oc=Adp1QJYRujCu97Yv-UGyLZRw66-TX0B7FaU3-z5IKQut_SQ5o7c9jhVykXJK5yRDJrg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=F9Eg3i8fUrHjfsrbAEsXwg&_nc_ss=79120&oh=00_AQNCwCdr90HDaDMbCgfcrDQTFGas0gfKMKl05MQNIihXkw&oe=6AE0B46F)
+![想靠定期定額變有錢，還不如把手中的閒錢通通都ALL IN 比較務實。這不是危言聳聽，這是長期趨勢下的統計結果。學員常會問我手中有一筆錢，是該分批投入還是一次就ALL IN ?](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/857157390_1582655343900549_1944548340990521141_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HWPAzm0ThCoQ7kNvwENxNqf&_nc_oc=AdozeGamhtdGqrxgxh9z9bxUgYe5XfM4dTCibIviBMxdVMmmNTAJKVshf6x0H_tphg4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=SMYHATHzvs4FjE69AwSP3A&_nc_ss=79120&oh=00_AQM91MU0TE5nIHjGKnXQjGYkECYyCxfhSlCDkz-F9OZEeA&oe=6AE205EF)
 想靠定期定額變有錢，還不如把手中的閒錢通通都ALL IN 比較務實。這不是危言聳聽，這是長期趨勢下的統計結果。學員常會問我手中有一筆錢，是該分批投入還是一次就ALL IN ? 
 .
 我通常只問二個問題：
