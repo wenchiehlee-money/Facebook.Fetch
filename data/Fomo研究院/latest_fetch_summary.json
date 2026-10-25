@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-10-24T05:41:23.802078+00:00",
+  "fetched_at_utc": "2026-10-25T05:56:56.730420+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "122202321908771552"
+    "122202603002771552",
+    "122202494996771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-10-23_這是一個非常耗算力的服務所以我們還沒有全球上線.md"
+    "data/Fomo研究院/2026-10-25_SpaceX財報電話會上有分析師拋出了一個大家都很好奇卻又有點敏感的問題SpaceX會和Tesla合併嗎.md",
+    "data/Fomo研究院/2026-10-24_這幾天中文財經社群裡流傳著一個讓人心驚肉跳的快訊標題SemiAnalysis警告現在GPU-已經過剩了.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

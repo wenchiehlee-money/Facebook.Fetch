@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-10-24T05:41:11.789220+00:00",
+  "fetched_at_utc": "2026-10-25T05:56:46.824561+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1540400831226645"
-  ],
-  "new_markdown_files": [
-    "data/綠角財經筆記/2026-10-23_護城河投資優勢讓我對主動投資有更深的警覺.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",
   "notes": [

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-10-24T05:41:42.659627+00:00",
+  "fetched_at_utc": "2026-10-25T05:57:13.742837+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,15 +9,17 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 2,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "122234197712502956",
-    "122234194580502956"
+    "122234422178502956",
+    "122234334308502956",
+    "122234324342502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-10-24_現在這個時候大家肯定更能相信投資市場最重要的第一性原則.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-10-24_市場有漲有跌人性卻有貪婪恐懼僥倖與不甘心.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-10-25_Tom-Lee美股年底有望迎來強勁反彈AI-多頭行情還沒結束.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-10-24_高盛看好新興市場台灣韓國獲加碼半導體與景氣循環股成布局重點.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-10-24_從拼家世到拼考試中國科舉制度的演化.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",
@@ -26,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

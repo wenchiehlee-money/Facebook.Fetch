@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-24T05:41:07.944006+00:00",
+  "fetched_at_utc": "2026-10-25T05:56:43.531833+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1598026879034120",
-    "1597904292379712",
-    "1597389252431216"
+    "1598899185613556",
+    "1598238532346288"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-24_亞馬遜-2200-億擴建-AI-基礎設施2027-年容量售罄.md",
-    "data/FinGuider 美股資訊網/2026-10-24_Instacart-傳尋求出售估值從-390-億美元跌至-120-億Uber-退出DoorDash-仍有機會.md",
-    "data/FinGuider 美股資訊網/2026-10-23_避險基金空頭槓桿逼近五年高點高盛提示軋空可能.md"
+    "data/FinGuider 美股資訊網/2026-10-25_超級財報週來了上週-Meta-財報表現不錯但後續仍因-AI-支出與現金流疑慮重挫反映市場對投資回報及資產負債表的重視本週微軟MSFTGoogleGOOGL亞馬遜.md",
+    "data/FinGuider 美股資訊網/2026-10-24_美銀-10-月-FMS情緒降溫但沒人想下車.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

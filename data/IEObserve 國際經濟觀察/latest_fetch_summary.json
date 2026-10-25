@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-24T05:41:38.862736+00:00",
+  "fetched_at_utc": "2026-10-25T05:57:09.801192+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1642764150541540",
-    "1642086323942656"
+    "1643794677105154",
+    "1643710000446955",
+    "1643286320489323"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-24_過去一段時間AI基建相關公司幾乎都被更高成本的債務融資風險籠罩財報展望再好也照殺.md",
-    "data/IEObserve 國際經濟觀察/2026-10-23_韓國人週五最後低開高走沒有進一步恐慌台股可能下週真的剛好閃崩.md"
+    "data/IEObserve 國際經濟觀察/2026-10-25_Google-的劈柴和-Amazon-的-Jassy-都在說同一件事算力已經售罄真希望有更多可以賺你當下的投資決定了你兩年後能賺多少有辦法能越快上線算力的人就能.md",
+    "data/IEObserve 國際經濟觀察/2026-10-25_感覺這種警報在AI越強的時代越來越容易出現資安股有各種能boost的消息.md",
+    "data/IEObserve 國際經濟觀察/2026-10-24_連6年前AI時代開啟前的A100租賃價格都走高但華爾街的反應還是基本上是不相信這些GPU能帶來長期價值認為那些現在耗盡現金流還舉大規模高利率債融資的CSP和ne.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

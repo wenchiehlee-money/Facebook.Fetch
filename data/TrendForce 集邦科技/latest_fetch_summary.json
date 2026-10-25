@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-10-24T05:42:14.951050+00:00",
+  "fetched_at_utc": "2026-10-25T05:57:43.710897+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1530749805742106"
+    "1530844535732633"
   ],
   "new_markdown_files": [
-    "data/TrendForce 集邦科技/2026-10-24_三星將採台積電3奈米製程-為輝達生產NVHBM基底裸片.md"
+    "data/TrendForce 集邦科技/2026-10-24_美光加速AI記憶體技術升級DDR6LPDDR6與vHBM並進G11-NAND-2027年量產.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",

@@ -4,16 +4,16 @@ title: "【想不到吧 😭】業界原先寄望生成式 AI 與 Copilot 功能
 page_title: "股票"
 source_page: "HKEPC"
 requested_url: "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL"
-post_url: "https://www.facebook.com/hkepc/posts/pfbid0HZvbo3GJ5xHoAwbz5LBRHwTGKmri337K4TrCNSFyu68j6W3zUYp1viZGzRE4MUEtl"
+post_url: "https://www.facebook.com/hkepc/posts/pfbid02MRNJyiC7wMpB5wC3zv4EJYsY7tgPkLnJBD5LjgSDcpZE4hWGJdAjyosqN9A2zPUml"
 creation_time_utc: ""
-fetched_at_utc: "2026-10-24T05:40:54.529818+00:00"
+fetched_at_utc: "2026-10-25T05:56:31.798965+00:00"
 source: "saved_list"
 ---
 
 # 【想不到吧 😭】業界原先寄望生成式 AI 與 Copilot 功能能帶動新一輪個人電腦（PC）換機潮，但最新市場數據顯示事與願違。市場研究機構 Omdia 與 IDC 最新報告指出，2026 年第三季全球 PC 出貨量按年大幅下跌約 20%，創下自 2023 年第一季以來最大單季跌幅。出貨疲弱的主因在於 AI 數據中心建設大幅消耗記憶體產能，導致 DRAM 與 SSD 價格暴漲、終端機價攀升，加上消費者對本地端 AI 助理等功能反應冷淡，整體市場需求顯著受挫。
 
 來源：HKEPC
-原文連結: https://www.facebook.com/hkepc/posts/pfbid0HZvbo3GJ5xHoAwbz5LBRHwTGKmri337K4TrCNSFyu68j6W3zUYp1viZGzRE4MUEtl
+原文連結: https://www.facebook.com/hkepc/posts/pfbid02MRNJyiC7wMpB5wC3zv4EJYsY7tgPkLnJBD5LjgSDcpZE4hWGJdAjyosqN9A2zPUml
 【想不到吧 😭】業界原先寄望生成式 AI 與 Copilot 功能能帶動新一輪個人電腦（PC）換機潮，但最新市場數據顯示事與願違。市場研究機構 Omdia 與 IDC 最新報告指出，2026 年第三季全球 PC 出貨量按年大幅下跌約 20%，創下自 2023 年第一季以來最大單季跌幅。出貨疲弱的主因在於 AI 數據中心建設大幅消耗記憶體產能，導致 DRAM 與 SSD 價格暴漲、終端機價攀升，加上消費者對本地端 AI 助理等功能反應冷淡，整體市場需求顯著受挫。
 
 傳統上，第三季受惠於返校潮等因素，出貨量通常優於第二季。然而，IDC 最新數據顯示，2026 年第三季全球 PC 出貨量為 6,270 萬部（去年同期為 7,850 萬部），按年下滑 20.1%，相比第二季的 6,900 萬部更減少 9.1%。

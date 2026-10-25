@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-10-24T05:42:11.195645+00:00",
+  "fetched_at_utc": "2026-10-25T05:57:40.203489+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1549645790530965",
-    "1546882270807317",
-    "1546877267474484"
+    "1550602767101934",
+    "1549920043836873",
+    "1549875153841362"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-10-24_年薪比一般工作多2倍LinkedIn揭密高薪AI職缺都找誰.md",
-    "data/商業周刊商周.com/2026-10-23_投資人最終買的不是一張財報而是對經營團隊的信任.md",
-    "data/商業周刊商周.com/2026-10-23_投資人最終買的不是一張財報而是對經營團隊的信任_1546877267474484.md"
+    "data/商業周刊商周.com/2026-10-25_一位律師爸爸給女兒的真心話不缺錢很好但不缺這5件事更重要.md",
+    "data/商業周刊商周.com/2026-10-24_你的錢最後不是你的75歲保單失效老後失智被騙光你該知道的第四人生防線懂商業看商周Ep.167.md",
+    "data/商業周刊商周.com/2026-10-24_成年人的友情常常輸給一句有空再約.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

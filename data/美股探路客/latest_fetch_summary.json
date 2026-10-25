@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-10-24T05:41:20.313722+00:00",
+  "fetched_at_utc": "2026-10-25T05:56:54.114996+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,17 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
-  "new_post_ids": [
-    "1550532587120673",
-    "1550510510456214",
-    "1549991080508157"
-  ],
-  "new_markdown_files": [
-    "data/美股探路客/2026-10-24_早上突然接到AI-Agent-Instinct的通知收到取消明天餐廳訂位的通知信它也知道行事曆有此筆紀錄.md",
-    "data/美股探路客/2026-10-24_曙光即將來臨了嗎共同基金月底結算10月中財報季開啟前企業回購窗口關閉都是買盤力道偏弱的因素.md",
-    "data/美股探路客/2026-10-23_固態燃料電池公司-Bloom-Energy-財報大超預期唯一問題出在市場最擔憂的-Q3-自由現金流為負-1.806-億原因為-Q3-資本支出-1.53-億擴產增.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",
   "notes": [

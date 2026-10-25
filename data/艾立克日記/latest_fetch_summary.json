@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61591563193133",
   "final_url": "https://www.facebook.com/profile.php?id=61591563193133",
-  "fetched_at_utc": "2026-10-24T05:42:17.990805+00:00",
+  "fetched_at_utc": "2026-10-25T05:57:46.918384+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "122144010963385439"
-  ],
-  "new_markdown_files": [
-    "data/艾立克日記/2026-10-23_過去36年只出現5次美債殖利率急降台股同步大跌完全對準這次的下跌時間點-追蹤者.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/艾立克日記",
   "notes": [
