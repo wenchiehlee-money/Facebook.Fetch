@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-25T05:56:43.531833+00:00",
+  "fetched_at_utc": "2026-10-26T05:59:53.745192+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1598899185613556",
-    "1598238532346288"
+    "1600083725495102"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-25_超級財報週來了上週-Meta-財報表現不錯但後續仍因-AI-支出與現金流疑慮重挫反映市場對投資回報及資產負債表的重視本週微軟MSFTGoogleGOOGL亞馬遜.md",
-    "data/FinGuider 美股資訊網/2026-10-24_美銀-10-月-FMS情緒降溫但沒人想下車.md"
+    "data/FinGuider 美股資訊網/2026-10-26_1026-1030-美股投資看什麼.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

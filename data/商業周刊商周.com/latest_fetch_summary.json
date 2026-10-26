@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-10-25T05:57:40.203489+00:00",
+  "fetched_at_utc": "2026-10-26T06:00:42.730383+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1550602767101934",
-    "1549920043836873",
-    "1549875153841362"
+    "1551638716998339",
+    "1547636387398572",
+    "1551510050344539"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-10-25_一位律師爸爸給女兒的真心話不缺錢很好但不缺這5件事更重要.md",
-    "data/商業周刊商周.com/2026-10-24_你的錢最後不是你的75歲保單失效老後失智被騙光你該知道的第四人生防線懂商業看商周Ep.167.md",
-    "data/商業周刊商周.com/2026-10-24_成年人的友情常常輸給一句有空再約.md"
+    "data/商業周刊商周.com/2026-10-26_AI搶電造戰機的漢翔也接到訂單一門冷了20多年的生意終於等到舞台.md",
+    "data/商業周刊商周.com/2026-10-26_台商搶進東南亞廠房設備都能搬為何最難搞定的卻是人.md",
+    "data/商業周刊商周.com/2026-10-26_商周讀書會讓股神從猩猩進化到人類巴菲特沒有他我會窮得多.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

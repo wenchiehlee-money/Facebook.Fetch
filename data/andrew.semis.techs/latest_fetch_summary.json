@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-10-25T05:57:33.537131+00:00",
+  "fetched_at_utc": "2026-10-26T06:00:36.558600+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1667018174781655"
+  ],
+  "new_markdown_files": [
+    "data/andrew.semis.techs/2026-10-26_兩個月前我們才出報告說馬斯克打算自製渦輪葉片來解決天然氣發電缺渦輪發電機的問題上週SpaceXSI-就把-2027年底GW算力從5-10G一口氣加到13GW甚至.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
   "notes": [

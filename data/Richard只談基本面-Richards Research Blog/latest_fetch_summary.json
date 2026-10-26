@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-10-25T05:57:06.803611+00:00",
+  "fetched_at_utc": "2026-10-26T06:00:14.418121+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,15 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 2,
+  "new_post_ids": [
+    "1649240016892698",
+    "1649209820229051"
+  ],
+  "new_markdown_files": [
+    "data/Richard只談基本面-Richards Research Blog/2026-10-25_沒當過工程師但感覺未來35年之內以晶片商為主體的電子研發行業可能有天翻地覆的改變起源於近期OpenAI宣布ASIC晶片開發時間在AI幫助下從一般要近兩年縮短一半.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-10-25_最近的新聞說Micron不看好4F2要直攻3D-DRAM其實不是新聞喔-我們一年多前20256月就轉貼過這則新聞.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",
   "notes": [

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-10-25T05:56:50.464555+00:00",
+  "fetched_at_utc": "2026-10-26T06:00:00.507930+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "1585864563579627",
-    "1584979717001445"
-  ],
-  "new_markdown_files": [
-    "data/股魚/2026-10-25_10年投資你錯過了甚麼-不能只挑好的來看還有壞的也要一起看才知道是錯過績效還是閃過損失.md",
-    "data/股魚/2026-10-24_網路上流傳幾組-iPhone-Duo-的螢幕個案看起來都同一個位置出問題都是在中間略往下的位置這位置出問題應該不是摺疊螢幕本身造成的依據我過往在科技廠服務的經驗.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",
   "notes": [

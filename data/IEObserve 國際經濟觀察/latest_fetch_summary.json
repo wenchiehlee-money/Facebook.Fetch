@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-25T05:57:09.801192+00:00",
+  "fetched_at_utc": "2026-10-26T06:00:17.436733+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1643794677105154",
-    "1643710000446955",
-    "1643286320489323"
+    "1644687567015865",
+    "1644668460351109",
+    "1644075637077058"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-25_Google-的劈柴和-Amazon-的-Jassy-都在說同一件事算力已經售罄真希望有更多可以賺你當下的投資決定了你兩年後能賺多少有辦法能越快上線算力的人就能.md",
-    "data/IEObserve 國際經濟觀察/2026-10-25_感覺這種警報在AI越強的時代越來越容易出現資安股有各種能boost的消息.md",
-    "data/IEObserve 國際經濟觀察/2026-10-24_連6年前AI時代開啟前的A100租賃價格都走高但華爾街的反應還是基本上是不相信這些GPU能帶來長期價值認為那些現在耗盡現金流還舉大規模高利率債融資的CSP和ne.md"
+    "data/IEObserve 國際經濟觀察/2026-10-26_和市場預期的相反巴西魯拉成功連任被擊敗的波索納羅要發起選舉無效之訴.md",
+    "data/IEObserve 國際經濟觀察/2026-10-26_老馬在週末持續唱衰neocloud好像沒發現自己婊到他的好友老黃.md",
+    "data/IEObserve 國際經濟觀察/2026-10-25_Nvidia-與-Broadcom-的獲利年增兩倍以上股價卻橫盤本益比處於有史以來的最低水準SemiAnalysis-執行長-Dylan-Patel-與-Ber.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

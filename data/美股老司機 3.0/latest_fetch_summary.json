@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-10-25T05:57:16.782346+00:00",
+  "fetched_at_utc": "2026-10-26T06:00:22.209687+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122207852576486922",
-    "122207849732486922",
-    "122207846486486922"
+    "122208021716486922",
+    "122208014846486922",
+    "122208007424486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-10-25_週六晚作夢.md",
-    "data/美股老司機 3.0/2026-10-25_萬聖節氛圍.md",
-    "data/美股老司機 3.0/2026-10-25_美國銀行針對-AI-IT-的調查報告摘要.md"
+    "data/美股老司機 3.0/2026-10-26_週日晚開心.md",
+    "data/美股老司機 3.0/2026-10-26_目前.md",
+    "data/美股老司機 3.0/2026-10-26_當前-GPU-租賃市場的強勁態勢.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

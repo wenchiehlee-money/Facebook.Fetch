@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-10-25T05:56:54.114996+00:00",
+  "fetched_at_utc": "2026-10-26T06:00:03.123745+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,17 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1552674363573162",
+    "1552650740242191",
+    "1551996403640958"
+  ],
+  "new_markdown_files": [
+    "data/美股探路客/2026-10-26_彭博報導AI交易遇冷2倍做多放空SK-Hynix的ETF-SKHASKHN-將退市.md",
+    "data/美股探路客/2026-10-26_颱風天風雨無阻錄影的-財經週日趴-節目上線了有興趣了解台積電美股科技巨頭看法的可以參考看看.md",
+    "data/美股探路客/2026-10-25_美股財經週報-2026.10.25.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",
   "notes": [

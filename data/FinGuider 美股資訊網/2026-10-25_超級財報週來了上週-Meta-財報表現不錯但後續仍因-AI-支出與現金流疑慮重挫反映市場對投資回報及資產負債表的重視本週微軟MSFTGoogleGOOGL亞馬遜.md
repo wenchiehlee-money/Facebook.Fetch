@@ -4,22 +4,22 @@ title: "📌超級財報週來了！上週 Meta 財報表現不錯，但後續�
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid06YwKshb9soQfqWkq8rMJ59hqJHaR6QipWjjHHty546oW1G2kCiQCJstDvbmmG4Axl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid02AQP34NWyjBMWLka6cGADsmLvjSPuv5G3fSNSK6cYLVm21h3iHw2b81WrQ3fvCN2pl"
 creation_time_utc: "2026-10-25T02:49:08+00:00"
-fetched_at_utc: "2026-10-25T05:56:43.531833+00:00"
+fetched_at_utc: "2026-10-26T05:59:53.745192+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/864857700_1598898785613596_4674890591012035941_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=S3NsWZ-Do68Q7kNvwFnz-hn&_nc_oc=AdrJuoM9u1MamEhKX1czqNiI0aQCd-sMDbnC3kbH60tm0pSQsuId7fQ9QO1HmLaGp2k&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=1qSr1hrOsxH_YGRptWvenA&_nc_ss=79120&oh=00_AQORT7GK53RP1qaT8rEjaZ3i5-xx2UGm16mkmDpa_h6zCA&oe=6AE36931"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/864857700_1598898785613596_4674890591012035941_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1DKolcsP6WkQ7kNvwH3GoeT&_nc_oc=AdofInVbDaXOJK7rKx5DxDATiDkxchZKm6MYShXPCDglsvu0mSH8B4QjK3-S9X8fJqk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=K6k6ZCEbDSoW_ZK3jdHNdA&_nc_ss=79120&oh=00_AQONy5dQC23PW09wNXx6zKwBtfofPx_VE49DbW2--PJ8ew&oe=6AE4BAB1"
 feedback_id: "ZmVlZGJhY2s6MTU5ODg5OTE4NTYxMzU1Ng=="
 page_canonical_url: ""
 ---
 
 # 📌超級財報週來了！上週 Meta 財報表現不錯，但後續仍因 AI 支出與現金流疑慮重挫，反映市場對投資回報及資產負債表的重視。本週微軟（#MSFT）、Google（#GOOGL）、亞馬遜（#AMZN）雲端服務增速、AI 變現進展、資本支出計畫，將牽動科技股走向。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid06YwKshb9soQfqWkq8rMJ59hqJHaR6QipWjjHHty546oW1G2kCiQCJstDvbmmG4Axl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid02AQP34NWyjBMWLka6cGADsmLvjSPuv5G3fSNSK6cYLVm21h3iHw2b81WrQ3fvCN2pl
 
-![📌超級財報週來了！上週 Meta 財報表現不錯，但後續仍因 AI 支出與現金流疑慮重挫，反映市場對投資回報及資產負債表的重視。本週微軟（#MSFT）、Google（#GOOGL）、亞馬遜（#AMZN）雲端服務增速、AI 變現進展、資本支出計畫，將牽動科技股走向。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/864857700_1598898785613596_4674890591012035941_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=S3NsWZ-Do68Q7kNvwFnz-hn&_nc_oc=AdrJuoM9u1MamEhKX1czqNiI0aQCd-sMDbnC3kbH60tm0pSQsuId7fQ9QO1HmLaGp2k&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=1qSr1hrOsxH_YGRptWvenA&_nc_ss=79120&oh=00_AQORT7GK53RP1qaT8rEjaZ3i5-xx2UGm16mkmDpa_h6zCA&oe=6AE36931)
+![📌超級財報週來了！上週 Meta 財報表現不錯，但後續仍因 AI 支出與現金流疑慮重挫，反映市場對投資回報及資產負債表的重視。本週微軟（#MSFT）、Google（#GOOGL）、亞馬遜（#AMZN）雲端服務增速、AI 變現進展、資本支出計畫，將牽動科技股走向。](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/864857700_1598898785613596_4674890591012035941_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1DKolcsP6WkQ7kNvwH3GoeT&_nc_oc=AdofInVbDaXOJK7rKx5DxDATiDkxchZKm6MYShXPCDglsvu0mSH8B4QjK3-S9X8fJqk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=K6k6ZCEbDSoW_ZK3jdHNdA&_nc_ss=79120&oh=00_AQONy5dQC23PW09wNXx6zKwBtfofPx_VE49DbW2--PJ8ew&oe=6AE4BAB1)
 📌超級財報週來了！上週 Meta 財報表現不錯，但後續仍因 AI 支出與現金流疑慮重挫，反映市場對投資回報及資產負債表的重視。本週微軟（#MSFT）、Google（#GOOGL）、亞馬遜（#AMZN）雲端服務增速、AI 變現進展、資本支出計畫，將牽動科技股走向。
 ​
 🔥AI 基礎建設方面，上週 Bloom Energy 財報遠優於預期，並大幅上調了全年指引，可以觀察 GE Vernova（#GEV）、Caterpillar（#CAT）、Vertiv（#VRT）等電力及散熱相關公司，能否給出一樣樂觀的展望來支撐估值。

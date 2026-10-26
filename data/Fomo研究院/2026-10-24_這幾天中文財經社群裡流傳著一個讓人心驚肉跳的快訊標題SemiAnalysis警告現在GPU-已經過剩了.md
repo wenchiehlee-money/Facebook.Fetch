@@ -4,22 +4,22 @@ title: "這幾天，中文財經社群裡流傳著一個讓人心驚肉跳的快
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid027LUd2zR1aCeEqDaxySQYHK2k5sYj5pctBEdYjZqWxkBka5nAjU112yzj6jZzmMnHl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid03nqS7pneiyo4UqXJdhKD4hi2V4TLhDGCC2NV17pvk9Sh1irLJs3umWoEoczBvnjLl&id=61573146584049"
 creation_time_utc: "2026-10-24T07:04:24+00:00"
-fetched_at_utc: "2026-10-25T05:56:56.730420+00:00"
+fetched_at_utc: "2026-10-26T06:00:05.884783+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/857369787_122202494828771552_4719924447079740910_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=c3wgqiK1FOYQ7kNvwEju3ds&_nc_oc=Adqla7-xABHLV_MdvKdxiicubnW2osV0QfefW5jKPqpGYG86yhQQHkJmeK0IPX_L8Dc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=mYy9JB4Y6W6fYjb_NqMQHw&_nc_ss=79120&oh=00_AQMjRntEaXftB0bCVGeDWGk8amvo-QqqIhQAs1g4f5B0KQ&oe=6AE36C42"
+image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/857369787_122202494828771552_4719924447079740910_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YFbDNYyqXqQQ7kNvwH917kt&_nc_oc=Adphl1xtWS1oNwEDsNWAk8H5sXQGIzTubZXHDpAYUxSRBhOsGwo1IKTjMYMdBmup6jY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=eAqOOC_uJ5cqVOex1FZexA&_nc_ss=79120&oh=00_AQMCT1V_t1XwRXXJhi7ZmDGQ4a0Kv3gbqSIDF1JmglxlZg&oe=6AE4BDC2"
 feedback_id: "ZmVlZGJhY2s6MTIyMjAyNDk0OTk2NzcxNTUy"
 page_canonical_url: ""
 ---
 
 # 這幾天，中文財經社群裡流傳著一個讓人心驚肉跳的快訊標題：「SemiAnalysis警告，現在GPU 已經過剩了。」
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid027LUd2zR1aCeEqDaxySQYHK2k5sYj5pctBEdYjZqWxkBka5nAjU112yzj6jZzmMnHl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid03nqS7pneiyo4UqXJdhKD4hi2V4TLhDGCC2NV17pvk9Sh1irLJs3umWoEoczBvnjLl&id=61573146584049
 
-![這幾天，中文財經社群裡流傳著一個讓人心驚肉跳的快訊標題：「SemiAnalysis警告，現在GPU 已經過剩了。」](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/857369787_122202494828771552_4719924447079740910_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=c3wgqiK1FOYQ7kNvwEju3ds&_nc_oc=Adqla7-xABHLV_MdvKdxiicubnW2osV0QfefW5jKPqpGYG86yhQQHkJmeK0IPX_L8Dc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=mYy9JB4Y6W6fYjb_NqMQHw&_nc_ss=79120&oh=00_AQMjRntEaXftB0bCVGeDWGk8amvo-QqqIhQAs1g4f5B0KQ&oe=6AE36C42)
+![這幾天，中文財經社群裡流傳著一個讓人心驚肉跳的快訊標題：「SemiAnalysis警告，現在GPU 已經過剩了。」](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/857369787_122202494828771552_4719924447079740910_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YFbDNYyqXqQQ7kNvwH917kt&_nc_oc=Adphl1xtWS1oNwEDsNWAk8H5sXQGIzTubZXHDpAYUxSRBhOsGwo1IKTjMYMdBmup6jY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=eAqOOC_uJ5cqVOex1FZexA&_nc_ss=79120&oh=00_AQMCT1V_t1XwRXXJhi7ZmDGQ4a0Kv3gbqSIDF1JmglxlZg&oe=6AE4BDC2)
 這幾天，中文財經社群裡流傳著一個讓人心驚肉跳的快訊標題：「SemiAnalysis警告，現在GPU 已經過剩了。」
 ​
 「過剩」兩個字一出來，很多人腦中立刻浮現2022年顯示卡堆滿倉庫、廠商降價求售的慘況。大家心裡一驚：難道晶片股的派對要結束了嗎？
