@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-10-26T06:00:22.209687+00:00",
+  "fetched_at_utc": "2026-10-27T06:11:34.726571+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122208021716486922",
-    "122208014846486922",
-    "122208007424486922"
+    "122208151508486922",
+    "122208142142486922",
+    "122208139262486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-10-26_週日晚開心.md",
-    "data/美股老司機 3.0/2026-10-26_目前.md",
-    "data/美股老司機 3.0/2026-10-26_當前-GPU-租賃市場的強勁態勢.md"
+    "data/美股老司機 3.0/2026-10-27_Ed-Yardeni-針對人工智慧產業與市場趨勢提出了以下觀點.md",
+    "data/美股老司機 3.0/2026-10-27_週一晚.md",
+    "data/美股老司機 3.0/2026-10-27_週一晚開心.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

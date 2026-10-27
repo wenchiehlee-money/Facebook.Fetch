@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-10-26T06:00:14.418121+00:00",
+  "fetched_at_utc": "2026-10-27T06:11:22.931160+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,15 +9,17 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 2,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1649240016892698",
-    "1649209820229051"
+    "1650134120136621",
+    "1650076396809060",
+    "1649941890155844"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-10-25_沒當過工程師但感覺未來35年之內以晶片商為主體的電子研發行業可能有天翻地覆的改變起源於近期OpenAI宣布ASIC晶片開發時間在AI幫助下從一般要近兩年縮短一半.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-10-25_最近的新聞說Micron不看好4F2要直攻3D-DRAM其實不是新聞喔-我們一年多前20256月就轉貼過這則新聞.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-10-26_昨天一篇IC設計AI影響文不知為何意外廣傳因為昨天只是簡單寫沒有交代會這樣想的來龍去脈補充一下上次貼過OpenAI-ASIC專案負責人Richard-Ho的訪談.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-10-26_我覺得Gartner的IT-spending方法論可能需要修改納入AI-tokens的支出目前看起來不論那一項目不像是有納入的樣子因為企業AI-tokens支出.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-10-26_寫東西以來常有讀者朋友留言說我看錯了寫錯了很正常也很好因為確實常常弄錯看錯但留言說是AI文的倒是第一次因為這版不是科普版用字精簡通常連用AI修飾都懶還有人認為是.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",
@@ -26,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

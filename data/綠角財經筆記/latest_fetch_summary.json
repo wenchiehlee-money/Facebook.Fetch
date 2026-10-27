@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-10-26T05:59:57.339592+00:00",
+  "fetched_at_utc": "2026-10-27T06:10:57.282729+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1542425811024147"
+    "1543221984277863"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-10-26_在討論指數化投資或資產配置的長期投資成果時蠻常被問到這樣的問題.md"
+    "data/綠角財經筆記/2026-10-26_美國聯邦準備銀行每三年一次的Survey-of-Consumer-Finances最近一次2025的調查結果已在2026十月發布.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

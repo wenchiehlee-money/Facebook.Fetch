@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-26T06:00:17.436733+00:00",
+  "fetched_at_utc": "2026-10-27T06:11:27.509938+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1644687567015865",
-    "1644668460351109",
-    "1644075637077058"
+    "1645649563586332",
+    "1645600910257864",
+    "1645203686964253"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-26_和市場預期的相反巴西魯拉成功連任被擊敗的波索納羅要發起選舉無效之訴.md",
-    "data/IEObserve 國際經濟觀察/2026-10-26_老馬在週末持續唱衰neocloud好像沒發現自己婊到他的好友老黃.md",
-    "data/IEObserve 國際經濟觀察/2026-10-25_Nvidia-與-Broadcom-的獲利年增兩倍以上股價卻橫盤本益比處於有史以來的最低水準SemiAnalysis-執行長-Dylan-Patel-與-Ber.md"
+    "data/IEObserve 國際經濟觀察/2026-10-27_DoorDash-打算170億收購Instacart搶親攔胡UberInstacart母公司Maplebear大漲接近8DoorDash大跌6.md",
+    "data/IEObserve 國際經濟觀察/2026-10-27_放假兩天閃過崩跌的另一面是沒買到更便宜.md",
+    "data/IEObserve 國際經濟觀察/2026-10-26_中國人真的機器人很超前.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

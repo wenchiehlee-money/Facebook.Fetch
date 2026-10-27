@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-10-26T06:00:03.123745+00:00",
+  "fetched_at_utc": "2026-10-27T06:11:07.273184+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1552674363573162",
-    "1552650740242191",
-    "1551996403640958"
+    "1553662950140970",
+    "1553107420196523",
+    "1552703246903607"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-10-26_彭博報導AI交易遇冷2倍做多放空SK-Hynix的ETF-SKHASKHN-將退市.md",
-    "data/美股探路客/2026-10-26_颱風天風雨無阻錄影的-財經週日趴-節目上線了有興趣了解台積電美股科技巨頭看法的可以參考看看.md",
-    "data/美股探路客/2026-10-25_美股財經週報-2026.10.25.md"
+    "data/美股探路客/2026-10-27_彭博畫了一張Anthropic跟其他科技巨頭上市之前三年到鄰近上市的營收成長倍數比對-vs.md",
+    "data/美股探路客/2026-10-26_Anthropic-2小時前正式向SEC美國證管會提交招股書S-1.md",
+    "data/美股探路客/2026-10-26_德銀2週前調降科技板塊評等原因來自下圖科技板塊相對SP-500其他公司的相對走勢接近本輪牛市上升通道阻力.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

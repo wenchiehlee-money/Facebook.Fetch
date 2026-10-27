@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-26T05:59:53.745192+00:00",
+  "fetched_at_utc": "2026-10-27T06:10:52.860423+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1600083725495102"
+    "1601117032058438",
+    "1600283352141806"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-26_1026-1030-美股投資看什麼.md"
+    "data/FinGuider 美股資訊網/2026-10-27_Anthropic-遞交-IPO-Claude-營收暴衝算力支出也同步飆升.md",
+    "data/FinGuider 美股資訊網/2026-10-26_上市才三個月部分-SK-海力士槓桿-ETF-將清算.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

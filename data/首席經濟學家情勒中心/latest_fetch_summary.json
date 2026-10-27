@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61589343187385",
   "final_url": "https://www.facebook.com/profile.php?id=61589343187385",
-  "fetched_at_utc": "2026-10-26T06:00:27.818581+00:00",
+  "fetched_at_utc": "2026-10-27T06:11:42.788801+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,17 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
-  "new_post_ids": [
-    "122129544387311439",
-    "122129505177311439",
-    "122129499189311439"
-  ],
-  "new_markdown_files": [
-    "data/首席經濟學家情勒中心/2026-10-26_第二輪竟然翻盤......選舉這種事在票還沒開出來前預測都不可信比股市還難猜.md",
-    "data/首席經濟學家情勒中心/2026-10-25_個人還是建議縮短費沙股市交易時間畢竟費沙中午十二點要準時吃午飯是不可剝奪的人權.md",
-    "data/首席經濟學家情勒中心/2026-10-25_這是假的.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/首席經濟學家情勒中心",
   "notes": [
