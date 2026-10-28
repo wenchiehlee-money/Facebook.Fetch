@@ -4,22 +4,22 @@ title: "聯發科最新公告宣布深化與 Nvidia 的長期合作，其中反�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573992511738"
 final_url: "https://www.facebook.com/profile.php?id=61573992511738"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0oLkrSZh6ps7b9EthqwkwkDr1C8rKMN9xAWUN8A9ry3bjY7uEHxyCEMSBeS1hHyiNl&id=61573992511738"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02sCCZdEcvgE7bNLUh99rfXFjMmYRvQbYoDuqnH7GisdmuaEC4XyNWsKySWqUhriXHl&id=61573992511738"
 creation_time_utc: "2026-09-01T00:58:18+00:00"
-fetched_at_utc: "2026-10-27T06:11:46.345107+00:00"
+fetched_at_utc: "2026-10-28T06:48:20.456245+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/788967335_122191331768799750_7224523906314320970_n.jpg?stp=cp6_dst-jpg_p180x540_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1BUgW4LqHboQ7kNvwGa52bO&_nc_oc=AdoqqDt4Dlkrz2la0G84XMI76dSIqppJVJSHGYc0qpmN7mt19U2OPWP8zRplzPDd53o&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=UyiSX2SH5GL_XIbIYnfj9w&_nc_ss=79120&oh=00_AQOkcz30AdYU_pTuwVre54GGAr5NTji6DKSUlSpX7Whguw&oe=6AE62A89"
+image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/788967335_122191331768799750_7224523906314320970_n.jpg?stp=cp6_dst-jpg_p180x540_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=an3EB2EOn70Q7kNvwH5urhf&_nc_oc=Adp_nUigy9O7Iaf9AyfVz_TaFw1-PLc4VJxSrN2JlMS5-u_LB96PMFN23JR7nl3o7_w&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=GuLGQhCEVfqQT9iOlQSQAw&_nc_ss=79120&oh=00_AQTR-BibyHlCusTmfsQGvZEqaodfHCRLC22GffDrGw_Ffw&oe=6AE77C09"
 feedback_id: "ZmVlZGJhY2s6MTIyMTkxMzMyMjAwNzk5NzUw"
 page_canonical_url: ""
 ---
 
 # 聯發科最新公告宣布深化與 Nvidia 的長期合作，其中反覆出現的「rack-scale」，正是理解這份公告的關鍵，也直接驗證了我兩個多月前研究的核心判斷：
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0oLkrSZh6ps7b9EthqwkwkDr1C8rKMN9xAWUN8A9ry3bjY7uEHxyCEMSBeS1hHyiNl&id=61573992511738
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02sCCZdEcvgE7bNLUh99rfXFjMmYRvQbYoDuqnH7GisdmuaEC4XyNWsKySWqUhriXHl&id=61573992511738
 
-![聯發科最新公告宣布深化與 Nvidia 的長期合作，其中反覆出現的「rack-scale」，正是理解這份公告的關鍵，也直接驗證了我兩個多月前研究的核心判斷：](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/788967335_122191331768799750_7224523906314320970_n.jpg?stp=cp6_dst-jpg_p180x540_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1BUgW4LqHboQ7kNvwGa52bO&_nc_oc=AdoqqDt4Dlkrz2la0G84XMI76dSIqppJVJSHGYc0qpmN7mt19U2OPWP8zRplzPDd53o&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=UyiSX2SH5GL_XIbIYnfj9w&_nc_ss=79120&oh=00_AQOkcz30AdYU_pTuwVre54GGAr5NTji6DKSUlSpX7Whguw&oe=6AE62A89)
+![聯發科最新公告宣布深化與 Nvidia 的長期合作，其中反覆出現的「rack-scale」，正是理解這份公告的關鍵，也直接驗證了我兩個多月前研究的核心判斷：](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/788967335_122191331768799750_7224523906314320970_n.jpg?stp=cp6_dst-jpg_p180x540_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=an3EB2EOn70Q7kNvwH5urhf&_nc_oc=Adp_nUigy9O7Iaf9AyfVz_TaFw1-PLc4VJxSrN2JlMS5-u_LB96PMFN23JR7nl3o7_w&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=GuLGQhCEVfqQT9iOlQSQAw&_nc_ss=79120&oh=00_AQTR-BibyHlCusTmfsQGvZEqaodfHCRLC22GffDrGw_Ffw&oe=6AE77C09)
 聯發科最新公告宣布深化與 Nvidia 的長期合作，其中反覆出現的「rack-scale」，正是理解這份公告的關鍵，也直接驗證了我兩個多月前研究的核心判斷：
 
 聯發科內部已將 AI 事業的策略定位，從「IC / ASIC 設計」提升至「系統級別設計」。

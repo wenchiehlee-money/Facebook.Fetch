@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-27T06:10:52.860423+00:00",
+  "fetched_at_utc": "2026-10-28T06:47:39.760869+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1601117032058438",
-    "1600283352141806"
+    "1602482211921920",
+    "1602131391957002",
+    "1601654598671348"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-27_Anthropic-遞交-IPO-Claude-營收暴衝算力支出也同步飆升.md",
-    "data/FinGuider 美股資訊網/2026-10-26_上市才三個月部分-SK-海力士槓桿-ETF-將清算.md"
+    "data/FinGuider 美股資訊網/2026-10-28_OpenAI-傳計畫採購-Google-AI-晶片.md",
+    "data/FinGuider 美股資訊網/2026-10-27_硬碟大廠-希捷科技STXFY2027Q1-財報財測全面優於預期不過盤後仍下跌約--6威騰電子WDCSanDiskSNDK美光MU-等同業同步走低.md",
+    "data/FinGuider 美股資訊網/2026-10-27_康寧亮眼財報AI-產品銷售翻倍光通訊貢獻近六成獲利.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-10-27T06:12:04.175902+00:00",
+  "fetched_at_utc": "2026-10-28T06:48:34.038592+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1552578853570992",
-    "1552469523581925",
-    "1552432773585600"
+    "1553778660117678",
+    "1553687316793479",
+    "1553665130129031"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-10-27_AI資料中心等不到電開始自己蓋電廠但這波自帶電力商機法人優先看好的卻是把電送進機房的重電與電纜.md",
-    "data/商業周刊商周.com/2026-10-27_商周執行長郭奕伶14年打造台灣最年輕最會賺的兆元企業緯穎洪麗寗你只要說我願意.md",
-    "data/商業周刊商周.com/2026-10-26_商周讀書會財富不只是銀行帳戶上的數字摘自變有錢的系統化習慣.md"
+    "data/商業周刊商周.com/2026-10-28_連日本JR都來搶北車商場.md",
+    "data/商業周刊商周.com/2026-10-28_台積電明年營收能否破8兆不只看輝達更要看蘇姿丰.md",
+    "data/商業周刊商周.com/2026-10-28_AI專案做了不少如何真正轉化為企業競爭力.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

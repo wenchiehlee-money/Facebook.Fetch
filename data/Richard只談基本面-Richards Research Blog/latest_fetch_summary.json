@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-10-27T06:11:22.931160+00:00",
+  "fetched_at_utc": "2026-10-28T06:48:01.930338+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1650134120136621",
-    "1650076396809060",
-    "1649941890155844"
+    "1651110056705694",
+    "1650943200055713"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-10-26_昨天一篇IC設計AI影響文不知為何意外廣傳因為昨天只是簡單寫沒有交代會這樣想的來龍去脈補充一下上次貼過OpenAI-ASIC專案負責人Richard-Ho的訪談.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-10-26_我覺得Gartner的IT-spending方法論可能需要修改納入AI-tokens的支出目前看起來不論那一項目不像是有納入的樣子因為企業AI-tokens支出.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-10-26_寫東西以來常有讀者朋友留言說我看錯了寫錯了很正常也很好因為確實常常弄錯看錯但留言說是AI文的倒是第一次因為這版不是科普版用字精簡通常連用AI修飾都懶還有人認為是.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-10-27_台积电在SRAM微缩方面的进展已停滞多年自2020年N55纳米工艺量产以来其高密度6T-SRAM存储单元的面积一直停留在约0.021平方微米之后的N3N2节点虽.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-10-27_上週WDC財報會議上肯定表示將繼續維持1不增加台數UNIT產量2靠增加碟片密度和增加碟片數量來增加HDD單機容量和總供應EB容量並且質疑Toshiba-HDD沒.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-27T06:11:27.509938+00:00",
+  "fetched_at_utc": "2026-10-28T06:48:05.198608+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1645649563586332",
-    "1645600910257864",
-    "1645203686964253"
+    "1646803906804231",
+    "1646703460147609",
+    "1646594716825150"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-27_DoorDash-打算170億收購Instacart搶親攔胡UberInstacart母公司Maplebear大漲接近8DoorDash大跌6.md",
-    "data/IEObserve 國際經濟觀察/2026-10-27_放假兩天閃過崩跌的另一面是沒買到更便宜.md",
-    "data/IEObserve 國際經濟觀察/2026-10-26_中國人真的機器人很超前.md"
+    "data/IEObserve 國際經濟觀察/2026-10-28_我真的有感覺到東亞其他地方的食物口味很常對我來說太鹹或太甜其實也有可能是習慣台北整體吃的真的都偏清淡跟養生微糖微冰習慣了甚至我很常無糖去冰.md",
+    "data/IEObserve 國際經濟觀察/2026-10-28_Google-TPU-再下一城首次被外部的大型雲端服務商Oracle使用.md",
+    "data/IEObserve 國際經濟觀察/2026-10-28_SK-Hynix-的財報營收和營業利益年成長仍然在加速DRAM和HBM的產能到2029都已經售罄2027和2028的LTA已經超過50新談判的HBM價格與傳統D.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

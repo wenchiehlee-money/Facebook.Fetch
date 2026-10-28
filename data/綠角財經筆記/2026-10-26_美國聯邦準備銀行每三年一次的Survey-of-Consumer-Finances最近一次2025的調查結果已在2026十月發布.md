@@ -4,22 +4,22 @@ title: "美國聯邦準備銀行每三年一次的Survey of Consumer Finances，
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0rLjDFQz5iWd8k1uEAYRbWrzMMAmE59XP4vrx5rW2MnApUWrteQ9DZXaGc56ywttVl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02vCAvS5uuZxiao7NDJ2vac48CxUhdhSmt679WoCDQADqJ42wNxjcyPk4N927oHRBRl"
 creation_time_utc: "2026-10-26T23:45:03+00:00"
-fetched_at_utc: "2026-10-27T06:10:57.282729+00:00"
+fetched_at_utc: "2026-10-28T06:47:43.122559+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/863355561_1542871557646239_678447723004867917_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=S_n-0eOJciMQ7kNvwEwPQm_&_nc_oc=Ado77kg-xXk7vPN3D7j5-4gcGr9wfjWZeZ0wlbbadE0SfZ38mVqq8rNv7rEvvHfY74I&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=Mb8G0uG8sGfZUSybTrHPQA&_nc_ss=79120&oh=00_AQPB_TAQOxUTbTgH_78EM1U9avL3Mb9jEePKYNYkjd2McQ&oe=6AE62326"
+image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/863355561_1542871557646239_678447723004867917_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-xUJrzkHHzsQ7kNvwGMAZGn&_nc_oc=Adr3TwRee7Iwg5lk0cfsvN0LY0bYzL-eS6P9Q2fQS31YMV2Bc67ZPPZ0SKiwnaFmNk0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=sx7dIyP5dIS-okr9HyQedA&_nc_ss=79120&oh=00_AQQn3jwmk6FT4k2TtaZJ7clfA3xHRtbV4I8JbZye6bcEJQ&oe=6AE774A6"
 feedback_id: "ZmVlZGJhY2s6MTU0MzIyMTk4NDI3Nzg2Mw=="
 page_canonical_url: ""
 ---
 
 # 美國聯邦準備銀行每三年一次的Survey of Consumer Finances，最近一次2025的調查結果，已在2026十月發布。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0rLjDFQz5iWd8k1uEAYRbWrzMMAmE59XP4vrx5rW2MnApUWrteQ9DZXaGc56ywttVl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02vCAvS5uuZxiao7NDJ2vac48CxUhdhSmt679WoCDQADqJ42wNxjcyPk4N927oHRBRl
 
-![美國聯邦準備銀行每三年一次的Survey of Consumer Finances，最近一次2025的調查結果，已在2026十月發布。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/863355561_1542871557646239_678447723004867917_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=S_n-0eOJciMQ7kNvwEwPQm_&_nc_oc=Ado77kg-xXk7vPN3D7j5-4gcGr9wfjWZeZ0wlbbadE0SfZ38mVqq8rNv7rEvvHfY74I&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=Mb8G0uG8sGfZUSybTrHPQA&_nc_ss=79120&oh=00_AQPB_TAQOxUTbTgH_78EM1U9avL3Mb9jEePKYNYkjd2McQ&oe=6AE62326)
+![美國聯邦準備銀行每三年一次的Survey of Consumer Finances，最近一次2025的調查結果，已在2026十月發布。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/863355561_1542871557646239_678447723004867917_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-xUJrzkHHzsQ7kNvwGMAZGn&_nc_oc=Adr3TwRee7Iwg5lk0cfsvN0LY0bYzL-eS6P9Q2fQS31YMV2Bc67ZPPZ0SKiwnaFmNk0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=sx7dIyP5dIS-okr9HyQedA&_nc_ss=79120&oh=00_AQQn3jwmk6FT4k2TtaZJ7clfA3xHRtbV4I8JbZye6bcEJQ&oe=6AE774A6)
 美國聯邦準備銀行每三年一次的Survey of Consumer Finances，最近一次2025的調查結果，已在2026十月發布。
 
 這次的報告，很大部分會跟三年前，也就是2022的狀況，進行比較。報告中用的都是通膨調整後的數字。譬如講2022年的美國家庭淨資產中位數時，用的是2025的錢。所以看到的是扣除掉通膨影響之後，實質的資產增減。

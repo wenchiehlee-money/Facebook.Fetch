@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-10-27T06:11:31.138323+00:00",
+  "fetched_at_utc": "2026-10-28T06:48:08.147853+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,17 +9,13 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 1,
+  "new_post_count": 1,
   "new_post_ids": [
-    "122234674256502956",
-    "122234670170502956",
-    "122234669444502956"
+    "122234846492502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-10-27_特斯拉股價悄悄創下-7-月以來最高收盤價.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-10-27_機器人記憶體需求可能成為-AI-下一個成長引擎.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-10-27_尿酸偏高哪些食物要少吃飲食控制懶人包.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-10-28_GEVAI-電力需求正在引爆發電設備搶購潮.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",
@@ -28,6 +24,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 2 篇貼文。"
   ]
 }

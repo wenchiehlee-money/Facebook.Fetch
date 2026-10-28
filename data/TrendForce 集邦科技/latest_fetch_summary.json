@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-10-27T06:12:08.499514+00:00",
+  "fetched_at_utc": "2026-10-28T06:48:37.648104+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1534742118676208"
+  ],
+  "new_markdown_files": [
+    "data/TrendForce 集邦科技/2026-10-28_SK-海力士-2026-年第三季營收衝破-100-兆韓圜營業利益率飆至-80-創新高.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",
   "notes": [

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/dextermchang",
   "final_url": "https://www.facebook.com/dextermchang",
-  "fetched_at_utc": "2026-10-27T06:10:39.841945+00:00",
+  "fetched_at_utc": "2026-10-28T06:47:30.049526+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122145172095207208"
+    "122145284757207208"
   ],
   "new_markdown_files": [
-    "data/大會計師 張明輝/2026-10-27_巴菲特-交棒看懂董事長權力.md"
+    "data/大會計師 張明輝/2026-10-28_聯發科的商業模式正靠近博通.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/大會計師 張明輝",
