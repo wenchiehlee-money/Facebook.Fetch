@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-10-28T06:47:36.926401+00:00",
+  "fetched_at_utc": "2026-10-29T06:56:59.890932+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,17 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
-  "new_post_ids": [
-    "1421141250129516",
-    "1420438176866490",
-    "1420356923541282"
-  ],
-  "new_markdown_files": [
-    "data/行銷資料科學/2026-10-28_我做了一個AI監工上班摸魚直接被抓包.md",
-    "data/行銷資料科學/2026-10-27_行銷資料科學-2.0從看懂數據到讓-AI-參與決策.md",
-    "data/行銷資料科學/2026-10-27_為什麼你用-AI-生成的影片一看就很-AI.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",
   "notes": [

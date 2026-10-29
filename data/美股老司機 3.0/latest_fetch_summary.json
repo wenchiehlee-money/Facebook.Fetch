@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-10-28T06:48:11.085728+00:00",
+  "fetched_at_utc": "2026-10-29T06:57:40.661946+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122208285206486922",
-    "122208276224486922",
-    "122208272780486922"
+    "122208411416486922",
+    "122208402710486922",
+    "122208387980486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-10-28_今晚.md",
-    "data/美股老司機 3.0/2026-10-28_溫柔的解讀.md",
-    "data/美股老司機 3.0/2026-10-28_財報-SKHY.md"
+    "data/美股老司機 3.0/2026-10-29_根據路透社報道長鑫儲存計劃在未來兩個月內啟動HBM3E的限量產量.md",
+    "data/美股老司機 3.0/2026-10-29_太陽能發電量最高的國家.md",
+    "data/美股老司機 3.0/2026-10-29_週三晚開心.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

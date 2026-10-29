@@ -4,22 +4,22 @@ title: "SpaceX財報電話會上，有分析師拋出了一個大家都很好奇
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02L54oFLc7ewZWh8CYoJnLna5QvYwEcVJjFqdkwtBdP9g6K3a3xmk1BreDFTLE3fPxl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0G3U5mXQYz4kHHRLora5qkifqejnv28ea1M1t8u7iqQSjBgn6vRnndH3MVm1mMFQtl&id=61573146584049"
 creation_time_utc: "2026-10-25T04:00:41+00:00"
-fetched_at_utc: "2026-10-28T06:47:52.173662+00:00"
+fetched_at_utc: "2026-10-29T06:57:18.125207+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/858402758_122202602504771552_1745067445555528303_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mKG9tpydc7IQ7kNvwGEyzGI&_nc_oc=Adr1f2xNku6P0GW4lAe0KWzmUZq3OqJC2Oc2U8Dt5hUpR1Xgy1xBvDQ_G-NUAIXVz2Q&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=3bcp6IibEfKwdLoEq1ixfQ&_nc_ss=79120&oh=00_AQQXeeE4rWxrKuI-jYsSBHfAFsSgclsfrbexbTFMRAw76A&oe=6AE752EB"
+image_url: "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/858402758_122202602504771552_1745067445555528303_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=IbtcemxPfkgQ7kNvwGfJzOM&_nc_oc=AdoL4X7D6karb9ZIys2zQAN7U5aGNnbwwwhtrmqvfLP9bRDmDr73y0tc9O8RMj8Yb7M&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=oa4fV76N5T4lWVRo6659qg&_nc_ss=79120&oh=00_AQQUBynA8O0iA3T5bchPiUsy57lgdYzMOnMLs4pq2yKG-Q&oe=6AE8DCAB"
 feedback_id: "ZmVlZGJhY2s6MTIyMjAyNjAzMDAyNzcxNTUy"
 page_canonical_url: ""
 ---
 
 # SpaceX財報電話會上，有分析師拋出了一個大家都很好奇、卻又有點敏感的問題：SpaceX會和Tesla合併嗎？
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02L54oFLc7ewZWh8CYoJnLna5QvYwEcVJjFqdkwtBdP9g6K3a3xmk1BreDFTLE3fPxl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0G3U5mXQYz4kHHRLora5qkifqejnv28ea1M1t8u7iqQSjBgn6vRnndH3MVm1mMFQtl&id=61573146584049
 
-![SpaceX財報電話會上，有分析師拋出了一個大家都很好奇、卻又有點敏感的問題：SpaceX會和Tesla合併嗎？](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/858402758_122202602504771552_1745067445555528303_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mKG9tpydc7IQ7kNvwGEyzGI&_nc_oc=Adr1f2xNku6P0GW4lAe0KWzmUZq3OqJC2Oc2U8Dt5hUpR1Xgy1xBvDQ_G-NUAIXVz2Q&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=3bcp6IibEfKwdLoEq1ixfQ&_nc_ss=79120&oh=00_AQQXeeE4rWxrKuI-jYsSBHfAFsSgclsfrbexbTFMRAw76A&oe=6AE752EB)
+![SpaceX財報電話會上，有分析師拋出了一個大家都很好奇、卻又有點敏感的問題：SpaceX會和Tesla合併嗎？](https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/858402758_122202602504771552_1745067445555528303_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=IbtcemxPfkgQ7kNvwGfJzOM&_nc_oc=AdoL4X7D6karb9ZIys2zQAN7U5aGNnbwwwhtrmqvfLP9bRDmDr73y0tc9O8RMj8Yb7M&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=oa4fV76N5T4lWVRo6659qg&_nc_ss=79120&oh=00_AQQUBynA8O0iA3T5bchPiUsy57lgdYzMOnMLs4pq2yKG-Q&oe=6AE8DCAB)
 SpaceX財報電話會上，有分析師拋出了一個大家都很好奇、卻又有點敏感的問題：SpaceX會和Tesla合併嗎？
 ​
 馬斯克的第一反應很標準、很合規：兩家公司已各自成立獨立董事特別委員會，「我是利益衝突的一方，不能參加討論。」

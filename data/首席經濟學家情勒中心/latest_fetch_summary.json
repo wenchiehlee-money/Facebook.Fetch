@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61589343187385",
   "final_url": "https://www.facebook.com/profile.php?id=61589343187385",
-  "fetched_at_utc": "2026-10-28T06:48:17.678527+00:00",
+  "fetched_at_utc": "2026-10-29T06:57:47.885015+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,21 +9,19 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 2,
+  "checked_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "122130123663311439",
-    "122130047631311439"
+    "122130203643311439"
   ],
   "new_markdown_files": [
-    "data/首席經濟學家情勒中心/2026-10-28_因為AI產業正在發生一件很有意思的事過去決定資料中心能不能蓋的是科技公司董事會批准多少資本支出未來決定資料中心能不能蓋的可能是附近居民願不願意投下贊成票.md",
-    "data/首席經濟學家情勒中心/2026-10-28_產經隨筆-001打算每天寫希望我有這個毅力.md"
+    "data/首席經濟學家情勒中心/2026-10-29_首席的市場偏執-002.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/首席經濟學家情勒中心",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
+    "本次已成功用公開 GraphQL 擷取到 2 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-28T06:47:39.760869+00:00",
+  "fetched_at_utc": "2026-10-29T06:57:03.267516+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1602482211921920",
-    "1602131391957002",
-    "1601654598671348"
+    "1603764695127005",
+    "1603458381824303",
+    "1602937525209722"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-28_OpenAI-傳計畫採購-Google-AI-晶片.md",
-    "data/FinGuider 美股資訊網/2026-10-27_硬碟大廠-希捷科技STXFY2027Q1-財報財測全面優於預期不過盤後仍下跌約--6威騰電子WDCSanDiskSNDK美光MU-等同業同步走低.md",
-    "data/FinGuider 美股資訊網/2026-10-27_康寧亮眼財報AI-產品銷售翻倍光通訊貢獻近六成獲利.md"
+    "data/FinGuider 美股資訊網/2026-10-29_甲骨文給出現金流時間表股價暴漲-11.md",
+    "data/FinGuider 美股資訊網/2026-10-28_微軟MSFT公布了-FY2027Q1-財報營收年增-19-至-923-億美元優於預期的-907.4-億淨利年增-32-至-366-億EPS-報-4.89-美元優.md",
+    "data/FinGuider 美股資訊網/2026-10-28_訂單翻倍Vertiv-財報全面超標盤前大漲近-16.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-10-28T06:48:30.720049+00:00",
+  "fetched_at_utc": "2026-10-29T06:58:02.863191+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1652424516928049",
-    "1651738503663317"
+    "1653569830146851"
   ],
   "new_markdown_files": [
-    "data/LinsanityStock/2026-10-28_今天台股大幅反彈最差的情況應該已經過去唯一比較可惜的是量縮看來市場還在等FOMC的結果出來.md",
-    "data/LinsanityStock/2026-10-27_融資連續兩天都大減超過百億這是個好消息.md"
+    "data/LinsanityStock/2026-10-29_昨天提到雖然大漲但成交量沒跟上是個敗筆今天台股隨即又來一次大怒神大家覺得今天融資會減多少億.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",

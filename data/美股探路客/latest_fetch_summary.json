@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-10-28T06:47:49.471567+00:00",
+  "fetched_at_utc": "2026-10-29T06:57:14.796746+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,15 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
+  "checked_post_count": 2,
   "new_post_count": 2,
   "new_post_ids": [
-    "1554795470027718",
-    "1553680206805911"
+    "1555464373294161",
+    "1555386343301964"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-10-28_如果只看現金儲備不計入短期投資如短債Anthropic-ANT-手中截至6月的現金1120億美元比科技巨頭波克夏都多.md",
-    "data/美股探路客/2026-10-27_Meta股價大概率至少要經歷一段盤整或修正期了.md"
+    "data/美股探路客/2026-10-28_微軟財報全面超越預期Azure營收增速48超越預期的45資本支出低於預期盤後大漲.md",
+    "data/美股探路客/2026-10-28_Oracle重申2027財年目標EPS-8.1到2030年營收年複合成長率超過35EPS超過21.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",
@@ -26,6 +26,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 1 篇貼文。"
   ]
 }

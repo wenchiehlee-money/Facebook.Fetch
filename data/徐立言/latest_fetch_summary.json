@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/hsulylab",
   "final_url": "https://www.facebook.com/hsulylab",
-  "fetched_at_utc": "2026-10-28T06:48:14.276997+00:00",
+  "fetched_at_utc": "2026-10-29T06:57:44.542391+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1408115671486583",
-    "1407543394877144",
-    "1407449214886562"
+    "1409160848048732",
+    "1409078854723598",
+    "1408533114778172"
   ],
   "new_markdown_files": [
-    "data/徐立言/2026-10-28_根據-Intel-CTO-在-Dwarkesh-Podcast-的最新訪談摘要目前半導體製程的競爭格局出現了極具啟發性的結構轉變.md",
-    "data/徐立言/2026-10-27_我們常常有一種理所當然的共識只要擁有絕對的資金優勢和最低的借貸成本巨頭企業理應將所有核心基礎設施掌握在自己手中.md",
-    "data/徐立言/2026-10-27_你還在為了買一個名牌包而默默節衣縮食幾個月嗎.md"
+    "data/徐立言/2026-10-29_我們常常理所當然地認為算力的增長僅僅取決於運算晶片的數量.md",
+    "data/徐立言/2026-10-29_市場洞察10月最新美股深度解析已上架.md",
+    "data/徐立言/2026-10-28_當我們每天都在驚嘆人工智能帶來的便利時你有沒有想過這場科技盛宴背後的真實代價是什麼.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/徐立言",
