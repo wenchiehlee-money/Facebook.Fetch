@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/iqvalue",
   "final_url": "https://www.facebook.com/iqvalue",
-  "fetched_at_utc": "2026-10-29T06:57:55.755043+00:00",
+  "fetched_at_utc": "2026-10-30T07:00:22.847357+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1580748914066886"
+    "1581869540621490",
+    "1581811147293996",
+    "1581411170667327"
   ],
   "new_markdown_files": [
-    "data/洪鑑穩 帶你挖好股/2026-10-28_AI-建設商恐有-5000-億美元資金缺口.md"
+    "data/洪鑑穩 帶你挖好股/2026-10-29_Google雲端營收暴增103股價卻暴跌逾一成華爾街在怕什麼.md",
+    "data/洪鑑穩 帶你挖好股/2026-10-29_穆迪警告AI-債務風險正在累積.md",
+    "data/洪鑑穩 帶你挖好股/2026-10-29_沃什最新利率決策六大重點經濟強勁通膨未解美股下一步怎麼走.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/洪鑑穩 帶你挖好股",

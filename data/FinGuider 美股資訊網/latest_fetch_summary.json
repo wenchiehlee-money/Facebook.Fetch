@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-29T06:57:03.267516+00:00",
+  "fetched_at_utc": "2026-10-30T06:59:43.170524+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1603764695127005",
-    "1603458381824303",
-    "1602937525209722"
+    "1605002848336523",
+    "1604854081684733",
+    "1604800468356761"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-29_甲骨文給出現金流時間表股價暴漲-11.md",
-    "data/FinGuider 美股資訊網/2026-10-28_微軟MSFT公布了-FY2027Q1-財報營收年增-19-至-923-億美元優於預期的-907.4-億淨利年增-32-至-366-億EPS-報-4.89-美元優.md",
-    "data/FinGuider 美股資訊網/2026-10-28_訂單翻倍Vertiv-財報全面超標盤前大漲近-16.md"
+    "data/FinGuider 美股資訊網/2026-10-30_快閃記憶體大廠-SanDiskSNDK2027-會計年度第一季營收年增-378獲利與下季展望也優於市場預期並宣布-1-股拆成-8-股但財報公布後股價仍承壓盤後一.md",
+    "data/FinGuider 美股資訊網/2026-10-30_輝達NVDA回應紐約時報報導強調黃仁勳與新加坡雲端業者-Megaspeed-人員的互動屬正常業務往來針對該公司的晶片轉運指控也稱去年已經徹底調查並遭駁斥.md",
+    "data/FinGuider 美股資訊網/2026-10-30_GoogleGOOGL昨日重挫-12.6創上市以來最大單日跌幅市值蒸發近-5000-億美元即使雲端營收翻倍成長投資人仍對搜尋業務與現金流表現感到失望.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

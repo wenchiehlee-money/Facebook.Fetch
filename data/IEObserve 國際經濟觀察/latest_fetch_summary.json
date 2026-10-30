@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-29T06:57:33.423795+00:00",
+  "fetched_at_utc": "2026-10-30T07:00:06.221837+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1647640480053907",
-    "1647548840063071",
-    "1647491190068836"
+    "1648764003274888",
+    "1648663539951601",
+    "1648599253291363"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-29_Google-Cloud-營收年增103至307億營業利益年增217至111億營業利益率升至36.2都超出市場預期Cloud未認列合約達5610億美元公司預期未.md",
-    "data/IEObserve 國際經濟觀察/2026-10-29_彭博報導說Marvell已經就收購光通龍頭Lumentum深入談判而且交易可能下週就會宣布MRVL大跌LITE大漲.md",
-    "data/IEObserve 國際經濟觀察/2026-10-28_Fed-在選前還是如預期的維持利率不變實體經濟展現超乎預期的韌性但通膨壓力已籠罩市場近六年Warsh強調當前按兵不動是為了累積更多資訊以決定最適政策立場並直言美.md"
+    "data/IEObserve 國際經濟觀察/2026-10-30_受惠於資料中心擴建與記憶體供應吃緊Sandisk在最新一季營收達110億美元年增幅高達378其中資料中心業務年增達17倍季增61至48億美元.md",
+    "data/IEObserve 國際經濟觀察/2026-10-30_在發佈財報前Intel-股價今年已飆漲約-150但因為Q4財測遠低於華爾街預期導致盤後股價暴跌超過-21.md",
+    "data/IEObserve 國際經濟觀察/2026-10-30_櫃買貫破年線跟韓股一樣跌了5今天融資應該會殺出汁了.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

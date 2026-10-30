@@ -4,20 +4,20 @@ title: "正當市場認為 Rubin CPX 已被 Nvidia 從產品藍圖中移除之�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573992511738"
 final_url: "https://www.facebook.com/profile.php?id=61573992511738"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid06GfdaSh8uYaB5v9WJTyyQxeuRsrDKZVQkjKgN23m2Y2zGGXYaBkxeSJHCD39V3YGl&id=61573992511738"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid029e9pCU3kwCaBZqoG9rt5vf5kquksWWF25RS2dRtwJ4bDY6HXZTXp9D1UvUUEAjjNl&id=61573992511738"
 creation_time_utc: "2026-08-31T14:04:59+00:00"
-fetched_at_utc: "2026-10-29T06:57:52.008386+00:00"
+fetched_at_utc: "2026-10-30T07:00:20.035746+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
 image_url: ""
-feedback_id: "ZmVlZGJhY2s6MTIyMTkxMjg2Mzc4Nzk5NzUw"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwMjllOXBDVTNrd0NhQlpxb0c5cnQ1dmY1a3F1a3NXV0YyNVJTMmRSdHdKNGJEWTZIWFpUWHA5RDFVdlVVRUFqak5s"
 page_canonical_url: ""
 ---
 
 # 正當市場認為 Rubin CPX 已被 Nvidia 從產品藍圖中移除之際，我最新的產業調查顯示，Nvidia 已重啟 Rubin CPX，預計於 1Q27 開始生產。相較舊版，重啟後的 Rubin CPX 擁有更強的預填充（prefill）效能，GPU 規格與機櫃架構也都有明顯改變，足以證明 Nvidia 對 prefill 方案的高度重視。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid06GfdaSh8uYaB5v9WJTyyQxeuRsrDKZVQkjKgN23m2Y2zGGXYaBkxeSJHCD39V3YGl&id=61573992511738
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid029e9pCU3kwCaBZqoG9rt5vf5kquksWWF25RS2dRtwJ4bDY6HXZTXp9D1UvUUEAjjNl&id=61573992511738
 正當市場認為 Rubin CPX 已被 Nvidia 從產品藍圖中移除之際，我最新的產業調查顯示，Nvidia 已重啟 Rubin CPX，預計於 1Q27 開始生產。相較舊版，重啟後的 Rubin CPX 擁有更強的預填充（prefill）效能，GPU 規格與機櫃架構也都有明顯改變，足以證明 Nvidia 對 prefill 方案的高度重視。
 
 關鍵改變如下：

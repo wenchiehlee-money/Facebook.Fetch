@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-10-29T06:57:59.182203+00:00",
+  "fetched_at_utc": "2026-10-30T07:00:25.751941+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1669907907826015"
+    "1670963367720469"
   ],
   "new_markdown_files": [
-    "data/andrew.semis.techs/2026-10-29_雖然谷歌雲及自研晶片TPUs的營收獲利及資本支出營收及獲利回報率都在加速但因為谷歌雲營收佔總營收比太低加上龐大的舊業務不僅營收增速緩慢外而且還低於市場預期這讓整.md"
+    "data/andrew.semis.techs/2026-10-30_存儲記憶體大漲價造成的-PC需求不振外加以色列廠爆炸停工影響數據中心晶片生產再加上ABF載板缺貨都造成-Intel-四季度營收毛利率及EPS皆不如市場預期盤後大.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",

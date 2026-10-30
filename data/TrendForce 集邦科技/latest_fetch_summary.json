@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-10-29T06:58:11.890205+00:00",
+  "fetched_at_utc": "2026-10-30T07:00:39.747437+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1535788788571541",
-    "1534921971991556",
-    "1534911225325964"
+    "1536907385126348",
+    "1536038695213217",
+    "1535951981888555"
   ],
   "new_markdown_files": [
-    "data/TrendForce 集邦科技/2026-10-29_三星單季營業利益破百兆韓圜記憶體漲價與-HBM4-成推手.md",
-    "data/TrendForce 集邦科技/2026-10-28_Apple-首款折疊機-iPhone-Duo-預購未滿一週近日已傳出內螢幕破損回報折痕越不明顯螢幕耐用度更取決於鉸鏈TrendForce-分析折疊手機下一輪的競.md",
-    "data/TrendForce 集邦科技/2026-10-28_模組廠需求疲弱拖累NAND現貨交易512Gb-TLC價格下跌1.28.md"
+    "data/TrendForce 集邦科技/2026-10-30_英特爾-Q3-營收-165-億美元創三年新高資料中心飆-78.md",
+    "data/TrendForce 集邦科技/2026-10-29_Apple-MacBookPro-首度導入串聯式-OLED-觸控螢幕預估這款新機於-2027-年出貨量將介於-120-150-萬台激勵面板廠加速顯示技術發展Tr.md",
+    "data/TrendForce 集邦科技/2026-10-29_高容-MLCC-缺口延續受-NVIDIA-Vera-RubinAMD-MI450-等晶片拉貨放量帶動ODM-預期-2027-年第一二季將是高階規格短缺最嚴重時間.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",

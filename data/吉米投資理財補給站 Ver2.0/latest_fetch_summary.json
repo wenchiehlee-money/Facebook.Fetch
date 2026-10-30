@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-10-29T06:57:36.752488+00:00",
+  "fetched_at_utc": "2026-10-30T07:00:08.807612+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122234941220502956",
-    "122234898056502956",
-    "122234893232502956"
+    "122235287888502956",
+    "122235287546502956",
+    "122235286628502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-10-28_邁威爾科技據稱正就收購Lumentum進行深入談判據知情人士透露邁威爾科技正就收購數據中心光學器件製造商Lumentum進行深入談判這可能是人工智能領域規模擴張.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-10-28_美股冬令時間即將開始.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-10-28_日本存儲芯片大廠鎧俠盤前-adr股價一度上漲10.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-10-30_原來期中選舉前要賣水果才賺錢.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-10-30_SANDISKSNDK.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-10-30_Spotify-計劃於2027年第一季推出一項AI驅動的音樂混音服務目標可能於二月的葛萊美獎期間揭幕這家瑞典音頻串流巨頭正考慮向訂閱者每月額外收取4至5美元的服.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",

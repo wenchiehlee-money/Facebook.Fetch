@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-10-29T06:58:02.863191+00:00",
+  "fetched_at_utc": "2026-10-30T07:00:29.160051+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1653569830146851"
+    "1654629436707557"
   ],
   "new_markdown_files": [
-    "data/LinsanityStock/2026-10-29_昨天提到雖然大漲但成交量沒跟上是個敗筆今天台股隨即又來一次大怒神大家覺得今天融資會減多少億.md"
+    "data/LinsanityStock/2026-10-30_昨天上市融資居然增加16.1億加上Intel財報暴雷台股今天開盤不妙.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",
