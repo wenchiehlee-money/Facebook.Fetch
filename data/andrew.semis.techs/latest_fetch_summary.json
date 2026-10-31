@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-10-30T07:00:25.751941+00:00",
+  "fetched_at_utc": "2026-10-31T06:55:11.139240+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1670963367720469"
-  ],
-  "new_markdown_files": [
-    "data/andrew.semis.techs/2026-10-30_存儲記憶體大漲價造成的-PC需求不振外加以色列廠爆炸停工影響數據中心晶片生產再加上ABF載板缺貨都造成-Intel-四季度營收毛利率及EPS皆不如市場預期盤後大.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
   "notes": [

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-10-30T06:59:54.247560+00:00",
+  "fetched_at_utc": "2026-10-31T06:54:31.062804+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "122203233308771552",
-    "122203208102771552",
-    "122203161692771552"
+    "122203352984771552",
+    "122203257530771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-10-30_跟着巴菲特買入就一定能贏嗎.md",
-    "data/Fomo研究院/2026-10-30_在-Google-搜尋框的下面一直有一個不太起眼的按鈕叫做好手氣Im-Feeling-Lucky.md",
-    "data/Fomo研究院/2026-10-29_Google-CEO-Sundar-Pichai-在財報會議中表示在-AI-Overviews-與-AI-Mode-的帶動下本季-Google-的搜尋查詢量Qu.md"
+    "data/Fomo研究院/2026-10-31_如果這份成績單放在兩年前亞馬遜的股價大概當天就會大漲.md",
+    "data/Fomo研究院/2026-10-30_Intel-其實這季的數字不差的.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-30T06:59:43.170524+00:00",
+  "fetched_at_utc": "2026-10-31T06:54:15.379238+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1605002848336523",
-    "1604854081684733",
-    "1604800468356761"
+    "1606164421553699",
+    "1605957524907722",
+    "1605137438323064"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-30_快閃記憶體大廠-SanDiskSNDK2027-會計年度第一季營收年增-378獲利與下季展望也優於市場預期並宣布-1-股拆成-8-股但財報公布後股價仍承壓盤後一.md",
-    "data/FinGuider 美股資訊網/2026-10-30_輝達NVDA回應紐約時報報導強調黃仁勳與新加坡雲端業者-Megaspeed-人員的互動屬正常業務往來針對該公司的晶片轉運指控也稱去年已經徹底調查並遭駁斥.md",
-    "data/FinGuider 美股資訊網/2026-10-30_GoogleGOOGL昨日重挫-12.6創上市以來最大單日跌幅市值蒸發近-5000-億美元即使雲端營收翻倍成長投資人仍對搜尋業務與現金流表現感到失望.md"
+    "data/FinGuider 美股資訊網/2026-10-31_星巴克營收下滑-4.5獲利卻暴增近-4-倍執行長宣告轉型成功.md",
+    "data/FinGuider 美股資訊網/2026-10-31_AI-還沒開始回本Meta-的信用評等先亮起警訊.md",
+    "data/FinGuider 美股資訊網/2026-10-30_英特爾INTCQ3-獲利優於預期卻因-Q4-財測明顯失色週五盤前股價一度重挫約-25AI-伺服器-CPU-需求持續升溫但-PC-市場下滑記憶體漲價加上晶圓與封裝.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-10-30T07:00:06.221837+00:00",
+  "fetched_at_utc": "2026-10-31T06:54:46.283919+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1648764003274888",
-    "1648663539951601",
-    "1648599253291363"
+    "1649786046506017",
+    "1649635943187694",
+    "1649623649855590"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-10-30_受惠於資料中心擴建與記憶體供應吃緊Sandisk在最新一季營收達110億美元年增幅高達378其中資料中心業務年增達17倍季增61至48億美元.md",
-    "data/IEObserve 國際經濟觀察/2026-10-30_在發佈財報前Intel-股價今年已飆漲約-150但因為Q4財測遠低於華爾街預期導致盤後股價暴跌超過-21.md",
-    "data/IEObserve 國際經濟觀察/2026-10-30_櫃買貫破年線跟韓股一樣跌了5今天融資應該會殺出汁了.md"
+    "data/IEObserve 國際經濟觀察/2026-10-31_OpenAI-山姆的餅....是不是沒什麼人買帳.md",
+    "data/IEObserve 國際經濟觀察/2026-10-31_Reddit-的最新財報也可以看出網路生態在AI衝擊下的變化美國的DAU已經開始加速下滑其中一大原因就是Google摘要讓搜尋導流大降這導致Reddit可能會需.md",
+    "data/IEObserve 國際經濟觀察/2026-10-31_費半史詩級的炸裂貫破年線單日一度狂崩接近10最後收-7.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

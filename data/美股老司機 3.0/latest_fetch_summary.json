@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-10-30T07:00:11.310469+00:00",
+  "fetched_at_utc": "2026-10-31T06:54:52.459479+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122208519968486922",
-    "122208518990486922",
-    "122208481748486922"
+    "122208670448486922",
+    "122208667922486922",
+    "122208642020486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-10-30_Alphabet.md",
-    "data/美股老司機 3.0/2026-10-30_全球最大加密貨幣交易所幣安已暫停相關充提與交易服務並展開調查.md",
-    "data/美股老司機 3.0/2026-10-29_財報-AMZN.md"
+    "data/美股老司機 3.0/2026-10-31_受人工智慧衝擊風險最高的上市公司.md",
+    "data/美股老司機 3.0/2026-10-31_週五晚開心.md",
+    "data/美股老司機 3.0/2026-10-31_週五晚打鬧.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

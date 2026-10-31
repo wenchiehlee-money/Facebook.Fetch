@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-10-30T07:00:29.160051+00:00",
+  "fetched_at_utc": "2026-10-31T06:55:15.351733+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1654629436707557"
-  ],
-  "new_markdown_files": [
-    "data/LinsanityStock/2026-10-30_昨天上市融資居然增加16.1億加上Intel財報暴雷台股今天開盤不妙.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",
   "notes": [

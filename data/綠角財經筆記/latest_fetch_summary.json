@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-10-30T06:59:45.857169+00:00",
+  "fetched_at_utc": "2026-10-31T06:54:19.074208+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1546136913986370"
-  ],
-  "new_markdown_files": [
-    "data/綠角財經筆記/2026-10-29_Vanguard高股息ETF英文全名-Vanguard-High-Dividend-Yield-ETF美股代號VYM成立於2006年十一月10日.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",
   "notes": [

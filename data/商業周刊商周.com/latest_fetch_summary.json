@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-10-30T07:00:32.008472+00:00",
+  "fetched_at_utc": "2026-10-31T06:55:19.379847+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1547854840710060",
-    "1555967186565492",
-    "1555878973240980"
+    "1557076219787922",
+    "1556813039814240",
+    "1556321773196700"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-10-30_誰說球技與個人風格只能二選一手握亮眼國際戰績的高爾夫雙胞胎姊妹姊姊-Basia-Lin林曦懷與妹妹-Vidia-Lin林曦臨即將赴日展開系統化訓練-從手感直覺邁.md",
-    "data/商業周刊商周.com/2026-10-30_如果你正在關注鴻海廣達緯穎等AI伺服器供應鏈這次下修的原因比金額本身更值得看.md",
-    "data/商業周刊商周.com/2026-10-30_輝達AI晶片上有一頂幫忙散熱的金屬帽全球能供貨的廠商只有兩家其中一家曾經連虧6年股價最慘只剩8元.md"
+    "data/商業周刊商周.com/2026-10-31_她派AI分身代替自己去採訪受訪者事後表示AI-比我平時交談的大多數人類聽得更認真.md",
+    "data/商業周刊商周.com/2026-10-30_模具升級跨域共創從製造走向共創.md",
+    "data/商業周刊商周.com/2026-10-30_動盪中造就非凡企業韌性如何煉成.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

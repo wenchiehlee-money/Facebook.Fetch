@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61591563193133",
   "final_url": "https://www.facebook.com/profile.php?id=61591563193133",
-  "fetched_at_utc": "2026-10-30T07:00:42.757200+00:00",
+  "fetched_at_utc": "2026-10-31T06:55:26.458506+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "122145700329385439"
+  ],
+  "new_markdown_files": [
+    "data/艾立克日記/2026-10-30_台股破半年線過去36年只有8次跌完20天後6次漲回來-全部貼在這一篇文章-追蹤者.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/艾立克日記",
   "notes": [

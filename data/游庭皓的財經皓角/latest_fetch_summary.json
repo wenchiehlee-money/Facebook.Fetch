@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-10-30T06:59:37.777162+00:00",
+  "fetched_at_utc": "2026-10-31T06:54:07.446810+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1096408406356828",
-    "1191735333417818",
-    "1191734450084573"
+    "1192666816658003",
+    "1192665649991453",
+    "1192664703324881"
   ],
   "new_markdown_files": [
-    "data/游庭皓的財經皓角/2026-10-30_20261030五Alphabet狂瀉12-Marvell暴跌逾13-英特爾暴跌20-美股到底-跌完了沒有早晨財經速解讀.md",
-    "data/游庭皓的財經皓角/2026-10-29_台灣餐飲業再度掀起漲價潮饗賓餐旅集團宣布旗下自助餐品牌饗食天堂將從2026年12月1日起調漲價格除了平日下午餐維持原價其餘時段每人一律增加30元平均漲幅約2.5.md",
-    "data/游庭皓的財經皓角/2026-10-29_Hello-Kitty捲入中日外交風暴三麗鷗緊急道歉停合作日本三麗鷗公司原本與諜報影集VIVANT合作推出穿著劇中角色服裝的Hello-Kitty商品卻因影集涉.md"
+    "data/游庭皓的財經皓角/2026-10-30_這種收入增速竹北房價會先追上板橋再來進軍北市最終目標是追平大安區.md",
+    "data/游庭皓的財經皓角/2026-10-30_西班牙移民人口突破1000萬每5人就有1人出生海外.md",
+    "data/游庭皓的財經皓角/2026-10-30_Agentic-AI-正在成為算力需求的新引擎根據OpenRouter平台統計2026年1月至8月人類直接操作AI的每週Token使用量從約3兆增加至10兆但A.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",

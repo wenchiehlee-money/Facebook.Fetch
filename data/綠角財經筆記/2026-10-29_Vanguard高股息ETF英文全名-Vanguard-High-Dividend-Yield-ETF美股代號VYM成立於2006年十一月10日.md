@@ -4,22 +4,22 @@ title: "Vanguard高股息ETF，英文全名 Vanguard High Dividend Yield ETF，�
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02qaHEieU3oCQ5iNorRLshUHe3Q1hirdy3f4U9Mzx818YpP131NRqr8mXNUrfJnZUBl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0n2e3oUqgwwcw3cT3cVqSsgGMjdGZdQCvLPJ29JqmVtKvtmzSUPPfyBcvg3aafvAbl"
 creation_time_utc: "2026-10-29T23:31:04+00:00"
-fetched_at_utc: "2026-10-30T06:59:45.857169+00:00"
+fetched_at_utc: "2026-10-31T06:54:19.074208+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/863491836_1545758634024198_4616170864083208555_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=O2WWL0NYoQ8Q7kNvwFeBCO0&_nc_oc=AdpDyK4bQqAW5FO26pI-rkREkPccZGPxtZ4Gsvqo2Yax_IRg0S69IcOWww_hmTFXvrU&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=QHWd3xKh6_sO3m9AoBtWtQ&_nc_ss=79120&oh=00_AQTaWX_sZw6LvCDKQtsVYOM9U_F7iHm5ab8Nk7mcupCa_w&oe=6AEA270E"
-feedback_id: "ZmVlZGJhY2s6MTU0NjEzNjkxMzk4NjM3MA=="
+image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/863491836_1545758634024198_4616170864083208555_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=O2WWL0NYoQ8Q7kNvwF7Pv6K&_nc_oc=Ado_ZwzTzSORzhDGA8URcXRq3-NlTYQn8sWKgOc9JJecGPYSPt6Ccpd2n6xIb_sKV9w&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=4FFsOH5iJMT3wdR_HW_KwA&_nc_ss=79120&oh=00_AQSWMxbFsmutW11Ig_OROJ_nqxlLiclu8q0Ulg_Y9Ot5ng&oe=6AEB788E"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwbjJlM29VcWd3d2N3M2NUM2NWcVNzZ0dNamRHWmRRQ3ZMUEoyOUpxbVZ0S3Z0bXpTVVBQZnlCY3ZnM2FhZnZBYmw="
 page_canonical_url: ""
 ---
 
 # Vanguard高股息ETF，英文全名 Vanguard High Dividend Yield ETF，美股代號VYM，成立於2006年十一月10日。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02qaHEieU3oCQ5iNorRLshUHe3Q1hirdy3f4U9Mzx818YpP131NRqr8mXNUrfJnZUBl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0n2e3oUqgwwcw3cT3cVqSsgGMjdGZdQCvLPJ29JqmVtKvtmzSUPPfyBcvg3aafvAbl
 
-![Vanguard高股息ETF，英文全名 Vanguard High Dividend Yield ETF，美股代號VYM，成立於2006年十一月10日。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/863491836_1545758634024198_4616170864083208555_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=O2WWL0NYoQ8Q7kNvwFeBCO0&_nc_oc=AdpDyK4bQqAW5FO26pI-rkREkPccZGPxtZ4Gsvqo2Yax_IRg0S69IcOWww_hmTFXvrU&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=QHWd3xKh6_sO3m9AoBtWtQ&_nc_ss=79120&oh=00_AQTaWX_sZw6LvCDKQtsVYOM9U_F7iHm5ab8Nk7mcupCa_w&oe=6AEA270E)
+![Vanguard高股息ETF，英文全名 Vanguard High Dividend Yield ETF，美股代號VYM，成立於2006年十一月10日。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/863491836_1545758634024198_4616170864083208555_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=O2WWL0NYoQ8Q7kNvwF7Pv6K&_nc_oc=Ado_ZwzTzSORzhDGA8URcXRq3-NlTYQn8sWKgOc9JJecGPYSPt6Ccpd2n6xIb_sKV9w&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=4FFsOH5iJMT3wdR_HW_KwA&_nc_ss=79120&oh=00_AQSWMxbFsmutW11Ig_OROJ_nqxlLiclu8q0Ulg_Y9Ot5ng&oe=6AEB788E)
 Vanguard高股息ETF，英文全名 Vanguard High Dividend Yield ETF，美股代號VYM，成立於2006年十一月10日。
 
 VYM以複製法追蹤FTSE High Dividend Yield Index，持有593支證券。

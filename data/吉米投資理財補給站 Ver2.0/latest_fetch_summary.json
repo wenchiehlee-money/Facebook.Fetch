@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-10-30T07:00:08.807612+00:00",
+  "fetched_at_utc": "2026-10-31T06:54:49.502217+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122235287888502956",
-    "122235287546502956",
-    "122235286628502956"
+    "122235433838502956",
+    "122235431000502956",
+    "122235430382502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-10-30_原來期中選舉前要賣水果才賺錢.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-10-30_SANDISKSNDK.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-10-30_Spotify-計劃於2027年第一季推出一項AI驅動的音樂混音服務目標可能於二月的葛萊美獎期間揭幕這家瑞典音頻串流巨頭正考慮向訂閱者每月額外收取4至5美元的服.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-10-31_下周菜單.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-10-31_AI-行情長跑遇到現實考驗市場開始冷靜了.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-10-31_AI-正在改變網路流量生態Google-與-Reddit-的利益衝突浮上檯面.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",

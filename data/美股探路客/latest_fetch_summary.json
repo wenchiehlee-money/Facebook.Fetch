@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-10-30T06:59:51.603726+00:00",
+  "fetched_at_utc": "2026-10-31T06:54:27.675283+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,17 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 2,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1556927079814557",
-    "1556834946490437",
-    "1556551996518732"
+    "1557634903077108",
+    "1557182616455670"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-10-30_不知道用的是哪家的大模型.md",
-    "data/美股探路客/2026-10-30_週一PP文章部分內容供參考板塊輪動繼續美國民眾反對建設數據中心是選前兩黨政治正確的共識機構選前持續拋售科技股避險.md",
-    "data/美股探路客/2026-10-29_Amazon-EPS低於預期同比衰退負自由現金流是預期的2倍資本支出也高於預期AWS營收只高於預期1.md"
+    "data/美股探路客/2026-10-31_Apple重回股王寶座週一盤後考驗能否坐穩.md",
+    "data/美股探路客/2026-10-30_全球最大加密貨幣交易所幣安Binance被北韓駭客盜取63億美元價值的加密貨幣.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",
@@ -28,6 +26,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 1 篇貼文。"
   ]
 }
