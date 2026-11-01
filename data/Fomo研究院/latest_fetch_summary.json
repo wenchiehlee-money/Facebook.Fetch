@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-10-31T06:54:31.062804+00:00",
+  "fetched_at_utc": "2026-11-01T07:24:09.534962+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "122203352984771552",
-    "122203257530771552"
+    "122203399316771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-10-31_如果這份成績單放在兩年前亞馬遜的股價大概當天就會大漲.md",
-    "data/Fomo研究院/2026-10-30_Intel-其實這季的數字不差的.md"
+    "data/Fomo研究院/2026-10-31_Google-最近公布了一個矛盾的數字搜尋查詢次數的年增速度創下過去五年新高但第三季的搜尋廣告營收成長率卻從第一季的-19-一路掉到了-12.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

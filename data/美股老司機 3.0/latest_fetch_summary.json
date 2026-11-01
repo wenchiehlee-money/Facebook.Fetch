@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-10-31T06:54:52.459479+00:00",
+  "fetched_at_utc": "2026-11-01T07:24:32.043493+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122208670448486922",
-    "122208667922486922",
-    "122208642020486922"
+    "122208908708486922",
+    "122208904484486922",
+    "122208902972486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-10-31_受人工智慧衝擊風險最高的上市公司.md",
-    "data/美股老司機 3.0/2026-10-31_週五晚開心.md",
-    "data/美股老司機 3.0/2026-10-31_週五晚打鬧.md"
+    "data/美股老司機 3.0/2026-11-01_Marc-Andreessen-表示AI-早期採用者與其他所有人之間的差距達到歷史最大值.md",
+    "data/美股老司機 3.0/2026-11-01_目前是-QQQ-史上第四次在-10-月出現至少-6-的跌幅.md",
+    "data/美股老司機 3.0/2026-11-01_高盛.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-10-31T06:55:19.379847+00:00",
+  "fetched_at_utc": "2026-11-01T07:24:57.925771+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1557076219787922",
-    "1556813039814240",
-    "1556321773196700"
+    "1558131473015730",
+    "1557370086425202",
+    "1557282609767283"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-10-31_她派AI分身代替自己去採訪受訪者事後表示AI-比我平時交談的大多數人類聽得更認真.md",
-    "data/商業周刊商周.com/2026-10-30_模具升級跨域共創從製造走向共創.md",
-    "data/商業周刊商周.com/2026-10-30_動盪中造就非凡企業韌性如何煉成.md"
+    "data/商業周刊商周.com/2026-11-01_最快樂退休者平均有3.6個核心嗜好你現在有幾個.md",
+    "data/商業周刊商周.com/2026-10-31_退休台商林芳瑜過去在中國製鞋業打拚已財務自由她有自己的房子感情深厚的弟妹也在家裡替她留了房間擔心她一個人住會寂寞.md",
+    "data/商業周刊商周.com/2026-10-31_研究3000對伴侶發現維繫婚姻秘訣好好吵架.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

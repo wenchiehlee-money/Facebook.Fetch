@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-10-31T06:54:15.379238+00:00",
+  "fetched_at_utc": "2026-11-01T07:23:55.206230+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1606164421553699",
-    "1605957524907722",
-    "1605137438323064"
+    "1607223244781150"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-10-31_星巴克營收下滑-4.5獲利卻暴增近-4-倍執行長宣告轉型成功.md",
-    "data/FinGuider 美股資訊網/2026-10-31_AI-還沒開始回本Meta-的信用評等先亮起警訊.md",
-    "data/FinGuider 美股資訊網/2026-10-30_英特爾INTCQ3-獲利優於預期卻因-Q4-財測明顯失色週五盤前股價一度重挫約-25AI-伺服器-CPU-需求持續升溫但-PC-市場下滑記憶體漲價加上晶圓與封裝.md"
+    "data/FinGuider 美股資訊網/2026-11-01_超級財報週後AI-投資回報成為市場焦點亞馬遜與英特爾的財報加劇了市場對-AI-資本支出侵蝕自由現金流以及供應鏈瓶頸限制成長的疑慮超微AMD週五也受到拖累下週要看.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

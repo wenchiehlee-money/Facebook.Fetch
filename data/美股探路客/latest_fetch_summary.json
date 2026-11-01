@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-10-31T06:54:27.675283+00:00",
+  "fetched_at_utc": "2026-11-01T07:24:06.414992+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1557634903077108",
-    "1557182616455670"
+    "1559055299601735"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-10-31_Apple重回股王寶座週一盤後考驗能否坐穩.md",
-    "data/美股探路客/2026-10-30_全球最大加密貨幣交易所幣安Binance被北韓駭客盜取63億美元價值的加密貨幣.md"
+    "data/美股探路客/2026-11-01_10月底的劇烈拋售與對沖基金創下2017年以來最快去槓桿速度有相關不立即代表底部已至但歷史數據顯示可能在12週內見底.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

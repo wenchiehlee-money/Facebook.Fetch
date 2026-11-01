@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61578106860333",
   "final_url": "https://www.facebook.com/profile.php?id=61578106860333",
-  "fetched_at_utc": "2026-10-31T06:54:39.106498+00:00",
+  "fetched_at_utc": "2026-11-01T07:24:16.951637+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "122230405730936895"
+  ],
+  "new_markdown_files": [
+    "data/萬鈞法人視野 WJ Capital Perspective/2026-10-31_這張圖值得大家仔細看.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/萬鈞法人視野 WJ Capital Perspective",
   "notes": [

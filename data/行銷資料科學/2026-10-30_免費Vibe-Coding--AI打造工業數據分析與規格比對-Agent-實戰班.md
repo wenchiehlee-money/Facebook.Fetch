@@ -4,22 +4,22 @@ title: "【免費】Vibe Coding × AI：打造工業數據分析與規格比對 
 page_title: ""
 requested_url: "https://www.facebook.com/MarketingDataScienceTMR"
 final_url: "https://www.facebook.com/MarketingDataScienceTMR"
-post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0qcMftxM2hyLhTDAfCrCWkhvwUjaBR132QFhzKMFc1CftmtsBdShJ174WyMjyufXPl"
+post_url: "https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid02tyqrWyhejcc8wfZHogGjc5t6QPKKw2T3LR5EP69j8gzR4ddthLxYqawaK1kQDkP6l"
 creation_time_utc: "2026-10-30T12:00:06+00:00"
-fetched_at_utc: "2026-10-31T06:54:11.565950+00:00"
+fetched_at_utc: "2026-11-01T07:23:50.595763+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/861707059_1423241043252870_6531448130840276893_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zRRQ0-vzl4sQ7kNvwHrUmgy&_nc_oc=AdqbI_jzp-pqVlVC85CpM7ErJUuwaoe1Gpc7idpGn8WEGClEvzryyCG4rL_qWtJcyKg&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=Am-utwV5dIWoFus190hUBw&_nc_ss=79120&oh=00_AQSaSIGYhqRlfBsGfWqEgTffA7mwvdmOZLlEIozUB40wbw&oe=6AEB4CCB"
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwcWNNZnR4TTJoeUxoVERBZkNyQ1draHZ3VWphQlIxMzJRRmh6S01GYzFDZnRtdHNCZFNoSjE3NFd5TWp5dWZYUGw="
+image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/861707059_1423241043252870_6531448130840276893_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zRRQ0-vzl4sQ7kNvwHYQncT&_nc_oc=Ado8ewcEkchXGy8JwJB_JZKdgj8QD-T7Agn82HQRZEj9U9Vb08c8UXUGozhyTQiVd9Q&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=E9U6FpjM34S3u8wMyp8WAQ&_nc_ss=79120&oh=00_AQSaToq6YxV6VwwQtGf8x-_yKjVjzJyFbVO0DiEsAZIfaQ&oe=6AECD68B"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwMnR5cXJXeWhlamNjOHdmWkhvZ0dqYzV0NlFQS0t3MlQzTFI1RVA2OWo4Z3pSNGRkdGhMeFlxYXdhSzFrUURrUDZs"
 page_canonical_url: ""
 ---
 
 # 【免費】Vibe Coding × AI：打造工業數據分析與規格比對 Agent 實戰班
 
-原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid0qcMftxM2hyLhTDAfCrCWkhvwUjaBR132QFhzKMFc1CftmtsBdShJ174WyMjyufXPl
+原文連結: https://www.facebook.com/MarketingDataScienceTMR/posts/pfbid02tyqrWyhejcc8wfZHogGjc5t6QPKKw2T3LR5EP69j8gzR4ddthLxYqawaK1kQDkP6l
 
-![【免費】Vibe Coding × AI：打造工業數據分析與規格比對 Agent 實戰班](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/861707059_1423241043252870_6531448130840276893_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zRRQ0-vzl4sQ7kNvwHrUmgy&_nc_oc=AdqbI_jzp-pqVlVC85CpM7ErJUuwaoe1Gpc7idpGn8WEGClEvzryyCG4rL_qWtJcyKg&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=Am-utwV5dIWoFus190hUBw&_nc_ss=79120&oh=00_AQSaSIGYhqRlfBsGfWqEgTffA7mwvdmOZLlEIozUB40wbw&oe=6AEB4CCB)
+![【免費】Vibe Coding × AI：打造工業數據分析與規格比對 Agent 實戰班](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/861707059_1423241043252870_6531448130840276893_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zRRQ0-vzl4sQ7kNvwHYQncT&_nc_oc=Ado8ewcEkchXGy8JwJB_JZKdgj8QD-T7Agn82HQRZEj9U9Vb08c8UXUGozhyTQiVd9Q&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=E9U6FpjM34S3u8wMyp8WAQ&_nc_ss=79120&oh=00_AQSaToq6YxV6VwwQtGf8x-_yKjVjzJyFbVO0DiEsAZIfaQ&oe=6AECD68B)
 【免費】Vibe Coding × AI：打造工業數據分析與規格比對 Agent 實戰班
 立即報名：
 https://seminars.tca.org.tw/D19f00221.aspx
