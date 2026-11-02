@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-11-01T07:24:32.043493+00:00",
+  "fetched_at_utc": "2026-11-02T07:35:43.570319+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122208908708486922",
-    "122208904484486922",
-    "122208902972486922"
+    "122209091210486922",
+    "122209086770486922",
+    "122209084670486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-11-01_Marc-Andreessen-表示AI-早期採用者與其他所有人之間的差距達到歷史最大值.md",
-    "data/美股老司機 3.0/2026-11-01_目前是-QQQ-史上第四次在-10-月出現至少-6-的跌幅.md",
-    "data/美股老司機 3.0/2026-11-01_高盛.md"
+    "data/美股老司機 3.0/2026-11-02_投資與健康本質上都是一場與時間與概率做朋友的局.md",
+    "data/美股老司機 3.0/2026-11-02_蛛絲馬跡.md",
+    "data/美股老司機 3.0/2026-11-02_這-..-這--這-...md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

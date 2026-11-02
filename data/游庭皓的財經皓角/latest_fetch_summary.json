@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-11-01T07:23:46.695723+00:00",
+  "fetched_at_utc": "2026-11-02T07:35:06.688963+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,17 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1655327869554276",
+    "1195035139754504",
+    "1195031666421518"
+  ],
+  "new_markdown_files": [
+    "data/游庭皓的財經皓角/2026-11-02_2026112一費半暴跌7-台股成下張骨牌跳樓大拍賣-今天撿股票早晨財經速解讀.md",
+    "data/游庭皓的財經皓角/2026-11-01_期中選舉倒數市場賭盤與買盤明顯押向民主黨.md",
+    "data/游庭皓的財經皓角/2026-11-01_全球人形機器人市場已經由中國廠商占據主導地位根據Counterpoint-Research統計上海智元機器人以43.1的出貨量市占率排名第一杭州宇樹科技以31..md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",
   "notes": [

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-11-01T07:24:54.638701+00:00",
+  "fetched_at_utc": "2026-11-02T07:36:02.535505+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1657947393042428"
+  ],
+  "new_markdown_files": [
+    "data/LinsanityStock/2026-11-02_今天PTTFBdcard會不會陸續開始出現畢業文.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",
   "notes": [

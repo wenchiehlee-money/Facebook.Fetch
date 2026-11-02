@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/iqvalue",
   "final_url": "https://www.facebook.com/iqvalue",
-  "fetched_at_utc": "2026-11-01T07:24:47.085426+00:00",
+  "fetched_at_utc": "2026-11-02T07:35:55.515642+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,15 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 2,
+  "new_post_ids": [
+    "1585434393598338",
+    "1584662160342228"
+  ],
+  "new_markdown_files": [
+    "data/洪鑑穩 帶你挖好股/2026-11-02_台股反轉契機就看這五大訊號.md",
+    "data/洪鑑穩 帶你挖好股/2026-11-01_七巨頭進入技術性熊市.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/洪鑑穩 帶你挖好股",
   "notes": [

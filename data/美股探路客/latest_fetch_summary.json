@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-11-01T07:24:06.414992+00:00",
+  "fetched_at_utc": "2026-11-02T07:35:22.670053+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,13 +9,17 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 1,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1559055299601735"
+    "1560005956173336",
+    "1559986502841948",
+    "1559409612899637"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-11-01_10月底的劇烈拋售與對沖基金創下2017年以來最快去槓桿速度有相關不立即代表底部已至但歷史數據顯示可能在12週內見底.md"
+    "data/美股探路客/2026-11-02_消費級AI-agent是錢坑在找到變現方案前大概只有祖克柏會繼續燒錢不然就像馬教主一樣暗中砍用量上限.md",
+    "data/美股探路客/2026-11-02_美版8zz在節目加碼說本週科技股的潰敗可能還沒結束不過談的都是已知的因素選舉美伊戰爭可能重啟.md",
+    "data/美股探路客/2026-11-01_美股財經週報-2026.11.1.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",
@@ -24,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

@@ -4,18 +4,18 @@ title: "存儲記憶體大漲價造成的 PC需求不振，外加以色列廠爆
 page_title: ""
 requested_url: "https://www.facebook.com/andrew.semis.techs"
 final_url: "https://www.facebook.com/andrew.semis.techs"
-post_url: "https://www.facebook.com/andrew.semis.techs/posts/pfbid0YmFjNvNYRehnFUV44HSJJywSTExxF9YJ1zBpZP1vvGyknP6GdnF7HXRq8fZbPWAEl"
+post_url: "https://www.facebook.com/andrew.semis.techs/posts/pfbid02c8juzwjATLtJGiiFvXEPnjA91gh1UnzWRArpN33SJMyCsTAEFAFbjiJxniyj7Edwl"
 creation_time_utc: "2026-10-30T01:26:34+00:00"
-fetched_at_utc: "2026-11-01T07:24:50.858482+00:00"
+fetched_at_utc: "2026-11-02T07:35:58.935650+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
 image_url: ""
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwWW1Gak52TllSZWhuRlVWNDRIU0pKeXdTVEV4eEY5WUoxekJwWlAxdnZHeWtuUDZHZG5GN0hYUnE4ZlpiUFdBRWw="
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwMmM4anV6d2pBVEx0SkdpaUZ2WEVQbmpBOTFnaDFVbnpXUkFycE4zM1NKTXlDc1RBRUZBRmJqaUp4bml5ajdFZHds"
 page_canonical_url: ""
 ---
 
 # 存儲記憶體大漲價造成的 PC需求不振，外加以色列廠爆炸停工影響數據中心晶片生產，再加上ABF載板缺貨都造成 Intel 四季度營收，毛利率及EPS皆不如市場預期，盤後大跌超過20%，但PC需求不振及ABF載板缺貨台積電客戶也都要面對，也沒讓台積電下修指引，應該還是執行力，產品，客戶分散不在同一個量級，找理由罷了。
 
-原文連結: https://www.facebook.com/andrew.semis.techs/posts/pfbid0YmFjNvNYRehnFUV44HSJJywSTExxF9YJ1zBpZP1vvGyknP6GdnF7HXRq8fZbPWAEl
+原文連結: https://www.facebook.com/andrew.semis.techs/posts/pfbid02c8juzwjATLtJGiiFvXEPnjA91gh1UnzWRArpN33SJMyCsTAEFAFbjiJxniyj7Edwl
 存儲記憶體大漲價造成的 PC需求不振，外加以色列廠爆炸停工影響數據中心晶片生產，再加上ABF載板缺貨都造成 Intel 四季度營收，毛利率及EPS皆不如市場預期，盤後大跌超過20%，但PC需求不振及ABF載板缺貨台積電客戶也都要面對，也沒讓台積電下修指引，應該還是執行力，產品，客戶分散不在同一個量級，找理由罷了。

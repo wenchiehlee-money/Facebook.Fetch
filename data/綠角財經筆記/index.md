@@ -1,11 +1,12 @@
 # Facebook 貼文索引
 
 - 頁面: 
-- 抓取時間: 2026-11-01T07:23:58.799157+00:00
-- 已收錄貼文數量: 409
+- 抓取時間: 2026-11-02T07:35:15.768331+00:00
+- 已收錄貼文數量: 410
 
 ## 文章列表
 
+- `2026-11-01` [\"Build The Life You Want\"的作者是Arthur Brooks與Oprah Winfrey。](2026-11-01_Build-The-Life-You-Want的作者是Arthur-Brooks與Oprah-Winfrey.md)
 - `2026-10-29` [Vanguard高股息ETF，英文全名 Vanguard High Dividend Yield ETF，美股代號VYM，成立於2006年十一月10日。](2026-10-29_Vanguard高股息ETF英文全名-Vanguard-High-Dividend-Yield-ETF美股代號VYM成立於2006年十一月10日.md)
 - `2026-10-28` [近來投資人之間出現一種說法，就是資金少的話，不需要資產配置。](2026-10-28_近來投資人之間出現一種說法就是資金少的話不需要資產配置.md)
 - `2026-10-28` [復華台灣科技優息ETF，台股代號00929， 2023六月9日掛牌上市。](2026-10-28_復華台灣科技優息ETF台股代號00929-2023六月9日掛牌上市.md)

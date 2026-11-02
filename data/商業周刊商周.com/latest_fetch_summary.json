@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-11-01T07:24:57.925771+00:00",
+  "fetched_at_utc": "2026-11-02T07:36:05.710539+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1558131473015730",
-    "1557370086425202",
-    "1557282609767283"
+    "1559386966223514",
+    "1559254939570050",
+    "1559175119578032"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-11-01_最快樂退休者平均有3.6個核心嗜好你現在有幾個.md",
-    "data/商業周刊商周.com/2026-10-31_退休台商林芳瑜過去在中國製鞋業打拚已財務自由她有自己的房子感情深厚的弟妹也在家裡替她留了房間擔心她一個人住會寂寞.md",
-    "data/商業周刊商周.com/2026-10-31_研究3000對伴侶發現維繫婚姻秘訣好好吵架.md"
+    "data/商業周刊商周.com/2026-11-02_60多歲的蔡康永為什麼還願意冒險甚至付出累積多年的名聲與財富.md",
+    "data/商業周刊商周.com/2026-11-02_AI訂單還在台股卻接連重挫投資人究竟在怕什麼.md",
+    "data/商業周刊商周.com/2026-11-02_老了以後你想繼續住自己家還是找幾個朋友一起住.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

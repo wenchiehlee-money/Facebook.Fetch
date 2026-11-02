@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-11-01T07:24:28.044624+00:00",
+  "fetched_at_utc": "2026-11-02T07:35:40.775001+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 2,
   "new_post_count": 2,
   "new_post_ids": [
-    "122217479276502956",
-    "122235489782502956"
+    "122235828176502956",
+    "122235788402502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-11-01_套牢沒關係明天下班大安森林公園集合.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-10-31_事實查核小編更正剛剛的一篇發文川普並未在-Truth-Social-發文批評英特爾Intel.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-11-02_2026-期中選舉參議院控制權賭盤勝率截至-2026-年-11-月-2-日.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-11-01_夥伴們早安今天特價又要點什麼餐下面留言告訴小編.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",

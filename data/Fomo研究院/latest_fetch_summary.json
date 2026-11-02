@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-11-01T07:24:09.534962+00:00",
+  "fetched_at_utc": "2026-11-02T07:35:25.493387+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "122203399316771552"
+    "122203638458771552",
+    "122203507664771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-10-31_Google-最近公布了一個矛盾的數字搜尋查詢次數的年增速度創下過去五年新高但第三季的搜尋廣告營收成長率卻從第一季的-19-一路掉到了-12.md"
+    "data/Fomo研究院/2026-11-02_Anthropic-S-1出來滿版都是讓人眼花的數字營收-162.8-億美元毛利率-85.4帳上現金-1317-億美元淨收入留存率約-900.md",
+    "data/Fomo研究院/2026-11-01_在微軟財報的-QA-環節裡美銀的分析師問CFO-Amy-Hood你們會不會發債.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-11-01T07:24:23.970285+00:00",
+  "fetched_at_utc": "2026-11-02T07:35:37.743632+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1650756559742299",
-    "1650674366417185",
-    "1650543536430268"
+    "1651603359657619",
+    "1651504853000803",
+    "1650953686389253"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-11-01_幣圈的各位都對三胖家有貢獻.md",
-    "data/IEObserve 國際經濟觀察/2026-11-01_全球減重與糖尿病藥物需求大爆發光靠Mounjaro與Zepbound兩款主力藥物Eli-Lilly在2026年第三季就進帳超過160億美元帶動單季總營收衝上24.md",
-    "data/IEObserve 國際經濟觀察/2026-11-01_超級牛市時噴太快YOLO族上槓正2想說反正都會回來可以賺更快殘酷的去槓來臨時市場會教你做人.md"
+    "data/IEObserve 國際經濟觀察/2026-11-02_難怪Grok-bot的用量很容易突然就滿了要等reset營運成本還是太高一般人願意付的價格有天花板.md",
+    "data/IEObserve 國際經濟觀察/2026-11-02_韓國人先抄底了跌的挺少.md",
+    "data/IEObserve 國際經濟觀察/2026-11-01_下週重磅財報周蘋果罕見在週一盤後就公布財報撐盤大權值可以看看到底配不配得上40倍估值此外-Palantir-的增速與預期是否維持在高成長也值得關注.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",
