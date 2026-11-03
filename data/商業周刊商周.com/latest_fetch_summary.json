@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-11-02T07:36:05.710539+00:00",
+  "fetched_at_utc": "2026-11-03T07:49:22.467186+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1559386966223514",
-    "1559254939570050",
-    "1559175119578032"
+    "1560424956119715",
+    "1560386076123603",
+    "1560303539465190"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-11-02_60多歲的蔡康永為什麼還願意冒險甚至付出累積多年的名聲與財富.md",
-    "data/商業周刊商周.com/2026-11-02_AI訂單還在台股卻接連重挫投資人究竟在怕什麼.md",
-    "data/商業周刊商周.com/2026-11-02_老了以後你想繼續住自己家還是找幾個朋友一起住.md"
+    "data/商業周刊商周.com/2026-11-03_台股今天跌掉逾1612.6點你想賣股票了嗎他在金融海嘯時這麼做結果幾乎賠掉一半.md",
+    "data/商業周刊商周.com/2026-11-03_AI用電需求升溫傳產手上的能源條件有了新價值.md",
+    "data/商業周刊商周.com/2026-11-03_計程車司機一個月賺多少最新調查公布答案.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

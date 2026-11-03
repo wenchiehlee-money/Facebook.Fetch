@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-11-02T07:35:58.935650+00:00",
+  "fetched_at_utc": "2026-11-03T07:49:16.914375+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1673979690752170",
-    "1673358864147586"
+    "1674941847322621"
   ],
   "new_markdown_files": [
-    "data/andrew.semis.techs/2026-11-02_跌的有點少要守住2330的概念嗎.md",
-    "data/andrew.semis.techs/2026-11-01_之前曾提到如果AI-數據算力中心資本開支減速請參考-May-17-2026-深度報告-Likely-an-inflection-point-if-AI-data.md"
+    "data/andrew.semis.techs/2026-11-03_但自從併購消息提前傳出來Marvell-股價連續重挫公司於11月2日-收盤171.41美元而-Lumentum-每股股東14.5只能拿到771.345美元這比起.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",

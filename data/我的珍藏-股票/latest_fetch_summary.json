@@ -1,10 +1,14 @@
 {
   "requested_url": "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL",
-  "fetched_at_utc": "2026-11-02T07:35:01.086396+00:00",
+  "fetched_at_utc": "2026-11-03T07:48:25.281126+00:00",
   "list_title": "股票",
   "total_items": 7,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "10228018700853072"
+  ],
+  "new_markdown_files": [
+    "data/我的珍藏-股票/2026-11-03_每100塊的AI資本支出花到哪裡去營收是怎麼分配到供應鏈裡各個類別的.md"
+  ],
   "posts_directory": "data/我的珍藏-股票"
 }

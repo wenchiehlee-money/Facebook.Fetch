@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-11-02T07:36:02.535505+00:00",
+  "fetched_at_utc": "2026-11-03T07:49:19.601502+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1657947393042428"
+    "1659342329569601",
+    "1659232879580546"
   ],
   "new_markdown_files": [
-    "data/LinsanityStock/2026-11-02_今天PTTFBdcard會不會陸續開始出現畢業文.md"
+    "data/LinsanityStock/2026-11-03_今天確實有恐慌的氣氛出來了.md",
+    "data/LinsanityStock/2026-11-03_台積電的股價已經來到一個舒適區了.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",

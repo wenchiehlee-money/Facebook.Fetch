@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-11-02T07:35:19.585477+00:00",
+  "fetched_at_utc": "2026-11-03T07:48:42.131399+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1594580082708075"
+    "1595893675910049",
+    "1595811719251578",
+    "1595661589266591"
   ],
   "new_markdown_files": [
-    "data/股魚/2026-11-02_投資看數據悲觀中要找樂觀的數據理由這不就幫你找到了嗎根據Carson-Investment-Research-彙整-美股-SP-500-在期中選舉年Midter.md"
+    "data/股魚/2026-11-03_今天下跌1600點後投資人開始急切地問我他看到電視上的節目主持一直呼籲國安基金要出場救股市老師你覺得有機會嗎我跟你說不可能沒跌到30000點以下國安基金頂多是用.md",
+    "data/股魚/2026-11-03_台股下跌1600點四貸同堂的投資人壓力山大不用主管機關出手市場就被迫降槓桿了持有現股壓力大融資槓桿的更大啊.md",
+    "data/股魚/2026-11-03_市場持續震盪有個配息奶媽在身邊超安心11月各家ETF的配息大作戰又開始啦可以看得出這波的真的砸得很用力很有心.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",

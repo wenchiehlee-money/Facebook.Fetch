@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-11-02T07:35:22.670053+00:00",
+  "fetched_at_utc": "2026-11-03T07:48:44.973515+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1560005956173336",
-    "1559986502841948",
-    "1559409612899637"
+    "1560388692801729",
+    "1559626246211307",
+    "1559637392876859"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-11-02_消費級AI-agent是錢坑在找到變現方案前大概只有祖克柏會繼續燒錢不然就像馬教主一樣暗中砍用量上限.md",
-    "data/美股探路客/2026-11-02_美版8zz在節目加碼說本週科技股的潰敗可能還沒結束不過談的都是已知的因素選舉美伊戰爭可能重啟.md",
-    "data/美股探路客/2026-11-01_美股財經週報-2026.11.1.md"
+    "data/美股探路客/2026-11-02_Marvell-將以約-1132-億美元的市值以全股票方式收購-Lumentum雙方董事會已經通過此為有史以來最大規模的收購案.md",
+    "data/美股探路客/2026-11-02_板塊輪動或許接近尾聲10月資金轉進防禦板塊消費必需品板塊ETF-XLP醫療板塊ETF-XLV分別大漲10.89.8.md",
+    "data/美股探路客/2026-11-02_德銀是時候開始回補科技股了.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

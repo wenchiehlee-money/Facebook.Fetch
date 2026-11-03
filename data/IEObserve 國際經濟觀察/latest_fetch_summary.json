@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-11-02T07:35:37.743632+00:00",
+  "fetched_at_utc": "2026-11-03T07:48:58.455837+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1651603359657619",
-    "1651504853000803",
-    "1650953686389253"
+    "1652627892888499",
+    "1652484212902867",
+    "1652045622946726"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-11-02_難怪Grok-bot的用量很容易突然就滿了要等reset營運成本還是太高一般人願意付的價格有天花板.md",
-    "data/IEObserve 國際經濟觀察/2026-11-02_韓國人先抄底了跌的挺少.md",
-    "data/IEObserve 國際經濟觀察/2026-11-01_下週重磅財報周蘋果罕見在週一盤後就公布財報撐盤大權值可以看看到底配不配得上40倍估值此外-Palantir-的增速與預期是否維持在高成長也值得關注.md"
+    "data/IEObserve 國際經濟觀察/2026-11-03_Palantir-Q3營收年增96達23.13億美元創下上市以來最高成長速度營業利潤率更高達62.md",
+    "data/IEObserve 國際經濟觀察/2026-11-02_Apple-最新一季因為全新折疊旗艦-iPhone-Duo-延後至-10-月才正式開賣導致單季營收年增率從上一季的-16-明顯放緩至-12.md",
+    "data/IEObserve 國際經濟觀察/2026-11-02_Marvell和Lumentum的1150億deal是史上最大的半導體併購案不過二三名都失敗了第一名能成功嗎.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

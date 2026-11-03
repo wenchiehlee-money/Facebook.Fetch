@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-11-02T07:35:25.493387+00:00",
+  "fetched_at_utc": "2026-11-03T07:48:47.065886+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 3,
   "new_post_count": 2,
   "new_post_ids": [
-    "122203638458771552",
-    "122203507664771552"
+    "122203822808771552",
+    "122203695482771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-11-02_Anthropic-S-1出來滿版都是讓人眼花的數字營收-162.8-億美元毛利率-85.4帳上現金-1317-億美元淨收入留存率約-900.md",
-    "data/Fomo研究院/2026-11-01_在微軟財報的-QA-環節裡美銀的分析師問CFO-Amy-Hood你們會不會發債.md"
+    "data/Fomo研究院/2026-11-03_想像一下你剛通過了-Anthropic-難度極高的程式碼與系統設計面試在最後一關面試官看著你拋出了一個奇怪的問題.md",
+    "data/Fomo研究院/2026-11-02_管理無能文化差沒有護城河它是一家壞掉的公司.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-11-02T07:35:43.570319+00:00",
+  "fetched_at_utc": "2026-11-03T07:49:03.073976+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122209091210486922",
-    "122209086770486922",
-    "122209084670486922"
+    "122209187576486922",
+    "122209181708486922",
+    "122209155992486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-11-02_投資與健康本質上都是一場與時間與概率做朋友的局.md",
-    "data/美股老司機 3.0/2026-11-02_蛛絲馬跡.md",
-    "data/美股老司機 3.0/2026-11-02_這-..-這--這-...md"
+    "data/美股老司機 3.0/2026-11-03_摩根士丹利展示了散戶美股盤中淨資金流向.md",
+    "data/美股老司機 3.0/2026-11-03_投資的本質說穿了就是一場與人性的拔河.md",
+    "data/美股老司機 3.0/2026-11-02_科技股動能.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

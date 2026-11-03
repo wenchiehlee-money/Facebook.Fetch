@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-11-02T07:35:12.732310+00:00",
+  "fetched_at_utc": "2026-11-03T07:48:35.684166+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1608247998012008",
-    "1608132114690263"
+    "1609435454559929",
+    "1609254424578032",
+    "1609117231258418"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-11-02_美國-2026-年期中選舉將如何影響經濟與美股.md",
-    "data/FinGuider 美股資訊網/2026-11-02_美國-11-月正式進入冬令時間啦.md"
+    "data/FinGuider 美股資訊網/2026-11-03_PalantirPLTR盤後公布-Q3-財報營收年增-96-至-23.13-億美元優於市場預期的-21.8-億調整後-EPS-報-0.44-美元同樣擊敗預期營業.md",
+    "data/FinGuider 美股資訊網/2026-11-03_Anthropic-營收暴增-12-倍卻背上近-9000-億美元算力承諾.md",
+    "data/FinGuider 美股資訊網/2026-11-02_蘋果AAPLFY2026Q4-財報擊敗了市場預期營收年增-12-至-1144.8-億美元v.s.-1133.9-億EPS-報-2.1-美元v.s.-1.99-美.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

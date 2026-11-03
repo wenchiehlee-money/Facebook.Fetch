@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-11-02T07:35:09.831293+00:00",
+  "fetched_at_utc": "2026-11-03T07:48:33.125824+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1426106532966321"
+    "1426256652951309"
   ],
   "new_markdown_files": [
-    "data/行銷資料科學/2026-11-02_從SEO到AEO未來品牌爭的是-AI-心中的排名.md"
+    "data/行銷資料科學/2026-11-02_特斯拉最可怕的竟然不是無人駕駛.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",
