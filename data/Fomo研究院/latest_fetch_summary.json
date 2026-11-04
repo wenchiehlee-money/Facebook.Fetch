@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-11-03T07:48:47.065886+00:00",
+  "fetched_at_utc": "2026-11-04T07:27:00.733465+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "122203822808771552",
-    "122203695482771552"
+    "122203848332771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-11-03_想像一下你剛通過了-Anthropic-難度極高的程式碼與系統設計面試在最後一關面試官看著你拋出了一個奇怪的問題.md",
-    "data/Fomo研究院/2026-11-02_管理無能文化差沒有護城河它是一家壞掉的公司.md"
+    "data/Fomo研究院/2026-11-03_以前是漫長的調情現在幾天到幾週之內就能完成簽約.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

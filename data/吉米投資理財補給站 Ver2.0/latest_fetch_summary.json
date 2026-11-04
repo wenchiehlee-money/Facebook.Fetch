@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-11-03T07:49:00.767663+00:00",
+  "fetched_at_utc": "2026-11-04T07:27:20.803633+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122236044212502956",
-    "122236043516502956",
-    "122236042448502956"
+    "122236295390502956",
+    "122236285382502956",
+    "122236283126502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-11-03_Palantir-CEO-Alex-Karp不會忘記早期支持者將持續為股東創造價值.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-11-03_AI-市場需求快速爆發供不應求Anthropic-正在幫忙擴大市場.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-11-03_PalantirPLTR2026-年第三季財報.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-11-04_Astera-LabsALAB2026-年第三季財報重點.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-11-04_超微AMDAMD-2026-年第三季財報重點.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-11-04_民主黨贏得參議院過半席次.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",

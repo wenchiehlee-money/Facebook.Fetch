@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-11-03T07:48:55.686178+00:00",
+  "fetched_at_utc": "2026-11-04T07:27:13.467318+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "1656866739463359",
-    "1656720789477954"
-  ],
-  "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-11-02_Trendforce供應鏈雷達本週和上週有點變化.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-11-02_這幾個月大量出現的AI短劇包括中文和英文現代和古代一看就知道是AI生成的但憑藉者灑狗血的劇情還是有不少市場但昨天被推播到一個科幻短劇頗為震驚除了極少數劇務等級的.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",
   "notes": [

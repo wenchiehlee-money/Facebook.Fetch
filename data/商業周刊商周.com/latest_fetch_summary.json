@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-11-03T07:49:22.467186+00:00",
+  "fetched_at_utc": "2026-11-04T07:27:48.780159+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1560424956119715",
-    "1560386076123603",
-    "1560303539465190"
+    "1561393282689549",
+    "1561303382698539",
+    "1561279896034221"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-11-03_台股今天跌掉逾1612.6點你想賣股票了嗎他在金融海嘯時這麼做結果幾乎賠掉一半.md",
-    "data/商業周刊商周.com/2026-11-03_AI用電需求升溫傳產手上的能源條件有了新價值.md",
-    "data/商業周刊商周.com/2026-11-03_計程車司機一個月賺多少最新調查公布答案.md"
+    "data/商業周刊商周.com/2026-11-04_主管提議玩遊戲決定誰請大家喝飲料她竟當場拒絕.md",
+    "data/商業周刊商周.com/2026-11-04_一張保單能投資領配息又有壽險保障聽起來很省事但你繳進去的保費有多少拿去投資.md",
+    "data/商業周刊商周.com/2026-11-04_財富可以傳承但第一代累積幾十年的判斷經驗該怎麼一起交棒.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

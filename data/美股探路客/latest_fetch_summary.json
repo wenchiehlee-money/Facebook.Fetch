@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-11-03T07:48:44.973515+00:00",
+  "fetched_at_utc": "2026-11-04T07:26:56.895613+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,23 +9,21 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 2,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1560388692801729",
-    "1559626246211307",
-    "1559637392876859"
+    "1562170695956862",
+    "1562161245957807"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-11-02_Marvell-將以約-1132-億美元的市值以全股票方式收購-Lumentum雙方董事會已經通過此為有史以來最大規模的收購案.md",
-    "data/美股探路客/2026-11-02_板塊輪動或許接近尾聲10月資金轉進防禦板塊消費必需品板塊ETF-XLP醫療板塊ETF-XLV分別大漲10.89.8.md",
-    "data/美股探路客/2026-11-02_德銀是時候開始回補科技股了.md"
+    "data/美股探路客/2026-11-04_發電更環保的固態燃料電池公司Bloom-Energy夜盤上漲3看來環保有機會重回主流了.md",
+    "data/美股探路客/2026-11-04_黃金重返4000分裂的美國政局加大對美國財政不確定性擔憂最近賣黃金ETF看跌期權起了對沖的作用.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
+    "本次已成功用公開 GraphQL 擷取到 2 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"

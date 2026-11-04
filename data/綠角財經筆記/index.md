@@ -1,11 +1,12 @@
 # Facebook 貼文索引
 
 - 頁面: 
-- 抓取時間: 2026-11-03T07:48:38.994700+00:00
-- 已收錄貼文數量: 411
+- 抓取時間: 2026-11-04T07:26:49.146427+00:00
+- 已收錄貼文數量: 412
 
 ## 文章列表
 
+- `2026-11-03` [美國晨星個人理財總監Christine Benz在近期一篇文章，提到關於退休投資的的四個危險假設。我覺得這個提醒相當重要，在此跟大家分享其中三個，並對照目前投資界的狀況。](2026-11-03_美國晨星個人理財總監Christine-Benz在近期一篇文章提到關於退休投資的的四個危險假設我覺得這個提醒相當重要在此跟大家分享其中三個並對照目前投資界的狀況.md)
 - `2026-11-02` [Vanguard中期美國公債ETF，英文全名Vanguard Intermediate-Term Treasury ETF，美股代號VGIT，成立於2009年十一月19日。](2026-11-02_Vanguard中期美國公債ETF英文全名Vanguard-Intermediate-Term-Treasury-ETF美股代號VGIT成立於2009年十一月1.md)
 - `2026-11-01` [\"Build The Life You Want\"的作者是Arthur Brooks與Oprah Winfrey。](2026-11-01_Build-The-Life-You-Want的作者是Arthur-Brooks與Oprah-Winfrey.md)
 - `2026-10-29` [Vanguard高股息ETF，英文全名 Vanguard High Dividend Yield ETF，美股代號VYM，成立於2006年十一月10日。](2026-10-29_Vanguard高股息ETF英文全名-Vanguard-High-Dividend-Yield-ETF美股代號VYM成立於2006年十一月10日.md)

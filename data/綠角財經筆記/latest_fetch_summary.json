@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-11-03T07:48:38.994700+00:00",
+  "fetched_at_utc": "2026-11-04T07:26:49.146427+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1550105030256225"
+    "1551071916826203"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-11-02_Vanguard中期美國公債ETF英文全名Vanguard-Intermediate-Term-Treasury-ETF美股代號VGIT成立於2009年十一月1.md"
+    "data/綠角財經筆記/2026-11-03_美國晨星個人理財總監Christine-Benz在近期一篇文章提到關於退休投資的的四個危險假設我覺得這個提醒相當重要在此跟大家分享其中三個並對照目前投資界的狀況.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

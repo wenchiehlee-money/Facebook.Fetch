@@ -4,22 +4,22 @@ title: "\"Build The Life You Want\"的作者是Arthur Brooks與Oprah Winfrey。"
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid024pMn4eFmVSNzoWJSqhrqmgsdU84F3eFueR6WZoW2kEBry7A9Ym3uH7hF57PTzUCBl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid01Gib9UdQe7CwKGu1UatigMbWHmvFN51p5NkXPUDdCLCLw7eeWfFQGMvgjCGxBjrEl"
 creation_time_utc: "2026-11-01T23:47:03+00:00"
-fetched_at_utc: "2026-11-03T07:48:38.994700+00:00"
+fetched_at_utc: "2026-11-04T07:26:49.146427+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/879557666_1548827980383930_1271746064823137331_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TmHI7zUivY8Q7kNvwE0wzPu&_nc_oc=Adrx1AWxmSGDtvEhfg2hXjKP4rAXidHlqhvibH-4JjvH3eFd_IwcEdJC8TqZSz-WDks&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=-ANltwKPiPK0HzUoVaHCuw&_nc_ss=79120&oh=00_AQRt9VsbIP_c7qnHsmzH6JvmoEv3qBcbLZd3hmz5PgYvGw&oe=6AEF64F7"
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwMjRwTW40ZUZtVlNOem9XSlNxaHJxbWdzZFU4NEYzZUZ1ZVI2V1pvVzJrRUJyeTdBOVltM3VIN2hGNTdQVHpVQ0Js"
+image_url: "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/879557666_1548827980383930_1271746064823137331_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TmHI7zUivY8Q7kNvwFTM1dk&_nc_oc=Ado7JVlzYDB_vgdvKgFfyq81o_-p3HRGKP-v4m1Z7ttRMEpg3nugOAe4CXrW2O-sdkE&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=sMv9mtW3nPQp0UF-rAE5cA&_nc_ss=79120&oh=00_AQRMziXcqz0rbaEbi1rgW3BTPfJq73TlJ77QhJmcr2qhaw&oe=6AF0B677"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwMUdpYjlVZFFlN0N3S0d1MVVhdGlnTWJXSG12Rk41MXA1TmtYUFVEZENMQ0x3N2VlV2ZGUUdNdmdqQ0d4QmpyRWw="
 page_canonical_url: ""
 ---
 
 # "Build The Life You Want"的作者是Arthur Brooks與Oprah Winfrey。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid024pMn4eFmVSNzoWJSqhrqmgsdU84F3eFueR6WZoW2kEBry7A9Ym3uH7hF57PTzUCBl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid01Gib9UdQe7CwKGu1UatigMbWHmvFN51p5NkXPUDdCLCLw7eeWfFQGMvgjCGxBjrEl
 
-!["Build The Life You Want"的作者是Arthur Brooks與Oprah Winfrey。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/879557666_1548827980383930_1271746064823137331_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TmHI7zUivY8Q7kNvwE0wzPu&_nc_oc=Adrx1AWxmSGDtvEhfg2hXjKP4rAXidHlqhvibH-4JjvH3eFd_IwcEdJC8TqZSz-WDks&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=-ANltwKPiPK0HzUoVaHCuw&_nc_ss=79120&oh=00_AQRt9VsbIP_c7qnHsmzH6JvmoEv3qBcbLZd3hmz5PgYvGw&oe=6AEF64F7)
+!["Build The Life You Want"的作者是Arthur Brooks與Oprah Winfrey。](https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/879557666_1548827980383930_1271746064823137331_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TmHI7zUivY8Q7kNvwFTM1dk&_nc_oc=Ado7JVlzYDB_vgdvKgFfyq81o_-p3HRGKP-v4m1Z7ttRMEpg3nugOAe4CXrW2O-sdkE&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=sMv9mtW3nPQp0UF-rAE5cA&_nc_ss=79120&oh=00_AQRMziXcqz0rbaEbi1rgW3BTPfJq73TlJ77QhJmcr2qhaw&oe=6AF0B677)
 "Build The Life You Want"的作者是Arthur Brooks與Oprah Winfrey。
 
 我們希望怎樣的人生呢?

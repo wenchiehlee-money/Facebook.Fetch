@@ -4,22 +4,22 @@ title: "Vanguard中期美國公債ETF，英文全名Vanguard Intermediate-Term T
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02QFWtZ9EbMPPJrqqFZg22PMMhxottoXTjxtCz5NG8X2k85PCJThFC8UUDUEgJmTi3l"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0LhshdycEW7kXDe1GshwgBTXeR6m1Wjzd4MhRoWqDByZuqAdPxCEuWG5xPb4Dxev2l"
 creation_time_utc: "2026-11-02T23:45:01+00:00"
-fetched_at_utc: "2026-11-03T07:48:38.994700+00:00"
+fetched_at_utc: "2026-11-04T07:26:49.146427+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/887064442_1549751016958293_2503050946755839641_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ZbPiTtUxn5kQ7kNvwE5aMzg&_nc_oc=AdrW8om5AST_hZ4spOP-DoE6Tbg0n6od6Ax2-wgjOTHqhQQseJ4n5szGxKMYQ3q3tLE&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=-ANltwKPiPK0HzUoVaHCuw&_nc_ss=79120&oh=00_AQTO8982-sJ05WAPJmjCQ05423oN3jF_hoNulvrn8NiJvA&oe=6AEF74AC"
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwMlFGV3RaOUViTVBQSnJxcUZaZzIyUE1NaHhvdHRvWFRqeHRDejVORzhYMms4NVBDSlRoRkM4VVVEVUVnSm1UaTNs"
+image_url: "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/887064442_1549751016958293_2503050946755839641_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ZbPiTtUxn5kQ7kNvwGCUtm-&_nc_oc=Adr6NY-g0SnWj73BRZKuiikxCnHsbXMspb8TBw5yZl8dqif-DxQdNjJN2lS4XXuJe38&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=sMv9mtW3nPQp0UF-rAE5cA&_nc_ss=79120&oh=00_AQRT-tafEQWOjs05oTCPVbCkC2G00JPG8eFMmctHQB3m_A&oe=6AF0C62C"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwTGhzaGR5Y0VXN2tYRGUxR3Nod2dCVFhlUjZtMVdqemQ0TWhSb1dxREJ5WnVxQWRQeENFdVdHNXhQYjREeGV2Mmw="
 page_canonical_url: ""
 ---
 
 # Vanguard中期美國公債ETF，英文全名Vanguard Intermediate-Term Treasury ETF，美股代號VGIT，成立於2009年十一月19日。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02QFWtZ9EbMPPJrqqFZg22PMMhxottoXTjxtCz5NG8X2k85PCJThFC8UUDUEgJmTi3l
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0LhshdycEW7kXDe1GshwgBTXeR6m1Wjzd4MhRoWqDByZuqAdPxCEuWG5xPb4Dxev2l
 
-![Vanguard中期美國公債ETF，英文全名Vanguard Intermediate-Term Treasury ETF，美股代號VGIT，成立於2009年十一月19日。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/887064442_1549751016958293_2503050946755839641_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ZbPiTtUxn5kQ7kNvwE5aMzg&_nc_oc=AdrW8om5AST_hZ4spOP-DoE6Tbg0n6od6Ax2-wgjOTHqhQQseJ4n5szGxKMYQ3q3tLE&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=-ANltwKPiPK0HzUoVaHCuw&_nc_ss=79120&oh=00_AQTO8982-sJ05WAPJmjCQ05423oN3jF_hoNulvrn8NiJvA&oe=6AEF74AC)
+![Vanguard中期美國公債ETF，英文全名Vanguard Intermediate-Term Treasury ETF，美股代號VGIT，成立於2009年十一月19日。](https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/887064442_1549751016958293_2503050946755839641_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ZbPiTtUxn5kQ7kNvwGCUtm-&_nc_oc=Adr6NY-g0SnWj73BRZKuiikxCnHsbXMspb8TBw5yZl8dqif-DxQdNjJN2lS4XXuJe38&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=sMv9mtW3nPQp0UF-rAE5cA&_nc_ss=79120&oh=00_AQRT-tafEQWOjs05oTCPVbCkC2G00JPG8eFMmctHQB3m_A&oe=6AF0C62C)
 Vanguard中期美國公債ETF，英文全名Vanguard Intermediate-Term Treasury ETF，美股代號VGIT，成立於2009年十一月19日。
 
 VGIT追蹤彭博3到10年期美國公債指數(Bloomberg US Treasury 3-10 Year Index)。指數名稱中的”3到10年”指的是ETF持有債券的到期年限。

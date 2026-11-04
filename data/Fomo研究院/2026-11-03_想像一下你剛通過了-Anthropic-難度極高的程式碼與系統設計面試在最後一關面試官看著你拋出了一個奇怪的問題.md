@@ -4,22 +4,22 @@ title: "想像一下，你剛通過了 Anthropic 難度極高的程式碼與系�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02GBYuEiCKHkbtMAd8hk8Km6eSbiUmcgPwLx4tWCNR19YsmEh9FedPkzUb57VUD9Wtl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0C9xBktzkcfE5k85oGF9X1WXQCYfwr1vEfYSCpr6v38CjxbF88BbTrXSEvwNo7YYNl&id=61573146584049"
 creation_time_utc: "2026-11-03T06:10:54+00:00"
-fetched_at_utc: "2026-11-03T07:48:47.065886+00:00"
+fetched_at_utc: "2026-11-04T07:27:00.733465+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/886633975_122203822718771552_8175996921479377767_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VL-a7vhZZLsQ7kNvwEJV6CZ&_nc_oc=AdosT7WKDdJDoGCrhmWZtY9GW0eaLnVoSxNbzKqrBh6Ce0DKm3kBaUzk3Ej4BTPeWjQ&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=d3mD1yOwap8y1TZYcsk38g&_nc_ss=79120&oh=00_AQRqaxIINUjJhT28w1dA9J-19LmN7qeC-lZ0_Dd4Q4OUFA&oe=6AEF72B5"
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwMkdCWXVFaUNLSGtidE1BZDhoazhLbTZlU2JpVW1jZ1B3THg0dFdDTlIxOVlzbUVoOUZlZFBrelViNTdWVUQ5V3Rs"
+image_url: "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/886633975_122203822718771552_8175996921479377767_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VL-a7vhZZLsQ7kNvwHE3TBE&_nc_oc=Adqpz8CVYDFmFyh6y7hJIKGFhlaD-y_EjURZRLdtkGnmd4jfMZdfDFra8FtFu5OgyzQ&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=H5AGUIj4uCQkh3aaX0un1A&_nc_ss=79120&oh=00_AQTI9DlbK5hTTiymIAVgJgz06_GCZTllyyC9AMeB688awg&oe=6AF0C435"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwQzl4Qmt0emtjZkU1azg1b0dGOVgxV1hRQ1lmd3IxdkVmWVNDcHI2djM4Q2p4YkY4OEJiVHJYU0V2d05vN1lZTmw="
 page_canonical_url: ""
 ---
 
 # 想像一下，你剛通過了 Anthropic 難度極高的程式碼與系統設計面試。在最後一關，面試官看著你，拋出了一個奇怪的問題：
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02GBYuEiCKHkbtMAd8hk8Km6eSbiUmcgPwLx4tWCNR19YsmEh9FedPkzUb57VUD9Wtl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0C9xBktzkcfE5k85oGF9X1WXQCYfwr1vEfYSCpr6v38CjxbF88BbTrXSEvwNo7YYNl&id=61573146584049
 
-![想像一下，你剛通過了 Anthropic 難度極高的程式碼與系統設計面試。在最後一關，面試官看著你，拋出了一個奇怪的問題：](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/886633975_122203822718771552_8175996921479377767_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VL-a7vhZZLsQ7kNvwEJV6CZ&_nc_oc=AdosT7WKDdJDoGCrhmWZtY9GW0eaLnVoSxNbzKqrBh6Ce0DKm3kBaUzk3Ej4BTPeWjQ&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=d3mD1yOwap8y1TZYcsk38g&_nc_ss=79120&oh=00_AQRqaxIINUjJhT28w1dA9J-19LmN7qeC-lZ0_Dd4Q4OUFA&oe=6AEF72B5)
+![想像一下，你剛通過了 Anthropic 難度極高的程式碼與系統設計面試。在最後一關，面試官看著你，拋出了一個奇怪的問題：](https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/886633975_122203822718771552_8175996921479377767_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VL-a7vhZZLsQ7kNvwHE3TBE&_nc_oc=Adqpz8CVYDFmFyh6y7hJIKGFhlaD-y_EjURZRLdtkGnmd4jfMZdfDFra8FtFu5OgyzQ&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=H5AGUIj4uCQkh3aaX0un1A&_nc_ss=79120&oh=00_AQTI9DlbK5hTTiymIAVgJgz06_GCZTllyyC9AMeB688awg&oe=6AF0C435)
 想像一下，你剛通過了 Anthropic 難度極高的程式碼與系統設計面試。在最後一關，面試官看著你，拋出了一個奇怪的問題：
 ​
 「如果有一天，公司為了安全原因決定徹底放棄 AI 研發，導致我們的股價直接跌到零，你心裡會怎麼想？」

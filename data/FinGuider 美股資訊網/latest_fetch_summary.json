@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-11-03T07:48:35.684166+00:00",
+  "fetched_at_utc": "2026-11-04T07:26:44.577932+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1609435454559929",
-    "1609254424578032",
-    "1609117231258418"
+    "1610569007779907",
+    "1610205184482956",
+    "1609765607860247"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-11-03_PalantirPLTR盤後公布-Q3-財報營收年增-96-至-23.13-億美元優於市場預期的-21.8-億調整後-EPS-報-0.44-美元同樣擊敗預期營業.md",
-    "data/FinGuider 美股資訊網/2026-11-03_Anthropic-營收暴增-12-倍卻背上近-9000-億美元算力承諾.md",
-    "data/FinGuider 美股資訊網/2026-11-02_蘋果AAPLFY2026Q4-財報擊敗了市場預期營收年增-12-至-1144.8-億美元v.s.-1133.9-億EPS-報-2.1-美元v.s.-1.99-美.md"
+    "data/FinGuider 美股資訊網/2026-11-04_美超微-大幅上修全年指引盤後大漲約-7.md",
+    "data/FinGuider 美股資訊網/2026-11-03_超微AMD盤後公布了-Q3-財報營收年增-45-至-133.8-億美元優於分析師預期的-130.9-億EPS-報-2.09-美元高於市場預期的-1.95-美元毛.md",
+    "data/FinGuider 美股資訊網/2026-11-03_CrowdStrike-一口氣收購兩家-AI-安全新創.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",
