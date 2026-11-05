@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-11-04T07:27:17.377719+00:00",
+  "fetched_at_utc": "2026-11-05T07:51:55.322481+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 2,
   "new_post_count": 2,
   "new_post_ids": [
-    "1653724059445549",
-    "1653601432791145"
+    "1654638659354089",
+    "1654524419365513"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-11-04_結果還是得靠巴逆逆反一出手..md",
-    "data/IEObserve 國際經濟觀察/2026-11-04_德州如果連州長都被民主黨翻掉資料中心大危.md"
+    "data/IEObserve 國際經濟觀察/2026-11-05_Arm-創下歷史新高的單季營運表現單季營收達到-14.4億美元年增-27連續五個季度營收成長超過-20授權與其他營收達到-7.73億美元年增-50權利金營收達到.md",
+    "data/IEObserve 國際經濟觀察/2026-11-04_從民主黨大勝選後的類股反應來看大型CSP被認為是資料中心建設潮趨緩的受益者因為新增供給變得更困難有助於已有大規模自建租賃產能現金流充沛且更能應對監管的現行者鞏固.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

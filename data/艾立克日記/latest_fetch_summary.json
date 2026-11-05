@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61591563193133",
   "final_url": "https://www.facebook.com/profile.php?id=61591563193133",
-  "fetched_at_utc": "2026-11-04T07:27:55.076046+00:00",
+  "fetched_at_utc": "2026-11-05T07:52:25.439588+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "122146943781385439"
+  ],
+  "new_markdown_files": [
+    "data/艾立克日記/2026-11-04_融資維持率一天跌到1422018年以來14次什麼時候加碼勝率最高-追蹤者.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/艾立克日記",
   "notes": [

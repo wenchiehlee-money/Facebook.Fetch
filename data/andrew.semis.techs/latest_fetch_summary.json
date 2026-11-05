@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-11-04T07:27:40.744671+00:00",
+  "fetched_at_utc": "2026-11-05T07:52:14.317977+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1675886100561529"
+    "1676915527125253"
   ],
   "new_markdown_files": [
-    "data/andrew.semis.techs/2026-11-03_之前諸位大哥財報撐不住全球半導體跌勢今天蘇媽的AMD-4Q26營收指引-23-31-季增年增從45-加速到66應該可以暫時撐住最近的半導體破底跌勢但數據中心營收.md"
+    "data/andrew.semis.techs/2026-11-04_11月5日凌晨美國幾家科技及半導體大廠公布財報除了-Coherent-預期4Q26還有個8-16雙位數季增及年增加速達57外大多跟AI伺服器產業無關的公司及產業.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",

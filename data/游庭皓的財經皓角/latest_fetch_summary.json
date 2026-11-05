@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-11-04T07:26:36.327616+00:00",
+  "fetched_at_utc": "2026-11-05T07:51:27.441644+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,17 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 2,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1197776202813731",
-    "1197758519482166",
-    "1197752766149408"
+    "983508864815718",
+    "1198103119447706"
   ],
   "new_markdown_files": [
-    "data/游庭皓的財經皓角/2026-11-04_馬斯克好不容易從加州搬到德州原本想找個少點監管方便發展的地方結果這次藍潮連德州都翻動了民主黨不只拿下州長與這次改選的聯邦參議員連副州長州檢察長主計長等重要職位也.md",
-    "data/游庭皓的財經皓角/2026-11-04_民主黨大舉勝選尤其德州州長選舉出現歷史性翻盤讓美國AI資料中心的擴建前景增添更多政策變數.md",
-    "data/游庭皓的財經皓角/2026-11-04_共和黨期中選舉失利的原因找到了川普在Truth-Social發文表示我的名字根本不在選票上如果我有參選我們肯定會取得壓倒性勝利.md"
+    "data/游庭皓的財經皓角/2026-11-05_2026115四川普大潰敗-藍潮反撲為什麼選完-費半還在跌現在該停損-還是加碼早晨財經速解讀.md",
+    "data/游庭皓的財經皓角/2026-11-04_不畏風雨杠上加杠正2已經是一種信仰.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",
@@ -28,6 +26,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 1 篇貼文。"
   ]
 }

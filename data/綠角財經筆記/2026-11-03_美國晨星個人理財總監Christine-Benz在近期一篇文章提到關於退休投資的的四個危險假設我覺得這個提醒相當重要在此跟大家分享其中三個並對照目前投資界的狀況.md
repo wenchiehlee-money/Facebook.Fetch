@@ -4,22 +4,22 @@ title: "美國晨星個人理財總監Christine Benz在近期一篇文章，提�
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0Bt7hpGvLARKRDTM5wS5s64qkAWfuBjucRkrjxFJ62ukEpScYupUHDfD5Lr1NxcyYl"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0BhxhX8ebLtP39U2ELB5bDCm6Uq1utP7gsiFydHqaZHLd4AjUHHsmX8dMfdBzu81Cl"
 creation_time_utc: "2026-11-03T23:46:02+00:00"
-fetched_at_utc: "2026-11-04T07:26:49.146427+00:00"
+fetched_at_utc: "2026-11-05T07:51:36.114697+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/886086043_1550688230197905_1852106414297221050_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7Jdxaxa1xZoQ7kNvwFfrxww&_nc_oc=AdoxqFA1PAo7HmsNBxZJIE8vV8tTTKelR4v3_Wg6bFI2YhA5N6n8RQ9MFZSKrBiQu6I&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=sMv9mtW3nPQp0UF-rAE5cA&_nc_ss=79120&oh=00_AQQCtYMlqVv-hV6d9f3cMvHQXm0tPkztZ_6uQr9uMPun_A&oe=6AF0A523"
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwQnQ3aHBHdkxBUktSRFRNNXdTNXM2NHFrQVdmdUJqdWNSa3JqeEZKNjJ1a0VwU2NZdXBVSERmRDVMcjFOeGN5WWw="
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/886086043_1550688230197905_1852106414297221050_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7Jdxaxa1xZoQ7kNvwEDCKtq&_nc_oc=Adp1up-h7RPqMh3c5kZpgiB8Qzg3uITBaWQRIhqb53GMCbrmCEOxTrHNmanQ-u__krA&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=6Q8pROeZDq88STc0rc9Qmg&_nc_ss=79120&oh=00_AQQy8ZLBug7uVbjWHZiMOPJrmJyUdRUBLk5lm_eVz_wwsw&oe=6AF1F6A3"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwQmh4aFg4ZWJMdFAzOVUyRUxCNWJEQ202VXExdXRQN2dzaUZ5ZEhxYVpITGQ0QWpVSEhzbVg4ZE1mZEJ6dTgxQ2w="
 page_canonical_url: ""
 ---
 
 # 美國晨星個人理財總監Christine Benz在近期一篇文章，提到關於退休投資的的四個危險假設。我覺得這個提醒相當重要，在此跟大家分享其中三個，並對照目前投資界的狀況。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0Bt7hpGvLARKRDTM5wS5s64qkAWfuBjucRkrjxFJ62ukEpScYupUHDfD5Lr1NxcyYl
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0BhxhX8ebLtP39U2ELB5bDCm6Uq1utP7gsiFydHqaZHLd4AjUHHsmX8dMfdBzu81Cl
 
-![美國晨星個人理財總監Christine Benz在近期一篇文章，提到關於退休投資的的四個危險假設。我覺得這個提醒相當重要，在此跟大家分享其中三個，並對照目前投資界的狀況。](https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/886086043_1550688230197905_1852106414297221050_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7Jdxaxa1xZoQ7kNvwFfrxww&_nc_oc=AdoxqFA1PAo7HmsNBxZJIE8vV8tTTKelR4v3_Wg6bFI2YhA5N6n8RQ9MFZSKrBiQu6I&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=sMv9mtW3nPQp0UF-rAE5cA&_nc_ss=79120&oh=00_AQQCtYMlqVv-hV6d9f3cMvHQXm0tPkztZ_6uQr9uMPun_A&oe=6AF0A523)
+![美國晨星個人理財總監Christine Benz在近期一篇文章，提到關於退休投資的的四個危險假設。我覺得這個提醒相當重要，在此跟大家分享其中三個，並對照目前投資界的狀況。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/886086043_1550688230197905_1852106414297221050_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7Jdxaxa1xZoQ7kNvwEDCKtq&_nc_oc=Adp1up-h7RPqMh3c5kZpgiB8Qzg3uITBaWQRIhqb53GMCbrmCEOxTrHNmanQ-u__krA&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=6Q8pROeZDq88STc0rc9Qmg&_nc_ss=79120&oh=00_AQQy8ZLBug7uVbjWHZiMOPJrmJyUdRUBLk5lm_eVz_wwsw&oe=6AF1F6A3)
 美國晨星個人理財總監Christine Benz在近期一篇文章，提到關於退休投資的的四個危險假設。我覺得這個提醒相當重要，在此跟大家分享其中三個，並對照目前投資界的狀況。
 
 第一個危險假設，就是退休期間金融資產會有高報酬。

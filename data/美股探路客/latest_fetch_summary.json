@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-11-04T07:26:56.895613+00:00",
+  "fetched_at_utc": "2026-11-05T07:51:41.720951+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 2,
   "new_post_count": 2,
   "new_post_ids": [
-    "1562170695956862",
-    "1562161245957807"
+    "1563212662519332",
+    "1562363505937581"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-11-04_發電更環保的固態燃料電池公司Bloom-Energy夜盤上漲3看來環保有機會重回主流了.md",
-    "data/美股探路客/2026-11-04_黃金重返4000分裂的美國政局加大對美國財政不確定性擔憂最近賣黃金ETF看跌期權起了對沖的作用.md"
+    "data/美股探路客/2026-11-05_美國前七大新建數據中心的州長選舉全數為民主黨籍候選人當選特別是最高算力建設州的德州翻盤這是市場未完全預料到的情況於是短線開始交易數據中心建設全面放緩的預期.md",
+    "data/美股探路客/2026-11-04_美股盤前開始走軋空行情TeslaSpaceX是前十大市值公司裡唯二下跌的.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-11-04T07:27:00.733465+00:00",
+  "fetched_at_utc": "2026-11-05T07:51:44.120057+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122203848332771552"
+    "122204189570771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-11-03_以前是漫長的調情現在幾天到幾週之內就能完成簽約.md"
+    "data/Fomo研究院/2026-11-05_AMD在財報公布前的一個月股價跌了25財報一出來盤後立刻反彈但盤中又抹掉了所有漲幅.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

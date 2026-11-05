@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-11-04T07:27:23.716011+00:00",
+  "fetched_at_utc": "2026-11-05T07:52:00.376353+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122209287260486922",
-    "122209286084486922",
-    "122209284098486922"
+    "122209405298486922",
+    "122209398512486922",
+    "122209391336486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-11-04_週二晚開心.md",
-    "data/美股老司機 3.0/2026-11-04_李煜在汴京976年978年短短兩年多的階下囚生涯是他詞學創作的最高峰.md",
-    "data/美股老司機 3.0/2026-11-04_共和黨總統失去國會控制權給民主黨的情況下標普-500-指數在隨後不同時間段的回報表現.md"
+    "data/美股老司機 3.0/2026-11-05_週三晚開心.md",
+    "data/美股老司機 3.0/2026-11-05_一問一答.md",
+    "data/美股老司機 3.0/2026-11-05_分享.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

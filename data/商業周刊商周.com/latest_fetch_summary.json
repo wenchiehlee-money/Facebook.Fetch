@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-11-04T07:27:48.780159+00:00",
+  "fetched_at_utc": "2026-11-05T07:52:20.077012+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1561393282689549",
-    "1561303382698539",
-    "1561279896034221"
+    "1562618195900391",
+    "1562577585904452",
+    "1562405059255038"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-11-04_主管提議玩遊戲決定誰請大家喝飲料她竟當場拒絕.md",
-    "data/商業周刊商周.com/2026-11-04_一張保單能投資領配息又有壽險保障聽起來很省事但你繳進去的保費有多少拿去投資.md",
-    "data/商業周刊商周.com/2026-11-04_財富可以傳承但第一代累積幾十年的判斷經驗該怎麼一起交棒.md"
+    "data/商業周刊商周.com/2026-11-05_AI需求還在台灣供應鏈出貨卻可能延後.md",
+    "data/商業周刊商周.com/2026-11-05_這一票投給懂趨勢的你.md",
+    "data/商業周刊商周.com/2026-11-05_台積電連跌4天想趁回檔買進先看獲利預估.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

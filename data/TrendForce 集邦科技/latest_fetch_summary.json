@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-11-04T07:27:51.848496+00:00",
+  "fetched_at_utc": "2026-11-05T07:52:22.836728+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1542308161252937",
-    "1541391028011317"
+    "1542332567917163"
   ],
   "new_markdown_files": [
-    "data/TrendForce 集邦科技/2026-11-04_現貨溢價壓抑追價意願DDR4主流顆粒小跌0.09.md",
-    "data/TrendForce 集邦科技/2026-11-03_Broadcom-強勢領導的光通訊產業即將生變Marvell-著重電Lumentum-著重光兩者合併後兼具光電元件與半導體-IC-能力NVIDIA-與雲端大廠有.md"
+    "data/TrendForce 集邦科技/2026-11-04_雙11促銷將近需求仍疲弱512Gb-TLC現貨價跌4.33.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",
