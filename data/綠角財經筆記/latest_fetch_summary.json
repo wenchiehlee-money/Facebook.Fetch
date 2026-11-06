@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-11-05T07:51:36.114697+00:00",
+  "fetched_at_utc": "2026-11-06T07:51:49.860392+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1552082660058462"
+    "1553082056625189"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-11-04_國泰台灣低波動股利精選30-ETF台股代號00701簡稱國泰股利精選30於2017八月17號掛牌上市.md"
+    "data/綠角財經筆記/2026-11-05_在0050連結基金TISA股別的經理費折扣免買進手續費與可能的稅務優惠能否勝過0050呢-文中提到0050連結基金的三個股別在去年2025帶來程度不等的績效落後.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

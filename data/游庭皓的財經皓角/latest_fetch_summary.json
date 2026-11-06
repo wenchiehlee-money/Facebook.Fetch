@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-11-05T07:51:27.441644+00:00",
+  "fetched_at_utc": "2026-11-06T07:51:41.785926+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,15 +9,17 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 2,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "983508864815718",
-    "1198103119447706"
+    "1199759412615410",
+    "1199758129282205",
+    "1199727192618632"
   ],
   "new_markdown_files": [
-    "data/游庭皓的財經皓角/2026-11-05_2026115四川普大潰敗-藍潮反撲為什麼選完-費半還在跌現在該停損-還是加碼早晨財經速解讀.md",
-    "data/游庭皓的財經皓角/2026-11-04_不畏風雨杠上加杠正2已經是一種信仰.md"
+    "data/游庭皓的財經皓角/2026-11-06_川普在社群平台連續發文將美國股市重挫歸咎於民主黨在週二期中選舉取得重大勝利他表示今天股市崩盤就是因為民主黨在週二大勝看到這種情況真令人難過但你們只能怪自己.md",
+    "data/游庭皓的財經皓角/2026-11-06_眾議院民主黨黨團我們已經準備好為美國人民做出實際貢獻.md",
+    "data/游庭皓的財經皓角/2026-11-06_韓股半導體本益比只剩2.8倍你以為價格已經到地板價原來還有地窖買到了地窖想不到還有地獄終於到達了地獄想不到還有18層.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",
@@ -26,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

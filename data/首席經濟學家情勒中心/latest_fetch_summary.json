@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61589343187385",
   "final_url": "https://www.facebook.com/profile.php?id=61589343187385",
-  "fetched_at_utc": "2026-11-05T07:52:06.129589+00:00",
+  "fetched_at_utc": "2026-11-06T07:52:21.414878+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,17 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 2,
+  "new_post_count": 2,
   "new_post_ids": [
-    "122131620519311439",
-    "122131618551311439",
-    "122131602249311439"
+    "122132009031311439",
+    "122132002197311439"
   ],
   "new_markdown_files": [
-    "data/首席經濟學家情勒中心/2026-11-04_結果出來了.md",
-    "data/首席經濟學家情勒中心/2026-11-04_首席的市場偏執-006.md",
-    "data/首席經濟學家情勒中心/2026-11-04_是不是驗屍報告人人可以寫啦預測就不是了.md"
+    "data/首席經濟學家情勒中心/2026-11-06_今天會有大報告記得去找我們子公司的業務同仁預定最終看法.md",
+    "data/首席經濟學家情勒中心/2026-11-05_昨天傳出民主黨的議員提案要全面封殺-AI這個消息一出當然導致整個市場巨大的恐慌.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/首席經濟學家情勒中心",
@@ -28,6 +26,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 1 篇貼文。"
   ]
 }

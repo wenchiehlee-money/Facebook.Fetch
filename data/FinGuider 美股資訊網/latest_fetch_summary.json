@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-11-05T07:51:33.115850+00:00",
+  "fetched_at_utc": "2026-11-06T07:51:47.303259+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1611395341030607",
-    "1610918474411627",
-    "1610693844434090"
+    "1612651544238320",
+    "1612074950962646",
+    "1611773367659471"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-11-04_高通QCOM盤後公布了-FY2026Q4-財報營收年減-7-至-104.4-億美元高於預期的-101.5-億調整後-EPS-報-2.17-美元擊敗了市場共識的.md",
-    "data/FinGuider 美股資訊網/2026-11-04_CVS-HealthCVS要拆成兩家上市公司了時間預計落在-2028-年上半年同一天公布的第三季財報也優於市場預期盤前股價卻在財報出爐後轉跌.md",
-    "data/FinGuider 美股資訊網/2026-11-04_高速傳輸晶片大廠-Astera-LabsALABFY2026Q3-財報優於預期營收年增長進一步加速另外-Q4-財測也全面優於市場共識不過盤前仍下跌約--4.md"
+    "data/FinGuider 美股資訊網/2026-11-06_Google-將在懷俄明州投資-170-億興建首座資料中心.md",
+    "data/FinGuider 美股資訊網/2026-11-05_資料中心逆風擴大微軟縮手Meta-喊難蓋OpenAI-推社區協議.md",
+    "data/FinGuider 美股資訊網/2026-11-05_ARM-財報雙雙優於預期但下季財測僅小幅高於預期.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

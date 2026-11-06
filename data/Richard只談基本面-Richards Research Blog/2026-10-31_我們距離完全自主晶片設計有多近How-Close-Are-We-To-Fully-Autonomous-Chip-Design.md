@@ -4,20 +4,20 @@ title: "\"我們距離完全自主晶片設計有多近？\"How Close Are We To 
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02j3DUV4u89Bay1uiKcSw5f2afSFwNdeeb933hVhm8LzFHKF5b3KvfTP9qhqY8jbhhl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0fVaHZuGmJ5HxiBc5DgWgRKpSR5WSU6ZtuNggZZ9M4mCxYdbS7ajGd2ybwSBu1r9wl&id=100054201473657"
 creation_time_utc: "2026-10-31T15:50:56+00:00"
-fetched_at_utc: "2026-11-05T07:51:52.545348+00:00"
+fetched_at_utc: "2026-11-06T07:52:07.658081+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
 image_url: ""
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwMmozRFVWNHU4OUJheTF1aUtjU3c1ZjJhZlNGd05kZWViOTMzaFZobThMekZIS0Y1YjNLdmZUUDlxaHFZOGpiaGhs"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwZlZhSFp1R21KNUh4aUJjNURnV2dSS3BTUjVXU1U2WnR1TmdnWlo5TTRtQ3hZZGJTN2FqR2QyeWJ3U0J1MXI5d2w="
 page_canonical_url: ""
 ---
 
 # "我們距離完全自主晶片設計有多近？"How Close Are We To Fully Autonomous Chip Design?
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02j3DUV4u89Bay1uiKcSw5f2afSFwNdeeb933hVhm8LzFHKF5b3KvfTP9qhqY8jbhhl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0fVaHZuGmJ5HxiBc5DgWgRKpSR5WSU6ZtuNggZZ9M4mCxYdbS7ajGd2ybwSBu1r9wl&id=100054201473657
 "我們距離完全自主晶片設計有多近？"How Close Are We To Fully Autonomous Chip Design?
 Synopsys執行長Sassine Ghazi談論人工智慧代理Agent、自主工程的限制、數位孿生，以及3D積體電路所面臨的挑戰。
 

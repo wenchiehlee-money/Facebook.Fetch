@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-11-05T07:52:20.077012+00:00",
+  "fetched_at_utc": "2026-11-06T07:52:36.391057+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1562618195900391",
-    "1562577585904452",
-    "1562405059255038"
+    "1563754905786720",
+    "1563707642458113",
+    "1563605379135006"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-11-05_AI需求還在台灣供應鏈出貨卻可能延後.md",
-    "data/商業周刊商周.com/2026-11-05_這一票投給懂趨勢的你.md",
-    "data/商業周刊商周.com/2026-11-05_台積電連跌4天想趁回檔買進先看獲利預估.md"
+    "data/商業周刊商周.com/2026-11-06_公司推AI員工就得自己想辦法學會有些主管認為每個人都該為自己的職場競爭力負責跟上新工具自然也是員工的事.md",
+    "data/商業周刊商周.com/2026-11-06_一場蒙古嚴冬為何牽動台灣一家醫學中心的心.md",
+    "data/商業周刊商周.com/2026-11-06_台股今日盤中一度重挫逾3700點創史上最大盤中跌點紀錄也讓長期投資人的信心面臨考驗.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

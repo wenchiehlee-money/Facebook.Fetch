@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-11-05T07:52:00.376353+00:00",
+  "fetched_at_utc": "2026-11-06T07:52:16.400130+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122209405298486922",
-    "122209398512486922",
-    "122209391336486922"
+    "122209512740486922",
+    "122209495244486922",
+    "122209487726486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-11-05_週三晚開心.md",
-    "data/美股老司機 3.0/2026-11-05_一問一答.md",
-    "data/美股老司機 3.0/2026-11-05_分享.md"
+    "data/美股老司機 3.0/2026-11-06_來看看這些標的表現如何.md",
+    "data/美股老司機 3.0/2026-11-06_這就是市場最諷刺-最迷人的地方.md",
+    "data/美股老司機 3.0/2026-11-06_財報-TMDX.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-11-05T07:51:41.720951+00:00",
+  "fetched_at_utc": "2026-11-06T07:51:55.755794+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,21 +9,23 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 2,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1563212662519332",
-    "1562363505937581"
+    "1564263992414199",
+    "1564179455755986",
+    "1563948279112437"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-11-05_美國前七大新建數據中心的州長選舉全數為民主黨籍候選人當選特別是最高算力建設州的德州翻盤這是市場未完全預料到的情況於是短線開始交易數據中心建設全面放緩的預期.md",
-    "data/美股探路客/2026-11-04_美股盤前開始走軋空行情TeslaSpaceX是前十大市值公司裡唯二下跌的.md"
+    "data/美股探路客/2026-11-06_0050元大台灣50回到了今年以來所有投資人的成交量加權平均價格.md",
+    "data/美股探路客/2026-11-06_昨天民主黨AI解放日個股放空比超越了對等關稅解放日投資人搶著放空或避險.md",
+    "data/美股探路客/2026-11-06_SOXL成交量高達5.1億股2020疫情以來僅次於2025對等關稅解放日費半被民主黨解放了.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",
   "notes": [
     "Facebook 公開頁面的 HTML 結構很常變動。",
-    "本次已成功用公開 GraphQL 擷取到 2 篇貼文。",
+    "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
     "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"

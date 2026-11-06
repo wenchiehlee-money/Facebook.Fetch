@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-11-05T07:51:55.322481+00:00",
+  "fetched_at_utc": "2026-11-06T07:52:10.673962+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,15 +9,17 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 2,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1654638659354089",
-    "1654524419365513"
+    "1655866249231330",
+    "1655674009250554",
+    "1655623322588956"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-11-05_Arm-創下歷史新高的單季營運表現單季營收達到-14.4億美元年增-27連續五個季度營收成長超過-20授權與其他營收達到-7.73億美元年增-50權利金營收達到.md",
-    "data/IEObserve 國際經濟觀察/2026-11-04_從民主黨大勝選後的類股反應來看大型CSP被認為是資料中心建設潮趨緩的受益者因為新增供給變得更困難有助於已有大規模自建租賃產能現金流充沛且更能應對監管的現行者鞏固.md"
+    "data/IEObserve 國際經濟觀察/2026-11-06_幾乎從所有指標來看這都是我們有史以來表現最好的一季我們再次加速了成長同時獲利能力也同步提升繳出近四年來最快的營收成長率並創下公司歷史上最高的營業利益率.md",
+    "data/IEObserve 國際經濟觀察/2026-11-06_先喊一下就有用.md",
+    "data/IEObserve 國際經濟觀察/2026-11-06_阿川股市崩盤怪你自己.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",
@@ -26,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }
