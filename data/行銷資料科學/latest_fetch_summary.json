@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-11-06T07:51:44.710858+00:00",
+  "fetched_at_utc": "2026-11-07T07:00:32.101494+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "1429393265970981",
-    "1429282249315416"
-  ],
-  "new_markdown_files": [
-    "data/行銷資料科學/2026-11-05_從結構化資料到多模態資料行銷資料科學-正在從看數字走向懂顧客.md",
-    "data/行銷資料科學/2026-11-05_不用請人教你打造一位-24-小時待命的-AI-客服員工.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",
   "notes": [

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-11-06T07:52:33.875851+00:00",
+  "fetched_at_utc": "2026-11-07T07:01:36.115340+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1662960052541162",
-    "1662731602564007",
-    "1662639209239913"
+    "1663242029179631",
+    "1663104222526745"
   ],
   "new_markdown_files": [
-    "data/LinsanityStock/2026-11-06_今天台北股市大地震美元兌新台幣匯率也大幅震盪逾3角.md",
-    "data/LinsanityStock/2026-11-06_到底是限空令or國安基金準備要進場了.md",
-    "data/LinsanityStock/2026-11-06_今天台股開盤壓力山大很多個股會直接跳空跌停大家要預先做好心理準備.md"
+    "data/LinsanityStock/2026-11-06_20261106.md",
+    "data/LinsanityStock/2026-11-06_國安糖漿來了.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",

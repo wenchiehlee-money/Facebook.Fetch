@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-11-06T07:52:39.896475+00:00",
+  "fetched_at_utc": "2026-11-07T07:01:42.669165+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1544364691047284",
-    "1544197717730648",
-    "1543476457802774"
+    "1545555477594872"
   ],
   "new_markdown_files": [
-    "data/TrendForce 集邦科技/2026-11-06_低階手機導入-拆機料-比例急攀升受-MobileDRAM-價格上揚影響預估拆機料於手機市場滲透率由-2026-年約-3-4至-2027-年可能上升至-7-9Tr.md",
-    "data/TrendForce 集邦科技/2026-11-06_TrendForce-10-月最新追蹤資料顯示本月新增的資料中心容量中Google-占-2.3-GW整體新增規模達-4.17-GW.md",
-    "data/TrendForce 集邦科技/2026-11-05_2027-年科技產業大預測出爐TrendForce-預估-AI伺服器-出貨量將年增-36帶動-晶圓代工-產值年增逾-30九大-CSP-資本支出更達逾-1.5-兆.md"
+    "data/TrendForce 集邦科技/2026-11-07_AI-需求塞爆產能-村田製作所砸1兆日圓-拚電容銷售倍增.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",

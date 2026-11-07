@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/iqvalue",
   "final_url": "https://www.facebook.com/iqvalue",
-  "fetched_at_utc": "2026-11-06T07:52:27.845102+00:00",
+  "fetched_at_utc": "2026-11-07T07:01:28.260269+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1589269029881541",
-    "1589223616552749"
+    "1590298113111966"
   ],
   "new_markdown_files": [
-    "data/洪鑑穩 帶你挖好股/2026-11-05_重磅消息AI核彈級風暴真的要來了.md",
-    "data/洪鑑穩 帶你挖好股/2026-11-05_不知道當初看到我發這篇記憶體警示文時那些不以為然冷嘲熱諷質疑我的人如今的感受如何.md"
+    "data/洪鑑穩 帶你挖好股/2026-11-07_不要再猜底了沒有人知道底在哪裡.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/洪鑑穩 帶你挖好股",

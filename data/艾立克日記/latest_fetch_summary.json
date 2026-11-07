@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61591563193133",
   "final_url": "https://www.facebook.com/profile.php?id=61591563193133",
-  "fetched_at_utc": "2026-11-06T07:52:42.708642+00:00",
+  "fetched_at_utc": "2026-11-07T07:01:45.701079+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "122147363613385439"
-  ],
-  "new_markdown_files": [
-    "data/艾立克日記/2026-11-06_今天沒有數據分析-追蹤者.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/艾立克日記",
   "notes": [

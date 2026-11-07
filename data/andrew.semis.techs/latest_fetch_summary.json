@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-11-06T07:52:30.662699+00:00",
+  "fetched_at_utc": "2026-11-07T07:01:32.661511+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1677958493687623"
-  ],
-  "new_markdown_files": [
-    "data/andrew.semis.techs/2026-11-06_費半指數又崩了12過去我曾經歷過2001及2008-1Q09大崩盤這次不遑多讓但自從7月修正以來我一直在問自己這是1.-無基本面變化的估值及技術面修正如果是就是.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
   "notes": [

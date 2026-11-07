@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-11-06T07:52:36.391057+00:00",
+  "fetched_at_utc": "2026-11-07T07:01:39.248716+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1563754905786720",
-    "1563707642458113",
-    "1563605379135006"
+    "1564767962352081",
+    "1563953289100215",
+    "1563853212443556"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-11-06_公司推AI員工就得自己想辦法學會有些主管認為每個人都該為自己的職場競爭力負責跟上新工具自然也是員工的事.md",
-    "data/商業周刊商周.com/2026-11-06_一場蒙古嚴冬為何牽動台灣一家醫學中心的心.md",
-    "data/商業周刊商周.com/2026-11-06_台股今日盤中一度重挫逾3700點創史上最大盤中跌點紀錄也讓長期投資人的信心面臨考驗.md"
+    "data/商業周刊商周.com/2026-11-07_常寫錯字卻出了50多本書日本職涯講師30歲後別再補強缺點.md",
+    "data/商業周刊商周.com/2026-11-06_以前超商想盡辦法讓你進店消費如今卻搶著把服務送進你家社區.md",
+    "data/商業周刊商周.com/2026-11-06_統籌款大增7縣市預算卻縮水.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

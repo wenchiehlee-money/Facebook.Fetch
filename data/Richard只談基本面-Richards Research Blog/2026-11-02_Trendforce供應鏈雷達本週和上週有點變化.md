@@ -4,22 +4,22 @@ title: "Trendforce供應鏈雷達本週和上週有點變化"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02snpoCJYh3Wh418vAk393jn4crSfgcvaBjRYQvU7C8pLk7KrWtsmGrSKqXxuHoyWdl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0omE5iVM8NWqysyYBN594wiuC4wwRH3eh2gkJdd1FUqoTrKJ7ddnYmg2NW8FK9gXXl&id=100054201473657"
 creation_time_utc: "2026-11-02T11:56:49+00:00"
-fetched_at_utc: "2026-11-06T07:52:07.658081+00:00"
+fetched_at_utc: "2026-11-07T07:01:03.422461+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/885547509_1656862876130412_4541653164577765686_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VAr1pWGWpRQQ7kNvwH2sXUh&_nc_oc=AdofMyXku53raZ-9jQainf1fioLXPa3DWhJ6Roy-J6MHyB_N5X8zi9yJpqBHn0n0TqA&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=816BhRQKfly9udYeluD_eg&_nc_ss=79120&oh=00_AQQoWh9tIdSR4aQxjC-5Rh-atdU4gGr0CIifmPO-0bgNEg&oe=6AF34A8C"
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwMnNucG9DSlloM1doNDE4dkFrMzkzam40Y3JTZmdjdmFCalJZUXZVN0M4cExrN0tyV3RzbUdyU0txWHh1SG95V2Rs"
+image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/885547509_1656862876130412_4541653164577765686_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VAr1pWGWpRQQ7kNvwFysmsU&_nc_oc=AdrTRegapv3KKz4TvPBJabtc0ZUXMTJVU4ZXorCli4imyIyvOSFUR0RmMwZNrRP37UI&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=xJ2p5E_Oz_3fnr0OP0A4mw&_nc_ss=79120&oh=00_AQTzbHzVk0PYIQav38Csktamt2Gi1aOP0TnAnDZA6vG0Jg&oe=6AF49C0C"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwb21FNWlWTThOV3F5c3lZQk41OTR3aXVDNHd3UkgzZWgyZ2tKZGQxRlVxb1RyS0o3ZGRuWW1nMk5XOEZLOWdYWGw="
 page_canonical_url: ""
 ---
 
 # Trendforce供應鏈雷達本週和上週有點變化
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02snpoCJYh3Wh418vAk393jn4crSfgcvaBjRYQvU7C8pLk7KrWtsmGrSKqXxuHoyWdl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0omE5iVM8NWqysyYBN594wiuC4wwRH3eh2gkJdd1FUqoTrKJ7ddnYmg2NW8FK9gXXl&id=100054201473657
 
-![Trendforce供應鏈雷達本週和上週有點變化](https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/885547509_1656862876130412_4541653164577765686_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VAr1pWGWpRQQ7kNvwH2sXUh&_nc_oc=AdofMyXku53raZ-9jQainf1fioLXPa3DWhJ6Roy-J6MHyB_N5X8zi9yJpqBHn0n0TqA&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=816BhRQKfly9udYeluD_eg&_nc_ss=79120&oh=00_AQQoWh9tIdSR4aQxjC-5Rh-atdU4gGr0CIifmPO-0bgNEg&oe=6AF34A8C)
+![Trendforce供應鏈雷達本週和上週有點變化](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/885547509_1656862876130412_4541653164577765686_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VAr1pWGWpRQQ7kNvwFysmsU&_nc_oc=AdrTRegapv3KKz4TvPBJabtc0ZUXMTJVU4ZXorCli4imyIyvOSFUR0RmMwZNrRP37UI&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=xJ2p5E_Oz_3fnr0OP0A4mw&_nc_ss=79120&oh=00_AQTzbHzVk0PYIQav38Csktamt2Gi1aOP0TnAnDZA6vG0Jg&oe=6AF49C0C)
 Trendforce供應鏈雷達本週和上週有點變化
 
 1. GPU稍微趨緊tightening，VR只能供應大CSP
