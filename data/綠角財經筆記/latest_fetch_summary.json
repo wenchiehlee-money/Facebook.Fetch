@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-11-07T07:00:40.127847+00:00",
+  "fetched_at_utc": "2026-11-08T07:10:44.833182+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1554153633184698"
+    "1555288003071261",
+    "1554510356482359"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-11-06_大多頭市場被投資人堅定擁護相信可以保證致富的高風險高投機策略.md"
+    "data/綠角財經筆記/2026-11-08_今早650在這樣的景色與涼爽氣溫下跑步令人愉快.md",
+    "data/綠角財經筆記/2026-11-07_真是難得一見的對資產配置的深入見解.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

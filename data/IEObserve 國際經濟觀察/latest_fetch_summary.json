@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-11-07T07:01:07.211493+00:00",
+  "fetched_at_utc": "2026-11-08T07:11:00.971293+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,15 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
+  "checked_post_count": 2,
   "new_post_count": 2,
   "new_post_ids": [
-    "1656771175807504",
-    "1656205572530731"
+    "1657702925714329",
+    "1657366125748009"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-11-07_地表上的電力與晶片產能很快就會無法支撐-AI-的指數型擴張Elon-Musk-在訪談中直接點出這項極限若要達到每年-1-兆瓦Terawatt等級的運算規模甚至只.md",
-    "data/IEObserve 國際經濟觀察/2026-11-06_美國就業數據再度比預期強勁.md"
+    "data/IEObserve 國際經濟觀察/2026-11-07_現金很多的波克夏開始加大回購.md",
+    "data/IEObserve 國際經濟觀察/2026-11-07_其實老馬以前是覺得Cybertruck這台車可以和福特皮卡一戰的.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",
@@ -26,6 +26,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 1 篇貼文。"
   ]
 }

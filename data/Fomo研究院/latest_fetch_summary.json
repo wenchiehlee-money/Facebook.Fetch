@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-11-07T07:00:51.843849+00:00",
+  "fetched_at_utc": "2026-11-08T07:10:51.750860+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "122204492780771552"
+    "122204606546771552",
+    "122204534552771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-11-07_AI要完了.md"
+    "data/Fomo研究院/2026-11-08_德州被翻盤其中最傷的絕對是Elon-Musk畢竟他投入了近4.5億美元卻換不來任何東西.md",
+    "data/Fomo研究院/2026-11-07_不用害怕啦新任德州州長Gina-Hinojosa-自己都說了2027-年的算力建設完全不受影響一切照舊.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

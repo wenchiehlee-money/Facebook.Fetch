@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61591563193133",
   "final_url": "https://www.facebook.com/profile.php?id=61591563193133",
-  "fetched_at_utc": "2026-11-07T07:01:45.701079+00:00",
+  "fetched_at_utc": "2026-11-08T07:11:25.201591+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "122147719347385439"
+  ],
+  "new_markdown_files": [
+    "data/艾立克日記/2026-11-07_20年來統計大數據100多張圖結論是大盤一陣子都不會創新高-追蹤者.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/艾立克日記",
   "notes": [

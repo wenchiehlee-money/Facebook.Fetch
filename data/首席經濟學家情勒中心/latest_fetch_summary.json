@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61589343187385",
   "final_url": "https://www.facebook.com/profile.php?id=61589343187385",
-  "fetched_at_utc": "2026-11-07T07:01:21.526990+00:00",
+  "fetched_at_utc": "2026-11-08T07:11:09.365489+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,17 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
-  "new_post_ids": [
-    "122132130633311439",
-    "122132080431311439",
-    "122132076987311439"
-  ],
-  "new_markdown_files": [
-    "data/首席經濟學家情勒中心/2026-11-07_華爾街是不是被嚇傻了傻到都忘記這輪AI大多頭就是從拜登執政時期開始奠基的2022年拜登簽署晶片與科學法案投入527億美元支持半導體拜登政府還成立AI資料中心工作.md",
-    "data/首席經濟學家情勒中心/2026-11-06_是不是我講的台GG要去做DRAM了啊全世界唯一命中吧.md",
-    "data/首席經濟學家情勒中心/2026-11-06_首席的市場偏執-008.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/首席經濟學家情勒中心",
   "notes": [

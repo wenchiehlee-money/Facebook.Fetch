@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-11-07T07:00:36.136046+00:00",
+  "fetched_at_utc": "2026-11-08T07:10:42.485922+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 3,
   "new_post_count": 2,
   "new_post_ids": [
-    "1613976444105830",
-    "1612986824204792"
+    "1615271547309653",
+    "1615136433989831"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-11-07_輝達點名台積電傳要求跨足-3D-DRAMAI-記憶體市場將迎來新戰局.md",
-    "data/FinGuider 美股資訊網/2026-11-06_Cloudflare-財報超預期盤後大漲逾-14AI-Agent-帶動營收加速成長但新業務能否轉化為長期獲利.md"
+    "data/FinGuider 美股資訊網/2026-11-08_期中選舉為美股增添變數民主黨橫掃美國參眾兩院部分當選人主張限制資料中心擴張市場擔憂-AI-監管趨嚴導致科技股明顯修正即便上週超微資料中心營收翻倍Palantir.md",
+    "data/FinGuider 美股資訊網/2026-11-08_巴菲特的波克夏海瑟威BRK.B-2026-年第三季回購約-96-億美元回購額高於第二季約-45-億美元前三季累計約-144-億美元公司本季-Operating.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

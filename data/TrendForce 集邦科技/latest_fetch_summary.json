@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-11-07T07:01:42.669165+00:00",
+  "fetched_at_utc": "2026-11-08T07:11:22.917112+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1545555477594872"
+    "1546644120819341"
   ],
   "new_markdown_files": [
-    "data/TrendForce 集邦科技/2026-11-07_AI-需求塞爆產能-村田製作所砸1兆日圓-拚電容銷售倍增.md"
+    "data/TrendForce 集邦科技/2026-11-08_記憶體缺貨也難上市長江存儲傳暫緩IPO-擴產添變數.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",

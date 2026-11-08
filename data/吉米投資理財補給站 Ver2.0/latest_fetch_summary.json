@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-11-07T07:01:10.644229+00:00",
+  "fetched_at_utc": "2026-11-08T07:11:03.095504+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 2,
   "new_post_count": 2,
   "new_post_ids": [
-    "122236834394502956",
-    "122236834076502956"
+    "122237084768502956",
+    "122237083472502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-11-06_美股四大-AI-股神暫時殞落市場沒有永遠的贏家.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-11-06_川普釋出訊號美國-AI-基礎建設版圖將重新洗牌.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-11-07_全球-CoWoS-需求將於-2027-年全面強勁成長各大客戶同步擴大需求.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-11-07_2027年雲端資本開支拆分記憶體53GPUASIC不含HBM18基礎設施20硬體7伺服器CPU-2.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",

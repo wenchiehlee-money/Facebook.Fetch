@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/ForexStrategist",
   "final_url": "https://www.facebook.com/ForexStrategist",
-  "fetched_at_utc": "2026-11-07T07:00:56.011404+00:00",
+  "fetched_at_utc": "2026-11-08T07:10:54.547621+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1716432576508880",
-    "1716049789880492",
-    "1715887916563346"
+    "1717638816388256",
+    "1717448686407269",
+    "1716740016478136"
   ],
   "new_markdown_files": [
-    "data/李其展的外匯交易致勝兵法/2026-11-07_SP500週五反彈僅0.31結構上出了什麼問題.md",
-    "data/李其展的外匯交易致勝兵法/2026-11-06_微軟逐步終止向甲骨文租賃雲端算力引發ORCL短暫跳水與市場疑慮.md",
-    "data/李其展的外匯交易致勝兵法/2026-11-06_費半跳空開高反攻漲5.5晶片記憶體與半導體設備類股領漲.md"
+    "data/李其展的外匯交易致勝兵法/2026-11-08_回購翻倍搶在起漲前波克夏再創新高下一步會買什麼.md",
+    "data/李其展的外匯交易致勝兵法/2026-11-08_美國就業數據推升美元站上102CPI接手牽動全球資金流向.md",
+    "data/李其展的外匯交易致勝兵法/2026-11-07_川普小規模轟炸伊朗留意換強硬派白宮幕僚長後動作.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/李其展的外匯交易致勝兵法",

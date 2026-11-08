@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-11-07T07:01:14.429925+00:00",
+  "fetched_at_utc": "2026-11-08T07:11:05.023962+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122209618400486922",
-    "122209616930486922",
-    "122209592198486922"
+    "122209736696486922",
+    "122209736174486922",
+    "122209729592486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-11-07_AI-資本支出從盲目擴張走向嚴格審視.md",
-    "data/美股老司機 3.0/2026-11-07_全球存儲芯片行業的最新動態.md",
-    "data/美股老司機 3.0/2026-11-07_1106.md"
+    "data/美股老司機 3.0/2026-11-08_RDW.md",
+    "data/美股老司機 3.0/2026-11-08_NASA.md",
+    "data/美股老司機 3.0/2026-11-08_未來機器人.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-11-07T07:00:44.274683+00:00",
+  "fetched_at_utc": "2026-11-08T07:10:47.449026+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "1600235065475910",
-    "1599438682222215"
-  ],
-  "new_markdown_files": [
-    "data/股魚/2026-11-07_國安基金宣布獲得授權進場有人支持有人反對但這已經是事實了我要跟各位說的是與其糾結於國安基金進場的是非對錯好好的研究進場後怎麼跟著吃豆腐才是最重要的.md",
-    "data/股魚/2026-11-06_我覺得蠻扯的才跌到年線國安基金與限空令兩大手段都拿出來用了股市只能漲不能跌的嗎.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",
   "notes": [

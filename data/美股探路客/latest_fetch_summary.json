@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-11-07T07:00:48.604947+00:00",
+  "fetched_at_utc": "2026-11-08T07:10:49.814711+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,17 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
-  "new_post_ids": [
-    "1565448282295770",
-    "1564921165681815",
-    "1564812599026005"
-  ],
-  "new_markdown_files": [
-    "data/美股探路客/2026-11-07_谷歌收購位在Wyoming懷俄明州的Crusoe數據中心園區並計劃投資170億美元擴大規模反應兩個趨勢.md",
-    "data/美股探路客/2026-11-06_這則新聞讓美股瞬間下殺由於Oracle提供的硬體晶片太舊無法滿足微軟算力需求開始不跟Oracle續約Oracle直接跌破-7-月前低.md",
-    "data/美股探路客/2026-11-06_亂世避險資產AAPL拉到上漲顯示市場避險情緒仍濃.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",
   "notes": [
