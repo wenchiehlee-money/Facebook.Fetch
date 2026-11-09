@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-11-08T07:11:20.812981+00:00",
+  "fetched_at_utc": "2026-11-09T07:52:39.137196+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1565876032241274",
-    "1565093592319518",
-    "1565007688994775"
+    "1567178992110978",
+    "1567133745448836",
+    "1567051478790396"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-11-08_心理師常說可是的人心裡有這3種害怕.md",
-    "data/商業周刊商周.com/2026-11-07_全台12億人流新戰場台北車站單日湧60萬人為何百貨龍頭也喊難賺懂商業看商周Ep.170.md",
-    "data/商業周刊商周.com/2026-11-07_喜歡喝咖啡照顧毛小孩整理房間這些興趣也能考相關證照.md"
+    "data/商業周刊商周.com/2026-11-09_一家公司每股盈餘從100元增到110元股價卻可能從3000元跌到1650元.md",
+    "data/商業周刊商周.com/2026-11-09_上一代替孩子準備好的人生真的是孩子想過的人生嗎.md",
+    "data/商業周刊商周.com/2026-11-09_黃仁勳該怎麼再來亞洲面對仰慕他的支持者.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

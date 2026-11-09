@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-11-08T07:11:00.971293+00:00",
+  "fetched_at_utc": "2026-11-09T07:52:13.163269+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,15 +9,17 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 2,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1657702925714329",
-    "1657366125748009"
+    "1658950778922877",
+    "1658823108935644",
+    "1658793032271985"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-11-07_現金很多的波克夏開始加大回購.md",
-    "data/IEObserve 國際經濟觀察/2026-11-07_其實老馬以前是覺得Cybertruck這台車可以和福特皮卡一戰的.md"
+    "data/IEObserve 國際經濟觀察/2026-11-09_這是外遇逃命波還是慶祝行情.md",
+    "data/IEObserve 國際經濟觀察/2026-11-09_SK集團老總對婚外情也是略懂略懂.md",
+    "data/IEObserve 國際經濟觀察/2026-11-08_結果老黃跟員工承認婚外情是真的.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",
@@ -26,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

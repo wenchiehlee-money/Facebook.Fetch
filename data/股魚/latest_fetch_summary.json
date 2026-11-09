@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-11-08T07:10:47.449026+00:00",
+  "fetched_at_utc": "2026-11-09T07:51:56.768166+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,10 +9,18 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "checked_post_count": 3,
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1602408281925255",
+    "1602290221937061",
+    "1601904681975615"
+  ],
+  "new_markdown_files": [
+    "data/股魚/2026-11-09_股市低點往往來自於恐懼那我們該如何知道現在市場是處於哪種狀態呢-很簡單看-台股情緒分數-的分數指引該指標透過特殊的公式換算成市場情緒想抄底必然要先看懂情緒.md",
+    "data/股魚/2026-11-08_一早醒來就看到這個美國國會要求閉門會議解釋真的是有所本.md",
+    "data/股魚/2026-11-08_明天就是考驗國安基金宣示入場對市場穩盤效果好壞的時刻有些人則是想搭順風車那如果想搭順風車的話直接配置005000620800850009220092300980.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",
   "notes": [
@@ -20,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

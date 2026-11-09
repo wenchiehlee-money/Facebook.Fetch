@@ -4,20 +4,20 @@ title: "饑不擇食？不知道是不是歷史首見，品牌\"新機\"擴大�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid03gBUATd7NBLYczM5UtUwf7whxgv3zAg1fVxdPhhuVaY21Ra1UvSQ4X7Za3Q4hTEPl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid027XdBM8YwDc2rWf2u74hdZ6UkeChUSKHABcGUTB4hkmi4K4MYva4XerJjb5rZ9ZESl&id=100054201473657"
 creation_time_utc: "2026-11-06T14:41:28+00:00"
-fetched_at_utc: "2026-11-08T07:10:58.618765+00:00"
+fetched_at_utc: "2026-11-09T07:52:10.437143+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
 image_url: ""
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwM2dCVUFUZDdOQkxZY3pNNVV0VXdmN3doeGd2M3pBZzFmVnhkUGhodVZhWTIxUmExVXZTUTRYN1phM1E0aFRFUGw="
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwMjdYZEJNOFl3RGMycldmMnU3NGhkWjZVa2VDaFVTS0hBQmNHVVRCNGhrbWk0SzRNWXZhNFhlckpqYjVyWjlaRVNs"
 page_canonical_url: ""
 ---
 
 # 饑不擇食？不知道是不是歷史首見，品牌"新機"擴大使用二手DRAM，就是從舊手機、二手機市場拆卸下來的二手舊Mobile DRAM，用在新手機上
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid03gBUATd7NBLYczM5UtUwf7whxgv3zAg1fVxdPhhuVaY21Ra1UvSQ4X7Za3Q4hTEPl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid027XdBM8YwDc2rWf2u74hdZ6UkeChUSKHABcGUTB4hkmi4K4MYva4XerJjb5rZ9ZESl&id=100054201473657
 饑不擇食？不知道是不是歷史首見，品牌"新機"擴大使用二手DRAM，就是從舊手機、二手機市場拆卸下來的二手舊Mobile DRAM，用在新手機上
 
 購買非三星Android品牌低階手機產品線"新手機"的消費者，可能裡面有拆下來的用過的二手DRAM，整體7~9%是很大的比例，因為分母要扣掉Apple、Samsung、其他品牌的旗艦和高階機，中低階新機的中獎率不低

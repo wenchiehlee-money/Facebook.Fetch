@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-11-08T07:11:05.023962+00:00",
+  "fetched_at_utc": "2026-11-09T07:52:18.630056+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122209736696486922",
-    "122209736174486922",
-    "122209729592486922"
+    "122209883630486922",
+    "122209880348486922",
+    "122209878584486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-11-08_RDW.md",
-    "data/美股老司機 3.0/2026-11-08_NASA.md",
-    "data/美股老司機 3.0/2026-11-08_未來機器人.md"
+    "data/美股老司機 3.0/2026-11-09_多頭不斷尋找看漲的理由而空頭則不斷尋找看跌的理由.md",
+    "data/美股老司機 3.0/2026-11-09_上週四--11月5日.md",
+    "data/美股老司機 3.0/2026-11-09_蛛絲馬跡.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

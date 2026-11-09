@@ -4,22 +4,22 @@ title: "📌期中選舉為美股增添變數！民主黨橫掃美國參眾兩�
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid02tSPrcxjZm2EdPrQkHLXWqsP75Geqejp7eukfANinJnDpvbKADcNJkPV72J6gSeMql"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0ptkfho7Cuy44pgZhLHtMJtBgx6Cm21NKgkZgXFanqJYU8dqMA5JP8bpJMh5P7ULdl"
 creation_time_utc: "2026-11-08T05:35:19+00:00"
-fetched_at_utc: "2026-11-08T07:10:42.485922+00:00"
+fetched_at_utc: "2026-11-09T07:51:51.781546+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/894010489_1615271277309680_6176936928041101270_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Gsq_iXdB57UQ7kNvwFai7QW&_nc_oc=Adp9TZOsancV5NgoBd34XTgXRmcPVpDnwsrydM0wMA4_uQXZRR2iH25SpwaoPQHw8aY&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=dx37BOJWqYGGDhd0hT9AFQ&_nc_ss=79120&oh=00_AQSl-03tgxrMoXSAoQhC567WTU974zKWLwb91ciV2mZrKw&oe=6AF5E08E"
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwMnRTUHJjeGpabTJFZFByUWtITFhXcXNQNzVHZXFlanA3ZXVrZkFOaW5KbkRwdmJLQURjTkprUFY3Mko2Z1NlTXFs"
+image_url: "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/894010489_1615271277309680_6176936928041101270_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=A2iLS9lohR8Q7kNvwFGGOYg&_nc_oc=AdqDMDF6JHcn8it1yXnvL3Heu8rFUhJHEu4pgiqOCpFhKVqvOAINMvkRUh_BGa4Wk-8&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=472wkdH3biliLgDFDalS8g&_nc_ss=79120&oh=00_AQRJXfWfvSaCLBgmaQqovmthC9L-_iq_qOZjZEmpb_ql9w&oe=6AF76A4E"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwcHRrZmhvN0N1eTQ0cGdaaExIdE1KdEJneDZDbTIxTktna1pnWEZhbnFKWVU4ZHFNQTVKUDhicEpNaDVQN1VMZGw="
 page_canonical_url: ""
 ---
 
 # 📌期中選舉為美股增添變數！民主黨橫掃美國參眾兩院，部分當選人主張限制資料中心擴張，市場擔憂 AI 監管趨嚴，導致科技股明顯修正。即便上週超微資料中心營收翻倍、Palantir 美國商業營收年增 148%，亮眼成長仍難打消投資人對政策與估值的疑慮。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid02tSPrcxjZm2EdPrQkHLXWqsP75Geqejp7eukfANinJnDpvbKADcNJkPV72J6gSeMql
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0ptkfho7Cuy44pgZhLHtMJtBgx6Cm21NKgkZgXFanqJYU8dqMA5JP8bpJMh5P7ULdl
 
-![📌期中選舉為美股增添變數！民主黨橫掃美國參眾兩院，部分當選人主張限制資料中心擴張，市場擔憂 AI 監管趨嚴，導致科技股明顯修正。即便上週超微資料中心營收翻倍、Palantir 美國商業營收年增 148%，亮眼成長仍難打消投資人對政策與估值的疑慮。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/894010489_1615271277309680_6176936928041101270_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Gsq_iXdB57UQ7kNvwFai7QW&_nc_oc=Adp9TZOsancV5NgoBd34XTgXRmcPVpDnwsrydM0wMA4_uQXZRR2iH25SpwaoPQHw8aY&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=dx37BOJWqYGGDhd0hT9AFQ&_nc_ss=79120&oh=00_AQSl-03tgxrMoXSAoQhC567WTU974zKWLwb91ciV2mZrKw&oe=6AF5E08E)
+![📌期中選舉為美股增添變數！民主黨橫掃美國參眾兩院，部分當選人主張限制資料中心擴張，市場擔憂 AI 監管趨嚴，導致科技股明顯修正。即便上週超微資料中心營收翻倍、Palantir 美國商業營收年增 148%，亮眼成長仍難打消投資人對政策與估值的疑慮。](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/894010489_1615271277309680_6176936928041101270_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=A2iLS9lohR8Q7kNvwFGGOYg&_nc_oc=AdqDMDF6JHcn8it1yXnvL3Heu8rFUhJHEu4pgiqOCpFhKVqvOAINMvkRUh_BGa4Wk-8&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=472wkdH3biliLgDFDalS8g&_nc_ss=79120&oh=00_AQRJXfWfvSaCLBgmaQqovmthC9L-_iq_qOZjZEmpb_ql9w&oe=6AF76A4E)
 📌期中選舉為美股增添變數！民主黨橫掃美國參眾兩院，部分當選人主張限制資料中心擴張，市場擔憂 AI 監管趨嚴，導致科技股明顯修正。即便上週超微資料中心營收翻倍、Palantir 美國商業營收年增 148%，亮眼成長仍難打消投資人對政策與估值的疑慮。
 ​
 🔥AI 算力租賃商 CoreWeave（#CRWV）、Nebius（#NBIS）絕對是本週成為焦點，算力長約背後的債務與融資成本正引發市場擔憂，投資人要緊盯算力交付、機房上線時程。上週 IREN 就出現交付延後的狀況，顯示合約能否轉成營收與現金流的重要性，尤其是在資料中心建置可能受到阻礙的情況下。

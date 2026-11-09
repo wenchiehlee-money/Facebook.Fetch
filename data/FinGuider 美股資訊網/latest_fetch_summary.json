@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-11-08T07:10:42.485922+00:00",
+  "fetched_at_utc": "2026-11-09T07:51:51.781546+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 3,
   "new_post_count": 2,
   "new_post_ids": [
-    "1615271547309653",
-    "1615136433989831"
+    "1616462813857193",
+    "1616161290554012"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-11-08_期中選舉為美股增添變數民主黨橫掃美國參眾兩院部分當選人主張限制資料中心擴張市場擔憂-AI-監管趨嚴導致科技股明顯修正即便上週超微資料中心營收翻倍Palantir.md",
-    "data/FinGuider 美股資訊網/2026-11-08_巴菲特的波克夏海瑟威BRK.B-2026-年第三季回購約-96-億美元回購額高於第二季約-45-億美元前三季累計約-144-億美元公司本季-Operating.md"
+    "data/FinGuider 美股資訊網/2026-11-09_蘋果AAPL新任執行長-John-Ternus-正加快推動-AI-轉型希望讓-Siri-從語音助理進一步升級為能自主執行任務的-AI-Agent縮小與-Open.md",
+    "data/FinGuider 美股資訊網/2026-11-08_黃仁勳在致員工的信中坦承外遇與涉嫌為中國從事間諜活動的-Megaspeed-高層-Alice-Huang黃樂有婚外情輝達董事會已宣布立即啟動獨立調查黃仁勳將暫時.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",
