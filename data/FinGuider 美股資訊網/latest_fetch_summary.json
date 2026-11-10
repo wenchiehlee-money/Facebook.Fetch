@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-11-09T07:51:51.781546+00:00",
+  "fetched_at_utc": "2026-11-10T08:17:08.995259+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1616462813857193",
-    "1616161290554012"
+    "1617836857053122",
+    "1617702283733246",
+    "1617504080419733"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-11-09_蘋果AAPL新任執行長-John-Ternus-正加快推動-AI-轉型希望讓-Siri-從語音助理進一步升級為能自主執行任務的-AI-Agent縮小與-Open.md",
-    "data/FinGuider 美股資訊網/2026-11-08_黃仁勳在致員工的信中坦承外遇與涉嫌為中國從事間諜活動的-Megaspeed-高層-Alice-Huang黃樂有婚外情輝達董事會已宣布立即啟動獨立調查黃仁勳將暫時.md"
+    "data/FinGuider 美股資訊網/2026-11-10_AnthropicANT預計週二正式啟動路演目標在感恩節前定價並於那斯達克掛牌.md",
+    "data/FinGuider 美股資訊網/2026-11-10_快訊台積電-10-月營收公告.md",
+    "data/FinGuider 美股資訊網/2026-11-10_輝達下跌-4.27晶片走私調查移交司法部黃仁勳風波延燒.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

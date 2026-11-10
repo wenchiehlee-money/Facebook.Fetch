@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-11-09T07:52:39.137196+00:00",
+  "fetched_at_utc": "2026-11-10T08:18:23.241164+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1567178992110978",
-    "1567133745448836",
-    "1567051478790396"
+    "1568289338666610",
+    "1568246702004207",
+    "1568151872013690"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-11-09_一家公司每股盈餘從100元增到110元股價卻可能從3000元跌到1650元.md",
-    "data/商業周刊商周.com/2026-11-09_上一代替孩子準備好的人生真的是孩子想過的人生嗎.md",
-    "data/商業周刊商周.com/2026-11-09_黃仁勳該怎麼再來亞洲面對仰慕他的支持者.md"
+    "data/商業周刊商周.com/2026-11-10_股市跌掉近9成退休金不一定最慘跌5成反而可能讓退休金提早見底.md",
+    "data/商業周刊商周.com/2026-11-10_從交通樞紐到城市核心南港發展進入新階段.md",
+    "data/商業周刊商周.com/2026-11-10_你確定要買一家連虧14年的公司他竟敢接手.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

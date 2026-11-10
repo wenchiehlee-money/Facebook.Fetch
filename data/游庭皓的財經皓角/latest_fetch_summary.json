@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-11-09T07:51:44.699710+00:00",
+  "fetched_at_utc": "2026-11-10T08:17:00.404443+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1203244268933591",
-    "1203134732277878",
-    "1203092912282060"
+    "2321829035307077",
+    "1203511988906819"
   ],
   "new_markdown_files": [
-    "data/游庭皓的財經皓角/2026-11-09_外資今天跟週五一樣又賣了900億看來融資又都回來了.md",
-    "data/游庭皓的財經皓角/2026-11-09_11月以來中國已有百艘軍艦包圍台灣在西太平洋展開罕見的大規模軍事部署大量海軍及海警船艦出現在台灣周邊東海南海與菲律賓海規模已超越過去部分環台軍演.md",
-    "data/游庭皓的財經皓角/2026-11-09_全球製造業正在積極導入AI希望透過AI代理人自動處理生產排程庫存管理品質檢驗及供應鏈決策但許多企業面臨的最大障礙其實不是AI模型不夠聰明是內部資料過於分散.md"
+    "data/游庭皓的財經皓角/2026-11-10_20261110二美股大反彈現在該加碼-還是停損輝達小M頭-棒打AI多頭早晨財經速解讀.md",
+    "data/游庭皓的財經皓角/2026-11-09_今天終於資減了這一輪正2抄底派大獲全勝.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",

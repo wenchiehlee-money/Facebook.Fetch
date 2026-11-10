@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-11-09T07:51:48.753675+00:00",
+  "fetched_at_utc": "2026-11-10T08:17:05.139246+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,15 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 2,
+  "new_post_ids": [
+    "1433611498882491",
+    "1433518715558436"
+  ],
+  "new_markdown_files": [
+    "data/行銷資料科學/2026-11-09_Codex-太誇張居然比ChatGPT好用數百倍.md",
+    "data/行銷資料科學/2026-11-09_廣告-真的有效還是只是搭便車從歸因分析走向因果決策.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",
   "notes": [

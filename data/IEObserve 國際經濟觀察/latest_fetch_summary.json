@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-11-09T07:52:13.163269+00:00",
+  "fetched_at_utc": "2026-11-10T08:17:43.066476+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1658950778922877",
-    "1658823108935644",
-    "1658793032271985"
+    "1660103312140957",
+    "1659900232161265",
+    "1659766285507993"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-11-09_這是外遇逃命波還是慶祝行情.md",
-    "data/IEObserve 國際經濟觀察/2026-11-09_SK集團老總對婚外情也是略懂略懂.md",
-    "data/IEObserve 國際經濟觀察/2026-11-08_結果老黃跟員工承認婚外情是真的.md"
+    "data/IEObserve 國際經濟觀察/2026-11-10_台積電10月營收5868億年增加速至59.7今年以來營收4.48兆年增43.md",
+    "data/IEObserve 國際經濟觀察/2026-11-10_台積電也參與了Anthropic的IPO私募.md",
+    "data/IEObserve 國際經濟觀察/2026-11-09_有不少人早就聽過和調查過這件事.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

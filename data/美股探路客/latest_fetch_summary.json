@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-11-09T07:51:59.359622+00:00",
+  "fetched_at_utc": "2026-11-10T08:17:22.605044+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1567810232059575",
-    "1567370122103586",
-    "1566989035475028"
+    "1568889348618330",
+    "1568824981958100"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-11-09_上週四為-1985-年以來Nasdaq-第-9-次跌破-200-日均線超過-3過去-8-次結果分化.md",
-    "data/美股探路客/2026-11-08_超級震撼彈黃仁勳承認出軌將配合Nvidia董事會對國安洩密指控的調查調查期間繼續擔任CEO直到結果出爐.md",
-    "data/美股探路客/2026-11-08_美股財經週報-2026.11.8.md"
+    "data/美股探路客/2026-11-10_Nvidia-昨天有多頭將價值57M權利金-2月到期的53k筆vertical-call-spread垂直價差看漲期權合約的高位行權價自255調低至245此價位.md",
+    "data/美股探路客/2026-11-10_昨晚盤中睡前截的NVDA-K線醒來看到股價站上錨定在對等關稅低點的AVWAP之上暫時避免了進入成交量空乏區加速下跌的風險.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

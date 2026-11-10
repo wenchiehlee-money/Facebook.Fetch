@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-11-09T07:52:42.247291+00:00",
+  "fetched_at_utc": "2026-11-10T08:18:29.327634+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,15 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 2,
+  "new_post_ids": [
+    "1548827767267643",
+    "1547770827373337"
+  ],
+  "new_markdown_files": [
+    "data/TrendForce 集邦科技/2026-11-10_Neocloud-高築的債務與多數-CSP-自由現金流轉負的表現讓資本市場對無止盡的高額-AI-投資開始產生疑慮美國資料中心建置審查可能在選後轉趨嚴謹加上-CS.md",
+    "data/TrendForce 集邦科技/2026-11-09_CreeLED-再度易主最新市場數據出爐2025-年市占率約-5升至全球第五名隨對手退場與自身現金流轉正市占有望進一步提升TrendForce-剖析全球照明-L.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",
   "notes": [
