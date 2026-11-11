@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-11-10T08:17:50.781983+00:00",
+  "fetched_at_utc": "2026-11-11T07:42:29.726527+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122210004362486922",
-    "122210000924486922",
-    "122209997804486922"
+    "122210117888486922",
+    "122210115692486922",
+    "122210111216486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-11-10_將股票視為企業的一部分而非一張供短期博弈的紙憑.md",
-    "data/美股老司機 3.0/2026-11-10_韓國-DS-投資證券發佈的半導體行業年度展望報告.md",
-    "data/美股老司機 3.0/2026-11-10_明天將公佈CPI數據.md"
+    "data/美股老司機 3.0/2026-11-11_去年四月初大跌之後-開始漲的第一天.md",
+    "data/美股老司機 3.0/2026-11-11_元大證券-加速器市場.md",
+    "data/美股老司機 3.0/2026-11-11_今天.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

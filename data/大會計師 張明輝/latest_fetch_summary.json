@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/dextermchang",
   "final_url": "https://www.facebook.com/dextermchang",
-  "fetched_at_utc": "2026-11-10T08:16:55.676318+00:00",
+  "fetched_at_utc": "2026-11-11T07:41:53.041289+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122146796637207208"
+    "122146887501207208"
   ],
   "new_markdown_files": [
-    "data/大會計師 張明輝/2026-11-10_民主黨大勝AI資料中心-的建造會慢下來嗎關鍵看明年年初法說會內容.md"
+    "data/大會計師 張明輝/2026-11-11_記憶體模組廠很少虧錢否則就是不及格.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/大會計師 張明輝",

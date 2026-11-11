@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-11-10T08:18:19.064658+00:00",
+  "fetched_at_utc": "2026-11-11T07:42:46.548106+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1667442268759607",
-    "1666796798824154"
+    "1668813575289143"
   ],
   "new_markdown_files": [
-    "data/LinsanityStock/2026-11-10_每次融資當天大減超過百億報紙頭版頭條出現融資斷頭or追繳令萬箭齊發這類聳動的標題雖然發生的原因不盡相同但結果卻驚人的類似.md",
-    "data/LinsanityStock/2026-11-09_拉布拉多是長這個樣子嗎是我眼睛業障重還是記者自己瞎掰的.md"
+    "data/LinsanityStock/2026-11-11_上禮拜買的台積電雖然早出手了2天但今天也開始獲利了這就好比雖然沒搭上高鐵的直達車在中途多停了兩站只要你沒有走錯月台坐到反向的列車終究還是會到達你要的目的地.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-11-10T08:17:38.863051+00:00",
+  "fetched_at_utc": "2026-11-11T07:42:21.536665+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,15 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 2,
+  "new_post_ids": [
+    "1665474491935917",
+    "1665452471938119"
+  ],
+  "new_markdown_files": [
+    "data/Richard只談基本面-Richards Research Blog/2026-11-10_不過五六年前資料科學還是相對很新興的科系和職涯現在卻是受到AI衝擊最大的我想補充一句2023年當AI大爆發的時候資料科學專家可能比其他科系背景的專家不輸於或更容.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-11-10_AI-提升未來工程師的標準.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",
   "notes": [

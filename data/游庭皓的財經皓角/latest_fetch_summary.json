@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-11-10T08:17:00.404443+00:00",
+  "fetched_at_utc": "2026-11-11T07:41:55.697924+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 3,
   "new_post_ids": [
-    "2321829035307077",
-    "1203511988906819"
+    "1205416735383011",
+    "1205414632049888",
+    "1205413222050029"
   ],
   "new_markdown_files": [
-    "data/游庭皓的財經皓角/2026-11-10_20261110二美股大反彈現在該加碼-還是停損輝達小M頭-棒打AI多頭早晨財經速解讀.md",
-    "data/游庭皓的財經皓角/2026-11-09_今天終於資減了這一輪正2抄底派大獲全勝.md"
+    "data/游庭皓的財經皓角/2026-11-11_反AI資料中心浪潮蔓延歐洲愛爾蘭芬蘭數千人上街上週愛爾蘭都柏林約2000人走上街頭芬蘭赫爾辛基也有約1300人參與示威蘇格蘭西班牙法國與丹麥等地同步出現抗議活動.md",
+    "data/游庭皓的財經皓角/2026-11-11_台灣最低工資11年大漲54民間薪資只增加22上班族並非多數人同步享受加薪成果.md",
+    "data/游庭皓的財經皓角/2026-11-11_台灣醫療體系急診壅塞問題持續緊繃連全國指標性的台大醫院都面臨病床不足的壓力根據聯合報報導台大醫院10日上午共有65名急診患者等待住院一度因病床不足向119通報滿.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-11-10T08:17:26.341858+00:00",
+  "fetched_at_utc": "2026-11-11T07:42:12.787771+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "122204874170771552",
-    "122204768876771552"
+    "122204918270771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-11-10_Howard-Marks-最近接受彭博專訪他在投資界快-60-年見過太多泡沫也見過太多這次不一樣的故事.md",
-    "data/Fomo研究院/2026-11-09_黃仁勳的外遇風波另一個有趣的是它發生的時間點.md"
+    "data/Fomo研究院/2026-11-10_為什麼中期大選結果一出美股上漲隔天卻突然大崩盤然後昨天又反彈了.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

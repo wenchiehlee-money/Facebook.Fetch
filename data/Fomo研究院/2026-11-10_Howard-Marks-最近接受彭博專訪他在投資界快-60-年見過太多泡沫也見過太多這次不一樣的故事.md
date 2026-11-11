@@ -4,22 +4,22 @@ title: "Howard Marks 最近接受彭博專訪。他在投資界快 60 年，見�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid025CyBDiF2DiEct1fi7U5fDhxAqWgVEwMbJQYXRyd2ChjGeNLMxwoHDthqtuCuY9eml&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0fKzJYcfNRiTwebdzFpFvjo9mCp6mDYcgkJzX33dcQAaMknChfuiThPBqeRsAtwKl&id=61573146584049"
 creation_time_utc: "2026-11-10T04:02:59+00:00"
-fetched_at_utc: "2026-11-10T08:17:26.341858+00:00"
+fetched_at_utc: "2026-11-11T07:42:12.787771+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/899670138_122204873960771552_8555744579004286418_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SEAuaZd8JaYQ7kNvwE1LXgu&_nc_oc=AdovV7lBgBAB0_Sz1dgemRMcXr_WBR-aYWE0AxPvIqs8tmRZniuwr0uF9cZTGrKi0D8&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=v9wGoUopNZRAdS_WksMKyQ&_nc_ss=79120&oh=00_AQQQDMyR3JQU2l2OJSUnglWBLIGjVmdmkdHMX-AKIwXsXw&oe=6AF89B15"
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwMjVDeUJEaUYyRGlFY3QxZmk3VTVmRGh4QXFXZ1ZFd01iSlFZWFJ5ZDJDaGpHZU5MTXh3b0hEdGhxdHVDdVk5ZW1s"
+image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/899670138_122204873960771552_8555744579004286418_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=pDJuhYsuR2sQ7kNvwFCLgVH&_nc_oc=AdqaOJ9pxEVauE7clGqKXNkrs68s6jiyvT1khJArzMgVmScgC-Nd0lTeYL17ouh9w2c&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=0OqrYtvl2rxhR9kthTv1Cg&_nc_ss=79120&oh=00_AQRC-DPDHWnlVvVgxBIpy-njBuXv1GLYnjblRVidStSS1w&oe=6AF9EC95"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwZkt6SlljZk5SaVR3ZWJkekZwRnZqbzltQ3A2bURZY2drSnpYMzNkY1FBYU1rbkNoZnVpVGhQQnFlUnNBdHdLbA=="
 page_canonical_url: ""
 ---
 
 # Howard Marks 最近接受彭博專訪。他在投資界快 60 年，見過太多泡沫，也見過太多「這次不一樣」的故事。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid025CyBDiF2DiEct1fi7U5fDhxAqWgVEwMbJQYXRyd2ChjGeNLMxwoHDthqtuCuY9eml&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0fKzJYcfNRiTwebdzFpFvjo9mCp6mDYcgkJzX33dcQAaMknChfuiThPBqeRsAtwKl&id=61573146584049
 
-![Howard Marks 最近接受彭博專訪。他在投資界快 60 年，見過太多泡沫，也見過太多「這次不一樣」的故事。](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/899670138_122204873960771552_8555744579004286418_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SEAuaZd8JaYQ7kNvwE1LXgu&_nc_oc=AdovV7lBgBAB0_Sz1dgemRMcXr_WBR-aYWE0AxPvIqs8tmRZniuwr0uF9cZTGrKi0D8&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=v9wGoUopNZRAdS_WksMKyQ&_nc_ss=79120&oh=00_AQQQDMyR3JQU2l2OJSUnglWBLIGjVmdmkdHMX-AKIwXsXw&oe=6AF89B15)
+![Howard Marks 最近接受彭博專訪。他在投資界快 60 年，見過太多泡沫，也見過太多「這次不一樣」的故事。](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/899670138_122204873960771552_8555744579004286418_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=pDJuhYsuR2sQ7kNvwFCLgVH&_nc_oc=AdqaOJ9pxEVauE7clGqKXNkrs68s6jiyvT1khJArzMgVmScgC-Nd0lTeYL17ouh9w2c&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=0OqrYtvl2rxhR9kthTv1Cg&_nc_ss=79120&oh=00_AQRC-DPDHWnlVvVgxBIpy-njBuXv1GLYnjblRVidStSS1w&oe=6AF9EC95)
 Howard Marks 最近接受彭博專訪。他在投資界快 60 年，見過太多泡沫，也見過太多「這次不一樣」的故事。
 ​
 這次談 AI，他沒有先潑冷水。

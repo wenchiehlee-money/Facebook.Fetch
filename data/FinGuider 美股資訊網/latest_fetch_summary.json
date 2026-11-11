@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-11-10T08:17:08.995259+00:00",
+  "fetched_at_utc": "2026-11-11T07:42:01.354893+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1617836857053122",
-    "1617702283733246",
-    "1617504080419733"
+    "1618616990308442",
+    "1618151427021665"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-11-10_AnthropicANT預計週二正式啟動路演目標在感恩節前定價並於那斯達克掛牌.md",
-    "data/FinGuider 美股資訊網/2026-11-10_快訊台積電-10-月營收公告.md",
-    "data/FinGuider 美股資訊網/2026-11-10_輝達下跌-4.27晶片走私調查移交司法部黃仁勳風波延燒.md"
+    "data/FinGuider 美股資訊網/2026-11-10_AI-雲端運算新創-CoreWeaveCRWV交出了一份穩健的財報營收持續加速成長積壓訂單再創新高儘管資料中心擴張與利息費用依然造成沉重負擔但各項獲利指標皆優於.md",
+    "data/FinGuider 美股資訊網/2026-11-10_美國-10-月消費者物價指數CPI月增-0.4核心-CPI-月增-0.3雙雙高於市場預期顯示通膨壓力仍未明顯緩解.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

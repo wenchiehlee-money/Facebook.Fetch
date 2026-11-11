@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-11-10T08:17:22.605044+00:00",
+  "fetched_at_utc": "2026-11-11T07:42:10.183436+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1568889348618330",
-    "1568824981958100"
+    "1570085171832081",
+    "1569248485249083",
+    "1569080311932567"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-11-10_Nvidia-昨天有多頭將價值57M權利金-2月到期的53k筆vertical-call-spread垂直價差看漲期權合約的高位行權價自255調低至245此價位.md",
-    "data/美股探路客/2026-11-10_昨晚盤中睡前截的NVDA-K線醒來看到股價站上錨定在對等關稅低點的AVWAP之上暫時避免了進入成交量空乏區加速下跌的風險.md"
+    "data/美股探路客/2026-11-11_Anthropic開始roadshow向投資人行銷Q3營收17B季增47年增1146.md",
+    "data/美股探路客/2026-11-10_10月-CPI-月增-0.4高於預期的-0.3核心-CPI-月增-0.3高於預期的-0.2.md",
+    "data/美股探路客/2026-11-10_Anthropic-到底-IPO-估值多少合理一般投資人可能不清楚如何計算.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

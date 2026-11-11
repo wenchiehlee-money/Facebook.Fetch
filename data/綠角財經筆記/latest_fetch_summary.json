@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-11-10T08:17:13.507786+00:00",
+  "fetched_at_utc": "2026-11-11T07:42:04.250849+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1557300722869989"
+    "1558416349425093"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-11-09_按照十一月6日美金兌台幣32.77的匯率272527美金值8930698台幣以台幣計算虧損10.69損失約107萬台幣.md"
+    "data/綠角財經筆記/2026-11-10_Risk-and-Reward的作者是Ben-Carlson之前我看過他寫的Everything-You-Need-to-Know-about-Saving-f.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

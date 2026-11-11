@@ -4,22 +4,22 @@ title: "Anthropic（#ANT）預計週二正式啟動路演，目標在感恩節�
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid02uEbGRAGS9AqjDWQuCbG8k1EMNXaTbwez45T4c3aBgEhktumZ8hp8QsYWw6jFjAzul"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0qCzYwM4sUFnvQpGAkgwx8ND1vaY6m3H67PVgTvKvQ8cF43Ej8dy2p7dVgfjPAGMgl"
 creation_time_utc: "2026-11-10T08:07:10+00:00"
-fetched_at_utc: "2026-11-10T08:17:08.995259+00:00"
+fetched_at_utc: "2026-11-11T07:42:01.354893+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/898298939_1617831343720340_4067796969248210074_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=C3Hc4H9lXdAQ7kNvwEfSSmT&_nc_oc=Ado3TX3ngMCVypLdOPHURicULWpotXzLPLcZdjy7XWqOs6naZPG4_rqyCnB4XqQX-SU&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=aPcAXBYEGW6dKYv6jukDbw&_nc_ss=79120&oh=00_AQSZriBrgMYPIpgOV2v0eQxTwQ0hHFNv7Gb2roCQDMVcbw&oe=6AF88CCB"
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwMnVFYkdSQUdTOUFxakRXUXVDYkc4azFFTU5YYVRid2V6NDVUNGMzYUJnRWhrdHVtWjhocDhRc1lXdzZqRmpBenVs"
+image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/898298939_1617831343720340_4067796969248210074_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1cIgGrRFtn4Q7kNvwExvoSy&_nc_oc=AdpZBXtPB7rgRm5C9AnjdtAO0ABmFMeNM-IugK9ZZp6yDUpA0LPI8h9VLzPfyUNtUJ8&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=qG8yLTwRwdi2_IydyirxRA&_nc_ss=79120&oh=00_AQSvkKRFIRweqfY85SAKa9nLiXaLxzhFnkjG0uIcsJl_rQ&oe=6AF9DE4B"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwcUN6WXdNNHNVRm52UXBHQWtnd3g4TkQxdmFZNm0zSDY3UFZnVHZLdlE4Y0Y0M0VqOGR5MnA3ZFZnZmpQQUdNZ2w="
 page_canonical_url: ""
 ---
 
 # Anthropic（#ANT）預計週二正式啟動路演，目標在感恩節前定價並於那斯達克掛牌。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid02uEbGRAGS9AqjDWQuCbG8k1EMNXaTbwez45T4c3aBgEhktumZ8hp8QsYWw6jFjAzul
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0qCzYwM4sUFnvQpGAkgwx8ND1vaY6m3H67PVgTvKvQ8cF43Ej8dy2p7dVgfjPAGMgl
 
-![Anthropic（#ANT）預計週二正式啟動路演，目標在感恩節前定價並於那斯達克掛牌。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/898298939_1617831343720340_4067796969248210074_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=C3Hc4H9lXdAQ7kNvwEfSSmT&_nc_oc=Ado3TX3ngMCVypLdOPHURicULWpotXzLPLcZdjy7XWqOs6naZPG4_rqyCnB4XqQX-SU&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=aPcAXBYEGW6dKYv6jukDbw&_nc_ss=79120&oh=00_AQSZriBrgMYPIpgOV2v0eQxTwQ0hHFNv7Gb2roCQDMVcbw&oe=6AF88CCB)
+![Anthropic（#ANT）預計週二正式啟動路演，目標在感恩節前定價並於那斯達克掛牌。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/898298939_1617831343720340_4067796969248210074_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1cIgGrRFtn4Q7kNvwExvoSy&_nc_oc=AdpZBXtPB7rgRm5C9AnjdtAO0ABmFMeNM-IugK9ZZp6yDUpA0LPI8h9VLzPfyUNtUJ8&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=qG8yLTwRwdi2_IydyirxRA&_nc_ss=79120&oh=00_AQSvkKRFIRweqfY85SAKa9nLiXaLxzhFnkjG0uIcsJl_rQ&oe=6AF9DE4B)
 Anthropic（#ANT）預計週二正式啟動路演，目標在感恩節前定價並於那斯達克掛牌。
 ​
 📍《路透社》指出，Anthropic 週一晚間向投資銀行寄送的申報文件顯示，公司擬以每股 70～80 美元出售約 8.67 億股股票，募資金額約 693 億美元，但隨後又通知銀行定價資訊有誤，並撤回相關內容。

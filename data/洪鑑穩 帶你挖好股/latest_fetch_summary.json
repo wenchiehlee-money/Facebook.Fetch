@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/iqvalue",
   "final_url": "https://www.facebook.com/iqvalue",
-  "fetched_at_utc": "2026-11-10T08:18:08.819846+00:00",
+  "fetched_at_utc": "2026-11-11T07:42:40.519539+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1594400326035078",
-    "1593623516112759"
+    "1594817825993328"
   ],
   "new_markdown_files": [
-    "data/洪鑑穩 帶你挖好股/2026-11-10_台股經歷一波劇烈下跌後終於出現強勁反彈不少投資人開始期待新一波多頭行情但問題是這究竟是底部反轉還是熊市中的強力反彈.md",
-    "data/洪鑑穩 帶你挖好股/2026-11-09_AI建設暴增90美國經濟結構正在改變中.md"
+    "data/洪鑑穩 帶你挖好股/2026-11-10_美股跌完了嗎高盛警告還有450億美元潛在賣壓.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/洪鑑穩 帶你挖好股",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-11-10T08:17:46.888943+00:00",
+  "fetched_at_utc": "2026-11-11T07:42:27.143983+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,17 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 2,
+  "new_post_count": 2,
   "new_post_ids": [
-    "122237500256502956",
-    "122237498906502956",
-    "122237412530502956"
+    "122237540948502956",
+    "122237534540502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-11-10_川普公開力挺黃仁勳直言他是非常正直的人我相信他能安然度過這次風波.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-11-10_摩根士丹利強調-SNDK-的股票回購計畫將導致該公司在-2028-年底前回購超過-50的股份.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-11-09_躍身全球第4女富豪就問要不要離.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-11-10_美國10月季調後CPI月率錄得0.4高於市場預期美國10月季調後核心CPI月率錄得0.3高於市場預期CPI數據公佈後市場仍100預期聯準會將在12月加息.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-11-10_HarrowHROW.US2026-年第三季財報及重點摘要.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",
@@ -28,6 +26,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 1 篇貼文。"
   ]
 }

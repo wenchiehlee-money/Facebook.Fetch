@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-11-10T08:17:18.145874+00:00",
+  "fetched_at_utc": "2026-11-11T07:42:07.748459+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1603839648448785",
-    "1603809318451818",
-    "1603131231852960"
+    "1604853238347426",
+    "1604783731687710",
+    "1603991198433630"
   ],
   "new_markdown_files": [
-    "data/股魚/2026-11-10_2330台積電10月營收公布較去年同期成長59.7太猛了台股最適合長抱的公司就是台積電.md",
-    "data/股魚/2026-11-10_來現場參加匯豐的投資講座.md",
-    "data/股魚/2026-11-09_我的眼裡是滿滿的紅光啊.md"
+    "data/股魚/2026-11-11_肯德基爺爺要變成雪鈴兔了嗎拜託不管要怎麼改請保留蛋塔這個品相肯德基的蛋塔真的很頂我每次去都會順手買二個吃.md",
+    "data/股魚/2026-11-11_台揚要下市了稍微懂一點財報的看到一家公司發不出現金股利就該跑了或是軟體內整體評價幾乎是一片空白這都是體質有疑慮的公司.md",
+    "data/股魚/2026-11-10_股魚-APP.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",
