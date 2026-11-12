@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-11-11T07:42:43.464592+00:00",
+  "fetched_at_utc": "2026-11-12T08:11:47.024830+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1683339599816179",
-    "1683338296482976",
-    "1683235759826563"
+    "1684264223057050"
   ],
   "new_markdown_files": [
-    "data/andrew.semis.techs/2026-11-11_1年前胡亂猜台積電在2027年底季度現金股利會拉到10元現在看起來挺有機會的不猜不會中猜了總有機會中.md",
-    "data/andrew.semis.techs/2026-11-11_CoreWeave-數字不俗幾個重點整理.md",
-    "data/andrew.semis.techs/2026-11-10_在經過9-10月全球半導體及科技股估值超過30的技術修正以來投資人開始擔心AI數據算力中心基礎建設在明後年是否能持續雖然市場早已經跳過10月份及4Q26營收看未.md"
+    "data/andrew.semis.techs/2026-11-11_你選誰當-2027-飆股.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",

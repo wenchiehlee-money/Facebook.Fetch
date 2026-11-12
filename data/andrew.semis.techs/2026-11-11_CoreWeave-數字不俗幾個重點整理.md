@@ -4,20 +4,20 @@ title: "CoreWeave 數字不俗，幾個重點整理："
 page_title: ""
 requested_url: "https://www.facebook.com/andrew.semis.techs"
 final_url: "https://www.facebook.com/andrew.semis.techs"
-post_url: "https://www.facebook.com/andrew.semis.techs/posts/pfbid0R3iajgRXikCR8jrXeMwSxYbD2z3RyfPYwBWknWwpMg2PXW3AUhbqQ2GhXCrspb5pl"
+post_url: "https://www.facebook.com/andrew.semis.techs/posts/pfbid02URCmMhn9kK2Au35JhLCfJQ34HhKpXbdrsSFoAgFC8RTYeR5HjGB1fb8UmLT5wqBJl"
 creation_time_utc: "2026-11-11T01:10:02+00:00"
-fetched_at_utc: "2026-11-11T07:42:43.464592+00:00"
+fetched_at_utc: "2026-11-12T08:11:47.024830+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
 image_url: ""
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwUjNpYWpnUlhpa0NSOGpyWGVNd1N4WWJEMnozUnlmUFl3Qldrbld3cE1nMlBYVzNBVWhicVEyR2hYQ3JzcGI1cGw="
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwMlVSQ21NaG45a0syQXUzNUpoTENmSlEzNEhoS3BYYmRyc1NGb0FnRkM4UlRZZVI1SGpHQjFmYjhVbUxUNXdxQkps"
 page_canonical_url: ""
 ---
 
 # CoreWeave 數字不俗，幾個重點整理：
 
-原文連結: https://www.facebook.com/andrew.semis.techs/posts/pfbid0R3iajgRXikCR8jrXeMwSxYbD2z3RyfPYwBWknWwpMg2PXW3AUhbqQ2GhXCrspb5pl
+原文連結: https://www.facebook.com/andrew.semis.techs/posts/pfbid02URCmMhn9kK2Au35JhLCfJQ34HhKpXbdrsSFoAgFC8RTYeR5HjGB1fb8UmLT5wqBJl
 CoreWeave 數字不俗，幾個重點整理：
 
 1. 3Q26 backlog 1325億美元，季增27%，明顯優於同業的5-10%，年增138%；

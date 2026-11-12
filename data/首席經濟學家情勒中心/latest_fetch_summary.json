@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61589343187385",
   "final_url": "https://www.facebook.com/profile.php?id=61589343187385",
-  "fetched_at_utc": "2026-11-11T07:42:34.994981+00:00",
+  "fetched_at_utc": "2026-11-12T08:11:37.012460+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 3,
   "new_post_ids": [
-    "122133430251311439",
-    "122133269205311439"
+    "122133719523311439",
+    "122133700731311439",
+    "122133699933311439"
   ],
   "new_markdown_files": [
-    "data/首席經濟學家情勒中心/2026-11-11_首席的市場偏執.md",
-    "data/首席經濟學家情勒中心/2026-11-10_首席的市場偏執今天停刊用這篇文章代替.md"
+    "data/首席經濟學家情勒中心/2026-11-12_首席的市場偏執.md",
+    "data/首席經濟學家情勒中心/2026-11-12_不知道該說什麼好.....他對費沙供應鏈很熟但他會每年拿大刀砍你....新仇舊恨.md",
+    "data/首席經濟學家情勒中心/2026-11-12_N公司的規格升級股供應鏈前面出現一片雲.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/首席經濟學家情勒中心",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-11-11T07:42:01.354893+00:00",
+  "fetched_at_utc": "2026-11-12T08:10:58.086973+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1618616990308442",
-    "1618151427021665"
+    "1620289500141191",
+    "1620184226818385",
+    "1620069926829815"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-11-10_AI-雲端運算新創-CoreWeaveCRWV交出了一份穩健的財報營收持續加速成長積壓訂單再創新高儘管資料中心擴張與利息費用依然造成沉重負擔但各項獲利指標皆優於.md",
-    "data/FinGuider 美股資訊網/2026-11-10_美國-10-月消費者物價指數CPI月增-0.4核心-CPI-月增-0.3雙雙高於市場預期顯示通膨壓力仍未明顯緩解.md"
+    "data/FinGuider 美股資訊網/2026-11-12_輝達董事會會議拖到深夜華爾街連番降評.md",
+    "data/FinGuider 美股資訊網/2026-11-12_The-Information報導美國商務部正在研擬新的-AI-晶片出口管制措施禁止中國-AI-業者透過海外資料中心遠端存取先進-AI-晶片防堵透過雲端服務繞過.md",
+    "data/FinGuider 美股資訊網/2026-11-12_AI-泡沫是否已經形成霍華德馬克斯最新萬字備忘錄8-個重點看懂-AI-投資的潛在風險.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-11-11T07:42:04.250849+00:00",
+  "fetched_at_utc": "2026-11-12T08:11:01.328917+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1558416349425093"
+    "1559530179313710"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-11-10_Risk-and-Reward的作者是Ben-Carlson之前我看過他寫的Everything-You-Need-to-Know-about-Saving-f.md"
+    "data/綠角財經筆記/2026-11-11_前天我來到南投草屯鎮的督賀艾莉在現場人員親切有效率的完成報到後入座聆聽楊斯棓醫師的演講.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-11-11T07:41:58.532607+00:00",
+  "fetched_at_utc": "2026-11-12T08:10:55.190818+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1434533302123644"
+    "1435620878681553"
   ],
   "new_markdown_files": [
-    "data/行銷資料科學/2026-11-10_機器人都開始上班了你還在公司當工具人嗎.md"
+    "data/行銷資料科學/2026-11-11_馬斯克最新預言3-大科技新聞一次看懂.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",

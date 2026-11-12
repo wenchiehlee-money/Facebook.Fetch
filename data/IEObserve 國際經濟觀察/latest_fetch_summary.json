@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-11-11T07:42:24.317803+00:00",
+  "fetched_at_utc": "2026-11-12T08:11:24.345353+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,15 +9,17 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 2,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1660941205390501",
-    "1660880078729947"
+    "1662202515264370",
+    "1661969255287696",
+    "1661922201959068"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-11-11_Morgan-Stanley預估政治影響AI資料中心已核准的2027已成定局但是2028需求可能會往後遞延使得2028的增量持平或衰退.md",
-    "data/IEObserve 國際經濟觀察/2026-11-10_AI資料中心Neocloud的核心震央CoreWeave發布最新財報營收年增168至36.6億backlog約為1325億年增135.md"
+    "data/IEObserve 國際經濟觀察/2026-11-12_老馬送暖當代最強最色的兩大科技創業家會合體嗎.md",
+    "data/IEObserve 國際經濟觀察/2026-11-11_隔壁棚上演難看的肥皂劇.md",
+    "data/IEObserve 國際經濟觀察/2026-11-11_NYT又爆料說老黃跟Nvidia高管有外遇..md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",
@@ -26,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

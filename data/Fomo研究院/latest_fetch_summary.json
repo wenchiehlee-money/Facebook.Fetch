@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-11-11T07:42:12.787771+00:00",
+  "fetched_at_utc": "2026-11-12T08:11:10.972304+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122204918270771552"
+    "122205088112771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-11-10_為什麼中期大選結果一出美股上漲隔天卻突然大崩盤然後昨天又反彈了.md"
+    "data/Fomo研究院/2026-11-11_既然兩家公司現在都在高速成長為什麼急著在現在合併.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

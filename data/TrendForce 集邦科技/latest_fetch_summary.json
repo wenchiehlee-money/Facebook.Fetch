@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-11-11T07:42:52.075402+00:00",
+  "fetched_at_utc": "2026-11-12T08:11:56.843769+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1549938097156610",
-    "1549918453825241"
+    "1550090790474674"
   ],
   "new_markdown_files": [
-    "data/TrendForce 集邦科技/2026-11-11_來自-TrendForce-的-NAND_Flash-每週現貨均價比較圖.md",
-    "data/TrendForce 集邦科技/2026-11-11_來自-TrendForce-的-DRAM-每週現貨均價比較圖.md"
+    "data/TrendForce 集邦科技/2026-11-11_記憶體漲價逾一年PC-OEM-銷售疲弱整機庫存堆高AI-需求持續排擠產能PC-DRAM-與-Client-SSD-漲幅反而同步收斂TrendForce-分析-P.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",

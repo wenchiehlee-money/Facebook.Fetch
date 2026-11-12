@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-11-11T07:42:21.536665+00:00",
+  "fetched_at_utc": "2026-11-12T08:11:21.156492+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,15 +9,17 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 2,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1665474491935917",
-    "1665452471938119"
+    "1666644081818958",
+    "1666528761830490",
+    "1666505931832773"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-11-10_不過五六年前資料科學還是相對很新興的科系和職涯現在卻是受到AI衝擊最大的我想補充一句2023年當AI大爆發的時候資料科學專家可能比其他科系背景的專家不輸於或更容.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-11-10_AI-提升未來工程師的標準.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-11-11_大聯大10月營收1492億-32-MoM79-YoY文曄10月營收2700億25-MoM112-YoY一家下降32一家上升25IC通路月營收也明顯分化.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-11-11_Coreweave.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-11-11_AMD-Server-CPU不含GPU的話還是輸給Intel-Server-CPU.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",
@@ -26,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }
