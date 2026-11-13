@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573992511738",
   "final_url": "https://www.facebook.com/profile.php?id=61573992511738",
-  "fetched_at_utc": "2026-11-12T08:11:40.172304+00:00",
+  "fetched_at_utc": "2026-11-13T07:48:39.700089+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "122200609544799750"
+    "122200676582799750",
+    "122200672292799750"
   ],
   "new_markdown_files": [
-    "data/郭明錤Ming-Chi Kuo/2026-11-12_黃仁勳對-Nvidia-的重要性在於他能把工程團隊認為可能實現的技術轉化成全公司願意投入資源承擔風險而且必須交付的產品正因如此供應鏈才能有極高的訂單能見度並配合.md"
+    "data/郭明錤Ming-Chi Kuo/2026-11-12_雖然-Trump-說-Tim-Cook-是最適合接任黃仁勳-Nvidia-CEO-位置的人選但我覺得最能發揮-Cook-所長的應該只有成本管理根據我側面觀察-A.md",
+    "data/郭明錤Ming-Chi Kuo/2026-11-12_重點分析-Nvidia-CEO-黃仁勳辭職.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/郭明錤Ming-Chi Kuo",

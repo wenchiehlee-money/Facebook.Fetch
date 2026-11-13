@@ -4,22 +4,22 @@ title: "------------\"Coreweave"
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0292Ld2zNPhiFZbAmu5MMbGFkapi4ARiKrEoUbNs6dYEUKHh32tvoNEekASiim99bhl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid04zjuZBAq2eaJ6R1thZcjfKeEgQUZnbZB1y6SVkPjwE5bPLtHsWpPivUeWQU6rxugl&id=100054201473657"
 creation_time_utc: "2026-11-11T14:18:00+00:00"
-fetched_at_utc: "2026-11-12T08:11:21.156492+00:00"
+fetched_at_utc: "2026-11-13T07:48:21.238656+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/903873609_1666524985164201_7236835735453986311_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6EZ6oy2ShhAQ7kNvwFOKqsp&_nc_oc=Adp7LVNl82E192javsclSiNHCX_9UqVsiPvKyeTB3N-o2a1bUNAYHiXRdiUWOhwd-FY&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=DB-Oo6hPxf8Is3qXAIhnQg&_nc_ss=79120&oh=00_AQQAAEpRxcg73cV_cpX8orxg-Drc1uHS2tkt9fOu5kRvPw&oe=6AFB3B98"
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwMjkyTGQyek5QaGlGWmJBbXU1TU1iR0ZrYXBpNEFSaUtyRW9VYk5zNmRZRVVLSGgzMnR2b05FZWtBU2lpbTk5Ymhs"
+image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/903873609_1666524985164201_7236835735453986311_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TtRJ1vcNAuEQ7kNvwFHysdz&_nc_oc=AdpwGI8ao7T_JiciDWL9_c7U2o1FW7nQt8CFs8Vd7rz1h3wivGCaueT-YHjQqXsCvws&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=3lg3i4IPcq_AX0xtfKFmAg&_nc_ss=79120&oh=00_AQQTmGiKo9JvLoja5aPpnUW_Xwu01ACYew8Qnv07x8YZug&oe=6AFC8D18"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwNHpqdVpCQXEyZWFKNlIxdGhaY2pmS2VFZ1FVWm5iWkIxeTZTVmtQandFNWJQTHRIc1dwUGl2VWVXUVU2cnh1Z2w="
 page_canonical_url: ""
 ---
 
 # ------------"Coreweave
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0292Ld2zNPhiFZbAmu5MMbGFkapi4ARiKrEoUbNs6dYEUKHh32tvoNEekASiim99bhl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid04zjuZBAq2eaJ6R1thZcjfKeEgQUZnbZB1y6SVkPjwE5bPLtHsWpPivUeWQU6rxugl&id=100054201473657
 
-![------------"Coreweave](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/903873609_1666524985164201_7236835735453986311_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6EZ6oy2ShhAQ7kNvwFOKqsp&_nc_oc=Adp7LVNl82E192javsclSiNHCX_9UqVsiPvKyeTB3N-o2a1bUNAYHiXRdiUWOhwd-FY&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=DB-Oo6hPxf8Is3qXAIhnQg&_nc_ss=79120&oh=00_AQQAAEpRxcg73cV_cpX8orxg-Drc1uHS2tkt9fOu5kRvPw&oe=6AFB3B98)
+![------------"Coreweave](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/903873609_1666524985164201_7236835735453986311_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TtRJ1vcNAuEQ7kNvwFHysdz&_nc_oc=AdpwGI8ao7T_JiciDWL9_c7U2o1FW7nQt8CFs8Vd7rz1h3wivGCaueT-YHjQqXsCvws&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=3lg3i4IPcq_AX0xtfKFmAg&_nc_ss=79120&oh=00_AQQTmGiKo9JvLoja5aPpnUW_Xwu01ACYew8Qnv07x8YZug&oe=6AFC8D18)
 ------------"Coreweave
 兆瓦電學：關鍵績效指標
 

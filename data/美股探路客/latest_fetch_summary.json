@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-11-12T08:11:08.071321+00:00",
+  "fetched_at_utc": "2026-11-13T07:48:07.483565+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1571152888391976",
-    "1571099141730684",
-    "1570607608446504"
+    "1572348824939049",
+    "1571880388319226",
+    "1571874724986459"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-11-12_即將在TVBS直播談藍色浪潮對AI影響Marvell收購LumentumAnthropic上市為何很可能是美股後續的關鍵呃黃仁勳也會談一下.md",
-    "data/美股探路客/2026-11-12_紐約時報關於黃仁勳出軌下屬的爆料文章罕見的免費開放閱讀.md",
-    "data/美股探路客/2026-11-11_VIXVXV-SP-500-指數-1-個月3個月的隱含波動率大幅回落至-1-之下為-VIX-期貨曲線恢復陡峭市場趨於穩定的表徵.md"
+    "data/美股探路客/2026-11-13_Nvidia黃仁勳最適合的接班人.md",
+    "data/美股探路客/2026-11-12_路邊社又爆黃仁勳跟第二個下屬有染.md",
+    "data/美股探路客/2026-11-12_散戶開盤後30分鐘抄底Nvidia金額創下歷史紀錄.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

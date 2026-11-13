@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-11-12T08:11:53.682789+00:00",
+  "fetched_at_utc": "2026-11-13T07:48:55.203829+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1570546895107521",
-    "1570496918445852",
-    "1570391348456409"
+    "1571683378327206",
+    "1571550701673807",
+    "1571465311682346"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-11-12_猛健樂胰妥讚等熱門瘦瘦針出現可能導致永久視力損害的新警訊美國FDA要求加註警語台灣食藥署11月11日也宣布將啟動這類藥物的整體安全性再評估.md",
-    "data/商業周刊商周.com/2026-11-12_全球牛肉供應吃緊台灣美牛需求為何逆勢成長.md",
-    "data/商業周刊商周.com/2026-11-12_黃仁勳可能被撤換輝達卻沒有明確接班人.md"
+    "data/商業周刊商周.com/2026-11-13_錢該發福利還是投資建設生財16-縣市帳本大解密.md",
+    "data/商業周刊商周.com/2026-11-13_那指每天23小時營業以後不用熬夜炒美股了.md",
+    "data/商業周刊商周.com/2026-11-13_他連生病都想當一個積極主動善於解決問題的人結果卻讓自己更難受.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

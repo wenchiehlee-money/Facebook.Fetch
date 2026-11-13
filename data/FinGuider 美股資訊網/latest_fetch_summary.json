@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-11-12T08:10:58.086973+00:00",
+  "fetched_at_utc": "2026-11-13T07:47:56.659814+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1620289500141191",
-    "1620184226818385",
-    "1620069926829815"
+    "1621198520050289",
+    "1621144733389001",
+    "1620685903434884"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-11-12_輝達董事會會議拖到深夜華爾街連番降評.md",
-    "data/FinGuider 美股資訊網/2026-11-12_The-Information報導美國商務部正在研擬新的-AI-晶片出口管制措施禁止中國-AI-業者透過海外資料中心遠端存取先進-AI-晶片防堵透過雲端服務繞過.md",
-    "data/FinGuider 美股資訊網/2026-11-12_AI-泡沫是否已經形成霍華德馬克斯最新萬字備忘錄8-個重點看懂-AI-投資的潛在風險.md"
+    "data/FinGuider 美股資訊網/2026-11-12_應用材料AMATFY2026Q4-營收年增-53-至-104.1-億美元創下超過-15-年來最強勁的年成長並擊敗了分析師預期的-103-億EPS-報-4.16.md",
+    "data/FinGuider 美股資訊網/2026-11-12_路透社獨家報導黃仁勳還與另一名下屬有婚外情但並未透露該名員工身份只說記者曾試圖聯繫該但未能成功.md",
+    "data/FinGuider 美股資訊網/2026-11-12_輝達NVDA董事會宣布黃仁勳立即辭去總裁執行長及董事職位由現任執行副總裁兼財務長-Colette-Kress-擔任臨時執行長同時續任財務長並任命-Harvey.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

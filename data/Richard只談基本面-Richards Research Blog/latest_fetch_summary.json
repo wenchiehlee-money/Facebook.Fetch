@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-11-12T08:11:21.156492+00:00",
+  "fetched_at_utc": "2026-11-13T07:48:21.238656+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1666644081818958",
-    "1666528761830490",
-    "1666505931832773"
+    "1668376541645712"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-11-11_大聯大10月營收1492億-32-MoM79-YoY文曄10月營收2700億25-MoM112-YoY一家下降32一家上升25IC通路月營收也明顯分化.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-11-11_Coreweave.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-11-11_AMD-Server-CPU不含GPU的話還是輸給Intel-Server-CPU.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-11-13_產業分析有時候和政策有關政策有時候又和政治有關不得不碰即使我分析政策和政治常常錯的一塌糊塗例如去年川普關稅戰到通膨到消費需求分析了一個徒勞無功.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",

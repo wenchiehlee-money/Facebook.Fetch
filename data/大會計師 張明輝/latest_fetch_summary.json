@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/dextermchang",
   "final_url": "https://www.facebook.com/dextermchang",
-  "fetched_at_utc": "2026-11-12T08:10:48.475423+00:00",
+  "fetched_at_utc": "2026-11-13T07:47:45.957784+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122146987917207208"
+    "122147076885207208"
   ],
   "new_markdown_files": [
-    "data/大會計師 張明輝/2026-11-12_AMD把晶圓廠丟掉現在反而跑得比Intel快Intel最沉重的資產就是自己還背著工廠.md"
+    "data/大會計師 張明輝/2026-11-13_代工廠-毛利率-從25掉到5反而可能賺更多錢.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/大會計師 張明輝",

@@ -6,11 +6,11 @@ requested_url: "https://www.facebook.com/dextermchang"
 final_url: "https://www.facebook.com/dextermchang"
 post_url: "https://www.facebook.com/dextermchang/posts/pfbid0o1ev2Ggkq2PVj2RSag8Nja7cY6EjLtBLUrhsqLtFFMaHbvTjANJYuhzB4FgmZz55l"
 creation_time_utc: "2026-11-12T00:00:03+00:00"
-fetched_at_utc: "2026-11-12T08:10:48.475423+00:00"
+fetched_at_utc: "2026-11-13T07:47:45.957784+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/897252136_122146674663207208_6018354904989431738_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ikbS3eM7eIAQ7kNvwGprvhm&_nc_oc=AdqjyexoPiMqozuIBG21uLRJ5uG-WmpQKWyLiQtLNuKq11vv-25M790JfOpgtXfg7XY&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=7rSnuqzIyUWF1grixvDq-Q&_nc_ss=79120&oh=00_AQR0oHLRdYcC5vkIma_lS3GUx78hliQ7g-BUyZ3UkEJyZg&oe=6AFB455A"
+image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/897252136_122146674663207208_6018354904989431738_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ikbS3eM7eIAQ7kNvwF8_8M6&_nc_oc=Adq-7ItxoH4GrrihmgbrABf3Wu9rpmgmIyT47CdJqb7iaDK9oK9gduBFhDdex1ZCCYc&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=XOGVdbV9IkPoG_YOG_TMzg&_nc_ss=79120&oh=00_AQRMD05KIKMqQbPvvwb-1pxyEvjgduRTIMnEhZ9AN2i2oQ&oe=6AFC96DA"
 feedback_id: "ZmVlZGJhY2s6cGZiaWQwbzFldjJHZ2txMlBWajJSU2FnOE5qYTdjWTZFakx0QkxVcmhzcUx0RkZNYUhidlRqQU5KWXVoekI0RmdtWno1NWw="
 page_canonical_url: ""
 ---
@@ -19,7 +19,7 @@ page_canonical_url: ""
 
 原文連結: https://www.facebook.com/dextermchang/posts/pfbid0o1ev2Ggkq2PVj2RSag8Nja7cY6EjLtBLUrhsqLtFFMaHbvTjANJYuhzB4FgmZz55l
 
-![AMD把晶圓廠丟掉，現在反而跑得比Intel快！Intel最沉重的資產，就是自己還背著工廠](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/897252136_122146674663207208_6018354904989431738_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ikbS3eM7eIAQ7kNvwGprvhm&_nc_oc=AdqjyexoPiMqozuIBG21uLRJ5uG-WmpQKWyLiQtLNuKq11vv-25M790JfOpgtXfg7XY&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=7rSnuqzIyUWF1grixvDq-Q&_nc_ss=79120&oh=00_AQR0oHLRdYcC5vkIma_lS3GUx78hliQ7g-BUyZ3UkEJyZg&oe=6AFB455A)
+![AMD把晶圓廠丟掉，現在反而跑得比Intel快！Intel最沉重的資產，就是自己還背著工廠](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/897252136_122146674663207208_6018354904989431738_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ikbS3eM7eIAQ7kNvwF8_8M6&_nc_oc=Adq-7ItxoH4GrrihmgbrABf3Wu9rpmgmIyT47CdJqb7iaDK9oK9gduBFhDdex1ZCCYc&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=XOGVdbV9IkPoG_YOG_TMzg&_nc_ss=79120&oh=00_AQRMD05KIKMqQbPvvwb-1pxyEvjgduRTIMnEhZ9AN2i2oQ&oe=6AFC96DA)
 AMD把晶圓廠丟掉，現在反而跑得比Intel快！Intel最沉重的資產，就是自己還背著工廠
 
 因為AI推論需要大量CPU，讓以CPU為主力產品的 #英特爾(Intel) 與 #超微(AMD) 今年度營收都大幅成長。

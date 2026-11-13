@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-11-12T08:10:55.190818+00:00",
+  "fetched_at_utc": "2026-11-13T07:47:52.837531+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1435620878681553"
+    "1436648028578838"
   ],
   "new_markdown_files": [
-    "data/行銷資料科學/2026-11-11_馬斯克最新預言3-大科技新聞一次看懂.md"
+    "data/行銷資料科學/2026-11-12_TMR-行銷資料科學知識交流群.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",
