@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-11-13T07:48:21.238656+00:00",
+  "fetched_at_utc": "2026-11-14T07:31:51.004991+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1668376541645712"
+    "1668521711631195"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-11-13_產業分析有時候和政策有關政策有時候又和政治有關不得不碰即使我分析政策和政治常常錯的一塌糊塗例如去年川普關稅戰到通膨到消費需求分析了一個徒勞無功.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-11-13_這篇文章提到中國領先模型是使用Blackwell訓練認為美國下一步會管制海外雲端資料中心將GPU算力出租給中國公司遠端存取的行為資訊很豐富看法剛好和我們上一篇同.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-11-13T07:48:07.483565+00:00",
+  "fetched_at_utc": "2026-11-14T07:31:37.848835+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1572348824939049",
-    "1571880388319226",
-    "1571874724986459"
+    "1573348648172400",
+    "1572715234902408",
+    "1572380361602562"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-11-13_Nvidia黃仁勳最適合的接班人.md",
-    "data/美股探路客/2026-11-12_路邊社又爆黃仁勳跟第二個下屬有染.md",
-    "data/美股探路客/2026-11-12_散戶開盤後30分鐘抄底Nvidia金額創下歷史紀錄.md"
+    "data/美股探路客/2026-11-14_剛剛完成簽名盡了股東綿薄的力量在獨立調查完成並有明確證據證明將他免職符合公司利益之前不應該讓Jensen-Huang黃仁勳離開找個外部人空降CEO職位.md",
+    "data/美股探路客/2026-11-13_10月核心PPI符合預期月增0.3年增5.0.md",
+    "data/美股探路客/2026-11-13_AI交易並非投資的唯一今年迄今美股前十大市值公司中報酬率高於Nasdaq-100的只有TSMAAPL和AMZN.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

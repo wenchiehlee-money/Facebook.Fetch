@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-11-13T07:48:24.505369+00:00",
+  "fetched_at_utc": "2026-11-14T07:31:54.009300+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,15 +9,17 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 2,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1663435751807713",
-    "1663200198497935"
+    "1664107208407234",
+    "1664214851729803",
+    "1664108795073742"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-11-13_WSJ也加入這場媒體協同攻擊.md",
-    "data/IEObserve 國際經濟觀察/2026-11-13_微軟大當機很多人想直接放假.md"
+    "data/IEObserve 國際經濟觀察/2026-11-14_老馬的立場還是蠻妙的雖然不是Nvidia員工但是也是重要的客戶要請願老黃回歸當CEO.md",
+    "data/IEObserve 國際經濟觀察/2026-11-13_Cybercab搞邀請制限量發售給個人使用.md",
+    "data/IEObserve 國際經濟觀察/2026-11-13_美國FAA發布全國停飛令.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",
@@ -26,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

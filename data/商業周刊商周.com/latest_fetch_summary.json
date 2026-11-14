@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-11-13T07:48:55.203829+00:00",
+  "fetched_at_utc": "2026-11-14T07:32:24.103100+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1571683378327206",
-    "1571550701673807",
-    "1571465311682346"
+    "1572861248209419",
+    "1572718964890314",
+    "1570703378425206"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-11-13_錢該發福利還是投資建設生財16-縣市帳本大解密.md",
-    "data/商業周刊商周.com/2026-11-13_那指每天23小時營業以後不用熬夜炒美股了.md",
-    "data/商業周刊商周.com/2026-11-13_他連生病都想當一個積極主動善於解決問題的人結果卻讓自己更難受.md"
+    "data/商業周刊商周.com/2026-11-14_失去黃仁勳輝達還能稱霸幾年Google超微誰是下一任AI盟主.md",
+    "data/商業周刊商周.com/2026-11-14_你是哪種城市生存動物.md",
+    "data/商業周刊商周.com/2026-11-13_行銷降溫流量竟翻倍不只靠檔期促銷酷澎怎麼把購物節囤貨變成缺了再買-feat.-酷澎懂商業看商周Ep.171.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

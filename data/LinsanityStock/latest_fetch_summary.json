@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-11-13T07:48:52.109694+00:00",
+  "fetched_at_utc": "2026-11-14T07:32:20.854452+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1670539238449910"
+    "1671751694995331"
   ],
   "new_markdown_files": [
-    "data/LinsanityStock/2026-11-12_根據最新外電報導.md"
+    "data/LinsanityStock/2026-11-13_離縣市長議員大選剩不到一個月突然發現一個很有趣的現象在我的印象當中過去幾次大選期間通常都會出現有現任總統加持或支持的競選看板ex.陳水扁馬英九蔡英文時代都是如此.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",

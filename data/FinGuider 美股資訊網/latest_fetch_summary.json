@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-11-13T07:47:56.659814+00:00",
+  "fetched_at_utc": "2026-11-14T07:31:27.041540+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1621198520050289",
-    "1621144733389001",
-    "1620685903434884"
+    "1622677129902428",
+    "1621887799981361"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-11-12_應用材料AMATFY2026Q4-營收年增-53-至-104.1-億美元創下超過-15-年來最強勁的年成長並擊敗了分析師預期的-103-億EPS-報-4.16.md",
-    "data/FinGuider 美股資訊網/2026-11-12_路透社獨家報導黃仁勳還與另一名下屬有婚外情但並未透露該名員工身份只說記者曾試圖聯繫該但未能成功.md",
-    "data/FinGuider 美股資訊網/2026-11-12_輝達NVDA董事會宣布黃仁勳立即辭去總裁執行長及董事職位由現任執行副總裁兼財務長-Colette-Kress-擔任臨時執行長同時續任財務長並任命-Harvey.md"
+    "data/FinGuider 美股資訊網/2026-11-14_索羅斯基金第三季-13F-把英特爾INTC持股從-10-萬股提高到-283-萬股增加至原本的-28.3-倍截至-9-月-30-日這筆持股的申報價值約-3.4-億.md",
+    "data/FinGuider 美股資訊網/2026-11-13_輝達中國風波升級禁運晶片被發現裝進上海資料中心情報界還無法證實間諜指控.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

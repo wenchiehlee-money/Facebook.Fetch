@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-11-13T07:48:04.161510+00:00",
+  "fetched_at_utc": "2026-11-14T07:31:34.686339+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,17 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
-  "new_post_ids": [
-    "1607198564779560",
-    "1607147758117974",
-    "1606583174841099"
-  ],
-  "new_markdown_files": [
-    "data/股魚/2026-11-13_黃執行長都已經承擔責任下台也交出權力了還繼續挖糞是在幹嘛沒半個能證實確有其事但抹黑已經發生就算後面經過調查證實沒這回事傷害已經造成已經回不去了.md",
-    "data/股魚/2026-11-13_昨晚的震撼消息但很多人都擔憂了但目前開盤前的狀況似乎還不錯.md",
-    "data/股魚/2026-11-12_今天要介紹基富通-安養信託方案的忽然有點感嘆這玩意要是早點降低門檻讓更多人可以輕易運用就好了我忽然想起在2017年左右曾遇到一位高齡的阿嬤學員很認真地在學如何做.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",
   "notes": [

@@ -4,20 +4,20 @@ title: "重點分析 Nvidia CEO 黃仁勳辭職："
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573992511738"
 final_url: "https://www.facebook.com/profile.php?id=61573992511738"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02MNyaS8abW6FsHA8nxQo7T3pN3MqCq6NkB6FXQrrGUruXsoxP9TXk1Kok6By311sSl&id=61573992511738"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0HqLPWxxEf2Fp2Mf8Bvj4T5HoQ2ywMJacDpNN1SwPmHbx9M1UeVvxuk5SHwxpnKGml&id=61573992511738"
 creation_time_utc: "2026-11-12T15:54:35+00:00"
-fetched_at_utc: "2026-11-13T07:48:39.700089+00:00"
+fetched_at_utc: "2026-11-14T07:32:10.203338+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
 image_url: ""
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwMk1OeWFTOGFiVzZGc0hBOG54UW83VDNwTjNNcUNxNk5rQjZGWFFyckdVcnVYc294UDlUWGsxS29rNkJ5MzExc1Ns"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwSHFMUFd4eEVmMkZwMk1mOEJ2ajRUNUhvUTJ5d01KYWNEcE5OMVN3UG1IYng5TTFVZVZ2eHVrNVNId3hwbktHbWw="
 page_canonical_url: ""
 ---
 
 # 重點分析 Nvidia CEO 黃仁勳辭職：
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02MNyaS8abW6FsHA8nxQo7T3pN3MqCq6NkB6FXQrrGUruXsoxP9TXk1Kok6By311sSl&id=61573992511738
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0HqLPWxxEf2Fp2Mf8Bvj4T5HoQ2ywMJacDpNN1SwPmHbx9M1UeVvxuk5SHwxpnKGml&id=61573992511738
 重點分析 Nvidia CEO 黃仁勳辭職：
 
 1. 短期利空出盡：
