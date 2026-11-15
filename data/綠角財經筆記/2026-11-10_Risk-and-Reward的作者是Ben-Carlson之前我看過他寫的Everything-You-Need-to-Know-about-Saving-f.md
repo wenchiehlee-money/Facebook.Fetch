@@ -4,22 +4,22 @@ title: "Risk and Reward的作者是Ben Carlson。之前我看過他寫的“Ever
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02VLPZescbYQ49ByiPD9TU6bxHUq611Ft1Qm5WeT3HLdh1zEWSykg6v2sK6uaxYjzol"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0RnkNjhzEhHZPu4UGigmWySsHCJf3F5qLZ5NZ1MMvVuis5EfvqPqRNujUUuZQnCFWl"
 creation_time_utc: "2026-11-10T23:45:04+00:00"
-fetched_at_utc: "2026-11-14T07:31:30.504407+00:00"
+fetched_at_utc: "2026-11-15T07:45:49.350450+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/901785573_1558068062793255_276587226344024004_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GcshBvosRE4Q7kNvwFodSyi&_nc_oc=AdrebcOuhcVXYFVs23s0ls9AT6L28uaKF4jw3kaH9HjGD8lxdYz7igkVXOt_o0ltKLM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=nZ2zgJatd4hQqBtKZVmJUw&_nc_ss=79120&oh=00_AQQ44Jgv6cYEtVaew8U-GeYit23CyO3wwJzk_ZihH70BOg&oe=6AFDE81B"
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwMlZMUFplc2NiWVE0OUJ5aVBEOVRVNmJ4SFVxNjExRnQxUW01V2VUM0hMZGgxekVXU3lrZzZ2MnNLNnVheFlqem9s"
+image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/901785573_1558068062793255_276587226344024004_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GcshBvosRE4Q7kNvwFFD8jt&_nc_oc=Adqw7ga0u3YquDgINT8bd9hIUGU_DLicRKWy8fDnGKhKwtdxKwl98fRXdVMXNfe_xcM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=2dw_ff2S9t10-Bcw458KMA&_nc_ss=79120&oh=00_AQTIYGXeHtjhfb_huF__wbj2J3KY1oEETGBUBcqJn1nwnA&oe=6AFF399B"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwUm5rTmpoekVoSFpQdTRVR2lnbVd5U3NIQ0pmM0Y1cUxaNU5aMU1NdlZ1aXM1RWZ2cVBxUk51alVVdVpRbkNGV2w="
 page_canonical_url: ""
 ---
 
 # Risk and Reward的作者是Ben Carlson。之前我看過他寫的“Everything You Need to Know about Saving for Retirement” 。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02VLPZescbYQ49ByiPD9TU6bxHUq611Ft1Qm5WeT3HLdh1zEWSykg6v2sK6uaxYjzol
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0RnkNjhzEhHZPu4UGigmWySsHCJf3F5qLZ5NZ1MMvVuis5EfvqPqRNujUUuZQnCFWl
 
-![Risk and Reward的作者是Ben Carlson。之前我看過他寫的“Everything You Need to Know about Saving for Retirement” 。](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/901785573_1558068062793255_276587226344024004_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GcshBvosRE4Q7kNvwFodSyi&_nc_oc=AdrebcOuhcVXYFVs23s0ls9AT6L28uaKF4jw3kaH9HjGD8lxdYz7igkVXOt_o0ltKLM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=nZ2zgJatd4hQqBtKZVmJUw&_nc_ss=79120&oh=00_AQQ44Jgv6cYEtVaew8U-GeYit23CyO3wwJzk_ZihH70BOg&oe=6AFDE81B)
+![Risk and Reward的作者是Ben Carlson。之前我看過他寫的“Everything You Need to Know about Saving for Retirement” 。](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/901785573_1558068062793255_276587226344024004_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GcshBvosRE4Q7kNvwFFD8jt&_nc_oc=Adqw7ga0u3YquDgINT8bd9hIUGU_DLicRKWy8fDnGKhKwtdxKwl98fRXdVMXNfe_xcM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=2dw_ff2S9t10-Bcw458KMA&_nc_ss=79120&oh=00_AQTIYGXeHtjhfb_huF__wbj2J3KY1oEETGBUBcqJn1nwnA&oe=6AFF399B)
 Risk and Reward的作者是Ben Carlson。之前我看過他寫的“Everything You Need to Know about Saving for Retirement” 。
 
 在講述金融市場的風險之後，作者接著討論投資者自身行為所帶來的風險。

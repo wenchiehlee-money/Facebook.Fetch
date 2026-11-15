@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-11-14T07:32:17.054293+00:00",
+  "fetched_at_utc": "2026-11-15T07:46:25.010365+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "1686776779472461",
-    "1686622409487898"
-  ],
-  "new_markdown_files": [
-    "data/andrew.semis.techs/2026-11-14_公開支持讓黃仁勳重返輝達的公開信上線了馬斯克直接署名股東身份排在首位.md",
-    "data/andrew.semis.techs/2026-11-14_不知道現在是否正在演一場戲教主這種世界級的領導人物被拉下台後即使在感情上是渣男也不會輕易就從檯面上消失的除非美國政府真的用國家安全把他封印了我要是一些大型資產公.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
   "notes": [
