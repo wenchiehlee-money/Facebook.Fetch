@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-11-15T07:46:07.122547+00:00",
+  "fetched_at_utc": "2026-11-16T07:53:01.493434+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1665559508262004",
-    "1665525464932075",
-    "1665348388283116"
+    "1666618774822744",
+    "1666467121504576",
+    "1666396371511651"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-11-15_在東京大排長龍排買Skyliner-票的人們也是這波駭客的受害者.md",
-    "data/IEObserve 國際經濟觀察/2026-11-15_有一個明確的事情就是如果新增資料中心建設延期放緩但AI-token需求還在上升現有的資料中心能輸出算力的公司就有更高的定價權.md",
-    "data/IEObserve 國際經濟觀察/2026-11-15_比特幣正在快速下殺槓桿多頭爆倉中.md"
+    "data/IEObserve 國際經濟觀察/2026-11-16_台積電產能分配給資產負債表更健全的公司下單金額如果超出信用額度要拿現金支付部分客戶也要求預支款項.md",
+    "data/IEObserve 國際經濟觀察/2026-11-16_WSJ現在把雲端運算的漏洞說得好像是Nvidia給中國公司開後門事實上是本來美國政府就沒在禁雲端使用先進算力只禁實體出口換句話說就是合法的.md",
+    "data/IEObserve 國際經濟觀察/2026-11-16_台股碰到月線壓力後又開始回檔.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

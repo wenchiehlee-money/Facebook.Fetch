@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/iqvalue",
   "final_url": "https://www.facebook.com/iqvalue",
-  "fetched_at_utc": "2026-11-15T07:46:21.459614+00:00",
+  "fetched_at_utc": "2026-11-16T07:53:20.787837+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1599172398891204"
+    "1600747575400353"
   ],
   "new_markdown_files": [
-    "data/洪鑑穩 帶你挖好股/2026-11-14_美國信用市場再亮紅燈預告景氣衰退的到來.md"
+    "data/洪鑑穩 帶你挖好股/2026-11-15_Nebius股價暴跌61重演鐵路泡沫.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/洪鑑穩 帶你挖好股",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-11-15T07:45:46.947216+00:00",
+  "fetched_at_utc": "2026-11-16T07:52:32.731787+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1623238426512965"
+    "1625379239632217",
+    "1625230086313799",
+    "1625149306321877"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-11-15_黃仁勳辭任輝達NVDA執行長成為這週財報季的最大變數輝達已任命財務長-Colette-Kress-暫代執行長週二盤後的財報財測除了要夠亮眼外還要回應市場對接班與.md"
+    "data/FinGuider 美股資訊網/2026-11-16_川普點名AI-國家隊輝達亞馬遜微軟OpenAIAnthropic-入列.md",
+    "data/FinGuider 美股資訊網/2026-11-16_火神火箭首度任務全毀亞馬遜-40-顆-Leo-衛星沒進軌道.md",
+    "data/FinGuider 美股資訊網/2026-11-16_蘋果智慧眼鏡傳-2027-年登場不靠螢幕靠-Siri-幫你操作-iPhone-App.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

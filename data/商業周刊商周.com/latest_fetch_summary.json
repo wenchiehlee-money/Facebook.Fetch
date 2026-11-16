@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-11-15T07:46:30.671900+00:00",
+  "fetched_at_utc": "2026-11-16T07:53:32.115132+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1574067361422141",
-    "1574067288088815",
-    "1573908631438014"
+    "1575148117980732",
+    "1575013731327504",
+    "1574967531332124"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-11-15_黃仁勳去職後網路出現Stand-with-Jensen連署要求輝達董事會在獨立調查釐清事實期間讓他恢復執行長職務簽署者包括自稱輝達員工與股東的人士不過網站註明身.md",
-    "data/商業周刊商周.com/2026-11-15_1個月20萬的自費藥你繳得起幾個月.md",
-    "data/商業周刊商周.com/2026-11-15_你就像一隻被車燈照到嚇傻在路中間的鹿.md"
+    "data/商業周刊商周.com/2026-11-16_送包裹到府叫修水電超商為何搶進社區服務.md",
+    "data/商業周刊商周.com/2026-11-16_福利教育交通災後重建縣市政府的錢先花在哪.md",
+    "data/商業周刊商周.com/2026-11-16_董事會可以容忍執行長判斷失誤卻很難接受執行長對董事會不夠坦白.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

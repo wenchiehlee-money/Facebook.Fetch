@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61589343187385",
   "final_url": "https://www.facebook.com/profile.php?id=61589343187385",
-  "fetched_at_utc": "2026-11-15T07:46:15.990890+00:00",
+  "fetched_at_utc": "2026-11-16T07:53:13.865274+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 2,
   "new_post_count": 1,
   "new_post_ids": [
-    "122134315095311439"
+    "122134636443311439"
   ],
   "new_markdown_files": [
-    "data/首席經濟學家情勒中心/2026-11-14_經濟學裡面最常拿來分析投票行為的大概就是中位數選民定理Median-Voter-Theorem與Hotelling-模型簡單的說當兩個政黨在競爭選票的時候兩黨政.md"
+    "data/首席經濟學家情勒中心/2026-11-15_首席的市場偏執.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/首席經濟學家情勒中心",

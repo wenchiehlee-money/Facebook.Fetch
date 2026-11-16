@@ -4,20 +4,20 @@ title: "經濟學裡面最常拿來分析投票行為的大概就是中位數選
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61589343187385"
 final_url: "https://www.facebook.com/profile.php?id=61589343187385"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0AyNfSuyhMZXtxM51VdXBt3k5V8yNecCbGPf4sQnuSwvQJRQBMJcZTxLeSXZJDc9ul&id=61589343187385"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02ELrr4wLKPA5Jz7E61isZo1fmRmMCBQmWKLtUiXMuriM7vWmNYiHU7qTMabcFePjbl&id=61589343187385"
 creation_time_utc: "2026-11-14T15:11:53+00:00"
-fetched_at_utc: "2026-11-15T07:46:15.990890+00:00"
+fetched_at_utc: "2026-11-16T07:53:13.865274+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
 image_url: ""
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwQXlOZlN1eWhNWlh0eE01MVZkWEJ0M2s1Vjh5TmVjQ2JHUGY0c1FudVN3dlFKUlFCTUpjWlR4TGVTWFpKRGM5dWw="
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwMkVMcnI0d0xLUEE1Sno3RTYxaXNabzFmbVJtTUNCUW1XS0x0VWlYTXVyaU03dldtTllpSFU3cVRNYWJjRmVQamJs"
 page_canonical_url: ""
 ---
 
 # 經濟學裡面最常拿來分析投票行為的大概就是中位數選民定理（Median Voter Theorem）與Hotelling 模型，簡單的說，當兩個政黨在競爭選票的時候，兩黨政見都會向中位數選民靠攏。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0AyNfSuyhMZXtxM51VdXBt3k5V8yNecCbGPf4sQnuSwvQJRQBMJcZTxLeSXZJDc9ul&id=61589343187385
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02ELrr4wLKPA5Jz7E61isZo1fmRmMCBQmWKLtUiXMuriM7vWmNYiHU7qTMabcFePjbl&id=61589343187385
 經濟學裡面最常拿來分析投票行為的大概就是中位數選民定理（Median Voter Theorem）與Hotelling 模型，簡單的說，當兩個政黨在競爭選票的時候，兩黨政見都會向中位數選民靠攏。
 
 這個理論基本上在我看來在兩黨制的國家中幾乎都適用。唯二兩次看起來「不準」的選舉：2016方丈當選，跟2024的方丈當選。嚴格來說也不算不準。2016那次普選票，方丈其實是輸掉的，所以嚴格來說他是靠制度獲勝。

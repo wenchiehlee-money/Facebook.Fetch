@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-11-15T07:45:52.211011+00:00",
+  "fetched_at_utc": "2026-11-16T07:52:40.254065+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,15 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 2,
+  "new_post_ids": [
+    "1611332474366169",
+    "1611085431057540"
+  ],
+  "new_markdown_files": [
+    "data/股魚/2026-11-16_股市為什麼我沒把錢放在股市.md",
+    "data/股魚/2026-11-16_昨天參加東森理財達人秀與元大投信合辦的實體講座中有投資朋友問到怎麼看這一波主動ETF與被動ETF的比較主動式ETF表現似乎不如預期.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",
   "notes": [

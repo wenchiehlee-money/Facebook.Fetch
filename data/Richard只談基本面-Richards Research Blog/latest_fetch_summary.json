@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-11-15T07:46:04.459760+00:00",
+  "fetched_at_utc": "2026-11-16T07:52:57.617437+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,13 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 1,
+  "checked_post_count": 2,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1669715328178500"
+    "1671231971360169",
+    "1670678444748855"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-11-14_老黃的去職不但是Nvidia的損失也是整個AI產業的損失向來成長型科技業市佔率7080的領導公司最大的任務是擴大市場規模大餅其次才是抵禦市佔率因為市場不成長就算.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-11-16_Nvidia-CEO-接班的不確定性有利-Google-與客戶洽談-2028-年後的長期規劃.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-11-15_石原先生在開場白中提出的結論是生成式人工智慧並非程式碼產生工具而是驗證和優化的夥伴在RTL開發中耗時的不僅僅是編寫程式碼反覆進行模擬驗證綜合時序檢查和糾錯的過程.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",
@@ -24,6 +26,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 1 篇貼文。"
   ]
 }

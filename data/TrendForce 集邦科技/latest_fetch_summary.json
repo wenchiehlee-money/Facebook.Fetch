@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-11-15T07:46:33.099523+00:00",
+  "fetched_at_utc": "2026-11-16T07:53:36.021967+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1555816486568771"
+  ],
+  "new_markdown_files": [
+    "data/TrendForce 集邦科技/2026-11-16_傳輝達找台積電生產-3D-DRAM記憶體供應鏈恐迎新變局.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",
   "notes": [

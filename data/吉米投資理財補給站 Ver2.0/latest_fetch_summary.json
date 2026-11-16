@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-11-15T07:46:09.189785+00:00",
+  "fetched_at_utc": "2026-11-16T07:53:04.674743+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122238084488502956",
-    "122238029000502956",
-    "122238024602502956"
+    "122238213248502956",
+    "122238202892502956",
+    "122238139544502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-11-15_過半數與AI產業毫不相干馬斯克看到名單後忍不住留言諷刺看看這個董事會他們竟然在管理決策世界上最有價值的公司.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-11-14_感覺挺好看的第一集有點血腥小編有點不適.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-11-14_Bloom-EnergyBE迎來爆發性成長AI-資料中心缺電燃料電池正在成為電力市場的新戰場.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-11-16_上半年度本來是從從容容遊刃有餘沒想到下半年度一直補錢補到連滾帶爬.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-11-16_Nand發車訊號.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-11-15_AMAT2027-年-WFE-市場有望成長至少-30半導體設備迎來新一輪擴張潮.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",
