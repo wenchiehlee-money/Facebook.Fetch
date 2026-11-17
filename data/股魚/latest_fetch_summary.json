@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-11-16T07:52:40.254065+00:00",
+  "fetched_at_utc": "2026-11-17T09:03:28.006308+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 3,
   "new_post_count": 2,
   "new_post_ids": [
-    "1611332474366169",
-    "1611085431057540"
+    "1612448997587850",
+    "1612225700943513"
   ],
   "new_markdown_files": [
-    "data/股魚/2026-11-16_股市為什麼我沒把錢放在股市.md",
-    "data/股魚/2026-11-16_昨天參加東森理財達人秀與元大投信合辦的實體講座中有投資朋友問到怎麼看這一波主動ETF與被動ETF的比較主動式ETF表現似乎不如預期.md"
+    "data/股魚/2026-11-17_國家隊公布今天護盤買進這六檔ETF啦00406A00685L005000981A00631L00878正二就佔了兩檔.md",
+    "data/股魚/2026-11-17_2026.11.17_個股評價與快速估算表-更新完整2026.Q3財報10月營收與2026.11-EPS預估數據.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/iqvalue",
   "final_url": "https://www.facebook.com/iqvalue",
-  "fetched_at_utc": "2026-11-16T07:53:20.787837+00:00",
+  "fetched_at_utc": "2026-11-17T09:04:13.634396+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1600747575400353"
+    "1602778625197248",
+    "1601905718617872",
+    "1601695808638863"
   ],
   "new_markdown_files": [
-    "data/洪鑑穩 帶你挖好股/2026-11-15_Nebius股價暴跌61重演鐵路泡沫.md"
+    "data/洪鑑穩 帶你挖好股/2026-11-17_台股40000不是最低點AI成長神話開始動搖.md",
+    "data/洪鑑穩 帶你挖好股/2026-11-16_台股第二隻腳來了根本就是假議題.md",
+    "data/洪鑑穩 帶你挖好股/2026-11-16_AI科技債跌破2000年網路泡沫低點信心崩盤.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/洪鑑穩 帶你挖好股",

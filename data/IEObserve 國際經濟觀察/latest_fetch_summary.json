@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-11-16T07:53:01.493434+00:00",
+  "fetched_at_utc": "2026-11-17T09:03:51.809460+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1666618774822744",
-    "1666467121504576",
-    "1666396371511651"
+    "1667525791398709",
+    "1667410724743549",
+    "1667300848087870"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-11-16_台積電產能分配給資產負債表更健全的公司下單金額如果超出信用額度要拿現金支付部分客戶也要求預支款項.md",
-    "data/IEObserve 國際經濟觀察/2026-11-16_WSJ現在把雲端運算的漏洞說得好像是Nvidia給中國公司開後門事實上是本來美國政府就沒在禁雲端使用先進算力只禁實體出口換句話說就是合法的.md",
-    "data/IEObserve 國際經濟觀察/2026-11-16_台股碰到月線壓力後又開始回檔.md"
+    "data/IEObserve 國際經濟觀察/2026-11-17_美國商務部與司法部於-11-月-16-日發布聯合聲明針對近期受到高度關注的新加坡公司-Megaspeed-調查案公布最新進展.md",
+    "data/IEObserve 國際經濟觀察/2026-11-17_WSJ真的夠北爛老黃管理風格本來就是這樣但是他們想不出有什麼新的負面梗可以抹就開始炒冷飯.md",
+    "data/IEObserve 國際經濟觀察/2026-11-16_美國BIS於1116發布臨時最終規則防止中國等受限國家透過第三國資料中心遠端使用美國先進AI晶片.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

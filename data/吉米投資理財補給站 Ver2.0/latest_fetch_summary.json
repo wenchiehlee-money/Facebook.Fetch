@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-11-16T07:53:04.674743+00:00",
+  "fetched_at_utc": "2026-11-17T09:03:55.291048+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,17 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 2,
+  "new_post_count": 2,
   "new_post_ids": [
-    "122238213248502956",
-    "122238202892502956",
-    "122238139544502956"
+    "122238284426502956",
+    "122238270794502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-11-16_上半年度本來是從從容容遊刃有餘沒想到下半年度一直補錢補到連滾帶爬.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-11-16_Nand發車訊號.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-11-15_AMAT2027-年-WFE-市場有望成長至少-30半導體設備迎來新一輪擴張潮.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-11-16_美國財長貝森特開砲公開質疑黃仁勳管理能力甚至暗示輝達應該從外部尋找新-CEO.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-11-16_輝達將於周二收盤後發布財報.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",
@@ -28,6 +26,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 1 篇貼文。"
   ]
 }

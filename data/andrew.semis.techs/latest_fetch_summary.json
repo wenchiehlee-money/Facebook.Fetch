@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-11-16T07:53:24.595743+00:00",
+  "fetched_at_utc": "2026-11-17T09:04:18.510865+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1689913899158749"
+  ],
+  "new_markdown_files": [
+    "data/andrew.semis.techs/2026-11-17_雖然算是市場上第一槍下修2027-2030資本開支的研究機構有沒有感覺在股價上是事後諸葛是落井下石還是好心希望美國政府看到沒教主的Nvidia及AI產業多慘還記.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
   "notes": [

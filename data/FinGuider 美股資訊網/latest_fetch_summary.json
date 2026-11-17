@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-11-16T07:52:32.731787+00:00",
+  "fetched_at_utc": "2026-11-17T09:03:21.344000+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1625379239632217",
-    "1625230086313799",
-    "1625149306321877"
+    "1626423139527827",
+    "1626263289543812",
+    "1626116459558495"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-11-16_川普點名AI-國家隊輝達亞馬遜微軟OpenAIAnthropic-入列.md",
-    "data/FinGuider 美股資訊網/2026-11-16_火神火箭首度任務全毀亞馬遜-40-顆-Leo-衛星沒進軌道.md",
-    "data/FinGuider 美股資訊網/2026-11-16_蘋果智慧眼鏡傳-2027-年登場不靠螢幕靠-Siri-幫你操作-iPhone-App.md"
+    "data/FinGuider 美股資訊網/2026-11-17_避險基金大咖-Bill-Ackman-旗下的潘興廣場Pershing-Square連兩季大規模調整持股Q3-加碼了-1-間公司新開倉-2-支股票並削減了-9-支.md",
+    "data/FinGuider 美股資訊網/2026-11-17_輝達-最新提交的-13F-報告顯示SpaceXSPCX躍升為第一大持股Q3-獲得加碼約-6投組比重達到-40.7英特爾INTC遭到減碼-25投組比重約-40滑落.md",
+    "data/FinGuider 美股資訊網/2026-11-16_抄底王-David-Tepper-Q3-持股揭露爆買-SpaceX加碼-AI-基礎建設.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

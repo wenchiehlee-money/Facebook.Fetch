@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-11-16T07:53:28.345082+00:00",
+  "fetched_at_utc": "2026-11-17T09:04:22.568234+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1675176651319502"
+    "1675738074596693"
   ],
   "new_markdown_files": [
-    "data/LinsanityStock/2026-11-16_除了黃仁勳去職的利空餘波盪漾之外今天盤中又有新的鬼故事出來了.md"
+    "data/LinsanityStock/2026-11-16_20261116.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",

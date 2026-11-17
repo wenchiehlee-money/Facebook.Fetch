@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-11-16T07:53:36.021967+00:00",
+  "fetched_at_utc": "2026-11-17T09:04:29.345114+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1555816486568771"
+    "1556905179793235",
+    "1555933736557046",
+    "1555854163231670"
   ],
   "new_markdown_files": [
-    "data/TrendForce 集邦科技/2026-11-16_傳輝達找台積電生產-3D-DRAM記憶體供應鏈恐迎新變局.md"
+    "data/TrendForce 集邦科技/2026-11-17_5G-應用擴大與-FWA-普及推升-2027-年全球-5G-市場產值逼近-550-億美元SpaceX-轉攻數萬座地面基地台如何藉-Qualcomm-O-RAN.md",
+    "data/TrendForce 集邦科技/2026-11-16_記憶體漲價推升成本第三季全球電視出貨年減-3.6市場萎縮之際Samsung-與-LGE-如何推動-Mini-LED-電視逆勢年增-116TrendForce-分.md",
+    "data/TrendForce 集邦科技/2026-11-16_微軟反對封殺中國光通訊零件示警美國-AI-資料中心建置受阻.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",
