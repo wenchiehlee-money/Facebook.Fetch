@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-11-17T09:03:24.475824+00:00",
+  "fetched_at_utc": "2026-11-18T08:26:41.315027+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1564586868808041"
+    "1565539465379448"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-11-16_昨天我寫了什麼是單一公司風險以近期輝達股價表現為例有人直接在我的臉書發文下留言馬後砲這讓我想到一個場景.md"
+    "data/綠角財經筆記/2026-11-17_本文討論目前市場上重要的公債與公司債殖利率並與半年前的狀況進行比較.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-11-17T09:04:25.844696+00:00",
+  "fetched_at_utc": "2026-11-18T08:27:21.964820+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1576196954542515",
-    "1576079081220969",
-    "1575999441228933"
+    "1577190391109838",
+    "1577172431111634",
+    "1577102294451981"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-11-17_過去幾年傳產股最吃虧的地方是獲利再好只要沒沾上AI就很難吸引資金.md",
-    "data/商業周刊商周.com/2026-11-17_台達電跌下來能買嗎大會計師張明輝教你看3個訊號.md",
-    "data/商業周刊商周.com/2026-11-17_黃仁勳從來不是按牌理出牌的人而是在規則縫隙裡殺出血路的狼.md"
+    "data/商業周刊商周.com/2026-11-18_黃仁勳離開輝達台灣供應鏈卻迎來擴產消息.md",
+    "data/商業周刊商周.com/2026-11-18_企業搶搭AI浪潮挑戰卻層出不窮流程沒梳理資料散落各處權限與治理不到位再強的AI也難以創造實質效益.md",
+    "data/商業周刊商周.com/2026-11-18_台灣茶到英國比賽有多厲害去年拿下全場最高獎今年最佳紅茶又是台灣的.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

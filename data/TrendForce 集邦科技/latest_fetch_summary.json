@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-11-17T09:04:29.345114+00:00",
+  "fetched_at_utc": "2026-11-18T08:27:24.632845+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1556905179793235",
-    "1555933736557046",
-    "1555854163231670"
+    "1557897299694023",
+    "1557877726362647",
+    "1557860549697698"
   ],
   "new_markdown_files": [
-    "data/TrendForce 集邦科技/2026-11-17_5G-應用擴大與-FWA-普及推升-2027-年全球-5G-市場產值逼近-550-億美元SpaceX-轉攻數萬座地面基地台如何藉-Qualcomm-O-RAN.md",
-    "data/TrendForce 集邦科技/2026-11-16_記憶體漲價推升成本第三季全球電視出貨年減-3.6市場萎縮之際Samsung-與-LGE-如何推動-Mini-LED-電視逆勢年增-116TrendForce-分.md",
-    "data/TrendForce 集邦科技/2026-11-16_微軟反對封殺中國光通訊零件示警美國-AI-資料中心建置受阻.md"
+    "data/TrendForce 集邦科技/2026-11-18_3Q26-全球-OLED-監視器出貨數據出爐單季出貨量季增-13較-2025-年同期更呈現翻倍躍升ASUS-市占率穩居第一-TrendForce-解析全球監視器.md",
+    "data/TrendForce 集邦科技/2026-11-18_NAND買氣疲弱現貨與合約價差擴大至20以上.md",
+    "data/TrendForce 集邦科技/2026-11-18_DDR5現貨價平穩DDR4承壓主流顆粒下跌1.43.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",

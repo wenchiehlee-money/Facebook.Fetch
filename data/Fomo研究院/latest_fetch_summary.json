@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-11-17T09:03:34.862482+00:00",
+  "fetched_at_utc": "2026-11-18T08:26:47.933057+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "122205775862771552",
-    "122205665066771552"
-  ],
-  "new_markdown_files": [
-    "data/Fomo研究院/2026-11-17_笑死剛才想幫專頁換張新頭像結果手快多按了幾下儲存發現系統連續上載了好幾次.md",
-    "data/Fomo研究院/2026-11-16_2018-年-6-月Intel-的董事會開了個會議.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",
   "notes": [

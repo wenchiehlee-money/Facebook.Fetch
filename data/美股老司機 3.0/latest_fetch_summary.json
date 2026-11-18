@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-11-17T09:03:58.574298+00:00",
+  "fetched_at_utc": "2026-11-18T08:27:03.459291+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122210816816486922",
-    "122210815160486922",
-    "122210783540486922"
+    "122210967350486922",
+    "122210963018486922",
+    "122210958068486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-11-17_Gavin-Baker-旗下的-Atreides-第三季的-13F-報告.md",
-    "data/美股老司機 3.0/2026-11-17_週一晚打鬧.md",
-    "data/美股老司機 3.0/2026-11-16_各大企業的淨債務對過去-12-個月-EBITDA息稅折舊攤銷前利潤倍數.md"
+    "data/美股老司機 3.0/2026-11-18_就是這麼操淡.md",
+    "data/美股老司機 3.0/2026-11-18_Anthropic-IPO後股權與投票權結構.md",
+    "data/美股老司機 3.0/2026-11-18_悲觀者正確但樂觀者賺錢.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

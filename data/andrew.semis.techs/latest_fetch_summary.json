@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-11-17T09:04:18.510865+00:00",
+  "fetched_at_utc": "2026-11-18T08:27:17.335414+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1689913899158749"
+    "1691141319036007",
+    "1691093579040781",
+    "1691055542377918"
   ],
   "new_markdown_files": [
-    "data/andrew.semis.techs/2026-11-17_雖然算是市場上第一槍下修2027-2030資本開支的研究機構有沒有感覺在股價上是事後諸葛是落井下石還是好心希望美國政府看到沒教主的Nvidia及AI產業多慘還記.md"
+    "data/andrew.semis.techs/2026-11-18_在半導體及AI產業鏈有能力能接手Nvidia-CEO的人也怕得罪Jenson接CEO不順利害死自己的概念因為這些人以前都是Jensen的Partners拜把小弟.md",
+    "data/andrew.semis.techs/2026-11-18_最近觀察到3家可能還有其他公司我沒注意到台灣科技龍頭在腰斬破底補跌殺估值從空中送禮物感覺只要盯住這3家何時止跌回升就可以找到短期超賣底部猜猜我在說哪三家.md",
+    "data/andrew.semis.techs/2026-11-18_上週我們精選20家台灣科技及半導體-2027年可能的beta-狗獲利暴增股這週我們精選20家美國科技及半導體2027年可能的-beta狗獲利暴增股你心中的202.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",

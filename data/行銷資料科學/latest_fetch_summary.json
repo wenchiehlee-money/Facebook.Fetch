@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-11-17T09:03:18.290000+00:00",
+  "fetched_at_utc": "2026-11-18T08:26:36.873792+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1440489671528007"
+    "1441424124767895"
   ],
   "new_markdown_files": [
-    "data/行銷資料科學/2026-11-16_AI週報AI-已經進化到這種程度這-3-個突破太誇張.md"
+    "data/行銷資料科學/2026-11-17_AI-設計的抗老藥你敢當第一個吃的人嗎.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",

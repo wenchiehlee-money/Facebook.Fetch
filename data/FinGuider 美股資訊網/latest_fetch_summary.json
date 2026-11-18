@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-11-17T09:03:21.344000+00:00",
+  "fetched_at_utc": "2026-11-18T08:26:38.950807+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1626423139527827",
-    "1626263289543812",
-    "1626116459558495"
+    "1627580196078788",
+    "1627499626086845",
+    "1627202782783196"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-11-17_避險基金大咖-Bill-Ackman-旗下的潘興廣場Pershing-Square連兩季大規模調整持股Q3-加碼了-1-間公司新開倉-2-支股票並削減了-9-支.md",
-    "data/FinGuider 美股資訊網/2026-11-17_輝達-最新提交的-13F-報告顯示SpaceXSPCX躍升為第一大持股Q3-獲得加碼約-6投組比重達到-40.7英特爾INTC遭到減碼-25投組比重約-40滑落.md",
-    "data/FinGuider 美股資訊網/2026-11-16_抄底王-David-Tepper-Q3-持股揭露爆買-SpaceX加碼-AI-基礎建設.md"
+    "data/FinGuider 美股資訊網/2026-11-18_Druckenmiller這是我最看不清市場的時刻.md",
+    "data/FinGuider 美股資訊網/2026-11-18_Semafor-獨家輝達部分董事仍想讓黃仁勳回任.md",
+    "data/FinGuider 美股資訊網/2026-11-17_輝達NVDAQ3-營收飆升-103-至-1158.4-億美元EPS-報-2.68-美元雙雙擊敗分析師預期1093.3-億--2.48-美元毛利率為-74.9優於.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-11-17T09:03:31.547760+00:00",
+  "fetched_at_utc": "2026-11-18T08:26:45.971754+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,13 +9,17 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 1,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1577174514456480"
+    "1578214291019169",
+    "1577872881053310",
+    "1577858897721375"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-11-17_美國司法部商務部發表聯合聲明重點摘要.md"
+    "data/美股探路客/2026-11-18_聰明才智無法阻止爆倉上槓桿但缺乏紀律不知道如何對沖的對沖基金註定會被一再的教訓.md",
+    "data/美股探路客/2026-11-17_Nvidia-財報指引超越預期臨時-CEO兼CFO-Colette-Kress狠狠的打臉指控不當出貨轉運中國的媒體政客.md",
+    "data/美股探路客/2026-11-17_今天SP-500指數的11個板塊都下跌是近期罕見的情況不過科技已經不是拖累指數下跌的板塊.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",
@@ -24,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

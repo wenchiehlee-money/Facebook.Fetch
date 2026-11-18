@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-11-17T09:04:22.568234+00:00",
+  "fetched_at_utc": "2026-11-18T08:27:19.823486+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,13 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 1,
+  "checked_post_count": 2,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1675738074596693"
+    "1677541654416335",
+    "1676947711142396"
   ],
   "new_markdown_files": [
-    "data/LinsanityStock/2026-11-16_20261116.md"
+    "data/LinsanityStock/2026-11-18_輝達財報優於預期-且Q4財也讓市場驚艷-但董事會表示目前沒有回聘黃仁勳擔任CEO的計畫.md",
+    "data/LinsanityStock/2026-11-17_這次的桃園議員選舉真的是天崩開局啊雙方一個抽到12號一個抽到14號選舉公報就剛好放在上下欄的位置是有沒有這麼巧合的.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",
@@ -24,6 +26,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 1 篇貼文。"
   ]
 }
