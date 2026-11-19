@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-11-18T08:26:45.971754+00:00",
+  "fetched_at_utc": "2026-11-19T08:39:28.288887+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1578214291019169",
-    "1577872881053310",
-    "1577858897721375"
+    "1578745464299385"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-11-18_聰明才智無法阻止爆倉上槓桿但缺乏紀律不知道如何對沖的對沖基金註定會被一再的教訓.md",
-    "data/美股探路客/2026-11-17_Nvidia-財報指引超越預期臨時-CEO兼CFO-Colette-Kress狠狠的打臉指控不當出貨轉運中國的媒體政客.md",
-    "data/美股探路客/2026-11-17_今天SP-500指數的11個板塊都下跌是近期罕見的情況不過科技已經不是拖累指數下跌的板塊.md"
+    "data/美股探路客/2026-11-18_積極介入公司治理聞名的Bill-Ackman認為Nvidia董事會並未以股東最佳利益行事且行事倉促存在治理失誤.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

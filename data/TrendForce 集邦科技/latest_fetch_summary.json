@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-11-18T08:27:24.632845+00:00",
+  "fetched_at_utc": "2026-11-19T08:40:08.200856+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1557897299694023",
-    "1557877726362647",
-    "1557860549697698"
+    "1558915176258902",
+    "1558872389596514"
   ],
   "new_markdown_files": [
-    "data/TrendForce 集邦科技/2026-11-18_3Q26-全球-OLED-監視器出貨數據出爐單季出貨量季增-13較-2025-年同期更呈現翻倍躍升ASUS-市占率穩居第一-TrendForce-解析全球監視器.md",
-    "data/TrendForce 集邦科技/2026-11-18_NAND買氣疲弱現貨與合約價差擴大至20以上.md",
-    "data/TrendForce 集邦科技/2026-11-18_DDR5現貨價平穩DDR4承壓主流顆粒下跌1.43.md"
+    "data/TrendForce 集邦科技/2026-11-19_2027-年全球-NANDFlash-價格預估反轉預計第一季合約價將季減-0-5第二季起全品項步入跌價循環TrendForce-拆解儲存需求降溫成因httpsb.md",
+    "data/TrendForce 集邦科技/2026-11-19_電晶體微縮逼近物理極限產業加速走向-3D-堆疊與異質整合混合鍵合成為關鍵技術但這條路並非一步到位.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",

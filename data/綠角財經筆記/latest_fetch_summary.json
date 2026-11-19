@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-11-18T08:26:41.315027+00:00",
+  "fetched_at_utc": "2026-11-19T08:39:22.987047+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1565539465379448"
+    "1566482621951799"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-11-17_本文討論目前市場上重要的公債與公司債殖利率並與半年前的狀況進行比較.md"
+    "data/綠角財經筆記/2026-11-18_之前發表CLEC-433投資組合對退休的危害以近一個月股市修正為例一文時有人留言為何長期投資需要在意一個月的情形呢.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61589343187385",
   "final_url": "https://www.facebook.com/profile.php?id=61589343187385",
-  "fetched_at_utc": "2026-11-18T08:27:09.025681+00:00",
+  "fetched_at_utc": "2026-11-19T08:39:51.124622+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "122135186853311439"
+  ],
+  "new_markdown_files": [
+    "data/首席經濟學家情勒中心/2026-11-19_首席的市場偏執.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/首席經濟學家情勒中心",
   "notes": [

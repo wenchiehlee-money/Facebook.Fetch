@@ -4,22 +4,22 @@ title: "#Nvidia 財報、指引超越預期，臨時 CEO兼CFO Colette Kress狠�
 page_title: ""
 requested_url: "https://www.facebook.com/raikk6"
 final_url: "https://www.facebook.com/raikk6"
-post_url: "https://www.facebook.com/raikk6/posts/pfbid0CtSdVy6ts2xgt5iLxSi5NC3bKTzFDaoFTLFSvyEuRXtML1tqYv2N7VUetpBJBid3l"
+post_url: "https://www.facebook.com/raikk6/posts/pfbid02GjtLge2iiejxwnVozaNH3NeMvTpxpUDyoAV5KzoWTycE8hx8ybByHuVwY89Ym8bCl"
 creation_time_utc: "2026-11-17T21:38:52+00:00"
-fetched_at_utc: "2026-11-18T08:26:45.971754+00:00"
+fetched_at_utc: "2026-11-19T08:39:28.288887+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/916055357_1577871241053474_4325140909859614649_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Z9qtUZuGSjUQ7kNvwGxoT5P&_nc_oc=AdpVNj_8DViD9MIIxHGByWpXaB94urxIzbyqJ2sM2LQa2LYMljqqG7rx889bf_uEles&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=x0kqm1F8iA2YO6dAzpTzzA&_nc_ss=79120&oh=00_AQT8dMBrZ9nEShVvzvg_BwZY4mMPQM3MX4iDay_SINsgjQ&oe=6B0325D4"
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwQ3RTZFZ5NnRzMnhndDVpTHhTaTVOQzNiS1R6RkRhb0ZUTEZTdnlFdVJYdE1MMXRxWXYyTjdWVWV0cEJKQmlkM2w="
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/916055357_1577871241053474_4325140909859614649_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lTR-ZBsqsyUQ7kNvwEnDZuM&_nc_oc=AdrFLEhy6Jxn3f1_fG_KS_qTSWR0ILBJReyquKzPd0fGP-d8T-Rls1tT4Wx4aB4mkIA&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=tZr5CP1NXjHWTW0PQCEiuA&_nc_ss=79120&oh=00_AQTQArFF69ivWMpeiPMlct39VfI27mlR95FWvkijttq2_Q&oe=6B047754"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwMkdqdExnZTJpaWVqeHduVm96YU5IM05lTXZUcHhwVUR5b0FWNUt6b1dUeWNFOGh4OHliQnlIdVZ3WTg5WW04YkNs"
 page_canonical_url: ""
 ---
 
 # #Nvidia 財報、指引超越預期，臨時 CEO兼CFO Colette Kress狠狠的打臉指控不當出貨、轉運中國的媒體、政客
 
-原文連結: https://www.facebook.com/raikk6/posts/pfbid0CtSdVy6ts2xgt5iLxSi5NC3bKTzFDaoFTLFSvyEuRXtML1tqYv2N7VUetpBJBid3l
+原文連結: https://www.facebook.com/raikk6/posts/pfbid02GjtLge2iiejxwnVozaNH3NeMvTpxpUDyoAV5KzoWTycE8hx8ybByHuVwY89Ym8bCl
 
-![#Nvidia 財報、指引超越預期，臨時 CEO兼CFO Colette Kress狠狠的打臉指控不當出貨、轉運中國的媒體、政客](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/916055357_1577871241053474_4325140909859614649_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Z9qtUZuGSjUQ7kNvwGxoT5P&_nc_oc=AdpVNj_8DViD9MIIxHGByWpXaB94urxIzbyqJ2sM2LQa2LYMljqqG7rx889bf_uEles&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=x0kqm1F8iA2YO6dAzpTzzA&_nc_ss=79120&oh=00_AQT8dMBrZ9nEShVvzvg_BwZY4mMPQM3MX4iDay_SINsgjQ&oe=6B0325D4)
+![#Nvidia 財報、指引超越預期，臨時 CEO兼CFO Colette Kress狠狠的打臉指控不當出貨、轉運中國的媒體、政客](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/916055357_1577871241053474_4325140909859614649_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lTR-ZBsqsyUQ7kNvwEnDZuM&_nc_oc=AdrFLEhy6Jxn3f1_fG_KS_qTSWR0ILBJReyquKzPd0fGP-d8T-Rls1tT4Wx4aB4mkIA&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=tZr5CP1NXjHWTW0PQCEiuA&_nc_ss=79120&oh=00_AQTQArFF69ivWMpeiPMlct39VfI27mlR95FWvkijttq2_Q&oe=6B047754)
 #Nvidia 財報、指引超越預期，臨時 CEO兼CFO Colette Kress狠狠的打臉指控不當出貨、轉運中國的媒體、政客
 
 Colette：「我們的動能是真實的，Nvidia 是一家卓越的技術領導者，由我們團隊不懈的創新所驅動。Vera Rubin 開局火爆，我們的路線圖按計劃推進，我們的雄心從未如此強大」

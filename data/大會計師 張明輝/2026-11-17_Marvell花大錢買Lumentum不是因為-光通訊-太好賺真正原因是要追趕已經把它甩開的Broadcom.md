@@ -4,22 +4,22 @@ title: "Marvell花大錢買Lumentum，不是因為 #光通訊 太好賺！真正
 page_title: ""
 requested_url: "https://www.facebook.com/dextermchang"
 final_url: "https://www.facebook.com/dextermchang"
-post_url: "https://www.facebook.com/dextermchang/posts/pfbid0i9gF6s5UVjhh1TseK7uTRVNiCSbJvpemqXs2RbYhfNMW56o9LPpqWkSfWnuMo3ael"
+post_url: "https://www.facebook.com/dextermchang/posts/pfbid02n17xHY1JM57AjPTUz71qUiurJH92QfghgaG6cZ2JHDUUgDanUJtVjiCaranUhxrRl"
 creation_time_utc: "2026-11-17T00:00:05+00:00"
-fetched_at_utc: "2026-11-18T08:26:31.763708+00:00"
+fetched_at_utc: "2026-11-19T08:39:12.979046+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/907181807_122147192931207208_8072989576994941961_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dXuTHsE0IC0Q7kNvwF4qJGu&_nc_oc=AdrwMGuq6yAa3J3aVBohSuM-mbER03ZkcggUx-nGCOPVF0wk3ub4I4y_Fu3qt9XTNXs&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=eFLtCthp4NqsD56YO6y9-w&_nc_ss=79120&oh=00_AQSw5mF7KlR4PV9604_eoGRTuMdbwJtGHnuPN3uR1-Re4A&oe=6B033AFD"
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwaTlnRjZzNVVWamhoMVRzZUs3dVRSVk5pQ1NiSnZwZW1xWHMyUmJZaGZOTVc1Nm85TFBwcVdrU2ZXbnVNbzNhZWw="
+image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/907181807_122147192931207208_8072989576994941961_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dXuTHsE0IC0Q7kNvwGYewiT&_nc_oc=AdrqTmFBO76gQ58ViLtHNScR5Ru8J3zBby5ocNk_cSsDWSs0OqeMe-vVogeH0V6Oa1s&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=QgTSHVvAJdcPaVifJUrkXQ&_nc_ss=79120&oh=00_AQTO16qqMLYaGYoYlNGXPOB5GENut100qyr80hgBbP3aMg&oe=6B048C7D"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwMm4xN3hIWTFKTTU3QWpQVFV6NzFxVWl1ckpIOTJRZmdoZ2FHNmNaMkpIRFVVZ0RhblVKdFZqaUNhcmFuVWh4clJs"
 page_canonical_url: ""
 ---
 
 # Marvell花大錢買Lumentum，不是因為 #光通訊 太好賺！真正原因是要追趕已經把它甩開的Broadcom
 
-原文連結: https://www.facebook.com/dextermchang/posts/pfbid0i9gF6s5UVjhh1TseK7uTRVNiCSbJvpemqXs2RbYhfNMW56o9LPpqWkSfWnuMo3ael
+原文連結: https://www.facebook.com/dextermchang/posts/pfbid02n17xHY1JM57AjPTUz71qUiurJH92QfghgaG6cZ2JHDUUgDanUJtVjiCaranUhxrRl
 
-![Marvell花大錢買Lumentum，不是因為 #光通訊 太好賺！真正原因是要追趕已經把它甩開的Broadcom](https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/907181807_122147192931207208_8072989576994941961_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dXuTHsE0IC0Q7kNvwF4qJGu&_nc_oc=AdrwMGuq6yAa3J3aVBohSuM-mbER03ZkcggUx-nGCOPVF0wk3ub4I4y_Fu3qt9XTNXs&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=eFLtCthp4NqsD56YO6y9-w&_nc_ss=79120&oh=00_AQSw5mF7KlR4PV9604_eoGRTuMdbwJtGHnuPN3uR1-Re4A&oe=6B033AFD)
+![Marvell花大錢買Lumentum，不是因為 #光通訊 太好賺！真正原因是要追趕已經把它甩開的Broadcom](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/907181807_122147192931207208_8072989576994941961_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dXuTHsE0IC0Q7kNvwGYewiT&_nc_oc=AdrqTmFBO76gQ58ViLtHNScR5Ru8J3zBby5ocNk_cSsDWSs0OqeMe-vVogeH0V6Oa1s&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=QgTSHVvAJdcPaVifJUrkXQ&_nc_ss=79120&oh=00_AQTO16qqMLYaGYoYlNGXPOB5GENut100qyr80hgBbP3aMg&oe=6B048C7D)
 Marvell花大錢買Lumentum，不是因為 #光通訊 太好賺！真正原因是要追趕已經把它甩開的Broadcom
 
 ＃Marvell 最近宣布要用大約1,150億美元去併購光通訊與光學元件製造大廠 #Lumentum。

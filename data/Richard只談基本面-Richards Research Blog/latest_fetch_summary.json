@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-11-18T08:26:55.514167+00:00",
+  "fetched_at_utc": "2026-11-19T08:39:38.754421+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1673241367825896",
-    "1673231431160223",
-    "1672523114564388"
+    "1673597377790295",
+    "1673572504459449",
+    "1673562771127089"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-11-18_近期可能有一個產業分析公司分析的很大的方法論的改變以前產品流通的時候可將全球視為一個大市場demandsupply-chain等除了少數禁止法規之外大部分需求大.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-11-18_根據TrendForce以下轉貼的Enterprise-SSD-Cuts-Pull-NAND-Price-Drop-to-2Q27報告摘要NAND-Flash市.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-11-17_三星DRAM晶片將改為兩片晶圓獨立製造一片做Cell一片做週邊電路Cell-wafer用較成熟的製程D1b周邊電路用最新製程D1d兩片晶圓Hybrid-bond.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-11-18_美國並沒有全面禁止中國公司遠端存取海外AI雲端資料中心.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-11-18_Rubin-HPC新產品保留FP64算力.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-11-18_Lambda-部署於加拿大魁北克資料中心的-10000-GPU-叢集屬於可擴展式系統目前沒有擁有如此多-GPU-的可擴展叢集它利用光子交換器連接-10000-顆.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",

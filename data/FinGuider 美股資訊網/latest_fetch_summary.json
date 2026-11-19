@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-11-18T08:26:38.950807+00:00",
+  "fetched_at_utc": "2026-11-19T08:39:20.373585+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1627580196078788",
-    "1627499626086845",
-    "1627202782783196"
+    "1628684085968399",
+    "1628597999310341",
+    "1628512282652246"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-11-18_Druckenmiller這是我最看不清市場的時刻.md",
-    "data/FinGuider 美股資訊網/2026-11-18_Semafor-獨家輝達部分董事仍想讓黃仁勳回任.md",
-    "data/FinGuider 美股資訊網/2026-11-17_輝達NVDAQ3-營收飆升-103-至-1158.4-億美元EPS-報-2.68-美元雙雙擊敗分析師預期1093.3-億--2.48-美元毛利率為-74.9優於.md"
+    "data/FinGuider 美股資訊網/2026-11-19_華爾街承諾為輝達動員-5000-億美元晶片融資至今一毛未投.md",
+    "data/FinGuider 美股資訊網/2026-11-19_一個月跌-67-後AI-金童-Aschenbrenner-籌劃捲土重來.md",
+    "data/FinGuider 美股資訊網/2026-11-19_輝達首場沒有黃仁勳的全員大會.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",
