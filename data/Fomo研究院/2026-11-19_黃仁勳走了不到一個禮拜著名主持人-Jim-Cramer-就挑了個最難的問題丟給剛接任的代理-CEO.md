@@ -4,22 +4,22 @@ title: "黃仁勳走了不到一個禮拜，著名主持人 Jim Cramer 就挑了
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02dmmE3g4QSeUgGRyCkb4M9x3oRwCmbEpMruseNPza4yVNMnqeuEgBvyL9KbdZo8xSl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0aE838WS3bcR6pBdV6FtyQSecz7tnyWit1imsn3gdCXdGrnGpkCF8k3Sg6dgi9AWYl&id=61573146584049"
 creation_time_utc: "2026-11-19T00:29:42+00:00"
-fetched_at_utc: "2026-11-19T08:39:30.615616+00:00"
+fetched_at_utc: "2026-11-20T08:23:46.171930+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/912354787_122206015082771552_7607019959532288806_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VZc933OjdLIQ7kNvwHntMH7&_nc_oc=AdoqDJil-YNNkRnFl5qfOMn0nv8buOhrgeEFbcGqgtVqQR4YN6uJfPIAou0fihs97kk&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=zO5vghWeUKDe9Rm2P9Ssfg&_nc_ss=79120&oh=00_AQSeTClGyvXs_uXKQ3z9dBpmbdL7YRkP_6cTt0L2MT3TNw&oe=6B046F72"
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwMmRtbUUzZzRRU2VVZ0dSeUNrYjRNOXgzb1J3Q21iRXBNcnVzZU5QemE0eVZOTW5xZXVFZ0J2eUw5S2JkWm84eFNs"
+image_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/912354787_122206015082771552_7607019959532288806_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VZc933OjdLIQ7kNvwHeW4MZ&_nc_oc=AdrbHIzTyV1NbvE1MxXOQZefb519nEiMXeABw-ztW8e69Qljyp0D7MaRv4PWTqNP--k&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=LvLklRQgMYuTFHvHCYLdYA&_nc_ss=79120&oh=00_AQSv_gv7qHTRRcLGLjxTkF_wKG7IhXRz1jVTbZeqtGavXA&oe=6B05C0F2"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwYUU4MzhXUzNiY1I2cEJkVjZGdHlRU2Vjejd0bnlXaXQxaW1zbjNnZENYZEdybkdwa0NGOGszU2c2ZGdpOUFXWWw="
 page_canonical_url: ""
 ---
 
 # 黃仁勳走了不到一個禮拜，著名主持人 Jim Cramer 就挑了個最難的問題，丟給剛接任的代理 CEO。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02dmmE3g4QSeUgGRyCkb4M9x3oRwCmbEpMruseNPza4yVNMnqeuEgBvyL9KbdZo8xSl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0aE838WS3bcR6pBdV6FtyQSecz7tnyWit1imsn3gdCXdGrnGpkCF8k3Sg6dgi9AWYl&id=61573146584049
 
-![黃仁勳走了不到一個禮拜，著名主持人 Jim Cramer 就挑了個最難的問題，丟給剛接任的代理 CEO。](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/912354787_122206015082771552_7607019959532288806_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VZc933OjdLIQ7kNvwHntMH7&_nc_oc=AdoqDJil-YNNkRnFl5qfOMn0nv8buOhrgeEFbcGqgtVqQR4YN6uJfPIAou0fihs97kk&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=zO5vghWeUKDe9Rm2P9Ssfg&_nc_ss=79120&oh=00_AQSeTClGyvXs_uXKQ3z9dBpmbdL7YRkP_6cTt0L2MT3TNw&oe=6B046F72)
+![黃仁勳走了不到一個禮拜，著名主持人 Jim Cramer 就挑了個最難的問題，丟給剛接任的代理 CEO。](https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/912354787_122206015082771552_7607019959532288806_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VZc933OjdLIQ7kNvwHeW4MZ&_nc_oc=AdrbHIzTyV1NbvE1MxXOQZefb519nEiMXeABw-ztW8e69Qljyp0D7MaRv4PWTqNP--k&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=LvLklRQgMYuTFHvHCYLdYA&_nc_ss=79120&oh=00_AQSv_gv7qHTRRcLGLjxTkF_wKG7IhXRz1jVTbZeqtGavXA&oe=6B05C0F2)
 黃仁勳走了不到一個禮拜，著名主持人 Jim Cramer 就挑了個最難的問題，丟給剛接任的代理 CEO。
 ​
 「外面有人說，NVIDIA 可能要背 5,300 億美元的擔保。這個數字會不會把你們的現金流吃光？」

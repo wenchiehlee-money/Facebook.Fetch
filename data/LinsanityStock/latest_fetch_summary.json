@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-11-19T08:40:00.721168+00:00",
+  "fetched_at_utc": "2026-11-20T08:24:25.819313+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1678853617618472",
-    "1678786307625203"
+    "1679918210845346"
   ],
   "new_markdown_files": [
-    "data/LinsanityStock/2026-11-19_剛剛金管會最新發布限空令2.0.md",
-    "data/LinsanityStock/2026-11-19_今天台股殺的詭異美股盤後期指在漲日股小漲韓股平盤附近台股卻又殺破年線唯一可能的解釋就是美國商務部公布的最新規範加強AI亞洲出口管制遠端存取算力的限令.md"
+    "data/LinsanityStock/2026-11-20_雖然有禁空令登場但ETF按照公布的法規並未在限制之內外資昨天還借了快7萬張的熱門00406A主動中信台灣收益來砸盤.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-11-19T08:39:16.016339+00:00",
+  "fetched_at_utc": "2026-11-20T08:23:26.197551+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1346109147528258",
-    "1212957604628924"
+    "29467791039512086",
+    "1214057174518967",
+    "1214055721185779"
   ],
   "new_markdown_files": [
-    "data/游庭皓的財經皓角/2026-11-19_20261119四AI股災遇上-史上最大IPO輝達對中政策轉彎-美股這波-夠恐慌了嗎早晨財經速解讀.md",
-    "data/游庭皓的財經皓角/2026-11-18_熱臉貼熱臉川普今天抵達深圳出席APEC習近平罕見親自前往機場迎接兩人更以貼臉擁抱方式打招呼展現超乎預期的熱情.md"
+    "data/游庭皓的財經皓角/2026-11-20_20261120五四大指數年線全失守-ANT吃飽-美股全倒台股禁空令-擋得住賣壓早晨財經速解讀.md",
+    "data/游庭皓的財經皓角/2026-11-19_中國海外資料中心可能成為下一輪管制項目根據Institute-for-Progress估算到2027年底中國AI算力約36來自既有晶片18來自未來國產晶片32則.md",
+    "data/游庭皓的財經皓角/2026-11-19_再過幾個小時Anthropic就要IPO了投資人對AI上市抱持高度期待但歷史經驗提醒我們優秀的公司不代表任何價格都值得買進.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",

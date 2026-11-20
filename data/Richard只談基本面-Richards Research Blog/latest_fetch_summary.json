@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-11-19T08:39:38.754421+00:00",
+  "fetched_at_utc": "2026-11-20T08:23:55.895127+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1673597377790295",
-    "1673572504459449",
-    "1673562771127089"
+    "1674591327690900",
+    "1674576494359050"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-11-18_美國並沒有全面禁止中國公司遠端存取海外AI雲端資料中心.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-11-18_Rubin-HPC新產品保留FP64算力.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-11-18_Lambda-部署於加拿大魁北克資料中心的-10000-GPU-叢集屬於可擴展式系統目前沒有擁有如此多-GPU-的可擴展叢集它利用光子交換器連接-10000-顆.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-11-19_Marvell-與-Penguin-Computing-發表了一款光子記憶體設備利用高速光子連結連接-GPU-與-XPU並連接多個機架上的-HBM-與-DDR為.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-11-19_之前媒體報導過英國公司Nscale-IPO文件陳述的大部分算力是出租給中國公司字節跳動今天看到新聞日本Neocloud上市公司Datasection-資料中心在.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",

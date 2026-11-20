@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-11-19T08:39:18.222484+00:00",
+  "fetched_at_utc": "2026-11-20T08:23:29.554346+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "1442370691339905",
-    "1442322774678030"
-  ],
-  "new_markdown_files": [
-    "data/行銷資料科學/2026-11-18_PPT-還能這樣玩AI-5-招打造會動的-3D-簡報.md",
-    "data/行銷資料科學/2026-11-18_AI轉型-前先了解傳統組織AI賦能組織與AI原生組織之差異.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",
   "notes": [

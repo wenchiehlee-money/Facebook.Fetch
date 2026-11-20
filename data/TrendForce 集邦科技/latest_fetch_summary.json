@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-11-19T08:40:08.200856+00:00",
+  "fetched_at_utc": "2026-11-20T08:24:32.130349+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "1558915176258902",
-    "1558872389596514"
-  ],
-  "new_markdown_files": [
-    "data/TrendForce 集邦科技/2026-11-19_2027-年全球-NANDFlash-價格預估反轉預計第一季合約價將季減-0-5第二季起全品項步入跌價循環TrendForce-拆解儲存需求降溫成因httpsb.md",
-    "data/TrendForce 集邦科技/2026-11-19_電晶體微縮逼近物理極限產業加速走向-3D-堆疊與異質整合混合鍵合成為關鍵技術但這條路並非一步到位.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",
   "notes": [

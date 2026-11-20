@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-11-19T08:39:46.161875+00:00",
+  "fetched_at_utc": "2026-11-20T08:24:04.755772+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122211114056486922",
-    "122211111740486922",
-    "122211099650486922"
+    "122211233552486922",
+    "122211232874486922",
+    "122211221114486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-11-19_精準.md",
-    "data/美股老司機 3.0/2026-11-19_Pre-Markets.md",
-    "data/美股老司機 3.0/2026-11-19_Tom-Lee.md"
+    "data/美股老司機 3.0/2026-11-20_週四晚打鬧.md",
+    "data/美股老司機 3.0/2026-11-20_跨越時間的修煉.md",
+    "data/美股老司機 3.0/2026-11-20_笑到肚子痛.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

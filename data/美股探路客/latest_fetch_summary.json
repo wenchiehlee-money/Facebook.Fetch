@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-11-19T08:39:28.288887+00:00",
+  "fetched_at_utc": "2026-11-20T08:23:42.773841+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1578745464299385"
+    "1580397400800858",
+    "1579794924194439",
+    "1579633860877212"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-11-18_積極介入公司治理聞名的Bill-Ackman認為Nvidia董事會並未以股東最佳利益行事且行事倉促存在治理失誤.md"
+    "data/美股探路客/2026-11-20_美國政治鬥爭從鬥黃仁勳進入到鬥共和黨了.md",
+    "data/美股探路客/2026-11-19_看來Anthropic果然是間有邪惡力量的公司只有雲端資安軟體能有些許抵抗的能力.md",
+    "data/美股探路客/2026-11-19_ANT-Anthropic-今天以每股-83-掛牌上市約當估值-1.5-兆私募加上公開共募集-1073-億超越-SpaceXHyperliquid目前股價約為.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

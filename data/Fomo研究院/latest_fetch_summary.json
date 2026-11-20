@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-11-19T08:39:30.615616+00:00",
+  "fetched_at_utc": "2026-11-20T08:23:46.171930+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "122206015226771552",
-    "122205939590771552"
+    "122206075502771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-11-19_黃仁勳走了不到一個禮拜著名主持人-Jim-Cramer-就挑了個最難的問題丟給剛接任的代理-CEO.md",
-    "data/Fomo研究院/2026-11-18_NVIDIA這季財報比較令人驚喜的是管理層對明年的態度.md"
+    "data/Fomo研究院/2026-11-19_我印象中從來沒有哪一段時間像現在這樣對未來-12-個月市場會走到哪裡這麼沒把握.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

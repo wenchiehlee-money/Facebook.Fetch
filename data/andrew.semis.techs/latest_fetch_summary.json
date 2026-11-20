@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-11-19T08:39:58.258311+00:00",
+  "fetched_at_utc": "2026-11-20T08:24:21.946502+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1692071402276332"
+    "1692880068862132",
+    "1692773835539422"
   ],
   "new_markdown_files": [
-    "data/andrew.semis.techs/2026-11-19_曾經千元股不停崩現在台灣盤止跌難.md"
+    "data/andrew.semis.techs/2026-11-20_老天爺又開始發2000元以下的神山牌週年慶禮物了上次我說天上掉下來的禮物好像是跌破1000的時候有同學可以幫忙找找貼文嗎只是這次不知道要發多久最低到多少可以買到.md",
+    "data/andrew.semis.techs/2026-11-20_Anthropic-今天上市大吸金衝高到115.1-但後勁無力拉回到97.17收盤結果整個美國科技及半導體股跟著開高走低來陪葬基於-Anthropic-2027.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
