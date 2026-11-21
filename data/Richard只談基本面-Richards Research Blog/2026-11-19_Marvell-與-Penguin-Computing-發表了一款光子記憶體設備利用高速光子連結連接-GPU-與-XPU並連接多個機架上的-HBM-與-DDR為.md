@@ -4,22 +4,22 @@ title: "------------\"Marvell 與 Penguin Computing 發表了一款光子記憶�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0Hd7BZPBPEYh4DEZ3Fm7e7cmbazagNexwmrjknkHbT66XePAUmXgsJtinWnQBwCGTl&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02MUSZNBDCMn5PFFXHqHqenKZEdkfjJCrw5DiiRsVz67cNRJvgBtqdn8LcRN9GuGqgl&id=100054201473657"
 creation_time_utc: "2026-11-19T12:49:29+00:00"
-fetched_at_utc: "2026-11-20T08:23:55.895127+00:00"
+fetched_at_utc: "2026-11-21T08:12:29.329793+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/916563311_1674591231024243_9028286683381060236_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=R6Lb4eNxrngQ7kNvwGVYL25&_nc_oc=AdoN25qi5pxQgxi6Pel-GbT8VCXMQu38favsghs-OzhTQkmBDDAlULtIdM32-YXs9Jk&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=tUmqtFkEPgVAtTJwBpwMZQ&_nc_ss=79120&oh=00_AQQrceNvmebmhwPEAI2qJ_S37A6Nu9QhMbZQK6ESYkHVgA&oe=6B05BAE1"
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwSGQ3QlpQQlBFWWg0REVaM0ZtN2U3Y21iYXphZ05leHdtcmprbmtIYlQ2NlhlUEFVbVhnc0p0aW5XblFCd0NHVGw="
+image_url: "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/916563311_1674591231024243_9028286683381060236_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=R6Lb4eNxrngQ7kNvwE_gDtN&_nc_oc=AdqR0BY-j4USH1bu3TrDUz2Q_52CIVglycJ6-f8W3kfItX0eEgriuCoCscQeTz9lQgg&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=_Y7DChxXO5QnTgFVCgbwfg&_nc_ss=79120&oh=00_AQRzqgAJGN4sG-TBIKazif7IEPN2FcLn9IvHmtikDvkupg&oe=6B070C61"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwMk1VU1pOQkRDTW41UEZGWEhxSHFlbktaRWRrZmpKQ3J3NURpaVJzVno2N2NOUkp2Z0J0cWRuOExjUk45R3VHcWds"
 page_canonical_url: ""
 ---
 
 # ------------"Marvell 與 Penguin Computing 發表了一款光子記憶體設備，利用高速光子連結連接 GPU 與 XPU，並連接多個機架上的 HBM 與 DDR，為客戶在同等功率下，潛在提升 AI 代幣生成的 5 倍。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0Hd7BZPBPEYh4DEZ3Fm7e7cmbazagNexwmrjknkHbT66XePAUmXgsJtinWnQBwCGTl&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02MUSZNBDCMn5PFFXHqHqenKZEdkfjJCrw5DiiRsVz67cNRJvgBtqdn8LcRN9GuGqgl&id=100054201473657
 
-![------------"Marvell 與 Penguin Computing 發表了一款光子記憶體設備，利用高速光子連結連接 GPU 與 XPU，並連接多個機架上的 HBM 與 DDR，為客戶在同等功率下，潛在提升 AI 代幣生成的 5 倍。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/916563311_1674591231024243_9028286683381060236_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=R6Lb4eNxrngQ7kNvwGVYL25&_nc_oc=AdoN25qi5pxQgxi6Pel-GbT8VCXMQu38favsghs-OzhTQkmBDDAlULtIdM32-YXs9Jk&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=tUmqtFkEPgVAtTJwBpwMZQ&_nc_ss=79120&oh=00_AQQrceNvmebmhwPEAI2qJ_S37A6Nu9QhMbZQK6ESYkHVgA&oe=6B05BAE1)
+![------------"Marvell 與 Penguin Computing 發表了一款光子記憶體設備，利用高速光子連結連接 GPU 與 XPU，並連接多個機架上的 HBM 與 DDR，為客戶在同等功率下，潛在提升 AI 代幣生成的 5 倍。](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/916563311_1674591231024243_9028286683381060236_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=R6Lb4eNxrngQ7kNvwE_gDtN&_nc_oc=AdqR0BY-j4USH1bu3TrDUz2Q_52CIVglycJ6-f8W3kfItX0eEgriuCoCscQeTz9lQgg&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=_Y7DChxXO5QnTgFVCgbwfg&_nc_ss=79120&oh=00_AQRzqgAJGN4sG-TBIKazif7IEPN2FcLn9IvHmtikDvkupg&oe=6B070C61)
 ------------"Marvell 與 Penguin Computing 發表了一款光子記憶體設備，利用高速光子連結連接 GPU 與 XPU，並連接多個機架上的 HBM 與 DDR，為客戶在同等功率下，潛在提升 AI 代幣生成的 5 倍。
 
 單機架 AI 推論解決方案的時代已經過去。現今的 AI 推論工作負載通常跨越多個機架。Pod 內的一個機架可能負責預填充，另一個則負責解碼。將設有一個專門用於儲存的機架，以及另一個用於前饋學習（FFL）的機架。在這些架構下，東西向的網路流量非常密集，尤其是在存取存放於 KV 快取中的資料時，KV 快取通常涵蓋 HBM、DDR、NVMe 及其他儲存層。

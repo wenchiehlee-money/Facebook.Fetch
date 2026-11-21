@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-11-20T08:23:32.540575+00:00",
+  "fetched_at_utc": "2026-11-21T08:12:04.444955+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1629721129198028",
-    "1629493062554168",
-    "1629447529225388"
+    "1631050235731784",
+    "1630838072419667",
+    "1630205902482884"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-11-20_IEA資料中心用電-2030-年恐翻倍電網支出十年要多-75.md",
-    "data/FinGuider 美股資訊網/2026-11-20_超微AMD週四盤中一度暴跌約-11終場收跌-7.72盤後又下跌超過-3主因是-Hunterbrook-Media-發布放空報告質疑-AMD-與受到美國出口限制的.md",
-    "data/FinGuider 美股資訊網/2026-11-19_Anthropic-上市首日大漲-17募資-1073-億美元創紀錄.md"
+    "data/FinGuider 美股資訊網/2026-11-21_美股-13F-2026Q3-整理報告出爐.md",
+    "data/FinGuider 美股資訊網/2026-11-21_輝達單日暴跌-14SEC-調查傳聚焦會計問題單週市值蒸發-9000-億美元.md",
+    "data/FinGuider 美股資訊網/2026-11-20_市場廣度轉弱經理人曝險一週大降.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

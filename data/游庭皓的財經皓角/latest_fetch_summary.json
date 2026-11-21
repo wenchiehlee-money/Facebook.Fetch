@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-11-20T08:23:26.197551+00:00",
+  "fetched_at_utc": "2026-11-21T08:11:57.859975+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,17 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 2,
+  "new_post_count": 2,
   "new_post_ids": [
-    "29467791039512086",
-    "1214057174518967",
-    "1214055721185779"
+    "1215291924395492",
+    "1215239401067411"
   ],
   "new_markdown_files": [
-    "data/游庭皓的財經皓角/2026-11-20_20261120五四大指數年線全失守-ANT吃飽-美股全倒台股禁空令-擋得住賣壓早晨財經速解讀.md",
-    "data/游庭皓的財經皓角/2026-11-19_中國海外資料中心可能成為下一輪管制項目根據Institute-for-Progress估算到2027年底中國AI算力約36來自既有晶片18來自未來國產晶片32則.md",
-    "data/游庭皓的財經皓角/2026-11-19_再過幾個小時Anthropic就要IPO了投資人對AI上市抱持高度期待但歷史經驗提醒我們優秀的公司不代表任何價格都值得買進.md"
+    "data/游庭皓的財經皓角/2026-11-20_上市扣除ETF資券後融資維持率已降至119.53上一次這麼低是202549關稅戰時期.md",
+    "data/游庭皓的財經皓角/2026-11-20_見證歷史櫃買指數今年11月單月重挫28.9不僅創下有紀錄以來最大單月跌幅甚至超越2008年金融海嘯期間的25.72000年網路泡沫破裂時的24.4.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",
@@ -28,6 +26,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 1 篇貼文。"
   ]
 }

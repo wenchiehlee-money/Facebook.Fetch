@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-11-20T08:24:01.888214+00:00",
+  "fetched_at_utc": "2026-11-21T08:12:35.638071+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122238726542502956",
-    "122238724706502956",
-    "122238723638502956"
+    "122238847922502956",
+    "122238846572502956",
+    "122238845888502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-11-20_Palantir-CEO-Alex-Karp-開嗆-AnthropicOpenAI別以為-AI-模型夠強就能解決企業所有問題.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-11-20_Anthropic-CEO-警告AI-恐在-15-年內大規模取代白領工作失業率可能升至-1020.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-11-20_Anthropic-背後的兄妹檔Dario-與-Daniela-Amodei從失去父親到打造-AI-科技巨頭.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-11-21_貝森特訪中前後態度大轉彎從公開向盧特尼克施壓到強調不脫鉤只去風險.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-11-21_Tom-LeeAI-沒有結束科技股正在經歷健康修正現在的痛苦可能是耐心投資人的機會.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-11-21_Peter-Lynch股市每兩年就可能跌一次-10真正的投資高手不是害怕下跌而是懂得利用下跌.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",

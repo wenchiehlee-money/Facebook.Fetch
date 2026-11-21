@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-11-20T08:23:55.895127+00:00",
+  "fetched_at_utc": "2026-11-21T08:12:29.329793+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "1674591327690900",
-    "1674576494359050"
-  ],
-  "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-11-19_Marvell-與-Penguin-Computing-發表了一款光子記憶體設備利用高速光子連結連接-GPU-與-XPU並連接多個機架上的-HBM-與-DDR為.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-11-19_之前媒體報導過英國公司Nscale-IPO文件陳述的大部分算力是出租給中國公司字節跳動今天看到新聞日本Neocloud上市公司Datasection-資料中心在.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",
   "notes": [

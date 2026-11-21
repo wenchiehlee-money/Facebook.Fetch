@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-11-20T08:24:28.970009+00:00",
+  "fetched_at_utc": "2026-11-21T08:13:05.521167+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1579392667556277",
-    "1579350414227169",
-    "1579305407565003"
+    "1580476660781211",
+    "1580353910793486",
+    "1580250707470473"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-11-20_部分記憶體股本益比只剩23倍股價卻還在承壓.md",
-    "data/商業周刊商周.com/2026-11-20_誰掌握算力誰就掌握財富AI-新富的投資新邏輯玉山未來式-EP1-新富世代.md",
-    "data/商業周刊商周.com/2026-11-20_商周專訪沈伯洋台北家長每到假日好無助沈伯洋親揭親子同行卡用途.md"
+    "data/商業周刊商周.com/2026-11-21_養老金明明是自己的失智後每個月能花多少卻得由別人決定.md",
+    "data/商業周刊商周.com/2026-11-21_不熟的老同學找她幫忙看履歷她開口收費後來兩人卻成了朋友.md",
+    "data/商業周刊商周.com/2026-11-21_理想中的未來生活需要從今天開始準備.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-11-20T08:24:25.819313+00:00",
+  "fetched_at_utc": "2026-11-21T08:13:01.757943+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1679918210845346"
+    "1680465050790662"
   ],
   "new_markdown_files": [
-    "data/LinsanityStock/2026-11-20_雖然有禁空令登場但ETF按照公布的法規並未在限制之內外資昨天還借了快7萬張的熱門00406A主動中信台灣收益來砸盤.md"
+    "data/LinsanityStock/2026-11-20_20261120.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",

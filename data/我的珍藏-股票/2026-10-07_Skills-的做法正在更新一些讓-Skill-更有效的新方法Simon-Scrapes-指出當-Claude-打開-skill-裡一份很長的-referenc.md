@@ -4,16 +4,16 @@ title: "Skills 的做法正在更新：一些讓 Skill 更有效的新方法，S
 page_title: "股票"
 source_page: "\u5f35\u7dad\u5cf0"
 requested_url: "https://www.facebook.com/saved/?list_id=10222174769398438&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL"
-post_url: "https://www.facebook.com/jerry.chang.505523/posts/pfbid02zc4gqE5ymF6cUqkWdNWmBEWsiN14xGY7WhJq59X7PmMxfQaCf79MYKF6dyR6tYcsl"
+post_url: "https://www.facebook.com/jerry.chang.505523/posts/pfbid0vaMdyXzQNQVUZnEVYJPHHPWvpTMP22xaEtNhH7DbQhc3UheuSoDqGMyD3Ao9Rhn3l"
 creation_time_utc: ""
-fetched_at_utc: "2026-11-20T08:23:21.475388+00:00"
+fetched_at_utc: "2026-11-21T08:11:51.952215+00:00"
 source: "saved_list"
 ---
 
 # Skills 的做法正在更新：一些讓 Skill 更有效的新方法，Simon Scrapes 指出，當 Claude 打開 skill 裡一份很長的 reference 檔案時，並不一定會把整份讀完。它會執行 head -100 指令，只讀前 100 行，用來判斷這份 reference 檔案是否真的包含它需要的資訊。因此，如果重要的規則放在第 100 行之後，對 Claude 來說，那些規則等於不存在。他參考的檔案是官方的Skills best practices
 
 來源：\u5f35\u7dad\u5cf0
-原文連結: https://www.facebook.com/jerry.chang.505523/posts/pfbid02zc4gqE5ymF6cUqkWdNWmBEWsiN14xGY7WhJq59X7PmMxfQaCf79MYKF6dyR6tYcsl
+原文連結: https://www.facebook.com/jerry.chang.505523/posts/pfbid0vaMdyXzQNQVUZnEVYJPHHPWvpTMP22xaEtNhH7DbQhc3UheuSoDqGMyD3Ao9Rhn3l
 Skills 的做法正在更新：一些讓 Skill 更有效的新方法，Simon Scrapes 指出，當 Claude 打開 skill 裡一份很長的 reference 檔案時，並不一定會把整份讀完。它會執行 head -100 指令，只讀前 100 行，用來判斷這份 reference 檔案是否真的包含它需要的資訊。因此，如果重要的規則放在第 100 行之後，對 Claude 來說，那些規則等於不存在。他參考的檔案是官方的Skills best practices
 
 Skills 在今年年初推出，當時大家學到的做法是：寫好 description、總行數控制在 200 行以內、把 reference 檔案分開放、並且把內容寫成一組指令。但現在規則已經完全改變。如果 reference 檔案超過 100 行，又沒有 content list，被正確使用的機率其實偏低。

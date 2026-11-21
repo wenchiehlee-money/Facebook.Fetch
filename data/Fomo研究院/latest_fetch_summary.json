@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-11-20T08:23:46.171930+00:00",
+  "fetched_at_utc": "2026-11-21T08:12:18.920802+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122206075502771552"
+    "122206197452771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-11-19_我印象中從來沒有哪一段時間像現在這樣對未來-12-個月市場會走到哪裡這麼沒把握.md"
+    "data/Fomo研究院/2026-11-20_如果不讓黃仁勳回來我不建議找外來的人NVIDIA太複雜了.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573992511738",
   "final_url": "https://www.facebook.com/profile.php?id=61573992511738",
-  "fetched_at_utc": "2026-11-20T08:24:15.141895+00:00",
+  "fetched_at_utc": "2026-11-21T08:12:50.140658+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "122201580368799750"
+  ],
+  "new_markdown_files": [
+    "data/郭明錤Ming-Chi Kuo/2026-11-20_我最新的產業調查顯示Google-下修-2027-年由-Broadcom-設計的-TPU-8i-系列共約-100-萬顆以單價較高的-8i-Max--Whalef.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/郭明錤Ming-Chi Kuo",
   "notes": [

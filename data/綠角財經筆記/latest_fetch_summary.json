@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-11-20T08:23:35.797367+00:00",
+  "fetched_at_utc": "2026-11-21T08:12:08.376766+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1567478701852191"
-  ],
-  "new_markdown_files": [
-    "data/綠角財經筆記/2026-11-19_有不少投資人認為身處熊市很容易就可以看出來其實很難因為實際上熊市不是一直下跌而是漲漲跌跌而且熊市中的上漲可以非常可觀.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",
   "notes": [

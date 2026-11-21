@@ -4,20 +4,20 @@ title: "Google TPU 重點更新：OpenAI 與 Anthropic 新訂單推升出貨能�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573992511738"
 final_url: "https://www.facebook.com/profile.php?id=61573992511738"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid035vujy8qXMYev2WDjzBhsvQeQmasUtdrRAULB2Frd9rMxUdfWwosTxD3Lvp3oqiBNl&id=61573992511738"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid021uCh7SjwxRBvGw2gLB4oMqmEKtoVQtrfW7FYngcUwk2KMKKyy5D6egovZoJvgrjRl&id=61573992511738"
 creation_time_utc: "2026-11-16T01:02:26+00:00"
-fetched_at_utc: "2026-11-20T08:24:15.141895+00:00"
+fetched_at_utc: "2026-11-21T08:12:50.140658+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
 image_url: ""
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwMzV2dWp5OHFYTVlldjJXRGp6QmhzdlFlUW1hc1V0ZHJSQVVMQjJGcmQ5ck14VWRmV3dvc1R4RDNMdnAzb3FpQk5s"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwMjF1Q2g3U2p3eFJCdkd3MmdMQjRvTXFtRUt0b1ZRdHJmVzdGWW5nY1V3azJLTUtLeXk1RDZlZ292Wm9KdmdyalJs"
 page_canonical_url: ""
 ---
 
 # Google TPU 重點更新：OpenAI 與 Anthropic 新訂單推升出貨能見度至 2029 年、v10 產品線大幅調整 (改為 Quillfish)、聯發科與 Broadcom 為供應商中之領先關注焦點
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid035vujy8qXMYev2WDjzBhsvQeQmasUtdrRAULB2Frd9rMxUdfWwosTxD3Lvp3oqiBNl&id=61573992511738
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid021uCh7SjwxRBvGw2gLB4oMqmEKtoVQtrfW7FYngcUwk2KMKKyy5D6egovZoJvgrjRl&id=61573992511738
 Google TPU 重點更新：OpenAI 與 Anthropic 新訂單推升出貨能見度至 2029 年、v10 產品線大幅調整 (改為 Quillfish)、聯發科與 Broadcom 為供應商中之領先關注焦點
 
 我最新的產業調查與研究結論：
