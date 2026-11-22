@@ -4,20 +4,20 @@ title: "之前媒體報導過英國公司Nscale IPO文件陳述的大部分算�
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=100054201473657"
 final_url: "https://www.facebook.com/profile.php?id=100054201473657"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02n5i3EqqoDo1bby2REg9zGVKmcpwybzQdjVewMFatK5Fny4PpJsLF3CNe4JmzGLNml&id=100054201473657"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0i47Km2eEYooHb4BuPSS5fR3yjN6cCYCUo1RUisGo8gxiMBVL7tAhwVJy3U6pK6jMl&id=100054201473657"
 creation_time_utc: "2026-11-19T12:33:08+00:00"
-fetched_at_utc: "2026-11-21T08:12:29.329793+00:00"
+fetched_at_utc: "2026-11-22T07:56:45.014337+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
 image_url: ""
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwMm41aTNFcXFvRG8xYmJ5MlJFZzl6R1ZLbWNwd3lielFkalZld01GYXRLNUZueTRQcEpzTEYzQ05lNEptekdMTm1s"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwaTQ3S20yZUVZb29IYjRCdVBTUzVmUjN5ak42Y0NZQ1VvMVJVaXNHbzhneGlNQlZMN3RBaHdWSnkzVTZwSzZqTWw="
 page_canonical_url: ""
 ---
 
 # 之前媒體報導過英國公司Nscale IPO文件陳述的大部分算力是出租給中國公司字節跳動，今天看到新聞日本Neocloud上市公司Datasection (資料中心在日本和澳洲) 調降財測89%，其主要出租算力客戶是中國公司騰訊，近日法規開始管制美國境外雲端資料中心出租中國公司之前，該公司就有延誤建設的問題，但公司認為仍可補上，近日新法規公布之後幾天，公司調降財測，Nscale和Datasection都不是東南亞國家公司
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02n5i3EqqoDo1bby2REg9zGVKmcpwybzQdjVewMFatK5Fny4PpJsLF3CNe4JmzGLNml&id=100054201473657
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0i47Km2eEYooHb4BuPSS5fR3yjN6cCYCUo1RUisGo8gxiMBVL7tAhwVJy3U6pK6jMl&id=100054201473657
 之前媒體報導過英國公司Nscale IPO文件陳述的大部分算力是出租給中國公司字節跳動，今天看到新聞日本Neocloud上市公司Datasection (資料中心在日本和澳洲) 調降財測89%，其主要出租算力客戶是中國公司騰訊，近日法規開始管制美國境外雲端資料中心出租中國公司之前，該公司就有延誤建設的問題，但公司認為仍可補上，近日新法規公布之後幾天，公司調降財測，Nscale和Datasection都不是東南亞國家公司
 
 想到前天TrendForce發表2027年SSD轉為over supply合約價提早一季(2Q27)將開始下跌，主要原因之一，是中國CSP因為缺少GPU砍單eSSD

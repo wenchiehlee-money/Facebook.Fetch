@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-11-21T08:13:05.521167+00:00",
+  "fetched_at_utc": "2026-11-22T07:57:12.402382+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1580476660781211",
-    "1580353910793486",
-    "1580250707470473"
+    "1581541660674711",
+    "1581403680688509",
+    "1580650937430450"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-11-21_養老金明明是自己的失智後每個月能花多少卻得由別人決定.md",
-    "data/商業周刊商周.com/2026-11-21_不熟的老同學找她幫忙看履歷她開口收費後來兩人卻成了朋友.md",
-    "data/商業周刊商周.com/2026-11-21_理想中的未來生活需要從今天開始準備.md"
+    "data/商業周刊商周.com/2026-11-22_每月投資1萬元持續30年這筆錢夠你60歲後每月花5萬元嗎.md",
+    "data/商業周刊商周.com/2026-11-22_半夜起床上廁所她會先走到父親房門旁偷偷聽他的打呼聲確定一切安好才能回床上繼續睡.md",
+    "data/商業周刊商周.com/2026-11-21_和大家分享我們同事做的城市生存動物心理測驗.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

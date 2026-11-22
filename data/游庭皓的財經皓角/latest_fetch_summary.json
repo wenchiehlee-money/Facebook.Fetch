@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-11-21T08:11:57.859975+00:00",
+  "fetched_at_utc": "2026-11-22T07:56:21.481682+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "1215291924395492",
-    "1215239401067411"
-  ],
-  "new_markdown_files": [
-    "data/游庭皓的財經皓角/2026-11-20_上市扣除ETF資券後融資維持率已降至119.53上一次這麼低是202549關稅戰時期.md",
-    "data/游庭皓的財經皓角/2026-11-20_見證歷史櫃買指數今年11月單月重挫28.9不僅創下有紀錄以來最大單月跌幅甚至超越2008年金融海嘯期間的25.72000年網路泡沫破裂時的24.4.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",
   "notes": [

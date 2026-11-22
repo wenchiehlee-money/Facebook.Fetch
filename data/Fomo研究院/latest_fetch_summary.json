@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-11-21T08:12:18.920802+00:00",
+  "fetched_at_utc": "2026-11-22T07:56:37.192251+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122206197452771552"
+    "122206318082771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-11-20_如果不讓黃仁勳回來我不建議找外來的人NVIDIA太複雜了.md"
+    "data/Fomo研究院/2026-11-21_我知道過去這幾個月不少朋友帳面上的數字不太好看.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

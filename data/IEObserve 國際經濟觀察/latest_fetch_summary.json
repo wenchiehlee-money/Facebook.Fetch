@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-11-21T08:12:32.550979+00:00",
+  "fetched_at_utc": "2026-11-22T07:56:47.806113+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1671587180992570",
-    "1671362314348390",
-    "1671276307690324"
+    "1672468934237728",
+    "1672545697563385",
+    "1672440987573856"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-11-21_這個市場現在表現最好的大部分是吃的.md",
-    "data/IEObserve 國際經濟觀察/2026-11-21_市場傳出端點霸主-CrowdStrike-正洽談收購雲端零信任大廠-Zscaler.md",
-    "data/IEObserve 國際經濟觀察/2026-11-20_Oracle預判有媒體要報對他們不利的消息先跳出來自清說媒體是亂報的.md"
+    "data/IEObserve 國際經濟觀察/2026-11-22_老馬也說資金短缺將成為AI算力建設的重要瓶頸之一.md",
+    "data/IEObserve 國際經濟觀察/2026-11-22_科技工作講-Tech-Job-N-Talk-這集有聽到一些員工的心聲其實對黃仁勳和經營Nvidia這件事會有更全面的了解.md",
+    "data/IEObserve 國際經濟觀察/2026-11-22_美國超音速飛機公司新創Boom自己造出了引擎而且因為機用引擎渦輪和天然氣發電機渦輪基本上是相通的理論上產品線是能拿來給資料中心用於是順勢開發另一個產品線名為-S.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",
