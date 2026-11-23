@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-11-22T07:57:12.402382+00:00",
+  "fetched_at_utc": "2026-11-23T08:54:53.168787+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1581541660674711",
-    "1581403680688509",
-    "1580650937430450"
+    "1582682830560594",
+    "1582645117231032",
+    "1582559163906294"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-11-22_每月投資1萬元持續30年這筆錢夠你60歲後每月花5萬元嗎.md",
-    "data/商業周刊商周.com/2026-11-22_半夜起床上廁所她會先走到父親房門旁偷偷聽他的打呼聲確定一切安好才能回床上繼續睡.md",
-    "data/商業周刊商周.com/2026-11-21_和大家分享我們同事做的城市生存動物心理測驗.md"
+    "data/商業周刊商周.com/2026-11-23_股市震盪手上的股票該停損還是趁低點加碼.md",
+    "data/商業周刊商周.com/2026-11-23_把效率留給城市把餘裕還給生活.md",
+    "data/商業周刊商周.com/2026-11-23_年薪250萬元做過外商財務長學歷和資歷都好離開公司後他再找到的工作薪水卻只剩一半.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

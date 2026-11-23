@@ -4,22 +4,22 @@ title: "📌輝達上週交出亮眼的財報，資料中心營收年增 110%，
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid036exUfCBpVqqWYAAUDUDc4UeBiofNcGMHo4G6Q8t5boBVkoju6wLNf5WuLnfWwdgml"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid0237KHk2ZTeYymTpTyfqcLA1xqtr22SB5zERkJqjiq7DqPsGhssnQAhcZzJW9a1nuDl"
 creation_time_utc: "2026-11-22T02:02:01+00:00"
-fetched_at_utc: "2026-11-22T07:56:26.355081+00:00"
+fetched_at_utc: "2026-11-23T08:54:05.475908+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/923011071_1631576082345866_3810821421134599045_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wHI_Pkr1t1UQ7kNvwFbdkS3&_nc_oc=Ado1vTyTcJNFYE_HdzVDaNrT8_ncgeHb4wXCKWC8FsLmNE5uPH2dP5juCzXF4GYtVlc&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=AYsZbZ_knfzFDBy6oCdn3A&_nc_ss=79120&oh=00_AQSC1nQ4Ni7It22X5760SP5RIBATqyO7PcWql6tCt3lXsw&oe=6B087E8F"
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwMzZleFVmQ0JwVnFxV1lBQVVEVURjNFVlQmlvZk5jR01IbzRHNlE4dDVib0JWa29qdTZ3TE5mNVd1TG5mV3dkZ21s"
+image_url: "https://scontent-dfw5-3.xx.fbcdn.net/v/t39.30808-6/923011071_1631576082345866_3810821421134599045_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wHI_Pkr1t1UQ7kNvwG_1Hui&_nc_oc=Adpj9nA8vO9OtCW2ztsbqphTrFsdgGePGmhAN9lsFTqN2eBgUYe0EtLmYJwUDZde08M&_nc_zt=23&_nc_ht=scontent-dfw5-3.xx&_nc_gid=JeNeVMAk4IRZqTBbgY_3Zw&_nc_ss=79120&oh=00_AQTAH-fdWM32ZoJHzLiL5zbTCplrj-zdNMxwO9uUgjS_Zg&oe=6B09D00F"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwMjM3S0hrMlpUZVl5bVRwVHlmcWNMQTF4cXRyMjJTQjV6RVJrSnFqaXE3RHFQc0doc3NuUUFoY1p6Slc5YTFudURs"
 page_canonical_url: ""
 ---
 
 # 📌輝達上週交出亮眼的財報，資料中心營收年增 110%，新一代 Vera Rubin 也已開始出貨，但股價仍在管理層動盪下走低。另一方面，Anthropic 正式掛牌上市，但也未能帶動市場信心，美股大盤全面跌入修正區間。這週輪到伺服器廠商公布業績，市場要看算力需求有多快能轉成營收與獲利。
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid036exUfCBpVqqWYAAUDUDc4UeBiofNcGMHo4G6Q8t5boBVkoju6wLNf5WuLnfWwdgml
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid0237KHk2ZTeYymTpTyfqcLA1xqtr22SB5zERkJqjiq7DqPsGhssnQAhcZzJW9a1nuDl
 
-![📌輝達上週交出亮眼的財報，資料中心營收年增 110%，新一代 Vera Rubin 也已開始出貨，但股價仍在管理層動盪下走低。另一方面，Anthropic 正式掛牌上市，但也未能帶動市場信心，美股大盤全面跌入修正區間。這週輪到伺服器廠商公布業績，市場要看算力需求有多快能轉成營收與獲利。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/923011071_1631576082345866_3810821421134599045_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wHI_Pkr1t1UQ7kNvwFbdkS3&_nc_oc=Ado1vTyTcJNFYE_HdzVDaNrT8_ncgeHb4wXCKWC8FsLmNE5uPH2dP5juCzXF4GYtVlc&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=AYsZbZ_knfzFDBy6oCdn3A&_nc_ss=79120&oh=00_AQSC1nQ4Ni7It22X5760SP5RIBATqyO7PcWql6tCt3lXsw&oe=6B087E8F)
+![📌輝達上週交出亮眼的財報，資料中心營收年增 110%，新一代 Vera Rubin 也已開始出貨，但股價仍在管理層動盪下走低。另一方面，Anthropic 正式掛牌上市，但也未能帶動市場信心，美股大盤全面跌入修正區間。這週輪到伺服器廠商公布業績，市場要看算力需求有多快能轉成營收與獲利。](https://scontent-dfw5-3.xx.fbcdn.net/v/t39.30808-6/923011071_1631576082345866_3810821421134599045_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wHI_Pkr1t1UQ7kNvwG_1Hui&_nc_oc=Adpj9nA8vO9OtCW2ztsbqphTrFsdgGePGmhAN9lsFTqN2eBgUYe0EtLmYJwUDZde08M&_nc_zt=23&_nc_ht=scontent-dfw5-3.xx&_nc_gid=JeNeVMAk4IRZqTBbgY_3Zw&_nc_ss=79120&oh=00_AQTAH-fdWM32ZoJHzLiL5zbTCplrj-zdNMxwO9uUgjS_Zg&oe=6B09D00F)
 📌輝達上週交出亮眼的財報，資料中心營收年增 110%，新一代 Vera Rubin 也已開始出貨，但股價仍在管理層動盪下走低。另一方面，Anthropic 正式掛牌上市，但也未能帶動市場信心，美股大盤全面跌入修正區間。這週輪到伺服器廠商公布業績，市場要看算力需求有多快能轉成營收與獲利。
 
 戴爾（#DELL）、慧與科技（#HPE）都將公布財報，主要關注的是 AI 訂單能否順利交貨，以及出貨放量後，基礎設施業務的利潤率是否能撐住，若積壓訂單續增但交付延期，或者利潤率依然沒有起色，財測上修的空間可能就很有限。

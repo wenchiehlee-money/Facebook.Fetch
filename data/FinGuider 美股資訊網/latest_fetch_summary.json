@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-11-22T07:56:26.355081+00:00",
+  "fetched_at_utc": "2026-11-23T08:54:05.475908+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1631577579012383"
+    "1633360752167399",
+    "1633256415511166"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-11-22_輝達上週交出亮眼的財報資料中心營收年增-110新一代-Vera-Rubin-也已開始出貨但股價仍在管理層動盪下走低另一方面Anthropic-正式掛牌上市但也未.md"
+    "data/FinGuider 美股資訊網/2026-11-23_過去幾年美股上漲有一股重要推力來自企業持續買回自家股票但現在資金結構正在改變.md",
+    "data/FinGuider 美股資訊網/2026-11-23_標普-500-部分科技股距離-52-週高點已跌逾-60.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

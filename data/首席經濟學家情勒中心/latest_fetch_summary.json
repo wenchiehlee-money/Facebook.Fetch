@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61589343187385",
   "final_url": "https://www.facebook.com/profile.php?id=61589343187385",
-  "fetched_at_utc": "2026-11-22T07:56:57.626073+00:00",
+  "fetched_at_utc": "2026-11-23T08:54:38.932906+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "122135797383311439",
-    "122135718267311439"
+    "122135888229311439"
   ],
   "new_markdown_files": [
-    "data/首席經濟學家情勒中心/2026-11-22_首席的市場偏執.md",
-    "data/首席經濟學家情勒中心/2026-11-21_我今天花了一整天改投影片因為還是不滿意第六版應該會是最接近滿意的投影片了.md"
+    "data/首席經濟學家情勒中心/2026-11-23_首席的市場偏執.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/首席經濟學家情勒中心",

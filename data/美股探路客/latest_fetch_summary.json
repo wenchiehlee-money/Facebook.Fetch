@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-11-22T07:56:34.582636+00:00",
+  "fetched_at_utc": "2026-11-23T08:54:14.022256+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,17 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1583675677139697",
+    "1583297827177482",
+    "1583531973820734"
+  ],
+  "new_markdown_files": [
+    "data/美股探路客/2026-11-23_快笑死JPMorganCiti-Bank還資助了MegaSpeed打造東南亞的數據中心.md",
+    "data/美股探路客/2026-11-23_這波AI硬體科技股為什麼殺這麼狠上週美銀公布11月基金經理調查52認為6個月內至少一家hyperscaler將下修資本支出較10月調查的30大幅攀升.md",
+    "data/美股探路客/2026-11-23_記得下次GTA-7發行前先把股票先賣一賣.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",
   "notes": [

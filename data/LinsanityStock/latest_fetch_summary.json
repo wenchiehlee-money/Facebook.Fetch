@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-11-22T07:57:09.864406+00:00",
+  "fetched_at_utc": "2026-11-23T08:54:50.764641+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1683325033837997"
+  ],
+  "new_markdown_files": [
+    "data/LinsanityStock/2026-11-23_美股那斯達克100期指盤後先行反彈按照過往歷史經驗以標普500指數為例從2011年以來連續6天下跌之後一周後平均反彈2.7台股這兩天在限空令與融資擔保維持率擬由.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",
   "notes": [

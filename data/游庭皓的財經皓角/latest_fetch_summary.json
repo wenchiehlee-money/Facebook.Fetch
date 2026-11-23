@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-11-22T07:56:21.481682+00:00",
+  "fetched_at_utc": "2026-11-23T08:53:59.177040+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,10 +9,18 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "checked_post_count": 3,
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1177760881354159",
+    "1217563484168336",
+    "1217387977519220"
+  ],
+  "new_markdown_files": [
+    "data/游庭皓的財經皓角/2026-11-23_20261123一融資斷頭大逃殺-政府全面救市誰能解決-流動性問題早晨財經速解讀.md",
+    "data/游庭皓的財經皓角/2026-11-22_中央廣發英雄帖號召天下群雄台股保衛戰上演關鍵一週行政院長卓榮泰將於週一下午3時親自召集金融科技與工商產業界重量級人物共商護市大計.md",
+    "data/游庭皓的財經皓角/2026-11-22_台股這波崩跌速度已經創下美國掛牌台灣ETF的歷史紀錄.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",
   "notes": [
@@ -20,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

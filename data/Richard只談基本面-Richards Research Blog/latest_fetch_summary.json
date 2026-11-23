@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-11-22T07:56:45.014337+00:00",
+  "fetched_at_utc": "2026-11-23T08:54:26.027852+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,17 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1678603840622982",
+    "1678597837290249",
+    "1677823107367722"
+  ],
+  "new_markdown_files": [
+    "data/Richard只談基本面-Richards Research Blog/2026-11-23_美中政府難得意見一致阻擋中國企業使用美國AI晶片含進口及租用企業1下調CAPEX-2加快加大使用中製AI晶片7nm耗電大成本高減少獲利但可以應付.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-11-23_月之暗面Moonshot-AI已取消一項價值-1.5-億美元透過印尼數據中心使用英偉達-Blackwell-晶片的協議.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-11-22_今年9月30日新思科技与OpenAI宣布建立多年期战略合作共同开发芯片设计专用模型GPT-Synopsys将OpenAI的前沿AI能力与新思科技的EDA工具深度.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",
   "notes": [

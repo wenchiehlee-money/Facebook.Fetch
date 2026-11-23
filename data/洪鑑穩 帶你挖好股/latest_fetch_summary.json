@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/iqvalue",
   "final_url": "https://www.facebook.com/iqvalue",
-  "fetched_at_utc": "2026-11-22T07:57:04.002841+00:00",
+  "fetched_at_utc": "2026-11-23T08:54:45.430658+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,17 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1608640724611038",
+    "1608540787954365",
+    "1608302037978240"
+  ],
+  "new_markdown_files": [
+    "data/洪鑑穩 帶你挖好股/2026-11-22_技術性熊市-VS-衰退行熊市.md",
+    "data/洪鑑穩 帶你挖好股/2026-11-22_台股明天大跌1500點.md",
+    "data/洪鑑穩 帶你挖好股/2026-11-22_銅價暴跌預告AI資金退潮訊號.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/洪鑑穩 帶你挖好股",
   "notes": [

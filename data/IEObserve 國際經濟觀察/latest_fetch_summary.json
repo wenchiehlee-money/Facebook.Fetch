@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-11-22T07:56:47.806113+00:00",
+  "fetched_at_utc": "2026-11-23T08:54:28.557608+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1672468934237728",
-    "1672545697563385",
-    "1672440987573856"
+    "1673532937464661",
+    "1673463144138307",
+    "1673337144150907"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-11-22_老馬也說資金短缺將成為AI算力建設的重要瓶頸之一.md",
-    "data/IEObserve 國際經濟觀察/2026-11-22_科技工作講-Tech-Job-N-Talk-這集有聽到一些員工的心聲其實對黃仁勳和經營Nvidia這件事會有更全面的了解.md",
-    "data/IEObserve 國際經濟觀察/2026-11-22_美國超音速飛機公司新創Boom自己造出了引擎而且因為機用引擎渦輪和天然氣發電機渦輪基本上是相通的理論上產品線是能拿來給資料中心用於是順勢開發另一個產品線名為-S.md"
+    "data/IEObserve 國際經濟觀察/2026-11-23_川普喊話Nvidia董事會重新聘請老黃.md",
+    "data/IEObserve 國際經濟觀察/2026-11-23_韓國人反彈無力先下去了.md",
+    "data/IEObserve 國際經濟觀察/2026-11-22_你以為這是個網路梗結果貝森特真的這麼說.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

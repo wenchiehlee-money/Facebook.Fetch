@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-11-22T07:56:31.814028+00:00",
+  "fetched_at_utc": "2026-11-23T08:54:11.382865+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1618024423696974",
-    "1616956917137058"
+    "1619206450245438",
+    "1619041196928630",
+    "1618114383687978"
   ],
   "new_markdown_files": [
-    "data/股魚/2026-11-22_2026.11.22_國安基金進場第三度禁空令發布後續佈局重點與執行邏輯.md",
-    "data/股魚/2026-11-21_市場情緒監測ETF回檔雷達新增-優化UI設計與定期定額加碼訊號浮現自動回測.md"
+    "data/股魚/2026-11-23_這是主管機關為融資戶改遊戲規則其實我是覺得若是讓融資戶有多一點緩衝空間處理部位避免大規模斷頭也不是甚麼壞事但這是把風險轉嫁給了券商等於是有人幫融資戶多扛一點風險.md",
+    "data/股魚/2026-11-23_台股上漲1000多點對於舒緩明後天的潛在斷頭潮賣壓有很大的幫助.md",
+    "data/股魚/2026-11-22_全面禁止放空的手段都拿出來用了下星期要是宣佈漲跌幅減半也不會太意外了.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",
