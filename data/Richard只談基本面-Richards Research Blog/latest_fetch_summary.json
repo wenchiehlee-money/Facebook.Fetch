@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-11-23T08:54:26.027852+00:00",
+  "fetched_at_utc": "2026-11-24T10:50:04.935096+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1678603840622982",
-    "1678597837290249",
-    "1677823107367722"
+    "1679395017210531",
+    "1678872330596133",
+    "1678646783952021"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-11-23_美中政府難得意見一致阻擋中國企業使用美國AI晶片含進口及租用企業1下調CAPEX-2加快加大使用中製AI晶片7nm耗電大成本高減少獲利但可以應付.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-11-23_月之暗面Moonshot-AI已取消一項價值-1.5-億美元透過印尼數據中心使用英偉達-Blackwell-晶片的協議.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-11-22_今年9月30日新思科技与OpenAI宣布建立多年期战略合作共同开发芯片设计专用模型GPT-Synopsys将OpenAI的前沿AI能力与新思科技的EDA工具深度.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-11-24_近日的幾個確定的事情帶來的不確定性對全體AI產業以及對Nvidia在老黃回鍋後整理如下.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-11-23_短短幾天老黃從員工第一號變成員工最後一號全公司最菜.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-11-23_根據彭博社報道其中TikTok-母公司位元組跳動已與該地區最大的兩家資料中心借用商DayOne-資料中心和-Bridge-資料中心合作以確保運算能力.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-11-23T08:54:05.475908+00:00",
+  "fetched_at_utc": "2026-11-24T10:49:46.062929+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1633360752167399",
-    "1633256415511166"
+    "1634760358694105",
+    "1634607182042756",
+    "1634504855386322"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-11-23_過去幾年美股上漲有一股重要推力來自企業持續買回自家股票但現在資金結構正在改變.md",
-    "data/FinGuider 美股資訊網/2026-11-23_標普-500-部分科技股距離-52-週高點已跌逾-60.md"
+    "data/FinGuider 美股資訊網/2026-11-24_資安最大併購案誕生CrowdStrikeCRWD-收購-ZscalerZS提前公布優於預期財報巨頭聯姻背後市場怎麼看.md",
+    "data/FinGuider 美股資訊網/2026-11-24_Michael-Burry-完美躲過輝達暴漲的軋空行情.md",
+    "data/FinGuider 美股資訊網/2026-11-24_今年以來已漲超過-101廚房家電黑馬打進美股核心殿堂.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

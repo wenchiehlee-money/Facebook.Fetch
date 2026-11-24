@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/GreenHornFans",
   "final_url": "https://www.facebook.com/GreenHornFans",
-  "fetched_at_utc": "2026-11-23T08:54:08.300661+00:00",
+  "fetched_at_utc": "2026-11-24T10:49:48.754206+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1570581558208572"
+    "1571613148105413"
   ],
   "new_markdown_files": [
-    "data/綠角財經筆記/2026-11-22_近期的股市下跌風險浮現剛好可以幫助投資人更正一些近年常見的表面看似成理實為錯誤觀念的投資想法.md"
+    "data/綠角財經筆記/2026-11-23_全球股市百年間的成長反應同時期經濟成長的現象被許多投資人過度引申為只要能知道短期間經濟是成長或衰退就能預測股市走勢成長將帶來上漲衰退則會下跌.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/綠角財經筆記",

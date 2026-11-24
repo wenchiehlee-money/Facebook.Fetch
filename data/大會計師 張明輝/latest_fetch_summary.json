@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/dextermchang",
   "final_url": "https://www.facebook.com/dextermchang",
-  "fetched_at_utc": "2026-11-23T08:53:56.209238+00:00",
+  "fetched_at_utc": "2026-11-24T10:49:37.760384+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122148110313207208"
+    "122148209955207208"
   ],
   "new_markdown_files": [
-    "data/大會計師 張明輝/2026-11-23_代工毛利率這麼低鴻海-還是有辦法把它擠上去.md"
+    "data/大會計師 張明輝/2026-11-24_記憶體還在漲糧商毛利率-卻先掉了第四季再跌下一個下修的可能就是EPS.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/大會計師 張明輝",

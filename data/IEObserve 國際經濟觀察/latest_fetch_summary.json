@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-11-23T08:54:28.557608+00:00",
+  "fetched_at_utc": "2026-11-24T10:50:07.877843+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1673532937464661",
-    "1673463144138307",
-    "1673337144150907"
+    "1674858290665459",
+    "1674713790679909",
+    "1674616237356331"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-11-23_川普喊話Nvidia董事會重新聘請老黃.md",
-    "data/IEObserve 國際經濟觀察/2026-11-23_韓國人反彈無力先下去了.md",
-    "data/IEObserve 國際經濟觀察/2026-11-22_你以為這是個網路梗結果貝森特真的這麼說.md"
+    "data/IEObserve 國際經濟觀察/2026-11-24_很多人在教你怎麼賺錢卻很少人跟你聊怎麼花錢.md",
+    "data/IEObserve 國際經濟觀察/2026-11-24_韓國人跟老黃不夠鐵.md",
+    "data/IEObserve 國際經濟觀察/2026-11-24_其實你可以看到一大批民主黨人和自由派媒體一陣如喪考妣覺得美國道德淪喪有錢人做壞事都沒事.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

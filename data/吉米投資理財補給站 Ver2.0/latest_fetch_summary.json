@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-11-23T08:54:30.946415+00:00",
+  "fetched_at_utc": "2026-11-24T10:50:10.579554+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122239065572502956",
-    "122239064588502956",
-    "122239058684502956"
+    "122239226732502956",
+    "122239225790502956",
+    "122239202528502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-11-23_1126感恩節美股休市.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-11-23_不是我們不站在光裡是光自己就光站在那裡.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-11-23_繼續補不然還能怎麼樣.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-11-24_市場認為--TSLA和SPCX-在-2028-年之前合併的可能性為-75.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-11-24_CRWD-已同意以全股票交易方式收購-ZS-交易金額為-439-億美元超過了谷歌以-320-億美元收購-Wiz-的交易成為史上規模最大的網路安全收購案Zscal.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-11-24_20261123值得記錄的一個美股交易日.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",

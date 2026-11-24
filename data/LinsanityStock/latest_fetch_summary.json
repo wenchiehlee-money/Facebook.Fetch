@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/LinsanityStock",
   "final_url": "https://www.facebook.com/LinsanityStock",
-  "fetched_at_utc": "2026-11-23T08:54:50.764641+00:00",
+  "fetched_at_utc": "2026-11-24T10:50:29.561905+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1683325033837997"
+    "1684802257023608",
+    "1684548163715684",
+    "1683987543771746"
   ],
   "new_markdown_files": [
-    "data/LinsanityStock/2026-11-23_美股那斯達克100期指盤後先行反彈按照過往歷史經驗以標普500指數為例從2011年以來連續6天下跌之後一周後平均反彈2.7台股這兩天在限空令與融資擔保維持率擬由.md"
+    "data/LinsanityStock/2026-11-24_為什麼黃仁勳的回歸Nvidia意義重大除了他在AI領域的創新與遠見之外根據歷史經驗不管是已經掛牌交易的公司還是由創投所支持的新創事業由創辦人領軍的公司其年化報酬.md",
+    "data/LinsanityStock/2026-11-24_短短3天之內從上禮拜的想賣但賣不掉到今天直接變成想買卻買不到這個盤也太刺激了.md",
+    "data/LinsanityStock/2026-11-23_見鬼了台指期夜盤漲停了大漲3665點.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/LinsanityStock",

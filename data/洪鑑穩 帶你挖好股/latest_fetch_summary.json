@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/iqvalue",
   "final_url": "https://www.facebook.com/iqvalue",
-  "fetched_at_utc": "2026-11-23T08:54:45.430658+00:00",
+  "fetched_at_utc": "2026-11-24T10:50:23.818984+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,17 +9,13 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1608640724611038",
-    "1608540787954365",
-    "1608302037978240"
+    "1610673821074395"
   ],
   "new_markdown_files": [
-    "data/洪鑑穩 帶你挖好股/2026-11-22_技術性熊市-VS-衰退行熊市.md",
-    "data/洪鑑穩 帶你挖好股/2026-11-22_台股明天大跌1500點.md",
-    "data/洪鑑穩 帶你挖好股/2026-11-22_銅價暴跌預告AI資金退潮訊號.md"
+    "data/洪鑑穩 帶你挖好股/2026-11-24_股市救了老黃.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/洪鑑穩 帶你挖好股",
@@ -28,6 +24,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 1 篇貼文。"
   ]
 }

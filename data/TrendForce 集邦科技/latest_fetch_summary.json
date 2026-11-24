@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-11-23T08:54:55.585079+00:00",
+  "fetched_at_utc": "2026-11-24T10:50:34.897469+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,17 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 3,
+  "new_post_ids": [
+    "1564366895713730",
+    "1564171022399984",
+    "1564116229072130"
+  ],
+  "new_markdown_files": [
+    "data/TrendForce 集邦科技/2026-11-24_2026-年第四季-LED顯示屏-成本數據出爐因-AI-運算與高速載板佔據產能且擴產週期長大廠收緊其他板材配貨拉動-4-層板-PCB-季增-10-15Trend.md",
+    "data/TrendForce 集邦科技/2026-11-24_輝達與韓國三星電機簽基板供應合約合作範圍擴大至-MLCC.md",
+    "data/TrendForce 集邦科技/2026-11-24_美銀稱NAND現貨價近一個月大跌20記憶體漲勢恐現裂痕.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",
   "notes": [
