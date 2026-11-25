@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-11-24T10:50:10.579554+00:00",
+  "fetched_at_utc": "2026-11-25T09:45:25.301065+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,17 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 2,
+  "new_post_count": 2,
   "new_post_ids": [
-    "122239226732502956",
-    "122239225790502956",
-    "122239202528502956"
+    "122239323908502956",
+    "122239322672502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-11-24_市場認為--TSLA和SPCX-在-2028-年之前合併的可能性為-75.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-11-24_CRWD-已同意以全股票交易方式收購-ZS-交易金額為-439-億美元超過了谷歌以-320-億美元收購-Wiz-的交易成為史上規模最大的網路安全收購案Zscal.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-11-24_20261123值得記錄的一個美股交易日.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-11-25_人生最殘酷的不是你從高處跌下來而是跌下來之後才發現有些人從來沒有把你當朋友只是把你當成一種資源.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-11-25_從1993年開始每月投資100美元於亞洲主要市場.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",
@@ -28,6 +26,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 1 篇貼文。"
   ]
 }

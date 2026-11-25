@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-11-24T10:50:12.714727+00:00",
+  "fetched_at_utc": "2026-11-25T09:45:28.372598+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,12 +12,12 @@
   "checked_post_count": 2,
   "new_post_count": 2,
   "new_post_ids": [
-    "122211754910486922",
-    "122211753620486922"
+    "122211901412486922",
+    "122211899600486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-11-24_一問一答.md",
-    "data/美股老司機 3.0/2026-11-24_沒有人能精準抓到最低點.md"
+    "data/美股老司機 3.0/2026-11-25_今晚.md",
+    "data/美股老司機 3.0/2026-11-25_蛛絲馬跡.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",

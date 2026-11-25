@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61589343187385",
   "final_url": "https://www.facebook.com/profile.php?id=61589343187385",
-  "fetched_at_utc": "2026-11-24T10:50:18.355149+00:00",
+  "fetched_at_utc": "2026-11-25T09:45:36.193945+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,17 +9,13 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "122136265317311439",
-    "122136228483311439",
-    "122136225357311439"
+    "122136472959311439"
   ],
   "new_markdown_files": [
-    "data/首席經濟學家情勒中心/2026-11-23_初步應該做小幅度的修訂.md",
-    "data/首席經濟學家情勒中心/2026-11-23_結果回頭看自己第一個判斷才是對的.....不過我也不覺得股市這樣跌我撐得住不改看法就是了.md",
-    "data/首席經濟學家情勒中心/2026-11-23_我的能力有限分析師沒辦法料到輝達這樣玩法師才有辦法.md"
+    "data/首席經濟學家情勒中心/2026-11-25_這個關稅其實就是之前法院判決川普無權課關稅之後的替代方案使用兩個-301-條款來取代原來談好的對等關稅.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/首席經濟學家情勒中心",
@@ -28,6 +24,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 1 篇貼文。"
   ]
 }

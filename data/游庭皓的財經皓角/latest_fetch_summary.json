@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-11-24T10:49:40.893783+00:00",
+  "fetched_at_utc": "2026-11-25T09:44:45.744954+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,13 +9,17 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 1,
-  "new_post_count": 1,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1937228550582431"
+    "1220445737213444",
+    "1220443877213630",
+    "1220442773880407"
   ],
   "new_markdown_files": [
-    "data/游庭皓的財經皓角/2026-11-24_20261124二黃仁勳閃電回鍋輝達狂飆31-現在買股-還來得及嗎早晨財經速解讀.md"
+    "data/游庭皓的財經皓角/2026-11-25_日本晶片夢碎根據彭博社報導日本政府寄予厚望的半導體新創Rapidus先進製程開發遭遇重大瓶頸Rapidus原定於2026年夏季展示可正常運作的靜態隨機存取記憶體.md",
+    "data/游庭皓的財經皓角/2026-11-25_全球電動車轉型速度出現明顯分化截至2026年挪威純電動車已占新車銷售近100中國純電動車與插電式油電車合計市占率接近70英國與法國則透過純電動車及各類油電混合車.md",
+    "data/游庭皓的財經皓角/2026-11-25_南韓AI作弊問題愈演愈烈甚至引發教育部長下台72歲教育部長崔教振坦言受限於自己的年齡無法百分之百辨識利用AI進行的考試作弊相關言論引發社會強烈批評總統李在明在他.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",
@@ -24,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 2 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-11-24T10:49:43.328930+00:00",
+  "fetched_at_utc": "2026-11-25T09:44:49.448647+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1448396977403943",
-    "1447490547494586",
-    "1447379717505669"
+    "1449449103965397"
   ],
   "new_markdown_files": [
-    "data/行銷資料科學/2026-11-24_AI週報5-個-AI-突破DeepSeek-能做遊戲機器人竟然會打雙打.md",
-    "data/行銷資料科學/2026-11-23_無法請假打遊戲.md",
-    "data/行銷資料科學/2026-11-23_3-步驟直接帶走別人的-AI-技能.md"
+    "data/行銷資料科學/2026-11-25_從傳統組織轉型為AI-賦能組織.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",

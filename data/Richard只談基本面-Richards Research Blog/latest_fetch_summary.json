@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-11-24T10:50:04.935096+00:00",
+  "fetched_at_utc": "2026-11-25T09:45:18.597329+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1679395017210531",
-    "1678872330596133",
-    "1678646783952021"
+    "1680492123767487",
+    "1680473620436004",
+    "1679997607150272"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-11-24_近日的幾個確定的事情帶來的不確定性對全體AI產業以及對Nvidia在老黃回鍋後整理如下.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-11-23_短短幾天老黃從員工第一號變成員工最後一號全公司最菜.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-11-23_根據彭博社報道其中TikTok-母公司位元組跳動已與該地區最大的兩家資料中心借用商DayOne-資料中心和-Bridge-資料中心合作以確保運算能力.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-11-25_AI-能讀懂程式碼但它能理解晶片嗎.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-11-25_Why-AI-Struggles-To-Reuse-Chip-Designs-AI-仍無法自動化.md",
+    "data/Richard只談基本面-Richards Research Blog/2026-11-24_有些事情只要長期觀察就會看到一些有趣的地方例如最近世界各大媒體熱炒的禁止中國公司遠端存取海外AI算力的-漏洞其實這不是什麼漏洞這幾年都有媒體報導過我們這個小小粉.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",

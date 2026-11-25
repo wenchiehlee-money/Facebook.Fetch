@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-11-24T10:49:54.757010+00:00",
+  "fetched_at_utc": "2026-11-25T09:45:05.104268+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,15 +9,15 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
+  "checked_post_count": 3,
   "new_post_count": 2,
   "new_post_ids": [
-    "1584823273691604",
-    "1584793867027878"
+    "1585904293583502",
+    "1585299356977329"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-11-24_黃仁勳的盟友-vs-批評的政治人物.md",
-    "data/美股探路客/2026-11-24_Jensanity-台灣加權指數漲停版華爾街各大投行也紛紛在黃仁勳回歸的報告標題上發揮創意.md"
+    "data/美股探路客/2026-11-25_黃仁勳回任AI央行行長值得慶賀但解決不了-美股當前面臨的兩大問題Fed緊縮對抗通膨的立場過半數機構預測AI資本支出提前在2027見頂.md",
+    "data/美股探路客/2026-11-24_黃仁勳回歸難改變美國AI數據中心因政策限制放緩的趨勢投資應該往五層蛋糕的上層佈局.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",
@@ -26,7 +26,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

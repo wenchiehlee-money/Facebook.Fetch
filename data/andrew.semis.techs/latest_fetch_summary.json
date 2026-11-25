@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-11-24T10:50:26.525343+00:00",
+  "fetched_at_utc": "2026-11-25T09:45:47.240115+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "1696753568474782"
-  ],
-  "new_markdown_files": [
-    "data/andrew.semis.techs/2026-11-23_兩天前說如果教主低調回歸全球科技及半導體會不會V-轉-結果被人在臉書罵作為分析師不應該意圖影響股價老實說這太看得起我了我現在已退休沒有大型外資券商平台可以出報告.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
   "notes": [

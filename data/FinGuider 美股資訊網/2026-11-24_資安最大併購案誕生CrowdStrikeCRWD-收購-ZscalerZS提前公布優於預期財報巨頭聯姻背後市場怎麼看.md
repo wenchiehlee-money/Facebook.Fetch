@@ -4,22 +4,22 @@ title: "🔥資安最大併購案誕生！CrowdStrike（#CRWD） 收購 Zscaler�
 page_title: ""
 requested_url: "https://www.facebook.com/FinGuider"
 final_url: "https://www.facebook.com/FinGuider"
-post_url: "https://www.facebook.com/FinGuider/posts/pfbid0vUEzqteKu7Pdn69sFariAA4dJm1FKL6zGCTH2oK1TJdEKAM3rTsFFsDAz8u37XXQl"
+post_url: "https://www.facebook.com/FinGuider/posts/pfbid02yqjBTuzwvmnZmCDa7ApgDbbQaBPzuozSHMjE9qwtF614a8KGHeF13x8TctgvifSWl"
 creation_time_utc: "2026-11-24T09:58:06+00:00"
-fetched_at_utc: "2026-11-24T10:49:46.062929+00:00"
+fetched_at_utc: "2026-11-25T09:44:53.087057+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/920640622_1634730218697119_1754767166158361335_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jTZS5rajDsQQ7kNvwE5Gvoo&_nc_oc=AdoA7oHpe3-ZYqN3Cl7C2ZufGmBFRIG6OpV_hNzQJGrjvJh7UMBtGD15W4JCb-N8RtQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=bwoZq_X7xt3i2oeCcWxo4Q&_nc_ss=7932e&oh=00_AQSFXIyvc_uqFmzX42IhEEAPXTxAKf5HXCINdIYoImH1gQ&oe=6B0B4386"
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwdlVFenF0ZUt1N1BkbjY5c0ZhcmlBQTRkSm0xRktMNnpHQ1RIMm9LMVRKZEVLQU0zclRzRkZzREF6OHUzN1hYUWw="
+image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/920640622_1634730218697119_1754767166158361335_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jTZS5rajDsQQ7kNvwGT20qj&_nc_oc=AdrBhVQyVRYR1nTUmKvtFS4JRQrrgbWTJflBXgczys8Zi_m0HuQFHvSfVRtCdWzDvI8&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=EVw_RxmMcxWVx66B7QyS1A&_nc_ss=7932e&oh=00_AQTVKXoHmgkb0kSzuwPduYV7J8DgxLz-i28QTJkCgw8X-Q&oe=6B0C9506"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwMnlxakJUdXp3dm1uWm1DRGE3QXBnRGJiUWFCUHp1b3pTSE1qRTlxd3RGNjE0YThLR0hlRjEzeDhUY3RndmlmU1ds"
 page_canonical_url: ""
 ---
 
 # 🔥資安最大併購案誕生！CrowdStrike（#CRWD） 收購 Zscaler（#ZS），提前公布優於預期財報！巨頭聯姻背後市場怎麼看？
 
-原文連結: https://www.facebook.com/FinGuider/posts/pfbid0vUEzqteKu7Pdn69sFariAA4dJm1FKL6zGCTH2oK1TJdEKAM3rTsFFsDAz8u37XXQl
+原文連結: https://www.facebook.com/FinGuider/posts/pfbid02yqjBTuzwvmnZmCDa7ApgDbbQaBPzuozSHMjE9qwtF614a8KGHeF13x8TctgvifSWl
 
-![🔥資安最大併購案誕生！CrowdStrike（#CRWD） 收購 Zscaler（#ZS），提前公布優於預期財報！巨頭聯姻背後市場怎麼看？](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/920640622_1634730218697119_1754767166158361335_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jTZS5rajDsQQ7kNvwE5Gvoo&_nc_oc=AdoA7oHpe3-ZYqN3Cl7C2ZufGmBFRIG6OpV_hNzQJGrjvJh7UMBtGD15W4JCb-N8RtQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=bwoZq_X7xt3i2oeCcWxo4Q&_nc_ss=7932e&oh=00_AQSFXIyvc_uqFmzX42IhEEAPXTxAKf5HXCINdIYoImH1gQ&oe=6B0B4386)
+![🔥資安最大併購案誕生！CrowdStrike（#CRWD） 收購 Zscaler（#ZS），提前公布優於預期財報！巨頭聯姻背後市場怎麼看？](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/920640622_1634730218697119_1754767166158361335_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jTZS5rajDsQQ7kNvwGT20qj&_nc_oc=AdrBhVQyVRYR1nTUmKvtFS4JRQrrgbWTJflBXgczys8Zi_m0HuQFHvSfVRtCdWzDvI8&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=EVw_RxmMcxWVx66B7QyS1A&_nc_ss=7932e&oh=00_AQTVKXoHmgkb0kSzuwPduYV7J8DgxLz-i28QTJkCgw8X-Q&oe=6B0C9506)
 🔥資安最大併購案誕生！CrowdStrike（#CRWD） 收購 Zscaler（#ZS），提前公布優於預期財報！巨頭聯姻背後市場怎麼看？
 ​
 💸 世紀併購案：

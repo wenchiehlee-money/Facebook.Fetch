@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-11-24T10:50:32.374002+00:00",
+  "fetched_at_utc": "2026-11-25T09:45:55.260800+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1583937697101774",
-    "1583889580439919",
-    "1583844297111114"
+    "1585048303657380",
+    "1584946643667546",
+    "1584672953694915"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-11-24_我們必須保護自己的天才.md",
-    "data/商業周刊商周.com/2026-11-24_每天喝的咖啡怎麼越來越不香了.md",
-    "data/商業周刊商周.com/2026-11-24_稅務不只合規更是企業決策力.md"
+    "data/商業周刊商周.com/2026-11-25_我經歷過最艱難的一場會談是和我太太的談話.md",
+    "data/商業周刊商周.com/2026-11-25_2025年全聯賣出超過1200萬個熱便當平均每天超過3.2萬個旗下美味堂近4年營收累計成長約60銷售量與回購率都有雙位數成長.md",
+    "data/商業周刊商周.com/2026-11-25_從醫美先鋒到IPO華冠獎得主黃千容領航沃醫學走向國際.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",
