@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-11-25T09:44:53.087057+00:00",
+  "fetched_at_utc": "2026-11-26T09:22:57.737781+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1635959451907529",
-    "1635466018623539"
+    "1637187051784769",
+    "1636950941808380",
+    "1636846445152163"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-11-25_美銀-11-月-FMS科技股超配大降基金經理人卻沒轉向現金.md",
-    "data/FinGuider 美股資訊網/2026-11-24_戴爾DELL盤後公布了-Q3-財報營收年增-103-至-549-億美元遠高於市場預期的-493-億Non-GAAP-EPS-報-9.45-美元輕鬆擊敗了市場共識.md"
+    "data/FinGuider 美股資訊網/2026-11-26_AI-金童-Leopold-Aschenbrenner-在投資人信中表示旗下基金-Situational-Awareness-在今年夏季因高槓桿押注-AI-而表.md",
+    "data/FinGuider 美股資訊網/2026-11-26_AI-算力市場出現警訊供需反轉還是價格正常化.md",
+    "data/FinGuider 美股資訊網/2026-11-26_馬斯克和-SpaceX-將捐贈川普帳戶-178-億.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

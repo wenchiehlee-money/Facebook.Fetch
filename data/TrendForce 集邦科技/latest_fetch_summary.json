@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/TrendForce.tw",
   "final_url": "https://www.facebook.com/TrendForce.tw",
-  "fetched_at_utc": "2026-11-25T09:45:59.108373+00:00",
+  "fetched_at_utc": "2026-11-26T09:24:13.402812+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1565495878934165",
-    "1565489018934851",
-    "1565464322270654"
+    "1566626108821142"
   ],
   "new_markdown_files": [
-    "data/TrendForce 集邦科技/2026-11-25_中系-CSP-下修-2027-年記憶體訂單NAND-Flash-將進入價格下行循環同遭訂單下修DRAM將維持供不應求態勢TrendForce-分析-CSP-需求.md",
-    "data/TrendForce 集邦科技/2026-11-25_通路商與模組廠持續去化庫存512Gb-TLC晶圓現貨價跌3.18.md",
-    "data/TrendForce 集邦科技/2026-11-25_消費性需求疲弱DDR4DDR3價格承壓主流顆粒跌1.61.md"
+    "data/TrendForce 集邦科技/2026-11-26_純電強插混弱油電穩定2026-年第三季全球-新能源車-市場走勢明顯分化PHEV-表現轉弱但-BEV-銷量占比提升TrendForce-剖析各動力車型消長http.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/TrendForce 集邦科技",

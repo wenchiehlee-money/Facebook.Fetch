@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-11-25T09:45:01.487945+00:00",
+  "fetched_at_utc": "2026-11-26T09:23:06.454896+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1621325013366915",
-    "1621244510041632",
-    "1621228570043226"
+    "1622389663260450"
   ],
   "new_markdown_files": [
-    "data/股魚/2026-11-25_FX戰士久留美明天新集數上映101-開播以來台股累積下跌--12320點開播9集有8集當天收跌平均每集--1368點市場震盪大請勿融資投資.md",
-    "data/股魚/2026-11-25_近期隨著黃金價格修正投資人再度衝向銀樓上次出現這個新聞的時候是衝去賣黃金變現而這次則是顛倒的衝過去搶購黃金理由很簡單黃金在這陣子的價格修正後再度來到具備吸引力的.md",
-    "data/股魚/2026-11-25_很好昨天被巴逆逆盯上的-2412中華電-目前還沒被擊落依舊在逆勢中交出成績單要撐到收盤打破玄學的詛咒.md"
+    "data/股魚/2026-11-26_新一輪關稅戰我們獲得15-不疊加的待遇是很好的結果難怪開紅盤今天甚麼FX久留美上映必下跌的玄學滾到一邊去玩沙吧.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",

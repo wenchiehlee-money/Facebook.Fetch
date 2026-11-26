@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-11-25T09:45:22.301031+00:00",
+  "fetched_at_utc": "2026-11-26T09:23:31.157199+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1675839667233988",
-    "1675777023906919",
-    "1675635780587710"
+    "1676924250458863",
+    "1676803743804247",
+    "1676775790473709"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-11-25_老馬現在賣算力也不遺餘力稱讚自己的租戶.md",
-    "data/IEObserve 國際經濟觀察/2026-11-25_股價崩分析師開始趕進度下調記憶體公司目標價了.md",
-    "data/IEObserve 國際經濟觀察/2026-11-25_Anthropic-破發現在的市值是不到1.1兆而OpenAI最新一輪的估值是1.25兆.md"
+    "data/IEObserve 國際經濟觀察/2026-11-26_東南亞算力轉運站的生意做不下去了.md",
+    "data/IEObserve 國際經濟觀察/2026-11-26_美國最新301調查擬議關稅出爐台灣獲最低級別對台課15不疊加.md",
+    "data/IEObserve 國際經濟觀察/2026-11-26_這種猴市可以把多軍跟空軍都洗出一層皮來.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

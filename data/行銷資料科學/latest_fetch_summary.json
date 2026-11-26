@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-11-25T09:44:49.448647+00:00",
+  "fetched_at_utc": "2026-11-26T09:22:52.741932+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "1449449103965397"
+    "1449491983961109"
   ],
   "new_markdown_files": [
-    "data/行銷資料科學/2026-11-25_從傳統組織轉型為AI-賦能組織.md"
+    "data/行銷資料科學/2026-11-25_別再幫-AI-打工用-Codex-的-5-個方法.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",

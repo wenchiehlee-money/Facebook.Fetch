@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-11-25T09:45:18.597329+00:00",
+  "fetched_at_utc": "2026-11-26T09:23:27.028924+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,17 +9,13 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 3,
-  "new_post_count": 3,
+  "checked_post_count": 1,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1680492123767487",
-    "1680473620436004",
-    "1679997607150272"
+    "1681094340373932"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-11-25_AI-能讀懂程式碼但它能理解晶片嗎.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-11-25_Why-AI-Struggles-To-Reuse-Chip-Designs-AI-仍無法自動化.md",
-    "data/Richard只談基本面-Richards Research Blog/2026-11-24_有些事情只要長期觀察就會看到一些有趣的地方例如最近世界各大媒體熱炒的禁止中國公司遠端存取海外AI算力的-漏洞其實這不是什麼漏洞這幾年都有媒體報導過我們這個小小粉.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-11-25_DRAM產值-2026-345-2027產值下調到-69-持續供不應求但漲幅逐季縮減到2H27供需平衡.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",
@@ -28,6 +24,7 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
+    "已依中文至少 10 字規則排除 2 篇貼文。"
   ]
 }

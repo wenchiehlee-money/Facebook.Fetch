@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/dextermchang",
   "final_url": "https://www.facebook.com/dextermchang",
-  "fetched_at_utc": "2026-11-25T09:44:42.243630+00:00",
+  "fetched_at_utc": "2026-11-26T09:22:44.449319+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 3,
   "new_post_count": 1,
   "new_post_ids": [
-    "122148312777207208"
+    "122148424335207208"
   ],
   "new_markdown_files": [
-    "data/大會計師 張明輝/2026-11-25_鴻海-營收暴增2兆卻可能根本不用增資.md"
+    "data/大會計師 張明輝/2026-11-26_黃仁勳旋風回歸只解決輝達一個問題AI還有三道難關在後面.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/大會計師 張明輝",
