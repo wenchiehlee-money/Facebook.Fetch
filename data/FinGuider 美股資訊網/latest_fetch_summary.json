@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/FinGuider",
   "final_url": "https://www.facebook.com/FinGuider",
-  "fetched_at_utc": "2026-11-26T09:22:57.737781+00:00",
+  "fetched_at_utc": "2026-11-27T09:36:18.559099+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1637187051784769",
-    "1636950941808380",
-    "1636846445152163"
+    "1638340061669468",
+    "1638171485019659",
+    "1637491108421030"
   ],
   "new_markdown_files": [
-    "data/FinGuider 美股資訊網/2026-11-26_AI-金童-Leopold-Aschenbrenner-在投資人信中表示旗下基金-Situational-Awareness-在今年夏季因高槓桿押注-AI-而表.md",
-    "data/FinGuider 美股資訊網/2026-11-26_AI-算力市場出現警訊供需反轉還是價格正常化.md",
-    "data/FinGuider 美股資訊網/2026-11-26_馬斯克和-SpaceX-將捐贈川普帳戶-178-億.md"
+    "data/FinGuider 美股資訊網/2026-11-27_記憶體漲價正在改寫智慧型手機的競爭格局.md",
+    "data/FinGuider 美股資訊網/2026-11-27_美國第三季實質-GDP-季增年率從-3.4-上修至-4.3創下近三年最快的經濟成長速度遠超市場預期的-3.5川普卻在感恩節當天發文指控期中選舉前公布的經濟數據造.md",
+    "data/FinGuider 美股資訊網/2026-11-26_美國-AI-晶片新規上路一週輝達傳喊停東南亞伺服器出貨中國旗艦模型紛延後.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/FinGuider 美股資訊網",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61589343187385",
   "final_url": "https://www.facebook.com/profile.php?id=61589343187385",
-  "fetched_at_utc": "2026-11-26T09:23:47.154101+00:00",
+  "fetched_at_utc": "2026-11-27T09:37:06.591878+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,15 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
-  "new_post_ids": [
-    "122136721545311439",
-    "122136605463311439"
-  ],
-  "new_markdown_files": [
-    "data/首席經濟學家情勒中心/2026-11-26_報告出來了喔.md",
-    "data/首席經濟學家情勒中心/2026-11-25_方丈舞劍意在強國歐羅巴.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/首席經濟學家情勒中心",
   "notes": [

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573146584049",
   "final_url": "https://www.facebook.com/profile.php?id=61573146584049",
-  "fetched_at_utc": "2026-11-26T09:23:14.497611+00:00",
+  "fetched_at_utc": "2026-11-27T09:36:34.489054+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "122206950674771552",
-    "122206862636771552"
+    "122206979252771552"
   ],
   "new_markdown_files": [
-    "data/Fomo研究院/2026-11-26_兩日前黃仁勳回到了-NVIDIA-的-Santa-Clara-總部召開了他離開-11-天後的第一場全員大會.md",
-    "data/Fomo研究院/2026-11-25_黃仁勳回歸-NVIDIA很多人慶祝他贏了但你仔細想他贏回了什麼.md"
+    "data/Fomo研究院/2026-11-26_CNBC-報導GPU-二手交易平台上突然出現大量待售的-NVIDIA-晶片連數千張最先進的-B300-都在找買家.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Fomo研究院",

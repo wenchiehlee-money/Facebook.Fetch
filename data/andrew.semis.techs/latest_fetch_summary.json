@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/andrew.semis.techs",
   "final_url": "https://www.facebook.com/andrew.semis.techs",
-  "fetched_at_utc": "2026-11-26T09:24:00.305804+00:00",
+  "fetched_at_utc": "2026-11-27T09:37:18.400784+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1700112341472238"
+  ],
+  "new_markdown_files": [
+    "data/andrew.semis.techs/2026-11-27_當全球科技及半導體公司大回檔及台灣ABF載板廠股價腰斬韓國新聞ETNews-卻報導部分ABF載板設備交期拉長5倍到30個月這表示AI晶片用ABF載板及設備仍嚴重.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/andrew.semis.techs",
   "notes": [

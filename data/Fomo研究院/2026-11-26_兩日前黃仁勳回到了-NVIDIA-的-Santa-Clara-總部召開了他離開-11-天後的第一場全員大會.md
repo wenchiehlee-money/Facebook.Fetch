@@ -4,22 +4,22 @@ title: "兩日前，黃仁勳回到了 NVIDIA 的 Santa Clara 總部，召開了
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02UfJJ9AsYz6rrB7VArb9kbwLiNXzBTRDKbPPD5c3xaH9ud1LQawfv8mwA1v3zC62Vl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0QdhafMfzJwne5LynYYww2QyWicad2cvLWosBLsEQ35H7bWr2cbSzEFstuUsMg4gHl&id=61573146584049"
 creation_time_utc: "2026-11-26T04:40:49+00:00"
-fetched_at_utc: "2026-11-26T09:23:14.497611+00:00"
+fetched_at_utc: "2026-11-27T09:36:34.489054+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/932227907_122206950572771552_7695191381742547769_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Qu9XmcQjTWcQ7kNvwEbkYbL&_nc_oc=AdrIG1jzNYpfe6kFV5H1X7YaOjwpy0of2OAVjQANYBLK4gw5bXcvdE3tXT1MDiID1TY&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=yuhqdscu49yVRZMIZ2xPpg&_nc_ss=7932e&oh=00_AQR2LQwqW-48jjSqHDP_GzYo1JRd0Pj35Oyd9bVxjerUAA&oe=6B0DB3B1"
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwMlVmSko5QXNZejZyckI3VkFyYjlrYndMaU5YekJUUkRLYlBQRDVjM3hhSDl1ZDFMUWF3ZnY4bXdBMXYzekM2MlZs"
+image_url: "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/932227907_122206950572771552_7695191381742547769_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Qu9XmcQjTWcQ7kNvwHiLHbU&_nc_oc=AdrTCcukd8n45qjzEiQ4ajqRkHTza5OAF8RED68RW5IyPb4LJI17QuJHh6i4ceSj64Y&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-KLbynROaPQVwgn5ILUyEw&_nc_ss=7932e&oh=00_AQWZ9nwCEycyox1dFZptEsigLfh3a1Xr0icuhq05FO-VTA&oe=6B0F3D71"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwUWRoYWZNZnpKd25lNUx5bllZd3cyUXlXaWNhZDJjdkxXb3NCTHNFUTM1SDdiV3IyY2JTekVGc3R1VXNNZzRnSGw="
 page_canonical_url: ""
 ---
 
 # 兩日前，黃仁勳回到了 NVIDIA 的 Santa Clara 總部，召開了他離開 11 天後的第一場全員大會。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02UfJJ9AsYz6rrB7VArb9kbwLiNXzBTRDKbPPD5c3xaH9ud1LQawfv8mwA1v3zC62Vl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0QdhafMfzJwne5LynYYww2QyWicad2cvLWosBLsEQ35H7bWr2cbSzEFstuUsMg4gHl&id=61573146584049
 
-![兩日前，黃仁勳回到了 NVIDIA 的 Santa Clara 總部，召開了他離開 11 天後的第一場全員大會。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/932227907_122206950572771552_7695191381742547769_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Qu9XmcQjTWcQ7kNvwEbkYbL&_nc_oc=AdrIG1jzNYpfe6kFV5H1X7YaOjwpy0of2OAVjQANYBLK4gw5bXcvdE3tXT1MDiID1TY&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=yuhqdscu49yVRZMIZ2xPpg&_nc_ss=7932e&oh=00_AQR2LQwqW-48jjSqHDP_GzYo1JRd0Pj35Oyd9bVxjerUAA&oe=6B0DB3B1)
+![兩日前，黃仁勳回到了 NVIDIA 的 Santa Clara 總部，召開了他離開 11 天後的第一場全員大會。](https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/932227907_122206950572771552_7695191381742547769_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Qu9XmcQjTWcQ7kNvwHiLHbU&_nc_oc=AdrTCcukd8n45qjzEiQ4ajqRkHTza5OAF8RED68RW5IyPb4LJI17QuJHh6i4ceSj64Y&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-KLbynROaPQVwgn5ILUyEw&_nc_ss=7932e&oh=00_AQWZ9nwCEycyox1dFZptEsigLfh3a1Xr0icuhq05FO-VTA&oe=6B0F3D71)
 兩日前，黃仁勳回到了 NVIDIA 的 Santa Clara 總部，召開了他離開 11 天後的第一場全員大會。
 ​
 他在台上說：「這是我做過最難的一場公司會議，第二難的會議是跟我太太談的那場。」

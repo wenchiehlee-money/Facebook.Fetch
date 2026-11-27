@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/yutinghaosfinance",
   "final_url": "https://www.facebook.com/yutinghaosfinance",
-  "fetched_at_utc": "2026-11-26T09:22:48.442524+00:00",
+  "fetched_at_utc": "2026-11-27T09:36:10.730679+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 1,
   "new_post_ids": [
-    "1221404157117602",
-    "1221402243784460",
-    "1221400780451273"
+    "2411877616335633"
   ],
   "new_markdown_files": [
-    "data/游庭皓的財經皓角/2026-11-26_歐洲新鐵幕正在形成愛沙尼亞宣布關閉俄羅斯邊境至少半年莫斯科警告將採取反制措施.md",
-    "data/游庭皓的財經皓角/2026-11-26_隨著美國政府收緊先進AI晶片出口管制亞洲資料中心正面臨中國客戶流失算力供給過剩的問題業者開始積極尋找美國及西歐客戶承接閒置產能.md",
-    "data/游庭皓的財經皓角/2026-11-26_AI晶片管制延燒金融業全球銀行全面清查亞洲資料中心貸款花旗渣打星展華僑銀行及大華銀行等金融機構已開始全面審查亞洲資料中心客戶要求業者揭露晶片與算力的最終使用者並.md"
+    "data/游庭皓的財經皓角/2026-11-27_20261127五外資大賣3.4兆選後大盤-還護得住嗎-華爾街多空論戰-抄底還是逃命早晨財經速解讀開盤前30分鐘0830---0900-讓我們一起解讀財經時事.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/游庭皓的財經皓角",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-11-26T09:23:10.981848+00:00",
+  "fetched_at_utc": "2026-11-27T09:36:31.242373+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1586992030141395",
-    "1586670273506904",
-    "1586636106843654"
+    "1588213000019298",
+    "1588161840024414",
+    "1588128833361048"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-11-26_SP-500連續四週漲跌幅度超過2.52017年以來只有20202022跌幅超過20的熊市才呈現如此的特徵.md",
-    "data/美股探路客/2026-11-25_7200阻力很大要看多頭有多大的力道.md",
-    "data/美股探路客/2026-11-25_不少SPYSP-500期貨的垂直價差看跌期權在低點平倉這時不交易的話什麼時候才要交易閉著眼睛買進看漲期權吧準備過節了.md"
+    "data/美股探路客/2026-11-27_AI間諜門之感恩節花車大遊行主角AliceJensenElonDonald.md",
+    "data/美股探路客/2026-11-27_谷歌直接教用戶蒸餾他們家的模型雖然目前侷限於較舊的模型但隨著模型能力越來越強可蒸餾的模型也會越先進.md",
+    "data/美股探路客/2026-11-27_Spotgamma認為理想情況SP-500指數有機會在FOMC前漲到7600點後橫盤震盪等待Fed利率決議.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

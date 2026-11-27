@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-11-26T09:23:31.157199+00:00",
+  "fetched_at_utc": "2026-11-27T09:36:52.515354+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1676924250458863",
-    "1676803743804247",
-    "1676775790473709"
+    "1677812207036734",
+    "1677682533716368",
+    "1677079113776710"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-11-26_東南亞算力轉運站的生意做不下去了.md",
-    "data/IEObserve 國際經濟觀察/2026-11-26_美國最新301調查擬議關稅出爐台灣獲最低級別對台課15不疊加.md",
-    "data/IEObserve 國際經濟觀察/2026-11-26_這種猴市可以把多軍跟空軍都洗出一層皮來.md"
+    "data/IEObserve 國際經濟觀察/2026-11-27_就不信你能查到祖宗十八代.md",
+    "data/IEObserve 國際經濟觀察/2026-11-26_AI-token價格越低用量越大總支出上升.md",
+    "data/IEObserve 國際經濟觀察/2026-11-26_老馬送股票給美國小孩之餘還強調SpaceX的潛力是全球經濟的百萬倍馬投顧建議大家不要賣.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

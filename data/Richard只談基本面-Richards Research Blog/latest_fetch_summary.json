@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=100054201473657",
   "final_url": "https://www.facebook.com/profile.php?id=100054201473657",
-  "fetched_at_utc": "2026-11-26T09:23:27.028924+00:00",
+  "fetched_at_utc": "2026-11-27T09:36:48.409050+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,10 +12,10 @@
   "checked_post_count": 1,
   "new_post_count": 1,
   "new_post_ids": [
-    "1681094340373932"
+    "1681918886958144"
   ],
   "new_markdown_files": [
-    "data/Richard只談基本面-Richards Research Blog/2026-11-25_DRAM產值-2026-345-2027產值下調到-69-持續供不應求但漲幅逐季縮減到2H27供需平衡.md"
+    "data/Richard只談基本面-Richards Research Blog/2026-11-26_有關舊型GPU到底能使用多久Burry先生這派數年前就主張GPU一兩年更新一次新款GPU比前款強數倍到數十倍沒人會再買舊款因GPU兩年淘汰歸零各CSP認五年折舊.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/Richard只談基本面-Richards Research Blog",

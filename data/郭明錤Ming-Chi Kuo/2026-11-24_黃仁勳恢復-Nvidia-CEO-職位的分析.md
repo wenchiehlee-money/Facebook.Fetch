@@ -4,20 +4,20 @@ title: "黃仁勳恢復 Nvidia CEO 職位的分析："
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573992511738"
 final_url: "https://www.facebook.com/profile.php?id=61573992511738"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0CzTHM2WNN1Fu9uEjMyXLKiDwM9Fwkr8eMajoRi8B2T79sgJWQHxCmkryymX8SJ8bl&id=61573992511738"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02GMwTy3rzPdv4L2d2bXEJXv7RSYia2RQ1NL6BckzgsWqJ2ukmsZRGt59d2nLvQg5kl&id=61573992511738"
 creation_time_utc: "2026-11-24T02:04:47+00:00"
-fetched_at_utc: "2026-11-26T09:23:50.709143+00:00"
+fetched_at_utc: "2026-11-27T09:37:09.731321+00:00"
 source: "public_graphql"
 attachment_type: ""
 attachment_url: ""
 image_url: ""
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwQ3pUSE0yV05OMUZ1OXVFak15WExLaUR3TTlGd2tyOGVNYWpvUmk4QjJUNzlzZ0pXUUh4Q21rcnl5bVg4U0o4Ymw="
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwMkdNd1R5M3J6UGR2NEwyZDJiWEVKWHY3UlNZaWEyUlExTkw2QmNremdzV3FKMnVrbXNaUkd0NTlkMm5MdlFnNWts"
 page_canonical_url: ""
 ---
 
 # 黃仁勳恢復 Nvidia CEO 職位的分析：
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0CzTHM2WNN1Fu9uEjMyXLKiDwM9Fwkr8eMajoRi8B2T79sgJWQHxCmkryymX8SJ8bl&id=61573992511738
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02GMwTy3rzPdv4L2d2bXEJXv7RSYia2RQ1NL6BckzgsWqJ2ukmsZRGt59d2nLvQg5kl&id=61573992511738
 黃仁勳恢復 Nvidia CEO 職位的分析：
 
 1. 被移除的不確定性：

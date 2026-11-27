@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61573992511738",
   "final_url": "https://www.facebook.com/profile.php?id=61573992511738",
-  "fetched_at_utc": "2026-11-26T09:23:50.709143+00:00",
+  "fetched_at_utc": "2026-11-27T09:37:09.731321+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,13 +10,9 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
-  "new_post_ids": [
-    "122202135530799750"
-  ],
-  "new_markdown_files": [
-    "data/郭明錤Ming-Chi Kuo/2026-11-25_AI-晶片GPU--TPU的出貨受數種因素限制但是如果只用基礎建設的電力供應和晶片最大功耗TDP這兩個因素來判斷出貨量不但過度簡化也忽略了實務上的運作方式原因如.md"
-  ],
+  "new_post_count": 0,
+  "new_post_ids": [],
+  "new_markdown_files": [],
   "removed_markdown_files": [],
   "posts_directory": "data/郭明錤Ming-Chi Kuo",
   "notes": [

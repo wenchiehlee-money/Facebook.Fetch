@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-11-26T09:23:35.250202+00:00",
+  "fetched_at_utc": "2026-11-27T09:36:55.717133+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,14 +10,12 @@
     "follower_count": null
   },
   "checked_post_count": 2,
-  "new_post_count": 2,
+  "new_post_count": 1,
   "new_post_ids": [
-    "122239451840502956",
-    "122239448894502956"
+    "122239466708502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-11-26_馬斯克美國每名兒童都將獲得兩股SpaceX股票一股來自公司一股來自我本人.md",
-    "data/吉米投資理財補給站 Ver2.0/2026-11-26_淡水老街財神爺的化身.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-11-26_CPO-光學革命倒數計時2030-年市場規模上看-250-億美元.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",

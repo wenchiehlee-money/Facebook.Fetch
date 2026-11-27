@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/MarketingDataScienceTMR",
   "final_url": "https://www.facebook.com/MarketingDataScienceTMR",
-  "fetched_at_utc": "2026-11-26T09:22:52.741932+00:00",
+  "fetched_at_utc": "2026-11-27T09:36:14.848715+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,12 +10,16 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 1,
+  "new_post_count": 3,
   "new_post_ids": [
-    "1449491983961109"
+    "1451603723749935",
+    "1450738100503164",
+    "1450546263855681"
   ],
   "new_markdown_files": [
-    "data/行銷資料科學/2026-11-25_別再幫-AI-打工用-Codex-的-5-個方法.md"
+    "data/行銷資料科學/2026-11-27_AI週報Google-奪回-AI-第一AI-竟能創造世界自己操作電腦.md",
+    "data/行銷資料科學/2026-11-26_黃仁勳回來了但是NVIDIA卻在短短11天發生的巨大的改變.md",
+    "data/行銷資料科學/2026-11-26_3-步驟直接帶走別人的-AI-技能.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/行銷資料科學",
