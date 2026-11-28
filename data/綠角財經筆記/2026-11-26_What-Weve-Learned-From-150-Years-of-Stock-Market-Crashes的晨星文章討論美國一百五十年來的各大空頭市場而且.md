@@ -4,22 +4,22 @@ title: "\"What We’ve Learned From 150 Years of Stock Market Crashes\"的晨星
 page_title: ""
 requested_url: "https://www.facebook.com/GreenHornFans"
 final_url: "https://www.facebook.com/GreenHornFans"
-post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid0CS8PUGkBQVu4Twt3MTSEpTkQWtUv2taCbXDjf1qvJo6BrgB2f4i6roDoVJrm8487l"
+post_url: "https://www.facebook.com/GreenHornFans/posts/pfbid02Foca6J6oS9bgxSEGeT3F2fPNNx6fNXcQHixyhyvQjvPjPFPAvaKYGZSmJmjxpGMNl"
 creation_time_utc: "2026-11-26T02:56:48+00:00"
-fetched_at_utc: "2026-11-27T09:36:22.977721+00:00"
+fetched_at_utc: "2026-11-28T08:50:40.354349+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/931942714_1573908441209217_2011566456361376687_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EKIjIUdnCb0Q7kNvwGmD-X5&_nc_oc=AdoLw-Yfe3QJ3IfMTcpXkB8ODKX0j3TOFW4_EEH4Qq7ft6zyakyaGOUw6w_ZgoqnpSQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=tGIvQ8YyVjkThbjSbf_B0Q&_nc_ss=7932e&oh=00_AQXrnsYmVKNw0bT9oe3p8SHUEg6yfrUejzZkHbGRlsJ5FQ&oe=6B0F1CFA"
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwQ1M4UFVHa0JRVnU0VHd0M01UU0VwVGtRV3RVdjJ0YUNiWERqZjFxdkpvNkJyZ0IyZjRpNnJvRG9WSnJtODQ4N2w="
+image_url: "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/931942714_1573908441209217_2011566456361376687_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uO-U11LoGusQ7kNvwESt-8e&_nc_oc=AdriQswy3hGiqD6Wr0TitOixLqsaJkPmuQZNjROGJkKsNR5ZsRLP5m5QSPd7D1n3UkM&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=qjwlVLUrhjN3eRpnv5GIPg&_nc_ss=7932e&oh=00_AQWwVX9PgUdKB0iPrkD_mmyk4jLUpjxyVdz5_qrzlXH7Jg&oe=6B106E7A"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwMkZvY2E2SjZvUzliZ3hTRUdlVDNGMmZQTk54NmZOWGNRSGl4eWh5dlFqdlBqUEZQQXZhS1lHWlNtSm1qeHBHTU5s"
 page_canonical_url: ""
 ---
 
 # "What We’ve Learned From 150 Years of Stock Market Crashes"的晨星文章，討論美國一百五十年來的各大空頭市場，而且提出一個很好的熊市嚴重度的衡量標準。
 
-原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid0CS8PUGkBQVu4Twt3MTSEpTkQWtUv2taCbXDjf1qvJo6BrgB2f4i6roDoVJrm8487l
+原文連結: https://www.facebook.com/GreenHornFans/posts/pfbid02Foca6J6oS9bgxSEGeT3F2fPNNx6fNXcQHixyhyvQjvPjPFPAvaKYGZSmJmjxpGMNl
 
-!["What We’ve Learned From 150 Years of Stock Market Crashes"的晨星文章，討論美國一百五十年來的各大空頭市場，而且提出一個很好的熊市嚴重度的衡量標準。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/931942714_1573908441209217_2011566456361376687_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EKIjIUdnCb0Q7kNvwGmD-X5&_nc_oc=AdoLw-Yfe3QJ3IfMTcpXkB8ODKX0j3TOFW4_EEH4Qq7ft6zyakyaGOUw6w_ZgoqnpSQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=tGIvQ8YyVjkThbjSbf_B0Q&_nc_ss=7932e&oh=00_AQXrnsYmVKNw0bT9oe3p8SHUEg6yfrUejzZkHbGRlsJ5FQ&oe=6B0F1CFA)
+!["What We’ve Learned From 150 Years of Stock Market Crashes"的晨星文章，討論美國一百五十年來的各大空頭市場，而且提出一個很好的熊市嚴重度的衡量標準。](https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/931942714_1573908441209217_2011566456361376687_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uO-U11LoGusQ7kNvwESt-8e&_nc_oc=AdriQswy3hGiqD6Wr0TitOixLqsaJkPmuQZNjROGJkKsNR5ZsRLP5m5QSPd7D1n3UkM&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=qjwlVLUrhjN3eRpnv5GIPg&_nc_ss=7932e&oh=00_AQWwVX9PgUdKB0iPrkD_mmyk4jLUpjxyVdz5_qrzlXH7Jg&oe=6B106E7A)
 "What We’ve Learned From 150 Years of Stock Market Crashes"的晨星文章，討論美國一百五十年來的各大空頭市場，而且提出一個很好的熊市嚴重度的衡量標準。
 
 文章一開始有這張圖，檢視美國21世紀以來的幾次空頭。

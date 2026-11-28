@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/intleconobserve",
   "final_url": "https://www.facebook.com/intleconobserve",
-  "fetched_at_utc": "2026-11-27T09:36:52.515354+00:00",
+  "fetched_at_utc": "2026-11-28T08:51:02.928948+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1677812207036734",
-    "1677682533716368",
-    "1677079113776710"
+    "1679132870238001",
+    "1678897236928231",
+    "1678273060323982"
   ],
   "new_markdown_files": [
-    "data/IEObserve 國際經濟觀察/2026-11-27_就不信你能查到祖宗十八代.md",
-    "data/IEObserve 國際經濟觀察/2026-11-26_AI-token價格越低用量越大總支出上升.md",
-    "data/IEObserve 國際經濟觀察/2026-11-26_老馬送股票給美國小孩之餘還強調SpaceX的潛力是全球經濟的百萬倍馬投顧建議大家不要賣.md"
+    "data/IEObserve 國際經濟觀察/2026-11-28_老馬其實自己也是neocloud其他neocloud如果因為融資問題掛點對他是非常有利.md",
+    "data/IEObserve 國際經濟觀察/2026-11-28_大家有感覺到我們已經身在奇點之中了嗎.md",
+    "data/IEObserve 國際經濟觀察/2026-11-27_各路空頭是不是開始力竭被軋了.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/IEObserve 國際經濟觀察",

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/stocksardine",
   "final_url": "https://www.facebook.com/stocksardine",
-  "fetched_at_utc": "2026-11-27T09:36:28.530881+00:00",
+  "fetched_at_utc": "2026-11-28T08:50:43.816578+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,9 +10,13 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 0,
-  "new_post_ids": [],
-  "new_markdown_files": [],
+  "new_post_count": 1,
+  "new_post_ids": [
+    "1624913676341382"
+  ],
+  "new_markdown_files": [
+    "data/股魚/2026-11-28_投完神聖的一票下週股市不確定因素便少一項大家都要出門投票表達意見喔.md"
+  ],
   "removed_markdown_files": [],
   "posts_directory": "data/股魚",
   "notes": [

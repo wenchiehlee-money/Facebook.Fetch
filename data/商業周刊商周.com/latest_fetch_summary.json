@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/bwnet.fans",
   "final_url": "https://www.facebook.com/bwnet.fans",
-  "fetched_at_utc": "2026-11-27T09:37:27.742770+00:00",
+  "fetched_at_utc": "2026-11-28T08:51:31.021039+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "1587322686763275",
-    "1587230340105843",
-    "1587185883443622"
+    "1588207250008152",
+    "1587478013414409",
+    "1587421046753439"
   ],
   "new_markdown_files": [
-    "data/商業周刊商周.com/2026-11-27_巴菲特IQ-只是入場券真正決定財富累積的是個性.md",
-    "data/商業周刊商周.com/2026-11-27_1128投票出門前先確認這幾件事.md",
-    "data/商業周刊商周.com/2026-11-27_從美國海軍的一項研發任務到打造躋身全球前13大的直銷企業美商萊威LifeWave創辦人David-Schmidt如何將發明家的創新思維轉化為企業成長的動力.md"
+    "data/商業周刊商周.com/2026-11-28_我又不是有錢人有什麼財產好規劃.md",
+    "data/商業周刊商周.com/2026-11-27_為實踐AI-First-全域布局戰略和泰集團把營運第一線的真實痛點搬上黑客松舞台要讓服務從被動回應進化為主動預測透過歷時近半年的實戰學習與跨世代創意激盪2026.md",
+    "data/商業周刊商周.com/2026-11-27_黃仁勳風暴背後竟是美國全球追殺中國算力大追捕行動獨家解碼台灣也參與的灰色產業鏈懂商業看商周Ep.175.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/商業周刊商周.com",

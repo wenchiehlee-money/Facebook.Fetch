@@ -4,22 +4,22 @@ title: "CNBC 報導，GPU 二手交易平台上突然出現大量待售的 NVIDI
 page_title: ""
 requested_url: "https://www.facebook.com/profile.php?id=61573146584049"
 final_url: "https://www.facebook.com/profile.php?id=61573146584049"
-post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid0RaCLgVHXZuGvACZyPkyzSprKzaGxZrsuRZTnEieDeG4MGafFAtTESU4CNUQFa2DRl&id=61573146584049"
+post_url: "https://www.facebook.com/permalink.php?story_fbid=pfbid02UwgXJWe9bWf8FjYaZLqgSBWeQ9qDsDgs8BYAwXr2A2afgg65c1zxjb49Gv3Yi6Wkl&id=61573146584049"
 creation_time_utc: "2026-11-26T10:47:33+00:00"
-fetched_at_utc: "2026-11-27T09:36:34.489054+00:00"
+fetched_at_utc: "2026-11-28T08:50:50.333705+00:00"
 source: "public_graphql"
 attachment_type: "Photo"
 attachment_url: ""
-image_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/928715029_122206979174771552_8581594217789689221_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lhMF6YvFOfkQ7kNvwG6oqF1&_nc_oc=Adq_-pmp5mo-CYI-55Ekk8E2UToKTXz3NNlurBscbu7-eY3yPqMAuDuLU_TT4p60_cM&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=-KLbynROaPQVwgn5ILUyEw&_nc_ss=7932e&oh=00_AQUeqjY7EKaivZtCVrHW0Ke_zVxVE8SEYaNlaxo6ua-fjQ&oe=6B0F0BC2"
-feedback_id: "ZmVlZGJhY2s6cGZiaWQwUmFDTGdWSFhadUd2QUNaeVBreXpTcHJLemFHeFpyc3VSWlRuRWllRGVHNE1HYWZGQXRURVNVNENOVVFGYTJEUmw="
+image_url: "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/928715029_122206979174771552_8581594217789689221_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rscKJTtzps4Q7kNvwGgXUdU&_nc_oc=AdoYAAdaBivhOFOC_yvIAmUaOj54_pdCWMY9mX-pV2VsPQuDcJ_-5FV9Ib05VMimQ30&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=jJ_n0QuerPLzwGqdK-GiCw&_nc_ss=7932e&oh=00_AQUUgdOljaWeT5nDK77HIzrfnhhNx_GVkacO6MJ1ovg0gg&oe=6B105D42"
+feedback_id: "ZmVlZGJhY2s6cGZiaWQwMlV3Z1hKV2U5YldmOEZqWWFaTHFnU0JXZVE5cURzRGdzOEJZQXdYcjJBMmFmZ2c2NWMxenhqYjQ5R3YzWWk2V2ts"
 page_canonical_url: ""
 ---
 
 # CNBC 報導，GPU 二手交易平台上突然出現大量待售的 NVIDIA 晶片，連數千張最先進的 B300 都在找買家。
 
-原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid0RaCLgVHXZuGvACZyPkyzSprKzaGxZrsuRZTnEieDeG4MGafFAtTESU4CNUQFa2DRl&id=61573146584049
+原文連結: https://www.facebook.com/permalink.php?story_fbid=pfbid02UwgXJWe9bWf8FjYaZLqgSBWeQ9qDsDgs8BYAwXr2A2afgg65c1zxjb49Gv3Yi6Wkl&id=61573146584049
 
-![CNBC 報導，GPU 二手交易平台上突然出現大量待售的 NVIDIA 晶片，連數千張最先進的 B300 都在找買家。](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/928715029_122206979174771552_8581594217789689221_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lhMF6YvFOfkQ7kNvwG6oqF1&_nc_oc=Adq_-pmp5mo-CYI-55Ekk8E2UToKTXz3NNlurBscbu7-eY3yPqMAuDuLU_TT4p60_cM&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=-KLbynROaPQVwgn5ILUyEw&_nc_ss=7932e&oh=00_AQUeqjY7EKaivZtCVrHW0Ke_zVxVE8SEYaNlaxo6ua-fjQ&oe=6B0F0BC2)
+![CNBC 報導，GPU 二手交易平台上突然出現大量待售的 NVIDIA 晶片，連數千張最先進的 B300 都在找買家。](https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/928715029_122206979174771552_8581594217789689221_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rscKJTtzps4Q7kNvwGgXUdU&_nc_oc=AdoYAAdaBivhOFOC_yvIAmUaOj54_pdCWMY9mX-pV2VsPQuDcJ_-5FV9Ib05VMimQ30&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=jJ_n0QuerPLzwGqdK-GiCw&_nc_ss=7932e&oh=00_AQUUgdOljaWeT5nDK77HIzrfnhhNx_GVkacO6MJ1ovg0gg&oe=6B105D42)
 CNBC 報導，GPU 二手交易平台上突然出現大量待售的 NVIDIA 晶片，連數千張最先進的 B300 都在找買家。
 ​
 一星期前，NVIDIA 代理執行長 Kress 才在財報電話會議上告訴分析師：美國剛發布新的出口管制，但「需求遠大於供給，我們預期表現依然強勁」。

@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/raikk6",
   "final_url": "https://www.facebook.com/raikk6",
-  "fetched_at_utc": "2026-11-27T09:36:31.242373+00:00",
+  "fetched_at_utc": "2026-11-28T08:50:47.033281+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -10,16 +10,14 @@
     "follower_count": null
   },
   "checked_post_count": 3,
-  "new_post_count": 3,
+  "new_post_count": 2,
   "new_post_ids": [
-    "1588213000019298",
-    "1588161840024414",
-    "1588128833361048"
+    "1589339856573279",
+    "1589298599910738"
   ],
   "new_markdown_files": [
-    "data/美股探路客/2026-11-27_AI間諜門之感恩節花車大遊行主角AliceJensenElonDonald.md",
-    "data/美股探路客/2026-11-27_谷歌直接教用戶蒸餾他們家的模型雖然目前侷限於較舊的模型但隨著模型能力越來越強可蒸餾的模型也會越先進.md",
-    "data/美股探路客/2026-11-27_Spotgamma認為理想情況SP-500指數有機會在FOMC前漲到7600點後橫盤震盪等待Fed利率決議.md"
+    "data/美股探路客/2026-11-28_感恩節假期提振一下樂觀情緒1950年以來美股1011月均下跌共發生8次8次12月都上漲.md",
+    "data/美股探路客/2026-11-28_SPY本次回檔在黃金分割比例Fibonacci-0.382見到支撐昨天站回黃金比例0.618-下週挑戰關鍵的200日均線.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股探路客",

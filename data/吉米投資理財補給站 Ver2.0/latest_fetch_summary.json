@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61565088683715",
   "final_url": "https://www.facebook.com/profile.php?id=61565088683715",
-  "fetched_at_utc": "2026-11-27T09:36:55.717133+00:00",
+  "fetched_at_utc": "2026-11-28T08:51:05.473843+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -9,13 +9,17 @@
     "image": null,
     "follower_count": null
   },
-  "checked_post_count": 2,
-  "new_post_count": 1,
+  "checked_post_count": 3,
+  "new_post_count": 3,
   "new_post_ids": [
-    "122239466708502956"
+    "122239688678502956",
+    "122239684268502956",
+    "122239612940502956"
   ],
   "new_markdown_files": [
-    "data/吉米投資理財補給站 Ver2.0/2026-11-26_CPO-光學革命倒數計時2030-年市場規模上看-250-億美元.md"
+    "data/吉米投資理財補給站 Ver2.0/2026-11-28_再玩2x3x-阿.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-11-28_絕大多數新型雲端服務商將會破產只有少數幾家會成為下一代超大規模資料中心營運商.md",
+    "data/吉米投資理財補給站 Ver2.0/2026-11-27_比爾蓋茲警告AI-不只會改變世界也可能讓全球網路安全進入一場惡夢.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/吉米投資理財補給站 Ver2.0",
@@ -24,7 +28,6 @@
     "本次已成功用公開 GraphQL 擷取到 3 篇貼文。",
     "目前腳本會優先使用公開 GraphQL timeline query；失敗時才退回 HTML 解析。",
     "如果公開查詢被 Facebook 調整或限制，可以改用登入後 Cookie 再抓一次。",
-    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。",
-    "已依中文至少 10 字規則排除 1 篇貼文。"
+    "既有文章會依最新解析結果重寫，並且會移除中文少於 80 字的貼文。"
   ]
 }

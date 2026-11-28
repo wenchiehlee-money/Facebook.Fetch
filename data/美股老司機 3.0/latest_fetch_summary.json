@@ -1,7 +1,7 @@
 {
   "requested_url": "https://www.facebook.com/profile.php?id=61564607679559",
   "final_url": "https://www.facebook.com/profile.php?id=61564607679559",
-  "fetched_at_utc": "2026-11-27T09:36:58.669224+00:00",
+  "fetched_at_utc": "2026-11-28T08:51:07.883027+00:00",
   "page": {
     "title": null,
     "description": null,
@@ -12,14 +12,14 @@
   "checked_post_count": 3,
   "new_post_count": 3,
   "new_post_ids": [
-    "122212197056486922",
-    "122212195970486922",
-    "122212192802486922"
+    "122212342424486922",
+    "122212304750486922",
+    "122212300700486922"
   ],
   "new_markdown_files": [
-    "data/美股老司機 3.0/2026-11-27_標普-500-指數在美國總統四年週期下的歷史季節性週期走勢模型.md",
-    "data/美股老司機 3.0/2026-11-27_高盛的鬼故事又來了-...md",
-    "data/美股老司機 3.0/2026-11-27_歷史小故事.md"
+    "data/美股老司機 3.0/2026-11-28_蛛絲馬跡.md",
+    "data/美股老司機 3.0/2026-11-28_蛛絲馬跡_122212304750486922.md",
+    "data/美股老司機 3.0/2026-11-28_Situational-Awareness-LP-剛發了-2026-年第三季投資人信.md"
   ],
   "removed_markdown_files": [],
   "posts_directory": "data/美股老司機 3.0",
